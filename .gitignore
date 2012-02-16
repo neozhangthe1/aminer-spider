@@ -1,0 +1,8 @@
+*~
+log/
+.*
+output/
+*pyc
+src/paper_link.txt
+src/web_url.txt
+src/resource/proxies.txt

@@ -1,0 +1,8 @@
+ArnetRunner Platform v0.0.1
+------------------------------
+
+2010-11-06: A new PaperTitle Match with AuthorMatch.
+2010-11-06: Fix PDFLink regex bug
+2010-11-02: A new Loose AuthorMatch
+
+2010-04-23: 搞定了NameDisambiguation中用Google判断两个title是否在用一个个人主页的方法重名排歧的方法。
