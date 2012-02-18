@@ -243,7 +243,7 @@ class Store:
 		if pub is not None:
 			if pub.id in self.pubmap:		# if exist in allidset
 				del self.pubmap[pub.id]	# 	remove from queue
-				print "[store](line 172):delete pub(%s) from pubmap, now length %s " % (pub.id, len(self.pubmap))
+				print "[store](putToPubCache):delete pub(%s) from pubmap, now length %s " % (pub.id, len(self.pubmap))
 			self.pub_db_cache[pub.id] = pub		# add to dbcache.
 
 
