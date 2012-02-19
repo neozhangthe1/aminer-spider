@@ -110,8 +110,8 @@ class Store:
 				for personId in person_invalid:
 					for pubId in self.person_pub_map[personId]:
 						if pubId in self.pubmap:
+							print "[store](getFromPubQueue):delete pub(%s,[%s]) from pubmap, cause person(%s) " % (pubId, self.pubmap[pubId].ncitation, personId)
 							del self.pubmap[pubId]
-							print "[store](getFromPubQueue):delete pub(%s) from pubmap, cause person(%s) " % (pubId, personId)
 							
 					del self.person_pub_map[personId]
 					print "[store](getFromPubQueue):delete person(%s) from person_pub_map, now length %s " % (personId, len(self.person_pub_map))
@@ -125,7 +125,7 @@ class Store:
 				query, used_pubs, nouse_pubs = Extractor.pinMaxQuery(pub_candidates[:1])
 				for pub in used_pubs:
 					del self.pubmap[pub.id] # delete pub.
-					print "[store](getFromPubQueue):delete pub(%s) from pubmap, now length %s " % (pub.id, len(self.pubmap))
+					print "[store](getFromPubQueue):delete pub(%s, [%s]) from pubmap, now length %s " % (pub.id, pub.ncitation, len(self.pubmap))
 					
 				# Save nouse_pubs to dbcache, waiting to write to db.
 				nouse_pubs += pub_candidates[1:]
