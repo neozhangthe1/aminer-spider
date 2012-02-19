@@ -227,10 +227,10 @@ class Store:
 			if pub is not None and pub.id not in self.pubmap:
 				with self.pub_lock:
 					self.pubmap[pub.id] = pub
-					print "[store](function:puttopubcache):add pub(%s) to pubmap, now length %s, with person(%s)" % (pub.id, len(self.pubmap), person.id)
+					print "[store](putToPubCache):add pub(%s, [%s]) to pubmap, now length %s, with person(%s)" % (pub.id, pub.ncitation, len(self.pubmap), person.id)
 					if person.id not in self.person_pub_map:
 						self.person_pub_map[person.id] = []
-						print "[store](function:puttopubcache):add person(%s) to person_pub_map, now length %s " % (person.id, len(self.person_pub_map))
+						print "[store](putToPubCache):add person(%s) to person_pub_map, now length %s " % (person.id, len(self.person_pub_map))
 					person_pub_list = self.person_pub_map[person.id]
 					person_pub_list.append(pub.id)
 		except Exception, e:
@@ -243,7 +243,7 @@ class Store:
 		if pub is not None:
 			if pub.id in self.pubmap:		# if exist in allidset
 				del self.pubmap[pub.id]	# 	remove from queue
-				print "[store](putToPubCache):delete pub(%s) from pubmap, now length %s " % (pub.id, len(self.pubmap))
+				print "[store](putToPubdbCache):delete pub(%s, [%s]) from pubmap, now length %s " % (pub.id, pub.ncitation, len(self.pubmap))
 			self.pub_db_cache[pub.id] = pub		# add to dbcache.
 
 
