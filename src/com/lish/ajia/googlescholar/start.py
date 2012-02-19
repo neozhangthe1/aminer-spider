@@ -49,7 +49,7 @@ class GoogleScholarExtractor:
 		self.PersonThreadActive = 0
 		self.PubThreadActive = 0
 
-		self.mgr_interval 		 = 10		# seconds
+		self.mgr_interval 		 = 2		# seconds
 		self.t_mgr 				 = None 	# MgrThread(self)	# management thread, create
 		self.t_provider 		 = None
 		self.person_thread_pool	 = []		#= Queue.Queue(maxsize=self.settings.max_person_thread)
