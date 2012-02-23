@@ -201,6 +201,7 @@ class PersonDao:
 		
 	def markPersonUpdateCitationFinished(self, personId, gen):
 		while True:
+			data = None
 			try:
 				conn = DB.pool().getConnection()
 				cursor = conn.cursor()
