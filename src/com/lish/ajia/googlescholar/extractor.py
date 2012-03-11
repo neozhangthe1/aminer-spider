@@ -15,7 +15,8 @@ from com.lish.ajia.googlescholar.pdfsaver import PDFLinkSaver
 from com.lish.pyutil.DataUtil import GoogleDataCleaner, URLCleaner
 
 class Extractor:
-	'''Extract google scholar information (now citation number).
+	'''
+	Extract google scholar information (now citation number).
 	'''
 	__instance = None
 
@@ -32,17 +33,23 @@ class Extractor:
 		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
 		if self.settings.save_pdflink:
 			self.pdfcache = PDFLinkSaver.getInstance()
+			
+		self.debug = True
+		self.str_blocks_spliter = '<div class=gs_r>'
+		self.title_url_block = re.compile('<h3 class="?gs_rt"?>.*?</h3>', re.I)
 
 	def extract_from_source(self, page_html):
-		'''Extract information from html, return ExtractedModel
-		@return: models - [models.ExtractedCitationModel]
+		'''
+		Extract information from html, return ExtractedModel
+		@return: 
+			models - [models.ExtractedCitationModel]
 		@param: 
 			page_html - str:html source of google scholar search result.
 		'''
 		blocks_html = self.__split_into_blocks(page_html)
 		
 		if(blocks_html is None):
-			print ">"*10 + "(block html is none)" + "<"*10 + "====================="
+			print ">"*10 + "(block html is none)" + "<"*10
 
 		models = []
 		for block in blocks_html:
@@ -53,8 +60,10 @@ class Extractor:
 
 
 	def getNodesByPersonName(self, names):
-		'''Get all models by searching use names, multipage
-		@return: all_models - {key_title:[ExtractedModel,...]}
+		'''
+		Get all models by searching use names, multipage
+		@return: 
+			all_models - {key_title:[ExtractedModel,...]}
 		@param: 
 			names - person name
 		'''
@@ -98,7 +107,6 @@ class Extractor:
 		if self.debug : print "{+A}[Total found %s items] '%s'" % (len(all_models), names)
 		return all_models
 
-	# for test?
 	def getNodesByPubs(self, pubs):
 		'''Get by pubs.
 		Return: 
@@ -132,39 +140,34 @@ class Extractor:
 		return ','.join([pat.sub('', author.strip()) for author in authors.split(',')])
 	
 	def __split_into_blocks(self, html):
-		'''Split google scholar result page html into blocks of each search result.'''
+		'''
+		Split google scholar result page html into blocks of each search result.
+		'''
 		if html is not None and len(html) > 0:
-#			blocks_html = re.findall(self.settings.re_extract_blocks, html)
-#			print self.settings.str_blocks_spliter
-			blocks_html = html.split(self.settings.str_blocks_spliter)
-			return blocks_html
+			return html.split(self.settings.str_blocks_spliter)
 
 	def __extract_googlescholar_result(self, block_html):
-		'''parse html_block into google scholar result model.'''
+		'''
+		parse html_block into google scholar result model.
+		'''
 		test_debug = False
-		if block_html is None or block_html == '': return None
-#		print '\n', block_html, '\n'
 		
-		test_re_gs_title = re.compile('<h3 class="?gs_rt"?><a href="?([^\s"]+)?"?[^>]+?>([^<>]+)(</a>)?</h3>', re.I)
+		if block_html is None or block_html == '': 
+			return None
+
+		test_re_gs_title = re.compile('<h3 class="?gs_rt"?>(<span.*</span>)?<a href="?([^\s"]+)?"?[^>]+?>([^<>]+)(</a>)?</h3>', re.I)
 		test_re_citedby = re.compile('<div class="?gs_fl"?>(<a[^>]+?>)?Cited by (\d+)(</a>)?', re.I)
 		test_re_pdflink = re.compile('<div class="?gs_ggs gs_fl"?><a href="?([^\s"]+)?"?[^>]+?><span class="?gs_ctg2"?>\[PDF\]</span>', re.I)
 		test_re_author = re.compile("<div class=gs_a>([^\\x00]+?) - ", re.I)
 		
-		# match title
-		matchs = re.findall(test_re_gs_title, block_html)
-#		print 'matches', len(matchs)
-		if len(matchs) == 0:
+		title_url_block = re.findall(self.title_url_block, block_html)
+		if title_url_block is not None and len(title_url_block) == 0:
 			return None
-#		print matchs
-#		raw_input()
-		url = matchs[0][0]
-		title = matchs[0][1]
+		(title, url) = self.get_title_and_url(title_url_block[0])
+		if not all((title, url)):
+			return
 
 		(readable_title, title_cleaned, has_dot) = GoogleDataCleaner.cleanGoogleTitle(title)
-
-		if self.debug and False:
-			print '>get:\t', (title, url)
-			print '>3titles: %s <to> %s <to> %s' % (title, readable_title, title_cleaned)
 
 		gs_result = models.ExtractedGoogleScholarResult()
 		gs_result.title = title
@@ -196,11 +199,9 @@ class Extractor:
 		# pdf link
 		if self.settings.save_pdflink:
 			link = re.findall(test_re_pdflink, block_html)
-#			print "pdf link: ", link
 			if link is not None and len(link) > 0:
 				gs_result.pdfLink = link
 				self.pdfcache.add(gs_result.readable_title, link)
-#		raw_input()
 		return gs_result
 
 	def __extract_googlescholar_result_back(self, block_html):
@@ -250,6 +251,7 @@ class Extractor:
 		return gs_result
 
 	# extract citations.
+	
 	def __getNodesByPersonAndPage(self, names, page):
 		'''get page# of person, put pubs who found citation into self.found
 		Return url, html
@@ -345,9 +347,19 @@ class Extractor:
 			return 0
 		return numpubs * 4 - 2
 
-
-	def test_pin_query(self):
-		pass
+	def get_title_and_url(self, head_block):
+		try:
+			soup = BeautifulSoup(head_block)
+			if soup.a is not None:
+				url = soup.a['href'].strip()
+				title = soup.a.string.strip()
+				return title, url
+			else:
+				title = re.sub('\[[a-zA-Z]*\]', '', soup.h3.get_text()).strip()
+				return title, ''
+		except:
+			print '[ERROR]Can not parse it using BeautifulSoup'
+			return (None, None)
 
 if __name__ == '__main__':
 	#test = Extractor()
