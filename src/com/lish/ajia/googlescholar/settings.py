@@ -21,7 +21,7 @@ class Settings():
 
 		self.byid = False
 		
-		self.max_person_thread = 10 
+		self.max_person_thread = 1
 		self.max_pub_thread = 10
 		
 		# db
