@@ -13,6 +13,7 @@ import os
 import re
 from com.lish.ajia.googlescholar.pdfsaver import PDFLinkSaver
 from com.lish.pyutil.DataUtil import GoogleDataCleaner, URLCleaner
+from bs4 import BeautifulSoup
 
 class Extractor:
 	'''Extract google scholar information (now citation number).
