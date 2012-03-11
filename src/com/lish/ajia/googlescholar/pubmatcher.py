@@ -247,7 +247,7 @@ class AuthorMatcher:
 	@return: True if 2 author string matched.  
 	'''
 	def __init__(self, debug=False, debug_title="---"):
-		self.authorStringBase = ''		# 'base' is ours.
+		self.authorStringBase = u''		# 'base' is ours.
 		self.authorStringToMatch = ''	# 'to match' is from google.
 		self.ignore_left = False	# for toMatch
 		self.ignore_right = False	# for toMatch
@@ -369,18 +369,19 @@ class AuthorMatcher:
 		if (not_matched + matched) / 4 >= not_matched:
 			loose_matched = True
 		
-		if loose_matched and verbose_output:
+		if loose_matched and not verbose_output:
 			verbose = []
-			verbose.append(' ------------Author Match True -------------------------------------')
-			verbose.append(' --TITLE: %s' % self.debug_title)
+			verbose.append(unicode(' ------------Author Match True -------------------------------------', 'utf-8'))
+			verbose.append(' --TITLE: %s' % self.debug_title )
 			verbose.append(' --AuthorMatcher--:base author:%s' % self.authorStringBase)
-			verbose.append(' --AuthorMatcher--:to Match au:%s' % self.authorStringToMatch)
-			verbose.append(' --AuthorMatcher--:baseFeature:%s' % ','.join(self.authorFeatureBase))
-			verbose.append(' --AuthorMatcher--:to Match fe:%s' % ','.join(self.authorFeatureToMatch))
-			verbose.append(' --AuthorMatcher--:matched %s, notMatched %s, total:%s, total base:%s' % \
-				(matched, not_matched, len(self.authorFeatureToMatch), total_authors))
-			verbose.append(' -------------------------------------------------------------------')
-			print '\n'.join(verbose)
+#			verbose.append(unicode(' --AuthorMatcher--:to Match au:%s' % self.authorStringToMatch, 'utf-8'))
+			verbose.append(unicode(' --AuthorMatcher--:baseFeature:%s' % ','.join(self.authorFeatureBase), 'utf-8'))
+			verbose.append(unicode(' --AuthorMatcher--:to Match fe:%s' % ','.join(self.authorFeatureToMatch), 'utf-8'))
+			verbose.append(unicode(' --AuthorMatcher--:matched %s, notMatched %s, total:%s, total base:%s' % \
+				(matched, not_matched, len(self.authorFeatureToMatch), total_authors), 'utf-8'))
+			verbose.append(unicode(' -------------------------------------------------------------------', 'utf-8'))
+			print verbose
+			print u'\n'.join(verbose)
 		
 		return loose_matched
 

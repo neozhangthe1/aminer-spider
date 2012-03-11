@@ -29,15 +29,22 @@ class Extractor:
 
 
 	def __init__(self):
+		self.debug = True
 		self.settings = Settings.getInstance()
-		self.debug = self.settings.debug
 		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
 		if self.settings.save_pdflink:
 			self.pdfcache = PDFLinkSaver.getInstance()
 			
-		self.debug = True
 		self.str_blocks_spliter = '<div class=gs_r>'
 		self.title_url_block = re.compile('<h3 class="?gs_rt"?>.*?</h3>', re.I)
+
+		self.citation_block = re.compile('<div class="?gs_fl"?>.*?</div>', re.I)
+		self.citation = re.compile('<div class="?gs_fl"?>(<a[^>]+?>)?Cited by (\d+)(</a>)?', re.I)
+
+		self.author_block = re.compile("<div class=gs_a>.*?</div>", re.I)
+		self.author = re.compile("<div class=gs_a>([^\\x00]+?) - ", re.I)
+
+		self.pdf_block = re.compile('<div class="?gs_ggs gs_fl"?><a href="?([^\s"]+)?"?[^>]+?><span class="?gs_ctg2"?>\[PDF\]</span>', re.I)
 
 	def extract_from_source(self, page_html):
 		'''
@@ -151,24 +158,16 @@ class Extractor:
 		'''
 		parse html_block into google scholar result model.
 		'''
-		test_debug = False
-		
 		if block_html is None or block_html == '': 
 			return None
 
-		test_re_gs_title = re.compile('<h3 class="?gs_rt"?>(<span.*</span>)?<a href="?([^\s"]+)?"?[^>]+?>([^<>]+)(</a>)?</h3>', re.I)
-		test_re_citedby = re.compile('<div class="?gs_fl"?>(<a[^>]+?>)?Cited by (\d+)(</a>)?', re.I)
-		test_re_pdflink = re.compile('<div class="?gs_ggs gs_fl"?><a href="?([^\s"]+)?"?[^>]+?><span class="?gs_ctg2"?>\[PDF\]</span>', re.I)
-		test_re_author = re.compile("<div class=gs_a>([^\\x00]+?) - ", re.I)
-		
 		title_url_block = re.findall(self.title_url_block, block_html)
 		if title_url_block is not None and len(title_url_block) == 0:
-			return None
-		(title, url) = self.get_title_and_url(title_url_block[0])
-		if not all((title, url)):
 			return
-
-		(readable_title, title_cleaned, has_dot) = GoogleDataCleaner.cleanGoogleTitle(title)
+		(title, url) = self.get_title_and_url(title_url_block[0])
+		if title is None or url is None:
+			return
+		(readable_title, title_cleaned, has_dot) = self.clean_google_title(title)
 
 		gs_result = models.ExtractedGoogleScholarResult()
 		gs_result.title = title
@@ -177,82 +176,27 @@ class Extractor:
 		gs_result.title_has_dot = has_dot
 		gs_result.web_url = str(url)
 
-		#citation
-		citation_match = re.findall(test_re_citedby, block_html)
-		if test_debug:
-			print 'citation match:', citation_match
-			
-		if len(citation_match) == 0:
-			gs_result.ncitation = 0
-		else:
-			gs_result.ncitation = int(citation_match[0][1])
-			
-		# author
-		authors = re.findall(test_re_author, block_html)
-		if authors is not None and len(authors) > 0:
-				gs_result.authors = self.__update_user_profile(authors[0].replace("&hellip;",''))
-				
-		if test_debug:
-			print 'block : ', block_html
-			print gs_result.authors
-			raw_input()
+		# get citation
+		citation_block = re.findall(self.citation_block, block_html)
+		if citation_block is not None and len(citation_block) > 0:
+			gs_result.ncitation = self.get_citation(citation_block[0])
+
+		# get authors
+		author_block = re.findall(self.author_block, block_html)
+		if author_block is not None and len(author_block) > 0:
+			authors = re.findall(self.author, author_block[0])
+			if authors is not None and len(authors) > 0:
+				gs_result.authors = self.clean_authors(authors[0].replace("&hellip;",''))
 		
 		# pdf link
 		if self.settings.save_pdflink:
-			link = re.findall(test_re_pdflink, block_html)
+			link = re.findall(self.pdf_block, block_html)
 			if link is not None and len(link) > 0:
 				gs_result.pdfLink = link
 				self.pdfcache.add(gs_result.readable_title, link)
+				
 		return gs_result
 
-	def __extract_googlescholar_result_back(self, block_html):
-		'''parse html_block into google scholar result model.'''
-		if block_html is None or block_html == '': return None
-		print '\n', block_html, '\n'
-		# match title
-		matchs = re.findall(self.settings.re_gs_title, block_html)
-		print 'matches', len(matchs)
-		if len(matchs) == 0:
-			return None
-		type = matchs[0][1]
-		url = matchs[0][3]
-		title = matchs[0][4]
-
-		(readable_title, title_cleaned, has_dot) = GoogleDataCleaner.cleanGoogleTitle(title)
-
-		if self.debug and False:
-			print '>get:\t', (type, title, url)
-			print '>3titles: %s <to> %s <to> %s' % (title, readable_title, title_cleaned)
-
-		gs_result = models.ExtractedGoogleScholarResult()
-		gs_result.title = title
-		gs_result.readable_title = readable_title
-		gs_result.shunked_title = title_cleaned
-		gs_result.title_has_dot = has_dot
-		gs_result.web_url = str(url)
-
-		# match #citation
-		citation_match = re.findall(self.settings.re_citedby, block_html)
-		if len(citation_match) == 0:
-			gs_result.ncitation = 0;
-		else:
-			gs_result.ncitation = int(citation_match[0][1])
-		# author
-		authors = re.findall(self.settings.re_author, block_html)
-		if authors is not None and len(authors) > 0:
-			gs_result.authors = authors[0]
-
-		# pdf link
-		if self.settings.save_pdflink:
-			link = re.findall(self.settings.re_pdflink, block_html)
-			if link is not None and len(link) > 0:
-				gs_result.pdfLink = link
-				self.pdfcache.add(gs_result.readable_title, link)
-
-		return gs_result
-
-	# extract citations.
-	
 	def __getNodesByPersonAndPage(self, names, page):
 		'''get page# of person, put pubs who found citation into self.found
 		Return url, html
@@ -353,14 +297,50 @@ class Extractor:
 			soup = BeautifulSoup(head_block)
 			if soup.a is not None:
 				url = soup.a['href'].strip()
-				title = soup.a.string.strip()
+				title = soup.a.get_text().strip()
 				return title, url
 			else:
 				title = re.sub('\[[a-zA-Z]*\]', '', soup.h3.get_text()).strip()
 				return title, ''
 		except:
 			print '[ERROR]Can not parse it using BeautifulSoup'
+			print '[INFO|Soup]This block is : ', head_block
 			return (None, None)
+		
+	def clean_google_title(self, title):
+			has_dot = False
+			titleCleaned = title
+			# clean step 1
+			# BUGFIX: don't remove [xxx]. eg: "OQL[C++]: Ext...'
+			titleCleaned = re.sub("(<(.*?)>)", "", titleCleaned)
+			re_hasdot = re.compile("(\.\.\.|&hellip;)", re.I)
+			match = re_hasdot.search(title)
+			if match is not None:
+				has_dot = True
+			# clean step 2, here title is readable
+			titleCleaned = re.sub("(&nbsp;|&#x25ba;|&hellip;)", "", titleCleaned)
+			titleCleaned = re.sub("(&#.+?;|&.+?;)", "", titleCleaned)
+			titleCleaned = titleCleaned.strip()
+			readableTitle = titleCleaned
+			# Shrink, only letters left
+			titleCleaned = re.sub("\W", "", titleCleaned)
+			titleCleaned = titleCleaned.lower()
+			return (readableTitle, titleCleaned, has_dot)
+		
+	def get_citation(self, citation_block):
+			citation_match = re.findall(self.citation, citation_block)
+			if citation_match is None or len(citation_match) == 0:
+				return 0
+			else:
+				return int(citation_match[0][1])
+			
+	def clean_authors(self, authors):
+		"""
+		<a href="/citations?hl=en&amp;user=n1zDCkQAAAAJ&amp;oi=sra">J Tang</a>, J Li, B Liang, X Huang, Y Li
+		"""
+		pat = re.compile("<.+?>")
+		return ','.join([pat.sub('', author.strip()) for author in authors.split(',')])
+
 
 if __name__ == '__main__':
 	#test = Extractor()
