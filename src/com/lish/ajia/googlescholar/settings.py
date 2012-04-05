@@ -42,7 +42,7 @@ class Settings():
 			os.makedirs(self.pdflink_dir)
 
 		# templates
-		self.urltemplate_by_person_page = "http://scholar.google.com/scholar?start=%s&q=%s&hl=en&num=100&as_subj=eng"
+		self.urltemplate_by_person_page = "http://scholar.google.com/scholar?start=%s&q=%s&hl=en&num=100"
 		self.urltemplate_by_pubs = 		  "http://scholar.google.com/scholar?hl=en&num=100&q=%s"
 
 		# regexs
