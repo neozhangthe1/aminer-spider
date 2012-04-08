@@ -6,5 +6,6 @@ output/
 src/paper_link.txt
 src/web_url.txt
 src/resource/proxies.txt
+src/resources/proxies.txt
 screenlog.0
 data
