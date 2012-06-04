@@ -82,7 +82,7 @@ class HtmlRetriever:
 
 	#@return: Source Html of url. 
 	def getHtmlRetry(self, url, retry=0, with_proxy=True):
-		if retry <= 0: retry = 2000 # default retry 20 times.
+		if retry <= 0: retry = 20 # default retry 20 times.
 		html = None
 		source = None
 		retry_count = 0
