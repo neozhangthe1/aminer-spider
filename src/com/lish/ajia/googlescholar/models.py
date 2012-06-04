@@ -17,7 +17,10 @@ class ExtractedGoogleScholarResult:
 		self.web_url = None	
 
 	def __str__(self):
-		return "title(%s,authors:%s) cited by %s." % (self.readable_title, self.authors, self.ncitation)
+		return "title: %s\nauthor: %s\ncitated by: %s\npdfLink: %s" % (self.readable_title, 
+																	self.authors, 
+																	self.ncitation,
+																	self.pdfLink)
 
 	def asDetailText(self):
 		stack = []
