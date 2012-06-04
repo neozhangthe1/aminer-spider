@@ -25,9 +25,10 @@ class Settings():
 		self.max_pub_thread = 10
 		
 		# db
-		self.db_host = "arnetminer.org"
+		self.db_host = "202.205.10.27"
 		self.db_user = "root"
-		self.db_passwd = "eserver409$)("
+		self.db_port = 33306
+		self.db_passwd = "eserver4009"
 		self.db_database = "arnet_db"
 		
 		# fs

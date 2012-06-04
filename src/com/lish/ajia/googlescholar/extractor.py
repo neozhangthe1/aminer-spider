@@ -31,11 +31,11 @@ class Extractor:
 		return Extractor.__instance
 
 	def __init__(self):
-#		self.settings = Settings.getInstance()
-#		self.debug = self.settings.debug
-#		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
-#		if self.settings.save_pdflink:
-#			self.pdfcache = PDFLinkSaver.getInstance()
+		self.settings = Settings.getInstance()
+		self.debug = self.settings.debug
+		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
+		if self.settings.save_pdflink:
+			self.pdfcache = PDFLinkSaver.getInstance()
 		self.author = re.compile('<div class="?gs_a"?>([^\\x00]+?) - ', re.I)
 		self.pdf_block = re.compile('<div class="?gs_ggs gs_fl"?><a href="?([^\s"]+)?"?[^>]+?><span class="?gs_ctg2"?>\[PDF\]</span>', re.I)
 		self.citation_block = re.compile('<div class="?gs_fl"?>.*?</div>', re.I)
@@ -161,7 +161,7 @@ class Extractor:
 				gs_result.authors = self.clean_authors(authors[0])
 	
 		########## pdf link
-		if True or self.settings.save_pdflink:
+		if self.settings.save_pdflink:
 			link = re.findall(self.pdf_block, str(block_html))
 			if link is not None and len(link) > 0:
 				gs_result.pdfLink = link

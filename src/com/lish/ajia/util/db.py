@@ -40,6 +40,7 @@ class DBPool:
 			host=self.settings.db_host,
 			user=self.settings.db_user,
 			passwd=self.settings.db_passwd,
+			port=self.settings.db_port,
 			db=self.settings.db_database,
 			maxusage=20
 		)
