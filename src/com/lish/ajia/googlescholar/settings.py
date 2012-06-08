@@ -25,9 +25,9 @@ class Settings():
 		self.max_pub_thread = 10
 		
 		# db
-		self.db_host = "202.205.10.27"
+		self.db_host = "211.151.89.45"
 		self.db_user = "root"
-		self.db_port = 33306
+		self.db_port = 23306
 		self.db_passwd = "eserver4009"
 		self.db_database = "arnet_db"
 		
