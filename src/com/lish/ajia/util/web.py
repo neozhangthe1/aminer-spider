@@ -132,12 +132,12 @@ class HtmlRetriever:
 					source = html.read()
 
 			except HTTPError, e:
-				error_msg = "Error [%s, %s]" % (e, "")
+				error_msg = "Error [%s, %s]" % (e, "HTTPError")
 			except URLError, e:
-				error_msg = "Error [%s, %s]" % (e.reason, "")
+				error_msg = "Error [%s, %s]" % (e.reason, "URLError")
 			except Exception, e:
 #				print '-------------------------'
-				error_msg = "Error [%s, %s]" % (sys.exc_info(), "")
+				error_msg = "Error [%s, %s]" % (sys.exc_info(), "Exception")
 #				import traceback
 #				traceback.print_exc()
 #				print '-------------------------'
@@ -148,10 +148,10 @@ class HtmlRetriever:
 				if with_proxy and self.proxy_mgr is not None:
 					self.returnPipeProxy(proxy, "bad")
 					if proxy is None: proxy = ProxyModel("-", "-", "-")
-#					print "[X] Use Proxy %s:%s>%s, HtmlGetter err:%s, retry:%s." % \
-#						(proxy.ip, proxy.port, proxy.value, error_msg, retry_count)
+					print "[X] Use Proxy %s:%s>%s, HtmlGetter err:%s, retry:%s." % \
+						(proxy.ip, proxy.port, proxy.value, error_msg, retry_count)
 				else:
-#					print "[X] HtmlGetter err:%s, retry:%s." % (error_msg, retry_count)
+					print "[X] HtmlGetter err:%s, retry:%s." % (error_msg, retry_count)
 					pass
 
 			if error_msg is None and self.validate_html(html) and self.validateBasicHTML(url, source) and self.validate_html_callback(source):
