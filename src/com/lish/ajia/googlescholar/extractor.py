@@ -272,7 +272,7 @@ class Extractor:
 			# Add by gb Nov 05, 2011, filter out nouse titles.
 			if cleaned_title is None or len(re.split('[\W+]', cleaned_title)) < 3:
 				print "**** no-use-title: ", cleaned_title
-				pub.ncitation = -1;
+#				pub.ncitation = -1;
 				nouse_pubs.append(pub)
 				continue
 			

@@ -45,7 +45,7 @@ class Publication:
 		self.pubkey = pubkey
 		self.jconf = jconf
 		self.authors = authors
-		self.ncitation = ncitation if ncitation is not None else -1
+		self.ncitation = ncitation or -1
 		self.web_url = None
 		self.pdflink = None
 		self.startpage = None

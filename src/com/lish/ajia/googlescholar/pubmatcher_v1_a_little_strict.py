@@ -80,21 +80,6 @@ class PubMatcher:
 					if  max_citation_model.ncitation >= pub.ncitation: 
 						pub.ncitation = max_citation_model.ncitation
 						pub.increased = max_citation_model.ncitation - pub.ncitation
-					else:
-						pass
-						# must be a small decrease
-#						if max_citation_model.ncitation > pub.ncitation * 0.9:
-#							pub.ncitation = max_citation_model.ncitation
-#							pub.increased = max_citation_model.ncitation - pub.ncitation
-#						else:
-#							# due to bugs may increase citation number.
-#							pub.ncitation = max_citation_model.ncitation
-#							pub.increased = max_citation_model.ncitation - pub.ncitation
-#							
-#							verbose = []
-#							verbose.append('  ---NcitationNotOverride--:PID:%s, OLD:%s, NEW:%s' % 
-#										(pub.id, pub.ncitation, max_citation_model.ncitation));
-#							print '\n'.join(verbose)
 					pubs_matched.append(pub)
 				else:
 					# citation model not found.

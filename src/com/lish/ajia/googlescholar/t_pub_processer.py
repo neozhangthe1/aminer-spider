@@ -83,7 +83,7 @@ class PubProcessThread(threading.Thread):
 
 			if pubs_notfound is not None:
 				for pub in pubs_notfound:
-					pub.ncitation = -1
+#					pub.ncitation = -1
 					self.store.putToPubdbcache(pub)
 					print "{-P}[%4s] %s" % (pub.ncitation, pub.title)
 
@@ -138,7 +138,7 @@ class PubProcessThread(threading.Thread):
 
 			if pubs_notfound is not None:
 				for pub in pubs_notfound:
-					pub.ncitation = -1
+#					pub.ncitation = -1
 					self.store.putToPubdbcache(pub)
 					print "{-P}[%4s] %s" % (pub.ncitation, pub.title)
 
