@@ -82,7 +82,8 @@ class HtmlRetriever:
 
 	#@return: Source Html of url. 
 	def getHtmlRetry(self, url, retry=0, with_proxy=True):
-		if retry <= 0: retry = 20 # default retry 20 times.
+		if retry <= 0: 
+			retry = 5 
 		html = None
 		source = None
 		retry_count = 0
@@ -96,26 +97,39 @@ class HtmlRetriever:
 			error_msg = None
 			proxy = None
 			try:
-#			if 1:
-				proxy_handler = self.default_proxy_handler
-				#@todo: use proxymgr
-				if with_proxy and self.proxy_mgr is not None:
-					proxy = self.getPipeProxy()
-					if proxy:
-						print "\t\t- use proxy(%s:%s)" % (proxy.ip, proxy.port)
-					else:
-						print '\t\t- proxy error'
-						
-					proxy_handler = urllib2.ProxyHandler({proxy.type :'http://%s:%s/' % (proxy.ip, proxy.port)})
-
-				if self.use_debug_proxy:  # debug
-					proxy_handler = urllib2.ProxyHandler({'http' :'http://keg:keg2007@166.111.68.67:3128/'})
-
-				# download
-				opener = urllib2.build_opener(proxy_handler)
-				opener.addheaders = REQUEST_HEADER
-				html = opener.open(url, timeout=HtmlRetriever.default_timeout)
-				source = html.read()
+				if not with_proxy:
+					print "Download [%s] without proxy" % url
+					opener = urllib2.build_opener()
+					opener.addheaders = [
+										("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"),
+										('User-agent', 'Mozilla/5.0'),
+										("Accept-Language", "en-US,en;q=0.8"),
+										("Cache-Control", "max-age=0"),
+										("Connection", "keep-alive"),
+										("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19")
+										]
+					html = opener.open(url)
+					source = html.read()
+					time.sleep(5)
+				else:
+					proxy_handler = self.default_proxy_handler
+					if with_proxy and self.proxy_mgr is not None:
+						proxy = self.getPipeProxy()
+						if proxy:
+							print "\t\t- use proxy(%s:%s)" % (proxy.ip, proxy.port)
+						else:
+							print '\t\t- proxy error'
+							
+						proxy_handler = urllib2.ProxyHandler({proxy.type :'http://%s:%s/' % (proxy.ip, proxy.port)})
+	
+					if self.use_debug_proxy:  # debug
+						proxy_handler = urllib2.ProxyHandler({'http' :'http://keg:keg2007@166.111.68.67:3128/'})
+	
+					# download
+					opener = urllib2.build_opener(proxy_handler)
+					opener.addheaders = REQUEST_HEADER
+					html = opener.open(url, timeout=HtmlRetriever.default_timeout)
+					source = html.read()
 
 			except HTTPError, e:
 				error_msg = "Error [%s, %s]" % (e, "")
