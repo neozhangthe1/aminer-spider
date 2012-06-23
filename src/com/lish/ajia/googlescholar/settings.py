@@ -21,15 +21,15 @@ class Settings():
 
 		self.byid = False
 		
-		self.max_person_thread = 1
-		self.max_pub_thread = 1
+		self.max_person_thread = 10
+		self.max_pub_thread = 10
 		
 		# DB
 #		self.db_host = "arnetminer.org"
 		self.db_host = "202.205.10.27"
 		self.db_user = "root"
 		self.db_passwd = "eserver4009"
-		self.db_port = 33306
+		self.db_port = 23306
 		self.db_database = "arnet_db"
 
 		# file system
