@@ -29,7 +29,7 @@ class Settings():
 		self.db_host = "202.205.10.27"
 		self.db_user = "root"
 		self.db_passwd = "eserver4009"
-		self.db_port = 23306
+		self.db_port = 33306
 		self.db_database = "arnet_db"
 
 		# file system
