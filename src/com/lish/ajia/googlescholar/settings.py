@@ -17,24 +17,25 @@ class Settings():
 		self.save_source = False
 		self.save_pdflink = True
 		self.use_proxy = True
-		self.generation = 0;
+		self.generation = 30;
 
 		self.byid = False
 		
-		self.max_person_thread = 10
-		self.max_pub_thread = 10
+		self.max_person_thread = 1
+		self.max_pub_thread = 1
 		
-		# db
-		self.db_host = "211.151.89.45"
+		# DB
+#		self.db_host = "arnetminer.org"
+		self.db_host = "202.205.10.27"
 		self.db_user = "root"
-		self.db_port = 23306
 		self.db_passwd = "eserver4009"
+		self.db_port = 33306
 		self.db_database = "arnet_db"
-		
-		# fs
+
+		# file system
 		self.basedir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../../../"))
 		self.resourcedir = os.path.join(self.basedir, 'resources')
-		self.outputdir = os.path.join(self.basedir, 'output')		
+		self.outputdir = os.path.join(self.basedir, 'output')
 		self.source_dir = os.path.join(self.outputdir, 'google_citation', 'source')
 		if not os.path.exists(self.source_dir):
 			os.makedirs(self.source_dir)
@@ -43,6 +44,7 @@ class Settings():
 			os.makedirs(self.pdflink_dir)
 
 		# templates
+#		self.urltemplate_by_person_page = "http://scholar.google.com/scholar?start=%s&q=%s&hl=en&num=100&as_subj=eng"
 		self.urltemplate_by_person_page = "http://scholar.google.com/scholar?start=%s&q=%s&hl=en&num=100"
 		self.urltemplate_by_pubs = 		  "http://scholar.google.com/scholar?hl=en&num=100&q=%s"
 
