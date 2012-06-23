@@ -13,7 +13,7 @@ class Settings():
 		return Settings.instance
 
 	def __init__(self):
-		self.debug = True
+		self.debug = False
 		self.save_source = False
 		self.save_pdflink = True
 		self.use_proxy = True

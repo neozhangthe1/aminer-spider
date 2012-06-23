@@ -11,6 +11,7 @@ from com.lish.ajia.googlescholar.daos import PublicationDao
 from com.lish.ajia.googlescholar.extractor import Extractor
 from com.lish.pyutil.DataUtil import GoogleDataCleaner
 from settings import Settings
+from Decorator import ClassBeforeUnicode
 import os
 import re
 import editdist
@@ -40,16 +41,13 @@ class PubMatcher:
 			check_person - if True, will check if authors is matched with authors in db.(will ignore ...).
 				default False. Search using author:xxx do not need author check, this work is done by google.
 		'''
-		if pubs is None or len(pubs) == 0: return [], pubs
-		if extracted_map is None or len(extracted_map) == 0: return [], pubs
-		if self.debug and False: print 'match %s pubs in %s extracted items' % (len(pubs), len(extracted_map))
-
-		# Many Debugs:
-		if False:
-			print '-' * 100 
-			self._printExtractedPubMap(extracted_map);
-
-
+		if pubs is None or len(pubs) == 0: 
+			return [], pubs
+		if extracted_map is None or len(extracted_map) == 0: 
+			return [], pubs
+		if self.debug and False: 
+			print 'match %s pubs in %s extracted items' % (len(pubs), len(extracted_map))
+			
 		# match
 		print_not_matched = False
 		pubs_matched = []
@@ -95,12 +93,12 @@ class PubMatcher:
 							for m in _m:
 								m.looseValue += ed;
 							models.extend(_m)
-							if True and ed < 10:
-								print '-' * 100
-								print 'title: %s ' % key_title
-								print 'short: %s ' % short_key
-								print 'ed is: %s ' % ed
-								print 'loose: %s ' % looseValue
+#							if True and ed < 10:
+#								print '-' * 100
+#								print 'title: %s ' % key_title
+#								print 'short: %s ' % short_key
+#								print 'ed is: %s ' % ed
+#								print 'loose: %s ' % looseValue
 					
 			# Exact match, select who is the right one.
 			if models is not None and len(models) > 0:
@@ -119,23 +117,13 @@ class PubMatcher:
 					pub.pdflink = max_citation_model.pdfLink
 					pub.web_url = max_citation_model.web_url
 					pubs_matched.append(pub)
-					
-					# TODO whoes code... fuck
 					if pub.pdflink is None:
-						#print 'web_url %s' % pub.web_url
 						file_object = open('web_url.txt', 'a')
-						#print'********************************************************************** whoes code... fuck...'
 						web_url= pub.web_url
 						Id = str(pub.id)
 						Title = pub.title
 						Author = str(pub.authors)
-						file_object.write(Id)
-						file_object.write("	")
-						file_object.write(Title)
-						file_object.write("	")
-						file_object.write(Author)
-						file_object.write("	")
-						file_object.write(web_url)
+						file_object.write(" ".join([Id, Title, Author, web_url]))
 						file_object.write("\n")
 						file_object.close()
 					else: 
@@ -145,32 +133,10 @@ class PubMatcher:
 								
 						Pdflink = str(pub.pdflink)
 						Author = str(pub.authors)
-						file_object.write(Id)
-						file_object.write("	")
-						file_object.write(Title)
-						file_object.write("	")
-						file_object.write(Author)
-						file_object.write("	")
-						file_object.write(Pdflink)
+						file_object.write(" ".join([Id, Title, Author, Pdflink]))
 						file_object.write("\n")
 						file_object.close()
-						
-							
-	#					file_object.write("Title is : ")
-#					file_object.write(Title)
-#					file_object.write("	")
-#					if Pdflink is not None:
-#						 file_object.write(Pdflink)
-#					else: 
-#					   file_object.write("\n Pdflink is None ")
-					
-#					file_object.write(Pdflink)
-#					file_object.write("\n")
-				
-				else:
-					pass
 
-		# print not matched?
 		for pub in pubs:
 			title = pub.title
 			found = False;
@@ -180,7 +146,8 @@ class PubMatcher:
 					break
 			if not found:
 				pubs_not_matched.append(pub)
-				if print_not_matched: print 'this pub not matched: ', pub
+				if print_not_matched: 
+					print 'this pub not matched: ', pub
 
 		return (pubs_matched, pubs_not_matched)
 
@@ -231,7 +198,7 @@ class AuthorMatcher:
 	@return: True if 2 author string matched.  
 	'''
 	def __init__(self, debug=False, debug_title="---"):
-		self.authorStringBase = u''		# 'base' is ours.
+		self.authorStringBase = ''		# 'base' is ours.
 		self.authorStringToMatch = ''	# 'to match' is from google.
 		self.ignore_left = False	# for toMatch
 		self.ignore_right = False	# for toMatch
@@ -240,7 +207,7 @@ class AuthorMatcher:
 		self.authorFeatureToMatch = '';
 		
 		self.ignore_sign_1 = '&hellip;'
-		self.ignore_sign_2 = '…'
+		self.ignore_sign_2 = u'\\xe2\\x80\\xa6'
 		
 		self.debug = debug
 		self.debug_title = debug_title
@@ -290,7 +257,7 @@ class AuthorMatcher:
 		else:
 			return matched >= 2;
 	
-	def looseMatch(self, verbose_output=True):
+	def looseMatch(self, verbose_output=False):
 		'''Strategy:
 		'''
 		matched = 0
@@ -353,23 +320,23 @@ class AuthorMatcher:
 		if (not_matched + matched) / 4 >= not_matched:
 			loose_matched = True
 		
-		if loose_matched and not verbose_output:
+		if loose_matched and verbose_output:
 			verbose = []
-			verbose.append(unicode(' ------------Author Match True -------------------------------------', 'utf-8'))
-			verbose.append(' --TITLE: %s' % self.debug_title )
+			verbose.append(' ------------Author Match True -------------------------------------')
+			verbose.append(' --TITLE: %s' % self.debug_title)
 			verbose.append(' --AuthorMatcher--:base author:%s' % self.authorStringBase)
-#			verbose.append(unicode(' --AuthorMatcher--:to Match au:%s' % self.authorStringToMatch, 'utf-8'))
-			verbose.append(unicode(' --AuthorMatcher--:baseFeature:%s' % ','.join(self.authorFeatureBase), 'utf-8'))
-			verbose.append(unicode(' --AuthorMatcher--:to Match fe:%s' % ','.join(self.authorFeatureToMatch), 'utf-8'))
-			verbose.append(unicode(' --AuthorMatcher--:matched %s, notMatched %s, total:%s, total base:%s' % \
-				(matched, not_matched, len(self.authorFeatureToMatch), total_authors), 'utf-8'))
-			verbose.append(unicode(' -------------------------------------------------------------------', 'utf-8'))
-			print verbose
-			print u'\n'.join(verbose)
+			verbose.append(' --AuthorMatcher--:to Match au:%s' % self.authorStringToMatch)
+			verbose.append(' --AuthorMatcher--:baseFeature:%s' % ','.join(self.authorFeatureBase))
+			verbose.append(' --AuthorMatcher--:to Match fe:%s' % ','.join(self.authorFeatureToMatch))
+			verbose.append(' --AuthorMatcher--:matched %s, notMatched %s, total:%s, total base:%s' % \
+				(matched, not_matched, len(self.authorFeatureToMatch), total_authors))
+			verbose.append(' -------------------------------------------------------------------')
+			print '\n'.join(verbose)
 		
 		return loose_matched
 
 	#@staticmethod
+	@ClassBeforeUnicode
 	def cleanGoogleScholarAuthorString(self, google_author_string):
 		'''@return: (boolean ignoreLeft, boolean ignoreRight, String trimedString) 
 		'''
