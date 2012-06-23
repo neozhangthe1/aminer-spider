@@ -230,8 +230,6 @@ class Extractor:
 		'''get page# of person, put pubs who found citation into self.found
 		Return url, html
 		'''
-		assert names is not None
-		assert page >= 0 and page < 20
 		namesInUrl = []
 		for name in names:
 			namesInUrl.append(("author:%%22%s%%22" % ("+".join(name.strip().split(" ")))));
