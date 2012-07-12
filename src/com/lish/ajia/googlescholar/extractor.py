@@ -33,9 +33,9 @@ class Extractor:
 	def __init__(self):
 		self.settings = Settings.getInstance()
 		self.debug = self.settings.debug
-#		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
-#		if self.settings.save_pdflink:
-#			self.pdfcache = PDFLinkSaver.getInstance()
+		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
+		if self.settings.save_pdflink:
+			self.pdfcache = PDFLinkSaver.getInstance()
 		self.block_spliter = re.compile('<div class=[\'\"]?gs_r[\'\"]?>') 
 		self.author = re.compile('<div class="?gs_a"?>([^\\x00]+?) - ', re.I)
 		self.pdf_block = re.compile('<div class="?gs_ggs gs_fl"?><a href="?([^\s"]+)?"?[^>]+?><span class="?gs_ctg2"?>\[PDF\]</span>', re.I)
