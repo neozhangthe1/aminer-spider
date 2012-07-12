@@ -33,9 +33,9 @@ class Extractor:
 	def __init__(self):
 		self.settings = Settings.getInstance()
 		self.debug = self.settings.debug
-		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
-		if self.settings.save_pdflink:
-			self.pdfcache = PDFLinkSaver.getInstance()
+#		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
+#		if self.settings.save_pdflink:
+#			self.pdfcache = PDFLinkSaver.getInstance()
 		self.author = re.compile('<div class="?gs_a"?>([^\\x00]+?) - ', re.I)
 		self.pdf_block = re.compile('<div class="?gs_ggs gs_fl"?><a href="?([^\s"]+)?"?[^>]+?><span class="?gs_ctg2"?>\[PDF\]</span>', re.I)
 		self.citation_block = re.compile('<div class="?gs_fl"?>.*?</div>', re.I)
@@ -323,7 +323,7 @@ class Extractor:
 if __name__ == '__main__':
 #	url = "http://scholar.google.com/scholar?start=%s&q=%s&hl=en&num=100" % (0, "jiawei han")
 #	import urllib
-	html = open("/Users/ChenWei/a.html").read()
+	html = open("/Users/ChenWei/b.html").read()
 	e = Extractor()
 	print "test"
 	models =  e.extract_from_source(html)
