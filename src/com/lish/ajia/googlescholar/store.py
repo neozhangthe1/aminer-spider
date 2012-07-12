@@ -110,11 +110,11 @@ class Store:
 				for personId in person_invalid:
 					for pubId in self.person_pub_map[personId]:
 						if pubId in self.pubmap:
-							print "[store](getFromPubQueue):delete pub(%s,[%s]) from pubmap, cause person(%s) " % (pubId, self.pubmap[pubId].ncitation, personId)
+#							print "[store](getFromPubQueue):delete pub(%s,[%s]) from pubmap, cause person(%s) " % (pubId, self.pubmap[pubId].ncitation, personId)
 							del self.pubmap[pubId]
 							
 					del self.person_pub_map[personId]
-					print "[store](getFromPubQueue):delete person(%s) from person_pub_map, now length %s " % (personId, len(self.person_pub_map))
+#					print "[store](getFromPubQueue):delete person(%s) from person_pub_map, now length %s " % (personId, len(self.person_pub_map))
 
 				# return None if not available
 				if pub_candidates is None or len(pub_candidates) == 0:
@@ -125,7 +125,7 @@ class Store:
 				query, used_pubs, nouse_pubs = Extractor.pinMaxQuery(pub_candidates[:1])
 				for pub in used_pubs:
 					del self.pubmap[pub.id] # delete pub.
-					print "[store](getFromPubQueue):delete pub(%s, [%s]) from pubmap, now length %s " % (pub.id, pub.ncitation, len(self.pubmap))
+#					print "[store](getFromPubQueue):delete pub(%s, [%s]) from pubmap, now length %s " % (pub.id, pub.ncitation, len(self.pubmap))
 					
 				# Save nouse_pubs to dbcache, waiting to write to db.
 				nouse_pubs += pub_candidates[1:]
@@ -193,7 +193,7 @@ class Store:
 
 				for personId in person_invalid:
 					del self.person_pub_map[personId]
-					print "[store](line 123):delete person(%s) from person_pub_map, now length %s " % (personId, len(self.person_pub_map))
+#					print "[store](line 123):delete person(%s) from person_pub_map, now length %s " % (personId, len(self.person_pub_map))
 
 				# return None if not available
 				if pub_candidates is None or len(pub_candidates) == 0:
@@ -204,7 +204,7 @@ class Store:
 				query, used_pubs, nouse_pubs = Extractor.pinMaxQuery(pub_candidates[:1])
 				for pub in used_pubs:
 					del self.pubmap[pub.id] # delete pub.
-					print "[store](line 134):delete pub(%s) from pubmap, now length %s " % (pub.id, len(self.pubmap))
+#					print "[store](line 134):delete pub(%s) from pubmap, now length %s " % (pub.id, len(self.pubmap))
 					
 				# Save nouse_pubs to dbcache, waiting to write to db.
 				nouse_pubs += pub_candidates[1:]
@@ -227,10 +227,10 @@ class Store:
 			if pub is not None and pub.id not in self.pubmap:
 				with self.pub_lock:
 					self.pubmap[pub.id] = pub
-					print "[store](putToPubCache):add pub(%s, [%s]) to pubmap, now length %s, with person(%s)" % (pub.id, pub.ncitation, len(self.pubmap), person.id)
+#					print "[store](putToPubCache):add pub(%s, [%s]) to pubmap, now length %s, with person(%s)" % (pub.id, pub.ncitation, len(self.pubmap), person.id)
 					if person.id not in self.person_pub_map:
 						self.person_pub_map[person.id] = []
-						print "[store](putToPubCache):add person(%s) to person_pub_map, now length %s " % (person.id, len(self.person_pub_map))
+#						print "[store](putToPubCache):add person(%s) to person_pub_map, now length %s " % (person.id, len(self.person_pub_map))
 					person_pub_list = self.person_pub_map[person.id]
 					person_pub_list.append(pub.id)
 		except Exception, e:
