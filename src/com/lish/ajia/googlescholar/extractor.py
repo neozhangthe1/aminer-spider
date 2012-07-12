@@ -49,6 +49,7 @@ class Extractor:
 		if(blocks_html is None or len(blocks_html) == 0):
 			msg =  ">"*10 + "(block html is none)" + "<"*10
 			msg += "HTML is : %s\n" % page_html
+			print msg
 			
 		models = []
 		for block in blocks_html:
