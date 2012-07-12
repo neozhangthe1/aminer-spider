@@ -84,9 +84,10 @@ class Extractor:
 			
 			models = self.extract_from_source(html)
 			
-			print "HTML is :" + '*'*20
+			print "HTML is :" + '*'*20 + '\n' * 5
 			print html
 			print '*'* 20
+			print '\n' * 5
 			
 			if models is None: continue
 			
