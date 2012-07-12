@@ -46,10 +46,10 @@ class Extractor:
 			soup = BeautifulSoup(page_html)
 			blocks_html = soup.find_all('div', 'gs_r')
 		
-		if(blocks_html is None):
-			print ">"*10 + "(block html is none)" + "<"*10
-
-		print '*'*8 + "HTML has %s blocks"%len(blocks_html) + '*' * 8
+		if(blocks_html is None or len(blocks_html) == 0):
+			msg =  ">"*10 + "(block html is none)" + "<"*10
+			msg += "HTML is : %s\n" % page_html
+			
 		models = []
 		for block in blocks_html:
 			model = self.__extract_googlescholar_result(block)
