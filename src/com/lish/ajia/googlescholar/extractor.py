@@ -49,10 +49,12 @@ class Extractor:
 		if(blocks_html is None):
 			print ">"*10 + "(block html is none)" + "<"*10
 
+		print '*'*8 + "HTML has %s blocks" + '*' * 8
 		models = []
 		for block in blocks_html:
 			model = self.__extract_googlescholar_result(block)
 			if model is not None:
+				print "Block: \n%s\n" % block
 				models.append(model)
 		return models
 
@@ -83,11 +85,6 @@ class Extractor:
 				continue
 			
 			models = self.extract_from_source(html)
-			
-			print "HTML is :" + '*'*20 + '\n' * 5
-			print html
-			print '*'* 20
-			print '\n' * 5
 			
 			if models is None: continue
 			
