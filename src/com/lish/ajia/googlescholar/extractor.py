@@ -84,6 +84,10 @@ class Extractor:
 			
 			models = self.extract_from_source(html)
 			
+			print "HTML is :" + '*'*20
+			print html
+			print '*'* 20
+			
 			if models is None: continue
 			
 			self.__merge_into_extractedmap(all_models, models)
