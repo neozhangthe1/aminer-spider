@@ -123,20 +123,21 @@ class PersonWalkThroughByGivenIDList:
 		while True:
 			try:
 				print "&[Walker]> walk through na_person, BY_ID_LIST: %s items" % len(self.pids)
-				hasMore = True
 				page = 0
 				count = 1000
 				data = []
 				conn = DB.pool().getConnection()
-				cursor = conn.cursor()
-				while hasMore:
+				while True:
+					cursor = conn.cursor()
 					print "Getting People of Page %s" % page
 					# sql
 					temp = []
 					for item in self.pids[page*count:(page+1)*count]:
 						temp.append(str(item))
 					if page*count > len(self.pids):
-						hasMore = False
+						break
+					if len(temp) == 0:
+						break
 					inwhere = "".join(["(", ",".join(temp) , ")"])
 
 					self.sql = '''select p.id, p.names, pe.id, pe.pubcount 
@@ -146,7 +147,7 @@ class PersonWalkThroughByGivenIDList:
 					data.extend(cursor.fetchall())
 					page += 1
 					if cursor.rowcount == 0:
-						hasMore =False
+						break
 						
 				for pid, names, peid, pubcount in data:
 					# fix 
