@@ -122,23 +122,31 @@ class PersonWalkThroughByGivenIDList:
 		''' Get by pids. '''
 		while True:
 			try:
-				print "&[Walker]> walk through na_person, BY_ID_LIST: %s items" % self.pids
+				print "&[Walker]> walk through na_person, BY_ID_LIST: %s items" % len(self.pids)
+				hasMore = True
+				page = 0
+				count = 1000
+				data = []
 				conn = DB.pool().getConnection()
 				cursor = conn.cursor()
+				while hasMore:
+					# sql
+					temp = []
+					for item in self.pids[page*count:(page+1)*count]:
+						temp.append(str(item))
+					if page*count < len(self.pids):
+						hasMore = False
+					inwhere = "".join(["(", ",".join(temp) , ")"])
 
-				# sql
-				temp = []
-				for item in self.pids:
-					temp.append(str(item))
-				inwhere = "".join(["(", ",".join(temp) , ")"])
-
-				self.sql = '''select p.id, p.names, pe.id, pe.pubcount 
-					from na_person p left join person_update_ext pe on p.id=pe.id \
-					where (pe.u_citation_gen is null or pe.u_citation_gen < %s) and p.id in %s ''' % (self.update_generation, inwhere)
-				cursor.execute(self.sql)
-				data = cursor.fetchall()
-				if cursor.rowcount == 0:
-					return
+					self.sql = '''select p.id, p.names, pe.id, pe.pubcount 
+						from na_person p left join person_update_ext pe on p.id=pe.id \
+						where (pe.u_citation_gen is null or pe.u_citation_gen < %s) and p.id in %s ''' % (self.update_generation, inwhere)
+					cursor.execute(self.sql)
+					data.append(cursor.fetchall())
+					page += 1
+					if cursor.rowcount == 0:
+						hasMore =False
+						
 				for pid, names, peid, pubcount in data:
 					# fix 
 					if self.fix_person_ext and peid is None:
@@ -153,7 +161,6 @@ class PersonWalkThroughByGivenIDList:
 
 			except MySQLdb.Error, e: #@UndefinedVariable
 				ExceptionHelper.print_exec(e)
-#				raise
 			return data
 
 	def default_processer(self, person):

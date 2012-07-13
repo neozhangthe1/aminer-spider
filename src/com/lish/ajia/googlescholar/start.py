@@ -144,7 +144,7 @@ class GoogleScholarExtractor:
 		self.t_mgr = threading.Thread(target=self.mgrThreadBody, args=(), name='thread-mgr') # use method mgr.
 		self.t_mgr.start()
 
-		self.t_provider = ProviderThread(self, PriorityPeople[:1000])
+		self.t_provider = ProviderThread(self, PriorityPeople)
 		self.t_provider.start()
 
 		# waiting to finish
