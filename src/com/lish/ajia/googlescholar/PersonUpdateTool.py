@@ -135,7 +135,7 @@ class PersonWalkThroughByGivenIDList:
 					temp = []
 					for item in self.pids[page*count:(page+1)*count]:
 						temp.append(str(item))
-					if page*count < len(self.pids):
+					if page*count > len(self.pids):
 						hasMore = False
 					inwhere = "".join(["(", ",".join(temp) , ")"])
 
