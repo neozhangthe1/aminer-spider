@@ -4,6 +4,7 @@ from com.lish.ajia.util.db import DB
 from com.lish.pyutil.helper import ExceptionHelper
 import MySQLdb
 import time
+from Carbon.QuickDraw import extend
 
 
 class PersonUpdateTool:
@@ -130,6 +131,7 @@ class PersonWalkThroughByGivenIDList:
 				conn = DB.pool().getConnection()
 				cursor = conn.cursor()
 				while hasMore:
+					print "Getting People of Page %s" % page
 					# sql
 					temp = []
 					for item in self.pids[page*count:(page+1)*count]:
@@ -142,7 +144,7 @@ class PersonWalkThroughByGivenIDList:
 						from na_person p left join person_update_ext pe on p.id=pe.id \
 						where (pe.u_citation_gen is null or pe.u_citation_gen < %s) and p.id in %s ''' % (self.update_generation, inwhere)
 					cursor.execute(self.sql)
-					data.append(cursor.fetchall())
+					data.extend(cursor.fetchall())
 					page += 1
 					if cursor.rowcount == 0:
 						hasMore =False
