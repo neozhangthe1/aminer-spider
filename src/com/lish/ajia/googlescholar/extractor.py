@@ -137,9 +137,9 @@ class Extractor:
 			return None
 		# save models
 		all_models = self.__merge_into_extractedmap(None, models)  # {key_title:[ExtractedModel,...]}
-		for k, v in all_models.items():
-			message += "models find: [%s]\n" % v
-		print message
+#		for k, v in all_models.items():
+#			message += "models find: [%s]\n" % v
+#		print message
 		return all_models
 
 	def __extract_googlescholar_result(self, block_html):
