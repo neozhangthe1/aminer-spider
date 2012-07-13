@@ -58,8 +58,8 @@ class PersonWalkThroughOrderByPubcount:
 		self.sql = '''select p.id, p.names, pe.pubcount 
 			from na_person p left join person_update_ext pe on p.id=pe.id \
 			where (pe.u_citation_gen is null or pe.u_citation_gen < %s) and p.id>%s \
-			order by pe.pubcount desc limit %s'''
-#			limit %s'''
+			limit %s'''
+#			order by pe.pubcount desc limit %s'''
 			
 			
 	def walk(self):
