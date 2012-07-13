@@ -4,7 +4,6 @@ from com.lish.ajia.util.db import DB
 from com.lish.pyutil.helper import ExceptionHelper
 import MySQLdb
 import time
-from Carbon.QuickDraw import extend
 
 
 class PersonUpdateTool:
