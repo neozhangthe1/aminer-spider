@@ -33,6 +33,7 @@ from com.lish.ajia.googlescholar.t_pub_processer import PubProcessThread
 from com.lish.ajia.util.db import DB
 from com.lish.ajia.util.web import HtmlRetriever
 from tool.MailReport import MailReporter
+from PriorityPeople import PriorityPeople
 import MySQLdb
 import datetime
 import threading
@@ -143,7 +144,7 @@ class GoogleScholarExtractor:
 		self.t_mgr = threading.Thread(target=self.mgrThreadBody, args=(), name='thread-mgr') # use method mgr.
 		self.t_mgr.start()
 
-		self.t_provider = ProviderThread(self, None)
+		self.t_provider = ProviderThread(self, PriorityPeople)
 		self.t_provider.start()
 
 		# waiting to finish
