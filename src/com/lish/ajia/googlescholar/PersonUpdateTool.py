@@ -124,7 +124,7 @@ class PersonWalkThroughByGivenIDList:
 			try:
 				print "&[Walker]> walk through na_person, BY_ID_LIST: %s items" % len(self.pids)
 				page = 0
-				count = 500
+				count = 300
 				data = []
 				conn = DB.pool().getConnection()
 				while True:
