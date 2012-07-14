@@ -21,8 +21,8 @@ class Settings():
 
 		self.byid = False
 		
-		self.max_person_thread = 10
-		self.max_pub_thread = 10
+		self.max_person_thread = 5
+		self.max_pub_thread = 13
 		
 		# DB
 #		self.db_host = "arnetminer.org"
