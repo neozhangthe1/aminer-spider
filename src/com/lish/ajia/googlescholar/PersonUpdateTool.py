@@ -124,7 +124,7 @@ class PersonWalkThroughByGivenIDList:
 			try:
 				print "&[Walker]> walk through na_person, BY_ID_LIST: %s items" % len(self.pids)
 				page = 0
-				count = 1000
+				count = 300
 				data = []
 				conn = DB.pool().getConnection()
 				while True:
@@ -148,6 +148,7 @@ class PersonWalkThroughByGivenIDList:
 					page += 1
 					if cursor.rowcount == 0:
 						break
+					time.sleep(1)
 						
 				for pid, names, peid, pubcount in data:
 					# fix 
