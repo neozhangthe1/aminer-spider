@@ -36,31 +36,28 @@ class Extractor:
 		self.htmlRetriever = HtmlRetriever.getInstance(self.settings.use_proxy)
 		if self.settings.save_pdflink:
 			self.pdfcache = PDFLinkSaver.getInstance()
-		self.block_spliter = re.compile('<div class=[\'\"]?gs_r[\'\"]?>') 
 		self.author = re.compile('<div class="?gs_a"?>([^\\x00]+?) - ', re.I)
 		self.pdf_block = re.compile('<div class="?gs_ggs gs_fl"?><a href="?([^\s"]+)?"?[^>]+?><span class="?gs_ctg2"?>\[PDF\]</span>', re.I)
 		self.citation_block = re.compile('<div class="?gs_fl"?>.*?</div>', re.I)
 
+	def _split(self, html):
+		soup = BeautifulSoup(html)
+		blocks = soup.findAll("div", "gs_r")
+		return blocks
+		
 	def extract_from_source(self, page_html):
 		blocks_html = None
 		if page_html is not None and len(page_html) > 0:
-			blocks_html = self.block_spliter.split(page_html)
+			blocks_html = self._split(page_html)
 		
 		if(blocks_html is None or len(blocks_html) == 0):
 			msg =  ">"*10 + "(block html is none)" + "<"*10
-#			msg += "HTML is : %s\n" % page_html
 			print msg
-			
-		for block in blocks_html[1:]:
-			block = '<div class="gs_r">' + block
-		
-		blocks_html = [BeautifulSoup(b) for b in blocks_html]
 			
 		models = []
 		for block in blocks_html:
 			model = self.__extract_googlescholar_result(block)
 			if model is not None:
-#				print "Block: \n%s\n" % block
 				models.append(model)
 		return models
 
@@ -333,7 +330,7 @@ if __name__ == '__main__':
 	print "test"
 	models =  e.extract_from_source(html)
 	for model in models:
-		print model
+		print u"%s" % model
 		print '\n'*2
 	
 
