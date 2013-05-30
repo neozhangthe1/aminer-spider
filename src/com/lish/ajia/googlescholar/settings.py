@@ -17,7 +17,7 @@ class Settings():
 		self.save_source = False
 		self.save_pdflink = True
 		self.use_proxy = True
-		self.generation = 30;
+		self.generation = 33;
 
 		self.byid = False
 		
@@ -25,11 +25,11 @@ class Settings():
 		self.max_pub_thread = 10
 		
 		# DB
-#		self.db_host = "arnetminer.org"
-		self.db_host = "202.205.10.27"
+		self.db_host = "arnetminer.org"
+		#self.db_host = "202.205.10.27"
 		self.db_user = "root"
 		self.db_passwd = "eserver4009"
-		self.db_port = 33306
+		self.db_port = 33072
 		self.db_database = "arnet_db"
 
 		# file system
