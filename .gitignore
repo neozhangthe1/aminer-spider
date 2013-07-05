@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *~
 log/
 .*
@@ -13,7 +12,7 @@ data
 paper_link.txt
 web_url.txt
 resources
-=======
+
 *.py[cod]
 
 # C extensions
@@ -49,4 +48,4 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
->>>>>>> 2b4dfdb759ea3184cf2e3990ff4badc788abf779
+
