@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.6.dtd">
+<!-- eric4 project file for project ScholarScrap -->
+<!-- Saved: 2011-02-10, 16:20:38 -->
+<!-- Copyright (C) 2011 Flávio Codeço Coelho, fccoelho@gmail.com -->
+<Project version="4.6">
+  <Language>en</Language>
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <ProjectType>Other</ProjectType>
+  <Description>Spyder to scrap results from google scholar</Description>
+  <Version>0.1</Version>
+  <Author>Flávio Codeço Coelho</Author>
+  <Email>fccoelho@gmail.com</Email>
+  <Sources>
+    <Source>recipe-523047-1.py</Source>
+    <Source>scholar/scholar/items.py</Source>
+    <Source>scholar/scholar/pipelines.py</Source>
+    <Source>scholar/scholar/spiders/__init__.py</Source>
+    <Source>scholar/scholar/__init__.py</Source>
+    <Source>scholar/scholar/settings.py</Source>
+    <Source>__init__.py</Source>
+    <Source>scholar/scholar/spiders/scholar_spyder.py</Source>
+    <Source>scholar/scholar/spiders/pubmed.py</Source>
+    <Source>pubmed_soap.py</Source>
+  </Sources>
+  <Forms>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+  </FiletypeAssociations>
+</Project>
