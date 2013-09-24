@@ -1,6 +1,0 @@
-#! /bin/bash
-killall -9 python
-rm resources/proxies.txt
-./src/reload_proxy.py
-mv /tmp/proxies.txt ./resources/
-
