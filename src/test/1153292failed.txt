@@ -1,0 +1,270 @@
+title:Design and Implementation of a JXTA-Overlay P2P System and Smart Box Environment. citation:-1
+title:Performance evaluation of a scalable media access control protocol for single hop WDM networks. citation:-1
+title:Application of Policing Mechanisms for Broadband Networks: Issues and Difficulties. citation:-1
+title:Performance Evaluation of Server Load for a WWW-based Video-Conference System. citation:-1
+title:Implementation and Design of New Functions for a Web-Based E-learning System to Stimulate Learners Motivation. citation:-1
+title:MixMobGen - A Realistic Mixed Traffic Mobility Generator for ad hoc Network Simulations. citation:-1
+title:Smartar: a Pseudo- End-to-end Approach for Ip Micro-mobility. citation:-1
+title:An enhanced network service pricing model considering network externalities. citation:-1
+title:A Computing Model for Marketable Quality and Profitability of Corporations: A Case Study Evaluation Using a New Sources Data. citation:-1
+title:Network energy consumption in ad-hoc networks under different radio models. citation:-1
+title:M3PS: a multi-platform P2P system based on JXTA and Java. citation:-1
+title:A Simulation Study for Allocation of Base Stations in Mobile Communication Networks. citation:-1
+title:HAP - A Heterogeneous Ad hoc Protocol. citation:-1
+title:Implementation of a Pure P2p Collaboration Multiplatform and its Applications. citation:-1
+title:An Enhanced Marketable Quality and Profitability Model for Network Service Pricing: Some Numerical Analysis. citation:-1
+title:An Experimental Study on Peer Selection in a P2P Network over PlanetLab. citation:-1
+title:Implementation and Field Experiments of a Remote Medical-Care Supporting System. citation:-1
+title:Delay-energy Aware Routing Protocol for Heterogeneous Wireless Ad Hoc Networks. citation:-1
+title:Performance Analysis of an Adaptive Medium Access Control Protocol for Robot Communication. citation:-1
+title:Heterogeneous Wireless Ad Hoc Networks - Foreword by Guest Editors. citation:-1
+title:Experimental Results and Evaluation of SmartBox Stimulation Device in a P2P E-learning System. citation:-1
+title:Secure broadcast for inter vehicle communications. citation:-1
+title:Wireless Communications for Health Monitoring on Highways. citation:-1
+title:Control Theory Optimization of MECN in Satellite Networks. citation:-1
+title:Secure Mobile Communications for Battlefields. citation:-1
+title:Locals Search Algorithms for Efficient Router Nodes Placement in Wireless Mesh Networks. citation:-1
+title:A Security Framework for JXTA-Overlay. citation:-1
+title:Mobility over Heterogeneous Multi Domain Networks. citation:-1
+title:Real-Time Monitoring of Vital Signs. citation:-1
+title:An Intelligent Policing-Routing Mechanism Based on Fuzzy Logic and Genetic Algorithms. citation:-1
+title:Erratum: "SmartAR: a Pseudo-End-to-End Approach for IP Micro-Mobility". citation:-1
+title:A Comparison Study of Two Fuzzy-Based Handover Systems for Avoiding Ping-Pong Effect in Wireless Cellular Networks. citation:-1
+title:Using a Grid Platform for Enabling Real Time User Modeling in On-line Campus. citation:-1
+title:Performance Evaluation of Reactive and Proactive Protocols for Ad-Hoc Sensor Networks Using Different Radio Models. citation:-1
+title:Evaluation of a Marketable Quality and Profitability Model Considering General Distribution. citation:-1
+title:Turning point from economies of scale to quality enhancement: a marketable quality and profitability model for corporations. citation:-1
+title:Adaptive Layered Multimedia Transmissions over Wireless Networks. citation:-1
+title:Evaluation of P2P multimedia clustering techniques in JXTA-Overlay. citation:-1
+title:Priority Based Wireless Communications for Health Monitoring on Highways. citation:-1
+title:Scalable traceback against distributed denial of service. citation:-1
+title:A Distributed QoS Routing and CAC Framework: Performance Evaluation of Its SSRA and InterD Agents. citation:-1
+title:A scalable anonymous protocol for heterogeneous wireless ad hoc networks. citation:-1
+title:A Multiplatform P2P System: Its Implementation and Applications. citation:-1
+title:Performance Evaluation of Two Search Space Reduction Methods for a Distributed Network Architecture. citation:-1
+title:Introduction to the Special Issue on Advances on Heterogeneous Wireless Sensor Networks. citation:-1
+title:A Fuzzy-Based Speed-Aware Handoff System for Wireless Cellular Networks. citation:-1
+title:A BAT in the Lab: Experimental Results of New Link State Routing Protocol. citation:-1
+title:Performance Evaluation of an Adaptive Ring Access Protocol for Super High-Speed Networks. citation:-1
+title:A New MAC Protocol for Robot Communication and Its Performance Evaluation. citation:-1
+title:A Simple Statistical Methodology for Testing Ad Hoc Networks. citation:-1
+title:A Fuzzy-Based Handover System for Wireless Cellular Networks: A Case Study for Handover Enforcement. citation:-1
+title:Application of Fuzzy Logic for Estimation of Equivalent Capacity in High-Speed Networks. citation:-1
+title:A web interface for the HyperSim-G Grid simulation package. citation:-1
+title:An Agent-Based Personalized Distance Learning System. citation:-1
+title:A Care Communication System with Space Sharing Function. citation:-1
+title:Secure Ubiquitous Health Monitoring System. citation:-1
+title:A Computing Model for Marketable Quality and Profitability of Corporations: Model Evaluation Based on Two Different Sources Data. citation:-1
+title:SKEMON: A Simple Certificate-Less Method for Key Exchange by Using Mobile Network. citation:-1
+title:Efficient Peer Selection in P2P JXTA-Based Platforms. citation:-1
+title:Fast autonomous system traceback. citation:-1
+title:Performance Evaluation of Load-Balancing Multi-path Routing Protocol for Mobile Ad-Hoc Networks. citation:-1
+title:A Case Study of Event Detection in Lattice Wireless Sensor Network with Shadowing-Induced Radio Irregularities. citation:-1
+title:Hybrid Stealthy Communication Protocol. citation:-1
+title:Performance Evaluation of WWW-Based Conference System. citation:-1
+title:A CAC and Routing Framework for Multimedia Applications in Broadband Networks Using Fuzzy Logic and Genetic Algorithm. citation:-1
+title:A Marketable Quality and Profitability Model for Network Service Pricing. citation:-1
+title:An Adaptive Medium Access Control Protocol for Robot Inter-communication in Autonomous Distributed Systems. citation:-1
+title:Anonymous Routing for Mobile Wireless Ad Hoc Networks. citation:-1
+title:Tokens for Anonymous Communications in the Internet. citation:-1
+title:Introduction to the Special Issue on Heterogeneous Wireless Ad Hoc and Sensor Networks. citation:-1
+title:smartAR: A Proposal of IP Micro-mobility Protocol for Single and Simultaneous Movements Scenario. citation:-1
+title:Comparison of RA Beaconing Techniques in Mobile IPv6. citation:-1
+title:A computing model for improving marketable quality and profitability of corporations. citation:-1
+title:Kansei retrieval method using visual pattern image coding for virtual reality space presentation. citation:-1
+title:Performance evaluation of wireless sensor networks for event-detection with shadowing-induced radio irregularities. citation:-1
+title:Taxonomy and analysis of IP micro-mobility protocols in single and simultaneous movements scenarios. citation:-1
+title:Mobile systems and applications. citation:-1
+title:Implementation of an E-learning System Using P2P, Web and Sensor Technologies. citation:-1
+title:Performance analysis of an ad hoc network for emergency and collaborative environments. citation:-1
+title:Performance Evaluation of the Fuzzy Policing Mechanism for Still Picture in ATM Networks. citation:-1
+title:A WEB interface for HyperSim-G Grid simulation package. citation:-1
+title:A Simulation System for Routing Efficiency in Wireless Sensor-Actor Networks: A Case Study for Semi-automated Architecture. citation:-1
+title:Implementation of new functions for improving learners motivation in a web-based e-learning system. citation:-1
+title:A computing model for enhancing service quality and increasing profitability of corporations: model evaluation based on two different sources data. citation:-1
+title:An Effective Topology Extraction Algorithm for Search Reduction Space of a GA-based QoS Routing Method in Ad-Hoc Networks. citation:-1
+title:Secure Continuity for Sensor Networks. citation:-1
+title:A Wavelength Assignment Method for WDM Networks Using Holding Strategy. citation:-1
+title:A Quality Enhancement Model Considering Service Providers and Consumers Relation. citation:-1
+title:A P2P system based on JXTA-overlay and its application for end-device control. citation:-1
+title:A Bound for the Connectivity of Ad Hoc and Sensor Networks with Unidirectional and Irregular Links. citation:-1
+title:Hierarchical Communications for Battlefields. citation:-1
+title:An Agent Based Mobile Phone Groupware System Using Location Information. citation:-1
+title:A Static Benchmarking for Grid Scheduling Problems. citation:-1
+title:An Intelligent Fuzzy Routing Scheme for Improving ATM Networks Performance Using Violation Tagging Function. citation:-1
+title:Intervehicle Communication Protocol for Emergency Situations. citation:-1
+title:Evaluation of Clustering Techniques for Efficient Searching in JXTA-based P2P Systems. citation:-1
+title:Adaptive Clustering Protocol for Wireless Networks. citation:-1
+title:Mobility Effects of Wireless Multi-hop Networks in Indoor Scenarios. citation:-1
+title:ICPPW 2009, International Conference on Parallel Processing Workshops, Vienna, Austria, 22-25 September 2009 citation:-1
+title:Securing a Java P2P framework: the JXTA-overlay case. citation:-1
+title:Network-Based Information Systems, First International Conference, NBiS 2007, Regensburg, Germany, September 3-7, 2007, Proceedings citation:-1
+title:Network-Based Information Systems, 2nd International Conference, NBiS 2008, Turin, Italy, September 1-5, 2008. Proceedings citation:-1
+title:NBiS 2009, 12th International Conference on Network-Based Information Systems, Indianapolis, Indiana, USA, 19-21 August 2009 citation:-1
+title:MANET-viewer: a visualization system for mobile ad-hoc networks. citation:-1
+title:Second International Conference on Complex, Intelligent and Software Intensive Systems (CISIS-2008), March 4th-7th, 2008, Technical University of Catalonia, Barcelona, Spain citation:-1
+title:2009 International Conference on Complex, Intelligent and Software Intensive Systems, CISIS 2009, Fukuoka, Japan, March 16-19, 2009 citation:-1
+title:CISIS 2010, The Fourth International Conference on Complex, Intelligent and Software Intensive Systems, Krakow, Poland, 15-18 February 2010 citation:-1
+title:Performance Evaluation of Wireless Sensor Networks for Different Radio Models Considering Mobile Event. citation:-1
+title:A Novel Sensor Web System for Tracking and Surveillance. citation:-1
+title:Source Adaptive Receiver Driven Layered Multicast. citation:-1
+title:Mobility Effects on the Performance of Mobile Ad hoc Networks. citation:-1
+title:Scalable Inter-Vehicle Communication Protocol. citation:-1
+title:Qos-Energy Aware Broadcast for Heterogeneous Wireless Ad Hoc Networks. citation:-1
+title:Network Adaptive Layered Multicast for Heterogeneous Wireless Networks. citation:-1
+title:MPLS Traffic Engineering for Multimedia on Satellite Networks. citation:-1
+title:Routing Efficiency in Wireless Sensor-Actor Networks. citation:-1
+title:Performance evaluation of selective-border-casting zone routing protocol for ad-hoc networks. citation:-1
+title:Performance evaluation of a fuzzy-based CAC scheme for wireless cellular networks: a case study considering priority of on-going connections. citation:-1
+title:Performance Evaluation of Wireless Sensor Networks for Mobile Event and Mobile Sink. citation:-1
+title:Using Grid services to parallelize IBM's Generic Log Adapter. citation:-1
+title:The 13th International Conference on Network-Based Information Systems, NBiS 2010, Takayama, Gifu, Japan, 14-16 September 2010 citation:-1
+title:Policy Based Mobility Support in Heterogeneous Networks. citation:-1
+title:Performance Evaluation of AODV, OLSR and DYMO Protocols for Vehicular Networks Using CAVENET. citation:-1
+title:A Fuzzy-Based CAC Scheme for Wireless Cellular Networks Considering Different Priorities. citation:-1
+title:Impact of Mobile Sink for Wireless Sensor Networks Considering Different Radio Models. citation:-1
+title:A Multicast Routing Protocol for Reduction of Relay Nodes in MANETs. citation:-1
+title:A Comparison Study between Simulation and Experimental Results for MANETs. citation:-1
+title:3PGCIC 2010, International Conference on P2P, Parallel, Grid, Cloud and Internet Computing, Fukuoka Institute of Technology, Fukuoka, Japan, 4-6 November 2010 citation:-1
+title:A Secure JXTA-Overlay Platform for Robot Control. citation:-1
+title:A marketable quality and profitability model for corporations considering sellers and buyers market. citation:-1
+title:Special issue on emerging trends in ubiquitous computing systems. citation:-1
+title:Performance analysis of multi-hop ad-hoc network using multi-flow traffic for indoor scenarios. citation:-1
+title:A Marketable Quality and Profit-ability Model Considering Service Providers and Consumers Relation. citation:-1
+title:A Campus Information Providing System for Cellular Phone Using Agents. citation:-1
+title:MANET-Viewer II: A Visualization System for Visualizing Packet Flow in Mobile Ad-hoc Networks. citation:-1
+title:Secure Hybrid Communications for Medical Applications. citation:-1
+title:Characteristics of Diffracted Waves Going over Building Rooftop. citation:-1
+title:Evaluation of a Fuzzy-Based CAC Scheme for Different Priorities in Wireless Cellular Networks. citation:-1
+title:Impact of Mobile Sink for Wireless Sensor Networks Considering Different Radio Models and Performance Metrics. citation:-1
+title:Tuning Operators of Genetic Algorithms for Mesh Routers Placement Problem in Wireless Mesh Networks. citation:-1
+title:Two Types of Trustworthiness of Acquaintances in Peer-to-Peer (P2P) Overlay Networks. citation:-1
+title:Grid and P2P middleware for wide-area parallel processing. citation:-1
+title:Network trust management in emergency situations. citation:-1
+title:Special issue foreword: Advances in pervasive computing systems and applications. citation:-1
+title:Special issue on emerging trends in cyber-physical systems. citation:-1
+title:Danger warning via fuzzy inference in an RFID-deployed environment. citation:-1
+title:Foreword from guest editors advances in modelling and simulation in wireless networks. citation:-1
+title:Real Data from a Testbed in Indoor Stairs Environment Considering BATMAN Protocol. citation:-1
+title:A Study on Automated Security Level Conversion Scheme for Multi-level Secure Documents. citation:-1
+title:Performance Evaluation of WMN Using WMN-GA System for Different Mutation Operators. citation:-1
+title:Survey of Trust Based Communications in Social Networks. citation:-1
+title:Goodput Evaluation of AODV, OLSR and DYMO Protocols for Vehicular Networks Using CAVENET. citation:-1
+title:Adaptive Wireless Routing Protocols. citation:-1
+title:A GA+TS Hybrid Algorithm for Independent Batch Scheduling in Computational Grids. citation:-1
+title:The 14th International Conference on Network-Based Information Systems, NBiS 2011, Tirana, Albania, September 7-9, 2011 citation:-1
+title:An Implementation and Evaluation of Zone-Based Routing Protocol for Mobile Ad-Hoc Networks. citation:-1
+title:Frequency Characteristics of Diffracted Waves Considering Transition Region of GTD Shadow Boundary. citation:-1
+title:A Programmable Networked Processing Node for 3D Brain Vessels Reconstruction. citation:-1
+title:Application of GA and Multi-objective Optimization for QoS Routing in Ad-Hoc Networks. citation:-1
+title:Performance Evaluation of Wireless Sensor Networks for Mobile Sensor Nodes Considering Goodput and Depletion Metrics. citation:-1
+title:Simulation Evaluation of AODV, OLSR and DYMO Protocols for Vehicular Networks Using CAVENET. citation:-1
+title:FICHS: A Fuzzy-based Integrated CAC and Handover System for Cellular Networks. citation:-1
+title:A GA-based System for WMN and its Performance Evaluation for Different Scenarios. citation:-1
+title:Frequency Characteristics of Diffracted Waves Going over Building Rooftop. citation:-1
+title:Survey of Trust Management on Various Networks. citation:-1
+title:Performance Evaluation of FACS-MP CAC System Priority Algorithm for Wireless Cellular Networks. citation:-1
+title:A New Fuzzy-based Cluster-Head Selection System for WSNs. citation:-1
+title:Comparison Evaluation of Single and Multi Mobile Events Wireless Sensor Networks Using AODV Protocol. citation:-1
+title:Evaluation of a MANET Testbed in Indoor Stairs Environment Considering OLSR Protocol. citation:-1
+title:A Knowledge Sharing P2P System between Robots Using JXTA-Overlay. citation:-1
+title:A Comparison Study on the Performance of Population-based Meta-Heuristics for Independent Batch Scheduling in Grid Systems. citation:-1
+title:Performance Evaluation of a MANET Testbed for Different Indoor Scenarios: A Comparison Study. citation:-1
+title:Energy-saving in Wireless Sensor Networks Considering Mobile Sensor Nodes. citation:-1
+title:Performance comparison of OLSR and BATMAN routing protocols by a MANET testbed in stairs environment. citation:-1
+title:Evaluation of Hybridization of GA and TS Algorithms for Independent Batch Scheduling in Computational Grids. citation:-1
+title:Multi-hop Wireless Networks Performance Evaluation via NS-3 Simulator. citation:-1
+title:Characteristics of Diffracted Waves: A Comparison Study for Different Wedge Shapes and Materials. citation:-1
+title:Effects of Mutation and Crossover in Genetic Algorithms for Node Placement in WMNs Considering Giant Component Parameter. citation:-1
+title:A MAC Protocol for Power Reduction in Wireless Sensor Networks Based on Load Estimation. citation:-1
+title:Performance Evaluation of OLSR and BATMAN Protocols for Vertical Topology Using Indoor Stairs Testbed. citation:-1
+title:Investigation of Channel Usage and Packetloss in a MANET Testbed for Stairs Indoor Scenarios. citation:-1
+title:Performance evaluation for different settings of crossover and mutation rates considering number of covered users: a case study. citation:-1
+title:Performance Evaluation of a Fuzzy-based Integrated CAC and Handover System for Cellular Networks. citation:-1
+title:Performance Evaluation of SmartBox End-Device for Medical Applications Using JXTA-Overlay P2P System. citation:-1
+title:Mobile Ad-hoc Network Routing Protocols Performance Evaluation Using NS-3 Simulator. citation:-1
+title:2011 Third International Conference on Intelligent Networking and Collaborative Systems (INCoS), Fukuoka, Japan, November 30 - Dec. 2, 2011 citation:-1
+title:A Fuzzy-Based Cluster-Head Selection System for WSNs Considering Sensor Node Movement. citation:-1
+title:A Collective Intelligence Resource Management Dynamic Approach for Disaster Management: A Density Survey of Disasters Occurrence. citation:-1
+title:An Event-based Approach to Supporting Team Coordination and Decision Making in Disaster Management Scenarios. citation:-1
+title:Effects of Mutation and Crossover in Genetic Algorithms for Node Placement in WMNs Considering Number of Covered Users Parameter. citation:-1
+title:R-MAC: A MAC Protocol for Power Reduction in Wireless Sensor Networks Based on Load Estimation and Its Performance Evaluation. citation:-1
+title:Using Bi-clustering Algorithm for Analyzing Online Users Activity in a Virtual Campus. citation:-1
+title:A Fuzzy-Based Trustworthiness System for JXTA-Overlay P2P Platform. citation:-1
+title:A Fuzzy-Based System for Data Replication in P2P Networks. citation:-1
+title:Performance Evaluation and Comparison of Fuzzy-Based Intelligent CAC Systems for Wireless Cellular Networks. citation:-1
+title:Comparison of Experimental Results of a MANET Testbed in Different Environments Considering BATMAN Protocol. citation:-1
+title:Comparison Evaluation of Static and Mobile Sensor Nodes in Wireless Sensor Networks Considering Packet-Loss and Delay Metrics. citation:-1
+title:Performance evaluation of WMN-GA for different mutation and crossover rates considering number of covered users parameter. citation:-1
+title:Performance Evaluation of a Wireless Sensor Network for Mobile and Stationary Event Cases Considering Routing Efficiency and Goodput Metrics. citation:-1
+title:Simulation in Emergent Computational Systems. citation:-1
+title:Automatic Performance Model Transformation from a Human-intuitive to a Machine-efficient Form. citation:-1
+title:Recent Advances on the Simulation Models for Ad Hoc Networks: Real Traffic and Mobility Models. citation:-1
+title:Guest Editors' Foreword Advances in Networking Models and Performance Analysis. citation:-1
+title:Evaluation of WMN-GA for Different Mutation and Crossover Rates Considering Giant Component parameter. citation:-1
+title:A novel approach for hybrid performance modelling and prediction of large-scale computing systems. citation:-1
+title:Analysis and characteristics of diffracted waves going over building rooftop. citation:-1
+title:IEZRP: an improved enhanced zone-based routing protocol for MANETs and its performance evaluation. citation:-1
+title:IEEE 26th International Conference on Advanced Information Networking and Applications, AINA, 2012 , Fukuoka, Japan, March 26-29, 2012 citation:-1
+title:Effect of Population Size for Node Placement in WMNs Considering Giant Component and Number of Covered Users Parameters. citation:-1
+title:Experimental Results of a MANET Testbed in a Mixed Environment Considering Horizontal and Vertical Topologies. citation:-1
+title:Performance Comparison of DSDV and DYMO Protocols for Vehicular Ad Hoc Networks. citation:-1
+title:Impact of Multi-flow Traffic in Wireless Mobile Ad-hoc Networks. citation:-1
+title:26th International Conference on Advanced Information Networking and Applications Workshops, WAINA 2012, Fukuoka, Japan, March 26-29, 2012 citation:-1
+title:Evaluation of a MANET Testbed in Outdoor Bridge Environment Using BATMAN Routing Protocol. citation:-1
+title:A Fuzzy-Based Cluster-Head Selection System forWSNs Considering Different Parameters. citation:-1
+title:A Fuzzy-Based Trustworthiness System for JXTA-Overlay P2P Platform and Its Performance Evaluation Considering Three Parameters. citation:-1
+title:Investigation of Packet Loss in Mobile WSNs for AODV Protocol and Different Radio Models. citation:-1
+title:Design and Implementation of Waste Management Robots. citation:-1
+title:P2P data replication and trustworthiness for a JXTA-Overlay P2P system using fuzzy logic. citation:-1
+title:Special issue: Frontiers in Complex, Intelligent and Software Intensive Systems. citation:-1
+title:Performance comparison of BATMAN and AODV protocols for source and destination moving scenarios. citation:-1
+title:Electromagnetic Fields Diffracted by Two Horizontal edges with Arbitrary Angle for Different and Same Heights. citation:-1
+title:Sixth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, IMIS 2012, Palermo, Italy, July 4-6, 2012 citation:-1
+title:A Fuzzy-Based Cluster-Head Selection System for WSNs: A Comparison Study for Static and Mobile Sensors. citation:-1
+title:Sixth International Conference on Complex, Intelligent, and Software Intensive Systems, CISIS 2012, Palermo, Italy, July 4-6, 2012 citation:-1
+title:A Comparison Study between Two Fuzzy-Based Trustworthiness Systems for P2P Networks. citation:-1
+title:Secure Inter Vehicle Communications. citation:-1
+title:Performance Analysis of DSR and DYMO Routing Protocols for VANETs. citation:-1
+title:Congestion Control for Multi-flow Traffic in Wireless Mobile Ad-Hoc Networks. citation:-1
+title:Performance Investigation of a MANET Testbed in Outdoor Stairs Environment for Different Scenarios. citation:-1
+title:Multimedia Transmissions over a MANET Testbed: Problems and Issues. citation:-1
+title:Performance Evaluation of WMN-GA System for Low Densities of Clients and Different Settings of Population Size. citation:-1
+title:Impact of mobile sink nodes on performance of wireless sensor networks. citation:-1
+title:Hybrid algorithms for independent batch scheduling in grids. citation:-1
+title:Performance Evaluation of WMN-GA Simulation System for Different Settings of Genetic Operators Considering Giant Component and Number of Covered Users. citation:-1
+title:Evaluation of WMN-GA for different mutation operators. citation:-1
+title:2012 Fourth International Conference on Intelligent Networking and Collaborative Systems, INCoS 2012, Bucharest, Romania, September 19-21, 2012 citation:-1
+title:15th International Conference on Network-Based Information Systems, NBiS 2012, Melbourne, Australia, September 26-28, 2012 citation:-1
+title:TCP Congestion Control in MANETs for Multiple Traffic Considering Proactive and Reactive Routing Protocols. citation:-1
+title:Performance Evaluation of DYMO Protocol in Different VANET Scenarios. citation:-1
+title:A Fuzzy-Based Simulation System for Controlling Sensor Speed in Wireless Sensor Networks. citation:-1
+title:Simulation Performance of a MANET Using Static Source and Destination Considering AODV Routing Protocol. citation:-1
+title:Trust Management of Social Networks in Health Care. citation:-1
+title:A Fuzzy-Based Reliability System for JXTA-Overlay P2P Platform Considering Actual Behaviour and Amount of Data Exchanged between Peers. citation:-1
+title:Performance Evaluation of WSNs Considering MAC and Routing Protocols Using Goodput and Delay Metrics. citation:-1
+title:An Implementation of Visualization System for Visualizing Network Topology and Packet Flow in Mobile Ad Hoc Networks. citation:-1
+title:2012 Seventh International Conference on P2P, Parallel, Grid, Cloud and Internet Computing, 3PGCIC 2012, Victoria, BC, Canada, November 12-14, 2012 citation:-1
+title:P2P Solutions to Efficient Mobile Peer Collaboration in MANETs. citation:-1
+title:Data Replication in P2P Collaborative Systems. citation:-1
+title:Editorial. citation:-1
+title:Energy-saving in wireless sensor networks considering mobile sensor nodes, single and multi events. citation:-1
+title:Performance Evaluation of AODV Protocol for Single and Multiple Traffic in MANETs Considering Packet Delivery Fraction Parameter. citation:-1
+title:Massive Processing of Activity Logs of a Virtual Campus. citation:-1
+title:Investigation of TCP Traffic in a Vehicular Ad-hoc Network Considering DYMO Routing Protocol. citation:-1
+title:Failure Resilient Criteria for Mobile Web Services Transactions. citation:-1
+title:A MANET Simulation System: A Case Study Considering Static Source and Destination Nodes and OLSR Protocol. citation:-1
+title:Mining Navigation Patterns in a Virtual Campus. citation:-1
+title:Visualization of Evolutionary Computation Process for Node Placement in WMNs Considering Weibull and Exponential Distribution of Mesh Clients. citation:-1
+title:Genetic algorithms for satellite scheduling problems. citation:-1
+title:Performance Evaluation of MANET Routing Protocols: Simulations and Experiments. citation:-1
+title:Design Pattern Usage in Grid Computing. citation:-1
+title:Performance Evaluation of WMN Considering Number of Connections Using NS-3 Simulator. citation:-1
+title:Using Data Replication for Improving QoS in MANETs. citation:-1
+title:Genetic Algorithms for Node Placement in WMNs: Effect of Changes in Population Size and Number of Generations. citation:-1
+title:Impact of Population Size and Number of Generations on the Performance of Dense WMNs. citation:-1
+title:Setting Up Static Components for Investigating MANET Performance: A Simulation Case. citation:-1
+title:Performance of OLSR and DSDV Protocols in a VANET Scenario: Evaluation Using CAVENET and NS3. citation:-1
+title:An Integrated Fuzzy-based Trustworthiness System for P2P Communications in JXTA-Overlay. citation:-1
+title:Performance Evaluation of a MANET Testbed in Heterogeneous Environment: Experimental Results. citation:-1
+title:Performance Evaluation of WSNs for MAC and Routing Protocols Considering Depletion and Routing Efficiency Metrics. citation:-1

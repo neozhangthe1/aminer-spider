@@ -1,0 +1,173 @@
+title:Accuracy of 3D Range Scanners by Measurement of the Slanted Edge Modulation Transfer Function. citation:-1
+title:A Statistical Method for Robust 3D Surface Reconstruction from Sparse Data. citation:-1
+title:Neural Mesh Ensembles. citation:-1
+title:Combining stereo and visual hull information for on-line reconstruction and rendering of dynamic scenes. citation:-1
+title:Finite-Time Transport Structures of Flow Fields. citation:-1
+title:Hardware-Accelerated Rendering of Antialiased Shadows with Shadow Maps. citation:-1
+title:Using an Enhanced LBG Algorithm to Reduce the Codebook Error in Vector Quantization. citation:-1
+title:Virtualizing Real-World Objects. citation:-1
+title:Dynamic Refinement of Deformable Triangle Meshes for Rendering. citation:-1
+title:Real-Time Rendering of Human Hair Using Programmable Graphics Hardware. citation:-1
+title:Interpolatory Subdivision Curves via Diffusion of Normals. citation:-1
+title:Exploiting Temporal Coherence in Final Gathering for Dynamic Scenes. citation:-1
+title:Spatio-Temporal Photon Density Estimation Using Bilateral Filtering. citation:-1
+title:Image Restoration using Multiresolution Texture Synthesis and Image Inpainting. citation:-1
+title:Marker-less Deformable Mesh Tracking for Human Shape and Motion Capture. citation:-1
+title:Mesostructure from Specularity. citation:-1
+title:Polarization and Phase-Shifting for 3D Scanning of Translucent Objects. citation:-1
+title:Scaled Motion Dynamics for Markerless Motion Capture. citation:-1
+title:Robust fusion of dynamic shape and normal capture for high-quality reconstruction of time-varying geometry. citation:-1
+title:Markerless motion capture of man-machine interaction. citation:-1
+title:Modulated phase-shifting for 3D scanning. citation:-1
+title:Drift-free tracking of rigid and articulated objects. citation:-1
+title:Dense correspondence finding for parametrization-free animation reconstruction from video. citation:-1
+title:Demosaicing by smoothing along 1D features. citation:-1
+title:07171 Summary -- Visual Computing -- Convergence of Computer Graphics and Computer Vision. citation:-1
+title:07171 Abstracts Collection -- Visual Computing -- Convergence of Computer Graphics and Computer Vision. citation:-1
+title:The SFB 603 - Model Based Analysis and Visualization of Complex Scenes and Sensor Data. citation:-1
+title:Polyhedra Operators for Mesh Refinement. citation:-1
+title:Adaptive Fourier-Based Surface Reconstruction. citation:-1
+title:Ray-tracing Procedural Displacement Shaders. citation:-1
+title:Vector field contours. citation:-1
+title:Fitting a Morphable Model to 3D Scans of Faces. citation:-1
+title:Modeling the world: the virtualization pipeline. citation:-1
+title:Multi-video compression in texture space. citation:-1
+title:High Dynamic Range Image and Video Compression - Fidelity Matching Human Visual Performance. citation:-1
+title:Spatio-Temporal Registration Techniques for Relightable 3D Video. citation:-1
+title:M3: Marker-Free Model Reconstruction and Motion Tracking from 3D Voxel Data. citation:-1
+title:Subdivision Surface Simplification. citation:-1
+title:Automated Texture Registration and Stitching for Real World Models. citation:-1
+title:Enhanced Automatic Creation of Multi-Purpose Object Hierarchies. citation:-1
+title:Neural Meshes: Statistical Learning Based on Normals. citation:-1
+title:A Divide and Conquer Algorithm for Triangle Mesh Connectivity Encoding. citation:-1
+title:Combining Topological Simplification and Topology Preserving Compression for 2D Vector Fields. citation:-1
+title:Lighting Details Preserving Photon Density Estimation. citation:-1
+title:Modeling and Tracking Line-Constrained Mechanical Systems. citation:-1
+title:A Simple Approach to Interactive Free-Form Shape Deformations. citation:-1
+title:Explicit Control of Vector Field Based Shape Deformations. citation:-1
+title:Brightness Adjustment for HDR and Tone Mapped Images. citation:-1
+title:Interactive Global Illumination Using Implicit Visibility. citation:-1
+title:Interactive Rendering of Translucent Deformable Objects. citation:-1
+title:A Simple Framework for Natural Animation of Digitized Models. citation:-1
+title:Perceptual evaluation of tone mapping operators. citation:-1
+title:Walkthroughs with Corrective Texturing. citation:-1
+title:Smart Links and Efficient Reconstruction for Wavelet Radiosity. citation:-1
+title:Dynamic remeshing and applications. citation:-1
+title:Feature-preserving non-local denoising of static and time-varying range data. citation:-1
+title:Visible difference predicator for high dynamic range images. citation:-1
+title:Interactive rendering of translucent deformable objects. citation:-1
+title:Linear onesided stability of MAT for weakly injective 3D domain. citation:-1
+title:Smoothing by Example: Mesh Denoising by Averaging with Similarity-Based Weights. citation:-1
+title:Curvilinear Spherical Parameterization. citation:-1
+title:Discrete Tensorial Quasi-Harmonic Maps. citation:-1
+title:Feature Sensitive Mesh Segmentation with Mean Shift. citation:-1
+title:Towards Stable and Salient Multi-View Representation of 3D Shapes. citation:-1
+title:A Fast and Simple Stretch-Minimizing Mesh Parameterization (Figures 1 And 9). citation:-1
+title:Efficient Processing of Large 3D Meshes. citation:-1
+title:Polygonal Decomposition of the 1-Ring Neighborhood of the Catmull-Clark Scheme. citation:-1
+title:Using Growing Cell Structures for Surface Reconstruction. citation:-1
+title:3D Scattered Data Approximation with Adaptive Compactly Supported Radial Basis Functions. citation:-1
+title:Capturing the Shape of a Dynamic World - Fast! citation:-1
+title:Modeling of Surfaces with Fair Reflection Line Pattern. citation:-1
+title:Visualization with stylized line primitives. citation:-1
+title:Extraction of Parallel Vector Surfaces in 3D Time-Dependent Fields and Application to Vortex Core Line Tracking. citation:-1
+title:Fast Visualization by Shear-Warp on Quadratic Super-Spline Models Using Wavelet Data Decompositions. citation:-1
+title:Extracting Higher Order Critical Points and Topological Simplification of 3D Vector Fields. citation:-1
+title:Saddle Connectors - An Approach to Visualizing the Topological Skeleton of Complex 3D Vector Fields. citation:-1
+title:Efficient Rendering of Strong Secondary Lighting in Photon Mapping Algorithm. citation:-1
+title:Feature Flow Fields. citation:-1
+title:Automatic 2D Shape Orientation by Example. citation:-1
+title:Automatic Generation of Bas-reliefs from 3D Shapes. citation:-1
+title:Path Line Oriented Topology for Periodic 2D Time-Dependent Vector Fields. citation:-1
+title:Boundary Switch Connectors for Topological Visualization of Complex 3D Vector Fields. citation:-1
+title:Mesh Smoothing by Adaptive and Anisotropic Gaussian Filter Applied to Mesh Normals. citation:-1
+title:Customized Object Hierarchies. citation:-1
+title:Interactive Semi-Transparent Volumetric Textures. citation:-1
+title:A Flexible and Versatile Studio for SynchronizedMulti-View Video Recording. citation:-1
+title:Rapid Animation of Laser-scanned Humans. citation:-1
+title:Progressive path tracing with lightweight local error estimation. citation:-1
+title:Convex Boundary Angle-Based Flattening. citation:-1
+title:Linear one-sided stability of MAT for weakly injective 3D domain. citation:-1
+title:Brightness of the glare illusion. citation:-1
+title:Quasi-interpolation by quadratic piecewise polynomials in three variables. citation:-1
+title:Tone Reproduction for Interactive Walkthroughs. citation:-1
+title:Measurement-Based Interactive Simulation of Viscoelastic Solids. citation:-1
+title:Getting Rid of Links in Hierarchical Radiosity. citation:-1
+title:Feature Sensitive Remeshing. citation:-1
+title:Compression of 2D Vector Fields Under Guaranteed Topology Preservation. citation:-1
+title:Visualizing Transport Structures of Time-Dependent Flow Fields. citation:-1
+title:Exchanging Faces in Images. citation:-1
+title:A Shrink Wrapping Approach to Remeshing Polygonal Surfaces. citation:-1
+title:Using Wavefront Tracing for the Visualization and Optimization of Progressive Lenses. citation:-1
+title:Hardware-Accelerated Rendering of Photo Hulls. citation:-1
+title:Virtual Klingler Dissection: Putting Fibers into Context. citation:-1
+title:Temporal Glare: Real-Time Dynamic Simulation of the Scattering in the Human Eye. citation:-1
+title:A Statistical Model of Human Pose and Body Shape. citation:-1
+title:Symmetry Detection Using Feature Lines. citation:-1
+title:Evolutions of Polygons in the Study of Subdivision Surfaces. citation:-1
+title:Progressive transmission of subdivision surfaces. citation:-1
+title:Topological Structures in Two-Parameter-Dependent 2D Vector Fields. citation:-1
+title:Prediction of Individual Non-Linear Aging Trajectories of Faces. citation:-1
+title:Vector field based shape deformations. citation:-1
+title:A Generic Framework for Efficient 2-D and 3-D Facial Expression Analogy. citation:-1
+title:Backward compatible high dynamic range MPEG video compression. citation:-1
+title:Dynamic Remeshing and Applications. citation:-1
+title:Laplacian Framework for Interactive Mesh Editing. citation:-1
+title:Topological Visualization of Brain Diffusion MRI Data. citation:-1
+title:Multifield-Graphs: An Approach to Visualizing Correlations in Multifield Scalar Data. citation:-1
+title:Estimating Crossing Fibers: A Tensor Decomposition Approach. citation:-1
+title:Seeing People in Different Light-Joint Shape, Motion, and Reflectance Capture. citation:-1
+title:Vision - An Architecture for Global Illumination Calculations. citation:-1
+title:Reconstruction of Volume Data with Quadratic Super Splines. citation:-1
+title:Faster Isosurface Ray Tracing Using Implicit KD-Trees. citation:-1
+title:Topological Methods for 2D Time-Dependent Vector Fields Based on Stream Lines and Path Lines. citation:-1
+title:Smoke Surfaces: An Interactive Flow Visualization Technique Inspired by Real-World Flow Experiments. citation:-1
+title:Dynamically refining animated triangle meshes for rendering. citation:-1
+title:3D unsharp masking for scene coherent enhancement. citation:-1
+title:Fluorescent immersion range scanning. citation:-1
+title:Imperfect shadow maps for efficient computation of indirect illumination. citation:-1
+title:Micro-rendering for scalable, parallel final gathering. citation:-1
+title:Linear One-Sided Stability of MAT for Weakly Injective Domain. citation:-1
+title:Composite Lighting Simulations with Lighting Networks. citation:-1
+title:Direct Real-World Light Transport Visualization. citation:-1
+title:The 3D Object Pipeline - Capturing, Processing and Interactive Display of Objects with Complex Appearance (Die 3D-Objekt-Pipeline - Akquisition, Verarbeitung und interaktive Darstellung von Objekten mit komplexem Aussehen). citation:-1
+title:Beiträge der Computergraphik zur Realisierung eines verallgemeinerten Dokumentbegriffs (Computer Graphics Research Contributing to the Development of Truly 'Generalized Documents'). citation:-1
+title:Markerless Motion Capture with unsynchronized moving cameras. citation:-1
+title:PDE-Based Anisotropic Disparity-Driven Stereo Vision. citation:-1
+title:Spatio-temporal upsampling on the GPU. citation:-1
+title:Complementary Optic Flow. citation:-1
+title:Isometric registration of ambiguous and partial data. citation:-1
+title:Relighting objects from image collections. citation:-1
+title:Motion capture using joint skeleton tracking and surface estimation. citation:-1
+title:Rapid stereo-vision enhanced face detection. citation:-1
+title:Proceedings of the 2000 Conference on Vision Modeling and Visualization (VMV-00), Saarbrücken, Germany, November 22-24, 2000 citation:-1
+title:Proceedings of the Vision Modeling and Visualization Conference 2001 (VMV-01), Stuttgart, Germany, November 21-23, 2001 citation:-1
+title:Proceedings of the Vision, Modeling, and Visualization Conference 2004 (VMV 2004), Stanford, California, USA, November 16-18, 2004 citation:-1
+title:Proceedings of the Vision, Modeling, and Visualization Conference 2007, VMV 2007, Saarbrücken, Germany, November 7-9, 2007 citation:-1
+title:Meshless Shape and Motion Design for Multiple Deformable Objects. citation:-1
+title:Apparent display resolution enhancement for moving images. citation:-1
+title:Crease Surfaces: From Theory to Extraction and Application to Diffusion Tensor MRI. citation:-1
+title:Optimal HDR reconstruction with linear digital cameras. citation:-1
+title:Rapid stereo-vision enhanced face recognition. citation:-1
+title:Feature sensitive bas relief generation. citation:-1
+title:A Graph-Based Approach to Symmetry Detection. citation:-1
+title:Template Deformation for Point Cloud Fitting. citation:-1
+title:Intrinsic Shape Matching by Planned Landmark Sampling. citation:-1
+title:Learning Line Features in 3D Geometry. citation:-1
+title:A perceptual model for disparity. citation:-1
+title:A Mathematical Model and Calibration Procedure for Galvanometric Laser Scanning Systems. citation:-1
+title:Wavelet belief propagation for large scale inference problems. citation:-1
+title:Automatic photo-to-terrain alignment for the annotation of mountain pictures. citation:-1
+title:Markerless motion capture of interacting characters using multi-view image segmentation. citation:-1
+title:Fast articulated motion tracking using a sums of Gaussians body model. citation:-1
+title:Shading-based dynamic shape refinement from multi-view video under general illumination. citation:-1
+title:Highlight microdisparity for improved gloss depiction. citation:-1
+title:NoRM: No-Reference Image Quality Metric for Realistic Image Synthesis. citation:-1
+title:Precomputed Safety Shapes for Efficient and Accurate Height-Field Rendering. citation:-1
+title:Feature-Based Multi-video Synchronization with Subframe Accuracy. citation:-1
+title:A kaleidoscopic approach to surround geometry and reflectance acquisition. citation:-1
+title:Spatio-temporal motion tracking with unsynchronized cameras. citation:-1
+title:Computer Assisted Relief Generation - A Survey. citation:-1
+title:Extraction of Dominant Extremal Structures in Volumetric Data Using Separatrix Persistence. citation:-1
+title:Extracting Separation Surfaces of Path Line Oriented Topology in Periodic 2D Time-Dependent Vector Fields. citation:-1
+title:Scalable Symmetry Detection for Urban Scenes. citation:-1

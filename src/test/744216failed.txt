@@ -1,0 +1,218 @@
+title:Choquet Integrals and OWA Criteria as a Natural (and Optimal) Next Step after Linear Aggregation: A New General Justification. citation:-1
+title:A New Derivation of Centoid Defuzzification. citation:-1
+title:How to Efficiently Process Uncertainty within a Cyberinfrastructure without Sacrificing Privacy and Confidentiality. citation:-1
+title:From Interval Computations to Constraint-Related Set Computations: Towards Faster Estimation of Statistics and ODEs under Interval and p-Box Uncertainty (Invited Talk). citation:-1
+title:Using Gelfond-Przymusinska's epistemic specifications to justify (some) heuristic methods used in expert systems and intelligent control. citation:-1
+title:Fuzzy Control is Often Better Than Manual Control of the Very Experts Whose Knowledge it Uses: An Explanation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Editorial. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Testing Hypotheses on Simulated Data: Why Traditional Hypotheses-Testing Statistics Are Not Always Adequate for Simulated Data, and How to Modify Them. citation:-1
+title:Introduction: Logic Programming, Non-Monotonic Reasoning and Reasoning about Actions. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Decision science: Foundations and applications introduction to the special issue. citation:-1
+title:Mathematical foundations for intelligent technologies. citation:-1
+title:"Discrete (Set) Derivatives &" "Algebraic" " Fuzzy Logic Operations". citation:-1
+title:Interval / Probabilistic Uncertainty and Non-Classical Logics citation:-1
+title:Estimating Quality of Support Vector Machines Learning under Probabilistic and Interval Uncertainty: Algorithms and Computational Complexity. citation:-1
+title:Trade-Off between Sample Size and Accuracy: Case of Static Measurements under Interval Uncertainty. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Computational Complexity of Planning Based on Partial Information about the System's Present and Past States. citation:-1
+title:Fuzzy Modus Ponens as a Calculus of Logical Modifiers: Towards Zadeh's Vision of Implication Calculus. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval-Related Talks at the 2003 IEEE International Conference on Fuzzy Systems - St. Louis, Missouri, May 25-28, 2003. citation:-1
+title:Trade-Off between Sample Size and Accuracy: Case of Dynamic Measurements under Interval Uncertainty. citation:-1
+title:Interval Methods and Their Applications: Invited Sessions at the World Automation Congress (WAC'2000) Maui, Hawaii, June 10-16, 2000. citation:-1
+title:Towards Combining Probabilistic and Interval Uncertainty in Engineering Calculations: Algorithms for Computing Statistics under Interval Uncertainty, and Their Computational Complexity. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Towards more realistic (e.g., non-associative) "and"- and "or"-operations in fuzzy logic. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Review of "Computational Techniques for the Summation of Series by Anthony Sofo", Kluwer Academic Publishers, 2003. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Preface. citation:-1
+title:Allowing two moves in succession increases the game's bias: A theorem. citation:-1
+title:Interval-Related Talks at the 2007 IEEE Symposium Series on Computational Intelligence. citation:-1
+title:Triangular norms by Erich Peter Klement, Radko Mesiar, and Endre Pap. citation:-1
+title:Interval-Related Talks at the North American Fuzzy Information Processing Society Annual Conference NAFIPS'07. citation:-1
+title:Checking identities is computationally intractable NP-hard and therefore human provers will always be needed. citation:-1
+title:Intelligent technologies: An introduction. citation:-1
+title:Why clustering in function approximation? Theoretical explanation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval-Related Talks at the Second International Conference on Fuzzy Sets and Soft Computing in Economics and Finance. citation:-1
+title:Computational Aspects of Aggregation in Biological Systems. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval-Related Talks at the North American Fuzzy Information Processing Society Annual Conference NAFIPS'06. citation:-1
+title:Unimodality, Independence Lead to NP-Hardness of Interval Probability Problems. citation:-1
+title:Modifications of the Oettli-Prager Theorem with Application to the Eigenvalue Problem. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Talks at the International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems IPMU'2006. citation:-1
+title:Automatic concurrency in SequenceL. citation:-1
+title:Computational intelligence: The experts speak, by David B. Fogel and Charles J. Robinson, eds. citation:-1
+title:On the Optimal Choice of Quality Metric in Image Compression. citation:-1
+title:Multimedia, Soft Computing, and Bioinformatics, by Data Mining. citation:-1
+title:Real-Time Optimization by Extremum-Seeking Control, by Kartik B. Ariyur and Miroslav Krstic. citation:-1
+title:Design of Logic-Based Intelligent Systems, by Klaus Truemper. citation:-1
+title:Mining the Web: Discovering Knowledge from Hypertext Data, by Soumen Chakrabarti and Morgan Kaufmann. citation:-1
+title:Range Estimation Is NP-Hard for ?2 Accuracy and Feasible for 2-[delta]. citation:-1
+title:Outlier Detection under Interval Uncertainty: Algorithmic Solvability and Computational Complexity. citation:-1
+title:Outlier Detection under Interval Uncertainty: Algorithmic Solvability and Computational Complexity. citation:-1
+title:Towards Real World Applications: Interval-Related Talks at NAFIPS'05. citation:-1
+title:Error Estimation for Indirect Measurements: Interval Computation Problem Is (Slightly) Harder Than a Similar Probabilistic Computational Problem. citation:-1
+title:Only Intervals Preserve the Invertibility of Arithmetic Operations. citation:-1
+title:Towards fusing sophisticated mathematical knowledge and informal expert knowledge: an arbitrary metric can be naturally interpreted in fuzzy terms. citation:-1
+title:A Special Session on Granular Computing and Interval Computations at the 19th International Conference of the North American Fuzzy Information Processing Society (NAFIPS) Atlanta, Georgia, July 13-15, 2000. citation:-1
+title:Fuzzy statistics, by James J. Buckley. citation:-1
+title:Interval-Related Talks at the Annual Conference of the North American Fuzzy Information Processing Society NAFIPS'02. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval-Related Talks at the 22th International Conference of the North American Fuzzy Information Processing Society NAFIPS'03 - Chicago, Illinois, USA, July 24-26, 2003. citation:-1
+title:Special Session "Set-Valued Numerics and Reliable Computing" - Sozopol, Bulgaria, June 4-8, 2003. citation:-1
+title:Estimating Variance Under Interval and Fuzzy Uncertainty: Case of Hierarchical Estimation. citation:-1
+title:Robust Methodology for Characterizing System Response to Damage: Approach Based on Partial Order. citation:-1
+title:Corrigendum to "Computational complexity of optimization and crude range testing: a new approach motivated by fuzzy optimization": [Fuzzy Sets and Systems 135 (2003) 179-208]. citation:-1
+title:Quantum versions of k-CSP algorithms: a first step towards quantum algorithms for interval-related constraint satisfaction problems. citation:-1
+title:Computational complexity of optimization and crude range testing: a new approach motivated by fuzzy optimization. citation:-1
+title:Interval-Related Talks at InTech'03 - Chiang Mai, Thailand, December 17-19, 2003. citation:-1
+title:A Distributed Version of the SequenceL Language. citation:-1
+title:From Numerical Intervals to Set Intervals (Interval-Related Results Presented at the First International Workshop on Applications and Theory of Random Sets). citation:-1
+title:Session "Interval and Computer-Algebraic Methods in Science and Engineering" at the 6th International Association for Mathematics and Computers in Simulation (IMACS) Conference on Applications of Computer Algebra (ACA'2000) Saint Petersburg, Russia, .... citation:-1
+title:Handbook of Learning and Approximate Dynamic Programming, by Jennie Si, Andrew G. Barto, Warren B. Powell and Donald Wunsch II, eds. citation:-1
+title:On quantum versions of record-breaking algorithms for SAT. citation:-1
+title:Toward Formalizing Non-monotonic Reasoning in Physics: The use of Kolmogorov Complexity to Formalize the Notions of "Typically" and "Normally". citation:-1
+title:From Interval Computations to Constraint-Related Set Computations: Towards Faster Estimation of Statistics and ODEs Under Interval, p-Box, and Fuzzy Uncertainty. citation:-1
+title:From Planning to Searching for the Shortest Plan: An Optimal Transition. citation:-1
+title:Application of Kolmogorov Complexity to Image Compression: It Is Possible to Have a Better Compression, But It Is Not Possible to Have the Best One. citation:-1
+title:Dirty Pages of Logarithm Tables, Lifetime of the Universe, and (Subjective) Probabilities on Finite and Infinite Intervals. citation:-1
+title:Encryption Algorithms Made (Somewhat) More Natural (a pedagogical remark). citation:-1
+title:Letters to the editor. citation:-1
+title:Editorial. citation:-1
+title:Zeros of Riemann's Zeta Function are Uniformly Distributed, but not Random: An Answer to Calude's Open Problem. citation:-1
+title:Interval Methods In Knowledge Representation. citation:-1
+title:Fuzzy Aggregation Techniques in Situations Without Experts: Towards A New Justification. citation:-1
+title:Logic-motivated Choice of Fuzzy Logic Operators. citation:-1
+title:Interval Methods In Knowledge Representation. citation:-1
+title:On the Use of Intervals in Scientific Computing: What Is the Best Transition from Linear to Quadratic Approximation?. citation:-1
+title:Bag languages, concurrency, Horn logic programs, and linear logic. citation:-1
+title:Interval methods in knowledge representation. citation:-1
+title:Interval Methods In Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Ellipsoids and ellipsoid-shaped fuzzy sets as natural multi-variate generalization of intervals and fuzzy numbers: How to elicit them from users, and how to use them in data processing. citation:-1
+title:An Application of Logic to Combinatorial Geometry: How Many Tetrahedra are Equidecomposable with a Cube? citation:-1
+title:Corrigendum: Interval Methods In Knowledge Representation (Abstracts Of Recent Papers). citation:-1
+title:Interval Methods In Knowledge Representation. citation:-1
+title:Interval Methods In Knowledge Representation. citation:-1
+title:Automatic Concurrency in SequenceL. citation:-1
+title:Guest Editors' Introduction: Interval Methods in Representing and Processing Uncertainty. citation:-1
+title:Computability and Complexity in Analysis (CCA). A View from Interval Computations - Cincinnati, Ohio, USA, August 28-30, 2003. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Theoretical foundation for iterative assessment of conditional confidence measures in the framework of conditional measure theoretic-approach. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Reliable Computations and Their Applications (RCA) Track. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Fast Multiplication of Interval Matrices (Interval Version of Strassen's Algorithm). citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval-Related Talks at the International Conference on Fuzzy Systems, Neural Networks, and Genetic Algorithms FNG'05. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods In Knowledge Representation. citation:-1
+title:Maximum Entropy in Support of Semantically Annotated Datasets. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods In Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Book Review: "fundamentals of Computing for Software Engineers", by Eric S. Chan and Murat M. Tanik. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation . citation:-1
+title:Editorial: track reliable computations and their applications. citation:-1
+title:Editorial: track reliable computations and their applications. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:-1
+title:Intervals and the Origins of Calculus. citation:-1
+title:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:-1
+title:Intelligent Technologies - Preface. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods In Knowledge Representation. citation:-1
+title:Static space-times naturally lead to quasi-pseudometrics. citation:-1
+title:Metrization Theorem for Space-Times: From Urysohn's Problem towards Physically Useful Constructive Mathematics. citation:-1
+title:From Gauging Accuracy of Quantity Estimates to Gauging Accuracy and Resolution of Measuring Physical Fields. citation:-1
+title:Spatial Resolution for Processing Seismic Data: Type-2 Methods for Finding the Relevant Granular Structure. citation:-1
+title:Trade-off between sample size and accuracy: Case of measurements under interval uncertainty. citation:-1
+title:Interval/Probabilistic Uncertainty: Editorial. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Verified Methods for Computing Pareto Sets: General Algorithmic Analysis. citation:-1
+title:Fuzzy without Fuzzy: Why Fuzzy-Related Aggregation Techniques Are Often Better Even in Situations without True Fuzziness. citation:-1
+title:Computational Methods for Investment Portfolio: The Use of Fuzzy Measures and Constraint Programming for Risk Management. citation:-1
+title:Intermediate Degrees Are Needed for the World to Be Cognizable: Towards a New Justification for Fuzzy Logic Ideas. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:How AI-Type Uncertainty Ideas Can Improve Inter-Disciplinary Collaboration and Education: Lessons from a Case Study. citation:-1
+title:WAI'96: II Workshop on Computer Arithmetic, Interval and Symbolic Computation. citation:-1
+title:SONIC'95: Student mini-symposium on interval computations. citation:-1
+title:Interval talks at the first el paso shell oil symposium. citation:-1
+title:If we measure a number, we get an interval. What if we measure a function or an operator? citation:-1
+title:Preface. citation:-1
+title:Maximum entropy and interval computations - (September notes on summer impressions). citation:-1
+title:Paul Erdös, 1913-1996. citation:-1
+title:Best student paper award. citation:-1
+title:Double bubble minimizes: Interval computations help in solving a long-standing geometric problem. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Fuzzy transforms of higher order approximate derivatives: A theorem. citation:-1
+title:Fuzzy transform as a new paradigm in fuzzy modeling. citation:-1
+title:Estimating Probability of Failure of a Complex System Based on Inexact Information about Subsystems and Components, with Potential Applications to Aircraft Maintenance. citation:-1
+title:No-Free-Lunch Result for Interval and Fuzzy Computing: When Bounds Are Unusually Good, Their Computation Is Unusually Slow. citation:-1
+title:Multi-objective optimization under positivity constraints, with a meteorological example. citation:-1
+title:Towards more adequate representation of uncertainty: From intervals to set intervals, with the possible addition of probabilities and certainty degrees. citation:-1
+title:Towards improved trapezoidal approximation to intersection (fusion) of trapezoidal fuzzy numbers: Specific procedure and general non-associativity theorem. citation:-1
+title:Towards a more natural proof of metrization theorem for space-times. citation:-1
+title:Uniqueness of reconstruction for Yager's t-norm combination of probabilistic and possibilistic knowledge. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Towards an (Even More) Natural Probabilistic Interpretation of Fuzzy Transforms (and of Fuzzy Modeling). citation:-1
+title:Why Fuzzy Transform Is Efficient in Large-Scale Prediction Problems: A Theoretical Explanation. citation:-1
+title:Uncertainty modeling and analysis with intervals: Foundations, tools, applications (Dagstuhl Seminar 11371). citation:-1
+title:Cantor's Paradise Regained: Constructive Mathematics from Brouwer to Kolmogorov to Gelfond. citation:-1
+title:Towards Symmetry-Based Explanation of (Approximate) Shapes of Alpha-Helices and Beta-Sheets (and Beta-Barrels) in Protein Structure. citation:-1
+title:Can We Learn Algorithms from People Who Compute Fast: An Indirect Analysis in the Presence of Fuzzy Descriptions. citation:-1
+title:Towards interval techniques for model validation. citation:-1
+title:Reconstructing an Open Order from Its Closure, with Applications to Space-Time Physics and to Logic. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Arithmetic, Affine Arithmetic, Taylor Series Methods: Why, What Next? citation:-1
+title:Interval Approach to Phase Measurements Can Lead to Arbitrarily Complex Sets - A Theorem and Ways around It. citation:-1
+title:A Full Function-Based Calculus of Directed and Undirected Intervals: Markov'S Interval Arithmetic Revisited. citation:-1
+title:Square root of 'not': a major difference between fuzzy and quantum logics. citation:-1
+title:Estimating information amount under uncertainty: algorithmic solvability and computational complexity. citation:-1
+title:Towards Formalizing Non-monotonic Reasoning in Physics: Logical Approach Based on Physical Induction and Its Relation to Kolmogorov Complexity. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Validated templates for specification of complex LTL formulas. citation:-1
+title:Semi-heuristic poverty measures used by economists: Justification motivated by fuzzy techniques. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1
+title:Uniqueness of network parametrization and faster learning. citation:-1
+title:3-layer neural networks are universal approximations for functions and for control strategies. citation:-1
+title:Interval Methods in Knowledge Representation. citation:-1

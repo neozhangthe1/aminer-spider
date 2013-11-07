@@ -1,0 +1,471 @@
+title1:On Removing Redundancies from Synchronous Sequential Circuits with Synchronizing Sequences. title2:On removing redundancies from synchronous sequential circuits with synchronizing sequences citation:39 ncitation:38 pid1081370
+title1:On the Number of Tests to Detect All Path Delay Faults in Combinational Logic Circuits. title2:On the number of tests to detect all path delay faults in combinational logic circuits citation:34 ncitation:33 pid1081371
+title1:On the Saturation of n-Detection Test Generation by Different Definitions With Increased n. title2:On the Saturation of-Detection Test Generation by Different Definitions With Increased citation:4 ncitation:3 pid1585875
+title1:On Fault Simulation for Synchronous Sequential Circuits. title2:On fault simulation for synchronous sequential circuits citation:7 ncitation:6 pid1086820
+title1:A Novel Method of Improving Transition Delay Fault Coverage Using Multiple Scan Enable Signals. title2:A novel method of improving transition delay fault coverage using multiple scan enable signals citation:15 ncitation:13 pid1081368
+title1:Proptest: A Property Based Test Pattern Generator for Sequential Circuits Using Test Compaction. title2:PROPTEST: a property based test pattern generator for sequential circuits using test compaction citation:50 ncitation:49 pid285994
+title1:INCREDYBLE: A New Search Strategy for Design Automation Problems with Applications to Testing. title2:INCREDYBLE: A new search strategy for design automation problems with applications to testing citation:0 ncitation:-1 pid645771
+title1:A Partitioning and Storage Based Built-In Test Pattern Generation Method for Scan Circuits. title2:A partitioning and storage based built-in test pattern generation method for scan circuits citation:2 ncitation:2 pid1081369
+title1:Location of Stuck-At Faults and Bridging Faults Based on Circuit Partitioning. title2:Location of stuck-at faults and bridging faults based on circuit partitioning citation:12 ncitation:10 pid645772
+title1:Static Test Compaction for Full-Scan Circuits Based on Combinational Test Sets and Non-Scan Sequential Test Sequences. title2:Static test compaction for full-scan circuits based on combinational test sets and non-scan sequential test sequences citation:5 ncitation:5 pid1081374
+title1:A Cone-Based Genetic Optimization Procedure for Test Generation and Its Application to n-Detections in Combinational Circuits. title2:A cone-based genetic optimization procedure for test generation and its application to n-detections in combinational circuits citation:5 ncitation:5 pid645773
+title1:SymSim: symbolic fault simulation of data-flow data-path designs at the Register-Transfer level. title2:Symsim: symbolic fault simulation of data-flow data-path designs at the register-transfer level citation:3 ncitation:2 pid1081375
+title1:On Interconnecting Circuits with Multiple Scan Chains for Improved Test Data Compression. title2:On interconnecting circuits with multiple scan chains for improved test data compression citation:0 ncitation:-1 pid456428
+title1:On Dictionary-Based Fault Location in Digital Logic Circuits. title2:On dictionary-based fault location in digital logic circuits citation:37 ncitation:35 pid645774
+title1:Tuple Detection for Path Delay Faults: A Method for Improving Test Set Quality. title2:Tuple detection for path delay faults: a method for improving test set quality citation:5 ncitation:5 pid1081372
+title1:Test Generation for Multiple State-Table Faults in Finite-State Machines. title2:Test generation for multiple state-table faults in finite-state machines citation:15 ncitation:15 pid645775
+title1:Enhanced untestable path analysis using edge graphs. title2:Enhanced untestable path analysis using edge graphs citation:4 ncitation:6 pid1081373
+title1:Test Data Compression Using Don?t-Care Identification and Statistical Encoding. title2:Test data compression using don't-care identification and statistical encoding [logic testing] citation:24 ncitation:-1 pid1081362
+title1:Classification of Faults in Synchronous Sequential Circuits. title2:Classification of faults in synchronous sequential circuits citation:80 ncitation:84 pid58367
+title1:Static Test Compaction for Full-Scan Circuits Based on Combinational Test Sets and Nonscan Input Sequences and a Lower Bound on the Number of Tests. title2:Static test compaction for full-scan circuits based on combinational test sets and nonscan input sequences and a lower bound on the number of tests citation:1 ncitation:1 pid1081363
+title1:On Generating Tests that Avoid the Detection of Redundant Faults in Synchronous Sequential Circuits with Full Scan. title2:On generating tests that avoid the detection of redundant faults in synchronous sequential circuits with full scan citation:3 ncitation:3 pid1081360
+title1:On the Role of Hardware Reset in Synchronous Sequential Circuit Test Generation. title2:On the role of hardware reset in synchronous sequential circuit test generation citation:31 ncitation:32 pid1081361
+title1:Aliasing Computation Using Fault Simulation with Fault Dropping. title2:Aliasing computation using fault simulation with fault dropping citation:2 ncitation:2 pid1081366
+title1:Testing of Fault-Tolerant Hardware Through Partial Control of Inputs. title2:Testing of fault-tolerant hardware through partial control of inputs citation:4 ncitation:4 pid1081367
+title1:Application of Homing Sequences to Synchronous Sequential Circuit Testing. title2:Application of homing sequences to synchronous sequential circuit testing citation:34 ncitation:32 pid1081364
+title1:Defect Diagnosis Based on Pattern-Dependent Stuck-At Faults. title2:Defect diagnosis based on pattern-dependent stuck-at faults citation:10 ncitation:9 pid1081355
+title1:On the Use of Fully Specified Initial States for Testing of Synchronous Sequential Circuits. title2:On the use of fully specified initial states for testing of synchronous sequential circuits citation:11 ncitation:10 pid645784
+title1:On Finding a Minimal Functional Description of a Finite-State Machine for Test Generation for Adjacent Machines. title2:On finding a minimal functional description of a finite-state machine for test generation for adjacent machines citation:4 ncitation:4 pid1081354
+title1:A Measure of Quality for n-Detection Test Sets. title2:A measure of quality for n-detection test sets citation:23 ncitation:22 pid1081352
+title1:On Maximizing the Fault Coverage for a Given Test Length Limit in a Synchronous Sequential Circuit. title2:On maximizing the fault coverage for a given test length limit in a synchronous sequential circuit citation:9 ncitation:9 pid343527
+title1:A Storage-Based Built-In Test Pattern Generation Method for Scan Circuits Based on Partitioning and Reduction of a Precomputed Test Set. title2:A storage-based built-in test pattern generation method for scan circuits based on partitioning and reduction of a precomputed test set citation:2 ncitation:3 pid1081359
+title1:Enumeration of Test Sequences in Increasing Chronological Order to Improve the Levels of Compaction Achieved by Vector Omission. title2:Enumeration of test sequences in increasing chronological order to improve the levels of compaction achieved by vector omission citation:4 ncitation:4 pid1081358
+title1:On the Generation of Weights for Weighted Pseudo Random Testing. title2:On the generation of weights for weighted pseudo random testing citation:3 ncitation:3 pid1081357
+title1:An Enhanced Logic BIST Architecture for Online Testing. title2:An Enhanced Logic BIST Architecture for Online Testing citation:3 ncitation:2 pid1081356
+title1:Local Transformations and Robust Dependent Path Delay. title2:Local transformations and robust dependent path delay faults citation:1 ncitation:-1 pid645777
+title1:The Cut Delay Fault Model for Guiding the Generation of n-Detection Test Sets for Transition Faults. title2:The cut delay fault model for guiding the generation of n-detection test sets for transition faults citation:0 ncitation:0 pid1320821
+title1:On Finding Functionally Identical and Functionally Opposite Lines in Combinational Logic Circuits. title2:On finding functionally identical and functionally opposite lines in combinational logic circuits citation:7 ncitation:7 pid454490
+title1:On Determining Symmetries in Inputs of Logic Circuits. title2:On determining symmetries in inputs of logic circuits citation:32 ncitation:31 pid645776
+title1:On Full Reset as a Design-For-Testability Technique. title2:On full reset as a design-for-testability technique citation:2 ncitation:2 pid645779
+title1:Masking of Unknown Output Values during Output Response Compression byUsing Comparison Units. title2:Masking of unknown output values during output response compression by using comparison units citation:17 ncitation:16 pid645778
+title1:On the Detection of Reset Faults in Synchronous Sequential Circuits. title2:On the detection of reset faults; in synchronous sequential circuits citation:8 ncitation:9 pid645781
+title1:VERSE: A Vector Replacement Procedure for Improving Test Compaction in Synchronous Sequential Circuits. title2:VERSE: a vector replacement procedure for improving test compaction in synchronous sequential circuits citation:3 ncitation:-1 pid1081351
+title1:Universal delay test sets for logic networks. title2:Universal delay test sets for logic networks citation:17 ncitation:17 pid645780
+title1:Selection of potentially testable path delay faults for test generation. title2:Selection of potentially testable path delay faults for test generation citation:51 ncitation:48 pid1695706
+title1:On Test Compaction Objectives for Combinational and Sequential Circuits. title2:On test compaction objectives for combinational and sequential circuits citation:8 ncitation:7 pid645783
+title1:A Fault-Tolerant Communication Architecture for Distributed Systems. title2:A fault-tolerant communication architecture for distributed systems citation:206 ncitation:202 pid455352
+title1:ATPG Heuristics Dependant Observation Point Insertion for Enhanced Compaction and Data Volume Reduction. title2:Atpg heuristics dependant observation point insertion for enhanced compaction and data volume reduction citation:5 ncitation:5 pid645782
+title1:Forward-Error Correction with Decision Feedback title2:Forward-error correction with decision feedback citation:13 ncitation:11 pid1081400
+title1:On Unified Delay Fault Testing. title2:On unified delay fault testing citation:4 ncitation:3 pid1081401
+title1:On Reducing Circuit Malfunctions Caused by Soft Errors. title2:On reducing circuit malfunctions caused by soft errors citation:2 ncitation:2 pid2323433
+title1:Core - Clustering Based SOC Test Scheduling Optimization. title2:Core-clustering based SOC test scheduling optimization citation:5 ncitation:5 pid2299209
+title1:Cost-effective generation of minimal test sets for stuck-at faults in combinational logic circuits. title2:Cost-effective generation of minimal test sets for stuck-at faults in combinational logic circuits citation:217 ncitation:215 pid887634
+title1:Detection of Transistor Stuck-Open Faults in Asynchronous Inputs of Scan Cells. title2:Detection of Transistor Stuck-Open Faults in Asynchronous Inputs of Scan Cells citation:0 ncitation:0 pid645794
+title1:Test Data Compression Using Don't-Care Identification and Statistical Encoding. title2:Test data compression using don't-care identification and statistical encoding [logic testing] citation:24 ncitation:-1 pid153910
+title1:Double-Single Stuck-at Faults: A Delay Fault Model for Synchronous Sequential Circuits. citation:6 ncitation:5 pid58309
+title1:Test-Point Insertion to Enhance Test Compaction for Scan Designs. title2:Test-point insertion to enhance test compaction for scan designs citation:3 ncitation:3 pid58308
+title1:Resource Allocation and Test Scheduling for Concurrent Test of Core-Based SoC D. title2:Resource allocation and test scheduling for concurrent test of core-based SOC design citation:132 ncitation:135 pid1084668
+title1:A Parallel PLA Minimization Program. title2:A parallel PLA minimization program citation:11 ncitation:12 pid153906
+title1:Scalable Calculation of Logical Masking Effects for Selective Hardening Against Soft Errors. title2:Scalable calculation of logical masking effects for selective hardening against soft errors citation:13 ncitation:7 pid148702
+title1:On the Detectability of Scan Chain Internal Faults ? An Industrial Case Study. title2:On the detectability of scan chain internal faults an industrial case study citation:17 ncitation:16 pid1086755
+title1:Unspecified Transition Faults: A Transition Fault Model for At-Speed Fault Simulation and Test Generation. title2:Unspecified transition faults: a transition fault model for at-speed fault simulation and test generation citation:14 ncitation:10 pid58294
+title1:Procedures for Static Compaction of Test Sequences for Synchronous Sequential Circuits Based on Vector Restoration. title2:Procedures for static compaction of test sequences for synchronous sequential circuits based on vector restoration citation:39 ncitation:40 pid132135
+title1:Primary Input Vectors to Avoid in Random Test Sequences for Synchronous Sequential Circuits. title2:Primary input vectors to avoid in random test sequences for synchronous sequential circuits citation:20 ncitation:20 pid452489
+title1:COMPACTEST-II: a method to generate compact two-pattern test sets for combinational logic circuits. title2:COMPACTEST-II: a method to generate compact two-pattern test sets for combinational logic circuits citation:32 ncitation:30 pid649604
+title1:Reducing the Energy Consumption in Fault-Tolerant Distributed Embedded Systems with Time-Constraint. title2:Reducing the Energy Consumption in Fault-Tolerant Distributed Embedded Systems with Time-Constraint citation:2 ncitation:2 pid1086723
+title1:Static Test Compaction for Scan-Based Designs to Reduce Test Application Time. title2:Static test compaction for scan-based designs to reduce test application time citation:37 ncitation:37 pid1086727
+title1:Speeding Up Effect-Cause Defect Diagnosis Using a Small Dictionary. title2:Speeding up effect-cause defect diagnosis using a small dictionary citation:11 ncitation:10 pid142006
+title1:Autoscan-Invert: An Improved Scan Design without External Scan Inputs or Outputs. title2:Autoscan-Invert: An Improved Scan Design without External Scan Inputs or Outputs citation:1 ncitation:1 pid1086729
+title1:On the Design of Fault-Tolerant Two-Dimensional Systolic Arrays for Yield Enhancement. title2:On the design of fault-tolerant two-dimensional systolic arrays for yield enhancement citation:39 ncitation:38 pid283025
+title1:Synthesis for Broadside Testability of Transition Faults. title2:Synthesis for broadside testability of transition faults citation:2 ncitation:2 pid2343422
+title1:Increasing Fault Coverage for Synchronous Sequential Circuits by the Multiple Observation Time Test Strategy. title2:Increasing fault coverage for synchronous sequential circuits by the multiple observation time test strategy citation:13 ncitation:15 pid1167092
+title1:On Speeding-Up Vector Restoration Based Static Compaction of Test Sequences for Sequential Circuits . title2:On speeding-up vector restoration based static compaction of test sequences for sequential circuits citation:27 ncitation:26 pid649560
+title1:On Improving a Fault Simulation Based Test Generator for Synchronous Sequential Circuits. title2:On improving a fault simulation based test generator for synchronous sequential circuits citation:3 ncitation:4 pid649566
+title1:Expanded Definition of Functional Operation Conditions and its Effects on the Computation of Functional Broadside Tests. title2:Expanded definition of functional operation conditions and its effects on the computation of functional broadside tests citation:2 ncitation:2 pid1080028
+title1:Test Compaction for Synchronous Sequential Circuits by Test Sequence Recycling. title2:Test compaction for synchronous sequential circuits by test sequence recycling citation:0 ncitation:0 pid234151
+title1:On Generating Test Sets that Remain Valid in the Presence of Undetected Faults. title2:On generating test sets that remain valid in the presence of undetected faults citation:1 ncitation:1 pid649539
+title1:On Double Transition Faults as a Delay Fault Model. title2:On double transition faults as a delay fault model citation:7 ncitation:7 pid282976
+title1:(Quasi-) Linear Path Delay Fault Tests for Adders. title2:(Quasi-) linear path delay fault tests for adders citation:0 ncitation:-1 pid58216
+title1:PASTA: Partial Scan to Enhance Test Compaction. title2:PASTA: partial scan to enhance test compaction citation:2 ncitation:2 pid2241953
+title1:Test Generation for Synchronous Sequential Circuits Based on Fault Extraction. title2:Test generation for synchronous sequential circuits based on fault extraction citation:10 ncitation:10 pid58217
+title1:On the generation of small dictionaries for fault location. title2:On the generation of small dictionaries for fault location citation:86 ncitation:87 pid649544
+title1:On undetectable faults in partial scan circuits. title2:On undetectable faults in partial scan circuits citation:1 ncitation:1 pid234153
+title1:On Application of Output Masking to Undetectable Faults in Synchronous Sequential Circuits with Design-for-Testability Logic. title2:On application of output masking to undetectable faults in synchronous sequential circuits with Design-For-Testability logic citation:10 ncitation:10 pid234152
+title1:Simulation Based Test Generation for Scan Designs. title2:Simulation based test generation for scan designs citation:9 ncitation:10 pid234155
+title1:Built-in test generation for synchronous sequential circuits. title2:Built-in test generation for synchronous sequential circuits citation:27 ncitation:27 pid644810
+title1:An approach for improving the levels of compaction achieved by vector omission. title2:An approach for improving the levels of compaction achieved by vector omission citation:11 ncitation:11 pid234154
+title1:On error correction in macro-based circuits. title2:On error correction in macro-based circuits citation:30 ncitation:31 pid282966
+title1:Functional test generation for delay faults in combinational circuits. title2:Functional test generation for delay faults in combinational circuits citation:38 ncitation:37 pid282967
+title1:Forming N-detection test sets without test generation. title2:Forming N-detection test sets without test generation citation:25 ncitation:23 pid282964
+title1:On diagnosis and correction of design errors. title2:On diagnosis and correction of design errors citation:34 ncitation:33 pid282965
+title1:On testing delay faults in macro-based combinational circuits. title2:On testing delay faults in macro-based combinational circuits citation:36 ncitation:35 pid282963
+title1:An efficient non-enumerative method to estimate path delay fault coverage. title2:An efficient non-enumerative method to estimate path delay fault coverage citation:67 ncitation:-1 pid282974
+title1:Test generation for path delay faults based on learning. title2:Test generation for path delay faults based on learning citation:17 ncitation:17 pid282975
+title1:Workload-ahead-driven online energy minimization techniques for battery-powered embedded systems with time-constraints. title2:Workload-ahead-driven online energy minimization techniques for battery-powered embedded systems with time-constraints citation:14 ncitation:7 pid282972
+title1:A Data Compression Technique for Built-In Self-Test. title2:A data compression technique for built-in self-test citation:86 ncitation:83 pid282970
+title1:Testing Delay Faults in Embedded CAMs. title2:Testing delay faults in embedded CAMs citation:12 ncitation:14 pid282971
+title1:Testable Realizations for FET Stuck-Open Faults CMOS Combinational Logic Circuits. title2:Testable realizations for FET stuck-open faults in CMOS combinational logic circuits citation:115 ncitation:102 pid282968
+title1:A New Approach to the Design of Testable PLA's. title2:A new approach to the design of testable PLA's citation:25 ncitation:23 pid282969
+title1:On methods to match a test pattern generator to a circuit-under-test. title2:On methods to match a test pattern generator to a circuit-under-test citation:5 ncitation:6 pid1118041
+title1:Optimal Core Wrapper Width Selection and SOC Test Scheduling Based on 3-D Bin Packing Algorithm. title2:Optimal core wrapper width selection and SOC test scheduling based on 3-D bin packing algorithm citation:121 ncitation:120 pid455274
+title1:Statistical Diagnosis for Intermittent Scan Chain Hold-Time Fault. title2:Statistical diagnosis for intermittent scan chain hold-time fault citation:57 ncitation:55 pid1081557
+title1:Semiconcurrent Online Testing of Transition Faults through Output Response Comparison of Identical Circuits. title2:Semiconcurrent Online Testing of Transition Faults through Output Response Comparison of Identical Circuits citation:3 ncitation:4 pid58168
+title1:Autoscan: a scan design without external scan inputs or outputs. title2:Autoscan: a scan design without external scan inputs or outputs citation:5 ncitation:5 pid1081556
+title1:On-chip Compression of Output Responses with Unknown Values Using LFSR Reseeding. title2:On-chip compression of output responses with unknown values using LFSR reseeding citation:62 ncitation:59 pid1081555
+title1:A Class of Linear Codes for Error Control in Byte-per-Card Organized Digital Systems. title2:A class of linear codes for error control in byte-per-card organized digital systems citation:40 ncitation:41 pid58160
+title1:Improving the stuck-at fault coverage of functional test sequences by using limited-scan operations. title2:Improving the stuck-at fault coverage of functional test sequences by using limited-scan operations citation:15 ncitation:17 pid645710
+title1:Diagnosis of Multiple-Voltage Design With Bridge Defect. title2:Diagnosis of multiple-voltage design with bridge defect citation:11 ncitation:8 pid454559
+title1:A Note on Testing Logic Circuits by Transition Counting. title2:A note on testing logic circuits by transition counting citation:12 ncitation:11 pid454556
+title1:On test data volume reduction for multiple scan chain designs. title2:On test data volume reduction for multiple scan chain designs citation:99 ncitation:98 pid1281537
+title1:A Partitioning Technique for Identification of Error-Capturing Scan Cells in Scan-BIST. title2:A partitioning technique for identification of error-capturing scan cells in scan-BIST citation:0 ncitation:0 pid1134522
+title1:Warning: Launch off Shift Tests for Delay Faults May Contribute to Test Escapes. title2:Warning: Launch off shift tests for delay faults may contribute to test escapes citation:4 ncitation:4 pid455282
+title1:SOC Test Scheduling Using Simulated Annealing. title2:SOC test scheduling using simulated annealing citation:73 ncitation:70 pid1081550
+title1:On RTL scan design. title2:On RTL scan design citation:19 ncitation:19 pid1081551
+title1:Functional Broadside Tests Under an Expanded Definition of Functional Operation Conditions. title2:Functional broadside tests under an expanded definition of functional operation conditions citation:1 ncitation:1 pid1134520
+title1:Scan Tests with Multiple Fault Activation Cycles for Delay Faults. title2:Scan tests with multiple fault activation cycles for delay faults citation:21 ncitation:22 pid1086896
+title1:Improved Algorithms for Constructive Multi-Phase Test Point Insertion for Scan Based BIST. title2:Improved Algorithms for Constructive Multi-Phase Test Point Insertion for Scan Based BIST citation:1 ncitation:2 pid1081549
+title1:Transparent scan: a new approach to test generation and test compaction for scan circuits that incorporates limited scan operations. title2:Transparent scan: a new approach to test generation and test compaction for scan circuits that incorporates limited scan operations citation:3 ncitation:3 pid1117963
+title1:On diagnosis of pattern-dependent delay faults. title2:On diagnosis of pattern-dependent delay faults citation:7 ncitation:8 pid1690206
+title1:Vector-restoration-based static compaction using random initial omission. title2:Vector-restoration-based static compaction using random initial omission citation:7 ncitation:5 pid406487
+title1:On output response compression in the presence of unknown output values. title2:On output response compression in the presence of unknown output values citation:63 ncitation:63 pid53313
+title1:On masking of redundant faults in synchronous sequential circuits with design-for-testability logic. title2:On masking of redundant faults in synchronous sequential circuits with design-for-testability logic citation:1 ncitation:1 pid649532
+title1:An Approach to Test Compaction for Scan Circuits that Enhances At-Speed Testing. title2:An approach to test compaction for scan circuits that enhances at-speed testing citation:4 ncitation:4 pid454561
+title1:On fault equivalence, fault dominance, and incompletely specified test sets. title2:On fault equivalence, fault dominance, and incompletely specified test sets citation:2 ncitation:2 pid1086855
+title1:n-pass n-detection fault simulation and its applications. title2:n-pass n-detection fault simulation and its applications citation:1 ncitation:-1 pid649510
+title1:Test enrichment for path delay faults using multiple sets of target faults. title2:Test enrichment for path delay faults using multiple sets of target faults citation:23 ncitation:23 pid644776
+title1:Functional test generation for delay faults in combinational circuits. title2:Functional test generation for delay faults in combinational circuits citation:38 ncitation:37 pid1085497
+title1:Theorems for identifying undetectable faults in partial-scan circuits. title2:Theorems for identifying undetectable faults in partial-scan circuits citation:1 ncitation:1 pid133546
+title1:Convolutional Compaction of Test Responses. title2:Convolutional compaction of test responses citation:106 ncitation:109 pid1085499
+title1:On improving genetic optimization based test generation. title2:On improving genetic optimization based test generation citation:25 ncitation:25 pid133544
+title1:Test data compression based on input-output dependence. title2:Test data compression based on input-output dependence citation:6 ncitation:6 pid1085501
+title1:Path Delay Fault Test Generation for Standard Scan Designs Using State Tuples. title2:Path delay fault test generation for standard scan designs using state tuples citation:7 ncitation:7 pid133551
+title1:On Improving Fault Diagnosis for Synchronous Sequential Circuits. title2:On improving fault diagnosis for synchronous sequential circuits citation:10 ncitation:10 pid1085503
+title1:On diagnosis and diagnostic test generation for pattern-dependenttransition faults. title2:On diagnosis and diagnostic test generation for pattern-dependent transition faults citation:7 ncitation:7 pid1085489
+title1:Forward-looking fault simulation for improved static compaction. title2:Forward-looking fault simulation for improved static compaction citation:44 ncitation:42 pid1117947
+title1:Generation of Broadside Transition-Fault Test Sets That Detect Four-Way Bridging Faults. title2:Generation of broadside transition-fault test sets that detect four-way bridging faults citation:2 ncitation:0 pid1085493
+title1:On Synthesis-for-Testability of Combinational Logic Circuits. title2:On synthesis-for-testability of combinational logic circuits citation:21 ncitation:24 pid143981
+title1:Fault-Tolerance Considerations in Large Multiple-Processor Systems. title2:Fault-tolerance considerations in large, multiple-processor systems citation:58 ncitation:57 pid1085495
+title1:Test compaction for at-speed testing of scan circuits based onnonscan test. sequences and removal of transfer sequences. title2:Test compaction for at-speed testing of scan circuits based on nonscan test. sequences and removal of transfer sequences citation:5 ncitation:6 pid646026
+title1:On Concurrent Test of Core-Based SOC Design. title2:On concurrent test of core-based SOC design citation:23 ncitation:25 pid133563
+title1:On Achieving a Complete Fault Coverage for Sequential Machines Using the Transition Fault Model. title2:On achieving a complete fault coverage for sequential machines using the transition fault model citation:26 ncitation:26 pid1085481
+title1:On n-detection test sets and variable n-detection test sets fortransition faults. title2:On n-detection test sets and variable n-detection test sets for transition faults citation:92 ncitation:89 pid133561
+title1:On test data compression and n-detection test sets. title2:On test data compression and n-detection test sets citation:8 ncitation:8 pid1085483
+title1:A diagnostic test generation procedure based on test elimination byvector omission for synchronous sequential circuits. title2:A diagnostic test generation procedure based on test elimination by vector omission for synchronous sequential circuits citation:18 ncitation:18 pid1086561
+title1:: INCREmental DYnamic test generation based on LEarning. title2:INCREDYBLE-TG: INCREmental DYnamic test generation based on LEarning citation:5 ncitation:-1 pid1085485
+title1:On synchronizable circuits and their synchronizing sequences. title2:On synchronizable circuits and their synchronizing sequences citation:2 ncitation:2 pid133565
+title1:At-Speed Delay Testing of Synchronous Sequential Circuits. title2:At-speed delay testing of synchronous sequential circuits citation:52 ncitation:52 pid807032
+title1:Vector replacement to improve static-test compaction forsynchronous sequential circuits. title2:Vector replacement to improve static-test compaction for synchronous sequential circuits citation:10 ncitation:9 pid1085487
+title1:On reducing test application time for scan circuits using limited scan operations and transfer sequences. title2:On reducing test application time for scan circuits using limited scan operations and transfer sequences citation:4 ncitation:3 pid1167230
+title1:New Procedures to Identify Redundant Stuck-At Faults and Removal of Redundant Logic. title2:New procedures to identify redundant stuck-at faults and removal of redundant logic citation:2 ncitation:2 pid1085473
+title1:z-Diagnosis: A Framework for Diagnostic Fault Simulation and Test Generation Utilizing Subsets of Outputs. title2:Z-diagnosis: a framework for diagnostic fault simulation and test generation utilizing subsets of outputs citation:6 ncitation:4 pid133553
+title1:On Multiple Path Propagating Tests for Path Delay Faults. title2:On multiple path propagating tests for path delay faults citation:33 ncitation:35 pid1085475
+title1:On the Detection of Delay Faults. title2:On the detection of delay faults citation:166 ncitation:168 pid133559
+title1:Vertex Splitting in Dags and Applications to Partial Scan Designs and Lossy Circuits. title2:Vertex splitting in dags and applications to partial scan designs and lossy circuits citation:3 ncitation:10 pid1085477
+title1:Deleting Vertices to Bound Path Length. title2:Deleting vertices to bound path length citation:15 ncitation:14 pid1582752
+title1:A Bridging Fault Model Where Undetectable Faults Imply Logic Redundancy. title2:A bridging fault model where undetectable faults imply logic redundancy citation:2 ncitation:2 pid133557
+title1:At-Speed Built-in Self-Repair Analyzer for Embedded Word-Oriented Memories. title2:At-speed built-in self-repair analyzer for embedded word-oriented memories citation:38 ncitation:35 pid1085479
+title1:Transistor level test generation for MOS circuits. title2:Transistor level test generation for MOS circuits citation:32 ncitation:33 pid1083827
+title1:Fault Diagnosis under Transparent-Scan. title2:Fault Diagnosis under Transparent-Scan citation:0 ncitation:0 pid1410832
+title1:On Improving Diagnostic Test Generation for Scan Chain Failures. title2:On Improving Diagnostic Test Generation for Scan Chain Failures citation:2 ncitation:2 pid452330
+title1:Long and short covering edges in combination logic circuits. title2:Long and short covering edges in combination logic circuits citation:13 ncitation:0 pid644974
+title1:Static Pin Mapping and SOC Test Scheduling for Cores with Multiple Test Sets. title2:Static pin mapping and SOC test scheduling for cores with multiple test sets citation:11 ncitation:13 pid1086547
+title1:Fault diagnosis based on parameters of output responses. title2:Fault diagnosis based on parameters of output responses citation:0 ncitation:0 pid455571
+title1:On path selection in combinational logic circuits. title2:On path selection in combinational logic circuits citation:148 ncitation:144 pid455570
+title1:NEST: a nonenumerative test generation method for path delay faults in combinational circuits. title2:NEST: A nonenumerative test generation method for path delay faults in combinational circuits citation:84 ncitation:85 pid1081136
+title1:COMPACTEST: a method to generate compact test sets for combinational circuits. title2:COMPACTEST: A method to generate compact test sets for combinational circuits citation:303 ncitation:301 pid143948
+title1:On the use of reset to increase the testability of interconnected finite-state machines. title2:On the use of reset to increase the testability of interconnected finite-state machines citation:1 ncitation:1 pid134615
+title1:Static test compaction for synchronous sequential circuits based on vector restoration. title2:Static test compaction for synchronous sequential circuits based on vector restoration citation:7 ncitation:7 pid1302981
+title1:Test sequences to achieve high defect coverage for synchronous sequential circuits. title2:Test sequences to achieve high defect coverage for synchronous sequential circuits citation:8 ncitation:9 pid1302984
+title1:On error correction in macro-based circuits. title2:On error correction in macro-based circuits citation:30 ncitation:31 pid550775
+title1:LOCSTEP: a logic-simulation-based test generation procedure. title2:LOCSTEP: a logic-simulation-based test generation procedure citation:51 ncitation:50 pid1084826
+title1:On validating data hold times for flip-flops in sequential circuits. title2:On validating data hold times for flip-flops in sequential circuits citation:15 ncitation:15 pid297105
+title1:On correction of multiple design errors. title2:On correction of multiple design errors citation:42 ncitation:43 pid1085545
+title1:On determining symmetries in inputs of logic circuits. title2:On determining symmetries in inputs of logic circuits citation:32 ncitation:31 pid1085541
+title1:On Reducing Peak Current and Power during Test. title2:On reducing peak current and power during test citation:72 ncitation:70 pid1085543
+title1:Built-In Test Sequence Generation for Synchronous Sequential Circuits Based on Loading and Expansion of Test Subsequences. title2:Built-in test sequence generation for synchronous sequential circuits based on loading and expansion of test subsequences citation:12 ncitation:12 pid1085537
+title1:Fault Simulation under the Multiple Observation Time Approach using Backward Implications. title2:Fault simulation under the multiple observation time approach using backward implications citation:2 ncitation:2 pid143931
+title1:On achieving complete fault coverage for sequential machines. title2:On achieving complete fault coverage for sequential machines citation:22 ncitation:23 pid1085539
+title1:Markov source based test length optimized SCAN-BIST architecture. title2:Markov source based test length optimized SCAN-BIST architecture citation:1 ncitation:1 pid1085533
+title1:NEST: A Non-Enumerative Test Generation Method for Path Delay Faults in Combinational Circuits. title2:NEST: A nonenumerative test generation method for path delay faults in combinational circuits citation:84 ncitation:85 pid1085531
+title1:On Testing of Interconnect Open Defects in Combinational Logic Circuits with Stems of Large Fanout. title2:On testing of interconnect open defects in combinational logic circuits with stems of large fanout citation:42 ncitation:41 pid1085529
+title1:SPADES-ACE: a simulator for path delay faults in sequential circuits with extensions to arbitrary clocking schemes. title2:SPADES-ACE: A simulator for path delay faults in sequential circuits with extensions to arbitrary clocking schemes citation:20 ncitation:21 pid1085527
+title1:Design of robustly testable combinational logic circuits. title2:Design of robustly testable combinational logic circuits citation:45 ncitation:47 pid455643
+title1:An efficient nonenumerative method to estimate the path delay fault coverage in combinational circuits. title2:An efficient nonenumerative method to estimate the path delay fault coverage in combinational circuits citation:51 ncitation:113 pid1085525
+title1:Finite memory test response compactors for embedded test applications. title2:Finite memory test response compactors for embedded test applications citation:53 ncitation:52 pid455641
+title1:3-weight pseudo-random test generation based on a deterministic test set for combinational and sequential circuits. title2:3-weight pseudo-random test generation based on a deterministic test set for combinational and sequential circuits citation:120 ncitation:116 pid1085523
+title1:Dynamic Compaction in SAT-Based ATPG. title2:Dynamic compaction in SAT-based ATPG citation:8 ncitation:6 pid133568
+title1:Generation of Functional Broadside Tests for Transition Faults. title2:Generation of functional broadside tests for transition faults citation:46 ncitation:44 pid1085521
+title1:Fault Detecting Test Sets for Reed-Muller Canonic Networks. title2:Fault detecting test sets for Reed-Muller canonic networks citation:85 ncitation:79 pid1302939
+title1:Transparent DFT: a design for testability and test generation approach for synchronous sequential circuits. title2:Transparent DFT: a design for testability and test generation approach for synchronous sequential circuits citation:3 ncitation:3 pid448804
+title1:On the Repair of Redundant RAMs. title2:On the repair of redundant RAMs citation:22 ncitation:22 pid133570
+title1:Scan-BIST based on transition probabilities for circuits with single and multiple scan chains. title2:Scan-BIST based on transition probabilities for circuits with single and multiple scan chains citation:11 ncitation:9 pid455644
+title1:Procedures for Identifying Untestable and Redundant Transition Faults in Synchronous Sequential Circuits. title2:Procedures for identifying untestable and redundant transition faults in synchronous sequential circuits citation:23 ncitation:24 pid1085519
+title1:On Complete Functional Broadside Tests for Transition Faults. title2:On complete functional broadside tests for transition faults citation:10 ncitation:8 pid1084840
+title1:Cost-Effective Generation of Minimal Test Sets for Stuck-at Faults in Combinational Logic Circuits. title2:Cost-effective generation of minimal test sets for stuck-at faults in combinational logic circuits citation:217 ncitation:214 pid1085517
+title1:On Generating Pseudo-Functional Delay Fault Tests for Scan Designs. title2:On generating pseudo-functional delay fault tests for scan designs citation:48 ncitation:46 pid1085514
+title1:On Symmetric Error Correcting and All Unidirectional Error Detecting Codes. title2:On symmetric error correcting and all unidirectional error detecting codes citation:31 ncitation:24 pid1085515
+title1:Defect Aware Test Patterns. title2:Defect aware test patterns citation:36 ncitation:35 pid1085513
+title1:A Low Power Pseudo-Random BIST Technique. title2:A low power pseudo-random BIST technique citation:56 ncitation:54 pid1085511
+title1:Dominance Based Analysis for Large Volume Production Fail Diagnosis. title2:Dominance based analysis for large volume production fail diagnosis citation:11 ncitation:-1 pid1302927
+title1:Test Generation for Open Defects in CMOS Circuits. title2:Test generation for open defects in cmos circuits citation:7 ncitation:5 pid1085507
+title1:Test vector chains for increased targeted and untargeted fault coverage. title2:Test vector chains for increased targeted and untargeted fault coverage citation:1 ncitation:1 pid1085505
+title1:Circuit lines for guiding the generation of random test sequences for synchronous sequential circuits. title2:Circuit lines for guiding the generation of random test sequences for synchronous sequential circuits citation:1 ncitation:1 pid285873
+title1:A Testable Design of Iterative Logic Arrays. title2:A testable design of iterative logic arrays citation:102 ncitation:96 pid1086704
+title1:Concurrent Online Testing of Identical Circuits Using Nonidentical Input Vectors. title2:Concurrent online testing of identical circuits using nonidentical input vectors citation:5 ncitation:3 pid132602
+title1:Compact test sets for high defect coverage. title2:Compact test sets for high defect coverage citation:71 ncitation:72 pid153746
+title1:On achieving complete coverage of delay faults in full scan circuits using locally available lines. title2:On achieving complete coverage of delay faults in full scan circuits using locally available lines citation:17 ncitation:18 pid1080267
+title1:COMPACTEST: A Method to Generate Compact Test Sets for Combinatorial Circuits. title2:COMPACTEST: A method to generate compact test sets for combinational circuits citation:303 ncitation:301 pid143127
+title1:Z-DFD: Design-for-Diagnosability Based on the Concept of Z-Detection. title2:Z-DFD: Design-for-diagnosability based on the concept of Z-detection citation:9 ncitation:7 pid406196
+title1:A Low Power Pseudo-Random BIST Technique. title2:A low power pseudo-random BIST technique citation:56 ncitation:54 pid649308
+title1:On Totally Self-Checking Checkers for Separable Codes. title2:On totally self-checking checkers for separable codes citation:92 ncitation:92 pid1085584
+title1:A method to enhance the fault coverage obtained by output response comparison of identical circuits. title2:A method to enhance the fault coverage obtained by output response comparison of identical circuits citation:11 ncitation:11 pid153785
+title1:On improving the stuck-at fault coverage of functional test sequences by using limited-scan operations. title2:Improving the stuck-at fault coverage of functional test sequences by using limited-scan operations citation:15 ncitation:17 pid153780
+title1:Achieving Complete Delay Fault Testability by Extra Inputs. title2:Achieving complete delay fault testability by extra inputs citation:14 ncitation:15 pid1135423
+title1:A Learning-Based Method to Match a Test Pattern Generator to a Circuit-Under-Test. title2:A Learning-based method to match a test pattern generator to a circuit-under-test citation:10 ncitation:10 pid53519
+title1:On Achieving Complete Testability of Synchronous Sequential Circuits with Synchronizing Sequences. title2:On achieving complete testability of synchronous sequential circuits with synchronizing sequences citation:16 ncitation:16 pid53517
+title1:Low-Complexity Fault Simulation under the Multiplie Observation Time Testing Approach. title2:Low-complexity fault simulation under the multiple observation time testing approach citation:5 ncitation:4 pid1081254
+title1:On Cancelling the Effects of Logic Sharing for Improved Path Delay Fault Testability. title2:On cancelling the effects of logic sharing for improved path delay fault testability citation:4 ncitation:4 pid1098039
+title1:A diagnostic test generation procedure for synchronous sequential circuits based on test elimination. title2:A diagnostic test generation procedure for synchronous sequential circuits based on test elimination citation:35 ncitation:33 pid2128101
+title1:On Selecting Testable Paths in Scan Designs. title2:On selecting testable paths in scan designs citation:26 ncitation:22 pid2407683
+title1:Test Application Time Reduction for Scan Circuits Using Limited Scan Operations. title2:Test application time reduction for scan circuits using limited scan operations citation:8 ncitation:8 pid455544
+title1:Semi-Concurrent On-Line Testing of Transition Faults Through Output Response Comparison of Identical Circuits. title2:Semiconcurrent Online Testing of Transition Faults through Output Response Comparison of Identical Circuits citation:3 ncitation:4 pid1135445
+title1:A Multicode Single Transition-Time State Assignment for Asynchronous Sequential Machines. title2:A multicode single transition-time state assignment for asynchronous sequential machines citation:6 ncitation:6 pid455545
+title1:Genetic Beam Search for Gate Matrix Layout. title2:Genetic beam search for gate matrix layout citation:20 ncitation:21 pid455547
+title1:On the Detection of Terminal Stuck-Faults. title2:On the Detection of Terminal Stuck-Faults citation:11 ncitation:11 pid1167278
+title1:Synthesis of Scan Chains for Netlist Descriptions at RT-Level. title2:Synthesis of scan chains for netlist descriptions at RT-level citation:9 ncitation:9 pid455536
+title1:On Static Compaction of Test Sequences for Synchronous Sequential Circuits. title2:On static compaction of test sequences for synchronous sequential circuits citation:107 ncitation:109 pid455537
+title1:A Method of Static Test Compaction Based on Don't Care Identification. title2:A method of static test compaction based on don't care identification citation:12 ncitation:11 pid455538
+title1:On Detection of Bridge Defects with Stuck-at Tests. title2:On Detection of Bridge Defects with Stuck-at Tests citation:1 ncitation:1 pid455539
+title1:On Determining Scan Flip-Flops in Partial-Scan Designs. title2:On determining scan flip-flops in partial-scan designs citation:237 ncitation:235 pid455540
+title1:A novel framework for logic verification in a synthesis environment. title2:A novel framework for logic verification in a synthesis environment citation:36 ncitation:37 pid455541
+title1:Procedures for Identifying Undetectable and Redundant Faults In Synchronous Sequential Circuits. title2:New procedures for identifying undetectable and redundant faults in synchronous sequential circuits citation:13 ncitation:13 pid455542
+title1:A New Test Generation Method for Sequential Circuits. title2:A new test generation method for sequential circuits citation:47 ncitation:44 pid455543
+title1:On Test Data Volume Reduction for Multiple Scan Chain Designs. title2:On test data volume reduction for multiple scan chain designs citation:99 ncitation:98 pid2444768
+title1:Compact test generation for bridging faults under I/sub DDQ/ testing. title2:Compact test generation for bridging faults under I< sub> DDQ</sub> testing citation:29 ncitation:-1 pid148779
+title1:On the effects of test compaction on defect coverage. title2:On the effects of test compaction on defect coverage citation:50 ncitation:49 pid1412990
+title1:A-Diagnosis: A Complement to Z-Diagnosis. title2:A-Diagnosis: A Complement to Z-Diagnosis citation:1 ncitation:1 pid1167283
+title1:Functional Broadside Tests with Different Levels of Reachability. title2:Functional broadside tests with different levels of reachability citation:1 ncitation:1 pid447860
+title1:On Codeword Testing of Two-Rail and Parity TSC Checkers. title2:On codeword testing of two-rail and parity TSC checkers citation:4 ncitation:4 pid153852
+title1:Test Transformation to Improve Compaction by Statistical Encoding. title2:Test transformation to improve compaction by statistical encoding citation:33 ncitation:33 pid1080241
+title1:Concurrent On-Line Testing of Identical Circuits Through Output Comparison Using Non-Identical Input Vectors. title2:Concurrent on-line testing of identical circuits through output comparison using non-identical input vectors citation:6 ncitation:5 pid1080242
+title1:Reducing Fault Latency in Concurrent On-Line Testing by Using Checking Functions over Internal Lines. title2:Reducing fault latency in concurrent on-line testing by using checking functions over internal lines citation:10 ncitation:8 pid282634
+title1:On the Effectiveness of Residue Code Checking for Parallel Two's Complement Multipliers. title2:On the effectiveness of residue code checking for parallel two's complement multipliers citation:13 ncitation:18 pid1167236
+title1:Diagnostic Test Generation Based on Subsets of Faults. title2:Diagnostic test generation based on subsets of faults citation:3 ncitation:3 pid133449
+title1:A Unified Method to Detect Transistor Stuck-Open Faults and Transition Delay Faults. title2:A unified method to detect transistor stuck-open faults and transition delay faults citation:6 ncitation:5 pid148752
+title1:The Accidental Detection Index as a Fault Ordering Heuristic for Full-Scan Circuits title2:The accidental detection index as a fault ordering heuristic for full-scan circuits citation:2 ncitation:2 pid900504
+title1:Partitioned n-detection test generation. title2:Partitioned n-detection test generation citation:0 ncitation:0 pid282639
+title1:Low Shift and Capture Power Scan Tests. title2:Low shift and capture power scan tests citation:51 ncitation:43 pid1084733
+title1:Fault Collapsing for Transition Faults Using Extended Transition Faults. title2:Fault Collapsing for Transition Faults Using Extended Transition Faults citation:1 ncitation:1 pid649269
+title1:Improving the Transition Fault Coverage of Functional Broadside Tests by Observation Point Insertion. title2:Improving the transition fault coverage of functional broadside tests by observation point insertion citation:2 ncitation:2 pid282641
+title1:Definition and application of approximate necessary assignments. title2:Definition and application of approximate necessary assignments citation:1 ncitation:1 pid649268
+title1:On tests to detect via opens in digital CMOS circuits. title2:On tests to detect via opens in digital CMOS circuits citation:8 ncitation:7 pid649271
+title1:Enhancing Delay Fault Coverage through Low Power Segmented Scan. title2:Enhancing delay fault coverage through low-power segmented scan citation:25 ncitation:21 pid649270
+title1:Constraint Driven Pin Mapping for Concurrent SOC Testing. title2:Constraint Driven pin mapping for concurrent SOC testing citation:10 ncitation:10 pid153828
+title1:MUSTC-Testing: Multi-Stage-Combinational Test scheduling at the Register-Transfer Level. title2:MUSTC-Testing: Multi-Stage-Combinational Test scheduling at the Register-Transfer Level citation:11 ncitation:13 pid646370
+title1:Circuit Independent Weighted Pseudo-Random BIST Pattern Generator. title2:Circuit independent weighted pseudo-random BIST pattern generator citation:3 ncitation:2 pid153586
+title1:Weighted Pseudo-Random BIST for N-Detection of Single Stuck-at Faults. title2:Weighted pseudo-random BIST for n-detection of single stuck-at faults citation:6 ncitation:6 pid153585
+title1:A Test Generation Procedure for Avoiding the Detection of Functionally Redundant Transition Faults. title2:A test generation procedure for avoiding the detection of functionally redundant transition faults citation:7 ncitation:7 pid1369300
+title1:Don't-Care Identification on Specific Bits of Test Patterns. title2:Don't-care identification on specific bits of test patterns citation:24 ncitation:24 pid220503
+title1:Cache size selection for performance, energy and reliability of time-constrained systems. title2:Cache size selection for performance, energy and reliability of time-constrained systems citation:24 ncitation:22 pid693998
+title1:A Partitioning and Storage Based Built-in Test Pattern Generation Method for Synchronous Sequential Circuits. title2:A partitioning and storage based built-in test pattern generation method for synchronous sequential circuits citation:1 ncitation:1 pid824020
+title1:Theory and Practice of Sequential Machine Testing and Testability. title2:Theory and practice of sequential machine testing and testability citation:9 ncitation:9 pid234613
+title1:A Generalized Test Generation Procedure for Path Delay Faults. title2:A generalized test generation procedure for path delay faults citation:5 ncitation:4 pid646339
+title1:ACTIV-LOCSTEP: A Test Generation Procedure Based on Logic Simulation and Fault Activation. title2:ACTIV-LOCSTEP: a test generation procedure based on logic simulation and fault activation citation:6 ncitation:8 pid693956
+title1:Dynamic Test Compaction for Synchronous Sequential Circuits using Static Compaction Techniques. title2:Dynamic test compaction for synchronous sequential circuits using static compaction techniques citation:36 ncitation:37 pid1135823
+title1:Robust Tests for Parity Trees. title2:Robust tests for parity trees citation:8 ncitation:6 pid2358284
+title1:LOCSTEP: A Logic Simulation Based Test Generation Procedure. title2:LOCSTEP: a logic-simulation-based test generation procedure citation:51 ncitation:50 pid234619
+title1:Design and Synthesis for Testability of Synchronous Sequential Circuits Based on Strong-Connectivity. title2:Design and synthesis for testability of synchronous sequential circuits based on strong-connectivity citation:15 ncitation:14 pid1512480
+title1:EXOP (Extended Operation): A New Logical Fault Model for Digital Circuits. title2:EXOP (Extended Operation): A new logical fault model for digital circuits citation:3 ncitation:3 pid134911
+title1:A Divide-And-Conquer Approach to Test Generation for Large Synchronous Sequential Circuits. title2:A divide-and-conquer approach to test generation for large synchronous sequential circuits citation:4 ncitation:4 pid693964
+title1:Test Generation for Synchronous Sequential Circuits Using Multiple Observation Times. title2:Test generation for synchronous sequential circuits using multiple observation times citation:33 ncitation:35 pid2232576
+title1:Fault Location based on Circuit Partitioning. title2:Fault location based on circuit partitioning citation:2 ncitation:3 pid645269
+title1:Fault Location Based on Circuit Partitioning. title2:Fault location based on circuit partitioning citation:2 ncitation:3 pid1367892
+title1:Vector Restoration Based Static Compaction of Test Sequences for Synchronous Sequential Circuits. title2:Vector restoration based static compaction of test sequences for synchronous sequential circuits citation:94 ncitation:96 pid646304
+title1:The effects of test compaction on fault diagnosis. title2:The effects of test compaction on fault diagnosis citation:3 ncitation:2 pid869470
+title1:Fault Simulation Based Test Generation for Combinational Circuits Using Dynamically Selected Sub-Circuits. title2:Fault simulation based test generation for combinational circuits using dynamically selected subcircuits citation:3 ncitation:3 pid1278078
+title1:On the Coverage of Delay Faults in Scan Designs with Multiple Scan Chains. title2:On the coverage of delay faults in scan designs with multiple scan chains citation:6 ncitation:8 pid58827
+title1:Bridge Defect Diagnosis with Physical Information. title2:Bridge defect diagnosis with physical information citation:16 ncitation:15 pid58826
+title1:Static Test Compaction for Multiple Full-Scan Circuits. title2:Static test compaction for multiple full-scan circuits citation:6 ncitation:6 pid448255
+title1:Test generation for multiple state-table faults in finite-state machines. title2:Test generation for multiple state-table faults in finite-state machines citation:15 ncitation:15 pid286550
+title1:On the Design of Pseudoexhaustive Testable PLA's. title2:On the design of pseudoexhaustive testable PLAs citation:5 ncitation:5 pid52046
+title1:Techniques for minimizing power dissipation in scan and combinational circuits during test application. title2:Techniques for minimizing power dissipation in scan and combinational circuits during test application citation:252 ncitation:243 pid1692953
+title1:Sensitivity Levels of Test Patterns and Their Usefulness in Simulation-Based Test Generation. title2:Sensitivity levels of test patterns and their usefulness in simulation-based test generation citation:3 ncitation:3 pid454880
+title1:Scan BIST Targeting Transition Faults Using a Markov Source. title2:Scan BIST targeting transition faults using a Markov source citation:5 ncitation:4 pid286574
+title1:A test pattern ordering algorithm for diagnosis with truncated fail data. title2:A test pattern ordering algorithm for diagnosis with truncated fail data citation:4 ncitation:4 pid220472
+title1:Full Scan Fault Coverage With Partial Scan. title2:Full scan fault coverage with partial scan citation:22 ncitation:21 pid220471
+title1:On the feasibility of fault simulation using partial circuit descriptions. title2:On the feasibility of fault simulation using partial circuit descriptions citation:0 ncitation:0 pid220470
+title1:On Improving Static Test Compaction for Sequential Circuits. title2:On improving static test compaction for sequential circuits citation:11 ncitation:11 pid220469
+title1:On Generating High Quality Tests for Transition Faults. title2:On generating high quality tests for transition faults citation:64 ncitation:60 pid220468
+title1:Efficient multiple path propagating tests for delay faults. title2:Efficient multiple path propagating tests for delay faults citation:3 ncitation:3 pid220467
+title1:Reducing test application time for full scan circuits by the addition of transfer sequences. title2:Reducing test application time for full scan circuits by the addition of transfer sequences citation:5 ncitation:6 pid220466
+title1:An Efficient Method to Identify Untestable Path Delay Faults. title2:An efficient method to identify untestable path delay faults citation:29 ncitation:28 pid220465
+title1:A Postprocessing Procedure to Reduce the Number of Different Test Lengths in a Test Set for Scan Circuits. title2:A postprocessing procedure to reduce the number of different test lengths in a test set for scan circuits citation:1 ncitation:1 pid220464
+title1:A Low Power Pseudo-Random BIST Technique. title2:A low power pseudo-random BIST technique citation:56 ncitation:54 pid2360415
+title1:On Methods to Improve Location Based Logic Diagnosis. title2:On methods to improve location based logic diagnosis citation:16 ncitation:16 pid286584
+title1:A scalable method for the generation of small test sets. title2:A scalable method for the generation of small test sets citation:1 ncitation:2 pid286586
+title1:Minimal Delay Test Sets for Unate Gate Networks. title2:Minimal delay test sets for unate gate networks citation:7 ncitation:7 pid286588
+title1:Transition Path Delay Faults: A New Path Delay Fault Model for Small and Large Delay Defects. title2:Transition path delay faults: a new path delay fault model for small and large delay defects citation:17 ncitation:14 pid455871
+title1:A delay fault model for at-speed fault simulation and test generation. title2:A delay fault model for at-speed fault simulation and test generation citation:7 ncitation:6 pid286590
+title1:SIFAR: Static Test Compaction for Synchronous Sequential Circuits Based on Single Fault Restoration. title2:SIFAR: Static test compaction for synchronous sequential circuits based on single fault restoration citation:11 ncitation:8 pid286576
+title1:On Removing Redundant Faults in Synchronous Sequential Circuits. title2:On removing redundant faults in synchronous sequential circuits citation:3 ncitation:3 pid58851
+title1:On Maximizing the Fault Coverage for a Given Test Length Limit in a Synchronous Sequential Circuit. title2:On maximizing the fault coverage for a given test length limit in a synchronous sequential circuit citation:9 ncitation:9 pid286578
+title1:On the Use of Fault Dominance in n-Detection Test Generation. title2:On the use of fault dominance in n-detection test generation citation:13 ncitation:13 pid286580
+title1:GALLOP: Genetic Algorithm based Low Power FSM Synthesis by Simultaneous Partitioning and State Assignment. title2:GALLOP: Genetic algorithm based low power FSM synthesis by simultaneous partitioning and state assignment citation:23 ncitation:20 pid1079531
+title1:On Synchronizing Sequences and Test Sequence Partitioning. title2:On synchronizing sequences and test sequence partitioning citation:3 ncitation:3 pid1083950
+title1:On n-detection test sequences for synchronous sequential circuits343. title2:On n-detection test sequences for synchronous sequential circuits citation:23 ncitation:23 pid2229444
+title1:On n-Detection Test Sets and Variable n-Detection Test Sets for Transition Faults. title2:On n-detection test sets and variable n-detection test sets for transition faults citation:92 ncitation:89 pid286606
+title1:Improving compressed test pattern generation for multiple scan chain failure diagnosis. title2:Improving compressed test pattern generation for multiple scan chain failure diagnosis citation:2 ncitation:1 pid448052
+title1:A Flexible Path Selection Procedure for Path Delay Fault Testing. title2:A flexible path selection procedure for path delay fault testing citation:8 ncitation:8 pid131742
+title1:Stuck-At Tuple-Detection: A Fault Model Based on Stuck-At Faults for Improved Defect Coverage. title2:Stuck-at tuple-detection: A fault model based on stuck-at faults for improved defect coverage citation:31 ncitation:33 pid142379
+title1:COREL: A Dynamic Compaction Procedure for Synchronous Sequential Circuits with Repetition and Local Static Compaction. title2:COREL: a dynamic compaction procedure for synchronous sequential circuits with repetition and local static compaction citation:2 ncitation:2 pid58630
+title1:On Delay Fault Testing in Logic Circuits. title2:On delay fault testing in logic circuits citation:525 ncitation:519 pid645172
+title1:On Efficient X-Handling Using a Selective Compaction Scheme to Achieve High Test Response Compaction Ratios. title2:On efficient X-handling using a selective compaction scheme to achieve high test response compaction ratios citation:42 ncitation:41 pid310370
+title1:A Test Interface for Built-In Test of Non-Isolated Scanned Cores. title2:A test interface for built-in test of non-isolated scanned cores citation:1 ncitation:1 pid58631
+title1:Test Pattern Generation for Path Delay Faults in Synchronous Sequential Circuits Using Multiple Fast Clocks and Multiple Observations Times. title2:Test pattern generation for path delay faults in synchronous sequential circuits using multiple fast clocks and multiple observation times citation:3 ncitation:3 pid58632
+title1:Improving the Proportion of At-Speed Tests in Scan BIST. title2:Improving the proportion of at-speed tests in scan BIST citation:14 ncitation:13 pid58633
+title1:A Same/Different Fault Dictionary: An Extended Pass/Fail Fault Dictionary with Improved Diagnostic Resolution. title2:Same/different fault dictionary: an extended pass/fail fault dictionary with improved diagnostic resolution citation:9 ncitation:8 pid58634
+title1:Application of Saluja-Karpovsky Compactors to Test Responses with Many Unknowns. title2:Application of Saluja-Karpovsky compactors to test responses with many unknowns citation:89 ncitation:89 pid285691
+title1:Multiple Faults in Reed-Muller Canonic Networks title2:Multiple faults in Reed-Muller canonic networks citation:3 ncitation:3 pid646234
+title1:On static test compaction and test pattern ordering for scan designs. title2:On static test compaction and test pattern ordering for scan designs citation:44 ncitation:42 pid1241471
+title1:A scan BIST generation method using a markov source and partial bit-fixing. title2:A scan BIST generation method using a markov source and partial bit-fixing citation:15 ncitation:16 pid58669
+title1:Experimental Results of Forward-Looking Reverse Order Fault Simulation on Industrial Circuits with Scan. title2:Experimental results of forward-looking reverse order fault simulation on industrial circuits with scan citation:1 ncitation:1 pid1135703
+title1:Pattern Sensitivity: A Property to Guide Test Generation for Combinational Circuits. title2:Pattern sensitivity: A property to guide test generation for combinational circuits citation:18 ncitation:19 pid283500
+title1:Test Data Volume Reduction by Test Data Realignment. title2:Test data volume reduction by test data realignment citation:2 ncitation:2 pid649117
+title1:On test generation for transition faults with minimized peak power dissipation. title2:On test generation for transition faults with minimized peak power dissipation citation:23 ncitation:21 pid649119
+title1:Improving the Efficiency of Static Compaction Based on Chronological Order Enumeration of Test Sequences. title2:Improving the efficiency of static compaction based on chronological order enumeration of test sequences [logic testing] citation:4 ncitation:-1 pid649189
+title1:Pseudo Random Patterns Using Markov Sources for Scan BIST. title2:Pseudo random patterns using Markov sources for scan BIST citation:21 ncitation:22 pid649187
+title1:Embedded Totally Self-Checking Checkers: A Practical Design. title2:Embedded totally self-checking checkers: A practical design citation:35 ncitation:32 pid234652
+title1:On Improving Defect Coverage of Stuck-at Fault Tests. title2:On improving defect coverage of stuck-at fault tests citation:7 ncitation:7 pid646184
+title1:Evolutionary Optimization of Markov Sources for Pseudo Random Scan BIST. title2:Evolutionary optimization of Markov sources for pseudo random scan BIST citation:11 ncitation:10 pid649195
+title1:Properties of Maximally Dominating Faults. title2:Properties of maximally dominating faults citation:4 ncitation:4 pid649193
+title1:Multiple Scan Tree Design with Test Vector Modification. title2:Multiple scan tree design with test vector modification citation:24 ncitation:26 pid286674
+title1:Built-In Generation of Weighted Test Sequences for Synchronous Sequential Circuits. title2:Built-in generation of weighted test sequences for synchronous sequential circuits citation:3 ncitation:3 pid649207
+title1:Functional Test Generation for Full Scan Circuits. title2:Functional test generation for full scan circuits citation:2 ncitation:2 pid1241369
+title1:Sequence reordering to improve the levels of compaction achievable by static compaction procedures. title2:Sequence reordering to improve the levels of compaction achievable by static compaction procedures citation:10 ncitation:9 pid649202
+title1:Test Enrichment for Path Delay Faults Using Multiple Sets of Target Faults. title2:Test enrichment for path delay faults using multiple sets of target faults citation:23 ncitation:23 pid2417479
+title1:On Path Selection in Combinational Logic Circuits. title2:On path selection in combinational logic circuits citation:148 ncitation:144 pid649209
+title1:Level of Similarity: A Metric for Fault Collapsing. title2:Level of Similarity: A Metric for Fault Collapsing citation:6 ncitation:6 pid286688
+title1:On the design of random pattern testable PLA based on weighted random pattern testing. title2:On the design of random pattern testable PLA based on weighted random pattern testing citation:9 ncitation:10 pid282330
+title1:The Accidental Detection Index as a Fault Ordering Heuristic for Full-Scan Circuits. title2:The accidental detection index as a fault ordering heuristic for full-scan circuits citation:2 ncitation:2 pid143799
+title1:Generation of broadside transition fault test sets that detect four-way bridging faults. title2:Generation of broadside transition-fault test sets that detect four-way bridging faults citation:2 ncitation:0 pid649169
+title1:Static compaction for two-pattern test sets. title2:Static compaction for two-pattern test sets citation:11 ncitation:12 pid211727
+title1:Scan-Based Tests with Low Switching Activity. title2:Scan-based tests with low switching activity citation:14 ncitation:12 pid455059
+title1:REDI: An Efficient Fault Oriented Procedure to Identify Redundant Faults in Combinational Logic Circuits. title2:REDI: an efficient fault oriented procedure to identify redundant faults in combinational logic circuits citation:6 ncitation:6 pid132952
+title1:Conflict driven techniques for improving deterministic test pattern generation. title2:Conflict driven techniques for improving deterministic test pattern generation citation:25 ncitation:24 pid58507
+title1:A Postprocessing Procedure of Test Enrichment for Path Delay Faults. title2:A postprocessing procedure of test enrichment for path delay faults citation:3 ncitation:3 pid2454743
+title1:Reverse-order-restoration-based static test compaction for synchronous sequential circuits. title2:Reverse-order-restoration-based static test compaction for synchronous sequential circuits citation:10 ncitation:8 pid58502
+title1:PROPTEST: a property-based test generator for synchronous sequential circuits. title2:PROPTEST: a property-based test generator for synchronous sequential circuits citation:16 ncitation:13 pid132949
+title1:MIX: A Test Generation System for Synchronous Sequential Circuits. title2:MIX: A test generation system for synchronous sequential circuits citation:30 ncitation:29 pid58499
+title1:On Test Generation for Interconnected Finite-State Machines: The Input Sequence Propagation Problem. title2:On test generation for interconnected finite-state machines-the input sequence propagation problem citation:1 ncitation:2 pid858235
+title1:On Compacting Test Response Data Containing Unknown Values. title2:On compacting test response data containing unknown values citation:53 ncitation:51 pid58524
+title1:On Reducing Test Data Volume and Test Application Time for Multiple Scan Chain Designs. title2:On Reducing Test Data Volume and Test Application Time for Multiple Scan Chain Designs. citation:73 ncitation:72 pid142770
+title1:Selection of a fault model for fault diagnosis based on unique responses. title2:Selection of a fault model for fault diagnosis based on unique responses citation:2 ncitation:0 pid58522
+title1:On CMOS Totally Self-Checking Circuits. title2:On CMOS totally self-checking circuits citation:24 ncitation:23 pid142774
+title1:Z-Sets and Z-Detections: Circuit Characteristics that Simplify Fault Diagnosis. title2:Z-sets and z-detections: circuit characteristics that simplify fault diagnosis citation:21 ncitation:20 pid142775
+title1:Finding a Common Fault Response for Diagnosis during Silicon Debug. title2:Finding a common fault response for diagnosis during silicon debug citation:1 ncitation:1 pid142776
+title1:On the Characterization of Hard-to-Detect Bridging Faults. title2:On the characterization of hard-to-detect bridging faults citation:12 ncitation:12 pid142777
+title1:Design-for-Testability for Synchronous Sequential Circuits using Locally Available Lines. title2:Design-for-testability for synchronous sequential circuits using locally available lines citation:2 ncitation:2 pid646633
+title1:Test compaction for transition faults under transparent-scan. title2:Test compaction for transition faults under transparent-scan citation:4 ncitation:3 pid142779
+title1:A March Test for Functional Faults in Semiconductor Random Access Memories. title2:A march test for functional faults in semiconductor random access memories citation:156 ncitation:153 pid132932
+title1:Test Procedures for a Class of Pattern-Sensitive Faults in Semiconductor Random-Access Memories. title2:Test procedures for a class of pattern-sensitive faults in semiconductor random-access memories citation:95 ncitation:86 pid142780
+title1:On the effectiveness of residue code checking for parallel two's complement multipliers. title2:On the effectiveness of residue code checking for parallel two's complement multipliers citation:13 ncitation:18 pid142781
+title1:TEMPLATES: A Test Generation Procedure for Synchronous Sequential Circuits. title2:TEMPLATES: a test generation procedure for synchronous sequential circuits citation:0 ncitation:0 pid142783
+title1:Design-for-Testability for Improved Path Delay Fault Coverage of Critical Paths. title2:Design-for-testability for improved path delay fault coverage of critical paths citation:2 ncitation:1 pid58541
+title1:On Efficient Concurrent Fault Simulation for Synchronous Sequential Circuits. title2:On efficient concurrent fault simulation for synchronous sequential circuits citation:9 ncitation:9 pid859140
+title1:Detectability of internal bridging faults in scan chains. title2:Detectability of internal bridging faults in scan chains citation:2 ncitation:3 pid283369
+title1:On the Compaction of Test Sets Produced by Genetic Optimization. title2:On the compaction of test sets produced by genetic optimization citation:9 ncitation:11 pid283375
+title1:On-chip Generation of the Second Primary Input Vectors of Broadside Tests. title2:On-chip generation of the second primary input vectors of broadside tests citation:7 ncitation:5 pid58536
+title1:Perspectives for High Performance Computing in Workstation Networks. title2:Perspectives for high performance computing in workstation networks citation:3 ncitation:2 pid58538
+title1:Further Results on Convolutional Codes Derived from Block Codes title2:Further results on convolutional codes derived from block codes citation:3 ncitation:4 pid1084317
+title1:A Method for Identifying Robust Dependent and Functionally Unsensitizable Paths. title2:A method for identifying robust dependent and functionally unsensitizable paths citation:52 ncitation:53 pid1084319
+title1:Linear Convolutional Codes for Compound Channels title2:Linear convolutional codes for compound channels citation:5 ncitation:4 pid645516
+title1:A Class of High-Rate Double-Error-Correcting Convolutional Codes title2:A class of high-rate double-error-correcting convolutional codes citation:0 ncitation:-1 pid58559
+title1:A Construction for Convolutional Codes Using Block Codes title2:A construction for convolutional codes using block codes citation:6 ncitation:8 pid1577907
+title1:A Decoding Algorithm for Some Convolutional Codes Constructed from Block Codes title2:A decoding algorithm for some convolutional codes constructed from block codes citation:2 ncitation:2 pid646598
+title1:Synthesis of Multi-Level Combinational Circuits for Complete Robust Path Delay Fault Testability. title2:Synthesis of multi-level combinational circuits for complete robust path delay fault testability citation:33 ncitation:39 pid2360591
+title1:Hazard-Based Detection Conditions for Improved Transition Fault Coverage of Functional Test Sequences. title2:Hazard-based detection conditions for improved transition fault coverage of functional test sequences citation:1 ncitation:1 pid58548
+title1:Delay fault models for VLSI circuits1. title2:Delay fault models for VLSI circuits citation:5 ncitation:5 pid283378
+title1:On test generation by input cube avoidance. title2:On test generation by input cube avoidance citation:2 ncitation:2 pid456162
+title1:Improving the Detectability of Resistive Open Faults in Scan Cells. title2:Improving the detectability of resistive open faults in scan cells citation:6 ncitation:5 pid194002
+title1:Battery-aware dynamic voltage scaling in multiprocessor embedded system. title2:Battery-aware dynamic voltage scaling in multiprocessor embedded system citation:20 ncitation:20 pid1241245
+title1:On generating compact test sequences for synchronous sequential circuits. title2:On generating compact test sequences for synchronous sequential circuits citation:45 ncitation:46 pid453693
+title1:Robust tests for parity trees. title2:Robust tests for parity trees citation:8 ncitation:6 pid2128407
+title1:Distance Restricted Scan Chain Reordering to Enhance Delay Fault Coverage. title2:Distance restricted scan chain reordering to enhance delay fault coverage citation:22 ncitation:22 pid142788
+title1:Memory BIST Using ESP. title2:Memory BIST using ESP citation:1 ncitation:1 pid142787
+title1:Fast Identification of Robust Dependent Path Delay Faults. title2:Fast identification of robust dependent path delay faults citation:99 ncitation:98 pid142786
+title1:Process Variation-Aware Test for Resistive Bridges. title2:Process variation-aware test for resistive bridges citation:13 ncitation:12 pid142785
+title1:On Self-Fault Diagnosis of the Distributed Systems. title2:On self-fault diagnosis of the distributed systems citation:25 ncitation:19 pid142784
+title1:A Diagnosis Algorithm for Distributed Computing Systems with Dynamic Failure and Repair. title2:A diagnosis algorithm for distributed computing systems with dynamic failure and repair citation:132 ncitation:126 pid1082176
+title1:A Hierarchical Environment for Interactive Test Engineering. title2:A hierarchical environment for interactive test engineering citation:2 ncitation:1 pid1135061
+title1:A Fault Simulation Based Test Pattern Generator for Synchronous Sequential Circuits. title2:A fault simulation based test pattern generator for synchronous sequential circuits citation:16 ncitation:17 pid1477566
+title1:Distributed Fault-Tolerance of Tree Structures. title2:Distributed fault-tolerance of tree structures citation:14 ncitation:11 pid453662
+title1:Optimizing SOC Test Resources using Dual Sequences. title2:Optimizing SOC Test Resources Using Dual Sequences citation:0 ncitation:1 pid646530
+title1:Design and Analysis of Fault-Tolerant Multistage Interconnection Networks With Low Link Complexity. title2:Design and analysis of fault-tolerant multistage interconnection networks with low link complexity citation:39 ncitation:37 pid58622
+title1:Distributed Fault-Tolerance For Large Multiprocessor Systems. title2:Distributed fault-tolerance for large multiprocessor systems citation:209 ncitation:202 pid132905
+title1:Equivalence and Dominance Relations Between Fault Pairs and Their Use in Fault Pair Collapsing for Fault Diagnosis. title2:Equivalence and Dominance Relations Between Fault Pairs and Their Use in Fault Pair Collapsing for Fault Diagnosis citation:4 ncitation:4 pid1205449
+title1:Static Test Compaction for Scan-Based Designs to Reduce Test Application Time. title2:Static test compaction for scan-based designs to reduce test application time citation:37 ncitation:37 pid58613
+title1:Test Generation for Synchronous Sequential Circuits to Reduce Storage Requirements. title2:Test generation for synchronous sequential circuits to reduce storage requirements citation:3 ncitation:3 pid254546
+title1:Vector-Based Functional Fault Models for Delay Faults. title2:Vector-based functional fault models for delay faults citation:1 ncitation:1 pid889198
+title1:A Partitioning and Storage Based Built-In Test Pattern Generation Method for Delay Faults in Scan Circuits. title2:A partitioning and storage based built-in test pattern generation method for delay faults in scan circuits citation:3 ncitation:3 pid645413
+title1:On reset based functional broadside tests. title2:On reset based functional broadside tests citation:13 ncitation:12 pid889200
+title1:Reducing the storage requirements of a test sequence by using a background vector. title2:Reducing the storage requirements of a test sequence by using a background vector citation:1 ncitation:1 pid889202
+title1:Identifying Tests for Logic Fault Models Involving Subsets of Lines without Fault Enumeration. title2:Identifying Tests for Logic Fault Models Involving Subsets of Lines without Fault Enumeration citation:0 ncitation:0 pid889209
+title1:Output-Dependent Diagnostic Test Generation. title2:Output-dependent diagnostic test generation citation:5 ncitation:5 pid2356543
+title1:Input Cubes with Lingering Synchronization Effects and their Use in Random Sequential Test Generation. title2:Input cubes with lingering synchronization effects and their use in random sequential test generation citation:2 ncitation:2 pid220382
+title1:Input test data volume reduction based on test vector chains. title2:Input test data volume reduction based on test vector chains citation:1 ncitation:1 pid1305563
+title1:Equivalence, Dominance, and Similarity Relations between Fault Pairs and a Fault Pair Collapsing Process for Fault Diagnosis. title2:Equivalence, dominance, and similarity relations between fault pairs and a fault pair collapsing process for fault diagnosis citation:1 ncitation:1 pid2408256
+title1:Using stuck-at tests to form scan-based tests for transition faults in standard-scan circuits. title2:Using stuck-at tests to form scan-based tests for transition faults in standard-scan circuits citation:1 ncitation:1 pid927062
+title1:Functional Broadside Tests with Minimum and Maximum Switching Activity. title2:Functional broadside tests with minimum and maximum switching activity citation:16 ncitation:15 pid143591
+title1:Random Test Generation With Input Cube Avoidance. title2:Random test generation with input cube avoidance citation:1 ncitation:1 pid420240
+title1:Functional and partially-functional skewed-load tests. title2:Functional and partially-functional skewed-load tests citation:1 ncitation:1 pid193834
+title1:Diagnosis of Multiple Physical Defects Using Logic Fault Models. title2:Diagnosis of Multiple Physical Defects Using Logic Fault Models citation:4 ncitation:2 pid1205369
+title1:On Clustering of Undetectable Single Stuck-At Faults and Test Quality in Full-Scan Circuits. title2:On clustering of undetectable single stuck-at faults and test quality in full-scan circuits citation:2 ncitation:2 pid1167466
+title1:On Test Generation With Test Vector Improvement. title2:On test generation with test vector improvement citation:7 ncitation:6 pid1544321
+title1:Hazard-Based Detection Conditions for Improved Transition Path Delay Fault Coverage. title2:Hazard-based detection conditions for improved transition path delay fault coverage citation:4 ncitation:2 pid645498
+title1:TOV: Sequential Test Generation by Ordering of Test Vectors. title2:TOV: sequential test generation by ordering of test vectors citation:5 ncitation:6 pid648958
+title1:Selection of a Fault Model for Fault Diagnosis Based on Unique Responses. title2:Selection of a fault model for fault diagnosis based on unique responses citation:2 ncitation:0 pid2266545
+title1:Fixed-State Tests for Delay Faults in Scan Designs. title2:Fixed-state tests for delay faults in scan designs citation:2 ncitation:2 pid133965
+title1:Input Necessary Assignments for Testing of Path Delay Faults in Standard-Scan Circuits. title2:Input necessary assignments for testing of path delay faults in standard-scan circuits citation:5 ncitation:4 pid2356597
+title1:Path Selection for Transition Path Delay Faults. title2:Path selection for transition path delay faults citation:5 ncitation:6 pid1342887
+title1:Switching Activity as a Test Compaction Heuristic for Transition Faults. title2:Switching activity as a test compaction heuristic for transition faults citation:3 ncitation:4 pid1079716
+title1:Robust Fault Models Where Undetectable Faults Imply Logic Redundancy. title2:Robust fault models where undetectable faults imply logic redundancy citation:1 ncitation:0 pid646433
+title1:Hazard-Based Detection Conditions for Improved Transition Fault Coverage of Scan-Based Tests. title2:Hazard-based detection conditions for improved transition fault coverage of scan-based tests citation:7 ncitation:7 pid1079712
+title1:Fault diagnosis aware ATE assisted test response compaction. title2:Fault diagnosis aware ATE assisted test response compaction citation:1 ncitation:1 pid453797
+title1:At-speed scan test with low switching activity. title2:At-speed scan test with low switching activity citation:21 ncitation:13 pid648939
+title1:On multiple bridging faults. title2:On multiple bridging faults citation:1 ncitation:1 pid1079714
+title1:Forming multi-cycle tests for delay faults by concatenating broadside tests. title2:Forming multi-cycle tests for delay faults by concatenating broadside tests citation:9 ncitation:10 pid644483
+title1:On Undetectable Faults and Fault Diagnosis. title2:On undetectable faults and fault diagnosis citation:0 ncitation:0 pid1445478
+title1:Modeling and Mitigating Transient Errors in Logic Circuits. title2:Modeling and mitigating transient errors in logic circuits citation:17 ncitation:14 pid419095
+title1:Transparent-Segmented-Scan without the Routing Overhead of Segmented-Scan. title2:Transparent-Segmented-Scan without the Routing Overhead of Segmented-Scan citation:0 ncitation:0 pid58487
+title1:Enhancing delay fault coverage through low-power segmented scan. title2:Enhancing delay fault coverage through low-power segmented scan citation:25 ncitation:21 pid824102
+title1:Worst-case and average-case analysis of n-detection test sets and test generation strategies. title2:Worst-case and average-case analysis of n-detection test sets and test generation strategies citation:2 ncitation:1 pid58489
+title1:Effectiveness of scan-based delay fault tests in diagnosis of transition faults. title2:Effectiveness of scan-based delay fault tests in diagnosis of transition faults citation:6 ncitation:5 pid58491
+title1:Same/different fault dictionary: an extended pass/fail fault dictionary with improved diagnostic resolution. title2:Same/different fault dictionary: an extended pass/fail fault dictionary with improved diagnostic resolution citation:9 ncitation:8 pid58493
+title1:Test vector chains for increasing the fault coverage and numbers of detections. title2:Test vector chains for increasing the fault coverage and numbers of detections citation:2 ncitation:2 pid1678477
+title1:Definition and generation of partially-functional broadside tests. title2:Definition and generation of partially-functional broadside tests citation:11 ncitation:10 pid2783088
+title1:Static test compaction for diagnostic test sets of full-scan circuits. title2:Static test compaction for diagnostic test sets of full-scan circuits citation:1 ncitation:-1 pid2790037
+title1:Diagnosis of path delay faults based on low-coverage tests. title2:Diagnosis of path delay faults based on low-coverage tests citation:0 ncitation:0 pid2818336
+title1:Don't Care Identification and Statistical Encoding for Test Data Compression. title2:Don't Care Identification and Statistical Encoding for Test Data Compression citation:1 ncitation:-1 pid2823639
+title1:Two-dimensional partially functional broadside tests. title2:Two-dimensional partially functional broadside tests citation:0 ncitation:0 pid2869405
+title1:Test Strength: A Quality Metric for Transition Fault Tests in Full-Scan Circuits. title2:Test Strength: A Quality Metric for Transition Fault Tests in Full-Scan Circuits citation:0 ncitation:0 pid2875864
+title1:Bridge Defect Diagnosis for Multiple-Voltage Design. title2:Bridge defect diagnosis for multiple-voltage design citation:2 ncitation:2 pid2923174
+title1:Safe Fault Collapsing Based on Dominance Relations. title2:Safe Fault Collapsing Based on Dominance Relations citation:2 ncitation:2 pid2928510
+title1:Hyper-graph based partitioning to reduce DFT cost for pre-bond 3D-IC testing. title2:Hyper-graph based partitioning to reduce DFT cost for pre-bond 3D-IC testing citation:3 ncitation:3 pid2941354
+title1:Selecting state variables for improved on-line testability through output response comparison of identical circuits. title2:Selecting state variables for improved on-line testability through output response comparison of identical circuits citation:1 ncitation:1 pid2941406
+title1:Resolution of Diagnosis Based on Transition Faults. title2:Resolution of Diagnosis Based on Transition Faults citation:1 ncitation:1 pid2941468
+title1:Low Test Data Volume Low Power At-Speed Delay Tests Using Clock-Gating. title2:Low test data volume low power at-speed delay tests using clock-gating citation:7 ncitation:4 pid2976430
+title1:On Using Design Partitioning to Reduce Diagnosis Memory Footprint. title2:On Using Design Partitioning To Reduce Diagnosis Memory Footprint citation:2 ncitation:-1 pid2976446
+title1:Analysis of Resistive Bridge Defect Delay Behavior in the Presence of Process Variation. title2:Analysis of resistive bridge defect delay behavior in the presence of process variation citation:1 ncitation:0 pid2976470
+title1:On the design of path delay fault testable combinational circuits. title2:On the design of path delay fault testable combinational circuits citation:90 ncitation:93 pid2976472
+title1:Zero aliasing compression. title2:Zero aliasing compression citation:17 ncitation:17 pid2978989
+title1:Detection of Internal Stuck-open Faults in Scan Chains. title2:Detection of internal stuck-open faults in scan chains citation:9 ncitation:8 pid2979091
+title1:Low capture power at-speed test in EDT environment. title2:Low capture power at-speed test in EDT environment citation:8 ncitation:8 pid2979104
+title1:Low power compression utilizing clock-gating. title2:Low power compression utilizing clock-gating citation:5 ncitation:3 pid2979171
+title1:Forming N-detection test sets from one-detection test sets without test generation. title2:Forming N-detection test sets from one-detection test sets without test generation citation:7 ncitation:7 pid2979200
+title1:Fault Detection by Output Response Comparison of Identical Circuits Using Half-Frequency Compatible Sequences. title2:Fault detection by output response comparison of identical circuits using half-frequency compatible sequences citation:6 ncitation:5 pid3029231
+title1:Full-speed field-programmable memory BIST architecture. title2:Full-speed field-programmable memory BIST architecture citation:39 ncitation:31 pid3029262
+title1:Preferred Fill: A Scalable Method to Reduce Capture Power for Scan Based Designs. title2:Preferred fill: a scalable method to reduce capture power for scan based designs citation:158 ncitation:149 pid3029275
+title1:Faster defect localization in nanometer technology based on defective cell diagnosis. title2:Faster defect localization in nanometer technology based on defective cell diagnosis citation:28 ncitation:25 pid3079522
+title1:Interconnect open defect diagnosis with minimal physical information. title2:Interconnect open defect diagnosis with minimal physical information citation:14 ncitation:9 pid3080441
+title1:Methods for improving transition delay fault coverage using broadside tests. title2:Methods for improving transition delay fault coverage using broadside tests citation:39 ncitation:39 pid3081724
+title1:On the design of robust testable CMOS combinational logic circuits. title2:On the design of robust testable CMOS combinational logic circuits citation:64 ncitation:61 pid3082643
+title1:TSV and DFT cost aware circuit partitioning for 3D-SOCs. title2:TSV and DFT cost aware circuit partitioning for 3D-SOCs citation:2 ncitation:1 pid3082644
+title1:A gate level model for CMOS combinational logic circuits with application to fault detection. title2:A gate level model for CMOS combinational logic circuits with application to fault detection citation:56 ncitation:50 pid3082650
+title1:Analysis of Reachable Sensitisable Paths in Sequential Circuits with SAT and Craig Interpolation. title2:Analysis of Reachable Sensitisable Paths in Sequential Circuits with SAT and Craig Interpolation citation:2 ncitation:1 pid3084978
+title1:Estimating the relative single stuck-at fault coverage of test sets for a combinational logic block from its functional description. title2:Estimating the relative single stuck-at fault coverage of test sets for a combinational logic block from its functional description citation:2 ncitation:2 pid3117355
+title1:On compacting test sets by addition and removal of test vectors. title2:On compacting test sets by addition and removal of test vectors citation:44 ncitation:43 pid3117362
+title1:On identifying undetectable and redundant faults in synchronous sequential circuits. title2:On identifying undetectable and redundant faults in synchronous sequential circuits citation:52 ncitation:52 pid3117429
+title1:Improved built-in test pattern generators based on comparison units for synchronous sequential circuits. title2:Improved built-in test pattern generators based on comparison units for synchronous sequential circuits citation:10 ncitation:10 pid3117449
+title1:Session Summary III: Power-Aware Testing: Present and Future. title2:Session Summary III: Power-Aware Testing: Present and Future citation:0 ncitation:0 pid3117475
+title1:Diagnosis of Cell Internal Defects with Multi-cycle Test Patterns. title2:Diagnosis of Cell Internal Defects With Multi-Cycle Test Patterns citation:1 ncitation:-1 pid3117497
+title1:Improved volume diagnosis throughput using dynamic design partitioning. title2:Improved volume diagnosis throughput using dynamic design partitioning citation:3 ncitation:-1 pid3117531

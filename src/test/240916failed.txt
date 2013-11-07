@@ -1,0 +1,271 @@
+title:Update-based cache replacement policies in wireless data access. citation:-1
+title:Resource Allocation in Wireless Relay Networks. citation:-1
+title:Distributed Medium Access Control in Pulse-Based Time-Hopping UWB Wireless Networks. citation:-1
+title:Mutual Authentication and Key Exchange Protocols with Anonymity Property for Roaming Services. citation:-1
+title:Efficient channel utilization for real-time video in OVSF-CDMA systems with QoS assurance. citation:-1
+title:Credit-Based User Authentication for Delay Tolerant Mobile Wireless Networks. citation:-1
+title:Ultra-wideband wireless communications. citation:-1
+title:BBA: An Efficient Batch Bundle Authentication Scheme for Delay Tolerant Networks. citation:-1
+title:Special issue: medium access control protocols for wireless ad hoc networks. citation:-1
+title:An Analytical Framework for Studying the Performance of Mobile Hotspots. citation:-1
+title:A Markov model for per-user service of opportunistic scheduling. citation:-1
+title:Downlink Resource Allocation for OFDMA-Based Multiservice Networks with Imperfect CSI. citation:-1
+title:Guest Editorial. citation:-1
+title:Call Admission Control for Heterogeneous Services in Wireless Networks. citation:-1
+title:Adaptive Exponential Beacon Period Protocol for Power Saving in Delay Tolerant Networks. citation:-1
+title:Performance Analysis of ARQ with Opportunistic Scheduling in IEEE 802.16 Networks. citation:-1
+title:Handoff trigger table for integrated 3G/WLAN networks. citation:-1
+title:Adaptive Sensor Activation for Target Tracking in Wireless Sensor Networks. citation:-1
+title:Optimal sleep scheduling with transmission range assignment in application-specific wireless sensor networks. citation:-1
+title:A DoS and fault-tolerant authentication protocol for group communications in ad hoc networks. citation:-1
+title:Multiple Key Sharing and Distribution Scheme With (n, t) Threshold for NEMO Group Communications. citation:-1
+title:Power Allocation and Scheduling for MAC Layer Design in UWB Networks. citation:-1
+title:A new energy efficient approach by separating data collection and data report in wireless sensor networks. citation:-1
+title:Efficient Data Access Algorithms for ITS-based Networks with Multi-Hop Wireless Links. citation:-1
+title:A Tree-Based Signature Scheme for VANETs. citation:-1
+title:VoIP over WLAN: voice capacity, admission control, QoS, and MAC. citation:-1
+title:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:-1
+title:A New Dynamic Group Key Management Scheme with Low Rekeying Cost. citation:-1
+title:Editorial: Peer-to-peer networking and applications, volume 2, issue 2. citation:-1
+title:Provably Secure Self-Certified Partially Blind Signature Scheme from Bilinear Pairings. citation:-1
+title:An adaptive handoff priority scheme for wireless MC-CDMA cellular networks supporting realtime multimedia applications. citation:-1
+title:A novel differentiated retransmission scheme for MPEG video streaming over wireless links. citation:-1
+title:QoS guarantee and power distribution for soft handoff connections in cellular CDMA downlinks. citation:-1
+title:A Multi-Channel Token Ring Protocol for Inter-Vehicle Communications. citation:-1
+title:A QoS-aware AIMD protocol for time-sensitive applications in wired/wireless networks. citation:-1
+title:A novel distributed connection admission control scheme for ieee 802.16 networks. citation:-1
+title:Indirect RSVP for Virtual Cluster Cellular Mobile IP Networks. citation:-1
+title:Performance Enhancement for Secure Vehicular Communications. citation:-1
+title:End-to-end TCP Performance with Local Retransmissions. citation:-1
+title:Robust channel estimation for OFDM wireless communication systems - an H/sub /spl infin// approach. citation:-1
+title:Capacity analysis and MAC enhancement for UWB broadband wireless access networks. citation:-1
+title:Performance Enhancement of Medium Access Control for UWB WPAN. citation:-1
+title:A novel localised authentication scheme in IEEE 802.11 based Wireless Mesh Networks. citation:-1
+title:Spatial Multiplexing Capacity Analysis of mmWave WPANs with Directional Antennae. citation:-1
+title:Performance Analysis of Weighted Proportional Fairness Scheduling in IEEE 802.16 Networks. citation:-1
+title:Vulnerabilities in distance-indexed IP traceback schemes. citation:-1
+title:Soft handoff and connection reliability in cellular CDMA downlinks. citation:-1
+title:Performance modeling and analysis of window-controlled multimedia flows in wireless/wired networks. citation:-1
+title:Delay-Dependent Stability Analysis for Large-Scale Multiple-Bottleneck Systems Using Singular Perturbation Approach. citation:-1
+title:Adaptive Regenerate and Forward Cooperative Diversity System based on Quadrature Signaling. citation:-1
+title:Practical Stability and Bounds of Heterogeneous AIMD/RED System with Time Delay. citation:-1
+title:Scheduling with base station diversity and fairness analysis for the downlink of CDMA cellular networks. citation:-1
+title:Performance of Adaptive Relaying Schemes in Cooperative Diversity Systems with ARQ. citation:-1
+title:Uplink Ergodic Mutual Information of OFDMA-Based Two-Hop Cooperative Relay Networks with Imperfect CSI. citation:-1
+title:A Generic Framework for Modeling MAC Protocols in Wireless Broadband Access Networks. citation:-1
+title:Air interface switching and performance analysis for fast vertical handoff in cellular network and WLAN interworking. citation:-1
+title:Dynamic server selection using fuzzy inference in content distribution networks. citation:-1
+title:Performance analysis of the cumulative ARQ in IEEE 802.16 networks. citation:-1
+title:Efficient Re-Keying Scheme for Group Key Distribution. citation:-1
+title:A Novel Overlay Token Ring Protocol for Inter-Vehicle Communication. citation:-1
+title:An inexpensive unstructured platform for wireless mobile peer-to-peer networks. citation:-1
+title:An Interior Point Penalty Method for Utility Maximization Problems in OFDMA Networks. citation:-1
+title:Editorial: Peer-to-Peer Networking and Applications Volume 1, Issue 2. citation:-1
+title:Editorial: Peer-to-Peer Networking and Applications, Volume 1, Issue 1. citation:-1
+title:Optimizing Distributed MAC Protocol for Multi-Hop Ultra-Wideband Wireless Networks. citation:-1
+title:Mobile location estimation for DS-CDMA systems using self-organizing maps. citation:-1
+title:Mobility-Aware Multi-Path Forwarding Scheme for Wireless Mesh Networks. citation:-1
+title:Stability analysis of multiple-bottleneck networks. citation:-1
+title:Statistical multiplexing, admission region, and contention window optimization in multiclass wireless LANs. citation:-1
+title:A Novel Fair Incentive Protocol for Mobile Ad Hoc Networks. citation:-1
+title:Selected papers from Chinacom'06. citation:-1
+title:Per-user service model for opportunistic scheduling scheme over fading channels. citation:-1
+title:A Fuzzy Resource Controller for Non-Real-Time Traffic in Wireless Networks. citation:-1
+title:Dynamic Bandwidth Allocation for QoS Provisioning in IEEE 802.16 Networks with ARQ-SA. citation:-1
+title:AICN: An Efficient Algorithm to Identify Compromised Nodes in Wireless Sensor Network. citation:-1
+title:Network Planning for Next-Generation Metropolitan-Area Broadband Access under EPON-WiMAX Integration. citation:-1
+title:Anonymous and Authenticated Routing in Multi-Hop Cellular Networks. citation:-1
+title:Effect of Soft Handoff on Packet Transmissions in Cellular CDMA Downlinks. citation:-1
+title:Quasi-Optimal Channel Assignment for Real-Time Video in OFDM Wireless Systems. citation:-1
+title:Improvement of WLAN QoS Capability via Statistical Multiplexing. citation:-1
+title:Performance Analysis of ARQ Scheme in IEEE 802.16. citation:-1
+title:PHY-aware distributed scheduling for ad hoc communications with physical interference model. citation:-1
+title:An Effective Resource Management Scheme for UWB Networks with Simultaneous Transmissions. citation:-1
+title:Performance evaluation for unsolicited grant service flows in 802.16 networks. citation:-1
+title:Wireless Profiled TCP Performance over Integrated Wireless LANs and Cellular Networks. citation:-1
+title:Cross-layer Design and Analysis of Wireless Profiled TCP for Vertical Handover. citation:-1
+title:QoS Performance Bounds and Efficient Connection Admission Control for Heterogeneous Services in Wireless Cellular Networks. citation:-1
+title:A flexible resource allocation and scheduling framework for non-real-time polling service in IEEE 802.16 networks. citation:-1
+title:An efficient delay constrained scheduling scheme for IEEE 802.16 networks. citation:-1
+title:Four-Antenna Based Structure for Cellular Networks with Frequency Reuse Factor of One. citation:-1
+title:Second Order Statistics of Non-identical Nakagami Fading Channels with Maximal-Ratio Combining. citation:-1
+title:Two-Factor Localized Authentication Scheme for WLAN Roaming. citation:-1
+title:Delay Analysis of Distributed Reservation Protocol with UWB Shadowing Channel for WPAN. citation:-1
+title:User Movement Tendency Prediction and Call Admission Control for Cellular Networks. citation:-1
+title:User authentication and undeniable billing support for agent-based roaming service in WLAN/cellular integrated mobile networks. citation:-1
+title:A Novel Voting Mechanism for Compromised Node Revocation in Wireless Ad Hoc Networks. citation:-1
+title:Throughput Optimization for Hierarchical Cooperation in Ad Hoc Networks. citation:-1
+title:An Opportunistic Batch Bundle Authentication Scheme for Energy Constrained DTNs. citation:-1
+title:SPRING: A Social-based Privacy-preserving Packet Forwarding Protocol for Vehicular Delay Tolerant Networks. citation:-1
+title:An Adaptive Forwarding Scheme for Message Delivery over Delay Tolerant Networks. citation:-1
+title:SPID: A Novel P2P-Based Information Diffusion Scheme for Mobile Networks. citation:-1
+title:Maintaining Utility Fairness Using Weighting Factors in Wireless Networks. citation:-1
+title:Cooperative Peer-to-Peer Information Exchange via Wireless Network Coding. citation:-1
+title:ASIC: Aggregate Signatures and Certificates Verification Scheme for Vehicular Networks. citation:-1
+title:Networked Ultrasonic Sensors for Target Tracking: An Experimental Study. citation:-1
+title:MAC Performance Analysis for Vehicle-to-Infrastructure Communication. citation:-1
+title:A Classification-Based Path Selection Scheme for Video Streaming over Multi-Hop Networks. citation:-1
+title:Capacity enhancement with relay station placement in wireless cooperative networks. citation:-1
+title:A self-adaptive probabilistic packet filtering scheme against entropy attacks in network coding. citation:-1
+title:Bounds estimation and practical stability of AIMD/RED systems with time delays. citation:-1
+title:Interference aware resource allocation for hybrid hierarchical wireless networks. citation:-1
+title:Multiple frequency reuse schemes in the two-hop IEEE 802.16j wireless relay networks with asymmetrical topology. citation:-1
+title:Gateway Selection Protocol in Hybrid MANET Using DYMO Routing. citation:-1
+title:Call admission control with opportunistic scheduling scheme. citation:-1
+title:MAC Protocol Design and Optimization for Multi-Hop Ultra-Wideband Networks. citation:-1
+title:Editorial: Peer-to-peer networking and applications, volume 3, issue 2. citation:-1
+title:SPACE: A lightweight collaborative caching for clusters. citation:-1
+title:A Cross-Layer Path Selection Scheme for Video Streaming over Vehicular Ad-Hoc Networks. citation:-1
+title:MYRPA: An Incentive System with Reduced Payment Receipts for Multi-hop Wireless Networks. citation:-1
+title:PPC: Privacy-Preserving Chatting in Vehicular Peer-to-Peer Networks. citation:-1
+title:REACT: An RFID-based privacy-preserving children tracking scheme for large amusement parks. citation:-1
+title:Editorial: Peer-to-Peer networking and applications, Volume 3, Issue 4. citation:-1
+title:Channel Allocation for Smooth Video Delivery over Cognitive Radio Networks. citation:-1
+title:FLIP: An Efficient Privacy-Preserving Protocol for Finding Like-Minded Vehicles on the Road. citation:-1
+title:Distributed QoS-Aware MAC for Multimedia over Cognitive Radio Networks. citation:-1
+title:Parallel Link Rendezvous in Ad Hoc Cognitive Radio Networks. citation:-1
+title:An Analytical Model to Study the Packet Loss Burstiness over Wireless Channels. citation:-1
+title:Gateway Selection in Multi-Hop Wireless Networks Using Route and Link Optimization. citation:-1
+title:ESPR: Efficient Security Scheme for Position-Based Routing in Vehicular Ad Hoc Networks. citation:-1
+title:Sacrificing the Plum Tree for the Peach Tree: A Socialspot Tactic for Protecting Receiver-Location Privacy in VANET. citation:-1
+title:Credit-Based Mechanism Protecting Multi-Hop Wireless Networks from Rational and Irrational Packet Drop. citation:-1
+title:Efficient Localized Protocols to Compute Connected Dominating Sets for Ad Hoc Networks. citation:-1
+title:An Efficient Hybrid HIP-PMIPv6 Scheme for Seamless Internet Access in Urban Vehicular Scenarios. citation:-1
+title:Hit Optimal Cache for Wireless Data Access. citation:-1
+title:Message Authentication with Non-Transferability for Location Privacy in Mobile Ad hoc Networks. citation:-1
+title:An Energy-Efficient Bit Allocation Scheme in Wireless Sensor Networks. citation:-1
+title:DOM: a scalable multicast protocol for next-generation internet. citation:-1
+title:Resource allocation in OFDMA networks based on interior point methods. citation:-1
+title:Location-Release Signature for Vehicular Communications. citation:-1
+title:H-infinity filtering for speech enhancement. citation:-1
+title:Simulation of disordered speech using a frequency-domain vocal tract model. citation:-1
+title:HARVEST: A Task-objective Efficient Data Collection Scheme in Wireless Sensor and Actor Networks. citation:-1
+title:Resource management for video streaming in ad hoc networks. citation:-1
+title:Network Coding Based Privacy Preservation against Traffic Analysis in Multi-Hop Wireless Networks. citation:-1
+title:A Cross-Layer Optimization Approach for Energy Efficient Wireless Sensor Networks: Coalition-Aided Data Aggregation, Cooperative Communication, and Energy Balancing. citation:-1
+title:A Stochastic Multiobjective Optimization Framework for Wireless Sensor Networks. citation:-1
+title:Multipath Routing and Max-Min Fair QoS Provisioning under Interference Constraints in Wireless Multihop Networks. citation:-1
+title:Semi-supervised Laplacian regularized least squares algorithm for localization in wireless sensor networks. citation:-1
+title:ESIP: Secure Incentive Protocol with Limited Use of Public-Key Cryptography for Multihop Wireless Networks. citation:-1
+title:Adaptive Asynchronous Sleep Scheduling Protocols for Delay Tolerant Networks. citation:-1
+title:Provisioning QoS controlled media access in vehicular to infrastructure communications. citation:-1
+title:Toward Reliable Actor Services in Wireless Sensor and Actor Networks. citation:-1
+title:VTube: Towards the media rich city life with autonomous vehicular content distribution. citation:-1
+title:Variable-rate based relay selection scheme for decode-and-forward cooperative networks. citation:-1
+title:Secure and quality of service assurance scheduling scheme for WBAN with application to eHealth. citation:-1
+title:On energy efficiency of cooperative communications in wireless body area network. citation:-1
+title:Multi-Hop Concurrent Transmission in Millimeter Wave WPANs with Directional Antenna. citation:-1
+title:A Generalized Switching Policy for Incremental Relaying with Adaptive Modulation. citation:-1
+title:Reputation-Based QoS Provisioning in Cloud Computing via Dirichlet Multinomial Model. citation:-1
+title:Roadside Units Deployment for Efficient Short-Time Certificate Updating in VANETs. citation:-1
+title:TESP2: Timed Efficient Source Privacy Preservation Scheme for Wireless Sensor Networks. citation:-1
+title:A Secure and Efficient Revocation Scheme for Anonymous Vehicular Communications. citation:-1
+title:A Cross Layer Broadcast Protocol for Multihop Emergency Message Dissemination in Inter-Vehicle Communication. citation:-1
+title:Distributed Clock Synchronization in Delay Tolerant Networks. citation:-1
+title:Efficient Group Signature Scheme Supporting Batch Verification for Securing Vehicular Networks. citation:-1
+title:Max-Min Fair Multipath Routing with Physical Interference Constraints for Multihop Wireless Networks. citation:-1
+title:MobiID: A User-Centric and Social-Aware Reputation Based Incentive Scheme for Delay/Disruption Tolerant Networks. citation:-1
+title:Enabling Multi-Hop Concurrent Transmissions in 60 GHz Wireless Personal Area Networks. citation:-1
+title:Game Theoretical Approach for Channel Allocation in Wireless Sensor and Actuator Networks. citation:-1
+title:Editor's note. citation:-1
+title:Guest Editorial Cooperative Networking - Challenges and Applications (Part I). citation:-1
+title:Exploiting Heterogeneity Wireless Channels for Opportunistic Routing in Dynamic Spectrum Access Networks. citation:-1
+title:Fast and Slow Hopping MAC Protocol for Single-Hop Ad Hoc Wireless Networks. citation:-1
+title:Mitigating the Effects of Position-Based Routing Attacks in Vehicular Ad Hoc Networks. citation:-1
+title:Side Channel Monitoring: Packet Drop Attack Detection in Wireless Ad Hoc Networks. citation:-1
+title:Stable Queue Management for Supporting TCP Flows over Wireless Networks. citation:-1
+title:A Seamless Quality-Driven Multi-Hop Data Delivery Scheme for Video Streaming in Urban VANET Scenarios. citation:-1
+title:Trust-Based and Energy-Aware Incentive Routing Protocol for Multi-Hop Wireless Networks. citation:-1
+title:An Application-Centric Inter-Vehicle Routing Protocol for Video Streaming over Multi-Hop Urban VANETs. citation:-1
+title:Constrained Energy-Aware AP Placement with Rate Adaptation in WLAN Mesh Networks. citation:-1
+title:Adaptive Resource Management in Sustainable Energy Powered Wireless Mesh Networks. citation:-1
+title:Anonymous Home Binding Update Scheme for Mobile IPv6 Wireless Networking. citation:-1
+title:Joint Channel Selection and Opportunistic Forwarding in Multi-Hop Cognitive Radio Networks. citation:-1
+title:Health-Post: A Delay-Tolerant Secure Long-Term Health Care Scheme in Rural Area. citation:-1
+title:EPF: An Event-Aided Packet Forwarding Protocol for Privacy-Preserving Mobile Healthcare Social Networks. citation:-1
+title:An Efficient and Secure User Revocation Scheme in Mobile Social Networks. citation:-1
+title:Modeling Epidemic Data Diffusion for Wireless Mobile Networks. citation:-1
+title:A Mobility-Aware and Quality-Driven Retransmission Limit Adaptation Scheme for Video Streaming over VANETs. citation:-1
+title:Special issue on the selected papers of IWCMC'11. citation:-1
+title:Adaptive Resource Reuse Scheduling for Multihop Relay Wireless Network Based on Multicoloring. citation:-1
+title:Game theory approach to discrete H filter design. citation:-1
+title:TTP Based Privacy Preserving Inter-WISP Roaming Architecture for Wireless Metropolitan Area Networks. citation:-1
+title:A Ticket ID System for Service Agent Based Authentication in WLAN/Cellular Integrated Networks. citation:-1
+title:Quasi-Optimal Real-time Video Transmission in OFDM Systems. citation:-1
+title:A Novel Compromise-Resilient Authentication System for Wireless Mesh Networks. citation:-1
+title:A General Analytical Model for the IEEE 802.15.4 Contention Access Period. citation:-1
+title:A Dynamic Privacy-Preserving Key Management Scheme for Location-Based Services in VANETs. citation:-1
+title:Analytical Study of the IEEE 802.11p MAC Sublayer in Vehicular Networks. citation:-1
+title:PEC: A privacy-preserving emergency call scheme for mobile healthcare social networks. citation:-1
+title:Emerging technologies and applications of wireless communication in healthcare. citation:-1
+title:A Mobility-Aware and Quality-Driven Retransmission Limit Adaptation Scheme for Video Streaming over VANETs. citation:-1
+title:Toward secure targeted broadcast in smart grid. citation:-1
+title:New method for optimal control and filtering of weakly coupled linear discrete stochastic systems. citation:-1
+title:Study of the discrete singularly perturbed linear-quadratic control problem by a bilinear transformation. citation:-1
+title:Energy-efficient transmission and bit allocation schemes in wireless sensor networks. citation:-1
+title:ORACLE: Mobility control in wireless sensor and actor networks. citation:-1
+title:Multi-scroll Chaotic and hyperchaotic attractors Generated from Chen System. citation:-1
+title:Leveraging Prediction to Improve the Coverage of Wireless Sensor Networks. citation:-1
+title:Footprint: Detecting Sybil Attacks in Urban Vehicular Networks. citation:-1
+title:Design principles and improvement of cost function based energy aware routing algorithms for wireless sensor networks. citation:-1
+title:FESCIM: Fair, Efficient, and Secure Cooperation Incentive Mechanism for Multihop Cellular Networks. citation:-1
+title:Editor's note. citation:-1
+title:Empowering the smart grid with wireless technologies [Editor's Note]. citation:-1
+title:Cost-effective barrier coverage by mobile sensor networks. citation:-1
+title:Exploiting prediction to enable Secure and Reliable routing in Wireless Body Area Networks. citation:-1
+title:PReFilter: An efficient privacy-preserving Relay Filtering scheme for delay tolerant networks. citation:-1
+title:Capacity and delay analysis for social-proximity urban vehicular networks. citation:-1
+title:Towards optimal energy store-carry-and-deliver for PHEVs via V2G system. citation:-1
+title:Location privacy preservation in collaborative spectrum sensing. citation:-1
+title:Performance analysis of the node cooperative ARQ scheme for wireless ad-hoc networks. citation:-1
+title:A self-encryption authentication protocol with identity anonymity for teleconference services. citation:-1
+title:Performance analysis of equation based TFRC over wireless links with link level ARQ. citation:-1
+title:An adaptive handoff priority scheme for wireless MC-CDMA cellular networks supporting multimedia applications. citation:-1
+title:Distributed Active Sensor Scheduling for Target Tracking in Ultrasonic Sensor Networks. citation:-1
+title:Securing smart grid: cyber attacks, countermeasures, and challenges. citation:-1
+title:Multiagent coordination in microgrids via wireless networks. citation:-1
+title:Operator controlled device-to-device communications in LTE-advanced networks. citation:-1
+title:HealthShare: Achieving secure and privacy-preserving health information sharing through health social networks. citation:-1
+title:Dependability Analysis of Control Center Networks in Smart Grid Using Stochastic Petri Nets. citation:-1
+title:A Distributed Fault/Intrusion-Tolerant Sensor Data Storage Scheme Based on Network Coding and Homomorphic Fingerprinting. citation:-1
+title:Consensus of Multi-Agent Networks With Aperiodic Sampled Communication Via Impulsive Algorithms Using Position-Only Measurements. citation:-1
+title:Emerging technologies for e-healthcare [Editor's Note]. citation:-1
+title:Guest Editorial Cooperative Networking - Challenges and Applications (Part II). citation:-1
+title:Decentralized Economic Dispatch in Microgrids via Heterogeneous Wireless Networks. citation:-1
+title:End-to-end delay in mobile ad hoc networks with generalized transmission range and limited packet redundancy. citation:-1
+title:SEER: A Secure and Efficient Service Review System for Service-Oriented Mobile Social Networks. citation:-1
+title:A link adaptation scheme for the downlink of mobile hotspot. citation:-1
+title:EMAP: Expedite Message Authentication Protocol for Vehicular Ad Hoc Networks. citation:-1
+title:Spectrum-Aware Opportunistic Routing in Multi-Hop Cognitive Radio Networks. citation:-1
+title:A light weight authentication scheme for mobile wireless Internet applications. citation:-1
+title:Matching algorithms for infrastructure-based wireless networks employing cooperative diversity system. citation:-1
+title:Fair resource allocation with statistical QoS support for multimedia traffic in a wideband CDMA cellular network. citation:-1
+title:Downlink resource management with adaptive modulation and dynamic scheduling for OFDM wireless communication systems. citation:-1
+title:A novel resource reservation scheme for handoff in CDMA wireless cellular networks. citation:-1
+title:Throughput capacity of VANETs by exploiting mobility diversity. citation:-1
+title:Energy-efficient and trust-aware cooperation in cognitive radio networks. citation:-1
+title:Relay selection and resource allocation for multi-user cooperative LTE-A uplink. citation:-1
+title:DCFR: A novel Double Cost Function based Routing algorithm for wireless sensor networks. citation:-1
+title:STDMA-based scheduling algorithm for concurrent transmissions in directional millimeter wave networks. citation:-1
+title:EM A: Efficient mutual multi-hop mobile authentication scheme for PMIP networks. citation:-1
+title:Enabling pervasive healthcare with privacy preservation in smart community. citation:-1
+title:A novel traffic-analysis back tracing attack for locating source nodes in wireless sensor networks. citation:-1
+title:Secure and efficient source location privacy-preserving scheme for wireless sensor networks. citation:-1
+title:A novel distributed fair relay selection strategy for cooperative wireless system. citation:-1
+title:Distributed adaptive sampling by rechargeable sensor nodes with limited battery capacity. citation:-1
+title:Enabling pervasive healthcare through continuous remote health monitoring. citation:-1
+title:Editor's note. citation:-1
+title:Latency analysis of WAP 2.0 for short-lived flows. citation:-1
+title:Dynamic resource allocation for video traffic over time-varying CDMA wireless channels. citation:-1
+title:Efficient real-time video transmission in OVSF-CDMA system. citation:-1
+title:Delay analysis for AIMD flows in wireless/IP networks. citation:-1
+title:An SMDP-Based Service Model for Interdomain Resource Allocation in Mobile Cloud Networks. citation:-1
+title:A Novel Distributed Asynchronous Multichannel MAC Scheme for Large-Scale Vehicular Ad Hoc Networks. citation:-1
+title:Morality-Driven Data Forwarding With Privacy Preservation in Mobile Social Networks. citation:-1
+title:SPOC: A Secure and Privacy-Preserving Opportunistic Computing Framework for Mobile-Healthcare Emergency. citation:-1
+title:Editor's note. citation:-1
+title:Aggressive code-division generalized processor sharing for QoS guarantee in multimedia CDMA cellular networks. citation:-1
+title:Per-user Throughput of Opportunistic Scheduling Scheme over Broadcast Fading Channels. citation:-1
+title:On Transmit-Diversity Based Multicast in Mobile Wireless Networks. citation:-1
+title:Adaptive Rate Allocation for Multi-layered Video Transmission in Wireless Communication Systems. citation:-1
+title:Performance analysis for cellular systems supporting heterogeneous services. citation:-1

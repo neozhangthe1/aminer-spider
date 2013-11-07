@@ -1,0 +1,274 @@
+title:Range Image Segmentation: Adaptive Grouping of Edges into Regions. citation:-1
+title:Detection of Glasses in Facial Images. citation:-1
+title:Jigsaw Puzzle Solving Using Approximate String Matching and Best-First Search. citation:-1
+title:Lipreading Using Fourier Transform over Time. citation:-1
+title:Determination of the Symmetries of Polyhedra and an Application to Object Recognition. citation:-1
+title:A Family of Novel Graph Kernels for Structural Pattern Recognition. citation:-1
+title:Example-Driven Reconstruction of Software Models. citation:-1
+title:Analyse eletrischer Schaltpläne mit einfachen Schaltungssymbolen. citation:-1
+title:Prorammierte Graph-Grammatiken zur Repräsentierung des a priori Wissens für die Interpretation von Linienzeichnungen. citation:-1
+title:Ein wissensbasiertes System zur automatischen Auswertung von Bildsequenzen des menschlichen Herzens. citation:-1
+title:Expertensystemschalen und deklarative Programmierung für die Implementation von Bildanalysealgorithmen. citation:-1
+title:Merkmalsbasierte Suche von Diatomeen in Bilddatenbanken unter Verwendung von Entcheidungsbäumen. citation:-1
+title:Fast Feature Selection in an HMM-Based Multiple Classifier System for Handwriting Recognition. citation:-1
+title:PHI-1: Ein CAD-basiertes Roboter Sichtsystem. citation:-1
+title:Segmentierung von Nadeldiagrammen von Objekten mit gekrümmten Oberflächen. citation:-1
+title:Detektion von Symmetrien polyedrischer Objekte. citation:-1
+title:Ein konturbasierter Ansatz zur Berechnung von Momenten. citation:-1
+title:Eine Methode zur schnellen Segmentierung von Tiefenbildern in planare Regionen. citation:-1
+title:Schnelle Segmentierung von Tiefenbildern. citation:-1
+title:Einsatz eines Perturbation-Ansatzes für die Erkennung handgeschriebener deutscher Grundzahlwörter. citation:-1
+title:Erkennung handgeschriebener Wortsequenzen. citation:-1
+title:Time Delay Neural Network mit Lernhilfe in der Offline-Handschrifterkennung. citation:-1
+title:Kombination von Frontal- und Profilanalyse menschlicher Gesichter. citation:-1
+title:Exploration of Object Symmetries in Computer Vision and Robotics. citation:-1
+title:Towards (Quasi) Real-Time Range Image Segmentation. citation:-1
+title:Using Cyclic String Matching to Find Rotational and Reflectional Symmetries in Shapes. citation:-1
+title:A Graph-Based Framework for Web Document Mining. citation:-1
+title:Writer Identification for Smart Meeting Room Systems. citation:-1
+title:Ensembles of Classifiers for Handwritten Word Recognition Specialized on Individual Handwriting Style. citation:-1
+title:A System for the Automated Reading of Check Amounts - Some Key Ideas. citation:-1
+title:Re-granulating a Fuzzy Rulebase. citation:-1
+title:A Quadratic Programming Approach to the Graph Edit Distance Problem. citation:-1
+title:Recovery of Missing Information in Graph Sequences. citation:-1
+title:On Graphs with Unique Node Labels. citation:-1
+title:Theoretical Analysis and Experimental Comparison of Graph Matching Algorithms for Database Filtering. citation:-1
+title:Decision Trees for Error-Tolerant Graph Database Filtering. citation:-1
+title:Self-Organizing Graph Graph Edit Distance. citation:-1
+title:Edit Distance Based Kernel Functions for Attributed Graph Matching. citation:-1
+title:Comparison of Distance Measures for Graph-Based Clustering of Documents. citation:-1
+title:An Experimental Comparison of Fingerprint Classification Methods Using Graphs. citation:-1
+title:Programmed Graph Grammars. citation:-1
+title:Graph Grammars as a generative tool in image understanding. citation:-1
+title:Graph Grammars - a Useful Tool for Pattern Recognition? citation:-1
+title:Syntaxgesteuerte Programmierung und inkrementelle Compilation. citation:-1
+title:Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition. citation:-1
+title:Feature Selection for Graph-Based Image Classifiers. citation:-1
+title:Graph Representations for Web Document Clustering. citation:-1
+title:Cursive Script Recognition with Time Delay Neural Networks Using Learning Hints. citation:-1
+title:Towards Bridging the Gap between Statistical and Structural Pattern Recognition: Two New Concepts in Graph Matching. citation:-1
+title:Multiple Handwritten Text Line Recognition Systems Derived from Specific Integration of a Language Model. citation:-1
+title:Recovery of temporal information of cursively handwritten words for on-line recognition. citation:-1
+title:A Tool for Versatile and User-friendly Document Correction. citation:-1
+title:Classification and postprocessing of documents using an error-correcting parser. citation:-1
+title:Online Handwriting Data Acquisition using a Video Camera. citation:-1
+title:A system for segmenting and recognising totally unconstrained handwritten numeral strings. citation:-1
+title:Lexicon Reduction in an HMM-Framework Based on Quantized Feature Vectors. citation:-1
+title:Enhancing Training Data for Handwriting Recognition of Whiteboard Notes with Samples from a Different Database. citation:-1
+title:On the Influence of Vocabulary Size and Language Models in Unconstrained Handwritten Text Recognition. citation:-1
+title:Text Extraction from Color Documents - Clustering Approaches in Three and Four Dimensions. citation:-1
+title:ImprovingWriter Identification by Means of Feature Selection and Extraction. citation:-1
+title:Tree Structure forWord Extraction from Handwritten Text Lines. citation:-1
+title:Offline Recognition of Large Vocabulary Cursive Handwritten Text. citation:-1
+title:Parsing N-Best Lists of Handwritten Sentences. citation:-1
+title:Non-Uniform Slant Correction for Handwritten Text Line Recognition. citation:-1
+title:Using Hidden Markov Models as a Tool for Handwritten Text Line Segmentation. citation:-1
+title:Combining On-Line and Off-Line Systems for Handwriting Recognition. citation:-1
+title:On-Line Handwritten Text Line Detection Using Dynamic Programming. citation:-1
+title:Fusing Asynchronous Feature Streams for On-line Writer Identification. citation:-1
+title:Diatom Identification: A Double Challenge Called ADIAC. citation:-1
+title:Theoretical and Algorithmic Framework for Hypergraph Matching. citation:-1
+title:Graph Matching - Challenges and Potential Solutions. citation:-1
+title:Image Segmentation Evaluation by Techniques of Comparing Clusterings. citation:-1
+title:Fast Computation of Error-Correcting Graph Isomorphisms Based on Model Precompilation. citation:-1
+title:Graph-Based Multiple Classifier Systems A Data Level Fusion Approach. citation:-1
+title:Weighted minimum common supergraph for cluster representation. citation:-1
+title:Fuzzy Substructure Discovery. citation:-1
+title:Early feature stream integration versus decision level combination in a multiple classifier system for text line recognition. citation:-1
+title:Symmetry Based Indexing of Diatoms in an Image Database. citation:-1
+title:An Evaluation of Ensemble Methods in Handwritten Word Recognition Based on Feature Selection. citation:-1
+title:A New Combination Scheme for HMM-Based Classififiers and its Application to Handwriting Recognition. citation:-1
+title:Graph Database Filtering Using Decision Trees. citation:-1
+title:Curve Morphing by Weighted Mean of Strings. citation:-1
+title:Word Extraction from On-Line Handwritten Text Lines. citation:-1
+title:A Convolution Edit Kernel for Error-tolerant Graph Matching. citation:-1
+title:Off-lineWriter Identification Using Gaussian Mixture Models. citation:-1
+title:Optimizing the Integration of a Statistical Language Model in HMM based O.ine Handwritten Text Recognition. citation:-1
+title:Off-line Handwritten Textline Recognition Using a Mixture of Natural and Synthetic Training Data. citation:-1
+title:Combining Acoustic and Visual Classifiers for the Recognition of Spoken Sentences. citation:-1
+title:Rejection Strategies for Offline Handwritten Sentence Recognition. citation:-1
+title:Optimizing the Integration of a Statistical Language Model in HMM based O.ine Handwritten Text Recognition. citation:-1
+title:An approximate algorithm for median graph computation using graph embedding. citation:-1
+title:An experimental study of graph classification using prototype selection. citation:-1
+title:Estimating the readability of handwritten text - a Support Vector Regression based approach. citation:-1
+title:Structural Classifier Ensembles for Vector Space Embedded Graphs. citation:-1
+title:Computer Network Monitoring and Abnormal Event Detection Using Graph Matching and Multidimensional Scaling. citation:-1
+title:Generalized Graph Matching for Data Mining and Information Retrieval. citation:-1
+title:Recent Advances in Structural Pattern Recognition with Applications to Visual Form Analysis. citation:-1
+title:Handwriting recognition for a postal check reading system. citation:-1
+title:On Lipschitz Embeddings of Graphs. citation:-1
+title:A System for Diagnostic Evaluation of Scintigraphic Image Sequences. citation:-1
+title:Erkennung von 3-D Objekten im Nadeldiagramm mithilfe von Konsistenzbedingungen. citation:-1
+title:Use of Positional Information in Sequence Alignment for Multiple Classifier Combination. citation:-1
+title:Generating Classifier Ensembles from Multiple Prototypes and Its Application to Handwriting Recognition. citation:-1
+title:New Boosting Algorithms for Classification Problems with Large Number of Classes Applied to a Handwritten Word Recognition Task. citation:-1
+title:Ensembles of Classifiers Derived from Multiple Prototypes and Their Application to Handwriting Recognition. citation:-1
+title:Classifier Combination for Grammar-Guided Sentence Recognition. citation:-1
+title:Classifier Ensembles for Vector Space Embedding of Graphs. citation:-1
+title:Building Graph-Based Classifier Ensembles by Random Node Selection. citation:-1
+title:Multiple Classifier Methods for Offline Handwritten Text Line Recognition. citation:-1
+title:Graph-Based Tools for Data Mining and Machine Learning. citation:-1
+title:Analysis of Time Series of Graphs: Prediction of Node Presence by Means of Decision Tree Learning. citation:-1
+title:Automatic Identification of Diatoms Using Decision Forests. citation:-1
+title:Reducing the Dimensionality of Vector Space Embeddings of Graphs. citation:-1
+title:Recent Developments in Graph Classification and Clustering using Graph Embedding Kernels. citation:-1
+title:Non-linear Transformations of Vector Space Embedded Graphs. citation:-1
+title:Diversity Analysis for Ensembles of Word Sequence Recognisers. citation:-1
+title:Acquisition of 2-D Shape Models from Scenes with Overlapping Objects Using String Matching. citation:-1
+title:Identification of Diatoms by Grid Graph Matching. citation:-1
+title:Optimal Lower Bound for Generalized Median Problems in Metric Space. citation:-1
+title:Including Geometry in Graph Representations: A Quadratic-Time Graph Isomorphism Algorithm and Its Application. citation:-1
+title:Decision Tree Structures for Graph Database Filtering. citation:-1
+title:Marked Subgraph Isomorphism of Ordered Graphs. citation:-1
+title:Evaluation of Classical and Novel Ensemble Methods for Handwritten Word Recognition. citation:-1
+title:Graph Matching: Fast Candidate Elimination Using Machine Learning Techniques. citation:-1
+title:On Not Making Dissimilarities Euclidean. citation:-1
+title:A Random Walk Kernel Derived from Graph Edit Distance. citation:-1
+title:Comparison of Algorithms for Web Document Clustering Using Graph Representations of Data. citation:-1
+title:Graph Classification on Dissimilarity Space Embedding. citation:-1
+title:On Euclidean Corrections for Non-Euclidean Dissimilarities. citation:-1
+title:Graph Classification Based on Dissimilarity Space Embedding. citation:-1
+title:Exact Median Graph Computation Via Graph Embedding. citation:-1
+title:Hardware Algorithms for Polygon Matching. citation:-1
+title:A Parser for Context Free Plex Grammars. citation:-1
+title:Optimal Vertex Ordering of a Graph and its Application to Symmetry Detection. citation:-1
+title:Kernel k-Means Clustering Applied to Vector Space Embeddings of Graphs. citation:-1
+title:Speeding Up Graph Edit Distance Computation with a Bipartite Heuristic. citation:-1
+title:Robust and Fast Edge Detection and Description in Range Images. citation:-1
+title:A Flexible Approach to the Construction of Expert Systems for the Application of Image Processing Software. citation:-1
+title:Fast Approximate Matching of Words Against a Dictionary. citation:-1
+title:On the Coding of Ordered Graphs. citation:-1
+title:A simple and efficient algorithm for determining the symmetries of polyhedra. citation:-1
+title:Detection and correction of recognition errors in check reading. citation:-1
+title:Ensembles of classifiers for handwritten word recognition. citation:-1
+title:Automatic Identification of Diatoms Using Visual Human-Interpretable Features. citation:-1
+title:Fuzzy Clustering with Genetically Adaptive Scaling. citation:-1
+title:Geometric Approach to Data Mining. citation:-1
+title:Using fuzzy logic to match strings in documents. citation:-1
+title:Comparing representative selection strategies for dissimilarity representations. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Similarity Measures For Hierarchical Representations Of Graphs With Unique Node Labels. citation:-1
+title:Model-Based Analysis and Understanding of Check Forms. citation:-1
+title:Handwritten Word Recognition Using Classifier Ensembles Generated From Multiple Prototypes. citation:-1
+title:Multiple Classifier Systems In Offline Handwritten Word Recognition - On The Influence Of Training Set And Vocabulary Size. citation:-1
+title:Error-Correcting Graph Isomorphism Using Decision Trees. citation:-1
+title:Offline Handwriting Recognition Using Synthetic Training Data Produced By Means Of A Geometrical Distortion Model. citation:-1
+title:Sentence Lipreading Using Hidden Markov Model with Integrated Grammar. citation:-1
+title:Handwriting Recognition of Whiteboard Notes - Studying the Influence of Training Set Size and Type. citation:-1
+title:Integration of -Gram Language Models in Multiple Classifier Systems for Offline Handwritten Text Line Recognition. citation:-1
+title:An Improved Algorithm for Computing the Edit Distance of Run-Length Coded Strings. citation:-1
+title:Optimal Vertex Ordering of Graphs. citation:-1
+title:High-level feature based range image segmentation. citation:-1
+title:Detection of Abnormal Change in a Time Series of Graphs. citation:-1
+title:Dynamic computation of generalised median strings. citation:-1
+title:Automated Reading of Cheque Amounts. citation:-1
+title:On the Weighted Mean of a Pair of Strings. citation:-1
+title:Acquisition of 2D Shape Models from Scenes with Overlapping Objects using String Matching. citation:-1
+title:A Feature-Based Serial Approach to Classifier Combination. citation:-1
+title:Guest Editors' Introduction to the Special Section on Syntactic and Structural Pattern Recognition. citation:-1
+title:Offline Recognition of Unconstrained Handwritten Texts Using HMMs and Statistical Language Models. citation:-1
+title:Recovery of missing information in graph sequences by means of reference pattern matching and decision tree learning. citation:-1
+title:Line segment based axial motion stereo. citation:-1
+title:Optimal quadratic-time isomorphism of ordered graphs. citation:-1
+title:A writer identification system for on-line whiteboard data. citation:-1
+title:Using attributed plex grammars for the generation of image and graph databases. citation:-1
+title:Preface: Image/Video Indexing and Retrieval. citation:-1
+title:Segmentation of the needle map of objects with curved surfaces. citation:-1
+title:An optimal algorithm for extracting the regions of a plane graph. citation:-1
+title:Finding rotational symmetries by cyclic string matching. citation:-1
+title:Video sequence matching via decision tree path following. citation:-1
+title:Lipreading: A classifier combination approach. citation:-1
+title:Rejection strategies for offline handwritten text line recognition. citation:-1
+title:Monopulse amplitude direction-finding using neuro-fuzzy approach. citation:-1
+title:3-Dimensional curve similarity using string matching. citation:-1
+title:Investigating Anytime Algorithms for Future Distance Warning Systems. citation:-1
+title:VLSI architectures for polygon recognition. citation:-1
+title:Detection of rotational and involutional symmetries and congruity of polyhedra. citation:-1
+title:Decision trees for filtering large databases of graphs. citation:-1
+title:Applied Graph Theory in Computer Vision and Pattern Recognition citation:-1
+title:Clustering of Web Documents Using Graph Representations. citation:-1
+title:Graph Sequence Visualisation and its Application to Computer Network Monitoring and Abnormal Event Detection. citation:-1
+title:Applied Pattern Recognition citation:-1
+title:Matching of Hypergraphs - Algorithms, Applications, and Experiments. citation:-1
+title:Off-line Writer Identification and Verification Using Gaussian Mixture Models. citation:-1
+title:Perturbation Models for Generating Synthetic Training Data in Handwriting Recognition. citation:-1
+title:Graph Matching. citation:-1
+title:Self-training Strategies for Handwriting Word Recognition. citation:-1
+title:Cluster Ensembles Based on Vector Space Embeddings of Graphs. citation:-1
+title:Dissimilarity Based Vector Space Embedding of Graphs Using Prototype Reduction Schemes. citation:-1
+title:Improved Handwriting Recognition by Combining Two Forms of Hidden Markov Models and a Recurrent Neural Network. citation:-1
+title:Feature Ranking Algorithms for Improving Classification of Vector Space Embedded Graphs. citation:-1
+title:Efficient Suboptimal Graph Isomorphism. citation:-1
+title:A Recursive Embedding Approach to Median Graph Computation. citation:-1
+title:Evaluating Retraining Rules for Semi-Supervised Learning in Neural Network Based Cursive Word Recognition. citation:-1
+title:On the Use of Textural Features for Writer Identification in Old Handwritten Music Scores. citation:-1
+title:Combining Alignment Results for Historical Handwritten Document Analysis. citation:-1
+title:Language Model Integration for the Recognition of Handwritten Medieval Documents. citation:-1
+title:Graph Classification Based on Vector Space Embedding. citation:-1
+title:Feature Selection for HMM and BLSTM Based Handwriting Recognition of Whiteboard Notes. citation:-1
+title:New Frontiers in Handwriting Recognition. citation:-1
+title:Combining diverse on-line and off-line systems for handwritten text line recognition. citation:-1
+title:Shape Code Based Lexicon Reduction for Offline Handwritten Word Recognition. citation:-1
+title:Writer Identification in Old Handwritten Music Scores. citation:-1
+title:Writer-Dependent Recognition of Handwritten Whiteboard Notes in Smart Meeting Room Environments. citation:-1
+title:Mustererkennung 1988, 10. DAGM-Symposium, Zürich, 27.-29. September 1988, Proceedings citation:-1
+title:Modelling and Planning for Sensor Based Intelligent Robot Systems [Dagstuhl Workshop, October 24-28, 1994] citation:-1
+title:Intelligent Robots: Sensing, Modeling and Planning [Dagstuhl Workshop, September 1-6, 1996] citation:-1
+title:Sensor Based Intelligent Robots, International Workshop, Dagstuhl Castle, Germany, September 28 - October 2, 1998, Selected Papers citation:-1
+title:Sensor Based Intelligent Robots, International Workshop, Dagstuhl Castle, Germany, October 15-20, 2000, Selected Revised Papers citation:-1
+title:Document Analysis Systems VII, 7th International Workshop, DAS 2006, Nelson, New Zealand, February 13-15, 2006, Proceedings citation:-1
+title:Ground truth creation for handwriting recognition in historical documents. citation:-1
+title:IAMonDo-database: an online handwritten document database with non-uniform contents. citation:-1
+title:Selecting Structural Base Classifiers for Graph-Based Multiple Classifier Systems. citation:-1
+title:Combining Neural Networks to Improve Performance of Handwritten Keyword Spotting. citation:-1
+title:Text versus non-text distinction in online handwritten documents. citation:-1
+title:A Novel Word Spotting Algorithm Using Bidirectional Long Short-Term Memory Neural Networks. citation:-1
+title:Reducing the dimensionality of dissimilarity space embedding graph kernels. citation:-1
+title:Graph of Words Embedding for Molecular Structure-Activity Relationship Analysis. citation:-1
+title:Self-training for Handwritten Text Line Recognition. citation:-1
+title:HMM-based Word Spotting in Handwritten Documents Using Subword Models. citation:-1
+title:Vector Space Embedding of Undirected Graphs with Fixed-cardinality Vertex Sequences for Classification. citation:-1
+title:Graph Similarity Features for HMM-Based Handwriting Recognition in Historical Documents. citation:-1
+title:Adapting BLSTM Neural Network Based Keyword Spotting Trained on Modern Data to Historical Documents. citation:-1
+title:A combination of features for symbol-independent writer identification in old music scores. citation:-1
+title:Combining diverse systems for handwritten text line recognition. citation:-1
+title:Recent advances in graph-based pattern recognition with applications in document analysis. citation:-1
+title:Modellgesteuerte Bildanalyse - dargestellt anhand eines Systems zur automatischen Auswertung von Sequenzszintigrammen des menschlichen Herzens. citation:-1
+title:Künstliche Intelligenz in Bild- und Sprachanalyse. citation:-1
+title:Structured document image analysis. citation:-1
+title:Dimensionality Reduction for Graph of Words Embedding. citation:-1
+title:Speeding Up Graph Edit Distance Computation through Fast Bipartite Matching. citation:-1
+title:Structure-Based Evaluation Methodology for Curvilinear Structure Detection Algorithms. citation:-1
+title:Vocabulary Selection for Graph of Words Embedding. citation:-1
+title:Improving handwritten keyword spotting with self-training. citation:-1
+title:A generic framework for median graph computation based on a recursive embedding approach. citation:-1
+title:Automatic gender detection using on-line and off-line information. citation:-1
+title:Improving vector space embedding of graphs through feature selection algorithms. citation:-1
+title:Graph Classification by Means of Lipschitz Embedding. citation:-1
+title:Fuzzy timed Petri nets - analysis and implementation. citation:-1
+title:Fuzzy timed petri net definitions, properties, and applications. citation:-1
+title:Exact and Inexact Graph Matching: Methodology and Applications. citation:-1
+title:Online Signature Verification Method Based on the Acceleration Signals of Handwriting Samples. citation:-1
+title:Co-training for Handwritten Word Recognition. citation:-1
+title:Keyword Spotting in Online Handwritten Documents Containing Text and Non-text Using BLSTM Neural Networks. citation:-1
+title:HMM-Based Alignment of Inaccurate Transcriptions for Historical Documents. citation:-1
+title:Multiple Classifiers for Graph of Words Embedding. citation:-1
+title:Sequential Classifier Combination for Pattern Recognition in Wireless Sensor Networks. citation:-1
+title:A Novel Word Spotting Method Based on Recurrent Neural Networks. citation:-1
+title:Lipreading using signal analysis over time. citation:-1
+title:Towards the unification of structural and statistical pattern recognition. citation:-1
+title:Lexicon-free handwritten word spotting using character HMMs. citation:-1
+title:Binarization-Free Text Line Segmentation for Historical Documents Based on Interest Point Clustering. citation:-1
+title:Graph embedding in vector spaces by node attribute statistics. citation:-1
+title:Feature selection on node statistics based embedding of graphs. citation:-1
+title:TV-gram language models for offline handwritten text recognition. citation:-1
+title:Comparing natural and synthetic training data for off-line cursive handwriting recognition. citation:-1
+title:Combination of three classifiers with different architectures for handwritten word recognition. citation:-1
+title:On the Correlation of Graph Edit Distance and L 1 Distance in the Attribute Statistics Embedding Space. citation:-1
+title:Suboptimal Graph Isomorphism using bipartite Matching. citation:-1
+title:Discriminative prototype selection methods for graph embedding. citation:-1
+title:Mode Detection in Online Handwritten Documents Using BLSTM Neural Networks. citation:-1
+title:Combination of product graph and random walk kernel for symbol spotting in graphical documents. citation:-1
+title:Topological features and iterative node elimination for speeding up subgraph isomorphism detection. citation:-1
+title:Robust facial profile recognition. citation:-1

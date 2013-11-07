@@ -1,0 +1,433 @@
+title1:Design Methodologies of Fuzzy Set-Based Fuzzy Model Based on GAs and Information Granulation. title2:Design methodologies of fuzzy set-based fuzzy model based on GAs and information granulation citation:1 ncitation:-1 pid59720
+title1:Logic-Based Granular Prototyping. title2:Logic-based granular prototyping citation:8 ncitation:8 pid111875
+title1:Augmenting Scan Path SRLs with an XOR Network to Enhance Delay Fault Testing. title2:Augmenting scan path SRLs with an XOR network to enhance delay fault testing citation:2 ncitation:2 pid153742
+title1:Difference Fuzzy Relation Equations: Studies in Dynamical Systems. title2:Difference fuzzy relation equations: Studies in dynamical systems citation:4 ncitation:4 pid175286
+title1:Supervised Semantic Scene Classification Based on Low-Level Clustering and Relevance Feedback. title2:Supervised Semantic Scene Classification Based on Low-Level Clustering and Relevance Feedback. citation:5 ncitation:5 pid200464
+title1:Proactive Utilization of Proximity-Oriented Information Inside an Agent-based Framework. title2:Proactive Utilization of Proximity-Oriented Information Inside an Agent-based Framework. citation:4 ncitation:4 pid207428
+title1:Symmetrization of Fuzzy Operators: Notes on Data Aggregation. title2:Symmetrization of fuzzy operators: notes on data aggregation citation:3 ncitation:3 pid217564
+title1:Modeling Nonlinear Systems: An Approach of Boosted Linguistic Models. title2:Modeling nonlinear systems: An approach of boosted linguistic models citation:2 ncitation:2 pid217701
+title1:Fuzzy Relations Neural Network: Some Preliminary Results. title2:Fuzzy relations neural network: some preliminary results citation:4 ncitation:4 pid221228
+title1:Logic-motivated Choice of Fuzzy Logic Operators. title2:Logic-motivated choice of fuzzy logic operators citation:5 ncitation:5 pid221508
+title1:Modelling with Fuzzy Sets in Fuzzy Control. title2:Modelling with fuzzy sets in fuzzy control citation:3 ncitation:1 pid222215
+title1:Granular Modeling: The Synergy of Granular Computing and Fuzzy Logic. title2:Granular Modeling: The Synergy of Granular Computing and Fuzzy Logic. citation:1 ncitation:1 pid251829
+title1:Interpolating Support Information Granules. title2:Interpolating support information granules citation:8 ncitation:7 pid271423
+title1:Information Granulation-Based Multi-layer Hybrid Fuzzy Neural Networks: Analysis and Design. title2:Information granulation-based multi-layer hybrid fuzzy neural networks: analysis and design citation:1 ncitation:1 pid279781
+title1:Design of Evolutionally Optimized Rule-Based Fuzzy Neural Networks Based on Fuzzy Relation and Evolutionary Optimization. title2:Design of evolutionally optimized rule-based fuzzy neural networks based on fuzzy relation and evolutionary optimization citation:4 ncitation:3 pid279785
+title1:Self-Organizing Multi-layer Fuzzy Polynomial Neural Networks Based on Genetic Optimization. title2:A new approach to self-organizing multi-layer fuzzy polynomial neural networks based on genetic optimization citation:12 ncitation:-1 pid279818
+title1:Genetically Optimized Hybrid Fuzzy Neural Networks Based on Simplified Fuzzy Inference Rules and Polynomial Neurons. title2:Genetically optimized hybrid fuzzy neural networks based on simplified fuzzy inference rules and polynomial neurons citation:1 ncitation:1 pid279820
+title1:Optimization of IG-Based Fuzzy System with the Aid of GAs and Its Application to Software Process. title2:Optimization of IG-Based Fuzzy System with the Aid of GAs and Its Application to Software Process citation:0 ncitation:-1 pid280678
+title1:Evolutionally Optimized Fuzzy Neural Networks Based on Evolutionary Fuzzy Granulation. title2:Evolutionally optimized fuzzy neural networks based on evolutionary fuzzy granulation citation:2 ncitation:1 pid291725
+title1:Holmes: a system to support software product lines. title2:Holmes: a system to support software product lines citation:2 ncitation:2 pid363208
+title1:Holmes: An Intelligent System to Support Software Product Line Development. title2:Holmes: an intelligent system to support software product line development citation:10 ncitation:11 pid363209
+title1:A comparative analysis of the efficiency of change metrics and static code attributes for defect prediction. title2:A comparative analysis of the efficiency of change metrics and static code attributes for defect prediction citation:156 ncitation:121 pid363701
+title1:A Semi-supervised Clutsering Algorithm for Data Exploration. title2:A semi-supervised clustering algorithm for data exploration citation:17 ncitation:13 pid385210
+title1:Fuzzy Dynamic Systems. title2:Fuzzy dynamic systems citation:2 ncitation:2 pid390106
+title1:Fuzzy Set Theoretic Adjustment to Training Set Class Labels Using Robust Location Measures. title2:Fuzzy set theoretic adjustment to training set class labels using robust location measures citation:6 ncitation:5 pid392383
+title1:Parallel Learning of Large Fuzzy Cognitive Maps. title2:Parallel learning of large fuzzy cognitive maps citation:13 ncitation:13 pid392737
+title1:Granular Computing in Knowledge Integration and Reuse. title2:Granular Computing in Knowledge Integration and Reuse. citation:1 ncitation:-1 pid414148
+title1:A New Approach to Self-Organizing Polynomial Neural Networks by Means of Genetic Algorithms. title2:A new approach to self-organizing polynomial neural networks by means of genetic algorithms citation:2 ncitation:2 pid442661
+title1:Consecutive Identification of ANFIS-Based Fuzzy Systems with the Aid of Genetic Data Granulation. title2:Consecutive identification of ANFIS-Based fuzzy systems with the aid of genetic data granulation citation:0 ncitation:0 pid442690
+title1:Dimensionality Reduction for Content-Based Image Classification. title2:Dimensionality reduction for content-based image classification citation:13 ncitation:10 pid460559
+title1:Genetically Optimized Hybrid Fuzzy Neural Networks with the Aid of TSK Fuzzy Inference Rules and Polynomial Neural Networks. title2:Genetically optimized hybrid fuzzy neural networks with the aid of TSK fuzzy inference rules and polynomial neural networks citation:0 ncitation:-1 pid462697
+title1:IG-Based Genetically Optimized Fuzzy Polynomial Neural Networks. title2:IG-based genetically optimized fuzzy polynomial neural networks with fuzzy set-based polynomial neurons citation:1 ncitation:0 pid462699
+title1:Exclusion/Inclusion Fuzzy Classification Network. title2:Exclusion/Inclusion fuzzy classification network citation:5 ncitation:4 pid474010
+title1:Medical Diagnosis System Using the Intelligent Fuzzy Systems. title2:Medical diagnosis system using the intelligent fuzzy systems citation:6 ncitation:6 pid475132
+title1:Genetically Dynamic Optimized Self-organizing Fuzzy Polynomial Neural Networks with Information Granulation Based FPNs. title2:Genetically dynamic optimized self-organizing fuzzy polynomial neural networks with information granulation based FPNs citation:0 ncitation:-1 pid491337
+title1:Optimization of Fuzzy Systems Based on Fuzzy Set Using Genetic Optimization and Information Granulation. title2:Optimization of fuzzy systems based on fuzzy set using genetic optimization and information granulation citation:1 ncitation:0 pid491457
+title1:Genetically Optimized Hybrid Fuzzy Neural Networks in Modeling Software Data. title2:Genetically optimized hybrid fuzzy neural networks in modeling software data citation:2 ncitation:1 pid491459
+title1:On the Sensitivity of COCOMO II Software Cost Estimation Model. title2:On the sensitivity of COCOMO II software cost estimation model citation:30 ncitation:30 pid492919
+title1:A Feed Forward Network and Its Training Algorithm for Producing Sets. title2:A Feed Forward Network and Its Training Algorithm for Producing Sets. citation:0 ncitation:0 pid512380
+title1:Meta Analysis - A Method of Combining Empirical Results and its Application in Object-Oriented Software Systems. citation:6 ncitation:6 pid521395
+title1:Collaborative Rough Clustering. title2:Collaborative rough clustering citation:4 ncitation:3 pid551079
+title1:GA-Based Polynomial Neural Networks Architecture and Its Application to Multi-variable Software Process. title2:GA-based polynomial neural networks architecture and its application to multi-variable software process citation:2 ncitation:2 pid551649
+title1:A Model to Identify Refactoring Effort during Maintenance by Mining Source Code Repositories. title2:A model to identify refactoring effort during maintenance by mining source code repositories citation:7 ncitation:5 pid552962
+title1:Optimization of Information Granulation-Oriented Fuzzy Set Model Using Hierarchical Fair Competition-Based Parallel Genetic Algorithms. title2:Optimization of information granulation-oriented fuzzy set model using hierarchical fair competition-based parallel genetic algorithms citation:1 ncitation:1 pid561356
+title1:Balanced Fuzzy Gates. title2:Balanced fuzzy gates citation:2 ncitation:1 pid561382
+title1:Shadowed Clustering for Speech Data and Medical Image Segmentation. title2:Shadowed clustering for speech data and medical image segmentation citation:5 ncitation:2 pid561742
+title1:Phase Transition in SONFIS and SORST. title2:Phase Transition in SONFIS and SORST citation:7 ncitation:7 pid561755
+title1:User-Driven Fuzzy Clustering: On the Road to Semantic Classification. title2:User-driven fuzzy clustering: On the road to semantic classification citation:3 ncitation:3 pid561899
+title1:Genetically Optimized Rule-Based Fuzzy Polynomial Neural Networks: Synthesis of Computational Intelligence Technologies. title2:Genetically optimized rule-based fuzzy polynomial neural networks: synthesis of computational intelligence technologies citation:2 ncitation:2 pid562011
+title1:Granular Computing with Shadowed Sets. title2:Granular computing with shadowed sets citation:10 ncitation:11 pid562031
+title1:Granular Computing in Multi-agent Systems. title2:Granular computing in multi-agent systems citation:7 ncitation:4 pid562478
+title1:Information Granulation for Concept Formation. title2:Information granulation for concept formation citation:5 ncitation:4 pid568209
+title1:Application of computational intelligence techniques in active networks. title2:Application of computational intelligence techniques in active networks citation:13 ncitation:13 pid568713
+title1:Computational intelligence as an emerging paradigm of software engineering. title2:Computational intelligence as an emerging paradigm of software engineering citation:51 ncitation:45 pid582071
+title1:Incremental Effort Prediction Models in Agile Development using Radial Basis Functions. title2:Incremental Effort Prediction Models in Agile Development using Radial Basis Functions. citation:3 ncitation:3 pid582906
+title1:Linear Regression Model-Guided Clustering for Training RBF Networks for Regression Problems. title2:Linear regression model-guided clustering for training RBF networks for regression problems citation:0 ncitation:0 pid662161
+title1:OR/AND Neurons for Fuzzy Set Connectives Using Ordinal Sums and Genetic Algorithms. title2:OR/AND neurons for fuzzy set connectives using ordinal sums and genetic algorithms citation:4 ncitation:4 pid662197
+title1:Fuzzy Relational Neural Network for Data Analysis. title2:Fuzzy relational neural network for data analysis citation:4 ncitation:4 pid662199
+title1:The Genetic Development of Uninorm-Based Neurons. title2:The genetic development of uninorm-based neurons citation:2 ncitation:2 pid662302
+title1:Type-2 Fuzzy Logic: Theory and Applications. title2:Type-2 fuzzy logic: theory and applications citation:11 ncitation:132 pid687197
+title1:Distributed and Collaborative Soft Computing: An Emerging Development Environment. title2:Distributed and Collaborative Soft Computing: An Emerging Development Environment citation:1 ncitation:1 pid692914
+title1:Classification of Biomedical Spectra Using Fuzzy Interquartile Encoding and Stochastic Feature Selection. title2:Classification of biomedical spectra using fuzzy interquartile encoding and stochastic feature selection citation:1 ncitation:1 pid694168
+title1:Captology in Narrowcast Advertising: A Swarm Simulation of Persuasion Models. title2:Captology in Narrowcast Advertising: A Swarm Simulation of Persuasion Models citation:1 ncitation:1 pid696318
+title1:Analysis of the reliability of a subset of change metrics for defect prediction. title2:Analysis of the reliability of a subset of change metrics for defect prediction citation:5 ncitation:3 pid708190
+title1:Effort Prediction in Iterative Software Development Processes -- Incremental Versus Global Prediction Models. title2:Effort prediction in iterative software development processes--incremental versus global prediction models citation:29 ncitation:27 pid708195
+title1:Collaborative Architectures of Fuzzy Modeling. title2:Collaborative architectures of fuzzy modeling citation:15 ncitation:6 pid716853
+title1:A Case Study on the Impact of Refactoring on Quality and Productivity in an Agile Team. title2:A case study on the impact of refactoring on quality and productivity in an agile team citation:24 ncitation:19 pid719241
+title1:Proximity fuzzy clustering for web context analysis. title2:Proximity fuzzy clustering for web context analysis. citation:1 ncitation:1 pid721146
+title1:Granular Computing: An Overview. title2:Granular computing: an overview citation:1 ncitation:-1 pid726315
+title1:A new approach to self-organizing multi-layer fuzzy polynomial neural networks based on genetic optimization. title2:A new approach to self-organizing multi-layer fuzzy polynomial neural networks based on genetic optimization citation:12 ncitation:12 pid743617
+title1:Implicit rule-based fuzzy-neural networks using the identification algorithm of GA hybrid scheme based on information granulation. title2:Implicit rule-based fuzzy-neural networks using the identification algorithm of GA hybrid scheme based on information granulation citation:16 ncitation:14 pid743797
+title1:An interactive framework for an analysis of ECG signals. title2:An interactive framework for an analysis of ECG signals citation:30 ncitation:26 pid759646
+title1:Genetic design of feature spaces for pattern classifiers. title2:Genetic design of feature spaces for pattern classifiers citation:13 ncitation:11 pid759930
+title1:Training a feed-forward network with incomplete data due to missing input variables. title2:Training a feed-forward network with incomplete data due to missing input variables citation:7 ncitation:6 pid760304
+title1:Efficient decomposition methods of fuzzy relation and their application to image decomposition. title2:Efficient decomposition methods of fuzzy relation and their application to image decomposition citation:11 ncitation:10 pid760346
+title1:The design of fuzzy information granules: Tradeoffs between specificity and experimental evidence. title2:The design of fuzzy information granules: Tradeoffs between specificity and experimental evidence citation:19 ncitation:13 pid760355
+title1:Self-organizing neural networks with fuzzy polynomial neurons. title2:Self-organizing neural networks with fuzzy polynomial neurons citation:45 ncitation:45 pid760357
+title1:The development of fuzzy decision trees in the framework of Axiomatic Fuzzy Set logic. title2:The development of fuzzy decision trees in the framework of Axiomatic Fuzzy Set logic citation:48 ncitation:44 pid760546
+title1:Hybrid fuzzy set-based polynomial neural networks and their development with the aid of genetic optimization and information granulation. title2:Hybrid fuzzy set-based polynomial neural networks and their development with the aid of genetic optimization and information granulation citation:19 ncitation:15 pid760791
+title1:Modified fuzzy c-means and Bayesian equalizer for nonlinear blind channel. title2:Modified fuzzy< i> c</i>-means and Bayesian equalizer for nonlinear blind channel citation:9 ncitation:9 pid760792
+title1:The Genetic Design Of Hybrid Fuzzy Controllers. title2:The genetic design of hybrid fuzzy controllers citation:9 ncitation:-1 pid783081
+title1:Graphical Estimation of Permeability Using RST&NFIS title2:Graphical estimation of permeability using RST&NFIS citation:5 ncitation:5 pid826800
+title1:Modeling of Social Transitions Using Intelligent Systems title2:Modeling of Social Transitions Using Intelligent Systems citation:0 ncitation:0 pid828678
+title1:Data Clustering with Partial Supervision. title2:Data clustering with partial supervision citation:45 ncitation:34 pid839532
+title1:An Empirical Exploration of the Distributions of the Chidamber and Kemerer Object-Oriented Metrics Suite. title2:An empirical exploration of the distributions of the Chidamber and Kemerer object-oriented metrics suite citation:40 ncitation:36 pid871914
+title1:An Investigation on the Occurrence of Service Requests in Commercial Software Applications. title2:An investigation on the occurrence of service requests in commercial software applications citation:3 ncitation:3 pid871915
+title1:Evolutionary design of hybrid self-organizing fuzzy polynomial neural networks with the aid of information granulation. title2:Evolutionary design of hybrid self-organizing fuzzy polynomial neural networks with the aid of information granulation citation:21 ncitation:20 pid872905
+title1:Linguistic neurocomputing: the design of neural networks in the framework of fuzzy sets. title2:Linguistic neurocomputing: the design of neural networks in the framework of fuzzy sets citation:11 ncitation:11 pid879360
+title1:The genetic development of ordinal sums. title2:The genetic development of ordinal sums citation:18 ncitation:15 pid879459
+title1:Data compression with fuzzy relational equations. title2:Data compression with fuzzy relational equations citation:31 ncitation:28 pid879778
+title1:Fuzzy finite automata and fuzzy regular expressions with membership values in lattice-ordered monoids. title2:Fuzzy finite automata and fuzzy regular expressions with membership values in lattice-ordered monoids citation:149 ncitation:125 pid880053
+title1:Self-organizing polynomial neural networks based on polynomial and fuzzy polynomial neurons: analysis and design. title2:Self-organizing polynomial neural networks based on polynomial and fuzzy polynomial neurons: analysis and design citation:34 ncitation:34 pid880055
+title1:Hybrid identification in fuzzy-neural networks. title2:Hybrid identification in fuzzy-neural networks citation:79 ncitation:79 pid880256
+title1:Self-organizing neurofuzzy networks in modeling software data. title2:Self-organizing neurofuzzy networks in modeling software data citation:37 ncitation:35 pid880257
+title1:Fuzzy equalization in the construction of fuzzy sets. title2:Fuzzy equalization in the construction of fuzzy sets citation:70 ncitation:56 pid880298
+title1:Fuzzy timed Petri nets. title2:Fuzzy timed Petri nets citation:54 ncitation:50 pid880300
+title1:Genetically optimized logic models. title2:Genetically optimized logic models citation:33 ncitation:29 pid880302
+title1:The design of decision trees in the framework of granular data and their application to software quality models. title2:The design of decision trees in the framework of granular data and their application to software quality models citation:45 ncitation:39 pid880303
+title1:Building a software experience factory using granular-based models. title2:Building a software experience factory using granular-based models citation:12 ncitation:13 pid880320
+title1:Modeling temporal functions with granular regression and fuzzy rules. title2:Modeling temporal functions with granular regression and fuzzy rules citation:8 ncitation:8 pid880361
+title1:Genetic learning of fuzzy cognitive maps. title2:Genetic learning of fuzzy cognitive maps citation:148 ncitation:133 pid880375
+title1:Boosting of granular models. title2:Boosting of granular models citation:35 ncitation:32 pid880797
+title1:Enhancement of fuzzy clustering by mechanisms of partial supervision. title2:Enhancement of fuzzy clustering by mechanisms of partial supervision citation:54 ncitation:45 pid880835
+title1:The potential of fuzzy neural networks in the realization of approximate reasoning engines. title2:The potential of fuzzy neural networks in the realization of approximate reasoning engines citation:15 ncitation:14 pid880846
+title1:Minimization of lattice finite automata and its application to the decomposition of lattice languages. title2:Minimization of lattice finite automata and its application to the decomposition of lattice languages citation:39 ncitation:35 pid880944
+title1:Multiple regression with fuzzy data. title2:Multiple regression with fuzzy data citation:52 ncitation:42 pid881011
+title1:Collaborative clustering with the use of Fuzzy C-Means and its quantification. title2:Collaborative clustering with the use of Fuzzy C-Means and its quantification citation:43 ncitation:34 pid881187
+title1:Effective classification using feature selection and fuzzy integration. title2:Effective classification using feature selection and fuzzy integration citation:21 ncitation:16 pid881201
+title1:Identification of fuzzy models using a successive tuning method with a variant identification ratio. title2:Identification of fuzzy models using a successive tuning method with a variant identification ratio citation:24 ncitation:21 pid881308
+title1:A Doctrine of Cognitive Informatics (CI). title2:A doctrine of Cognitive Informatics (CI) citation:55 ncitation:52 pid883166
+title1:P-FCM: a proximity-based fuzzy clustering for user-centered web applications. title2:P-FCM: a proximity-based fuzzy clustering for user-centered web applications citation:43 ncitation:34 pid903850
+title1:The design of self-organizing neural networks based on PNs and FPNs with the aid of genetic optimization and extended GMDH method. title2:The design of self-organizing neural networks based on PNs and FPNs with the aid of genetic optimization and extended GMDH method citation:6 ncitation:7 pid903897
+title1:An aspect of discrepancy in the implementation of modus ponens in the presence of fuzzy quantities. title2:An aspect of discrepancy in the implementation of modus ponens in the presence of fuzzy quantities citation:29 ncitation:24 pid903900
+title1:A study on approximate reasoning mechanisms via fuzzy relation equations. title2:A study on approximate reasoning mechanisms via fuzzy relation equations citation:6 ncitation:5 pid903901
+title1:Fuzzy logic in development of fundamentals of pattern recognition. title2:Fuzzy logic in development of fundamentals of pattern recognition citation:8 ncitation:7 pid903942
+title1:Fuzzy modelling through logic optimization. title2:Fuzzy modelling through logic optimization citation:26 ncitation:20 pid904185
+title1:Structural and parametric design of fuzzy inference systems using hierarchical fair competition-based parallel genetic algorithms and information granulation. title2:Structural and parametric design of fuzzy inference systems using hierarchical fair competition-based parallel genetic algorithms and information granulation citation:23 ncitation:17 pid904356
+title1:Learning of Fuzzy Automata. title2:Learning of fuzzy automata citation:23 ncitation:18 pid905796
+title1:Logic-Oriented Fuzzy Neural Networks. title2:Logic-oriented fuzzy neural networks citation:6 ncitation:6 pid909927
+title1:Fuzzy Relation Calculus in the Compression and Decompression of Fuzzy Relations. title2:Fuzzy relation calculus in the compression and decompression of fuzzy relations citation:16 ncitation:14 pid910309
+title1:Granular worlds: Representation and communication problems. title2:Granular worlds: representation and communication problems citation:16 ncitation:16 pid910759
+title1:Hybrid identification of fuzzy rule-based models. citation:21 ncitation:20 pid910764
+title1:Granular computing with shadowed sets. title2:Granular computing with shadowed sets citation:10 ncitation:16 pid910767
+title1:An approach to measure the robustness of fuzzy reasoning. title2:An approach to measure the robustness of fuzzy reasoning citation:32 ncitation:26 pid910789
+title1:A survey of defuzzification strategies. title2:A survey of defuzzification strategies citation:71 ncitation:59 pid910811
+title1:Fuzzy logic-based networks: A study in logic data interpretation. citation:2 ncitation:2 pid911048
+title1:Interactive knowledge management for agent-assisted web navigation. citation:7 ncitation:7 pid911099
+title1:From fuzzy sets to shadowed sets: Interpretation and computing. title2:From fuzzy sets to shadowed sets: Interpretation and computing citation:28 ncitation:19 pid911199
+title1:Some Problems Concerning the Construction of Algorithms of Decision-Making in Fuzzy Systems. title2:Some problems concerning the construction of algorithms of decision-making in fuzzy systems citation:33 ncitation:30 pid912166
+title1:On the Suitability of Fuzzy Models: An Evaluation Through Fuzzy Integrals. title2:On the suitability of fuzzy models: an evaluation through fuzzy integrals citation:7 ncitation:5 pid912449
+title1:Experience-Consistent Modeling for Radial Basis Function Neural Networks. title2:Experience-consistent modeling for radial basis function neural networks citation:18 ncitation:19 pid915103
+title1:Multi-layer hybrid fuzzy polynomial neural networks: a design in the framework of computational intelligence. title2:Multi-layer hybrid fuzzy polynomial neural networks: a design in the framework of computational intelligence citation:25 ncitation:25 pid916578
+title1:N: computing with neural receptive fields. title2:N< sup> 4</sup>: computing with neural receptive fields citation:3 ncitation:-1 pid916678
+title1:Calibration of software quality: Fuzzy neural and rough neural computing approaches. title2:Calibration of software quality: Fuzzy neural and rough neural computing approaches citation:23 ncitation:19 pid916680
+title1:Improving RBF networks performance in regression tasks by means of a supervised fuzzy clustering. title2:Improving RBF networks performance in regression tasks by means of a supervised fuzzy clustering citation:84 ncitation:73 pid917466
+title1:Genetic tolerance fuzzy neural networks: From data to fuzzy hyperboxes. title2:Genetic tolerance fuzzy neural networks: From data to fuzzy hyperboxes citation:4 ncitation:4 pid917741
+title1:A granular-oriented development of functional radial basis function neural networks. title2:A granular-oriented development of functional radial basis function neural networks citation:38 ncitation:32 pid918138
+title1:Using multilayer perceptrons as receptive fields in the design of neural networks. title2:Using multilayer perceptrons as receptive fields in the design of neural networks citation:4 ncitation:3 pid918343
+title1:Fuzzy prediction architecture using recurrent neural networks. title2:Fuzzy prediction architecture using recurrent neural networks citation:31 ncitation:27 pid918391
+title1:Association Analysis of Software Measures. title2:Association analysis of software measures citation:12 ncitation:10 pid920814
+title1:Fuzzy Encoding and Decoding: A Study in Information Granularity. title2:Fuzzy Encoding and Decoding: A Study in Information Granularity citation:0 ncitation:0 pid921442
+title1:Textual-Based Clustering Of Web Documents. title2:Textual-based clustering of web documents citation:1 ncitation:1 pid921458
+title1:Simplified Fuzzy Inference Rule-Based Genetically Optimized Hybrid Fuzzy Neural Networks. title2:Simplified fuzzy inference rule-based genetically optimized Hybrid Fuzzy Neural Networks citation:2 ncitation:2 pid921830
+title1:Software quality analysis with the use of computational intelligence. title2:Software quality analysis with the use of computational intelligence citation:16 ncitation:39 pid924822
+title1:An approach to fuzzy granule-based hierarchical polynomial networks for empirical data modeling in software engineering. title2:An approach to fuzzy granule-based hierarchical polynomial networks for empirical data modeling in software engineering citation:2 ncitation:2 pid925334
+title1:Revealing Logical Dependencies in Fuzzy Data with the Aid of Multilevel Fuzzy Relational Equations. title2:Revealing logical dependencies in fuzzy data with the aid of multilevel fuzzy relational equations citation:2 ncitation:2 pid940389
+title1:Fuzzy system identification via probabilistic sets. title2:Fuzzy system identification via probabilistic sets citation:10 ncitation:8 pid940580
+title1:Logic-based neural networks. title2:Logic-based neural networks citation:13 ncitation:11 pid940583
+title1:Implicitly-Supervised Learning and Its Application to Fuzzy Pattern Classifiers. title2:Implicitly-supervised learning and its application to fuzzy pattern classifiers citation:1 ncitation:1 pid940585
+title1:The design of self-organizing Polynomial Neural Networks. title2:The design of self-organizing polynomial neural networks citation:135 ncitation:127 pid941108
+title1:Some theoretical aspects of fuzzy-relation equations describing fuzzy systems. title2:Some theoretical aspects of fuzzy-relation equations describing fuzzy systems citation:26 ncitation:25 pid941279
+title1:On some finite fuzzy relation equations. title2:On some finite fuzzy relation equations citation:10 ncitation:8 pid941419
+title1:Relevancy of fuzzy models. title2:Relevancy of fuzzy models citation:20 ncitation:17 pid941472
+title1:Interfaces of Fuzzy Models: A Study in Fuzzy Information Processing. title2:Interfaces of fuzzy models: a study in fuzzy information processing citation:8 ncitation:7 pid941473
+title1:Fuzzy fractal dimensions and fuzzy modeling. title2:Fuzzy fractal dimensions and fuzzy modeling citation:18 ncitation:17 pid941474
+title1:Temporal granulation and its application to signal analysis. title2:Temporal granulation and its application to signal analysis citation:34 ncitation:26 pid941475
+title1:Early estimation of software size in object-oriented environments a case study in a CMM level 3 software firm. title2:Early estimation of software size in object-oriented environments a case study in a CMM level 3 software firm citation:14 ncitation:14 pid941612
+title1:A motion compression/reconstruction method based on max -norm composite fuzzy relational equations. title2:A motion compression/reconstruction method based on max< i> t</i>-norm composite fuzzy relational equations citation:29 ncitation:23 pid942297
+title1:Identification of defect-prone classes in telecommunication software systems using design metrics. title2:Identification of defect-prone classes in telecommunication software systems using design metrics citation:34 ncitation:28 pid942397
+title1:Regranulation: A granular algorithm enabling communication between granular worlds. title2:Regranulation: A granular algorithm enabling communication between granular worlds citation:24 ncitation:21 pid942520
+title1:Genetically Optimized Multi-Layer Fuzzy Polynomial Neural Networks: Analysis and Design. title2:Genetically Optimized Multi-Layer Fuzzy Polynomial Neural Networks: Analysis and Design. citation:1 ncitation:1 pid949039
+title1:Web navigation support by means of proximity-driven assistant agents. citation:13 ncitation:12 pid956597
+title1:Identification of fuzzy systems by means of genetic optimization and data granulation. title2:Identification of fuzzy systems by means of genetic optimization and data granulation citation:11 ncitation:7 pid981856
+title1:Information granulation as a basis of fuzzy modeling. title2:Information granulation as a basis of fuzzy modeling citation:3 ncitation:3 pid981858
+title1:Quantitative logic-based framework for agile methodologies. title2:Quantitative logic-based framework for agile methodologies citation:1 ncitation:1 pid990891
+title1:Genetic algorithms for hardware-software partitioning and optimal resource allocation. citation:21 ncitation:15 pid991065
+title1:Genetic granular classifiers in modeling software quality. title2:Genetic granular classifiers in modeling software quality citation:33 ncitation:32 pid997002
+title1:Using self-organizing maps to analyze object-oriented software measures. title2:Using self-organizing maps to analyze object-oriented software measures citation:15 ncitation:13 pid997003
+title1:Practical assessment of the models for identification of defect-prone classes in object-oriented commercial systems using design metrics. title2:Practical assessment of the models for identification of defect-prone classes in object-oriented commercial systems using design metrics citation:39 ncitation:36 pid997302
+title1:Rule-based multi-FNN identification with the aid of evolutionary fuzzy granulation. title2:Rule-based multi-FNN identification with the aid of evolutionary fuzzy granulation citation:23 ncitation:23 pid1004137
+title1:Deterioration of visual information in face classification using Eigenfaces and Fisherfaces. title2:Deterioration of visual information in face classification using eigenfaces and fisherfaces citation:7 ncitation:5 pid1017266
+title1:Aggregation of classifiers based on image transformations in biometric face recognition. title2:Aggregation of classifiers based on image transformations in biometric face recognition citation:9 ncitation:7 pid1017603
+title1:Fuzzy Neural Network as Instance Generator for Case-Based Reasoning System: An Example of Selection of Heat Exchange Equipment in Mixing Tanks. title2:Fuzzy neural network as instance generator for case-based reasoning system: An example of selection of heat exchange equipment in mixing tanks citation:35 ncitation:34 pid1021827
+title1:Fuzzy polynomial neurons as neurofuzzy processing units. title2:Fuzzy polynomial neurons as neurofuzzy processing units citation:6 ncitation:6 pid1021873
+title1:Neurocomputations in Relational Systems. title2:Neurocomputations in relational systems citation:170 ncitation:160 pid1032684
+title1:Prototype construction and evaluation as inverse problems in pattern classification. title2:Prototype construction and evaluation as inverse problems in pattern classification citation:1 ncitation:1 pid1039628
+title1:Face recognition using a fuzzy fisherface classifier. title2:Face recognition using a fuzzy fisherface classifier citation:100 ncitation:82 pid1040069
+title1:Designing of classification procedures with the use of equality and difference operators. title2:Designing of classification procedures with the use of equality and difference operators citation:3 ncitation:2 pid1040772
+title1:Fuzzy sets in pattern recognition: Methodology and methods. title2:Fuzzy sets in pattern recognition: methodology and methods citation:302 ncitation:288 pid1040971
+title1:Feature analysis through information granulation and fuzzy sets. title2:Feature analysis through information granulation and fuzzy sets citation:46 ncitation:39 pid1040975
+title1:Fuzzy clustering with supervision. title2:Fuzzy clustering with supervision citation:35 ncitation:33 pid1040977
+title1:Image classification with the use of radial basis function neural networks and the minimization of the localized generalization error. title2:Image classification with the use of radial basis function neural networks and the minimization of the localized generalization error citation:71 ncitation:67 pid1042386
+title1:The design of granular classifiers: A study in the synergy of interval calculus and fuzzy sets in pattern recognition. title2:The design of granular classifiers: a study in the synergy of interval calculus and fuzzy sets in pattern recognition citation:10 ncitation:6 pid1042857
+title1:Unsupervised hierarchical image segmentation with level set and additive operator splitting. title2:Unsupervised hierarchical image segmentation with level set and additive operator splitting citation:62 ncitation:48 pid1044768
+title1:Face recognition: A study in information fusion using fuzzy integral. title2:Face recognition: A study in information fusion using fuzzy integral citation:38 ncitation:35 pid1045014
+title1:A fuzzy knowledge base for dynamic image understandin. title2:A fuzzy knowledge base for dynamic image understanding citation:1 ncitation:1 pid1045441
+title1:Fuzzy clustering with a knowledge-based guidance. title2:Fuzzy clustering with a knowledge-based guidance citation:39 ncitation:35 pid1045476
+title1:Interpretation of clusters in the framework of shadowed sets. title2:Interpretation of clusters in the framework of shadowed sets citation:25 ncitation:15 pid1045478
+title1:Formation of prototypes and their confidence regions in classification and concept formation problems. title2:Formation of prototypes and their confidence regions in classification and concept formation problems citation:2 ncitation:2 pid1045480
+title1:Classification of relational patterns as a decomposition problem. title2:Classification of relational patterns as a decomposition problem citation:8 ncitation:6 pid1045482
+title1:Conditional Fuzzy C-Means. title2:Conditional fuzzy c-means citation:220 ncitation:208 pid1045484
+title1:Generalized fuzzy Petri nets as pattern classifiers. title2:Generalized fuzzy Petri nets as pattern classifiers citation:17 ncitation:14 pid1045489
+title1:Logic-oriented fuzzy clustering. title2:Logic-oriented fuzzy clustering citation:16 ncitation:17 pid1045491
+title1:Classification of meteorological volumetric radar data using rough set methods. title2:Classification of meteorological volumetric radar data using rough set methods citation:36 ncitation:34 pid1045547
+title1:A consensus-driven fuzzy clustering. title2:A consensus-driven fuzzy clustering citation:24 ncitation:18 pid1046842
+title1:A dynamic data granulation through adjustable fuzzy clustering. title2:A dynamic data granulation through adjustable fuzzy clustering citation:20 ncitation:13 pid1046984
+title1:Genetic optimization-driven multi-layer hybrid fuzzy neural networks. title2:Genetic optimization-driven multi-layer hybrid fuzzy neural networks citation:16 ncitation:12 pid1068422
+title1:A genetic approach to modeling fuzzy systems based on information granulation and successive generation-based evolution method. title2:A genetic approach to modeling fuzzy systems based on information granulation and successive generation-based evolution method citation:6 ncitation:6 pid1068876
+title1:Structural developments of fuzzy systems with the aid of information granulation. title2:Structural developments of fuzzy systems with the aid of information granulation citation:4 ncitation:4 pid1068879
+title1:A DNA-based algorithm for arranging weighted cliques. title2:A DNA-based algorithm for arranging weighted cliques citation:7 ncitation:6 pid1068953
+title1:Set oriented mappings on neural networks. title2:Set oriented mappings on neural networks citation:0 ncitation:0 pid1069347
+title1:A model of granular data: a design problem with the Tchebyschev FCM. title2:A model of granular data: a design problem with the Tchebyschev FCM citation:25 ncitation:18 pid1069406
+title1:Computational intelligence and visual computing: an emerging technology for software engineering. title2:Computational intelligence and visual computing: an emerging technology for software engineering citation:7 ncitation:7 pid1069711
+title1:Fuzzy evolutionary computing. title2:Fuzzy evolutionary computing citation:9 ncitation:10 pid1069713
+title1:fXOR fuzzy logic networks. title2:fXOR fuzzy logic networks citation:6 ncitation:6 pid1069717
+title1:Modularization of fuzzy relational equations. title2:Modularization of fuzzy relational equations citation:5 ncitation:4 pid1069719
+title1:An fMUX architecture: data modularization and mixed-mode system modeling. title2:An fMUX architecture: data modularization and mixed-mode system modeling citation:1 ncitation:1 pid1069721
+title1:Noninvasive data analysis: a web of information granules. title2:Noninvasive data analysis: a web of information granules citation:0 ncitation:0 pid1069723
+title1:Two iterative methods of decomposition of a fuzzy relation for image compression/decompression processing. title2:Two iterative methods of decomposition of a fuzzy relation for image compression/decompression processing citation:14 ncitation:13 pid1069744
+title1:Relational image compression: optimizations through the design of fuzzy coders and YUV color space. title2:Relational image compression: optimizations through the design of fuzzy coders and YUV color space citation:13 ncitation:11 pid1069746
+title1:The equivalence between fuzzy Mealy and fuzzy Moore machines. title2:The equivalence between fuzzy Mealy and fuzzy Moore machines citation:27 ncitation:25 pid1069774
+title1:Exploring spatial data through computational intelligence: a joint perspective. title2:Exploring spatial data through computational intelligence: a joint perspective citation:4 ncitation:4 pid1069778
+title1:An alternative characterization of fuzzy complement functional. title2:An alternative characterization of fuzzy complement functional citation:7 ncitation:7 pid1069791
+title1:Application of computational intelligence techniques in active networks. title2:Application of computational intelligence techniques in active networks citation:13 ncitation:13 pid1069844
+title1:Image Compression and Reconstruction Using pi-Sigma Neural Networks. title2:Image compression and reconstruction using pi t-sigma neural networks citation:3 ncitation:3 pid1069970
+title1:Uninorm-Based Logic Neurons as Adaptive and Interpretable Processing Constructs. title2:Uninorm-based logic neurons as adaptive and interpretable processing constructs citation:11 ncitation:10 pid1070006
+title1:Special issue on Software Engineering and Soft Computing. title2:Special issue on Software Engineering and Soft Computing citation:0 ncitation:0 pid1070126
+title1:Fuzzy Clustering in Software Reusability. title2:Fuzzy clustering in software reusability citation:25 ncitation:24 pid1074946
+title1:Genetic-fuzzy approach to the Boolean satisfiability problem. title2:Genetic-fuzzy approach to the boolean satisfiability problem citation:10 ncitation:10 pid1098291
+title1:Granular prototyping in fuzzy clustering. title2:Granular prototyping in fuzzy clustering citation:28 ncitation:21 pid1099679
+title1:The Development of Incremental Models. title2:The development of incremental models citation:44 ncitation:43 pid1099877
+title1:Logic-Based Fuzzy Neurocomputing With Unineurons. title2:Logic-based fuzzy neurocomputing with unineurons citation:36 ncitation:33 pid1099938
+title1:Semantic Web Content Analysis: A Study in Proximity-Based Collaborative Clustering. title2:Semantic web content analysis: a study in proximity-based collaborative clustering citation:33 ncitation:24 pid1099970
+title1:Toward a Theory of Granular Computing for Human-Centered Information Processing. title2:Toward a theory of granular computing for human-centered information processing citation:88 ncitation:65 pid1100006
+title1:Numerical and Linguistic Prediction of Time Series With the Use of Fuzzy Cognitive Maps. title2:Numerical and linguistic prediction of time series with the use of fuzzy cognitive maps citation:47 ncitation:38 pid1100024
+title1:Fuzzy Clustering With Partial Supervision in Organization and Classification of Digital Images. title2:Fuzzy clustering with partial supervision in organization and classification of digital images citation:36 ncitation:26 pid1100028
+title1:Logic Minimization as an Efficient Means of Fuzzy Structure Discovery. title2:Logic minimization as an efficient means of fuzzy structure discovery citation:8 ncitation:6 pid1100092
+title1:Recursive information granulation: aggregation and interpretation issues. title2:Recursive information granulation: aggregation and interpretation issues citation:46 ncitation:43 pid1130624
+title1:A study of uncertain state estimation. title2:A study of uncertain state estimation citation:8 ncitation:7 pid1130628
+title1:Face recognition using fuzzy Integral and wavelet decomposition method. title2:Face recognition using fuzzy integral and wavelet decomposition method citation:69 ncitation:63 pid1131440
+title1:Self-organizing neurofuzzy networks based on evolutionary fuzzy granulation. title2:Self-organizing neurofuzzy networks based on evolutionary fuzzy granulation citation:15 ncitation:13 pid1131780
+title1:Relational and directional aspects in the construction of information granules. title2:Relational and directional aspects in the construction of information granules citation:13 ncitation:10 pid1131864
+title1:Shadowed sets: representing and processing fuzzy sets. title2:Shadowed sets: representing and processing fuzzy sets citation:128 ncitation:98 pid1131865
+title1:Granular clustering: a granular signature of data. title2:Granular clustering: a granular signature of data citation:85 ncitation:71 pid1131866
+title1:A decomposition of fuzzy relations. title2:A decomposition of fuzzy relations citation:24 ncitation:22 pid1131867
+title1:Designing decision trees with the use of fuzzy granulation. title2:Designing decision trees with the use of fuzzy granulation citation:44 ncitation:39 pid1131868
+title1:Genetically optimized fuzzy decision trees. title2:Genetically optimized fuzzy decision trees citation:26 ncitation:21 pid1131869
+title1:C-fuzzy decision trees. title2:C-fuzzy decision trees citation:39 ncitation:34 pid1131870
+title1:Investigating a relevance of fuzzy mappings. title2:Investigating a relevance of fuzzy mappings citation:8 ncitation:7 pid1131871
+title1:Abstraction and specialization of information granules. title2:Abstraction and specialization of information granules citation:9 ncitation:11 pid1131872
+title1:On elicitation of membership functions. title2:On elicitation of membership functions citation:24 ncitation:20 pid1131873
+title1:Optimizing QoS routing in hierarchical ATM networks using computational intelligence techniques. title2:Optimizing QoS routing in hierarchical ATM networks using computational intelligence techniques citation:32 ncitation:27 pid1132279
+title1:Linguistic models as a framework of user-centric system modeling. title2:Linguistic models as a framework of user-centric system modeling citation:90 ncitation:81 pid1132598
+title1:A Novel Framework for Imputation of Missing Values in Databases. title2:A novel framework for imputation of missing values in databases citation:51 ncitation:42 pid1132720
+title1:A Multifaceted Perspective at Data Analysis: A Study in Collaborative Intelligent Agents. title2:A multifaceted perspective at data analysis: a study in collaborative intelligent agents citation:25 ncitation:20 pid1133170
+title1:Score-Based Resampling Method for Evolutionary Algorithms. title2:Score-based resampling method for evolutionary algorithms citation:1 ncitation:0 pid1133375
+title1:Fuzzy vector quantization with the particle swarm optimization: A study in fuzzy granulation-degranulation information processing. citation:31 ncitation:24 pid1151384
+title1:A neural network algorithm for testing stuck-open faults in CMOS combinational circuits. title2:A neural network algorithm for testing stuck-open faults in CMOS combinational circuits citation:8 ncitation:8 pid1167587
+title1:Conditional fuzzy clustering in the design of radial basis function neural networks. title2:Conditional fuzzy clustering in the design of radial basis function neural networks citation:316 ncitation:304 pid1173928
+title1:Data Mining Methods for Knowledge Discovery. title2:Data mining methods for knowledge discovery citation:527 ncitation:504 pid1173933
+title1:Face Recognition Using an Enhanced Independent Component Analysis Approach. title2:Face recognition using an enhanced independent component analysis approach citation:80 ncitation:69 pid1174258
+title1:OR/AND neurons and the development of interpretable logic models. title2:OR/AND neurons and the development of interpretable logic models citation:15 ncitation:14 pid1174439
+title1:Experience-consistent modeling: Regression and classification problems. title2:Experience-consistent modeling: Regression and classification problems citation:2 ncitation:2 pid1181709
+title1:An inclusion/exclusion fuzzy hyperbox classifier. title2:An inclusion/exclusion fuzzy hyperbox classifier citation:12 ncitation:11 pid1184171
+title1:Hierarchies of Architectures of Collaborative Computational Intelligence. title2:Hierarchies of architectures of collaborative computational intelligence citation:2 ncitation:2 pid1186723
+title1:Symmetrization Of Fuzzy Operators: Notes On Data Aggregation. title2:Symmetrization of fuzzy operators: notes on data aggregation citation:3 ncitation:3 pid1200898
+title1:Knowledge-Based Clustering in Computational Intelligence. title2:Knowledge-based clustering in computational intelligence citation:5 ncitation:3 pid1201462
+title1:Introduction to Computational Intelligence for Decision Making. title2:Introduction to computational intelligence for decision making citation:5 ncitation:4 pid1201536
+title1:Genetically Optimized Self-organizing Neural Networks Based on Polynomial and Fuzzy Polynomial Neurons: Analysis and Design. title2:Genetically Optimized Self-organizing Neural Networks Based on Polynomial and Fuzzy Polynomial Neurons: Analysis and Design citation:0 ncitation:-1 pid1201609
+title1:Engineering Evolutionary Intelligent Systems title2:Engineering Evolutionary Intelligent Systems citation:6 ncitation:5 pid1201612
+title1:A Quest for Adaptable and Interpretable Architectures of Computational Intelligence. title2:A Quest for Adaptable and Interpretable Architectures of Computational Intelligence citation:0 ncitation:0 pid1201813
+title1:Semantics and Perception of Fuzzy Sets and Fuzzy Mappings. title2:Semantics and Perception of Fuzzy Sets and Fuzzy Mappings citation:0 ncitation:-1 pid1201993
+title1:Soft Computing for Hybrid Intelligent Systems title2:Soft Computing for Hybrid Intelligent Systems citation:2 ncitation:2 pid1202162
+title1:Fuzzy C-Means, Gustafson-Kessel FCM, and Kernel-Based FCM: A Comparative Study. title2:Fuzzy c-means, Gustafson-Kessel FCM, and kernel-based FCM: A comparative study citation:16 ncitation:12 pid1202980
+title1:Uninorm Based Fuzzy Network for Tree Data Structures. title2:Uninorm Based Fuzzy Network for Tree Data Structures citation:1 ncitation:1 pid1215261
+title1:Design of optimized fuzzy cascade controllers by means of Hierarchical Fair Competition-based Genetic Algorithms. title2:Design of optimized fuzzy cascade controllers by means of Hierarchical Fair Competition-based Genetic Algorithms citation:10 ncitation:10 pid1271884
+title1:Identifying core sets of discriminatory features using particle swarm optimization. title2:Identifying core sets of discriminatory features using particle swarm optimization citation:39 ncitation:28 pid1272292
+title1:The theoretical fundamentals of learning theory based on fuzzy complex random samples. title2:The theoretical fundamentals of learning theory based on fuzzy complex random samples citation:8 ncitation:8 pid1272908
+title1:The expected value models on Sugeno measure space. title2:The expected value models on Sugeno measure space citation:5 ncitation:5 pid1273453
+title1:Logic-oriented neural networks for fuzzy neurocomputing. title2:Logic-oriented neural networks for fuzzy neurocomputing citation:22 ncitation:18 pid1274070
+title1:The Development of Fuzzy Rough Sets with the Use of Structures and Algebras of Axiomatic Fuzzy Sets. title2:The development of fuzzy rough sets with the use of structures and algebras of axiomatic fuzzy sets citation:17 ncitation:13 pid1281916
+title1:Data and Dimensionality Reduction in Data Analysis and System Modeling. title2:Data and Dimensionality Reduction in Data Analysis and System Modeling. citation:3 ncitation:2 pid1296487
+title1:Discriminatory Components for Pattern Classification. title2:Discriminatory Components for Pattern Classification. citation:2 ncitation:1 pid1312410
+title1:Sorted Kernel Matrices as Cluster Validity Indexes. title2:Sorted Kernel Matrices as Cluster Validity Indexes. citation:2 ncitation:2 pid1312483
+title1:Multivariate Segmentation of Time Series with Differential Evolution. title2:Multivariate Segmentation of Time Series with Differential Evolution. citation:3 ncitation:2 pid1312585
+title1:Polynomial-based radial basis function neural networks (P-RBF NNs) and their application to pattern classification. title2:Polynomial-based radial basis function neural networks (P-RBF NNs) and their application to pattern classification citation:19 ncitation:14 pid1332202
+title1:Multi-FNN identification based on HCM clustering and evolutionary fuzzy granulation. title2:Multi-FNN identification based on HCM clustering and evolutionary fuzzy granulation citation:14 ncitation:42 pid1342344
+title1:Editorial to the special issue. title2:Editorial to the special issue citation:1 ncitation:-1 pid1344673
+title1:Metastructural facets of granular computing. title2:Metastructural facets of granular computing citation:1 ncitation:1 pid1346894
+title1:Sparse optimization using a mixed GA-PSO optimization framework. title2:Sparse optimization using a mixed GA-PSO optimization framework citation:1 ncitation:1 pid1348602
+title1:Real-time fuzzy switching regression analysis: a convex hull approach. title2:Real-time fuzzy switching regression analysis: a convex hull approach citation:3 ncitation:3 pid1367306
+title1:Towards a New Generation of Indicators for Consensus Reaching Support Using Type-2 Fuzzy Sets. title2:Towards a New Generation of Indicators for Consensus Reaching Support Using Type-2 Fuzzy Sets citation:1 ncitation:0 pid1367874
+title1:Numeric Data to Information Granules and Computing with Words. title2:Numeric data to information granules and computing with words citation:4 ncitation:-1 pid1389403
+title1:Fuzzy Random Facility Location Problems with Recourse. title2:Fuzzy random facility location problems with recourse citation:4 ncitation:3 pid1396982
+title1:The Key Theorem of Learning Theory Based on Sugeno Measure and Fuzzy Random Samples. title2:The key theorem of learning theory based on Sugeno measure and fuzzy random samples citation:1 ncitation:1 pid1399445
+title1:Positive approximation: An accelerator for attribute reduction in rough set theory. title2:Positive approximation: An accelerator for attribute reduction in rough set theory citation:169 ncitation:102 pid1404485
+title1:Risk evaluation through decision-support architectures in threat assessment and countering terrorism. title2:Risk evaluation through decision-support architectures in threat assessment and countering terrorism citation:1 ncitation:1 pid1408243
+title1:The fuzzy C-means algorithm with fuzzy P-mode prototypes for clustering objects having mixed features. title2:The fuzzy C-means algorithm with fuzzy P-mode prototypes for clustering objects having mixed features citation:13 ncitation:8 pid1411302
+title1:Logic-based fuzzy networks: A study in system modeling with triangular norms and uninorms. title2:Logic-based fuzzy networks: A study in system modeling with triangular norms and uninorms citation:17 ncitation:12 pid1434421
+title1:Kernel-based fuzzy clustering and fuzzy clustering: A comparative experimental study. title2:Kernel-based fuzzy clustering and fuzzy clustering: A comparative experimental study citation:77 ncitation:56 pid1467236
+title1:Adaptive learning of ordinal-numerical mappings through fuzzy clustering for the objects of mixed features. citation:4 ncitation:2 pid1475519
+title1:The design methodology of radial basis function neural networks based on fuzzy K-nearest neighbors approach. title2:The design methodology of radial basis function neural networks based on fuzzy K-nearest neighbors approach citation:8 ncitation:6 pid1495923
+title1:Gaussian kernel based fuzzy rough sets: Model, uncertainty measures and applications. title2:Gaussian kernel based fuzzy rough sets: Model, uncertainty measures and applications citation:30 ncitation:17 pid1499177
+title1:lukasiewicz fuzzy logic networks and their ultra low power hardware implementation. citation:6 ncitation:4 pid1501290
+title1:A fuzzy ensemble of parallel polynomial neural networks with information granules formed by fuzzy clustering. title2:A fuzzy ensemble of parallel polynomial neural networks with information granules formed by fuzzy clustering citation:10 ncitation:9 pid1501506
+title1:A Resilient and Scalable Flocking Scheme in Autonomous Vehicular Networks. title2:A resilient and scalable flocking scheme in autonomous vehicular networks citation:4 ncitation:4 pid1508601
+title1:Shadowed c-means: Integrating fuzzy and rough clustering. title2:Shadowed< i> c</i>-means: Integrating fuzzy and rough clustering citation:33 ncitation:18 pid1515602
+title1:Fuzzy clustering with semantically distinct families of variables: Descriptive and predictive aspects. title2:Fuzzy clustering with semantically distinct families of variables: Descriptive and predictive aspects citation:8 ncitation:4 pid1515975
+title1:Granular Neural Networks and Their Development Through Context-Based Clustering and Adjustable Dimensionality of Receptive Fields. title2:Granular neural networks and their development through context-based clustering and adjustable dimensionality of receptive fields citation:19 ncitation:13 pid1516358
+title1:DNA approach to solve clustering problem based on a mutual order. title2:DNA approach to solve clustering problem based on a mutual order citation:31 ncitation:27 pid1517397
+title1:Data compactification and computing with words. title2:Data compactification and computing with words citation:6 ncitation:6 pid1518373
+title1:The design of a fuzzy cascade controller for ball and beam system: A study in optimization with the use of parallel genetic algorithms. title2:The design of a fuzzy cascade controller for ball and beam system: A study in optimization with the use of parallel genetic algorithms citation:24 ncitation:19 pid1529813
+title1:Forming consensus in the networks of knowledge. title2:Forming consensus in the networks of knowledge citation:2 ncitation:1 pid1547368
+title1:Human centricity in computing with fuzzy sets: an interpretability quest for higher order granular constructs. title2:Human centricity in computing with fuzzy sets: an interpretability quest for higher order granular constructs citation:8 ncitation:2 pid1552140
+title1:Foundations of Computational Intelligence, Volume 1: Learning and Approximation title2:Foundations of Computational Intelligence: Volume 1: Learning and Approximation citation:1 ncitation:-1 pid1557973
+title1:Bio-inspired Hybrid Intelligent Systems for Image Analysis and Pattern Recognition title2:Bio-inspired hybrid intelligent systems for image analysis and pattern recognition citation:5 ncitation:3 pid1572629
+title1:The roots of granular computing. title2:The roots of granular computing. citation:63 ncitation:51 pid1596001
+title1:Dynamic edge tracing: Boundary identification in medical images. title2:Dynamic edge tracing: Boundary identification in medical images citation:10 ncitation:8 pid1598305
+title1:The design of cognitive maps: A study in synergy of granular computing and evolutionary optimization. title2:The design of cognitive maps: A study in synergy of granular computing and evolutionary optimization citation:20 ncitation:13 pid1598506
+title1:A divide and conquer method for learning large Fuzzy Cognitive Maps. title2:A divide and conquer method for learning large fuzzy cognitive maps citation:20 ncitation:10 pid1601307
+title1:Polynomial-based radial basis function neural networks (P-RBF NNs) realized with the aid of particle swarm optimization. title2:Polynomial-based radial basis function neural networks (P-RBF NNs) realized with the aid of particle swarm optimization citation:22 ncitation:15 pid1607654
+title1:Aggregating multiple classification results using fuzzy integration and stochastic feature selection. title2:Aggregating multiple classification results using fuzzy integration and stochastic feature selection citation:9 ncitation:7 pid1614829
+title1:The development of fuzzy radial basis function neural networks based on the concept of information ambiguity. title2:The development of fuzzy radial basis function neural networks based on the concept of information ambiguity citation:2 ncitation:2 pid1621220
+title1:Representation and classification of high-dimensional biomedical spectral data. title2:Representation and classification of high-dimensional biomedical spectral data citation:3 ncitation:2 pid1643180
+title1:Optimized fuzzy PD cascade controller: A comparative analysis and design. title2:Optimized fuzzy PD cascade controller: A comparative analysis and design citation:7 ncitation:6 pid1653946
+title1:Developing Multi-Database Mining Applications. title2:Developing multi-database mining applications citation:7 ncitation:5 pid1656237
+title1:Proximity fuzzy clustering and its application to time series clustering and prediction. title2:Proximity fuzzy clustering and its application to time series clustering and prediction citation:1 ncitation:1 pid1676392
+title1:Hybrid optimization with improved tabu search. title2:Hybrid optimization with improved tabu search citation:25 ncitation:17 pid1711000
+title1:Conditional fuzzy clustering for blind channel equalization. title2:Conditional fuzzy clustering for blind channel equalization citation:2 ncitation:1 pid1716280
+title1:Real-time fuzzy regression analysis: A convex hull approach. title2:Real-time fuzzy regression analysis: A convex hull approach citation:8 ncitation:7 pid1722003
+title1:Realization of the conscience mechanism in CMOS implementation of winner-takes-all self-organizing neural networks. title2:Realization of the conscience mechanism in CMOS implementation of winner-takes-all self-organizing neural networks citation:8 ncitation:12 pid1722080
+title1:Perspectives on Cognitive Computing and Applications. title2:Perspectives on cognitive computing and applications: Summary of plenary Panel I of IEEE ICCI'10 citation:0 ncitation:-1 pid1722171
+title1:Granular Computing and Human-Centricity in Computational Intelligence. title2:Granular computing and human-centricity in computational intelligence citation:1 ncitation:1 pid1725377
+title1:Value-at-Risk-Based Two-Stage Fuzzy Facility Location Problems. title2:Value-at-Risk-based two-stage fuzzy facility location problems citation:32 ncitation:29 pid1733827
+title1:Fuzzy Systems Engineering - Toward Human-Centric Computing. title2:Fuzzy systems engineering: toward human-centric computing citation:320 ncitation:273 pid1738242
+title1:Knowledge-based clustering - from data to information granules. title2:Knowledge-based clustering: from data to information granules citation:278 ncitation:268 pid1742687
+title1:Particle Competition and Cooperation for Uncovering Network Overlap Community Structure. title2:Particle competition and cooperation for uncovering network overlap community structure citation:3 ncitation:0 pid2138380
+title1:Measuring relevance between discrete and continuous features based on neighborhood mutual information. title2:Measuring relevance between discrete and continuous features based on neighborhood mutual information citation:11 ncitation:5 pid2138813
+title1:A comparative experimental study of type-1/type-2 fuzzy cascade controller based on genetic algorithms and particle swarm optimization. title2:A comparative experimental study of type-1/type-2 fuzzy cascade controller based on genetic algorithms and particle swarm optimization citation:22 ncitation:12 pid2141292
+title1:Use of a fuzzy granulation-degranulation criterion for assessing cluster validity. citation:4 ncitation:2 pid2152751
+title1:Type-2 fuzzy neural networks with fuzzy clustering and differential evolution optimization. title2:Type-2 fuzzy neural networks with fuzzy clustering and differential evolution optimization citation:39 ncitation:24 pid2156953
+title1:A model of job satisfaction for collaborative development processes. title2:A model of job satisfaction for collaborative development processes citation:2 ncitation:1 pid2158044
+title1:Study of select items in different data sources by grouping. title2:Study of select items in different data sources by grouping citation:3 ncitation:1 pid2173940
+title1:Shadowed sets in the characterization of rough-fuzzy clustering. title2:Shadowed sets in the characterization of rough-fuzzy clustering citation:11 ncitation:4 pid2180791
+title1:An efficient accelerator for attribute reduction from incomplete data in rough set framework. title2:An efficient accelerator for attribute reduction from incomplete data in rough set framework citation:46 ncitation:20 pid2195170
+title1:Recent advances on machine learning and Cybernetics. title2:Recent advances on machine learning and Cybernetics citation:0 ncitation:-1 pid2196797
+title1:A Design of Genetically Oriented Fuzzy Relation Neural Networks (FrNNs) Based on the Fuzzy Polynomial Inference Scheme. title2:A design of genetically oriented fuzzy relation neural networks (FrNNs) based on the fuzzy polynomial inference scheme citation:6 ncitation:6 pid2198107
+title1:Building Confidence-Interval-Based Fuzzy Random Regression Models. title2:Building confidence-interval-based fuzzy random regression models citation:41 ncitation:36 pid2199514
+title1:Fuzzy Clustering With Viewpoints. title2:Fuzzy clustering with viewpoints citation:30 ncitation:23 pid2199825
+title1:Selecting Discrete and Continuous Features Based on Neighborhood Decision Error Minimization. title2:Selecting discrete and continuous features based on neighborhood decision error minimization citation:42 ncitation:29 pid2207638
+title1:A Gradient-Descent-Based Approach for Transparent Linguistic Interface Generation in Fuzzy Models. title2:A gradient-descent-based approach for transparent linguistic interface generation in fuzzy models citation:11 ncitation:4 pid2211675
+title1:Recourse-Based Facility-Location Problems in Hybrid Uncertain Environment. title2:Recourse-based facility-location problems in hybrid uncertain environment citation:9 ncitation:7 pid2223563
+title1:A Multifaceted Perspective at Data Analysis: A Study in Collaborative Intelligent Agents. title2:A multifaceted perspective at data analysis: a study in collaborative intelligent agents citation:25 ncitation:20 pid2224003
+title1:Fundamentals of a Fuzzy-Logic-Based Generalized Theory of Stability. title2:Fundamentals of a fuzzy-logic-based generalized theory of stability citation:16 ncitation:12 pid2262916
+title1:A Development of Fuzzy Encoding and Decoding Through Fuzzy Clustering. title2:A development of fuzzy encoding and decoding through fuzzy clustering citation:19 ncitation:14 pid2263913
+title1:Fuzzy Relation-Based Neural Networks and Their Hybrid Identification. title2:Fuzzy relation-based neural networks and their hybrid identification citation:5 ncitation:-1 pid2267139
+title1:Nonlinear channel blind equalization using hybrid genetic algorithm with simulated annealing. title2:Nonlinear channel blind equalization using hybrid genetic algorithm with simulated annealing citation:14 ncitation:13 pid2267617
+title1:Relation-based neurofuzzy networks with evolutionary data granulation. title2:Relation-based neurofuzzy networks with evolutionary data granulation citation:15 ncitation:13 pid2268272
+title1:Fuzzy Monte Carlo Simulation and Risk Assessment in Construction. title2:Fuzzy Monte Carlo simulation and risk assessment in construction citation:32 ncitation:21 pid2273784
+title1:Kernelized Fuzzy Rough Sets and Their Applications. title2:Kernelized fuzzy rough sets and their applications citation:10 ncitation:5 pid2280783
+title1:Analysis of alternative objective functions for attribute reduction in complete decision tables. title2:Analysis of alternative objective functions for attribute reduction in complete decision tables citation:5 ncitation:3 pid2281831
+title1:Heterogeneous fuzzy logic networks: fundamentals and development studies. title2:Heterogeneous fuzzy logic networks: fundamentals and development studies citation:30 ncitation:26 pid2285705
+title1:Analytic Hierarchy Process (AHP) in Group Decision Making and its Optimization With an Allocation of Information Granularity. title2:Analytic hierarchy process (AHP) in group decision making and its optimization with an allocation of information granularity citation:44 ncitation:22 pid2289282
+title1:Design of fuzzy radial basis function-based polynomial neural networks. title2:Design of fuzzy radial basis function-based polynomial neural networks citation:2 ncitation:0 pid2292541
+title1:Current-Mode Analog Adaptive Mechanism for Ultra-Low-Power Neural Networks. title2:Current-mode analog adaptive mechanism for ultra-low-power neural networks citation:7 ncitation:6 pid2293532
+title1:The development of granular metastructures and their use in a multifaceted representation of data and models. title2:The development of granular metastructures and their use in a multifaceted representation of data and models citation:2 ncitation:-1 pid2311663
+title1:Some theoretical results of learning theory based on random sets in set-valued probability space. title2:Some theoretical results of learning theory based on random sets in set-valued probability space citation:7 ncitation:6 pid2316205
+title1:Axiomatic Fuzzy Set Theory and Its Applications title2:Axiomatic fuzzy set theory and its applications citation:16 ncitation:12 pid2321230
+title1:The Puzzle of Granular Computing title2:The puzzle of granular computing citation:21 ncitation:18 pid2324753
+title1:Soft Computing for Recognition Based on Biometrics title2:Soft Computing for Recognition Based on Biometrics citation:2 ncitation:1 pid2326341
+title1:Soft Computing for Intelligent Control and Mobile Robotics title2:Soft Computing for Intelligent Control and Mobile Robotics citation:3 ncitation:2 pid2326852
+title1:Feature and instance selection via cooperative PSO. title2:Feature and instance selection via cooperative PSO citation:2 ncitation:1 pid2327117
+title1:A Convex Hull-Based Fuzzy Regression to Information Granules Problem - An Efficient Solution to Real-Time Data Analysis. citation:0 ncitation:0 pid2356822
+title1:Towards Designing Human Centric Systems: A New View at System Modeling with Granular Membership Grades. title2:Towards designing human centric systems: a new view at system modeling with granular membership grades citation:0 ncitation:0 pid2356853
+title1:From Fuzzy Models to Granular Fuzzy Models. title2:From fuzzy models to granular fuzzy models citation:3 ncitation:2 pid2357897
+title1:Granular Data Regression with Neural Networks. title2:Granular data regression with neural networks citation:1 ncitation:0 pid2360073
+title1:Variance analysis and biomedical pattern classification. title2:Variance analysis and biomedical pattern classification citation:3 ncitation:3 pid2366577
+title1:Data-driven Nonlinear Hebbian Learning method for Fuzzy Cognitive Maps. title2:Data-driven nonlinear Hebbian learning method for fuzzy cognitive maps citation:23 ncitation:18 pid2404385
+title1:A design of genetically oriented linguistic model with the aid of fuzzy granulation. title2:A design of genetically oriented linguistic model with the aid of fuzzy granulation citation:4 ncitation:4 pid2404557
+title1:New perspectives and applications of real-time fuzzy regression. title2:New perspectives and applications of real-time fuzzy regression citation:2 ncitation:2 pid2404926
+title1:Design of interval type-2 fuzzy neural networks and their optimization using real-coded genetic algorithms. title2:Design of interval type-2 fuzzy neural networks and their optimization using real-coded genetic algorithms citation:6 ncitation:5 pid2411245
+title1:An analysis of potentially imprecise class labels using a fuzzy similarity measure. title2:An analysis of potentially imprecise class labels using a fuzzy similarity measure citation:2 ncitation:1 pid2411900
+title1:Granular computing and human-centricity in computational intelligence. title2:Granular computing and human-centricity in computational intelligence citation:1 ncitation:1 pid2419618
+title1:Cognitive Informatics in Year 10 and Beyond: summary of the plenary panel. title2:Cognitive Informatics in Year 10 and Beyond: summary of the plenary panel citation:0 ncitation:-1 pid2419813
+title1:Perspectives on cognitive computing and applications: Summary of plenary Panel I of IEEE ICCI'10. title2:Perspectives on cognitive computing and applications: Summary of plenary Panel I of IEEE ICCI'10 citation:0 ncitation:-1 pid2423794
+title1:Parallel Programmable Asynchronous Neighborhood Mechanism for Kohonen SOM Implemented in CMOS Technology. title2:Parallel Programmable Asynchronous Neighborhood Mechanism for Kohonen SOM Implemented in CMOS Technology citation:2 ncitation:1 pid2430454
+title1:Mining axiomatic fuzzy set association rules for classification problems. title2:Mining axiomatic fuzzy set association rules for classification problems citation:10 ncitation:4 pid2430946
+title1:A Two-Stage Online Prediction Method for a Blast Furnace Gas System and Its Application. title2:A two-stage online prediction method for a blast furnace gas system and its application citation:12 ncitation:8 pid2431566
+title1:From local neural networks to granular neural networks: A study in information granulation. title2:From local neural networks to granular neural networks: A study in information granulation citation:0 ncitation:0 pid2431972
+title1:Design of K-means clustering-based polynomial radial basis function neural networks (pRBF NNs) realized with the aid of particle swarm optimization and differential evolution. citation:8 ncitation:4 pid2432916
+title1:Bounds on the rate of convergence of learning processes based on random sets and set-valued probability. title2:Bounds on the rate of convergence of learning processes based on random sets and set-valued probability citation:1 ncitation:1 pid2452960
+title1:Lukasiewicz fuzzy logic networks and their ultra low power hardware implementation. citation:6 ncitation:4 pid2461734
+title1:Programmable triangular neighborhood functions of Kohonen Self-Organizing Maps realized in CMOS technology. title2:Programmable triangular neighborhood functions of Kohonen Self-Organizing Maps realized in CMOS technology. citation:6 ncitation:5 pid2788234
+title1:Predicting Development Effort from User Stories. title2:Predicting development effort from user stories citation:4 ncitation:4 pid2799666
+title1:A characterization of electrocardiogram signals through optimal allocation of information granularity. title2:A characterization of electrocardiogram signals through optimal allocation of information granularity citation:3 ncitation:1 pid2799667
+title1:Human Centricity and Perception-Based Perspective and Their Centrality to the Agenda of Granular Computing. title2:Human Centricity and Perception-Based Perspective and Their Centrality to the Agenda of Granular Computing citation:0 ncitation:0 pid2799977
+title1:Cognitive Informatics and Cognitive Computing in Year 10 and Beyond. title2:Cognitive Informatics and Cognitive Computing in Year 10 and Beyond citation:4 ncitation:3 pid2801500
+title1:Bio-inspired computing for hybrid information technology. title2:Bio-inspired computing for hybrid information technology citation:1 ncitation:1 pid2811675
+title1:Face recognition using decimated redundant discrete wavelet transforms. title2:Face recognition using decimated redundant discrete wavelet transforms citation:6 ncitation:0 pid2815283
+title1:Hyperbox classifiers for arrhythmia classification. title2:Hyperbox classifiers for arrhythmia classification citation:5 ncitation:4 pid2815760
+title1:From Fuzzy Rule-Based Systems to Granular Fuzzy Rule-Based Systems: A Study in Granular Computing. title2:From Fuzzy Rule-Based Systems to Granular Fuzzy Rule-Based Systems: A Study in Granular Computing citation:0 ncitation:-1 pid2829583
+title1:Classification of electrocardiographic signals: a fuzzy pattern matching approach. title2:Classification of electrocardiographic signals: a fuzzy pattern matching approach citation:14 ncitation:14 pid2847308
+title1:Design of optimized cascade fuzzy controller based on differential evolution: Simulation studies and practical insights. title2:Design of optimized cascade fuzzy controller based on differential evolution: simulation studies and practical insights citation:4 ncitation:2 pid2848743
+title1:Design of interval type-2 fuzzy models through optimal granularity allocation. title2:Design of interval type-2 fuzzy models through optimal granularity allocation citation:15 ncitation:7 pid2859920
+title1:Fuzzy linear regression based on Polynomial Neural Networks. title2:Fuzzy linear regression based on Polynomial Neural Networks citation:1 ncitation:0 pid2859927
+title1:Modeling of the charging characteristic of linear-type superconducting power supply using granular-based radial basis function neural networks. title2:Modeling of the charging characteristic of linear-type superconducting power supply using granular-based radial basis function neural networks citation:4 ncitation:-1 pid2859977
+title1:An improved association rules mining method. title2:An improved association rules mining method citation:5 ncitation:2 pid2860019
+title1:Hybrid Neural Prediction and Optimized Adjustment for Coke Oven Gas System in Steel Industry. title2:Hybrid neural prediction and optimized adjustment for coke oven gas system in steel industry citation:3 ncitation:-1 pid2860047
+title1:Fuzzy logic-based generalized decision theory with imperfect information. title2:Fuzzy logic-based generalized decision theory with imperfect information citation:15 ncitation:3 pid2860052
+title1:Feature selection using structural similarity. title2:Feature selection using structural similarity citation:4 ncitation:2 pid2860731
+title1:A programmable triangular neighborhood function for a Kohonen self-organizing map implemented on chip. title2:A programmable triangular neighborhood function for a Kohonen self-organizing map implemented on chip citation:4 ncitation:1 pid2861511
+title1:Decision Theory with Imprecise Probabilities. title2:Decision theory with imprecise probabilities citation:5 ncitation:0 pid2865954
+title1:Classifying High-Dimensional Patterns Using a Fuzzy Logic Discriminant Network. title2:Classifying high-dimensional patterns using a fuzzy logic discriminant network citation:1 ncitation:0 pid2866292
+title1:Classifying High-Dimensional Patterns Using a Fuzzy Logic Discriminant Network. title2:Classifying high-dimensional patterns using a fuzzy logic discriminant network citation:1 ncitation:0 pid2867374
+title1:Learning of Fuzzy Cognitive Maps Using Density Estimate. title2:Learning of fuzzy cognitive maps using density estimate citation:4 ncitation:1 pid2877054
+title1:Distributed fuzzy system modeling. title2:Distributed fuzzy system modeling citation:61 ncitation:55 pid2881047
+title1:Design of fuzzy systems with fuzzy flip-flops. title2:Design of fuzzy systems with fuzzy flip-flops citation:7 ncitation:6 pid2887510
+title1:An Optimization of Allocation of Information Granularity in the Interpretation of Data Structures: Toward Granular Fuzzy Clustering. title2:An optimization of allocation of information granularity in the interpretation of data structures: toward granular fuzzy clustering citation:6 ncitation:1 pid2887844
+title1:A new PSO-optimized geometry of spatial and spatio-temporal scan statistics for disease outbreak detection. title2:A new PSO-optimized geometry of spatial and spatio-temporal scan statistics for disease outbreak detection citation:2 ncitation:2 pid2896085
+title1:Online Parameter Optimization-Based Prediction for Converter Gas System by Parallel Strategies. title2:Online parameter optimization-based prediction for converter gas system by parallel strategies citation:4 ncitation:1 pid2896736
+title1:Polynomial neural networks architecture: analysis and design. title2:Polynomial neural networks architecture: analysis and design citation:102 ncitation:100 pid2896858
+title1:Clustering with proximity knowledge and relational knowledge. title2:Clustering with proximity knowledge and relational knowledge citation:3 ncitation:1 pid2896876
+title1:The Principle of Justifiable Granularity and an Optimization of Information Granularity Allocation as Fundamentals of Granular Computing. title2:The Principle of Justifiable Granularity and an Optimization of Information Granularity Allocation as Fundamentals of Granular Computing. citation:10 ncitation:3 pid2918928
+title1:Particle Competition and Cooperation in Networks for Semi-Supervised Learning. title2:Particle competition and cooperation in networks for semi-supervised learning citation:8 ncitation:4 pid2921994
+title1:Knowledge transfer in system modeling and its realization through an optimal allocation of information granularity. title2:Knowledge transfer in system modeling and its realization through an optimal allocation of information granularity citation:4 ncitation:0 pid2923050
+title1:A genetic reduction of feature space in the design of fuzzy models. title2:A genetic reduction of feature space in the design of fuzzy models citation:3 ncitation:1 pid2926335
+title1:Evolutionary feature selection via structure retention. title2:Evolutionary feature selection via structure retention citation:2 ncitation:1 pid2927123
+title1:Neural-network front ends in unsupervised learning. title2:Neural-network front ends in unsupervised learning citation:20 ncitation:16 pid2939552
+title1:Collaborative Fuzzy Clustering Algorithms: Some Refinements and Design Guidelines. title2:Collaborative fuzzy clustering algorithms: Some refinements and design guidelines citation:12 ncitation:2 pid2947211
+title1:A genetic segmentation of ECG signals. title2:A genetic segmentation of ECG signals citation:24 ncitation:18 pid2955259
+title1:A Granular Description of ECG Signals. title2:A granular description of ECG signals citation:21 ncitation:17 pid2964037
+title1:Fuzzy wavelet packet based feature extraction method and its application to biomedical signal classification. title2:Fuzzy wavelet packet based feature extraction method and its application to biomedical signal classification citation:59 ncitation:49 pid2964039
+title1:An Evolutionary Multiobjective Sleep-Scheduling Scheme for Differentiated Coverage in Wireless Sensor Networks. title2:An Evolutionary Multiobjective Sleep-Scheduling Scheme for Differentiated Coverage in Wireless Sensor Networks citation:5 ncitation:-1 pid2968489
+title1:Granular representation and granular computing with fuzzy sets. title2:Granular representation and granular computing with fuzzy sets citation:3 ncitation:-1 pid2981068
+title1:Granular fuzzy models: a study in knowledge management in fuzzy modeling. title2:Granular fuzzy models: a study in knowledge management in fuzzy modeling citation:3 ncitation:0 pid2982152
+title1:Energy-efficient differentiated coverage of dynamic objects using an improved evolutionary multi-objective optimization algorithm with fuzzy-dominance. title2:Energy-efficient differentiated coverage of dynamic objects using an improved evolutionary multi-objective optimization algorithm with fuzzy-dominance citation:3 ncitation:1 pid2984478
+title1:A new selective neural network ensemble with negative correlation. title2:A new selective neural network ensemble with negative correlation citation:6 ncitation:1 pid2984603
+title1:Effective Noise Estimation-Based Online Prediction for Byproduct Gas System in Steel Industry. title2:Effective noise estimation-based online prediction for byproduct gas system in steel industry citation:4 ncitation:0 pid2991642
+title1:Associations of fuzzy sets. title2:Associations of fuzzy sets citation:6 ncitation:7 pid2995744
+title1:A genetic design of linguistic terms for fuzzy rule based classifiers. title2:A genetic design of linguistic terms for fuzzy rule based classifiers citation:5 ncitation:2 pid3001395
+title1:The design of polynomial function-based neural network predictors for detection of software defects. title2:The design of polynomial function-based neural network predictors for detection of software defects citation:4 ncitation:None pid3068257
+title1:Granular Neural Networks: Concepts and Development Schemes. title2:Granular Neural Networks: Concepts and Development Schemes citation:1 ncitation:None pid3074173
+title1:Computational Intelligence Techniques for Building Transparent Construction Performance Models. title2:Computational intelligence techniques for building transparent construction performance models citation:5 ncitation:None pid3074408

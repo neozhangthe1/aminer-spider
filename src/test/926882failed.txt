@@ -1,0 +1,405 @@
+title:07281 Open Problems -- Structure Theory and FPT Algorithmcs for Graphs, Digraphs and Hypergraphs. citation:-1
+title:Moving-Baseline Localization. citation:-1
+title:07281 Abstracts Collection -- Structure Theory and FPT Algorithmics for Graphs, Digraphs and Hypergraphs. citation:-1
+title:Origami, Linkages, and Polyhedra: Folding with Algorithms. citation:-1
+title:Optimizing a 2D Function Satisfying Unimodality Properties. citation:-1
+title:Frequency Estimation of Internet Packet Streams with Limited Space. citation:-1
+title:Optimal Adaptive Algorithms for Finding the nearest and Farthest Point on a Parametric Black-box Curve. citation:-1
+title:Online Searching with Turn Cost citation:-1
+title:Low-Dimensional Embedding with Extra Information. citation:-1
+title:Plane embeddings of planar graph metrics. citation:-1
+title:Efficient Algorithms for Petersen's Matching Theorem. citation:-1
+title:Refolding planar polygons. citation:-1
+title:A Universal Crease Pattern for Folding Orthogonal Shapes citation:-1
+title:Communication-Aware Processor Allocation for Supercomputers citation:-1
+title:Hinged Dissection of Polygons is Hard. citation:-1
+title:Worst-Case Optimal Tree Layout in a Memory Hierarchy citation:-1
+title:The Bidimensional Theory of Bounded-Genus Graphs. citation:-1
+title:Approximation algorithms for classes of graphs excluding single-crossing graphs as minors. citation:-1
+title:An Optimal Decomposition Algorithm for Tree Edit Distance. citation:-1
+title:Resizable Arrays in Optimal Time and Space. citation:-1
+title:Optimal adaptive algorithms for finding the nearest and farthest point on a parametric black-box curve. citation:-1
+title:Cache-Oblivious B-Trees. citation:-1
+title:Optimally Adaptive Integration of Univariate Lipschitz Functions. citation:-1
+title:The Price of Anarchy in Cooperative Network Creation Games. citation:-1
+title:Tetris is hard, even to approximate. citation:-1
+title:When Can You Fold a Map? citation:-1
+title:Communication-Aware Processor Allocation for Supercomputers: Finding Point Sets of Small Average Distance. citation:-1
+title:The cccg 2001 logo. citation:-1
+title:Continuous Blooming of Convex Polyhedra citation:-1
+title:Dynamic Optimality - Almost. citation:-1
+title:Polygons Cuttable by a Circular Saw. citation:-1
+title:Low-dimensional embedding with extra information. citation:-1
+title:Hinged dissections of polyominoes and polyforms. citation:-1
+title:Output-Sensitive Algorithms for Computing Nearest-Neighbour Decision Boundaries. citation:-1
+title:Bidimensional Parameters and Local Treewidth. citation:-1
+title:Approximability of Partitioning Graphs with Supply and Demand. citation:-1
+title:De Dictionariis Dynamicis Pauco Spatio Utentibus ( On Dynamic Dictionaries Using Little Space). citation:-1
+title:Algorithmic Graph Minor Theory: Improved Grid Minor Bounds and Wagner's Contraction. citation:-1
+title:Quickly deciding minor-closed parameters in general graphs. citation:-1
+title:Online Routing in Convex Subdivisions. citation:-1
+title:Hinged dissections exist. citation:-1
+title:Linear Reconfiguration of Cube-Style Modular Robots. citation:-1
+title:Subquadratic Algorithms for 3SUM. citation:-1
+title:Folding a Better Checkerboard. citation:-1
+title:Reaching folded states of a rectangular piece of paper. citation:-1
+title:Generalized D-Forms Have No Spurious Creases citation:-1
+title:Session O1: Open Problems and Planning. citation:-1
+title:Polynomial-Time Approximation Schemes for Subset-Connectivity Problems in Bounded-Genus Graphs citation:-1
+title:Open problems from cccg 2000. citation:-1
+title:On Cartesian Trees and Range Minimum Queries. citation:-1
+title:Open problems from cccg 2001. citation:-1
+title:Online Routing in Convex Subdivisions. citation:-1
+title:Flat-State Connectivity of Linkages under Dihedral Motions. citation:-1
+title:Plane Embeddings of Planar Graph Metrics. citation:-1
+title:A Distributed boundary detection algorithm for multi-robot systems. citation:-1
+title:Tight bounds for the partial-sums problem. citation:-1
+title:A Novel Routing Algorithm for k-Ary n-Cube Interconnection Networks. citation:-1
+title:Planar Drawings of Origami Polyhedra. citation:-1
+title:Fast Algorithms for Hard Graph Problems: Bidimensionality, Minors, and Local Treewidth. citation:-1
+title:Combination Can Be Hard: Approximability of the Unique Coverage Problem. citation:-1
+title:Continuous foldability of polygonal paper. citation:-1
+title:PushPush and Push-1 are NP-hard in 2D. citation:-1
+title:Hinged Dissection of Polypolyhedra. citation:-1
+title:Geodesic Ham-Sandwich Cuts. citation:-1
+title:A Pseudopolynomial Algorithm for Alexandrov's Theorem citation:-1
+title:On the Complexity of Halfspace Volume Queries. citation:-1
+title:The Distance Geometry of Deep Rhythms and Scales. citation:-1
+title:Pushing blocks is np-complete for noncrossing solution paths. citation:-1
+title:Push-2-f is pspace-complete. citation:-1
+title:Proximate point searching. citation:-1
+title:Tetris is Hard, Even to Approximate. citation:-1
+title:The Stackelberg Minimum Spanning Tree Game citation:-1
+title:Short interlocked linkages. citation:-1
+title:The Distance Geometry of Music citation:-1
+title:The Price of Anarchy in Cooperative Network Creation Games citation:-1
+title:Approximation Algorithms via Structural Results for Apex-Minor-Free Graphs. citation:-1
+title:Playing with Triangulations. citation:-1
+title:Node-Weighted Steiner Tree and Group Steiner Tree in Planar Graphs. citation:-1
+title:Minimum feature size preserving decompositions citation:-1
+title:Ordinal embeddings of minimum relaxation: General properties, trees, and ultrametrics. citation:-1
+title:Bidimensionality. citation:-1
+title:Necklaces, Convolutions, and + . citation:-1
+title:Reconfiguration of 3D Crystalline Robots Using O(log n) Parallel Moves citation:-1
+title:Subquadratic Algorithms for 3SUM. citation:-1
+title:Tetris is Hard, Even to Approximate citation:-1
+title:Algorithmic Graph Minors and Bidimensionality. citation:-1
+title:The Bidimensional Theory of Bounded-Genus Graphs. citation:-1
+title:Vertex-Unfoldings of Simplicial Manifolds citation:-1
+title:Vertex-Unfoldings of Simplicial Polyhedra citation:-1
+title:Dynamic Ham-Sandwich Cuts of Convex Polygons in the Plane. citation:-1
+title:Enumerating Foldings and Unfoldings between Polygons and Polytopes citation:-1
+title:Minimal Locked Trees. citation:-1
+title:Ordinal Embedding: Approximation Algorithms and Dimensionality Reduction. citation:-1
+title:Ununfoldable polyhedra. citation:-1
+title:A Locked Orthogonal Tree citation:-1
+title:When Can You Fold a Map? citation:-1
+title:K-ary Clustering with Optimal Leaf Ordering for Gene Expression Data. citation:-1
+title:Solitaire Clobber. citation:-1
+title:Playing Games with Algorithms: Algorithmic Combinatorial Game Theory. citation:-1
+title:Staged Self-assembly: Nanomanufacture of Arbitrary Shapes with (1) Glues. citation:-1
+title:Computational Balloon Twisting: The Theory of Balloon Polyhedra. citation:-1
+title:Flipturning polygons citation:-1
+title:Reconfiguration of List Edge-Colorings in a Graph. citation:-1
+title:PushPush and Push-1 are NP-hard in 2D citation:-1
+title:Grid Vertex-Unfolding Orthostacks. citation:-1
+title:Examples, Counterexamples, and Enumeration Results for Foldings and Unfoldings between Polygons and Polytopes citation:-1
+title:Finding Hidden Independent Sets in Interval Graphs. citation:-1
+title:Folding and Cutting Paper. citation:-1
+title:PushPush is NP-hard in 2D citation:-1
+title:Folding and Unfolding Linkages, Paper, and Polyhedra. citation:-1
+title:Subexponential parameterized algorithms on bounded-genus graphs and -minor-free graphs. citation:-1
+title:A Pseudopolynomial Algorithm for Alexandrov's Theorem. citation:-1
+title:Approximation Schemes for Planar Graph Problems. citation:-1
+title:Staged Self-Assembly:Nanomanufacture of Arbitrary Shapes with O(1) Glues citation:-1
+title:Finding hidden independent sets in interval graphs. citation:-1
+title:The Nondeterministic Constraint Logic Model of Computation: Reductions and Applications. citation:-1
+title:Palindrome recognition using a multidimensional tape. citation:-1
+title:Algorithms Meet Art, Puzzles, and Magic. citation:-1
+title:Retroactive data structures. citation:-1
+title:Every Polygon Can Be Untangled. citation:-1
+title:Reconfiguring Convex Polygons. citation:-1
+title:Robot Localization without Depth Perception. citation:-1
+title:Additive approximation algorithms for list-coloring minor-closed class of graphs. citation:-1
+title:Lower bounds for dynamic connectivity. citation:-1
+title:Fast Allocation and Deallocation with an Improved Buddy System. citation:-1
+title:Curves in the Sand: Algorithmic Drawing. citation:-1
+title:Optimal covering tours with turn costs. citation:-1
+title:An energy-driven approach to linkage unfolding. citation:-1
+title:On Rolling Cube Puzzles. citation:-1
+title:Open Problems from CCCG 2006. citation:-1
+title:Computational Geometry Column 37. citation:-1
+title:Identifying frequent items in sliding windows over on-line packet streams. citation:-1
+title:A Pseudopolynomial Time (log )-Approximation Algorithm for Art Gallery Problems. citation:-1
+title:Bidimensionality, Map Graphs, and Grid Minors citation:-1
+title:Efficient Tree Layout in a Multilevel Memory Hierarchy citation:-1
+title:Edge-unfolding nested polyhedral bands. citation:-1
+title:Separating Point Sets in Polygonal Environments. citation:-1
+title:Geodesic ham-sandwich cuts. citation:-1
+title:Tighter bounds on the genus of nonorthogonal polyhedra built from rectangles. citation:-1
+title:04301 Abstracts Collection - Cache-Oblivious and Cache-Aware Algorithms. citation:-1
+title:On flat-state connectivity of chains with fixed acute angles. citation:-1
+title:C to Java: Converting Pointers into References. citation:-1
+title:Approximability of partitioning graphs with supply and demand. citation:-1
+title:The Stackelberg Minimum Spanning Tree Game. citation:-1
+title:Fixed-parameter algorithms for (, )-center in planar graphs and map graphs. citation:-1
+title:Optimally Adaptive Integration of Univariate Lipschitz Functions. citation:-1
+title:Logarithmic Lower Bounds in the Cell-Probe Model. citation:-1
+title:Fixed-Parameter Algorithms for the (k, r)-Center in Planar Graphs and Map Graphs. citation:-1
+title:Representing Trees of Higer Degree. citation:-1
+title:Staged self-assembly: nanomanufacture of arbitrary shapes with (1) glues. citation:-1
+title:Geometric Restrictions on Producible Polygonal Protein Chains. citation:-1
+title:When can you fold a map? citation:-1
+title:Refolding Planar Polygons. citation:-1
+title:Computing signed permutations of polygons. citation:-1
+title:Exponential Speedup of Fixed-Parameter Algorithms for Classes of Graphs Excluding Single-Crossing Graphs as Minors. citation:-1
+title:Scanning and Traversing: Maintaining Data for Traversals in a Memory Hierarchy. citation:-1
+title:Diameter and Treewidth in Minor-Closed Graph Families, Revisited. citation:-1
+title:An Optimal Cache-Oblivious Priority Queue and Its Application to Graph Algorithms. citation:-1
+title:Two Simplified Algorithms for Maintaining Order in a List. citation:-1
+title:Unfolding polyhedral bands. citation:-1
+title:Straighting Polygonal Arcs and Convexifying Polygonal Cycles. citation:-1
+title:Efficient Tree Layout in a Multilevel Memory Hierarchy. citation:-1
+title:Logarithmic Lower Bounds in the Cell-Probe Model citation:-1
+title:Communication-Aware Processor Allocation for Supercomputers. citation:-1
+title:Minimizing movement. citation:-1
+title:Optimal Covering Tours with Turn Costs citation:-1
+title:Algorithms Meet Art, Puzzles, and Magic. citation:-1
+title:Minimizing Movement: Fixed-Parameter Tractability. citation:-1
+title:Reconfiguring convex polygons. citation:-1
+title:The geometry of binary search trees. citation:-1
+title:Data Structures for Halfplane Proximity Queries and Incremental Voronoi Diagrams. citation:-1
+title:Long proteins with unique optimal foldings in the H-P model. citation:-1
+title:Reconfiguration of Cube-Style Modular Robots Using O(logn) Parallel Moves. citation:-1
+title:Unfolding some classes of orthogonal polyhedra. citation:-1
+title:Realizing partitions respecting full and partial order information. citation:-1
+title:Ununfoldable polyhedra with convex faces. citation:-1
+title:On reconfiguring tree linkages: Trees can lock. citation:-1
+title:A Simplified, Dynamic Unified Structure. citation:-1
+title:On the Complexity of Reconfiguration Problems. citation:-1
+title:Hiding disks in folded polygons. citation:-1
+title:Adaptive set intersections, unions, and differences. citation:-1
+title:Mobile-assisted localization in wireless sensor networks. citation:-1
+title:On universally easy classes for NP-complete problems. citation:-1
+title:Minimizing movement. citation:-1
+title:Interpolation search for non-independent data. citation:-1
+title:Computational Geometry Column 37 citation:-1
+title:A linear lower bound on index size for text retrieval. citation:-1
+title:Ununfoldable Polyhedra with Convex Faces citation:-1
+title:Combination can be hard: approximability of the unique coverage problem. citation:-1
+title:Retroactive data structures. citation:-1
+title:Confluently Persistent Tries for Efficient Version Control. citation:-1
+title:Enumerating Foldings and Unfoldings Between Polygons and Polytopes. citation:-1
+title:Bidimensionality: new connections between FPT algorithms and PTASs. citation:-1
+title:Graphs excluding a fixed minor have grids as large as treewidth, with combinatorial and algorithmic applications through bidimensionality. citation:-1
+title:Puzzles, Art, and Magic with Algorithms. citation:-1
+title:Subexponential parameterized algorithms on graphs of bounded-genus and -minor-free graphs. citation:-1
+title:Algorithmic Graph Minor Theory: Improved Grid Minor Bounds and Wagner's Contraction. citation:-1
+title:Equivalence of local treewidth and linear local treewidth and its algorithmic applications. citation:-1
+title:Lower bounds for asymmetric communication channels and distributed source coding. citation:-1
+title:Folding and One Straight Cut Suffice. citation:-1
+title:On Reconfiguring Tree Linkages: Trees can Lock citation:-1
+title:Locked and Unlocked Polygonal Chains in 3D citation:-1
+title:Geometric Restrictions on Producible Polygonal Protein Chains. citation:-1
+title:A Generalized Carpenter's Rule Theorem for Self-Touching Linkages citation:-1
+title:Exponential Speedup of Fixed-Parameter Algorithms on K-Minor-Free or K-Minor-Free Graphs. citation:-1
+title:Ordinal embeddings of minimum relaxation: general properties, trees, and ultrametrics. citation:-1
+title:Data Structures for Halfplane Proximity Queries and Incremental Voronoi Diagrams citation:-1
+title:Polygons Flip Finitely: Flaws and a Fix. citation:-1
+title:Open Problems: Open Problems from CCCG 2005. citation:-1
+title:Generalized D-Forms Have No Spurious Creases. citation:-1
+title:Paul Erdos Memorial Lecture: Linkage Folding: From Erdos to Proteins. citation:-1
+title:Cache-oblivious priority queue and graph algorithm applications. citation:-1
+title:Folding Flat Silhouettes and Wrapping Polyhedral Packages: New Results in Computational Origami. citation:-1
+title:Vertex-unfoldings of simplicial manifolds. citation:-1
+title:Separating point sets in polygonal environments. citation:-1
+title:Interlocked open linkages with few joints. citation:-1
+title:Dynamic Optimality -- Almost. citation:-1
+title:Algorithmic Graph Minor Theory: Decomposition, Approximation, and Coloring. citation:-1
+title:Hinged Dissections Exist citation:-1
+title:De Dictionariis Dynamicis Pauco Spatio Utentibus citation:-1
+title:Optimal Dynamic Video-on-Demand Using Adaptive Broadcasting. citation:-1
+title:Open Problems from ALENEX 2003. citation:-1
+title:Experiments on Adaptive Set Intersections for Text Retrieval Systems. citation:-1
+title:Solitaire Clobber citation:-1
+title:Locked and unlocked chains of planar shapes. citation:-1
+title:Interlocked open and closed linkages with few joints. citation:-1
+title:Correlation Clustering with Partial Information. citation:-1
+title:Coin-Moving Puzzles citation:-1
+title:Protocols for Non-Deterministic Communication over Synchronous Channels. citation:-1
+title:Pushing blocks is hard. citation:-1
+title:Polygons cuttable by a circular saw. citation:-1
+title:Folding flat silhouettes and wrapping polyhedral packages: New results in computational origami. citation:-1
+title:Long Proteins with Unique Optimal Foldings in the H-P Model citation:-1
+title:Proximate point searching. citation:-1
+title:The Stackelberg Minimum Spanning Tree Game on Planar and Bounded-Treewidth Graphs. citation:-1
+title:Planar Embeddings of Graphs with Specified Edge Lengths. citation:-1
+title:Anchor-free distributed localization in sensor networks. citation:-1
+title:Hinged dissection of polyominoes and polyforms. citation:-1
+title:Open Problems from CCCG 2002 citation:-1
+title:Optimal Covering Tours with Turn Costs. citation:-1
+title:Metamorphosis of the Cube. citation:-1
+title:Optimal Adaptive Algorithms for Finding the Nearest and Farthest Point on a Parametric Black-Box Curve citation:-1
+title:A linear lower bound on index size for text retrieval. citation:-1
+title:Tight bounds on maximal and maximum matchings. citation:-1
+title:Balanced -colorings. citation:-1
+title:Games on triangulations. citation:-1
+title:An O(n^3)-Time Algorithm for Tree Edit Distance citation:-1
+title:Finding Frequent Items in Sliding Windows with Multinomially-Distributed Item Frequencies. citation:-1
+title:Locked and Unlocked Chains of Planar Shapes citation:-1
+title:Constraint Logic: A Uniform Framework for Modeling Computation as Games. citation:-1
+title:Blowing Up Polygonal Linkages. citation:-1
+title:Voronoi game on graphs and its complexity. citation:-1
+title:Reconfigurable asynchronous logic automata: (RALA). citation:-1
+title:Covering Points by Disjoint Boxes with Outliers citation:-1
+title:A note on reconfiguring tree linkages: trees can lock. citation:-1
+title:Disjoint Segments Have Convex Partitions with 2-Edge Connected Dual Graphs. citation:-1
+title:Hinged Dissection of Polyominoes and Polyforms citation:-1
+title:Vertex Pops and Popturns. citation:-1
+title:Deploying sensor networks with guaranteed capacity and fault tolerance. citation:-1
+title:Fun-Sort--or the chaos of unordered binary search. citation:-1
+title:Locked and Unlocked Polygonal Chains in 3D citation:-1
+title:Scheduling to minimize gaps and power consumption. citation:-1
+title:(Non)existence of Pleated Folds: How Paper Folds Between Creases citation:-1
+title:Morpion Solitaire. citation:-1
+title:A unified access bound on comparison-based dynamic dictionaries. citation:-1
+title:The price of anarchy in network creation games. citation:-1
+title:The Stackelberg Minimum Spanning Tree Game on Planar and Bounded-Treewidth Graphs citation:-1
+title:The Bidimensionality Theory and Its Algorithmic Applications. citation:-1
+title:Approximation algorithms via contraction decomposition. citation:-1
+title:Balanced -Colorings. citation:-1
+title:PSPACE-Completeness of Sliding-Block Puzzles and Other Problems through the Nondeterministic Constraint Logic Model of Computation citation:-1
+title:K-ary Clustering with Optimal Leaf Ordering for Gene Expression Data. citation:-1
+title:Convexifying Monotone Polygons. citation:-1
+title:Cache-Oblivious B-Trees. citation:-1
+title:Tight Bounds on Maximal and Maximum Matchings. citation:-1
+title:Phutball Endgames are Hard citation:-1
+title:The Complexity of Clickomania citation:-1
+title:Playing Games with Algorithms: Algorithmic Combinatorial Game Theory citation:-1
+title:Puzzles, Art, and Magic with Algorithms. citation:-1
+title:Cauchy's Arm Lemma on a Growing Sphere citation:-1
+title:Polynomial-Time Approximation Schemes for Subset-Connectivity Problems in Bounded-Genus Graphs. citation:-1
+title:Solitaire Clobber. citation:-1
+title:Correlation clustering in general weighted graphs. citation:-1
+title:Online searching with turn cost. citation:-1
+title:On universally easy classes for NP-complete problems. citation:-1
+title:Appendix B: Open problems at the 2002 Dagstuhl Seminar on Algorithmic Combinatorial Game Theory. citation:-1
+title:EpiChord: Parallelizing the Chord lookup algorithm with reactive routing state management. citation:-1
+title:Generalized Communicators in the Message Passing Interface. citation:-1
+title:Output-Sensitive Algorithms for Computing Nearest-Neighbour Decision Boundaries. citation:-1
+title:PSPACE-completeness of sliding-block puzzles and other problems through the nondeterministic constraint logic model of computation. citation:-1
+title:-Approximation for Treewidth of Graphs Excluding a Graph with One Crossing as a Minor. citation:-1
+title:Representing Trees of Higher Degree. citation:-1
+title:Linearity of grid minors in treewidth with applications through bidimensionality. citation:-1
+title:Bidimensional Parameters and Local Treewidth. citation:-1
+title:Tight bounds for dynamic convex hull queries (again). citation:-1
+title:Locked and Unlocked Polygonal Chains in Three Dimensions. citation:-1
+title:Fast allocation and deallocation with an improved buddy system. citation:-1
+title:Computational geometry column 37. citation:-1
+title:Planar Embeddings of Graphs with Specified Edge Lengths. citation:-1
+title:Efficient Algorithms for Petersen's Matching Theorem. citation:-1
+title:Locked and Unlocked Polygonal Chains in 3D. citation:-1
+title:Relaxed Gabriel Graphs. citation:-1
+title:Open Problems from CCCG 2008. citation:-1
+title:Open problem session. citation:-1
+title:Zipper unfoldings of polyhedral complexes. citation:-1
+title:Any monotone boolean function can be realized by interlocked polygons. citation:-1
+title:Ghost chimneys. citation:-1
+title:Bounded-degree polyhedronization of point sets. citation:-1
+title:Integer Point Sets Minimizing Average Pairwise l Distance: What is the Optimal Shape of a Town? citation:-1
+title:Structure Theory and FPT Algorithmics for Graphs, Digraphs and Hypergraphs, 08.07. - 13.07.2007 citation:-1
+title:Cache-Oblivious and Cache-Aware Algorithms, 18.07. - 23.07.2004 citation:-1
+title:Matching Points with Things. citation:-1
+title:Decomposition, Approximation, and Coloring of Odd-Minor-Free Graphs. citation:-1
+title:Cache-Oblivious Dynamic Dictionaries with Update/Query Tradeoffs. citation:-1
+title:Shape Replication through Self-Assembly and RNase Enzymes. citation:-1
+title:Scheduling to minimize power consumption using submodular functions. citation:-1
+title:Basic network creation games. citation:-1
+title:Minimizing the Diameter of a Network Using Shortcut Edges. citation:-1
+title:UNO Is Hard, Even for a Single Player. citation:-1
+title:Kaboozle Is NP-complete, Even in a Strip. citation:-1
+title:Realistic Reconfiguration of Crystalline (and Telecube) Robots. citation:-1
+title:Wrapping spheres with flat paper. citation:-1
+title:The distance geometry of music. citation:-1
+title:Linear reconfiguration of cube-style modular robots. citation:-1
+title:Dynamic ham-sandwich cuts in the plane. citation:-1
+title:The complexity of UNO citation:-1
+title:Self-Assembly of Arbitrary Shapes with RNA and DNA tiles (extended abstract) citation:-1
+title:On k-Convex Polygons citation:-1
+title:Circle Packing for Origami Design Is Hard citation:-1
+title:Locked and Unlocked Chains of Planar Shapes. citation:-1
+title:Grid Vertex-Unfolding Orthostacks. citation:-1
+title:An optimal decomposition algorithm for tree edit distance. citation:-1
+title:Deploying sensor networks with guaranteed fault tolerance. citation:-1
+title:Algorithmic Graph Minors and Bidimensionality. citation:-1
+title:Confluently Persistent Tries for Efficient Version Control. citation:-1
+title:Integer Point Sets Minimizing Average Pairwise L1-Distance: What is the Optimal Shape of a Town? citation:-1
+title:Games, puzzles and computation. citation:-1
+title:Constant Price of Anarchy in Network Creation Games via Public Service Advertising. citation:-1
+title:Coverage with -Transmitters in the Presence of Obstacles. citation:-1
+title:The Stackelberg Minimum Spanning Tree Game. citation:-1
+title:Covering points by disjoint boxes with outliers. citation:-1
+title:Integer point sets minimizing average pairwise L distance: What is the optimal shape of a town? citation:-1
+title:Geometric folding algorithms - linkages, origami, polyhedra. citation:-1
+title:Deflating the Pentagon. citation:-1
+title:Filling holes in triangular meshes by curve unfolding. citation:-1
+title:Embedding Stacked Polytopes on a Polynomial-Size Grid. citation:-1
+title:Self-Assembly of Arbitrary Shapes Using RNAse Enzymes: Meeting the Kolmogorov Bound with Small Scale Factor (extended abstract). citation:-1
+title:Contraction decomposition in h-minor-free graphs and algorithmic applications. citation:-1
+title:Approximability of the Subset Sum Reconfiguration Problem. citation:-1
+title:Approximation algorithms via contraction decomposition. citation:-1
+title:Remarks on separating words citation:-1
+title:(Non)Existence of Pleated Folds: How Paper Folds Between Creases. citation:-1
+title:Algorithmic Folding Complexity. citation:-1
+title:Continuous Blooming of Convex Polyhedra. citation:-1
+title:Computing Signed Permutations of Polygons. citation:-1
+title:Filling Holes in Triangular Meshes Using Digital Images by Curve Unfolding. citation:-1
+title:On the complexity of reconfiguration problems. citation:-1
+title:Efficient constant-velocity reconfiguration of crystalline robots. citation:-1
+title:Planning to fold multiple objects from a single self-folding sheet. citation:-1
+title:Programmable Assembly With Universally Foldable Strings (Moteins). citation:-1
+title:Algorithms for Solving Rubik's Cubes citation:-1
+title:The price of anarchy in cooperative network creation games. citation:-1
+title:On k-convex polygons. citation:-1
+title:The Voronoi game on graphs and its complexity. citation:-1
+title:Algorithms for Solving Rubik's Cubes. citation:-1
+title:One-Dimensional Staged Self-assembly. citation:-1
+title:Efficient Reconfiguration of Lattice-Based Modular Robots. citation:-1
+title:Flattening Fixed-Angle Chains Is Strongly NP-Hard. citation:-1
+title:Lossless Fault-Tolerant Data Structures with Additive Overhead. citation:-1
+title:Common Unfoldings of Polyominoes and Polycubes. citation:-1
+title:Making Polygons by Simple Folds and One Straight Cut. citation:-1
+title:O(1)-Approximations for Maximum Movement Problems. citation:-1
+title:Remarks on Separating Words. citation:-1
+title:Constructing Strings at the Nano Scale via Staged Self-assembly. citation:-1
+title:Hinged Dissections Exist. citation:-1
+title:Two Hands Are Better Than One (up to constant factors) citation:-1
+title:Unfolding Orthogonal Polyhedra with Quadratic Refinement: The Delta-Unfolding Algorithm citation:-1
+title:Algorithmic Folding Complexity. citation:-1
+title:Folding Equilateral Plane Graphs. citation:-1
+title:Convexifying Polygons Without Losing Visibilities. citation:-1
+title:Common Developments of Several Different Orthogonal Boxes. citation:-1
+title:Edge-Unfolding Orthogonal Polyhedra is Strongly NP-Complete. citation:-1
+title:A Topologically Convex Vertex-Ununfoldable Polyhedron. citation:-1
+title:Expansive Motions for d-Dimensional Open Chains. citation:-1
+title:Edge-guarding Orthogonal Polyhedra. citation:-1
+title:The price of anarchy in network creation games. citation:-1
+title:Constant Price of Anarchy in Network-Creation Games via Public-Service Advertising. citation:-1
+title:Minimizing Movement: Fixed-Parameter Tractability citation:-1
+title:Picture-Hanging Puzzles citation:-1
+title:Classic Nintendo Games are (NP-)Hard citation:-1
+title:Any Monotone Function Is Realized by Interlocked Polygons. citation:-1
+title:Picture-Hanging Puzzles. citation:-1
+title:Non-crossing matchings of points with geometric objects. citation:-1
+title:Reconfiguration of list edge-colorings in a graph. citation:-1
+title:NP-completeness of generalized Kaboozle. citation:-1
+title:Bounded-degree polyhedronization of point sets. citation:-1
+title:Ghost chimneys. citation:-1
+title:One Tile to Rule Them All: Simulating Any Turing Machine, Tile Assembly System, or Tiling System with a Single Puzzle Piece citation:-1
+title:Necklaces, Convolutions, and X+Y citation:-1
+title:The Stackelberg minimum spanning tree game on planar and bounded-treewidth graphs. citation:-1
+title:Origami Robots and Star Trek Replicators. citation:-1
+title:Coverage with k-transmitters in the presence of obstacles. citation:-1
+title:Scheduling to minimize gaps and power consumption. citation:-1
+title:Two Hands Are Better Than One (up to constant factors): Self-Assembly In The 2HAM vs. aTAM. citation:-1
+title:Algorithms for Designing Pop-Up Cards. citation:-1

@@ -1,0 +1,145 @@
+title1:Processor Allocation in an -Cube Multiprocessor Using Gray Codes. title2:Processor allocation in an N-cube multiprocessor using gray codes citation:251 ncitation:244 pid1078622
+title1:Optimal Checkpointing of Real-Time Tasks. title2:Optimal checkpointing of real-time tasks citation:109 ncitation:98 pid1081888
+title1:PP-MEss-SIM: a simulator for evaluating multicomputer interconnection networks. title2:PP-MESS-SIM: A simulator for evaluating multicomputer interconnection networks citation:16 ncitation:17 pid42313
+title1:Hop-count filtering: an effective defense against spoofed DDoS traffic. title2:Hop-count filtering: an effective defense against spoofed DDoS traffic citation:435 ncitation:400 pid83938
+title1:OODB Support for Real-Time Open-Architecture Controllers. title2:OODB Support for Real-Time Open-Architecture Controllers. citation:21 ncitation:21 pid141087
+title1:Performance Evaluation of Dependable Real-Time Communication with Elastic QoS. title2:Performance evaluation of dependable real-time communication with elastic QoS citation:16 ncitation:17 pid161665
+title1:Experimental Evaluation of Failure-Detection Schemes in Real-time Communication Networks. title2:Experimental evaluation of failure-detection schemes in real-time communication networks citation:22 ncitation:21 pid220319
+title1:A distributed route-selection scheme for establishing real-time channels. title2:A distributed route-selection scheme for establishing real-time channels citation:69 ncitation:71 pid255716
+title1:SPIDER: Flexible and Efficient Communication Support for Point-to-Point Distributed Systems. title2:SPIDER: Flexible and efficient communication support for point-to-point distributed systems citation:21 ncitation:22 pid296676
+title1:Real-time communication in multi-hop networks. title2:Real-time communication in multihop networks citation:321 ncitation:306 pid298150
+title1:Providing Unrestricted VCR Functions in Multicast Video-on-Demand Servers. title2:Providing unrestricted VCR functions in multicast video-on-demand servers citation:78 ncitation:74 pid329590
+title1:Adaptive Packet Marking for Providing Differentiated Services in the Internet. title2:Adaptive packet marking for providing differentiated services in the Internet citation:125 ncitation:119 pid338236
+title1:SYN-dog: Sniffing SYN Flooding Sources. title2:Syn-dog: Sniffing syn flooding sources citation:76 ncitation:74 pid297870
+title1:Evaluating the Overheads of Source-Directed Quality-of-Service Routing. title2:Evaluating the overheads of source-directed quality-of-service routing citation:73 ncitation:73 pid338474
+title1:Efficient All-to-All Personalized Exchange in Multidimensional Torus Networks. title2:Efficient all-to-all personalized exchange in multidimensional torus networks citation:20 ncitation:20 pid344399
+title1:The END: A Network Adapter Design Tool. title2:The END: a network adapter design tool citation:16 ncitation:16 pid401122
+title1:A Self-Configuring RED Gateway. title2:A self-configuring RED gateway citation:746 ncitation:697 pid400831
+title1:Stochastic Fair Blue: A Queue Management Algorithm for Enforcing Fairness. title2:Stochastic fair blue: A queue management algorithm for enforcing fairness citation:293 ncitation:274 pid400829
+title1:Analysis of Combined Adaptive Bandwidth Allocation and Admission Control in Wireless Networks. title2:Analysis of combined adaptive bandwidth allocation and admission control in wireless networks citation:95 ncitation:94 pid400531
+title1:Detecting SYN Flooding Attacks. title2:Detecting SYN flooding attacks citation:607 ncitation:559 pid402857
+title1:Smart power-saving mode for IEEE 802.11 wireless LANs. title2:Smart power-saving mode for IEEE 802.11 wireless LANs citation:75 ncitation:60 pid402211
+title1:A Two-Step Adaptive Error Recovery Scheme for Video Transmission over Wireless Networks. title2:A two-step adaptive error recovery scheme for video transmission over wireless networks citation:62 ncitation:59 pid402209
+title1:Energy-Efficient PCF Operation of IEEE 802.11a Wireless LAN. title2:Energy-efficient PCF operation of IEEE 802.11 a wireless LAN citation:98 ncitation:90 pid402207
+title1:Attack-Tolerant Time-Synchronization in Wireless Sensor Networks. title2:Attack-tolerant time-synchronization in wireless sensor networks citation:19 ncitation:12 pid403820
+title1:Integrated Rate and Credit Feedback Control for ABR Service in ATM Networks. title2:Integrated rate and credit feedback control for ABR service in ATM networks citation:15 ncitation:16 pid403020
+title1:Real-Time Communication in ATM Networks. title2:Real-time communication in ATM networks citation:20 ncitation:21 pid482503
+title1:Uplink CDMA Systems with Diverse QoS Guarantees for Heterogeneous Traffic. title2:Uplink CDMA systems with diverse QoS guarantees for heterogeneous traffic citation:17 ncitation:18 pid505647
+title1:Synchronous Bandwidth Allocation in FDDI Networks. title2:Synchronous bandwidth allocation in FDDI networks citation:81 ncitation:76 pid503222
+title1:Improving energy efficiency by making DRAM less randomly accessed. title2:Improving energy efficiency by making DRAM less randomly accessed citation:81 ncitation:69 pid436789
+title1:Detecting energy-greedy anomalies and mobile malware variants. title2:Detecting energy-greedy anomalies and mobile malware variants citation:109 ncitation:79 pid506990
+title1:Behavioral detection of malware on mobile handsets. title2:Behavioral detection of malware on mobile handsets citation:129 ncitation:97 pid506997
+title1:Combining Contracts and Exemplar-Based Programming for Class Hiding and Customization. title2:Combining contracts and exemplar-based programming for class hiding and customization citation:19 ncitation:19 pid522473
+title1:MiSer: an optimal low-energy transmission strategy for IEEE 802.11a/h. title2:MiSer: an optimal low-energy transmission strategy for IEEE 802.11 a/h citation:214 ncitation:195 pid505756
+title1:On accurate measurement of link quality in multi-hop wireless mesh networks. title2:On accurate measurement of link quality in multi-hop wireless mesh networks citation:180 ncitation:161 pid505897
+title1:In-band spectrum sensing in cognitive radio networks: energy detection or feature detection? title2:In-band spectrum sensing in cognitive radio networks: energy detection or feature detection? citation:150 ncitation:129 pid506044
+title1:A Model-Based Approach to System-Level Dependency and Real-Time Analysis of Embedded Software. title2:A model-based approach to system-level dependency and real-time analysis of embedded software citation:61 ncitation:59 pid563856
+title1:RTCAST: lightweight multicast for real-time process groups. title2:RTCAST: Lightweight multicast for real-time process groups citation:77 ncitation:73 pid563785
+title1:Statistical Real-Time Communication over Ethernet for Manufacturing Automation Systems. title2:Statistical real-time communication over Ethernet for manufacturing automation systems citation:87 ncitation:85 pid563946
+title1:Achieving Real-Time Communication over Ethernet with Adaptive Traffic Smoothing. title2:Achieving real-time communication over Ethernet with adaptive traffic smoothing citation:116 ncitation:113 pid563945
+title1:End-Host Architecture for QoS-Adaptive Communication. title2:End-host architecture for QoS-adaptive communication citation:99 ncitation:97 pid563782
+title1:QoS Negotiation in Real-Time Systems and Its Application to Automated Flight Control. title2:QoS negotiation in real-time systems and its application to automated flight control citation:269 ncitation:253 pid563778
+title1:Non-preemptive scheduling of messages on controller area network for real-time control applications. title2:Non-preemptive scheduling of messages on controller area network for real-time control applications citation:118 ncitation:116 pid564053
+title1:Scalable Hardware Priority Queue Architectures for High-Speed Packet Switches. title2:Scalable hardware priority queue architectures for high-speed packet switches citation:108 ncitation:99 pid563968
+title1:Analysis of Three Contention Protocols in Distributed Real-Time Systems. title2:Analysis of three contention protocols in distributed real-time systems citation:16 ncitation:15 pid565504
+title1:On task schedulability in real-time control systems. title2:On task schedulability in real-time control systems citation:418 ncitation:382 pid565477
+title1:Structuring communication software for quality-of-service guarantees. title2:Structuring communication software for quality-of-service guarantees citation:78 ncitation:74 pid565344
+title1:Efficient spare-resource allocation for fast restoration of real-time channels from network component failures. title2:Efficient spare-resource allocation for fast restoration of real-time channels from network component failures citation:62 ncitation:60 pid565098
+title1:QoS Provisioning with qContracts in Web and Multimedia Servers. title2:Qos provisioning with qcontracts in web and multimedia servers citation:69 ncitation:70 pid564950
+title1:Load-Sensitive Routing of Long-Lived IP Flows. title2:Load-sensitive routing of long-lived IP flows citation:277 ncitation:273 pid588907
+title1:Predictive and Adaptive Bandwidth Reservation for Hand-Offs in QoS-Sensitive Cellular Networks. title2:Predictive and adaptive bandwidth reservation for hand-offs in QoS-sensitive cellular networks citation:244 ncitation:232 pid588541
+title1:Allocation of periodic task modules with precedence and deadline constraints in distributed real-time systems. title2:Allocation of periodic task modules with precedence and deadline constraints in distributed real-time systems citation:82 ncitation:136 pid565707
+title1:Adaptive control of virtualized resources in utility computing environments. title2:Adaptive control of virtualized resources in utility computing environments citation:386 ncitation:311 pid691490
+title1:Optimal Checkpointing of Real-Time Tasks. title2:Optimal checkpointing of real-time tasks citation:109 ncitation:106 pid617351
+title1:EMERALDS: a small-memory real-time microkernel. title2:EMERALDS: a small-memory real-time microkernel citation:17 ncitation:55 pid613408
+title1:Real-Time Dynamic Voltage Scaling for Low-Power Embedded Operating Systems. title2:Real-time dynamic voltage scaling for low-power embedded operating systems citation:1037 ncitation:948 pid613287
+title1:FS2: dynamic data replication in free disk space for improving disk performance and energy consumption. title2:FS2: dynamic data replication in free disk space for improving disk performance and energy consumption citation:137 ncitation:122 pid613221
+title1:New Performance Measures for Design and Evaluation of Real-Time Multiprocessors. title2:New performance measures for design and evaluation of real-time multiprocessors citation:19 ncitation:19 pid832076
+title1:Fault-Tolerant Clock Synchronization in Distributed Systems. title2:Fault-tolerant clock synchronization in distributed systems citation:201 ncitation:197 pid807839
+title1:HARTS: A Distributed Real-Time Architecture. title2:HARTS: A distributed real-time architecture citation:123 ncitation:121 pid808022
+title1:Optimization Criteria for Checkpoint Placement. title2:Optimization criteria for checkpoint placement citation:68 ncitation:64 pid773487
+title1:Multicast Video-on-Demand services. title2:Multicast video-on-demand services citation:130 ncitation:119 pid783860
+title1:World Modeling for the Dynamic Construction of Real-Time Control Plans. title2:World modeling for the dynamic construction of real-time control plans citation:137 ncitation:134 pid745562
+title1:Robust Adaptive Metrics for Deadline Assignment in Distributed Hard Real-Time Systems. title2:Robust adaptive metrics for deadline assignment in distributed hard real-time systems citation:22 ncitation:20 pid1053113
+title1:QoS Negotiation in Real-Time Systems and Its Application to Automated Flight Control. title2:QoS negotiation in real-time systems and its application to automated flight control citation:269 ncitation:253 pid1077836
+title1:Addressing, Routing, and Broadcasting in Hexagonal Mesh Multiprocessors. title2:Addressing, routing, and broadcasting in hexagonal mesh multiprocessors citation:144 ncitation:133 pid1078629
+title1:Adaptive Fault-Tolerant Routing in Hypercube Multicomputers. title2:Adaptive fault-tolerant routing in hypercube multicomputers citation:160 ncitation:151 pid1078625
+title1:Subcube Allocation and Task Migration in Hypercube Multiprocessors. title2:Subcube allocation and task migration in hypercube multiprocessors citation:86 ncitation:82 pid1078624
+title1:Optimal design and use of retry in fault-tolerant computer systems. title2:Optimal design and use of retry in fault-tolerant computer systems citation:19 ncitation:18 pid951008
+title1:Implementation of Decentralized Load Sharing in Networked Workstations Using the Condor Package. title2:Implementation of decentralized load sharing in networked workstations using the Condor package citation:16 ncitation:17 pid988962
+title1:Destination-Driven Routing for Low-Cost Multicast. title2:Destination-driven routing for low-cost multicast citation:133 ncitation:122 pid991957
+title1:What and how much to gain by spectrum agility? title2:What and how much to gain by spectrum agility? citation:159 ncitation:127 pid993076
+title1:Evolution of the Internet QoS and support for soft real-time applications. title2:Evolution of the Internet QoS and support for soft real-time applications citation:109 ncitation:106 pid1037494
+title1:Damage Assessment for Optimal Rollback Recovery. title2:Damage assessment for optimal rollback recovery citation:21 ncitation:20 pid1080620
+title1:Scalable Hardware Priority Queue Architectures for High-Speed Packet Switches. title2:Scalable hardware priority queue architectures for high-speed packet switches citation:108 ncitation:100 pid1080936
+title1:Hardware-Assisted Software Clock Synchronization for Homogeneous Distributed Systems. title2:Hardware-assisted software clock synchronization for homogeneous distributed systems citation:106 ncitation:99 pid1081503
+title1:Modeling of Concurrent Task Execution in a Distributed System for Real-Time Control. title2:Modeling of concurrent task execution in a distributed system for real-time control citation:62 ncitation:55 pid1081295
+title1:Reliable Broadcast in Hypercube Multicomputers. title2:Reliable broadcast in hypercube multicomputers citation:128 ncitation:122 pid1081504
+title1:Synchronous Bandwidth Allocation for Real-Time Communications with the Timed-Token MAC Protocol. title2:Synchronous bandwidth allocation for real-time communications with the timed-token MAC protocol citation:18 ncitation:17 pid1079544
+title1:A Fault-Tolerant Scheduling Algorithm for Real-Time Periodic Tasks with Possible Software Faults. title2:A fault-tolerant scheduling algorithm for real-time periodic tasks with possible software faults citation:95 ncitation:85 pid1079545
+title1:Allocation of Periodic Task Modules with Precedence and Deadline Constraints. title2:Allocation of periodic task modules with precedence and deadline constraints in distributed real-time systems citation:82 ncitation:-1 pid1079730
+title1:Evaluation of Fault Tolerance Latency from Real-Time Application's Perspectives. title2:Evaluation of fault tolerance latency from real-time application's perspectives citation:21 ncitation:22 pid1080034
+title1:On Scheduling Tasks with a Quick Recovery from Failure. title2:On scheduling tasks with a quick recovery from failure citation:149 ncitation:143 pid1080213
+title1:LiSP: A lightweight security protocol for wireless sensor networks. title2:LiSP: A lightweight security protocol for wireless sensor networks citation:111 ncitation:105 pid1098659
+title1:Change-Point Monitoring for the Detection of DoS Attacks. title2:Change-point monitoring for the detection of DoS attacks citation:188 ncitation:162 pid1098067
+title1:Design for test using partial parallel scan. title2:Design for test using partial parallel scan citation:22 ncitation:22 pid1084867
+title1:Design and Implementation of Efficient Message Scheduling for Controller Area Network. title2:Design and implementation of efficient message scheduling for controller area network citation:96 ncitation:87 pid1082976
+title1:Performance Modeling and Measurement of Real-Time Multiprocessors with Time-Shared Buses. title2:Performance modeling and measurements of real time multiprocessors with time-shared buses citation:15 ncitation:15 pid1082699
+title1:Goodput Analysis and Link Adaptation for IEEE 802.11a Wireless LANs. title2:Goodput analysis and link adaptation for IEEE 802.11 a wireless LANs citation:556 ncitation:511 pid1114315
+title1:Soft Tamper-Proofing via Program Integrity Verification in Wireless Sensor Networks. title2:Soft tamper-proofing via program integrity verification in wireless sensor networks citation:83 ncitation:80 pid1114298
+title1:Analysis of Adaptive Bandwidth Allocation in Wireless Networks with Multilevel Degradable Quality of Service. title2:Analysis of adaptive bandwidth allocation in wireless networks with multilevel degradable quality of service citation:121 ncitation:118 pid1114256
+title1:Schema Evolution of an Object-Oriented Real-Time Database System for Manufacturing Automation. title2:Schema evolution of an object-oriented real-time database system for manufacturing automation citation:18 ncitation:19 pid1113868
+title1:Distributed Authentication of Program Integrity Verification in Wireless Sensor Networks. title2:Distributed authentication of program integrity verification in wireless sensor networks citation:17 ncitation:15 pid1103685
+title1:Modeling and Measurement of Error Propagation in a Multimodule Computing System. title2:Modeling and measurement of error propagation in a multimodule computing system citation:19 ncitation:17 pid1081886
+title1:Adaptive Fault-Tolerant Deadlock-Free Routing in Meshes and Hypercubes. title2:Adaptive fault-tolerant deadlock-free routing in meshes and hypercubes citation:95 ncitation:93 pid1081660
+title1:Load Sharing in Distributed Real-Time Systems with State-Change Broadcasts. title2:Load sharing in distributed real-time systems with state-change broadcasts citation:144 ncitation:139 pid1081873
+title1:On the Number of Acceptable Task Assignments in Distributed Computing Systems. title2:On the number of acceptable task assignments in distributed computing systems citation:19 ncitation:19 pid1081928
+title1:Clock Synchronization of a Large Multiprocessor System in the Presence of Malicious Faults. title2:Clock synchronization of a large multiprocessor system in the presence of malicious faults citation:81 ncitation:76 pid1081892
+title1:Defense against spoofed IP traffic using hop-count filtering. title2:Defense against spoofed IP traffic using hop-count filtering citation:132 ncitation:100 pid1122972
+title1:Evaluating the impact of stale link state on quality-of-service routing. title2:Evaluating the impact of stale link state on quality-of-service routing citation:198 ncitation:188 pid1122718
+title1:Delay analysis of feedback-synchronization signaling for multicast flow control. title2:Delay analysis of feedback-synchronization signaling for multicast flow control citation:15 ncitation:15 pid1122872
+title1:Adaptive Bandwidth Reservation and Admission Control in QoS-Sensitive Cellular Networks. title2:Adaptive bandwidth reservation and admission control in QoS-sensitive cellular networks citation:97 ncitation:89 pid1124831
+title1:Depth-First Search Approach for Fault-Tolerant Routing in Hypercube. title2:Depth-first search approach for fault-tolerant routing in hypercube multicomputers citation:169 ncitation:-1 pid1124794
+title1:Combined Task and Message Scheduling in Distributed Real-Time Systems. title2:Combined task and message scheduling in distributed real-time systems citation:110 ncitation:103 pid1124523
+title1:Performance Guarantees for Web Server End-Systems: A Control-Theoretical Approach. title2:Performance guarantees for web server end-systems: A control-theoretical approach citation:572 ncitation:528 pid1124526
+title1:Stateful distributed interposition. title2:Stateful distributed interposition citation:18 ncitation:16 pid1117541
+title1:Efficient Discovery of Spectrum Opportunities with MAC-Layer Sensing in Cognitive Radio Networks. title2:Efficient discovery of spectrum opportunities with MAC-layer sensing in cognitive radio networks citation:501 ncitation:390 pid1114571
+title1:A unified wireless LAN architecture for real-time and non-real-time communication services. title2:A unified wireless LAN architecture for real-time and non-real-time communication services citation:102 ncitation:100 pid1122050
+title1:An uplink CDMA system architecture with diverse QoS guarantees for heterogeneous traffic. title2:An uplink CDMA system architecture with diverse QoS guarantees for heterogeneous traffic citation:98 ncitation:96 pid1122051
+title1:Understanding and improving TCP performance over networks with minimum rate guarantees. title2:Understanding and improving TCP performance over networks with minimum rate guarantees citation:73 ncitation:69 pid1122137
+title1:The BLUE active queue management algorithms. title2:The BLUE active queue management algorithms citation:493 ncitation:449 pid1122138
+title1:SWSL: A Synthetic Workload Specification Language for Real-Time Systems. title2:SWSL: A synthetic workload specification language for real-time systems citation:16 ncitation:15 pid1128633
+title1:Assignment and Scheduling Communicating Periodic Tasks in Distributed Real-Time Systems. title2:Assignment and scheduling communicating periodic tasks in distributed real-time systems citation:152 ncitation:143 pid1129215
+title1:Structuring Communication Software for Quality-of-Service Guarantees. title2:Structuring communication software for quality-of-service guarantees citation:78 ncitation:74 pid1128951
+title1:Design and Evaluation of Effective Load Sharing in Distributed Real-Time Systems. title2:Design and evaluation of effective load sharing in distributed real-time systems citation:65 ncitation:71 pid1125776
+title1:Synchronous Bandwidth Allocation in FDDI Networks. title2:Synchronous bandwidth allocation in FDDI networks citation:81 ncitation:76 pid1126164
+title1:Online Web Cluster Capacity Estimation and Its Application to Energy Conservation. title2:Online web cluster capacity estimation and its application to energy conservation citation:21 ncitation:17 pid1126151
+title1:Optimal Task Assignment in Homogeneous Networks. title2:Optimal task assignment in homogeneous networks citation:63 ncitation:59 pid1125370
+title1:Distributed Route Selection for Establishing Real-Time Channels. title2:Distributed route selection for establishing real-time channels citation:21 ncitation:21 pid1125774
+title1:Soft Real-Time Communication over Ethernet with Adaptive Traffic Smoothing. title2:Soft real-time communication over Ethernet with adaptive traffic smoothing citation:19 ncitation:19 pid1125301
+title1:Real-Time Communication in Multihop Networks. title2:Real-time communication in multihop networks citation:321 ncitation:306 pid1125214
+title1:Prevention of Congestion in Packet-Switched Multistage Interconnection Networks. title2:Prevention of congestion in packet-switched multistage interconnection networks citation:20 ncitation:18 pid1125348
+title1:Statistical Real-Time Communication over Ethernet. title2:Statistical real-time communication over Ethernet for manufacturing automation systems citation:87 ncitation:35 pid1125306
+title1:Real-Time Transport of MPEG Video with a Statistically Guaranteed Loss Ratio in ATM Networks. title2:Real-time transport of MPEG video with a statistically guaranteed loss ratio in ATM networks citation:17 ncitation:15 pid1125303
+title1:Post-Deployment Performance Debugging in Wireless Sensor Networks. title2:Post-deployment performance debugging in wireless sensor networks citation:16 ncitation:10 pid1321898
+title1:Effective load sharing in distributed real-time systems. title2:Design and evaluation of effective load sharing in distributed real-time systems citation:65 ncitation:3 pid1214322
+title1:Large-scale malware indexing using function-call graphs. title2:Large-scale malware indexing using function-call graphs citation:71 ncitation:58 pid1238815
+title1:OS-MAC: An Efficient MAC Protocol for Spectrum-Agile Wireless Networks. title2:OS-MAC: An efficient MAC protocol for spectrum-agile wireless networks citation:122 ncitation:106 pid1227742
+title1:Automated control of multiple virtualized resources. title2:Automated control of multiple virtualized resources citation:233 ncitation:176 pid1258310
+title1:On accurate and asymmetry-aware measurement of link quality in wireless mesh networks. title2:On accurate and asymmetry-aware measurement of link quality in wireless mesh networks citation:24 ncitation:13 pid1282141
+title1:Task Construction for Model-Based Design of Embedded Control Software. title2:Task construction for model-based design of embedded control software citation:25 ncitation:21 pid1129777
+title1:EMERALDS: A Small-Memory Real-Time Microkernel. title2:EMERALDS: a small-memory real-time microkernel citation:17 ncitation:55 pid1129966
+title1:A comparative study of bandwidth reservation and admission control schemes in QoS-sensitive cellular networks. title2:A comparative study of bandwidth reservation and admission control schemes in QoS-sensitive cellular networks citation:66 ncitation:62 pid1141059
+title1:Detection of botnets using combined host- and network-level information. title2:Detection of botnets using combined host-and network-level information citation:26 ncitation:17 pid3012649
+title1:FAST: Quick Application Launch on Solid-State Drives. title2:FAST: Quick Application Launch on Solid-State Drives. citation:17 ncitation:10 pid3013965
+title1:Self-reconfigurable wireless mesh networks. title2:Self-reconfigurable wireless mesh networks citation:20 ncitation:10 pid3148492
+title1:Optimal Admission and Eviction Control of Secondary Users at Cognitive Radio HotSpots. title2:Optimal admission and eviction control of secondary users at cognitive radio hotspots citation:18 ncitation:16 pid3185990
+title1:E-MiLi: energy-minimizing idle listening in wireless networks. title2:E-mili: energy-minimizing idle listening in wireless networks citation:26 ncitation:12 pid3189443
+title1:Distributed Authentication of Program Integrity Verification in Wireless Sensor Networks. title2:Distributed authentication of program integrity verification in wireless sensor networks citation:17 ncitation:15 pid3332652
+title1:On Mobile Viruses Exploiting Messaging and Bluetooth Services. title2:On mobile viruses exploiting messaging and bluetooth services citation:83 ncitation:67 pid3332793
+title1:E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks. title2:E-mili: energy-minimizing idle listening in wireless networks citation:26 ncitation:12 pid3469603
+title1:On the ability of establishing real-time channels in point-to-point packet-switched networks. title2:On the ability of establishing real-time channels in point-to-point packet-switched networks citation:235 ncitation:222 pid3534803
+title1:Derivation and application of hard deadlines for real-time control systems. title2:Derivation and application of hard deadlines for real-time control systems citation:68 ncitation:66 pid3549996
+title1:CIRCA: a cooperative intelligent real-time control architecture. title2:CIRCA: A cooperative intelligent real-time control architecture citation:318 ncitation:305 pid3550018
+title1:Direct control and coordination using neural networks. title2:Direct control and coordination using neural networks citation:96 ncitation:89 pid3550117
+title1:Adaptive-weighted packet scheduling for premium service. title2:Adaptive-weighted packet scheduling for premium service citation:63 ncitation:-1 pid3672917

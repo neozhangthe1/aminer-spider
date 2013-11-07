@@ -1,0 +1,259 @@
+title:Qos-Oriented MAC Protocols for Future Mobile Applications. citation:-1
+title:Sorting and merging on the DAP. citation:-1
+title:A greedy hypercube-labeling algorithm. citation:-1
+title:Biomimetric Models for an Ecological Approach to Massively-Deployed Sensor Networks. citation:-1
+title:Biology-Inspired Distributed Consensus in Massively-Deployed Sensor Networks. citation:-1
+title:Efficient Training of Sensor Networks. citation:-1
+title:Asynchronous Training in Wireless Sensor Networks. citation:-1
+title:Time-optimal ranking algorithms on sorted matrices. citation:-1
+title:A simple array processor for binary prefix sums. citation:-1
+title:Time-optimal Proximity Graph Computations on Enhanced Meshes. citation:-1
+title:Constant-Time Convexity Problems on Reconfigurable Meshes. citation:-1
+title:Efficient Image Computations on Reconfigurable Meshes. citation:-1
+title:Computing the Inner Product on Reconfigurable Buses with Shift Switching. citation:-1
+title:Computer Productivity Initiative. citation:-1
+title:Computer Productivity Initiative: Past, Present, Future. citation:-1
+title:Energy-efficient randomized routing in radio networks. citation:-1
+title:A Linear-Time Recognition Algorithm for P-Reducible Graphs. citation:-1
+title:Fast Parallel Algorithms for Cographs. citation:-1
+title:Parallel and Distributed Algorithms. citation:-1
+title:Minitrack: Quality of Service in Mobile and Wireless Networks. citation:-1
+title:Mobile Computing and Wireless Networks - Introduction. citation:-1
+title:Parallel Algorithms: Introduction. citation:-1
+title:Quality of Service in Mobile and Wireless Networks: Minitrack Introduction. citation:-1
+title:A Two-Cell-Lookahead Call Admission and Handoff Management Scheme for Multimedia LEO Satellite Networks. citation:-1
+title:Randomized Reinforcement Based Scheduling In Parallel Processor Systems. citation:-1
+title:Courier Assignment in Social Networks. citation:-1
+title:Protecting with Sensor Networks: Attention and Response. citation:-1
+title:An Optimal Hardware-Algorithm for Selection Using a Fixed-Size Parallel Classifier Device. citation:-1
+title:An Optimal Parallel Algorithm to Reconstruct a Binary Tree from its Traversals. citation:-1
+title:Sub-Logarithmic Algorithms for the Largest Empty Rectangle Problem. citation:-1
+title:A Simple Optimal Parallel Algorithm to Solve the Lowest Common Ancestor Problem. citation:-1
+title:Wireless Support for Telemedicine in Disaster Management. citation:-1
+title:Time-Optimal Multiple Rank Computations on Meshes with Multiple Broadcasting. citation:-1
+title:Time- and VLSI-Optimal Sorting on Meshes with Multiple Broadcasting. citation:-1
+title:Constant Time Convexity Problems on Dense Reconfigurable Meshes. citation:-1
+title:Antipodality-Based Time-Optimal Computation on Meshes with Multiple Broadcasting. citation:-1
+title:A Framework for Solving Geometric Problems on Enhanced Meshes. citation:-1
+title:A Fast Parallel Algorithm to Compute Path Functions for Cographs. citation:-1
+title:An Efficient Algorithm for Row Minima Computations in Monotone Matrices. citation:-1
+title:Energy-Efficient Deterministic Routing Protocols in Radio Networks. citation:-1
+title:OSCAR - An Opportunistic Call Admission Protocol for LEO Satellite Networks. citation:-1
+title:Average Waiting Time Profiles of DQDB. citation:-1
+title:Message from the Chairs. citation:-1
+title:Average Waiting Time Profiles of Uniform DQDB Model. citation:-1
+title:Work-Time Optimal K-Merge Algorithms on the PRAM. citation:-1
+title:An O((log log n)) Time Convex Hull Algorithm on Reconfigurable Meshes. citation:-1
+title:Workshop Introduction. citation:-1
+title:A Scalable VLSI Architecture for Binary Prefix Sums. citation:-1
+title:An Efficient VLSI Architecture Parallel Prefix Counting With Domino Logic. citation:-1
+title:An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable. citation:-1
+title:Broadcast-Efficient Algorithms on the Coarse-Grain Broadcast Communication Model with Few Channels. citation:-1
+title:A faster sorting algorithm in the broadcast communication model. citation:-1
+title:On the Dynamic Initialization of Parallel Computers. citation:-1
+title:On Cost-Optimal Merge of Two Intransitive Sorted Sequences. citation:-1
+title:Workshop on Bio-Inspired Solutions to Parallel Processing Problems (BioSP3). citation:-1
+title:Workshop Introduction. citation:-1
+title:Efficient List Ranking on the Reconfigurable Mesh, with Applications. citation:-1
+title:Weighted and Unweighted Selection Algorithms for k Sorted Sequences. citation:-1
+title:Energy Usage in Biomimetic Models for Massively-Deployed Sensor Networks. citation:-1
+title:A time-optimal solution to planar point location in ordered functional domains, with applications. citation:-1
+title:On the Power of the Mesh with Hybrid Buses. citation:-1
+title:Safety and QoS-Aware Management of Heterogeneous Sensor Networks. citation:-1
+title:Multi-training sensor networks with bipartite conflict graphs. citation:-1
+title:Asynchronous training in SANET. citation:-1
+title:Efficient binary schemes for training heterogeneous sensor and actor networks. citation:-1
+title:Common data security network (CDSN). citation:-1
+title:Zipper: : a zero-infrastructure peer-to-peer system forvanet. citation:-1
+title:Peer-to-peer multimedia content provisioning for vehicular ad hoc networks. citation:-1
+title:Time-Optimal Nearest-Neighbor Computations on Enhanced Meshes. citation:-1
+title:Channel assignment in cellular networks with synchronous base stations. citation:-1
+title:Evaluating Routing-Related Energy Expenditure in Sensor Networks. citation:-1
+title:An energy-efficient initialization algorithm for random radio networks. citation:-1
+title:A Fuzzy Logic-Based Location Management Method for Mobile Networks. citation:-1
+title:A QoS Provisioning Scheme for Multimedia Wireless Networks. citation:-1
+title:HM - A Rapidly Deployable Architecture with QoS Provisioning for Wireless Networks. citation:-1
+title:The Ultimate Interval Graph Recognition Algorithm? (Extended Abstract). citation:-1
+title:LBFS Orderings and Cocomparability Graphs. citation:-1
+title:Time- and Cost-Optimal Parallel Algorithms for the Dominance and Visibility Graphs. citation:-1
+title:Computing a Dominating Pair in an Asteroidal Triple-free Graph in Linear Time. citation:-1
+title:Optimal Parallel Algorithms for Finding Proximate Points, with Applications (Extended Abstract). citation:-1
+title:Time-Optimal Tree Computations on Sparse Meshes. citation:-1
+title:A New Characterization of P4-connected Graphs. citation:-1
+title:On the Separable-Homogeneous Decomposition of Graphs (Extended Abstract). citation:-1
+title:Domination and Steiner Tree Problems on Graphs with Few P4S. citation:-1
+title:Asteroidal Triple-Free Graphs. citation:-1
+title:On Domination Elimination Orderings and Domination Graphs (Extended Abstract). citation:-1
+title:On the Homogeneous Decomposition of Graphs. citation:-1
+title:On Subfamilies of AT-Free Graphs. citation:-1
+title:A Novel Approach to Reduce Traffic Chaos in Emergency and Evacuation Scenarios. citation:-1
+title:A Traffic Chaos Reduction Approach for Emergency Scenarios. citation:-1
+title:Intelligent Highway Infrastructure for Planned Evacuations. citation:-1
+title:Tiling-Based Localization Scheme for Sensor Networks Using a Single Beacon. citation:-1
+title:Emergent Behavior in Massively-Deployed Sensor Networks. citation:-1
+title:Sensor Networks Hype or Reality? citation:-1
+title:2WIN: an efficient call admission control scheme for quality of service in broadband multimedia LEO satellite networks. citation:-1
+title:Selection on Rectangular Meshes with Multiple Broadcasting. citation:-1
+title:A Constant-Time Channel-Assignment Algorithm on Reconfigurable Meshes. citation:-1
+title:A Greedy Hypercube-Labeling Algorithm. citation:-1
+title:Indexing for Multi-Attribute Retrieval (Short Note). citation:-1
+title:Sequential and Parallel Meta-Heuristics for Solving the Single Row Routing Problem. citation:-1
+title:A simple and robust virtual infrastructure for massively deployed wireless sensor networks. citation:-1
+title:Special issue on wireless sensor networks and applications. citation:-1
+title:Mobile computing: Opportunities for optimization research. citation:-1
+title:Utilizing the synchrony among base stations for better performance of channel assignment algorithms. citation:-1
+title:Time-optimal Tree Computations on Sparse Meshes. citation:-1
+title:A Fast Parallel Algorithm to Recognize P4-sparse Graphs. citation:-1
+title:Greedy algorithms for tracking mobile users in special mobility graphs. citation:-1
+title:Some aspects of the semi-perfect elimination. citation:-1
+title:Wings and perfect graphs. citation:-1
+title:Graphes parfaitement ordonnables généralises. citation:-1
+title:A charming class of perfectly orderable graphs. citation:-1
+title:On sources in comparability graphs, with applications. citation:-1
+title:Quasi-brittle graphs, a new class of perfectly orderable graphs. citation:-1
+title:Parallel computing problems and nature-inspired solutions. citation:-1
+title:Bio-inspired solutions to parallel processing problems. citation:-1
+title:On Cost-Optimal Merge of Two Intransitive Sorted Sequences. citation:-1
+title:Guest Editors' Introduction. citation:-1
+title:A New Characterization of Unbreakable Graphs. citation:-1
+title:Optimal Parallel Encoding and Decoding Algorithms for Trees. citation:-1
+title:Time- and VLSI-Optimal Convex Hull Computation on Meshes with Multiple Broadcasting. citation:-1
+title:A Fast Parallel, Algorithm to Recognize, Partitionable Graphs. citation:-1
+title:On the Unimodality of Convex Polygons. citation:-1
+title:A Simple Linear-Time Algorithm for Computing the RNG and MST of Unimodal Polygons. citation:-1
+title:A Generalization of Chvátal's Star-Cutset Lemma. citation:-1
+title:On the Closure of Triangle-Free Graphs Under Substitution. citation:-1
+title:Welsh-Powell Opposition Graphs. citation:-1
+title:On a Conjecture by Plaisted and Hong. citation:-1
+title:A new conjecture about minimal imperfect graphs. citation:-1
+title:All variations on perfectly orderable graphs. citation:-1
+title:The Strong Perfect Graph Conjecture for pan-free graphs. citation:-1
+title:Safe Quality of Service Aware Management of Heterogeneous Sensor Networks. citation:-1
+title:Constant-Time Convexity Problems on Reconfigurable Meshes. citation:-1
+title:Convexity Problems on Meshes with Multiple Broadcasting. citation:-1
+title:The hierarchical cliques interconnection network. citation:-1
+title:Constant-Time Tree algorithms on Reconfigurable Meshes on Size n x n. citation:-1
+title:Special Issue on Parallel and Distributed Data Structures: Guest Editors' Introduction. citation:-1
+title:An Optimal Parallel Matching Algorithm for Cographs. citation:-1
+title:Preface: Special Issue on Wireless Networks. citation:-1
+title:Reconstructing a Binary Tree from its Traversals in Doubly. citation:-1
+title:A Novel Deterministic Sampling Scheme with Applications to Broadcast-Efficient Sorting on the Reconfigurable Mesh. citation:-1
+title:Time-Optimal Nearest-Neighbor Computations on Enhanced Meshes. citation:-1
+title:Time-Optimal Proximity Graph Computations on Enhanced Meshes. citation:-1
+title:Guest Editors' Introduction. citation:-1
+title:Some observations on using meta-heuristics for efficient location management in mobile computing networks. citation:-1
+title:Problems in Parallel and Distributed Computing: Solutions Based on Evolutionary Paradigms. citation:-1
+title:Special Issue on Parallel Evolutionary Computing: Guest Editor's Introduction. citation:-1
+title:Fault-Tolerant Recursive Least-Squares Computations on a Mesh-Connected Parallel Processor. citation:-1
+title:Special issue: Algorithms for wireless and ad-hoc networks. citation:-1
+title:SPLAI: Computational finite element model for sensor networks. citation:-1
+title:Hybrid training with binary search protocol for wireless sensor networks. citation:-1
+title:Emergent behavior in massively-deployed sensor networks. citation:-1
+title:Efficient List Ranking on the Reconfigurable Mesh with Applications. citation:-1
+title:On the (, )-labeling of co-comparability graphs and circular-arc graphs. citation:-1
+title:The Implementation of a Fractal Dimension Estimation for Texture Discrimination on the Dap. citation:-1
+title:Foreword. citation:-1
+title:A Cost-optimal Erew Breadth-first Algorithm for Ordered Trees, with Applications. citation:-1
+title:An Efficient Erew Algorithm for Minimum Path Cover and Hamiltonicity on Cographs. citation:-1
+title:A Simple Selection Algorithm for Reconfigurable Meshes. citation:-1
+title:A fast cost-optimal parallel algorithm for the lowest common ancestor problem. citation:-1
+title:Applications of Reconfigurable Meshes to Constant-Time Computations. citation:-1
+title:An efficient parallel algorithm for multiselection. citation:-1
+title:A faster optimal algorithm for the measure problem. citation:-1
+title:A Practical Platform for Crew Emulation. citation:-1
+title:Computing on Reconfigurable Buses - A New Computational Paradigm. citation:-1
+title:Sub-Logarithmic Algorithms for the Largest Empty Rectangle Problem. citation:-1
+title:A Parallel Algorithm for Forest Reconstruction. citation:-1
+title:A time-optimal solution to a classification problem in ordered functional domains, with applications. citation:-1
+title:Simple algorithms for some classification problems. citation:-1
+title:Asteroidal Triple-Free Graphs. citation:-1
+title:An Optimal Hardware-Algorithm for Sorting Using a Fixed-Size Parallel Sorting Device. citation:-1
+title:A Linear-Time Recognition Algorithm for P4-Reducible Graphs. citation:-1
+title:All minimal prime extensions of hereditary classes of graphs. citation:-1
+title:Q-Win - A New Admission and Handoff Management Scheme for Multimedia LEO Satellite Networks. citation:-1
+title:Foreword. citation:-1
+title:On the Dynamic Initialization of Parallel Computers. citation:-1
+title:Single-row mapping and transformation of connected graphs. citation:-1
+title:Classifying Matrices Separating Rows and Columns. citation:-1
+title:Time- and VLSI-Optimal Sorting on Enhanced Meshes. citation:-1
+title:Podality-Based Time-Optimal Computations on Enhanced Meshes. citation:-1
+title:Constant-Time Algorithms for Constrained Triangulations on Reconfigurable Meshes. citation:-1
+title:Time-Optimal Domain-Specific Querying on Enhanced Meshes. citation:-1
+title:Optimal Algorithms for the Multiple Query Problem on Reconfigurable Meshes, with Applications. citation:-1
+title:A Simple Parallel Algorithm to Draw Cubic Graphs. citation:-1
+title:An O((log log n)) Time Algorithm to Compute the Convex Hull of Sorted Points on Reconfigurable Meshes. citation:-1
+title:Work-Time Optimal k-Merge Algorithms on the PRAM. citation:-1
+title:An Efficient Parallel Prefix Sums Architecture with Domino Logic. citation:-1
+title:The Mesh with Hybrid Buses: An Efficient Parallel Architecture for Digital Geometry. citation:-1
+title:A Time- and Cost-Optimal Algorithm for Interlocking Sets-With Applications. citation:-1
+title:An Efficient Algorithm for Row Minima Computations on Basic Reconfigurable Meshes. citation:-1
+title:Energy-Efficient Routing in the Broadcast Communication Model. citation:-1
+title:Guest Editors' Introduction to Special Section on Mobile Computing and Wireless Networks. citation:-1
+title:Average Waiting Time Profiles of Uniform Distributed Queue Dual Bus System Model. citation:-1
+title:Efficient VLSI architectures for Columnsort. citation:-1
+title:Media access using dynamic bandwidth system to improve satellite network uplink performance. citation:-1
+title:A unifying look at clustering in mobile ad hoc networks. citation:-1
+title:MUSAQ: a multimedia session-aware QoS provisioning scheme for cellular networks. citation:-1
+title:Protecting the Communication Structure in Sensor Networks. citation:-1
+title:Introduction: Data Communication and Topology Algorithms for Sensor Networks. citation:-1
+title:OSCAR - An Opportunistic Call Admission Protocol for LEO Satellite Networks. citation:-1
+title:Agile Sensor Network Systems. citation:-1
+title:The set of prime extensions of a graph: the finite and the infinite case. citation:-1
+title:Integrating Stability Estimation into Quality of Service Routing in Mobile Ad-hoc Networks. citation:-1
+title:An optimal parallel matching algorithm for cographs. citation:-1
+title:NOTICE: an architecture for traffic incident detection. citation:-1
+title:HexNet: Hexagon-Based Localization Technique For Wireless Sensor Networks. citation:-1
+title:Message from the Workshop Co-Organizers. citation:-1
+title:A Weighted-Dissimilarity-Based Anomaly Detection Method for Mobile Wireless Networks. citation:-1
+title:A probabilistic model of integration. citation:-1
+title:Interval Graph Problems on Reconfigurable Meshes. citation:-1
+title:Asynchronous Corona Training Protocols in Wireless Sensor and Actor Networks. citation:-1
+title:A Lightweight Skeleton Construction Algorithm for Self-Organizing Sensor Networks. citation:-1
+title:Personal Wireless Communications, IFIP-TC6 8th International Conference, PWC 2003, Venice, Italy, September 23-25, 2003, Proceedings citation:-1
+title:Parallel and Distributed Processing, 11 IPPS/SPDP'99 Workshops Held in Conjunction with the 13th International Parallel Processing Symposium and 10th Symposium on Parallel and Distributed Processing, San Juan, Puerto Rico, USA, April 12-16, 1999, Proceedings citation:-1
+title:Proceedings of the First ACM Workshop on Sensor and Actor Networks, SANET 2007, Montréal, Québec, Canada, September 10, 2007 citation:-1
+title:Proceedings of the 1st ACM International Workshop on Heterogeneous Sensor and Actor Networks, HeterSanet 2008, Hong Kong, China, May 30, 2008 citation:-1
+title:Mobile Ad-Hoc and Sensor Networks, Third International Conference, MSN 2007, Beijing, China, December 12-14, 2007, Proceedings citation:-1
+title:Proceedings of the 6th ACM International Workshop on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks, PE-WASUN 2009, Tenerife, Canary Islands, Spain, October 28-29, 2009 citation:-1
+title:A Secure and Privacy Aware Data Dissemination For The Notification of Traffic Incidents. citation:-1
+title:Automatic Incident Detection In VANETs: A Bayesian Approach. citation:-1
+title:Dynamic Adaptation of Joint Transmission Power and Contention Window in VANET. citation:-1
+title:Enhancing Automatic Incident Detection Using Vehicular Communications. citation:-1
+title:A probabilistic routing protocol in VANET. citation:-1
+title:An architecture for traffic incident detection. citation:-1
+title:Acoustic Based 3D Localization and Sea-bed Modeling for Underwater Sensor Networks. citation:-1
+title:Telemedicine for Disaster Relief: A Novel Architecture. citation:-1
+title:On Asynchronous Training in Sensor Networks. citation:-1
+title:The Set of Prime Extensions of a Graph: the Finite and the Infinite Case. citation:-1
+title:A Tolerant Context-Aware Driver Assistance System for VANETs-Based Smart Cars. citation:-1
+title:Towards Autonomous Vehicular Clouds - A Position Paper (Invited Paper). citation:-1
+title:A Probabilistic Routing Protocol in VANET. citation:-1
+title:Data fusion for location integrity in vehicle ad hoc networks. citation:-1
+title:A time-critical information diffusion model in vehicle ad hoc networks. citation:-1
+title:Fine-granularity clustering in wireless sensor networks. citation:-1
+title:A distributed probabilistic arbitration in sensors integration. citation:-1
+title:An Efficient Geographic Location-based Security Mechanism for Vehicular Adhoc Networks. citation:-1
+title:Efficiently Recognizing the -Structure of Trees and of Bipartite Graphs Without Short Cycles. citation:-1
+title:Single-Row Transformation of Complete Graphs. citation:-1
+title:Efficient Location Training Protocols for Heterogeneous Sensor and Actor Networks. citation:-1
+title:Toward Efficient Task Management in Wireless Sensor Networks. citation:-1
+title:Energy-based task load balancing in wireless sensor networks. citation:-1
+title:Challenges and perspectives in the implementation of NOTICE architecture for vehicular communications. citation:-1
+title:Delivering multimedia content in vehicular ad hoc networks. citation:-1
+title:SmartParking: A Secure and Intelligent Parking System. citation:-1
+title:BEES: BioinspirEd backbonE Selection in Wireless Sensor Networks. citation:-1
+title:Towards probabilistic arbitration in sensors integration. citation:-1
+title:Efficient in-network aggregation for wireless sensor networks with fine grain location-based cluster. citation:-1
+title:Towards autonomous vehicular clouds. citation:-1
+title:Cooperation as a service in VANET: Implementation and simulation results. citation:-1
+title:Sink node mobility for ellipsoidal area coverage for efficient data collection in Wireless Sensor Networks. citation:-1
+title:Cooperative Collision Warning through mobility and probability prediction. citation:-1
+title:Cross-layer location verification enhancement in vehicular networks. citation:-1
+title:Computing robot Jacobians on meshes with multiple buses. citation:-1
+title:Datacenter at the Airport: Reasoning about Time-Dependent Parking Lot Occupancy. citation:-1
+title:Toward Adaptive Sleep Schedules for Balancing Energy Consumption in Wireless Sensor Networks. citation:-1
+title:Optimized-Hilbert for Mobility in Wireless Sensor Networks. citation:-1
+title:Friend: A cyber-physical system for traffic flow related information aggregation and dissemination. citation:-1
+title:TDMA cluster-based MAC for VANETs (TC-MAC). citation:-1
+title:Efficient solution of a stochastic SI epidemic system. citation:-1
+title:Towards trustworthy shared networked sensor-actuator systems. citation:-1

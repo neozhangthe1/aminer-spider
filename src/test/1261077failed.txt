@@ -1,0 +1,236 @@
+title:On the Randomness Complexity of Property Testing. citation:-1
+title:Approximating Average Parameters of Graphs. citation:-1
+title:On Approximating the Average Distance Between Points. citation:-1
+title:Concurrent Zero-Knowledge with Timing, Revisited. citation:-1
+title:On Promise Problems: A Survey. citation:-1
+title:On Teaching the Basics of Complexity Theory. citation:-1
+title:On the Theory of Average Case Complexity (abstract). citation:-1
+title:Short PCPs Verifiable in Polylogarithmic Time. citation:-1
+title:Deterministic Amplification of Space-Bounded Probabilistic Algorithms. citation:-1
+title:Computational Indistinguishability: A Sample Hierarchy. citation:-1
+title:Computational Sample Complexity. citation:-1
+title:On Defining Proofs of Knowledge. citation:-1
+title:Stateless Evaluation of Pseudorandom Functions: Security beyond the Birthday Barrier. citation:-1
+title:The Bit Security of Modular Squaring Given Partial Factorization of the Modulos. citation:-1
+title:Honest Verifier vs Dishonest Verifier in Public Coin Zero-Knowledge Proofs. citation:-1
+title:On the Security of Ping-Pong Protocols when Implemented using the RSA. citation:-1
+title:On-Line/Off-Line Digital Schemes. citation:-1
+title:RSA/Rabin Least Significant Bits are 1/2 + 1/(poly(log N)) Secure. citation:-1
+title:A Perfect Zero-Knowledge Proof for a Problem Equivalent to Discrete Logarithm. citation:-1
+title:Sparse Pseudorandom Distributions. citation:-1
+title:Self-Delegation with Controlled Propagation - or - What If You Lose Your Laptop. citation:-1
+title:Can Statistical Zero Knowledge Be Made Non-interactive? or On the Relationship of SZK and NISZK. citation:-1
+title:How to Solve any Protocol Problem - An Efficiency Improvement. citation:-1
+title:Contemplations on Testing Graph Properties. citation:-1
+title:Approximating Average Parameters of Graphs. citation:-1
+title:On the Number of Close-and-Equal Pairs of Bits in a String. citation:-1
+title:On Concurrent Identification Protocols. citation:-1
+title:Simple Constructions of Almost k-Wise Independent Random Variables citation:-1
+title:Free Bits, PCPs and Non-Approximability - Towards Tight Results. citation:-1
+title:Towards a Computational Theory of Statistical Tests (Extended Abstract) citation:-1
+title:Bounds on Tradeoffs between Randomness and Communication Complexity citation:-1
+title:Unbiased Bits from Sources of Weak Randomness and Probabilistic Communication Complexity (Extended Abstract) citation:-1
+title:The Bit Extraction Problem of t-Resilient Functions (Preliminary Version) citation:-1
+title:Private Information Retrieval. citation:-1
+title:Zero-Knowledge. citation:-1
+title:Fault-tolerant Computation in the Full Information Model (Extended Abstract) citation:-1
+title:How to Construct Random Functions (Extended Abstract) citation:-1
+title:On the Implementation of Huge Random Objects. citation:-1
+title:On the Existence of Pseudorandom Generators (Extended Abstract) citation:-1
+title:Interactive Proof Systems: Provers that never Fail and Random Selection (Extended Abstract) citation:-1
+title:Proofs that Yield Nothing But their Validity and a Methodology of Cryptographic Protocol Design (Extended Abstract) citation:-1
+title:A Fair Protocol for Signing Contracts (Extended Abstract). citation:-1
+title:Pseudorandomness. citation:-1
+title:On Interactive Proofs with a Laconic Prover. citation:-1
+title:On Pseudorandomness with respect to Deterministic Observes. citation:-1
+title:Proofs that Release Minimum Knowledge. citation:-1
+title:A Quantitative Approach to Dynamic Networks. citation:-1
+title:On the Time-Complexity of Broadcast in Radio Networks: An Exponential Gap Between Determinism and Randomization. citation:-1
+title:Source to Destination Communication in the Presence of Faults. citation:-1
+title:The Effect of Link Failures on Computations in Asynchronous Rings. citation:-1
+title:On the Complexity of Global Computation in the Presence of Link Failures: The Case of Uni-Directional Faults. citation:-1
+title:A Combinatorial Consistency Lemma with Application to Proving the PCP Theorem. citation:-1
+title:Derandomization That Is Rarely Wrong from Short Advice That Is Typically Good. citation:-1
+title:Improved Derandomization of BPP Using a Hitting Set Generator. citation:-1
+title:Bounds on 2-Query Codeword Testing. citation:-1
+title:Probabilistic Proof Systems - A Survey. citation:-1
+title:On basing one-way functions on NP-hardness. citation:-1
+title:Resettable zero-knowledge (extended abstract). citation:-1
+title:The Random Oracle Methodology, Revisited (Preliminary Version). citation:-1
+title:Concurrent zero-knowledge with timing, revisited. citation:-1
+title:How to Play any Mental Game or A Completeness Theorem for Protocols with Honest Majority citation:-1
+title:Computational complexity and knowledge complexity (extended abstract). citation:-1
+title:On Expected Probabilistic Polynomial-Time Adversaries: A Suggestion for Restricted Definitions and Their Benefits. citation:-1
+title:Electing a Leader in a Ring with Link Failures. citation:-1
+title:An Improved Parallel Algorithm for Integer GCD. citation:-1
+title:On interactive proofs with a laconic prover. citation:-1
+title:Bounds on Tradeoffs Between Randomness and Communication Complexity. citation:-1
+title:Preface to the Special Issue from Random'06. citation:-1
+title:Special Issue On Worst-case Versus Average-case Complexity Editors' Foreword. citation:-1
+title:Cryptography and cryptographic protocols. citation:-1
+title:On the Complexity of Computation in the Presence of Link Failures: The Case of a Ring. citation:-1
+title:On the number of monochromatic close pairs of beads in a rosary. citation:-1
+title:Simplified derandomization of BPP using a hitting set generator. citation:-1
+title:On Pseudorandomness with respect to Deterministic Observers. citation:-1
+title:On Interactive Proofs with a Laconic Prover citation:-1
+title:Concurrent Zero-Knowledge With Timing, Revisited citation:-1
+title:Using the FGLSS-reduction to Prove Inapproximability Results for Minimum Vertex Cover in Hypergraphs. citation:-1
+title:Derandomization that is rarely wrong from short advice that is typically good citation:-1
+title:The GGM Construction does NOT yield Correlation Intractable Function Ensembles. citation:-1
+title:Almost k-wise independence versus k-wise independence citation:-1
+title:On the Security of Modular Exponentiation with Application to the Construction of Pseudorandom Generators citation:-1
+title:Bounds on 2-Query Codeword Testing. citation:-1
+title:On the Implementation of Huge Random Objects citation:-1
+title:On Estimating the Average Degree of a Graph citation:-1
+title:From logarithmic advice to single-bit advice citation:-1
+title:Short Locally Testable Codes and Proofs (Survey) citation:-1
+title:On Promise Problems (a survey in memory of Shimon Even [1935-2004]) citation:-1
+title:Approximating Average Parameters of Graphs. citation:-1
+title:Bravely, Moderately: A Common Theme in Four Recent Results citation:-1
+title:Tiny Families of Functions with Random Properties: A Quality-Size Trade-off for Hashing citation:-1
+title:Computational Complexity and Knowledge Complexity citation:-1
+title:Probabilistic Proof Systems (A Survey) citation:-1
+title:Free Bits, PCP and Non-Approximability - Towards Tight Results citation:-1
+title:On Constructing 1-1 One-Way Functions citation:-1
+title:On Yao's XOR-Lemma citation:-1
+title:Three XOR-Lemmas - An Exposition citation:-1
+title:On the Message Complexity of Interactive Proof Systems citation:-1
+title:On the Circuit Complexity of Perfect Hashing citation:-1
+title:A Combinatorial Consistency Lemma with application to the PCP Theorem citation:-1
+title:The Graph Clustering Problem has a Perfect Zero-Knowledge Proof citation:-1
+title:Computational Indistinguishability - Algorithms vs. Circuits. citation:-1
+title:A Sample of Samplers - A Computational Perspective on Sampling (survey). citation:-1
+title:Computational Sample Complexity citation:-1
+title:Notes on Levin's Theory of Average-Case Complexity. citation:-1
+title:The Graph Clustering Problem has a Perfect Zero-Knowledge Proof citation:-1
+title:Computational Indistinguishability: A Sample Hierarchy citation:-1
+title:Uniform Generation of NP-witnesses using an NP-oracle. citation:-1
+title:Deterministic Amplification of Space Bounded Probabilistic Algorithms. citation:-1
+title:Can Statistical Zero Knowledge be made Non-Interactive? or On the Relationship of SZK and NISZK citation:-1
+title:Interleaved Zero-Knowledge in the Public-Key Model. citation:-1
+title:Hierarchy Theorems for Property Testing. citation:-1
+title:Algorithmic Aspects of Property Testing in the Dense Graphs Model. citation:-1
+title:On Proximity Oblivious Testing. citation:-1
+title:The Tensor Product of Two Good Codes Is Not Necessarily Robustly Testable. citation:-1
+title:On the randomness complexity of property testing. citation:-1
+title:On Expected Probabilistic Polynomial-Time Adversaries -- A suggestion for restricted definitions and their benefits. citation:-1
+title:On Probabilistic versus Deterministic Provers in the Definition of Proofs Of Knowledge. citation:-1
+title:Uniform Generation of NP-Witnesses Using an NP-Oracle. citation:-1
+title:Almost k-wise independence versus k-wise independence. citation:-1
+title:A Note on Computational Indistinguishability. citation:-1
+title:On the Complexity of Interactive Proofs with Bounded Communication. citation:-1
+title:The Best of Both Worlds: Guaranteeing Termination in Fast Randomized Byzantine Agreement Protocols. citation:-1
+title:On Universal Learning Algorithms. citation:-1
+title:The Graph Clustering Problem has a Perfect Zero-Knowledge Interactive Proof. citation:-1
+title:Private Information Retrieval. citation:-1
+title:The Minimum-Length Generator Sequence Problem is NP-Hard. citation:-1
+title:The Random Oracle Hypothesis Is False. citation:-1
+title:Computational Indistinguishability: A Sample Hierarchy. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:A Perfect Zero-Knowledge Proof System for a Problem Equivalent to the Discrete Logarithm. citation:-1
+title:On the Security of Modular Exponentiation with Application to the Construction of Pseudorandom Generators. citation:-1
+title:Simple Construction of Almost k-wise Independent Random Variables. citation:-1
+title:Addendum to "Simple Construction of Almost k-wise Independent Random Variables". citation:-1
+title:Efficient approximation of product distributions. citation:-1
+title:Sparse Pseudorandom Distributions. citation:-1
+title:Tiny families of functions with random properties: A quality-size trade-off for hashing. citation:-1
+title:Approximating average parameters of graphs. citation:-1
+title:Free Bits, PCPs, and Nonapproximability-Towards Tight Results. citation:-1
+title:Computational Sample Complexity. citation:-1
+title:Computational Complexity and Knowledge Complexity. citation:-1
+title:A Combinatorial Consistency Lemma with Application to Proving the PCP Theorem. citation:-1
+title:Computational Indistinguishability: Algorithms vs. Circuits. citation:-1
+title:DES-like functions can generate the alternating group. citation:-1
+title:Correction to 'DES-like functions can generate the alternating group' (Nov 83 863-865). citation:-1
+title:Foundations of Cryptography - A Primer. citation:-1
+title:Probabilistic Proof Systems: A Primer. citation:-1
+title:On proximity oblivious testing. citation:-1
+title:Algorithmic Aspects of Property Testing in the Dense Graphs Model. citation:-1
+title:Hierarchy Theorems for Property Testing. citation:-1
+title:On our duties as scientists. citation:-1
+title:Theory of computing: a scientific perspective (extended abstract). citation:-1
+title:The future of computational complexity theory: part I. citation:-1
+title:A taxonomy of proof systems (part 2). citation:-1
+title:On Testing Computability by Small Width OBDDs. citation:-1
+title:Theoretical Computer Science, Essays in Memory of Shimon Even citation:-1
+title:Erratum for: on basing one-way functions on NP-hardness. citation:-1
+title:On The Randomness Complexity of Property Testing. citation:-1
+title:Finding Cycles and Trees in Sublinear Time citation:-1
+title:On the Implementation of Huge Random Objects. citation:-1
+title:From absolute distinguishability to positive distinguishability. citation:-1
+title:A Candidate Counterexample to the Easy Cylinders Conjecture. citation:-1
+title:A Theory of Goal-Oriented Communication. citation:-1
+title:On Testing Computability by Small Width OBDDs. citation:-1
+title:Introduction to Testing Graph Properties. citation:-1
+title:In a World of P=BPP. citation:-1
+title:Proximity Oblivious Testing and the Role of Invariances. citation:-1
+title:On Expected Probabilistic Polynomial-Time Adversaries: A Suggestion for Restricted Definitions and Their Benefits. citation:-1
+title:Property Testing - Current Research and Surveys [outgrow of a workshop at the Institute for Computer Science (ITCS) at Tsinghua University, January 2010] citation:-1
+title:Hierarchy Theorems for Property Testing. citation:-1
+title:A Brief Introduction to Property Testing. citation:-1
+title:Short Locally Testable Codes and Proofs: A Survey in Two Parts. citation:-1
+title:Algorithmic Aspects of Property Testing in the Dense Graphs Model. citation:-1
+title:The Program of the Mini-Workshop. citation:-1
+title:Introduction to Testing Graph Properties. citation:-1
+title:On the complexity of computational problems regarding distributions (a survey). citation:-1
+title:A theory of goal-oriented communication. citation:-1
+title:Two Comments on Targeted Canonical Derandomizers. citation:-1
+title:Algorithmic Aspects of Property Testing in the Dense Graphs Model. citation:-1
+title:On Proximity-Oblivious Testing. citation:-1
+title:On Expected Probabilistic Polynomial-Time Adversaries - A suggestion for restricted definitions and their benefits. citation:-1
+title:On Probabilistic versus Deterministic Provers in the Definition of Proofs Of Knowledge. citation:-1
+title:On Post-Modern Cryptography. citation:-1
+title:Studies in Complexity and Cryptography. Miscellanea on the Interplay between Randomness and Computation - In Collaboration with Lidor Avigad, Mihir Bellare, Zvika Brakerski, Shafi Goldwasser, Shai Halevi, Tali Kaufman, Leonid Levin, Noam Nisan, Dana Ron, Madhu Sudan, Luca Trevisan, Salil Vadhan, Avi Wigderson, David Zuckerman citation:-1
+title:Basing Non-Interactive Zero-Knowledge on (Enhanced) Trapdoor Permutations: The State of the Art. citation:-1
+title:Finding the Shortest Move-Sequence in the Graph-Generalized 15-Puzzle Is NP-Hard. citation:-1
+title:From Logarithmic Advice to Single-Bit Advice. citation:-1
+title:Notes on Levin's Theory of Average-Case Complexity. citation:-1
+title:Introduction to Testing Graph Properties. citation:-1
+title:Randomness and Computation. citation:-1
+title:Another Motivation for Reducing the Randomness Complexity of Algorithms. citation:-1
+title:On Probabilistic versus Deterministic Provers in the Definition of Proofs of Knowledge. citation:-1
+title:Short Locally Testable Codes and Proofs. citation:-1
+title:On Yao's XOR-Lemma. citation:-1
+title:Using the FGLSS-Reduction to Prove Inapproximability Results for Minimum Vertex Cover in Hypergraphs. citation:-1
+title:Simplified Derandomization of BPP Using a Hitting Set Generator. citation:-1
+title:A Brief Introduction to Property Testing. citation:-1
+title:Three XOR-Lemmas - An Exposition. citation:-1
+title:Proximity Oblivious Testing and the Role of Invariances. citation:-1
+title:Testing Graph Blow-Up. citation:-1
+title:On the Complexity of Computational Problems Regarding Distributions. citation:-1
+title:Contemplations on Testing Graph Properties. citation:-1
+title:Average Case Complexity, Revisited. citation:-1
+title:Another Proof That Í \mathcal{BPP}\subseteq \mathcal{PH} (and More). citation:-1
+title:A Candidate Counterexample to the Easy Cylinders Conjecture. citation:-1
+title:The GGM Construction Does NOT Yield Correlation Intractable Function Ensembles. citation:-1
+title:From Absolute Distinguishability to Positive Distinguishability. citation:-1
+title:Bravely, Moderately: A Common Theme in Four Recent Works. citation:-1
+title:On Constructing 1-1 One-Way Functions. citation:-1
+title:On the Circuit Complexity of Perfect Hashing. citation:-1
+title:On Security Preserving Reductions - Revised Terminology. citation:-1
+title:Proving Computational Ability. citation:-1
+title:In a World of P=BPP. citation:-1
+title:P, NP, and NP-Completeness: The Basics of Complexity Theory. citation:-1
+title:The Foundations of Cryptography - Volume 1, Basic Techniques. citation:-1
+title:Proximity Oblivious Testing and the Role of Invariances. citation:-1
+title:Testing Graph Blow-Up. citation:-1
+title:The GGM Construction does NOT yield Correlation Intractable Function Ensembles. citation:-1
+title:Concurrent Zero-Knowledge With Timing, Revisited. citation:-1
+title:The Power of Verification Queries in Message Authentication and Authenticated Encryption. citation:-1
+title:On the Security of Modular Exponentiation with Application to the Construction of Pseudorandom Generators. citation:-1
+title:On Chosen Ciphertext Security of Multiple Encryptions. citation:-1
+title:On Security Preserving Reductions - Revised Terminology. citation:-1
+title:The tensor product of two good codes is not necessarily robustly testable. citation:-1
+title:Finding Cycles and Trees in Sublinear Time. citation:-1
+title:On the Effect of the Proximity Parameter on Property Testers. citation:-1
+title:Two-Sided Error Proximity Oblivious Testing. citation:-1
+title:Invitation to complexity theory. citation:-1
+title:A theory of goal-oriented communication. citation:-1
+title:Special issue from RANDOM'09: Editors' Foreword. citation:-1
+title:Hierarchy Theorems for Property Testing. citation:-1
+title:On struggle and competition in scientic fields. citation:-1
+title:On the possibilities and limitations of pseudodeterministic algorithms. citation:-1
+title:On intellectual and instrumental values in science. citation:-1
+title:Two-Sided Error Proximity Oblivious Testing - (Extended Abstract). citation:-1
+title:On the possibilities and limitations of pseudodeterministic algorithms. citation:-1

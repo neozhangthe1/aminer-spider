@@ -1,0 +1,119 @@
+title1:Agent-Oriented Software Engineering for Internet Applications. title2:Agent-oriented software engineering for internet applications citation:182 ncitation:172 pid2958
+title1:Learning on opponent's preferences to make effective multi-issue negotiation trade-offs. title2:Learning on opponent's preferences to make effective multi-issue negotiation trade-offs citation:140 ncitation:125 pid5866
+title1:Overlapping Coalition Formation for Efficient Data Fusion in Multi-Sensor Networks. title2:Overlapping coalition formation for efficient data fusion in multi-sensor networks citation:70 ncitation:63 pid12429
+title1:Using Joint Responsibility to Coordinate Collaborative Problem Solving in Dynamic Environments. title2:Using joint responsibility to coordinate collaborative problem solving in dynamic environments citation:64 ncitation:64 pid13315
+title1:Anytime Optimal Coalition Structure Generation. title2:Anytime optimal coalition structure generation citation:60 ncitation:57 pid15973
+title1:A Classification Scheme for Negotiation in Electronic Commerce. title2:A classification scheme for negotiation in electronic commerce citation:241 ncitation:268 pid29515
+title1:Improving the Scalability of Multi-Agent Systems. title2:Improving the scalability of multi-agent systems citation:88 ncitation:78 pid30031
+title1:Pitfalls of Agent-Oriented Development. title2:Pitfalls of agent-oriented development citation:376 ncitation:374 pid30077
+title1:A Methodology for Agent-Oriented Analysis and Design. title2:The Gaia methodology for agent-oriented analysis and design citation:2464 ncitation:7 pid30079
+title1:A Market-Based Recommender System. citation:0 ncitation:8 pid43079
+title1:Market-Based Recommendations: Design, Simulation and Evaluation. title2:Market-based recommendations: Design, simulation and evaluation citation:0 ncitation:20 pid43094
+title1:Architecting for Reuse: A Software Framework for Automated Negotiation. title2:Architecting for reuse: A software framework for automated negotiation citation:75 ncitation:80 pid43312
+title1:Organizational Abstractions for the Analysis and Design of Multi-agent Systems. title2:Organisational abstractions for the analysis and design of multi-agent systems citation:135 ncitation:315 pid43333
+title1:Trust evaluation through relationship analysis. title2:Trust evaluation through relationship analysis citation:69 ncitation:61 pid55316
+title1:Decision procedures for multiple auctions. title2:Decision procedures for multiple auctions citation:124 ncitation:115 pid55503
+title1:Generating Coalition Structures with Finite Bound from the Optimal Guarantees. title2:Generating coalition structures with finite bound from the optimal guarantees citation:136 ncitation:132 pid55710
+title1:Trust-Based Mechanism Design. title2:Trust-based mechanism design citation:72 ncitation:67 pid55728
+title1:Brain Meets Brawn: Why Grid and Agents Need Each Other. title2:Brain meets brawn: Why grid and agents need each other citation:463 ncitation:435 pid55755
+title1:Optimal Negotiation Strategies for Agents with Incomplete Information. title2:Optimal negotiation strategies for agents with incomplete information citation:108 ncitation:100 pid55839
+title1:Multi-issue negotiation under time constraints. title2:Multi-issue negotiation under time constraints citation:139 ncitation:130 pid55841
+title1:Optimal agendas for multi-issue negotiation. title2:Optimal agendas for multi-issue negotiation citation:89 ncitation:83 pid55843
+title1:Optimal Negotiation of Multiple Issues in Incomplete Information Settings. title2:Optimal negotiation of multiple issues in incomplete information settings citation:89 ncitation:82 pid55845
+title1:Designing a successful trading agent for supply chain management. title2:Designing a successful trading agent for supply chain management citation:71 ncitation:64 pid55959
+title1:Certified reputation: how an agent can trust a stranger. title2:Certified reputation: how an agent can trust a stranger citation:93 ncitation:78 pid56020
+title1:Coordinating Multiple Concurrent Negotiations. title2:Coordinating multiple concurrent negotiations citation:71 ncitation:64 pid56386
+title1:A utility-based sensing and communication model for a glacial sensor network. title2:A utility-based sensing and communication model for a glacial sensor network citation:59 ncitation:58 pid56444
+title1:Agent-based virtual organisations for the Grid. title2:Agent-based virtual organisations for the grid citation:78 ncitation:75 pid56484
+title1:Coping with inaccurate reputation sources: experimental analysis of a probabilistic trust model. title2:Coping with inaccurate reputation sources: Experimental analysis of a probabilistic trust model citation:143 ncitation:135 pid56814
+title1:Decentralised coordination of low-power embedded devices using the max-sum algorithm. title2:Decentralised coordination of low-power embedded devices using the max-sum algorithm citation:147 ncitation:122 pid57405
+title1:Learn while you earn: two approaches to learning auction parameters in take-it-or-leave-it auctions. title2:Learn While You Earn: Two Approaches to Learning Auction Parameters in Take-it-or-leave-it Auctions (Short Paper) citation:0 ncitation:1 pid57546
+title1:06461 Executive Summary -- Negotiation and Market Engineering. title2:06461 Executive Summary--Negotiation and Market Engineering. citation:0 ncitation:-1 pid138951
+title1:06461 Abstracts Collection -- Negotiation and Market Engineering. title2:06461 Abstracts Collection--Negotiation and Market Engineering. citation:0 ncitation:-1 pid138961
+title1:Evolving Bidding Strategies for Multiple Auctions. title2:Evolving bidding strategies for multiple auctions citation:57 ncitation:54 pid164353
+title1:Towards a Cooperation Knowledge Level For Collaborative Problem Solving. title2:Towards a cooperation knowledge level for collaborative problem solving citation:85 ncitation:84 pid165271
+title1:FIRE: An Integrated Trust and Reputation Model for Open Multi-Agent Systems. title2:An integrated trust and reputation model for open multi-agent systems citation:427 ncitation:384 pid165341
+title1:Auction Mechanisms for Efficient Advertisement Selection on Public Displays. title2:Auction mechanisms for efficient advertisement selection on public displays citation:57 ncitation:56 pid165806
+title1:An Agent Architecture for Distributed Medical Care. title2:An agent architecture for distributed medical care citation:62 ncitation:64 pid166638
+title1:Agent Theories, Architectures, and Languages: A Survey. title2:Agent theories, architectures, and languages: a survey citation:1507 ncitation:1468 pid166663
+title1:A Utility-Based Sensing and Communication Model for a Glacial Sensor Network. title2:A utility-based sensing and communication model for a glacial sensor network citation:59 ncitation:58 pid191274
+title1:Optimal Strategies for Bidding on Perfect Substitutes in Simultaneous Vickrey Auctions. title2:Optimal Strategies for Bidding on Perfect Substitutes in Simultaneous Vickrey Auctions. citation:0 ncitation:0 pid191297
+title1:Auction Mechanisms for Efficient Advertisement Selection on Public Displays. title2:Auction mechanisms for efficient advertisement selection on public displays citation:57 ncitation:56 pid191327
+title1:Near-Optimal Anytime Coalition Structure Generation. title2:Near-Optimal Anytime Coalition Structure Generation. citation:67 ncitation:61 pid191330
+title1:Forming Fuzzy Coalitions in Cooperative Superadditive Games. title2:Forming Fuzzy Coalitions in Cooperative Superadditive Games citation:0 ncitation:0 pid304830
+title1:Using Similarity Criteria to Make Negotiation Trade-Offs. title2:Using similarity criteria to make negotiation trade-offs citation:125 ncitation:121 pid329088
+title1:Developing Industrial Multi-Agent Systems. title2:Developing Industrial Multi-Agent Systems. citation:110 ncitation:106 pid329194
+title1:Determining Successful Negotiation Strategies: An Evolutionary Approach. title2:Determining successful negotiation strategies: An evolutionary approach citation:188 ncitation:173 pid329227
+title1:Agent-Based Computing. title2:Agent-based computing: Promise and perils citation:198 ncitation:4 pid378995
+title1:Agent-Based Computing: Promise and Perils. title2:Agent-based computing: Promise and perils citation:198 ncitation:189 pid389099
+title1:A heuristic model for concurrent bi-lateral negotiations in incomplete information settings. title2:A heuristic model of concurrent bi-lateral negotiations in incomplete information settings citation:63 ncitation:63 pid389968
+title1:Distributed Patient Scheduling in Hospitals. title2:Distributed patient scheduling in hospitals citation:65 ncitation:61 pid390094
+title1:Near-Optimal Anytime Coalition Structure Generation. title2:Near-Optimal Anytime Coalition Structure Generation. citation:67 ncitation:61 pid391397
+title1:Towards Real-Time Information Processing of Sensor Network Data Using Computationally Efficient Multi-output Gaussian Processes. title2:Towards real-time information processing of sensor network data using computationally efficient multi-output Gaussian processes citation:69 ncitation:66 pid413207
+title1:A Probabilistic Trust Model for Handling Inaccurate Reputation Sources. title2:A probabilistic trust model for handling inaccurate reputation sources citation:114 ncitation:101 pid458231
+title1:Negotiation Technologies. title2:Negotiation technologies citation:0 ncitation:-1 pid477765
+title1:Brain Meets Brawn: Why Grid and Agents Need Each Other. title2:Brain meets brawn: Why grid and agents need each other citation:463 ncitation:435 pid483897
+title1:Towards a Theory of Cooperative Problem Solving. title2:Towards a theory of cooperative problem solving citation:151 ncitation:142 pid488730
+title1:Using Joint Responsibility To Coordinate Cooperative Problem Solving in Dynamic Environments. title2:Using joint responsibility to coordinate collaborative problem solving in dynamic environments citation:64 ncitation:64 pid553350
+title1:Changing Circumstances and Leveled Commitment: A Compensatory Approach to Contracting. title2:Changing Circumstances and Leveled Commitment: A Compensatory Approach to Contracting citation:0 ncitation:0 pid659085
+title1:Overlapping Coalition Formation. title2:Overlapping coalition formation for efficient data fusion in multi-sensor networks citation:70 ncitation:12 pid662670
+title1:Agent-based approach to health care management. title2:Agent-based approach to health care management citation:152 ncitation:142 pid738061
+title1:Introduction to the Special Issue. title2:Introduction to the Special Issue of Group Decision and Negotiation 2002: Theory and Practice of Computational Coordination Mechanisms in Multi-Agent Systems citation:0 ncitation:-1 pid738085
+title1:Implementing a Business Process Management System Using ADEPT: A Real-World Case Study. title2:Implementing a business process management system using ADEPT: A real-world case study citation:98 ncitation:94 pid738087
+title1:Autonomous Agents for Business Process Management. title2:Autonomous agents for business process management citation:417 ncitation:382 pid738089
+title1:Applying agent technology. title2:Applying agent technology citation:206 ncitation:-1 pid738091
+title1:Devising A Trust Model For Multi-Agent Interactions Using Confidence And Reputation. title2:Devising a trust model for multi-agent interactions using confidence and reputation citation:118 ncitation:115 pid738297
+title1:The Dynamic Selection of Coordination Mechanisms. title2:The dynamic selection of coordination mechanisms citation:79 ncitation:75 pid738644
+title1:A Roadmap of Agent Research and Development. title2:A roadmap of agent research and development citation:1 ncitation:2434 pid738691
+title1:TRAVOS: Trust and Reputation in the Context of Inaccurate Information Sources. title2:Travos: Trust and reputation in the context of inaccurate information sources citation:353 ncitation:292 pid738705
+title1:The Gaia Methodology for Agent-Oriented Analysis and Design. title2:The Gaia methodology for agent-oriented analysis and design citation:2464 ncitation:2390 pid738718
+title1:Using similarity criteria to make issue trade-offs in automated negotiations. title2:Using similarity criteria to make issue trade-offs in automated negotiations citation:531 ncitation:491 pid744842
+title1:An agenda-based framework for multi-issue negotiation. title2:An agenda-based framework for multi-issue negotiation citation:347 ncitation:332 pid744844
+title1:On agent-based software engineering. title2:On agent-based software engineering citation:1826 ncitation:1682 pid745153
+title1:Controlling Cooperative Problem Solving in Industrial Multi-Agent Systems Using Joint Intentions. title2:Controlling cooperative problem solving in industrial multi-agent systems using joint intentions citation:675 ncitation:637 pid745154
+title1:A fuzzy constraint based model for bilateral, multi-issue negotiations in semi-competitive environments. title2:A fuzzy constraint based model for bilateral, multi-issue negotiations in semi-competitive environments citation:278 ncitation:267 pid745483
+title1:Bargaining with incomplete information. title2:Bargaining with incomplete information citation:73 ncitation:65 pid751528
+title1:An agent-based approach for building complex software systems. title2:An agent-based approach for building complex software systems citation:1162 ncitation:1081 pid773047
+title1:Social Mental Shaping: Modelling the Impact of Sociality on the Mental States of Autonomous Agents. title2:Social mental shaping: Modelling the impact of sociality on the mental states of autonomous agents citation:62 ncitation:62 pid789119
+title1:Managing commitments in multiple concurrent negotiations. title2:Managing commitments in multiple concurrent negotiations citation:59 ncitation:56 pid862600
+title1:Computational-Mechanism Design: A Call to Arms. title2:Computational-mechanism design: A call to arms citation:292 ncitation:270 pid874644
+title1:Guest Editors' Introduction: Agents and Markets. title2:Guest Editors' Introduction: Agents and Markets (HTML) citation:0 ncitation:-1 pid874789
+title1:Prioritised fuzzy constraint satisfaction problems: axioms, instantiation and validation. title2:Prioritised fuzzy constraint satisfaction problems: axioms, instantiation and validation citation:74 ncitation:62 pid880198
+title1:DESIRE: Modelling Multi-Agent Systems in a Compositional Formal Framework. title2:Desire: Modelling multi-agent systems in a compositional formal framework citation:316 ncitation:311 pid906073
+title1:Agent-Based Business Process Management. title2:Agent-based business process management citation:258 ncitation:247 pid906117
+title1:Acquiring domain knowledge for negotiating agents: a case of study. title2:Acquiring domain knowledge for negotiating agents: a case of study citation:62 ncitation:60 pid912057
+title1:Organisational Rules as an Abstraction for the Analysis and Design of Multi-Agent Systems. title2:Organisational rules as an abstraction for the analysis and design of multi-agent systems citation:246 ncitation:189 pid921009
+title1:Software Engineering with Agents: Pitfalls and Pratfalls. title2:Software engineering with agents: Pitfalls and pratfalls citation:227 ncitation:219 pid929236
+title1:Multi-Issue Negotiation with Deadlines. title2:Multi-issue negotiation with deadlines. citation:96 ncitation:85 pid952391
+title1:Agent Technology: Foundations, Applications and Markets. title2:Agent technology: foundations, applications, and markets citation:796 ncitation:1455 pid958204
+title1:Formalizing Collaborative Decision-making and Practical Reasoning in Multi-agent Systems. citation:104 ncitation:71 pid1007559
+title1:ADEPT: An Agent-Based Approach to Business Process Management. title2:ADEPT: an agent-based approach to business process management citation:103 ncitation:85 pid1065115
+title1:On Agent-Mediated Electronic Commerce. title2:On agent-mediated electronic commerce citation:398 ncitation:359 pid1112923
+title1:A Fuzzy-Logic Based Bidding Strategy for Autonomous Agents in Continuous Double Auctions. title2:A fuzzy-logic based bidding strategy for autonomous agents in continuous double auctions citation:164 ncitation:144 pid1112927
+title1:A market-based approach to recommender systems. title2:A market-based approach to recommender systems citation:60 ncitation:59 pid1120377
+title1:Developing a bidding agent for multiple heterogeneous auctions. title2:Developing a bidding agent for multiple heterogeneous auctions citation:124 ncitation:114 pid1120488
+title1:Southampton TAC: An adaptive autonomous trading agent. title2:SouthamptonTAC: An adaptive autonomous trading agent citation:54 ncitation:52 pid1120560
+title1:Developing multiagent systems: The Gaia methodology. title2:Developing multiagent systems: The Gaia methodology citation:1169 ncitation:1122 pid1124400
+title1:Socially intelligent reasoning for autonomous agents. title2:Socially intelligent reasoning for autonomous agents citation:79 ncitation:78 pid1131214
+title1:Self-organized routing for wireless microsensor networks. title2:Self-organized routing for wireless microsensor networks citation:85 ncitation:73 pid1132017
+title1:Market-Based Task Allocation Mechanisms for Limited-Capacity Suppliers. title2:Market-based task allocation mechanisms for limited-capacity suppliers citation:55 ncitation:43 pid1132717
+title1:Agent-based virtual organisations for the Grid. title2:Agent-based virtual organisations for the grid citation:78 ncitation:75 pid1184065
+title1:Decentralised control of adaptive sampling and routing in wireless visual sensor networks. title2:Decentralised control of adaptive sampling and routing in wireless visual sensor networks citation:0 ncitation:0 pid1205698
+title1:An Anytime Algorithm for Optimal Coalition Structure Generation. title2:An anytime algorithm for optimal coalition structure generation citation:85 ncitation:65 pid1225864
+title1:Decentralized control of adaptive sampling in wireless sensor networks. title2:Decentralized control of adaptive sampling in wireless sensor networks citation:55 ncitation:45 pid1228013
+title1:Decentralised Coordination of Mobile Sensors Using the Max-Sum Algorithm. title2:Decentralised Coordination of Mobile Sensors Using the Max-Sum Algorithm. citation:66 ncitation:59 pid1249525
+title1:Valuing search and communication in partially-observable coordination problems. title2:Valuing search and communication in partially-observable coordination problems citation:0 ncitation:0 pid2782532
+title1:Agent-based micro-storage management for the Smart Grid. title2:Agent-based micro-storage management for the smart grid citation:125 ncitation:84 pid2784560
+title1:The Good, The Bad and The Cautious: Safety Level Cooperative Games. title2:The good, the bad and the cautious: safety level cooperative games citation:0 ncitation:-1 pid2862774
+title1:Decentralized Data and Information Systems: Theory and Practice. title2:Decentralized Data and Information Systems: Theory and Practice citation:0 ncitation:-1 pid2897645
+title1:Multi-Issue Negotiation with Deadlines title2:Multi-issue negotiation with deadlines. citation:96 ncitation:85 pid2897848
+title1:On optimal agendas for package deal negotiation. title2:On optimal agendas for package deal negotiation. citation:1 ncitation:0 pid2952241
+title1:Multi-unit Auctions with a Stochastic Number of Asymmetric Bidders. title2:Multi-unit auctions with a stochastic number of asymmetric bidders citation:0 ncitation:0 pid3240037
+title1:An Anytime Algorithm for Finding the ?-Core in Nontransferable Utility Coalitional Games. citation:0 ncitation:0 pid3250519
+title1:Decentralised channel allocation and information sharing for teams of cooperative agents. title2:Decentralised channel allocation and information sharing for teams of cooperative agents citation:0 ncitation:0 pid3382823
+title1:DCOPs and bandits: exploration and exploitation in decentralised coordination. title2:DCOPs and bandits: exploration and exploitation in decentralised coordination citation:1 ncitation:0 pid3400053
+title1:Efficient Allocation of Agent Groups for Complex Tasks in Real Cost Environments. title2:Efficient Allocation of Agent Groups for Complex Tasks in Real Cost Environments citation:0 ncitation:0 pid3493711
+title1:A heuristic approximation method for the Banzhaf index for voting games. title2:A heuristic approximation method for the Banzhaf index for voting games citation:0 ncitation:None pid3493721
+title1:Near-optimal continuous patrolling with teams of mobile information gathering agents. title2:Near-optimal continuous patrolling with teams of mobile information gathering agents citation:1 ncitation:None pid3529170
+title1:Setting Fees in Competing Double Auction Marketplaces: An Equilibrium Analysis. title2:Setting Fees in Competing Double Auction Marketplaces: An Equilibrium Analysis citation:0 ncitation:None pid3529688
+title1:Trust in multi-agent systems. title2:Trust in multi-agent systems citation:492 ncitation:-1 pid3529791

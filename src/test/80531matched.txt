@@ -1,0 +1,127 @@
+title1:A self-healing key distribution scheme based on vector space secret sharing and one way hash chains. title2:A self-healing key distribution scheme based on vector space secret sharing and one way hash chains citation:18 ncitation:12 pid667152
+title1:Detecting Frauds in Online Advertising Systems. title2:Detecting frauds in online advertising systems citation:2 ncitation:2 pid176027
+title1:An Example of Integrating Legal Case Based Reasoning with Object-Oriented Rule-Based Systems: IKBALS II. title2:An example of integrating legal case based reasoning with object-oriented rule-based systems: IKBALS II citation:28 ncitation:26 pid266604
+title1:XML Profile for Distributed Real Time Systems. title2:XML Profile for distributed real time systems citation:1 ncitation:1 pid444785
+title1:A methodology for risk measurement in e-transactions. title2:A methodology for risk measurement in e-transactions citation:12 ncitation:11 pid832169
+title1:Rule Optimizing Technique Motivated by Human Concept Formation. title2:Rule optimizing technique motivated by human concept formation citation:1 ncitation:-1 pid711921
+title1:Inter-transactional association rules for multi-dimensional contexts for prediction and their application to studying meteorological data. title2:Inter-transactional association rules for multi-dimensional contexts for prediction and their application to studying meteorological data citation:50 ncitation:44 pid845662
+title1:Modeling and Transformation of Object-Oriented Conceptual Models into XML Schema. title2:Modeling and transformation of object-oriented conceptual models into XML schema citation:61 ncitation:56 pid150593
+title1:A Practical Walkthrough of the Ontology Derivation Rules. title2:A practical walkthrough of the ontology derivation rules citation:45 ncitation:46 pid150588
+title1:Applying a mediator architecture employing XML to retailing inventory control. title2:Applying a mediator architecture employing XML to retailing inventory control citation:30 ncitation:29 pid995784
+title1:An XML-Enabled Association Rule Framework. title2:An XML-enabled association rule framework citation:48 ncitation:41 pid149607
+title1:Adaptation Knowledge from the Case Base. title2:Adaptation knowledge from the case base citation:1 ncitation:1 pid60209
+title1:Emergent Semantics Systems. title2:Emergent semantics systems citation:38 ncitation:37 pid365060
+title1:Fuzzy nature of trust and dynamic trust modeling in service oriented environments. title2:Fuzzy nature of trust and dynamic trust modeling in service oriented environments citation:37 ncitation:34 pid713525
+title1:Content Quality Assessment Related Frameworks for Social Media. title2:Content quality assessment related frameworks for social media citation:24 ncitation:17 pid1246068
+title1:The Pudding of Trust. title2:The pudding of trust [intelligent systems] citation:96 ncitation:-1 pid875443
+title1:CACHE: A novel dynamic cache size tuning model working with relative object popularity for fast web information retrieval. title2:CACHE RP: A novel dynamic cache size tuning model working with relative object popularity for fast web information retrieval citation:1 ncitation:-1 pid1112032
+title1:Framework and prototype for a secure XML-based electronic health records system. title2:Framework and prototype for a secure XML-based electronic health records system citation:17 ncitation:17 pid1171248
+title1:Towards an Ontology for Open Source Software Development. title2:Towards an ontology for open source software development citation:17 ncitation:17 pid685896
+title1:A Modern Approach to Total Wellbeing. title2:A Modern Approach to Total Wellbeing citation:2 ncitation:2 pid1264523
+title1:A Distributed Approach to Sub-Ontology Extraction. title2:A distributed approach to sub-ontology extraction citation:60 ncitation:59 pid35083
+title1:Conceptual Design of XML Document Warehouses. title2:Conceptual design of XML document warehouses citation:45 ncitation:37 pid144376
+title1:A survey in indexing and searching XML documents. title2:A survey in indexing and searching XML documents citation:91 ncitation:91 pid956638
+title1:Differentiating Conceptual Modelling from Data Modelling, Knowledge Modelling and Ontology Modelling and a Notation for Ontology Modelling. title2:Differentiating conceptual modelling from data modelling, knowledge modelling and ontology modelling and a notation for ontology modelling citation:14 ncitation:12 pid43875
+title1:Decentralized multi-objective bilevel decision making with fuzzy demands. title2:Decentralized multi-objective bilevel decision making with fuzzy demands citation:36 ncitation:24 pid1004530
+title1:Schemata transformation of object-oriented conceptual models to XML. title2:Schemata transformation of object-oriented conceptual models to XML citation:45 ncitation:42 pid832017
+title1:A Three-Layered XML View Model: A Practical Approach. title2:A Three-Layered XML View Model: A Practical Approach citation:22 ncitation:21 pid183806
+title1:Mobile Web Services Discovery and Invocation Through Auto-Generation of Abstract Multimodal Interface. title2:Mobile web services discovery and invocation through auto-generation of abstract multimodal interface citation:27 ncitation:21 pid457379
+title1:Implementation of Object-Oriented Association Relationships in Relational Databases. title2:Implementation of object-oriented association relationships in relational databases citation:14 ncitation:13 pid372898
+title1:Anonymous Mutual Authentication Protocol for RFID Tag Without Back-End Database. title2:Anonymous mutual authentication protocol for RFID tag without back-end database citation:12 ncitation:11 pid508755
+title1:Checkpointing and Rollback of Wide-area Distributed Applications using Mobile Agents. title2:Checkpointing and rollback of wide-area distributed applications using mobile agents citation:49 ncitation:49 pid408383
+title1:Web of Things as a Framework for Ubiquitous Intelligence and Computing. title2:Web of things as a framework for ubiquitous intelligence and computing citation:28 ncitation:23 pid1256756
+title1:Meta Model Driven Framework for the Integration and Extension of Application Components. title2:Meta model driven framework for the integration and extension of application components citation:1 ncitation:2 pid666355
+title1:Ontologies on the MOVE. title2:Ontologies on the MOVE citation:35 ncitation:35 pid140966
+title1:Convergence of self-organizing neural algorithms. title2:Convergence of self-organizing neural algorithms citation:24 ncitation:22 pid1027543
+title1:Object-oriented modelling of communication protocols for re-use. title2:Object-oriented modelling of communication protocols for re-use citation:1 ncitation:1 pid285149
+title1:Improvements in Supervised BRAINNE: A Method for Symbolic Datamining Using Neural Networks. title2:Improvements in supervised BRAINNE: A method for symbolic datamining using neural networks citation:1 ncitation:1 pid160589
+title1:Applying A Mediator Architecture Emplying XML To Retailing Inventory Control. title2:Applying a mediator architecture employing XML to retailing inventory control citation:30 ncitation:29 pid408443
+title1:A Systematic Design Approach for XML-View Driven Web Document Warehouses. title2:A systematic design approach for XML-View driven web document warehouses citation:10 ncitation:10 pid291702
+title1:Fuzzy trust evaluation and credibility development in multi-agent systems. title2:Fuzzy trust evaluation and credibility development in multi-agent systems citation:80 ncitation:73 pid760537
+title1:Privacy Ontology Support for E-Commerce. title2:Privacy ontology support for e-commerce citation:19 ncitation:15 pid929442
+title1:Software Engineering Sub-Ontology for Specific Software Development. title2:Software engineering sub-ontology for specific software development citation:11 ncitation:11 pid683630
+title1:A semantic network-based design methodology for XML documents. title2:A semantic network-based design methodology for XML documents citation:107 ncitation:104 pid1120084
+title1:Visual Modeling of Behavioral Properties in the LVM for XML Using XSemantic Nets. title2:Visual Modeling of Behavioral Properties in the LVM for XML Using XSemantic Nets citation:1 ncitation:1 pid373047
+title1:The Fuzzy and Dynamic Nature of Trust. title2:The fuzzy and dynamic nature of trust citation:53 ncitation:43 pid630916
+title1:Knowledge with Real-Time Semantics. title2:Knowledge with real-time semantics citation:1 ncitation:1 pid367549
+title1:Development of a Software Engineering Ontology for Multisite Software Development. title2:Development of a software engineering ontology for multisite software development citation:32 ncitation:26 pid1281975
+title1:Heuristic Rule Based Neuro-Fuzzy Approach for Adaptive Buffer Management for Internet-based Computing. title2:Heuristic rule based neuro-fuzzy approach for adaptive buffer management for Internet-based computing citation:1 ncitation:1 pid221586
+title1:Software Engineering Ontologies and Their Implementation. title2:Software Engineering Ontologies and Their Implementation. citation:13 ncitation:15 pid260573
+title1:A methodology for transforming inheritance relationships in an object-oriented conceptual model to relational tables. title2:A methodology for transforming inheritance relationships in an object-oriented conceptual model to relational tables citation:26 ncitation:25 pid924817
+title1:Atomic Use Case: A Concept for Precise Modelling of Object-Oriented Information Systems. title2:Atomic Use Case: A Concept for Precise Modelling of Object-Oriented Information Systems citation:3 ncitation:2 pid521556
+title1:Protein Data Sources Management Using Semantics. title2:Protein data sources management using semantics citation:1 ncitation:2 pid54628
+title1:Ontology-based multi-site software development methodology and tools. title2:Ontology-based multi-site software development methodology and tools citation:34 ncitation:32 pid990897
+title1:Load Balancing to Improve Dependability and Performance for Program Objects in Distributed Real-Time Co-Operation over the Internet. title2:Load balancing to improve dependability and performance for program objects in distributed real-time co-operation over the Internet citation:10 ncitation:10 pid444625
+title1:Trading off between Misclassification, Recognition and Generalization in Data Mining with Continuous Features. title2:Trading off between misclassification, recognition and generalization in data mining with continuous features citation:2 ncitation:2 pid375053
+title1:Ontology Support for Biomedical Information Resources. title2:Ontology support for biomedical information resources citation:2 ncitation:2 pid80922
+title1:Biomedical Data and Applications title2:Biomedical Data and Applications citation:2 ncitation:1 pid1301237
+title1:Protein Ontology Development using OWL. title2:Protein Ontology Development using OWL. citation:35 ncitation:34 pid716360
+title1:Setting optimal intrusion-detection thresholds. title2:Setting optimal intrusion-detection thresholds citation:22 ncitation:22 pid805142
+title1:Software Complexity and Its Impact on Software Reliability. title2:Software complexity and its impact on software reliability citation:65 ncitation:62 pid1128765
+title1:Using single-layered neural networks for the extraction of conjunctive rules and hierarchical classifications. title2:Using single-layered neural networks for the extraction of conjunctive rules and hierarchical classifications citation:19 ncitation:18 pid755257
+title1:Using Fuzzy Linguistic Representations to Provide Explanatory Semantics for Data Warehouses. title2:Using fuzzy linguistic representations to provide explanatory semantics for data warehouses citation:37 ncitation:33 pid1112743
+title1:A methodology to quantify failure for risk-based decision support system in digital business ecosystems. title2:A methodology to quantify failure for risk-based decision support system in digital business ecosystems citation:27 ncitation:25 pid846411
+title1:Protein Ontology Instance Store. title2:Protein ontology instance store citation:1 ncitation:1 pid524965
+title1:Tree model guided candidate generation for mining frequent subtrees from XML documents. title2:Tree model guided candidate generation for mining frequent subtrees from XML documents citation:32 ncitation:30 pid1167792
+title1:Protein Ontology Project in 2007: Looking Backward and Forward. title2:Protein Ontology Project in 2007: Looking Backward and Forward citation:1 ncitation:1 pid80849
+title1:A Novel Adaptive Fuzzy Logic Controller (A-FLC) to Reduce Retransmission and Service Roundtrip Time for Logical TCP Channels over the Internet. title2:A novel Adaptive Fuzzy Logic Controller (A-FLC) to reduce retransmission and service roundtrip time for logical TCP channels over the Internet citation:1 ncitation:2 pid190842
+title1:Extended Activity Diagrams for Adaptive Workflow Modelling. title2:Extended activity diagrams for adaptive workflow modelling citation:17 ncitation:17 pid444295
+title1:Reference Architectural Styles for Service-Oriented Computing. title2:Reference architectural styles for service-oriented computing citation:31 ncitation:27 pid520013
+title1:CACHE: A Novel Dynamic Cache Size Tuning Model Working with Relative Object Popularity for Fast Web Information Retrieval. title2:CACHE RP: A novel dynamic cache size tuning model working with relative object popularity for fast web information retrieval citation:1 ncitation:-1 pid445292
+title1:MRT: A tool developed for predicting the mean message response time of communication channels in sizeable networks exemplified by the Internet. title2:M< sup> 2</sup> RT: A tool developed for predicting the mean message response time of communication channels in sizeable networks exemplified by the Internet citation:21 ncitation:20 pid795784
+title1:A Fuzzy Inference Model for Risk based Informed Decision-Making in e-Business. title2:A Fuzzy Inference Model for Risk based Informed Decision-Making in e-Business citation:2 ncitation:2 pid1311551
+title1:Performance analysis of common bus multimicroprocessor systems. title2:Performance analysis of common bus multimicroprocessor systems citation:1 ncitation:1 pid996288
+title1:Visual Modeling of Ontology Views for e-Sciences Using XSemantic Nets. title2:Visual Modeling of Ontology Views for e-Sciences Using XSemantic Nets citation:1 ncitation:1 pid80817
+title1:An Adaptive Buffer Management Algorithm for Enhancing Dependability and Performance in Mobile-Object-Based Real-Time Computing . title2:An adaptive buffer management algorithm for enhancing dependability and performance in mobile-object-based real-time computing citation:19 ncitation:19 pid444391
+title1:A Usability-Evaluation Metric Based on a Soft-Computing Approach. title2:A usability-evaluation metric based on a soft-computing approach citation:18 ncitation:14 pid1130777
+title1:An XML-enabled data mining query language: XML-DMQL. title2:An XML-enabled data mining query language: XML-DMQL citation:12 ncitation:11 pid904458
+title1:A Fault-Tolerant Data Communication Setup to Improve Reliability and Performance for Internet Based Distributed Applications. title2:A fault-tolerant data communication setup to improve reliability and performance for Internet based distributed applications citation:27 ncitation:27 pid551036
+title1:Ontology-Based Software Engineering- Software Engineering 2.0. title2:Ontology-based software engineering-software engineering 2.0 citation:15 ncitation:13 pid54881
+title1:Human-Like Rule Optimization for Continuous Domains. title2:Human-like rule optimization for continuous domains citation:1 ncitation:1 pid1216107
+title1:Effective Pruning Strategies for Sequential Pattern Mining. title2:Effective pruning strategies for sequential pattern mining citation:1 ncitation:1 pid713165
+title1:Reconfigurable Web service integration in the extended logistics enterprise. title2:Reconfigurable web service integration in the extended logistics enterprise citation:16 ncitation:15 pid1187372
+title1:A Framework for a Trusted Environment for Virtual Collaboration. title2:A framework for a trusted environment for virtual collaboration citation:1 ncitation:2 pid651932
+title1:An Application of Neural Network and Rule-Based System for Network Management: Application Level Problems. title2:An application of neural network and rule-based system for network management: application level problems citation:14 ncitation:14 pid247049
+title1:XML Views: Part 1. title2:XML views: Part 1 citation:28 ncitation:27 pid150273
+title1:IMB3-Miner: Mining Induced/Embedded Subtrees by Constraining the Level of Embedding. title2:IMB3-Miner: Mining Induced/Embedded subtrees by constraining the level of embedding citation:63 ncitation:64 pid527139
+title1:Protein Ontology: Vocabulary for Protein Data. title2:Protein ontology: vocabulary for protein data citation:33 ncitation:31 pid679663
+title1:An Algebraic Theory of Object-Oriented Systems. title2:An algebraic theory of object-oriented systems citation:17 ncitation:18 pid1113150
+title1:A vision-application adaptable computer concept and its implementation in FreeTIV computer. title2:A vision-application adaptable computer concept and its implementation in FreeTIV computer citation:1 ncitation:1 pid1035453
+title1:Conceptual and Systematic Design Approach for XML Document Warehouses. title2:Conceptual and systematic design approach for XML document warehouses citation:42 ncitation:40 pid1231648
+title1:Integration of Protein Data Sources Through PO. title2:Integration of protein data sources through PO citation:13 ncitation:14 pid150342
+title1:Performance evaluation of the object-relational transformation methodology. title2:Performance evaluation of the object-relational transformation methodology citation:21 ncitation:21 pid846041
+title1:UNI3 - efficient algorithm for mining unordered induced subtrees using TMG candidate generation. title2:Uni3-efficient algorithm for mining unordered induced subtrees using tmg candidate generation citation:22 ncitation:22 pid694202
+title1:Mining Interesting XML-Enabled Association Rules with Templates. title2:Mining interesting XML-enabled association rules with templates citation:24 ncitation:21 pid473851
+title1:Conceptual Design of an XML FACT Repository for Dispersed XML Document Warehouses and XML Marts. title2:Conceptual design of an XML FACT repository for dispersed XML document warehouses and XML marts citation:14 ncitation:12 pid8497
+title1:A Layered View Model for XML Repositories and XML Data Warehouses. title2:A layered view model for XML repositories and XML data warehouses citation:16 ncitation:17 pid8501
+title1:Applying FLC-based dynamic buffer size tuning to shorten the information retrieval round trip time in mobile location-aware environments. title2:Applying FLC-based dynamic buffer size tuning to shorten the information retrieval round trip time in mobile location-aware environments citation:1 ncitation:1 pid1047500
+title1:M3RT: An Internet End-to-End Performance Measurement Approach for Real-time Applications with Mobile Agents. title2:M< sup> 3</sup> RT: an Internet end-to-end performance measurement approach for real-time applications with mobile agents citation:14 ncitation:14 pid446056
+title1:Determining the Net Financial Risk for Decision Making in Business Interactions. title2:Determining the Net Financial Risk for Decision Making in Business Interactions citation:1 ncitation:2 pid1237358
+title1:Further improvements in the generalization capability of the BRAINNE technique for extracting symbolic knowledge from neural networks. title2:Further improvements in the generalization capability of the BRAINNE technique for extracting symbolic knowledge from neural networks citation:1 ncitation:1 pid476461
+title1:Verification Results for ISO FTAM Basic Protocol. title2:Verification results for ISO FTAM basic protocol citation:13 ncitation:12 pid555134
+title1:Tree Mining Application to Matching of Heterogeneous Knowledge Representations. title2:Tree Mining Application to Matching of Heterogeneous Knowledge Representations citation:1 ncitation:1 pid687108
+title1:A Process State-Transition Analysis and Its Application to Intrusion Detection. title2:A process state-transition analysis and its application to intrusion detection citation:24 ncitation:23 pid24263
+title1:Timed Places Petri Nets with Stochastic Representation of Place Time. title2:Timed places Petri nets with stochastic representation of place time citation:26 ncitation:25 pid543498
+title1:Ontological Foundation for Protein Data Models. title2:Ontological foundation for protein data models citation:16 ncitation:17 pid524249
+title1:Application of Tree Mining to Matching of Knowledge Structures of Decision Tree Type. title2:Application of tree mining to matching of knowledge structures of decision tree type citation:1 ncitation:1 pid525078
+title1:Mining Substructures in Protein Data. title2:Mining substructures in protein data citation:16 ncitation:16 pid303273
+title1:Systematic Construction of Functional Abstractions of Petri Net Models of Typical Components of Flexible Manufacturing Systems. title2:Systematic construction of functional abstractions of Petri net models of typical components of flexible manufacturing systems citation:12 ncitation:11 pid543514
+title1:Conceptual Design of an XML-View Driven, Global XML FACT Repository for XML Document Warehouses. title2:Conceptual design of an XML-view driven, Global XML FACT repository for XML document warehouses citation:1 ncitation:2 pid152094
+title1:Determining the Loss of Investment Probability for Risk based Decision Support System. title2:Determining the loss of investment probability for risk based decision support system citation:1 ncitation:1 pid4785
+title1:XML Schema-Based Discovery and Invocation of Mobile Services. title2:XML schema-based discovery and invocation of mobile services citation:14 ncitation:11 pid178443
+title1:The concept of web event and a practical model-driven approach to web information system development. title2:The concept of web event and a practical model-driven approach to web information system development citation:1 ncitation:1 pid922154
+title1:Building a Fuzzy Trust Network in Unsupervised Multi-agent Environments. title2:Building a fuzzy trust network in unsupervised multi-agent environments citation:20 ncitation:16 pid524223
+title1:An XML Document Warehouse Model. title2:An XML document warehouse model citation:15 ncitation:15 pid140769
+title1:Use and Modeling of Multi-agent Systems in Medicine. title2:Use and Modeling of Multi-agent Systems in Medicine citation:1 ncitation:1 pid1305509
+title1:Cloud Computing: Issues and Challenges. title2:Cloud computing: Issues and challenges citation:212 ncitation:155 pid2775536
+title1:Delta-equalities of Complex Fuzzy Relations. title2:Delta-equalities of Complex Fuzzy Relations citation:1 ncitation:0 pid2775622
+title1:A Statistical Interestingness Measures for XML Based Association Rules. title2:A statistical interestingness measures for XML based association rules citation:1 ncitation:0 pid2811148
+title1:A Survey of RFID Authentication Protocols Based on Hash-Chain Method title2:A survey of RFID authentication protocols based on hash-chain method citation:25 ncitation:19 pid2856435
+title1:A mutual-healing key distribution scheme in wireless sensor networks. title2:A mutual-healing key distribution scheme in wireless sensor networks citation:14 ncitation:10 pid2933235
+title1:SLA-Based Trust Model for Cloud Computing. title2:Sla-based trust model for cloud computing citation:26 ncitation:17 pid2953720
+title1:Web-of-things framework for cyber-physical systems. citation:28 ncitation:19 pid3063497
+title1:Interestingness measures for association rules based on statistical validity. title2:Interestingness measures for association rules based on statistical validity citation:17 ncitation:4 pid3074435
+title1:Ontology-Based Multi-Agent Systems title2:Ontology-based multi-agent systems citation:18 ncitation:15 pid3169892
+title1:A Survey on SLA and Performance Measurement in Cloud Computing. title2:A survey on SLA and performance measurement in cloud computing citation:1 ncitation:1 pid3183692
+title1:Service Level Agreement for Distributed Services: A Review. title2:Service Level Agreement for Distributed Services: A Review citation:2 ncitation:1 pid3273220
+title1:Trust based decision making approach for protein ontology. title2:Trust based decision making approach for protein ontology citation:1 ncitation:1 pid3604394

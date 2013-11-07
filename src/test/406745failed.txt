@@ -1,0 +1,398 @@
+title:Access Control of Global Distributed Storage System. citation:-1
+title:ALTER: Adaptive Failure Detection Services for Grids. citation:-1
+title:VO-Sec: An Access Control Framework for Dynamic Virtual Organization. citation:-1
+title:MIGP: Medical Image Grid Platform Based on HL7 Grid Middleware. citation:-1
+title:IMAC: an importance-level based adaptive CPU scheduling scheme for multimedia and non-real time applications. citation:-1
+title:TCPBridge: A software approach to establish direct communications for NAT hosts. citation:-1
+title:A Flexible and Extensible Framework for Web Image Retrieval System. citation:-1
+title:SemreX: a Semantic Peer-to-Peer Scientific References Sharing System. citation:-1
+title:Server Scheduling Scheme for Asynchronous Cluster Video Server. citation:-1
+title:Peer-Tree: A Hybrid Peer-to-Peer Overlay for Service Discovery. citation:-1
+title:Ontology Based Grid Information Interoperation. citation:-1
+title:Global System Image Architecture for Cluster Computing. citation:-1
+title:JFreeSim: A Grid Simulation Tool Based on MTMSMR Model. citation:-1
+title:Q-GSM: QoS Oriented Grid Service Management. citation:-1
+title:A Flexible Job Scheduling System for Heterogeneous Grids. citation:-1
+title:Early Experience in QoS-Based Service Grid Architecture. citation:-1
+title:xDFT: An Extensible Dynamic Fault Tolerance Model for Cooperative System. citation:-1
+title:Building a Semantic P2P Scientific References Sharing System with JXTA. citation:-1
+title:Distributed Checkpointing on Clusters with Dynamic Striping and Staggering. citation:-1
+title:A Workload Balancing Based Approach to Discourage Free Riding in Peer-to-Peer Network. citation:-1
+title:An Approach for Service Discovery Based on Semantic Peer-to-Peer. citation:-1
+title:Modeling Modern Social-Network-Based Epidemics: A Case Study of Rose. citation:-1
+title:A Digital Signature Mechanism and Authentication Scheme for Group Communication in Grid. citation:-1
+title:TOBAB: A Trend-Oriented Bandwidth Adaptive Buffering in Peer-to-Peer Streaming System. citation:-1
+title:Agents in ChinaGrid Support Platform. citation:-1
+title:Scalable dht-based information service for large-scale grids. citation:-1
+title:Eidolon: Real-Time Performance Evaluation Approach for Distributed Programs Based on Capacity of Communication Links. citation:-1
+title:Ontology-based Semantic Integration Scheme for Medical Image Grid. citation:-1
+title:A Composite-Service Authorization Prediction Platform for Grid Environment. citation:-1
+title:A Scalable Service Scheme for Secure Group Communication in Grid. citation:-1
+title:Cluster Architecture with Lightweighted Redundant TCP Stacks. citation:-1
+title:An Approach to Grid Scheduling Optimization Based on Fuzzy Association Rule Mining. citation:-1
+title:An Agent-based Framework for Service Level Agreement Management. citation:-1
+title:Lightweight Real-Time Network Communication Protocol for Commodity Cluster Systems. citation:-1
+title:Lightweight Messages: True Zero-Copy Communication for Commodity Gigabit Ethernet. citation:-1
+title:A Combination Scheme to Improve TCP Throughput over Multihops Wireless Mobile Ad Hoc Networks. citation:-1
+title:ServiceFlow: QoS Based Service Composition in CGSP. citation:-1
+title:Optimal Scheduling of Aperiodic Jobs on Cluster. citation:-1
+title:A Scene-Based Bandwidth Allocation Scheme for Transferring VBR-Encoded Videos. citation:-1
+title:Owl: A New Multimedia Data Splitting Scheme for Cluster Video Server. citation:-1
+title:Lemming: A Novel Resource Lookup Scheme for Peer-to-Peer Networks. citation:-1
+title:A Novel VO-Based Access Control Model for Grid. citation:-1
+title:Peer-Owl: An Adaptive Data Dissemination Scheme for Peer-to-Peer Streaming Services. citation:-1
+title:IPGE: Image Processing Grid Environment Using Components and Workflow Techniques. citation:-1
+title:HH-MDS: A QoS-Aware Domain Divided Information Service. citation:-1
+title:FDSSS: An Efficient Metadata Management Scheme in Large Scale Data Environment. citation:-1
+title:Reliability Analysis for Grid Computing. citation:-1
+title:A Composite-Event-Based Message-Oriented Middleware. citation:-1
+title:A Suggested Framework for Exploring Contextual Information to Evaluate and Recommend Services. citation:-1
+title:Semantic Metadata Models in References Sharing and Retrieval System SemreX. citation:-1
+title:TCMM: Hybrid Overlay Strategy for P2P Live Streaming Services. citation:-1
+title:ADVE: Adaptive and Dependable Virtual Environments for Grid Computing. citation:-1
+title:Middleware Based High Performance and High Available Database Cluster. citation:-1
+title:A Data Transfer Scheme of Grid Workflow Based on Weighted Directed Graph. citation:-1
+title:Negotiated Coscheduling in a P2P Based HPC Platform. citation:-1
+title:OCTOPUS: A Hybrid Scheduling Strategy for P2P VoD Services. citation:-1
+title:Reliable Cluster Computing with a New Checkpointing RAID-x Architecture. citation:-1
+title:Towards Collaborative Service Level Agreement Negotiation. citation:-1
+title:A Community-Based Trust Model for P2P Networks. citation:-1
+title:Efficient Immunization Algorithm for Peer-to-Peer Networks. citation:-1
+title:Scheduling Strategy of P2P Based High Performance Computing Platform Base on Session Time Prediction. citation:-1
+title:PGWFT: A Petri Net Based Grid Workflow Verification and Optimization Toolkit. citation:-1
+title:DAGMap: Efficient scheduling for DAG grid workflow job. citation:-1
+title:Content and semantic context based image retrieval for medical image grid. citation:-1
+title:Dynasa: adapting grid applications to safety using fault-tolerant methods. citation:-1
+title:Analyzing Software Component Graphs of Grid Middleware: Hint to Performance Improvement. citation:-1
+title:2-Layered Metadata Service Model in Grid Environment. citation:-1
+title:ChinaV: Building Virtualized Computing System. citation:-1
+title:A Dynamically Grouped Multi-multicast Stream Scheduling Strategy for Video-on-Demand Systems. citation:-1
+title:Constructing a P2P-Based High Performance Computing Platform. citation:-1
+title:Efficient Immunization Algorithm for Peer-to-Peer Networks. citation:-1
+title:A Layered-Rings Overlay Network for On-demand Media Streaming Service and Its Performance Analysis. citation:-1
+title:Service Dependency Model for Dynamic and Stateful Grid Services. citation:-1
+title:Data Interoperation Between ChinaGrid and SRB. citation:-1
+title:Symmetrical Declustering: A Load Balancing and Fault Tolerant Strategy for Clustered Video Servers. citation:-1
+title:Adaptive Interval-Based Caching Management Scheme for Cluster Video Server. citation:-1
+title:A Scalable Streaming Proxy Server Based on Cluster Architecture. citation:-1
+title:Two-Dimensional Priority Scheduling Scheme for Open Real-Time Systems. citation:-1
+title:DGSS: A Dependability Guided Job Scheduling System for Grid Environment. citation:-1
+title:Network-Based Anomaly Detection Using an Elman Network. citation:-1
+title:Replica Based Distributed Metadata Management in Grid Environment. citation:-1
+title:Grid Information Service Based on Network Hops. citation:-1
+title:A Compound Intrusion Detection Model. citation:-1
+title:A Hidden Credential Based Oblivious Automated Trust Negotiation Model. citation:-1
+title:SemreX: Towards Large-Scale Literature Information Retrieval and Browsing with Semantic Association. citation:-1
+title:A Novel Cache Scheme for Cluster-Based Streaming Proxy Server. citation:-1
+title:QoS Oriented Dynamic Replica Cost Model for P2P Computing. citation:-1
+title:Dependency-aware Maintenance for Dynamic Grid Services. citation:-1
+title:A Mobile-Agent based Distributed Dynamic [mu]Firewall Architecture. citation:-1
+title:A Novel Dynamic Allocation and Scheduling Scheme with CPNA and FCF Algorithms in Distributed Real-time Systems. citation:-1
+title:IOStreaming: Intersecting-Overlays Based Live-Streaming Services. citation:-1
+title:Using Implicit Relevane Feedback to Advance Web Image Search. citation:-1
+title:SHAK: Eliminating Faked Three-way Handshaking in Socket Handoff. citation:-1
+title:Athena: A Real-time Performance Evaluation for Distributed Software with Reliability Constraints. citation:-1
+title:Aeneas: Real-Time Performance Evaluation Approach for Distributed Programs with Reliability-Constrains. citation:-1
+title:GTapestry: A Locality-Aware Overlay Network for High Performance Computing. citation:-1
+title:Disk I/O mixed scheduling strategy for VoD servers. citation:-1
+title:Keynote Address: Grid Computing and ChinaGrid Project. citation:-1
+title:Optimal Dispatching and Scheduling for Both Periodic and Aperiodic Jobs in Cluster. citation:-1
+title:Layered shape matching and registration: Stochastic sampling with hierarchical graph representation. citation:-1
+title:An Open Distributed Real-time Environment Based on Variable Utilization Server. citation:-1
+title:Peer-to-Peer Computing: From Applications to Platform. citation:-1
+title:Tree-like Hierarchical Model for Distributed Micro-Security System. citation:-1
+title:A Novel Dynamic Immunization Strategy for Computer Network Epidemics. citation:-1
+title:Single I/O Space for Scalable Cluster Computing. citation:-1
+title:Layer 4 Fault Tolerance: Reliability Techniques for Cluster System in Internet Services. citation:-1
+title:Uinta: A P2P Routing Algorithm Based on the User's Interest and the Network Topology. citation:-1
+title:A Novel Authorization Mechanism for Service-Oriented Virtual Organization. citation:-1
+title:Dual-Level Traffic Smoothing Technique over Switched Ethernet for Hard Real-Time Communication. citation:-1
+title:Grouped RAID Accesses to Reduce False Sharing Effect in Clusters with Single I/O Space. citation:-1
+title:Congestion Targeted Reduction of Quality of Service DDoS Attacking and Defense Scheme in Mobile Ad Hoc Networks. citation:-1
+title:A Hybrid Scheduling Scheme for Hard, Soft and Non-Real-time Tasks. citation:-1
+title:Honeycomb: A Peer-to-Peer Substrate for On-Demand Media Streaming Service. citation:-1
+title:Uniform Authorization Management in ChinaGrid Support Platform. citation:-1
+title:ER-TCP: An Efficient Fault-Tolerance Scheme for TCP Connections. citation:-1
+title:A Data Storage Mechanism for P2P VoD Based on Multi-channel Overlay. citation:-1
+title:Adaptive Query-Caching in Peer-to-Peer Systems. citation:-1
+title:Design and Deployment of Locality-Aware Overlay Multicast Protocol for Live Streaming Services. citation:-1
+title:TCP-ABC: From Multiple TCP Connections to Atomic Broadcasting. citation:-1
+title:Using Classification Techniques to Improve Replica Selection in Data Grid. citation:-1
+title:HRS: A Hybrid Replication Strategy for Exhaustive P2P Search. citation:-1
+title:SW-Uinta: A Small-World P2P Overlay Network. citation:-1
+title:A Scalable Video Server Using Intelligent Network Attached Storage. citation:-1
+title:Optimal Resource Allocation with Mixed Use of M/M/1/K and /M/M/m/K Queueing Systems in Video-on-Demand Systems. citation:-1
+title:CBBS: A Content-Based Bandwidth Smoothing Scheme for Clustered Video Servers. citation:-1
+title:Modeling and Simulation of Grid Information Service. citation:-1
+title:Improving Search in Peer-to-Peer Literature Sharing Systems via Semantic Small World. citation:-1
+title:A Recursion Nearness Based Method for Characterizing IP Address. citation:-1
+title:Workflow-based Remote-Sensing Image Processing Application in ImageGrid. citation:-1
+title:False Sharing Problems in Cluster-Based Disk Arrays. citation:-1
+title:Cluster Computing Workshop - Preface/Introduction. citation:-1
+title:Performance Effect Analysis of False Sharing Problem in Clusters with Single I/O Space. citation:-1
+title:Efficient Time Series Data Classification and Compression in Distributed Monitoring. citation:-1
+title:Data Management Services in ChinaGrid for Data Mining Applications. citation:-1
+title:Glosim: Global System Image for Cluster Computing. citation:-1
+title:TRES-CORE: Content-Based Retrieval Based on the Balanced Tree in Peer to Peer Systems. citation:-1
+title:Clusters-Based Distributed Streaming Services with Fault-Tolerant Schemes. citation:-1
+title:RT-Grid: A QoS Oriented Service Grid Framework. citation:-1
+title:A Scalable Parallel Video Server Based on Autonomous Network-attached Storage. citation:-1
+title:Unifying Keywords and Visual Features Within One-Step Search for Web Image Retrieval. citation:-1
+title:Dynamic Access Control Prediction for Ordered Service Sequence in Grid Environment. citation:-1
+title:A Virtual-Service-Domain Based Bidding Algorithm for Resource Discovery in Computational Grid. citation:-1
+title:UCIPE: Ubiquitous Context-Based Image Processing Engine for Medical Image Grid. citation:-1
+title:FreeSpeech: A Novel Wireless Approach for Conference Projecting and Cooperating. citation:-1
+title:An Ontology-Based Host Resources Monitoring Approach in Grid Environment. citation:-1
+title:OnRipple: A Distributed Overlay Framework for Targeted Immunization in Large-Scale Networks. citation:-1
+title:Information Value Evaluation Model for ILM. citation:-1
+title:High-Speed Data Channel in the Disk Array System. citation:-1
+title:ALTER: first step towards dependable grids. citation:-1
+title:Honeynet based distributed adaptive network forensics and active real time investigation. citation:-1
+title:Parallel sequence alignment in a P2P-based high performance computing platform. citation:-1
+title:An approach for indexing, storing and retrieving domain knowledge. citation:-1
+title:ChinaGrid: One Step forward to Services Computing. citation:-1
+title:VMFence: a customized intrusion prevention system in distributed virtual computing environment. citation:-1
+title:Heterogeneous Medical Data Share and Integration on Grid. citation:-1
+title:A RT0-Based Compliance Checker Model for Automated Trust Negotiation. citation:-1
+title:Grid workflow scheduling based on reliability cost. citation:-1
+title:Anysee2: an auto load balance P2P live streaming system with hybrid architecture. citation:-1
+title:A Semantic Double-Buffer Based Approach to Enhance Semantic Web Search. citation:-1
+title:PKTown: A Peer-to-Peer Middleware to Support Multiplayer Online Games. citation:-1
+title:Optimized Implementation of Ray Tracing on Cell Broadband Engine. citation:-1
+title:ChinaGrid and its impact to science and education in China. citation:-1
+title:Cluster computing. citation:-1
+title:Book Review: Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers. citation:-1
+title:Special Issue: Grid and Cooperative Computing (GCC2004). citation:-1
+title:Optimal striping in RAID architecture. citation:-1
+title:Aeneas: real-time performance evaluation approach for distributed programs with reliability-constrains. citation:-1
+title:Preface. citation:-1
+title:Two-Level Parallel Implementation of FDTD Algorithm on CBE. citation:-1
+title:VSCBenchmark: benchmark for dynamic server performance of virtualization technology. citation:-1
+title:A Prioritized Chinese Wall Model for Managing the Covert Information Flows in Virtual Machine Systems. citation:-1
+title:Grid Security Interoperation between CGSP and VEGA. citation:-1
+title:ER-TCP: an efficient TCP fault-tolerance scheme for cluster computing. citation:-1
+title:A Real-Time Performance Evaluation Model for Distributed Software with Reliability Constrains. citation:-1
+title:Combining weights with fuzziness for intelligent semantic web search. citation:-1
+title:A new distributed storage scheme for cluster video server. citation:-1
+title:Facilitating Service Discovery with Semantic Overlay. citation:-1
+title:Special issue on scalable web services and architecture. citation:-1
+title:Provisioning for Dynamic Instantiation of Community Services. citation:-1
+title:ServiceTrust: Supporting Reputation-Oriented Service Selection. citation:-1
+title:A Novel Virtual Grid Experiment Method in MedImGrid. citation:-1
+title:Practical and effective IR-style keyword search over semantic web. citation:-1
+title:A modeling framework of content pollution in Peer-to-Peer video streaming systems. citation:-1
+title:SASL: A Semantic Annotation System for Literature. citation:-1
+title:CRBAC: Imposing multi-grained constraints on the RBAC model in the multi-application environment. citation:-1
+title:The Theory of Triangle Type-2 Fuzzy Sets. citation:-1
+title:A Novel Approach to Hide Credentials. citation:-1
+title:Preface. citation:-1
+title:Congestion-Based RoQ DDoS Attacking and Defense Scheme in Mobile Ad Hoc Networks. citation:-1
+title:Data management services and transfer scheme in ChinaGrid. citation:-1
+title:Measurements of topological characteristics for Peer-to-Peer systems. citation:-1
+title:Service organisation and information consistency for service grid. citation:-1
+title:Session Management for Collaborative Applications in Interactive Grid. citation:-1
+title:A Grid Scheduling Optimization Strategy Based on Fuzzy Multi-Attribute Group Decision-Making. citation:-1
+title:The Design and Evaluation of a Selective Way Based Trace Cache. citation:-1
+title:A New Proxy Scheme for Large-Scale P2P VoD System. citation:-1
+title:LAOVM: Lightweight Application-Oriented Virtual Machine for Thread Migration. citation:-1
+title:Aeolus: Reconcilable Key Management Mechanism for Secure Group Communication in Grid. citation:-1
+title:Service Guarantee for Inter-domain Movement in Wireless Peer-to-Peer Live Streaming System. citation:-1
+title:Effectively Deploying Virtual Machines on Cluster. citation:-1
+title:WAGA: A Flexible Web-Based Framework for Grid Applications. citation:-1
+title:A bipartite model for load balancing in grid computing environments. citation:-1
+title:BloomCast: Efficient Full-Text Retrieval over Unstructured P2Ps with Guaranteed Recall. citation:-1
+title:An EMAIL Based Automated Trust Negotiation Model. citation:-1
+title:Trajectory parsing by cluster sampling in spatio-temporal graph. citation:-1
+title:Hybrid Buffering Scheme for P2P Based VoD System. citation:-1
+title:Pulmonary Disease Census Aiding System Based on Medical Image Grid. citation:-1
+title:Multiple-Access Channel Model for P2P Networks. citation:-1
+title:Worm Containment in Peer-to-Peer Networks. citation:-1
+title:VolunteerLive: Introducing Volunteer Nodes into P2P Live Streaming. citation:-1
+title:A Novel Clustering Algorithm for Mining Speech Data Using Baysian Network-Based Mutliple Model. citation:-1
+title:Unified Solution to Nonnegative Data Factorization Problems. citation:-1
+title:Fast Isosurface Extraction for Medical Volume Dataset on Cell BE. citation:-1
+title:An Accurate and Energy Efficient Fetch Direction Orientation Mechanism for Trace Cache. citation:-1
+title:MDS: Efficient Multi-dimensional Query Processing in Data-Centric WSNs. citation:-1
+title:A Hierachical VoIP System Based on Peer-to-Peer SIP: A Manageable Approach. citation:-1
+title:Data Hiding in Virtual Machine Disk Images. citation:-1
+title:Trusted Deployment of Virtual Execution Environment in Grid Systems. citation:-1
+title:Autonomic and Trusted Computing, Third International Conference, ATC 2006, Wuhan, China, September 3-6, 2006, Proceedings citation:-1
+title:A Vertical Search Engine Based on Visual and Textual Features. citation:-1
+title:Grid and Cooperative Computing - GCC 2004: Third International Conference, Wuhan, China, October 21-24, 2004. Proceedings citation:-1
+title:Grid and Cooperative Computing - GCC 2004 Workshops: GCC 2004 International Workshops, IGKG, SGT, GISS, AAC-GEVO, and VVS, Wuhan, China, October 21-24, 2004. Proceedings citation:-1
+title:Packaging and Generating Mechanism of Image Processing Services on Heterogeneous Grid Platforms. citation:-1
+title:Securing Interoperable Grid Services in ARC Grid Middleware. citation:-1
+title:Algorithms and Architectures for Parallel Processing, 7th International Conference, ICA3PP 2007, Hangzhou, China, June 11-14, 2007, Proceedings citation:-1
+title:Efficient and Progressive Algorithms for Distributed Skyline Queries over Uncertain Data. citation:-1
+title:TSS: Applying two-stage sampling in micro-architecture simulations. citation:-1
+title:CantorSim: Simplifying Acceleration of Micro-architecture Simulations. citation:-1
+title:Load Balancing Routing Algorithm for Ad Hoc Networks. citation:-1
+title:Network and Parallel Computing, IFIP International Conference, NPC 2004, Wuhan, China, October 18-20, 2004, Proceedings citation:-1
+title:Network and Parallel Computing, IFIP International Conference, NPC 2005, Beijing, China, November 30 - December 3, 2005, Proceedings citation:-1
+title:Network and Parallel Computing, IFIP International Conference, NPC 2007, Dalian, China, September 18-21, 2007, Proceedings citation:-1
+title:VirtualNet: Mapping Distributed Communication on a Single Node. citation:-1
+title:A Virtual Machine Replay System Based on Para-virtualized Xen. citation:-1
+title:: Map Device Memory to Host Memory on GPGPU Platform. citation:-1
+title:The Core Degree Based Tag Reduction on Chip Multiprocessor to Balance Energy Saving and Performance Overhead. citation:-1
+title:FTDS: Adjusting Virtual Computing Resources in Threshing Cases. citation:-1
+title:VRFPS: A Novel Virtual Machine-Based Real-time File Protection System. citation:-1
+title:Application of genetic algorithms in parameters identification of asynchronous motor. citation:-1
+title:Ubiquitous Intelligence and Computing, Third International Conference, UIC 2006, Wuhan, China, September 3-6, 2006, Proceedings citation:-1
+title:K-Radius Subgraph Comparison for RDF Data Cleansing. citation:-1
+title:VMGrid: A Virtual Machine Supported Grid Middleware. citation:-1
+title:Proceedings of The 2nd IEEE Asia-Pacific Services Computing Conference, APSCC 2007, December 11-14, 2007, Tsukuba Science City, Japan citation:-1
+title:vBench: A micro-benchmark for File - I/O performance of virtual machines. citation:-1
+title:GlobalWatch: A Distributed Service Grid Monitoring Platform with High Flexibility and Usability. citation:-1
+title:A New Image Thresholding Method Based on Graph Cuts. citation:-1
+title:Identifying Classes via Cognitive Approach in Object-Oriented System. citation:-1
+title:Measuring web feature impacts in Peer-to-Peer file sharing systems. citation:-1
+title:Towards virtualized desktop environment. citation:-1
+title:Special section: Peer-to-peer grid technologies. citation:-1
+title:Constructing trusted virtual execution environment in P2P grids. citation:-1
+title:Adapting grid applications to safety using fault-tolerant methods: Design, implementation and evaluations. citation:-1
+title:Scalable DHT- and ontology-based information service for large-scale grids. citation:-1
+title:Dependency-aware maintenance for highly available service-oriented grid. citation:-1
+title:Interactively multiphase image segmentation based on variational formulation and graph cuts. citation:-1
+title:TSS: Efficient Term Set Search in Large Peer-to-Peer Textual Collections. citation:-1
+title:A High-Performance Inter-Domain Data Transferring System for Virtual Machines. citation:-1
+title:Nonparametric Label-to-Region by search. citation:-1
+title:MR-scope: a real-time tracing tool for MapReduce. citation:-1
+title:From Grid Computing to Cloud Computing: Experiences on Virtualization Technology. citation:-1
+title:Multi-View Object Detection by Classifier Interpolation. citation:-1
+title:Fifth International Conference on Frontier of Computer Science and Technology, FCST 2010, Changchun, Jilin Province, China, August 18-22, 2010 citation:-1
+title:MT-BTRIMER: A Master-Slave Multi-threaded Dynamic Binary Translator. citation:-1
+title:ESPM: An optimized resource distribution policy in virtual user environment. citation:-1
+title:KCube: A novel architecture for interconnection networks. citation:-1
+title:Multi-path based Algorithms for Data Transfer in the Grid Environment. citation:-1
+title:DAGMap: efficient and dependable scheduling of DAG workflow job in Grid. citation:-1
+title:ServiceFlow: QoS-based hybrid service-oriented grid workflow system. citation:-1
+title:Two-layered metadata service model in grid environment. citation:-1
+title:Affinity-aware Proportional Share Scheduling for Virtual Machine System. citation:-1
+title:The Interoperable Attribute-based Authorization in ARC Grid Middleware. citation:-1
+title:VirtCFT: A Transparent VM-Level Fault-Tolerant System for Virtual Clusters. citation:-1
+title:VMDriver: A Driver-Based Monitoring Mechanism for Virtualization. citation:-1
+title:Are a Few Neighboring Peers Good Enough? citation:-1
+title:Maximum Lifetime Broadcast and Multicast Routing in Unreliable Wireless Ad-Hoc Networks. citation:-1
+title:Xenrelay: An Efficient Data Transmitting Approach for Tracing Guest Domain. citation:-1
+title:Meld: A Real-Time Message Logic Debugging System for Distributed Systems. citation:-1
+title:Simple and fast micro-architecture simulation: a trisection cantor fractal approach. citation:-1
+title:A graph-based approach to vehicle trajectory analysis. citation:-1
+title:A guest-transparent file integrity monitoring method in virtualization environment. citation:-1
+title:A Scalable Multiprocessor Architecture for Pervasive Computing. citation:-1
+title:Enhancing the Reliability of SIP Service in Large-Scale P2P-SIP Networks. citation:-1
+title:Building dynamic integrity protection for multiple independent authorities in virtualization-based infrastructure. citation:-1
+title:DVM-MAC: A Mandatory Access Control System in Distributed Virtual Computing Environment. citation:-1
+title:Energy Efficiency of a Multi-Core Processor by Tag Reduction. citation:-1
+title:Integrating Spatio-Temporal Context With Multiview Representation for Object Recognition in Visual Surveillance. citation:-1
+title:Building Automated Trust Negotiation architecture in virtual computing environment. citation:-1
+title:Guest editorial: high performance trusted computing. citation:-1
+title:Network security and digital forensics in next generation communications. citation:-1
+title:Optimizing the live migration of virtual machine by CPU scheduling. citation:-1
+title:VMStore: Distributed storage system for multiple virtual machines. citation:-1
+title:Integrated buffering schemes for P2P VoD services. citation:-1
+title:Medusa: A Novel Stream-Scheduling Scheme for Parallel Video Servers. citation:-1
+title:Towards a green cluster through dynamic remapping of virtual machines. citation:-1
+title:Quasi-Kautz Digraphs for Peer-to-Peer Networks. citation:-1
+title:SHS: Secure Hybrid Search by Combining Dynamic and Static Indexes in PEKS. citation:-1
+title:Public-Key Encryption with Fuzzy Keyword Search: A Provably Secure Scheme under Keyword Guessing Attack. citation:-1
+title:Finding and evaluating the community structure in semantic peer-to-peer overlay networks. citation:-1
+title:iRedistrict: Geovisual analytics for redistricting optimization. citation:-1
+title:Guest Editorial: Services Composition and Virtualization Technologies. citation:-1
+title:Adaptive Object Tracking by Learning Hybrid Template Online. citation:-1
+title:Service Quality Assurance Mechanisms for P2P SIP VoIP. citation:-1
+title:MoClouDesk: Virtualized Desktop for Mobile Environment. citation:-1
+title:EAPAC: An Enhanced Application Placement Framework for Data Centers. citation:-1
+title:Graphic Acceleration Mechanism for Multiple Desktop System Based on Virtualization Technology. citation:-1
+title:Multi-Source Traffic Data Fusion Method Based on Regulation and Reliability. citation:-1
+title:Virtual Machine Resource Management for High Performance Computing Applications. citation:-1
+title:On the maximum throughput of two-hop wireless network coding. citation:-1
+title:Analyzing and Improving MPI Communication Performance in Overcommitted Virtualized Systems. citation:-1
+title:Dynamic Switching-Frequency Scaling: Scheduling Overcommitted Domains in Xen VMM. citation:-1
+title:Adaptive Disk I/O Scheduling for MapReduce in Virtualized Environment. citation:-1
+title:Towards Pay-As-You-Consume Cloud Computing. citation:-1
+title:VMcol: A Collector of Garbage for Virtual Machine Image Files. citation:-1
+title:Segment an image by looking into an image corpus. citation:-1
+title:Adaptive audio-aware scheduling in Xen virtual environment. citation:-1
+title:Autonomous agent based intrusion detection in virtual computing environment. citation:-1
+title:Optimizing Resource Consumptions in Clouds. citation:-1
+title:Möbius-deBruijn: The product of Möbius cube and deBruijn digraph. citation:-1
+title:Continuous monitoring of skylines over uncertain data streams. citation:-1
+title:Public-Key Encryption with Cluster-Chain-based Keyword Search. citation:-1
+title:A hybrid ranking approach to estimate vulnerability for dynamic attacks. citation:-1
+title:VDE: Seamless Mobility on Desktop Environment. citation:-1
+title:Evolution Characteristics for Water Eco-Environment of Baiyangdian Lake with 3S Technologies in the Past 60 Years. citation:-1
+title:Measuring and Analyzing CPU Overhead of Virtualization System. citation:-1
+title:Multi-class semi-supervised SVMs with Positiveness Exclusive Regularization. citation:-1
+title:Segmented Network Coding for Stream-Like Applications in Delay Tolerant Networks. citation:-1
+title:XenHVMAcct: Accurate CPU Time Accounting for Hardware-Assisted Virtual Machine. citation:-1
+title:Reference Metadata Extraction from Scientific Papers. citation:-1
+title:Virtual Machine Management Based on Agent Service. citation:-1
+title:A performance study of web server based on Hardware-assisted Virtual Machine. citation:-1
+title:Function flow: making synchronization easier in task parallelism. citation:-1
+title:Optimizing Bloom Filter Settings in Peer-to-Peer Multikeyword Searching. citation:-1
+title:Probing multiple node-disjoint paths using multi-labelled tree traversing. citation:-1
+title:Expanding Approach to Information Retrieval Using Semantic Similarity Analysis Based on WordNet and Wikipedia. citation:-1
+title:Toward scalable Web systems on multicore clusters: making use of virtual machines. citation:-1
+title:Ontology-based semantic integration scheme for medical image grid. citation:-1
+title:A novel service scheduling policy based on logical subnet partitioning in Bio-Grid environments. citation:-1
+title:Probabilistic critical path identification for cost-effective monitoring of service-based web applications. citation:-1
+title:Optimization of Sparse Matrix-Vector Multiplication with Variant CSR on GPUs. citation:-1
+title:FIOS: a flexible virtualized I/O subsystem to alleviate interference among virtual machines. citation:-1
+title:A new cluster-based distributed video recorder server. citation:-1
+title:A comprehensive monitoring framework for virtual computing environment. citation:-1
+title:Adaptive multi-round scheduling strategy for divisible workloads in grid environments. citation:-1
+title:TBF: A High-Efficient Query Mechanism in De-duplication Backup System. citation:-1
+title:Enhancing Data Trustworthiness via Assured Digital Signing. citation:-1
+title:Efficient and Progressive Algorithms for Distributed Skyline Queries over Uncertain Data. citation:-1
+title:Theory and network applications of balanced kautz tree structures. citation:-1
+title:Proactive recovery approach for intrusion tolerance with dynamic configuration of physical and virtual replicas. citation:-1
+title:Image label completion by pursuing contextual decomposability. citation:-1
+title:MT-BTRIMER: A master-slave multi-threaded dynamic binary translator. citation:-1
+title:Effectively deploying services on virtualization infrastructure. citation:-1
+title:Discovering Spatial Patterns in Origin-Destination Mobility Data. citation:-1
+title:Audio-on-demand over wireless sensor networks. citation:-1
+title:Encrypted Remote User Authentication Scheme by Using Smart Card. citation:-1
+title:An Efficient Distributed Transactional Memory System. citation:-1
+title:Efficient Disk I/O Scheduling with QoS Guarantee for Xen-based Hosting Platforms. citation:-1
+title:Maestro: Replica-Aware Map Scheduling for MapReduce. citation:-1
+title:FractalMRC: Online Cache Miss Rate Curve Prediction on Commodity Systems. citation:-1
+title:A Practical Privacy-preserving Password Authentication Scheme for Cloud Computing. citation:-1
+title:INSC: An Iterative Negotiation Approach for Service Compositions. citation:-1
+title:Probabilistic Critical Path Identification for Cost-Effective Monitoring of Service-Based Systems. citation:-1
+title:QoS-Driven Service Selection for Multi-tenant SaaS. citation:-1
+title:Assessing MapReduce for Internet Computing: A Comparison of Hadoop and BitDew-MapReduce. citation:-1
+title:Proportional Allocation of Resources on Shared Ring Buffer for Virtualization. citation:-1
+title:Design of high performance RAID in real-time system. citation:-1
+title:Scheduling overcommitted VM: Behavior monitoring and dynamic switching-frequency scaling. citation:-1
+title:Synchronization-Aware Energy Management for VFI-Based Multicore Real-Time Systems. citation:-1
+title:Improving disk I/O performance in a virtualized system. citation:-1
+title:Scheduling in an unstructured peer-to-peer-based high performance computing system. citation:-1
+title:An Efficient SSD-based Hybrid Storage Architecture for Large-Scale Search Engines. citation:-1
+title:A Distributed Index Service for Peer-to-Peer VOD. citation:-1
+title:Self-adaptive Schedule Mechanism for Peer-to-peer Multi-rate Live Streaming System. citation:-1
+title:MyStore: A High Available Distributed Storage System for Unstructured Data. citation:-1
+title:Dynamic segmented network coding for reliable data dissemination in delay tolerant networks. citation:-1
+title:Peer-Assisted On-Demand Streaming: Characterizing Demands and Optimizing Supplies. citation:-1
+title:Vtrim: A Performance Optimization Mechanism for SSD in Virtualized Environment. citation:-1
+title:Unicast and Broadcast Throughput Maximization in Amplify-and-Forward Relay Networks. citation:-1
+title:Automated Approach to Intrusion Detection in VM-based Dynamic Execution Environment. citation:-1
+title:Editorial for Special Issue on "New Technologies and Applications for Wireless Communications & Mobile Cloud Computing". citation:-1
+title:Label-to-region with continuity-biased bi-layer sparsity priors. citation:-1
+title:VMckpt: lightweight and live virtual machine checkpointing. citation:-1
+title:Hierarchically characterizing CUDA program behavior. citation:-1
+title:CloudAC: a cloud-oriented multilayer access control system for logic virtual domain. citation:-1
+title:Location-aware private service discovery in pervasive computing environment. citation:-1
+title:A Decentralized Service Discovery Approach on Peer-to-Peer Networks. citation:-1
+title:Dependable Grid Workflow Scheduling Based on Resource Availability. citation:-1
+title:Minimizing inter-server communications by exploiting self-similarity in online social networks. citation:-1
+title:Scalable SAPRQL Querying Processing on Large RDF Data in Cloud Computing Environment. citation:-1
+title:Waveform Decreasing Multi-copy Based Routing in Low Node Density DTNs. citation:-1
+title:Cranduler: A Dynamic and Reusable Scheduler for Cloud Infrastructure Service. citation:-1
+title:An Enhanced Security Mechanism for Web Service Based Systems. citation:-1
+title:Lifetime or energy: Consolidating servers with reliability control in virtualized cloud datacenters. citation:-1
+title:A RAID reconfiguration scheme for gracefully degraded operations. citation:-1
+title:Anonymous Password Authentication Scheme by Using Digital Signature and Fingerprint in Cloud Computing. citation:-1
+title:Towards Privacy Preserving Mining over Distributed Cloud Databases. citation:-1
+title:Optimizing Xen Hypervisor by Using Lock-Aware Scheduling. citation:-1
+title:Implementing Smith-Waterman Algorithm with Two-Dimensional Cache on GPUs. citation:-1
+title:Approximate Keyword-based Search over Encrypted Cloud Data. citation:-1

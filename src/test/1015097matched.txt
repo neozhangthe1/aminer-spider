@@ -1,0 +1,25 @@
+title1:Concepts and Applications of Multilevel Transactions and Open Nested Transactions title2:Concepts and applications of multilevel transactions and open nested transactions citation:348 ncitation:308 pid2207
+title1:Principles and Realization Strategies of Multilevel Transaction Management. title2:Principles and realization strategies of multilevel transaction management citation:296 ncitation:291 pid1118735
+title1:RDF-3X: a RISC-style engine for RDF. title2:RDF-3X: a RISC-style engine for RDF citation:282 ncitation:233 pid2571177
+title1:Automatische Übersetzung von Geschäftsprozessmodellen in ausführbare Workflows. citation:3 ncitation:2 pid302326
+title1:Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery title2:Transactional information systems: theory, algorithms, and the practice of concurrency control and recovery citation:599 ncitation:552 pid595869
+title1:Multi-Level Transactions and Open Nested Transactions. title2:Concepts and applications of multilevel transactions and open nested transactions citation:348 ncitation:37 pid2791
+title1:Towards Self-Tuning Memory Management for Data Servers. title2:Towards self-tuning memory management for data servers citation:149 ncitation:139 pid845104
+title1:Merging Application-centric and Data-centric Approaches to Support Transaction-oriented Multi-system Workflows. title2:Merging application-centric and data-centric approaches to support transaction-oriented multi-system workflows citation:150 ncitation:147 pid845103
+title1:The DASDBS Project: Objectives, Experiences, and Future Prospects. title2:The DASDBS project: Objectives, experiences, and future prospects citation:160 ncitation:146 pid541747
+title1:The Lowell Database Research Self Assessment title2:The Lowell database research self-assessment citation:160 ncitation:155 pid2460934
+title1:Rethinking Database System Architecture: Towards a Self-Tuning RISC-Style Database System. title2:Rethinking Database System Architecture: Towards a Self-Tuning RISC-Style Database System. citation:204 ncitation:198 pid255804
+title1:KLEE: A Framework for Distributed Top-k Query Algorithms. title2:KLEE: a framework for distributed top-k query algorithms citation:203 ncitation:194 pid642326
+title1:YAGO: A Large Ontology from Wikipedia and WordNet. title2:Yago: A large ontology from wikipedia and wordnet citation:362 ncitation:276 pid302162
+title1:The LRU-K Page Replacement Algorithm For Database Disk Buffering. title2:The LRU-K page replacement algorithm for database disk buffering citation:745 ncitation:705 pid596446
+title1:IQN Routing: Integrating Quality and Novelty in P2P Querying and Ranking. title2:IQN routing: Integrating quality and novelty in P2P querying and ranking citation:1 ncitation:34 pid1541878
+title1:Top-k Query Evaluation with Probabilistic Guarantees. title2:Top-k query evaluation with probabilistic guarantees citation:203 ncitation:190 pid95897
+title1:A Formal Foundation for Distributed Workflow Execution Based on State Charts. title2:A formal foundation for distributed workflow execution based on state charts citation:167 ncitation:159 pid1253890
+title1:The Lowell database research self-assessment. title2:The Lowell database research self-assessment citation:160 ncitation:155 pid304168
+title1:Data Partitioning and Load Balancing in Parallel Disk Systems. title2:Data partitioning and load balancing in parallel disk systems citation:251 ncitation:211 pid69708
+title1:From Centralized Workflow Specification to Distributed Workflow Execution. title2:From centralized workflow specification to distributed workflow execution citation:252 ncitation:232 pid69710
+title1:Self-tuning Database Technology and Information Services: from Wishful Thinking to Viable Engineering. title2:Self-tuning database technology and information services: from wishful thinking to viable engineering citation:169 ncitation:166 pid926486
+title1:The Index-Based XXL Search Engine for Querying XML Data with Relevance Ranking. title2:The index-based XXL search engine for querying XML data with relevance ranking citation:234 ncitation:222 pid1001828
+title1:Yago: a core of semantic knowledge. title2:Yago: a core of semantic knowledge citation:1022 ncitation:805 pid644008
+title1:Peer-to-Peer-Technologie für unternehmensweites und organisationsübergreifendes Workflow-Management. citation:5 ncitation:5 pid10593
+title1:The Mentor Project: Steps Toward Enterprise-Wide Workflow Management. title2:The Mentor project: Steps towards enterprise-wide workflow management citation:173 ncitation:163 pid1227359

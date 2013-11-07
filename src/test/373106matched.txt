@@ -1,0 +1,342 @@
+title1:Efficiently tracking application interactions using lightweight virtualization. title2:Efficiently tracking application interactions using lightweight virtualization citation:21 ncitation:15 pid84512
+title1:Anonymity and Historical-Anonymity in Location-Based Services. title2:Anonymity and historical-anonymity in location-based services citation:18 ncitation:16 pid1243052
+title1:The Consensus Glossary of Temporal Database Concepts - February 1998 Version. citation:356 ncitation:310 pid137602
+title1:Logical Design for Temporal Databases with Multiple Granularities. title2:Logical design for temporal databases with multiple granularities citation:154 ncitation:152 pid1118732
+title1:Applying Formal Methods to Semantic-Based Decomposition of Transactions. title2:Applying formal methods to semantic-based decomposition of transactions citation:47 ncitation:46 pid1118192
+title1:Removing permissions in the flexible authorization framework. title2:Removing permissions in the flexible authorization framework citation:7 ncitation:6 pid1118741
+title1:Integrity principles and mechanisms in database management systems. title2:Integrity principles and mechanisms in database management systems citation:7 ncitation:6 pid805056
+title1:Eliminating polyinstantiation securely. title2:Eliminating polyinstantiation securely citation:9 ncitation:8 pid805057
+title1:Polyinstantation for Cover Stories. title2:Polyinstantiation for cover stories citation:60 ncitation:57 pid189377
+title1:Advanced Transaction Models and Architectures title2:Advanced transaction models and architectures citation:185 ncitation:176 pid1993
+title1:Implementing Consistency Checking in Correlating Attacks. title2:Implementing consistency checking in correlating attacks citation:1 ncitation:1 pid296206
+title1:Privacy Preservation over Untrusted Mobile Networks. title2:Privacy preservation over untrusted mobile networks citation:13 ncitation:9 pid1243057
+title1:Alternative Methods for the Reconstruction of Trees from Their Traversals. title2:Alternative methods for the reconstruction of trees from their traversals citation:23 ncitation:23 pid1550486
+title1:Efficient security mechanisms for overlay multicast based content delivery. title2:Efficient security mechanisms for overlay multicast based content delivery citation:12 ncitation:12 pid2442387
+title1:Fragmentation and Encryption to Enforce Privacy in Data Storage. title2:Fragmentation and encryption to enforce privacy in data storage citation:44 ncitation:39 pid768097
+title1:Topological analysis of network attack vulnerability. title2:Topological analysis of network attack vulnerability citation:256 ncitation:-1 pid802669
+title1:Dealing with Granularity of Time in Temporal Databases. title2:Dealing with granularity of time in temporal databases citation:125 ncitation:119 pid1416170
+title1:Keep a Few: Outsourcing Data While Maintaining Confidentiality. title2:Keep a few: Outsourcing data while maintaining confidentiality citation:49 ncitation:38 pid554792
+title1:Minimum-cost network hardening using attack graphs. title2:Minimum-cost network hardening using attack graphs citation:137 ncitation:106 pid74788
+title1:The Inference Problem: A Survey. title2:The inference problem: a survey citation:199 ncitation:185 pid665266
+title1:Secure median computation in wireless sensor networks. title2:Secure median computation in wireless sensor networks citation:6 ncitation:4 pid1243031
+title1:Consistent policy enforcement in distributed systems using mobile policies. title2:Consistent policy enforcement in distributed systems using mobile policies citation:4 ncitation:6 pid1063567
+title1:An Efficient and Unified Approach to Correlating, Hypothesizing, and Predicting Intrusion Alerts. title2:An efficient and unified approach to correlating, hypothesizing, and predicting intrusion alerts citation:34 ncitation:29 pid1266413
+title1:Referential Integrity in Multilevel Secure Database Management Systems. title2:Referential integrity in multilevel secure database management systems citation:9 ncitation:9 pid1120988
+title1:Precisely Answering Multi-dimensional Range Queries without Privacy Breaches. title2:Precisely answering multi-dimensional range queries without privacy breaches citation:37 ncitation:36 pid845621
+title1:ADAM: A Testbed for Exploring the Use of Data Mining in Intrusion Detection. title2:ADAM: a testbed for exploring the use of data mining in intrusion detection citation:175 ncitation:141 pid189314
+title1:Cardinality-Based Inference Control in Sum-Only Data Cubes. title2:Cardinality-based inference control in sum-only data cubes citation:35 ncitation:32 pid580770
+title1:Avoiding Loss of Fairness Owing to Process Crashes in Fair Data Exchange Protocols. title2:Avoiding loss of fairness owing to process crashes in fair data exchange protocols citation:21 ncitation:19 pid189316
+title1:Enhancing the Controlled Disclosure of Sensitive Information. title2:Enhancing the controlled disclosure of sensitive information citation:16 ncitation:16 pid1064664
+title1:Local Area Networks: Software and Related Issues. title2:Local area networks: Software and related issues citation:9 ncitation:9 pid189322
+title1:Temporal Granularity. title2:Temporal granularity citation:2 ncitation:-1 pid1129705
+title1:Database Security: Research and Practice title2:Database security: research and practice citation:56 ncitation:54 pid844624
+title1:Steganalysis of Images Created Using Current Steganography Software. title2:Steganalysis of images created using current steganography software citation:384 ncitation:364 pid844626
+title1:Attack-resilient hierarchical data aggregation in sensor networks. title2:Attack-resilient hierarchical data aggregation in sensor networks citation:33 ncitation:33 pid844628
+title1:Recovery of Watermarks from Distorted Images. title2:Recovery of watermarks from distorted images citation:53 ncitation:51 pid1299408
+title1:Provisions and Obligations in Policy Management and Security Applications. title2:Provisions and obligations in policy management and security applications citation:104 ncitation:140 pid938291
+title1:A framework for establishing, assessing, and managing trust in inter-organizational relationships. title2:A framework for establishing, assessing, and managing trust in inter-organizational relationships citation:6 ncitation:5 pid573047
+title1:Using semantic correctness in multidatabases to achieve local autonomy, distribute coordination, and maintain global integrity. title2:Using semantic correctness in multidatabases to achieve local autonomy, distribute coordination, and maintain global integrity citation:8 ncitation:8 pid385512
+title1:Aggregation in Relational Databases: Controlled Disclosure of Sensitive Information. title2:Aggregation in relational databases: Controlled disclosure of sensitive information citation:18 ncitation:16 pid642000
+title1:Preserving confidentiality of security policies in data outsourcing. title2:Preserving confidentiality of security policies in data outsourcing citation:39 ncitation:31 pid773105
+title1:Concurrency Control in Multilevel-Secure Databases Based on Replicated Architecture. title2:Concurrency control in multilevel-secure databases based on replicated architecture citation:6 ncitation:6 pid941560
+title1:Algebra for Databases with Explicit Markings of Damaged Data. title2:Algebra for Databases with Explicit Markings of Damaged Data citation:0 ncitation:0 pid189353
+title1:Free Schedules for Free Agents in Workflow Systems. title2:Free schedules for free agents in workflow systems citation:11 ncitation:10 pid667242
+title1:Incorporating Transaction Semantics to Reduce Reprocessing Overhead in Replicated Mobile Data Applications. title2:Incorporating transaction semantics to reduce reprocessing overhead in replicated mobile data applications citation:16 ncitation:17 pid1532355
+title1:Distributed Policies for Data Management Making Policies Mobile. title2:Distributed Policies for Data Management Making Policies Mobile. citation:5 ncitation:2 pid628393
+title1:Optimal IDS Sensor Placement and Alert Prioritization Using Attack Graphs. title2:Optimal IDS sensor placement and alert prioritization using attack graphs citation:31 ncitation:26 pid844622
+title1:A General Framework and Reasoning Model for Time Granularity. title2:A general framework and reasoning models for time granularity citation:38 ncitation:33 pid599062
+title1:FlexFlow: A Flexible Flow Control Policy Specification Framework. title2:Flexflow: A flexible flow control policy specification framework citation:6 ncitation:5 pid2390408
+title1:Maintaining privacy on derived objects. title2:Maintaining privacy on derived objects citation:6 ncitation:6 pid627218
+title1:Providing Different Degrees of Recency Options to Transactions in Multilevel Secure Databases. title2:Providing different degrees of recency options to transactions in multilevel secure databases citation:4 ncitation:5 pid628304
+title1:Degrees of Isolation, Concurrency Control Protocols, and Commit Protocols. title2:Degrees of isolation, concurrency control protocols, and commit protocols citation:12 ncitation:12 pid145341
+title1:Multilevel Secure Transaction Processing: Status and Prospects. title2:Multilevel Secure Transaction Processing: Status and Prospects. citation:29 ncitation:28 pid985807
+title1:A Timestamp Ordering Algorithm for Secure, Single-Version, Multi-Level Databases. title2:A timestamp ordering algorithm for secure, single-version, multi-level databases citation:39 ncitation:37 pid628306
+title1:Planar Lattice Security Structures for Multilevel Replicated Databases. title2:Planar lattice security structures for multilevel replicated databases citation:13 ncitation:13 pid145343
+title1:Using Formal Methods to Reason about Semantics-Based Decompositions of Transactions. title2:Using formal methods to reason about semantics-based decompositions of transactions citation:15 ncitation:16 pid667286
+title1:Incorporating Dynamic Constraints in the Flexible Authorization Framework. title2:Incorporating dynamic constraints in the flexible authorization framework citation:7 ncitation:7 pid145316
+title1:Enhancements to the Voting Algorithm. title2:Enhancements to the Voting Algorithm. citation:43 ncitation:45 pid2267660
+title1:Going Beyond MAC and DAC Using Mobile Policies. title2:Going beyond MAC and DAC using mobile policies citation:11 ncitation:11 pid145314
+title1:Temporal Databases: Theory, Design, and Implementation title2:Temporal databases: theory, design, and implementation citation:857 ncitation:4 pid2201621
+title1:MTPSec: Customizable Secure MTP3 Tunnels in the SS7 Network. title2:MTPSec: customizable secure MTP3 tunnels in the SS7 network citation:12 ncitation:12 pid145302
+title1:LEAP - efficient security mechanisms for large-scale distributed sensor networks. title2:LEAP+: Efficient security mechanisms for large-scale distributed sensor networks citation:1493 ncitation:1343 pid2377249
+title1:Policies, Models, and Languages for Access Control. title2:Policies, models, and languages for access control citation:52 ncitation:47 pid145304
+title1:A Hybrid Replica Control Algorithm Combining Static and Dynamic Voting. title2:A hybrid replica control algorithm combining static and dynamic voting citation:15 ncitation:16 pid189
+title1:The Problem of Equivalence for Entity-Relationship Diagrams. title2:The problem of equivalence for entity-relationship diagrams citation:57 ncitation:54 pid642884
+title1:A Pessimistic Consistency Control Algorithm for Replicated Files which Achieves High Availability. title2:A pessimistic consistency control algorithm for replicated files which achieves high availability citation:27 ncitation:28 pid580678
+title1:Lossless Outer Joins with Incomplete Information. title2:Lossless outer joins with incomplete information citation:4 ncitation:4 pid1128496
+title1:A Scheme of Parallel Processing for MIMD Systems. title2:A scheme of parallel processing for MIMD systems citation:0 ncitation:-1 pid199
+title1:Semantic Assumptions and Query Evaluation in Temporal Databases. title2:Semantic assumptions and query evaluation in temporal databases citation:24 ncitation:24 pid410749
+title1:A theoretical formulation for degrees of isolation in databases. title2:A theoretical formulation for degrees of isolation in databases citation:15 ncitation:14 pid1571284
+title1:Scalable Group Rekeying for Secure Multicast: A Survey. title2:Scalable group rekeying for secure multicast: A survey citation:11 ncitation:10 pid584503
+title1:Globally Consistent Event Ordering in One-Directional Distributed Environments. title2:Globally consistent event ordering in one-directional distributed environments citation:14 ncitation:13 pid159437
+title1:Mining Malicious Corruption of Data with Hidden Markov Models. title2:Mining malicious corruption of data with hidden Markov models citation:27 ncitation:24 pid1128491
+title1:Protecting File systems Against Corruption Using Checksums. title2:Protecting File Systems Against Corruption Using Checksums citation:0 ncitation:-1 pid2400748
+title1:Managing Replicated Files in Partitioned Distributed Database Systems. title2:Managing replicated files in partitioned distributed database systems citation:48 ncitation:48 pid182777
+title1:Mutual Consistency in Decentralized Distributed Systems. title2:Mutual consistency in decentralized distributed systems citation:6 ncitation:6 pid1112975
+title1:Integrating Static and Dynamic Voting Protocols To Enhance File Availability. title2:Integrating static and dynamic voting protocols to enhance file availability citation:40 ncitation:39 pid1128494
+title1:Temporal Database Bibliography Update. title2:Temporal database bibliography update citation:77 ncitation:59 pid768150
+title1:A User Friendly Guard with Mobile Post-Release Access Control Policy. title2:A User Friendly Guard with Mobile Post-Release Access Control Policy. citation:0 ncitation:0 pid1128492
+title1:Multiple Coordinated Views for Network Attack Graphs. title2:Multiple coordinated views for network attack graphs citation:69 ncitation:55 pid925161
+title1:A comparative performance analysis of reliable group rekey transport protocols for secure multicast. title2:A comparative performance analysis of reliable group rekey transport protocols for secure multicast citation:48 ncitation:50 pid1618726
+title1:A Flexible Authorization Mechanism for Relational Data Management Systems. title2:A flexible authorization mechanism for relational data management systems citation:139 ncitation:130 pid1717845
+title1:Design and implementation of a decentralized prototype system for detecting distributed attacks. title2:Design and implementation of a decentralized prototype system for detecting distributed attacks citation:21 ncitation:25 pid1124650
+title1:CARDS: A Distributed System for Detecting Coordinated Attacks. title2:CARDS: A distributed system for detecting coordinated attacks citation:47 ncitation:48 pid145346
+title1:Modeling requests among cooperating intrusion detection systems. title2:Modeling requests among cooperating intrusion detection systems citation:39 ncitation:40 pid145344
+title1:A Secure Kernelized Architecture for Multiple Object-Oriented Databases. title2:A Secure Kernelized Architecture for Multilevel Object-Oriented Databases citation:29 ncitation:29 pid300242
+title1:An Algebraic Representation of Calendars. title2:An algebraic representation of calendars citation:96 ncitation:93 pid300244
+title1:A New Polyinstantiation Integrity Constraint for Multilevel Relations. title2:A new polyinstantiation integrity constraint for multilevel relations citation:30 ncitation:31 pid145359
+title1:SS7 over IP: signaling interworking vulnerabilities. title2:SS7 over IP: signaling interworking vulnerabilities citation:9 ncitation:8 pid300246
+title1:Using attack graphs for correlating, hypothesizing, and predicting intrusion alerts. title2:Using attack graphs for correlating, hypothesizing, and predicting intrusion alerts citation:98 ncitation:69 pid1529781
+title1:LHAP: A lightweight network access control protocol for ad hoc networks. title2:LHAP: a lightweight network access control protocol for ad hoc networks citation:23 ncitation:19 pid1065117
+title1:On the anonymity and traceability of peer-to-peer VoIP calls. title2:On the anonymity and traceability of peer-to-peer voip calls citation:20 ncitation:17 pid2241577
+title1:Efficient and secure keys management for wireless mobile communications. title2:Efficient and secure keys management for wireless mobile communications citation:49 ncitation:47 pid138462
+title1:Building trust in peer-to-peer systems: a review. title2:Building trust in peer-to-peer systems: a review citation:25 ncitation:26 pid581104
+title1:Universal and Representative Instances Using Unmarked Nulls. title2:Universal and representative instances using unmarked nulls citation:1 ncitation:1 pid1065103
+title1:Propagating Modifications to Mobile Policies. title2:Propagating Modifications to Mobile Policies citation:0 ncitation:-1 pid1037169
+title1:Rule-Based Topological Vulnerability Analysis. title2:Rule-based topological vulnerability analysis citation:10 ncitation:10 pid1065101
+title1:Recognizing Multivalued Dependencies in Relation Schemas. title2:Recognizing multivalued dependencies in relation schemas citation:5 ncitation:5 pid1120065
+title1:Fast Detection of Denial-of-Service Attacks on IP Telephony. title2:Fast detection of denial-of-service attacks on IP telephony citation:49 ncitation:49 pid801283
+title1:On Fingerprinting Images for Recognition. title2:On Fingerprinting Images for Recognition. citation:11 ncitation:11 pid581115
+title1:Secure Selective Exclusion in Ad Hoc Wireless Network. title2:Secure selective exclusion in ad hoc wireless network citation:14 ncitation:14 pid801285
+title1:Controlled Information Sharing in Collaborative Distributed Query Processing. title2:Controlled information sharing in collaborative distributed query processing citation:22 ncitation:17 pid124084
+title1:Balancing confidentiality and efficiency in untrusted relational DBMSs. title2:Balancing confidentiality and efficiency in untrusted relational DBMSs citation:244 ncitation:229 pid751849
+title1:Constructing a virtual primary key for fingerprinting relational data. title2:Constructing a virtual primary key for fingerprinting relational data citation:44 ncitation:39 pid802427
+title1:Mining Temporal Relationships with Multiple Granularities in Time Sequences. title2:Mining temporal relationships with multiple granularities in time sequences citation:128 ncitation:109 pid742982
+title1:Toward Information Sharing: Benefit And Risk Access Control (BARAC). title2:Toward information sharing: Benefit and risk access control (BARAC) citation:45 ncitation:36 pid1024143
+title1:Tamper detection and localization for categorical data using fragile watermarks. title2:Tamper detection and localization for categorical data using fragile watermarks citation:70 ncitation:59 pid545879
+title1:Translation of entity-relationship diagrams into relational structures. title2:Translation of entity-relationship diagrams into relational structures citation:14 ncitation:14 pid219668
+title1:A Non-Timestamped Authorization Model for Data Management Systems. title2:A non-timestamped authorization model for data management systems citation:8 ncitation:7 pid1515616
+title1:Selective Data Encryption in Outsourced Dynamic Environments. title2:Selective data encryption in outsourced dynamic environments citation:37 ncitation:29 pid1662858
+title1:LEAP&plus;: Efficient security mechanisms for large-scale distributed sensor networks. title2:LEAP+: Efficient security mechanisms for large-scale distributed sensor networks citation:1493 ncitation:1343 pid183344
+title1:Fingerprinting Relational Databases: Schemes and Specialties. title2:Fingerprinting relational databases: Schemes and specialties citation:99 ncitation:80 pid581039
+title1:Redirection policies for mission-based information sharing. title2:Redirection policies for mission-based information sharing citation:8 ncitation:8 pid2138145
+title1:A robust watermarking system based on compression. title2:A robust watermarking system based on SVD compression citation:20 ncitation:16 pid505108
+title1:Interleaved hop-by-hop authentication against false data injection attacks in sensor networks. title2:Interleaved hop-by-hop authentication against false data injection attacks in sensor networks citation:38 ncitation:35 pid790709
+title1:Authorizations in Relational Database Management Systems. title2:Authorizations in relational database management systems citation:58 ncitation:53 pid2348466
+title1:Key management for multi-user encrypted databases. title2:Key management for multi-user encrypted databases citation:54 ncitation:42 pid500780
+title1:Revocations-A Classification. title2:Revocations-a classification citation:54 ncitation:54 pid580998
+title1:Database Security and Privacy. title2:Database security and privacy citation:0 ncitation:53 pid545797
+title1:An Efficient Multiversion Algorithm for Secure Servicing of Transaction Reads. title2:An efficient multiversion algorithm for secure servicing of transaction reads citation:15 ncitation:14 pid298235
+title1:An Interleaved Hop-by-Hop Authentication Scheme for Filtering of Injected False Data in Sensor Networks. title2:An interleaved hop-by-hop authentication scheme for filtering of injected false data in sensor networks citation:493 ncitation:458 pid83840
+title1:Basic Security Concepts. title2:Basic Security Concepts citation:1 ncitation:11 pid1538412
+title1:Scalable Threshold Closure. title2:Scalable threshold closure citation:15 ncitation:15 pid160408
+title1:Access Control Policies and Languages in Open Environments. title2:Access control policies and languages in open environments citation:15 ncitation:13 pid2324198
+title1:Secure Data Management in Decentralized Systems title2:Secure data management in decentralized systems citation:9 ncitation:9 pid545823
+title1:Panel Discussion on the Polyinstantiation Problem: A Position Paper. title2:Panel Discussion on the Polyinstantiation Problem: A Position Paper. citation:1 ncitation:1 pid160407
+title1:A Formal Framework for Single Level Decomposition of Multilevel Relations. title2:A formal framework for single level decomposition of multilevel relations citation:12 ncitation:11 pid2186436
+title1:Abstraction-Based Misuse Detection: High-Level Specifications and Adaptable Strategies. title2:Abstraction-based misuse detection: High-level specifications and adaptable strategies citation:67 ncitation:67 pid996445
+title1:Multi-Phase Damage Confinement in Database Systems for Intrusion Tolerance. title2:Multi-Phase Damage Confinement in Database Systems for Intrusion Tolerance. citation:127 ncitation:77 pid869363
+title1:Checking for k-Anonymity Violation by Views. title2:Checking for k-anonymity violation by views citation:102 ncitation:99 pid1124430
+title1:High Assurance Discretionary Access Control for Object Bases. title2:High assurance discretionary access control for object bases citation:42 ncitation:41 pid1098007
+title1:Network Flow Watermarking Attack on Low-Latency Anonymous Communication Systems. title2:Network flow watermarking attack on low-latency anonymous communication systems citation:138 ncitation:110 pid1751794
+title1:Temporal Reasoning in Workflow Systems. title2:Temporal reasoning in workflow systems citation:97 ncitation:82 pid570189
+title1:Secure Dynamic Fragment and Replica Allocation in Large-Scale Distributed File Systems. title2:Secure dynamic fragment and replica allocation in large-scale distributed file systems citation:45 ncitation:42 pid1561205
+title1:Managing attack graph complexity through visual hierarchical aggregation. title2:Managing attack graph complexity through visual hierarchical aggregation citation:163 ncitation:145 pid566797
+title1:An Algorithm for Dynamic Data Allocation in Distributed Systems. title2:An algorithm for dynamic data allocation in distributed systems citation:19 ncitation:19 pid1124466
+title1:Adding Reliable and Self-healing Key Distribution to the Subset Difference Group Rekeying Method for Secure Multicast. title2:Adding reliable and self-healing key distribution to the subset difference group rekeying method for secure multicast citation:22 ncitation:21 pid996450
+title1:An Extended Authorization Model for Relational Databases. title2:An extended authorization model for relational databases citation:117 ncitation:114 pid83802
+title1:Efficient Security Mechanisms for Overlay Multicast-Based Content Distribution. title2:Efficient security mechanisms for overlay multicast-based content distribution citation:13 ncitation:12 pid713463
+title1:A General Framework for Time Granularity and Its Application to Temporal Reasoning. title2:A general framework for time granularity and its application to temporal reasoning citation:104 ncitation:97 pid2159915
+title1:Anonymity in Location-Based Services: Towards a General Framework. title2:Anonymity in location-based services: Towards a general framework citation:70 ncitation:57 pid123950
+title1:Advanced Transaction Processing in Multilevel Secure File Stores. title2:Advanced transaction processing in multilevel secure file stores citation:31 ncitation:33 pid1616832
+title1:Cardinality-based inference control in data cubes. title2:Cardinality-based inference control in data cubes citation:43 ncitation:37 pid420
+title1:Anonymity and Diversity in LBS: A Preliminary Investigation. title2:Anonymity and diversity in LBS: a preliminary investigation citation:13 ncitation:13 pid613891
+title1:On-The-Fly Reading of Entire Databases. title2:On-the-fly reading of entire databases citation:30 ncitation:31 pid183487
+title1:GKMPAN: An Efficient Group Rekeying Scheme for Secure Multicast in Ad-Hoc Networks. title2:GKMPAN: An efficient group rekeying scheme for secure multicast in ad-hoc networks citation:95 ncitation:74 pid1095379
+title1:The Partitioned Synchronization Rule for Planar Extendible Partial Orders. title2:The partitioned synchronization rule for planar extendible partial orders citation:1 ncitation:1 pid1202641
+title1:Discovering Temporal Patterns in Multiple Granularities. title2:Discovering temporal patterns in multiple granularities citation:30 ncitation:27 pid1202637
+title1:Transaction Processing in Multilevel Secure Databases with Kernelized Architectures: Challenges and Solutions. title2:Transaction processing in multilevel secure databases with kernelized architecture: Challenges and solutions citation:24 ncitation:24 pid123983
+title1:Privacy-Aware Proximity Based Services. title2:Privacy-aware proximity based services citation:46 ncitation:34 pid123981
+title1:The Role of Quasi-identifiers in k-Anonymity Revisited title2:The role of quasi-identifiers in k-anonymity revisited citation:9 ncitation:8 pid124023
+title1:Database Security and Privacy. title2:Database security and privacy citation:0 ncitation:53 pid124025
+title1:LHAP: A Lightweight Hop-by-Hop Authentication Protocol for Ad-Hoc Networks. title2:LHAP: a lightweight hop-by-hop authentication protocol for ad-hoc networks citation:96 ncitation:92 pid1617886
+title1:Access Control in Object-Oriented Database Systems - Some Approaches and Issues. citation:30 ncitation:32 pid613932
+title1:ASEP: A Secure and Flexible Commit Protocol for MLS Distributed Database Systems. title2:ASEP: A secure and flexible commit protocol for MLS distributed database systems citation:6 ncitation:5 pid856015
+title1:Securing OLAP Data Cubes Against Privacy Breaches. title2:Securing OLAP data cubes against privacy breaches citation:75 ncitation:69 pid1571045
+title1:An Advanced Commit Protocol for MLS Distributed Database Systems. title2:An advanced commit protocol for MLS distributed database systems citation:56 ncitation:14 pid1125485
+title1:Data Mining for Intrusion Detection. title2:Data mining for intrusion detection citation:9 ncitation:10 pid2397057
+title1:Tracking anonymous peer-to-peer VoIP calls on the internet. title2:Tracking anonymous peer-to-peer VoIP calls on the internet citation:197 ncitation:170 pid934473
+title1:Implementation of a Storage Mechanism for Untrusted DBMSs. title2:Implementation of a storage mechanism for untrusted DBMSs citation:41 ncitation:39 pid1348424
+title1:Implementing Semantic-Based Decomposition of Transactions. title2:Implementing semantic-based decomposition of transactions citation:8 ncitation:9 pid514123
+title1:A logic-based framework for attribute based access control. title2:A logic-based framework for attribute based access control citation:184 ncitation:174 pid1112447
+title1:Policy algebras for access control: the propositional case. title2:Policy algebras for access control: the propositional case citation:28 ncitation:26 pid751398
+title1:Alternative Correctness Criteria for Concurrent Execution of Transactions in Multilevel Secure Databases. title2:Alternative correctness criteria for concurrent execution of transactions in multilevel secure databases citation:14 ncitation:13 pid491879
+title1:Policy algebras for access control the predicate case. title2:Policy algebras for access control the predicate case citation:38 ncitation:37 pid1112437
+title1:Subject Switching Algorithms for Access Control in Federated Databases. title2:Subject switching algorithms for access control in federated databases citation:7 ncitation:5 pid299611
+title1:Efficient Distributed Detection of Node Replication Attacks in Sensor Networks. title2:Efficient distributed detection of node replication attacks in sensor networks citation:60 ncitation:52 pid538999
+title1:An Authorization Model for a Distributed Hypertext System. title2:An authorization model for a distributed hypertext system citation:97 ncitation:92 pid2404304
+title1:Can-Follow Concurrency Control. citation:0 ncitation:3 pid2145001
+title1:Propagation of Authorizations in Distributed Database Systems. title2:Propagation of authorizations in distributed database systems citation:6 ncitation:6 pid1277467
+title1:Information Flow Control in Object-Oriented Systems. title2:Information flow control in object-oriented systems citation:95 ncitation:93 pid2136247
+title1:Enforcing Mandatory Access Control in Object Bases. title2:Enforcing Mandatory Access Control in Object Bases citation:1 ncitation:1 pid1112408
+title1:Multilevel Security Transaction Processing. title2:Multilevel secure transaction processing citation:8 ncitation:37 pid1112406
+title1:Correctness Criteria for Multilevel Secure Transactions. title2:Correctness criteria for multilevel secure transactions citation:66 ncitation:25 pid970665
+title1:Dynamic Voting Algorithms for Maintaining the Consistency of a Replicated Database. title2:Dynamic voting algorithms for maintaining the consistency of a replicated database citation:274 ncitation:276 pid613832
+title1:Maintaining Replicated Authorizations in Distributed Database Systems. title2:Maintaining replicated authorizations in distributed database systems citation:23 ncitation:18 pid1200781
+title1:Measuring the Overall Security of Network Configurations Using Attack Graphs. title2:Measuring the overall security of network configurations using attack graphs citation:68 ncitation:50 pid1567272
+title1:Satisfiability of Quantitative Temporal Constraints with Multiple Granularities. title2:Satisfiability of quantitative temporal constraints with multiple granularities citation:12 ncitation:12 pid1112397
+title1:An Attack Graph-Based Probabilistic Security Metric. title2:An attack graph-based probabilistic security metric citation:105 ncitation:82 pid1308545
+title1:Intrusion Confinement by Isolation in Information Systems. title2:Intrusion confinement by isolation in information systems citation:61 ncitation:60 pid821128
+title1:Regulating Exceptions in Healthcare Using Policy Spaces. title2:Regulating exceptions in healthcare using policy spaces citation:17 ncitation:14 pid1353912
+title1:Providing secrecy in key management protocols for large wireless sensors networks. title2:Providing secrecy in key management protocols for large wireless sensors networks citation:51 ncitation:53 pid832679
+title1:LEAP: efficient security mechanisms for large-scale distributed sensor networks. title2:LEAP+: Efficient security mechanisms for large-scale distributed sensor networks citation:1493 ncitation:1343 pid970695
+title1:Bootstrapping a Data Mining Intrusion Detection System. title2:Bootstrapping a data mining intrusion detection system citation:25 ncitation:22 pid298980
+title1:Flexible support for multiple access control policies. title2:Flexible support for multiple access control policies citation:627 ncitation:600 pid2361527
+title1:Secure Databases: Constraints, Inference Channels, and Monitoring Disclosures. title2:Secure databases: Constraints, inference channels, and monitoring disclosures citation:128 ncitation:120 pid1113449
+title1:Using Checksums to Detect Data Corruption. title2:Using checksums to detect data corruption citation:48 ncitation:48 pid613799
+title1:Information disclosure under realistic assumptions: privacy versus optimality. title2:Information disclosure under realistic assumptions: Privacy versus optimality citation:40 ncitation:36 pid84067
+title1:Supporting Timing-Channel Free Computations in Multilevel Secure Object-Oriented Databases. title2:Supporting Timing-Channel Free Computations in Multilevel Secure Object-Oriented Databases. citation:14 ncitation:15 pid2776
+title1:Recent Advances in Access Control Models. title2:Recent advances in access control models citation:6 ncitation:6 pid970723
+title1:ProvidentHider: An Algorithm to Preserve Historical k-Anonymity in LBS. title2:Providenthider: An algorithm to preserve historical k-anonymity in lbs citation:16 ncitation:15 pid84064
+title1:Modeling Multilevel Entities Using Single Level Objects. title2:Modeling multilevel entities using single level objects citation:23 ncitation:23 pid604986
+title1:A Semantic-Based Transaction Processing Model for Multilevel Transactions. citation:45 ncitation:5 pid74270
+title1:Auditing Interval-Based Inference. title2:Auditing interval-based inference citation:35 ncitation:34 pid84072
+title1:An Experimental Evaluation of Multi-Key Strategies for Data Outsourcing. title2:An experimental evaluation of multi-key strategies for data outsourcing citation:25 ncitation:21 pid1275595
+title1:Trust management services in relational databases. title2:Trust management services in relational databases citation:11 ncitation:10 pid84082
+title1:Over-encryption: Management of Access Control Evolution on Outsourced Data. title2:Over-encryption: management of access control evolution on outsourced data citation:174 ncitation:118 pid1112333
+title1:Reasoning with advanced policy rules and its application to access control. title2:Reasoning with advanced policy rules and its application to access control citation:4 ncitation:5 pid84084
+title1:Establishing Pairwise Keys for Secure Communication in Ad Hoc Networks: A Probabilistic Approach. title2:Establishing pairwise keys for secure communication in ad hoc networks: A probabilistic approach citation:356 ncitation:350 pid1126362
+title1:Security and Privacy Issues for the World Wide Web: Panel Discussion. title2:Security and privacy issues for the World Wide Web: Panel discussion citation:7 ncitation:7 pid145735
+title1:Temporal Semantic Assumptions and Their Use in Databases. title2:Temporal semantic assumptions and their use in databases citation:46 ncitation:45 pid24517
+title1:Polyinstantiation Integrity in Multilevel Relations. title2:Polyinstantiation integrity in multilevel relations citation:118 ncitation:117 pid1113529
+title1:Transaction Processing in Multilevel-Secure Databases Using Replicated Architecture. title2:Transaction processing in multilevel-secure databases using replicated architecture citation:73 ncitation:72 pid1655196
+title1:Abstraction-based intrusion detection in distributed environments. title2:Abstraction-based intrusion detection in distributed environments citation:104 ncitation:99 pid84103
+title1:Integrating an Object-Oriented Data Model with Multilevel Security. title2:Integrating an object-oriented data model with multilevel security citation:146 ncitation:139 pid145740
+title1:V-COPS: A Vulnerability-Based Cooperative Alert Distribution System. title2:V-COPS: a Vulnerability-based Cooperative Alert Distribution System citation:1 ncitation:1 pid1113527
+title1:Towards Secure XML Federations. title2:Towards secure xml federations citation:8 ncitation:8 pid2356287
+title1:Interactive Analysis of Attack Graphs Using Relational Queries. title2:Interactive analysis of attack graphs using relational queries citation:17 ncitation:14 pid521853
+title1:Providing witness anonymity in peer-to-peer systems. title2:Providing witness anonymity in peer-to-peer systems citation:8 ncitation:8 pid970520
+title1:A Novel Decomposition of Multilevel Relations into Single-Level Relations. title2:A novel decomposition of multilevel relations into single-level relations citation:34 ncitation:34 pid1113514
+title1:Discovering Frequent Event Patterns with Multiple Granularities in Time Sequences. title2:Discovering frequent event patterns with multiple granularities in time sequences citation:147 ncitation:144 pid1206754
+title1:Modeling and assessing inference exposure in encrypted databases. title2:Modeling and assessing inference exposure in encrypted databases citation:88 ncitation:75 pid1118386
+title1:Testing Complex Temporal Relationships Involving Multiple Granularities and Its Application to Data Mining. title2:Testing complex temporal relationships involving multiple granularities and its application to data mining citation:80 ncitation:78 pid545679
+title1:How Anonymous Is k-Anonymous? Look at Your Quasi-ID. title2:How anonymous is k-anonymous? look at your quasi-id citation:5 ncitation:4 pid846111
+title1:Avoiding loss of fairness owing to failures in fair data exchange systems. title2:Avoiding loss of fairness owing to failures in fair data exchange systems citation:11 ncitation:10 pid145761
+title1:Answering Queries Based on Imprecision and Uncertainty Trade-Offs in Numeric Databases. title2:Answering queries based on imprecision and uncertainty trade-offs in numeric databases citation:0 ncitation:-1 pid117183
+title1:Application-Level Isolation Using Data Inconsistency Detection. title2:Application-level isolation using data inconsistency detection citation:7 ncitation:7 pid145783
+title1:Simulatable Binding: Beyond Simulatable Auditing. title2:Simulatable binding: beyond simulatable auditing citation:4 ncitation:4 pid970552
+title1:An authorization model for a public key management service. title2:An authorization model for a public key management service citation:26 ncitation:24 pid145788
+title1:VoIP Intrusion Detection Through Interacting Protocol State Machines. title2:VoIP intrusion detection through interacting protocol state machines citation:90 ncitation:85 pid1574745
+title1:Looking into the seeds of time: Discovering temporal patterns in large transaction sets. title2:Looking into the seeds of time: Discovering temporal patterns in large transaction sets citation:19 ncitation:19 pid742898
+title1:Indistinguishability: The Other Aspect of Privacy. title2:Indistinguishability: The other aspect of privacy citation:18 ncitation:17 pid970548
+title1:Authentication and Integrity in Telecommunication Signaling Network. title2:Authentication and integrity in telecommunication signaling network citation:1 ncitation:1 pid2397364
+title1:A fragile watermarking scheme for detecting malicious modifications of database relations. title2:A fragile watermarking scheme for detecting malicious modifications of database relations citation:67 ncitation:54 pid145785
+title1:A propositional policy algebra for access control. title2:A propositional policy algebra for access control citation:90 ncitation:79 pid84144
+title1:A Privacy-Enhanced Microaggregation Method. title2:A privacy-enhanced microaggregation method citation:19 ncitation:20 pid566620
+title1:Securely sharing neuroimagery. title2:Securely sharing neuroimagery citation:0 ncitation:-1 pid1118447
+title1:Flexible Commit Protocols for Advanced Transaction Processing. title2:Flexible commit protocols for advanced transaction processing citation:8 ncitation:7 pid580178
+title1:Topological analysis of network attack vulnerability. title2:Topological analysis of network attack vulnerability citation:256 ncitation:196 pid1112485
+title1:A short technical paper: Determining whether a vote assignment is dominated. title2:A short technical paper: Determining whether a vote assignment is dominated citation:0 ncitation:0 pid176278
+title1:Orange Locking: Channel-Free Database Concurrency Control Via Locking. title2:Orange locking: channel-free database concurrency control via locking citation:44 ncitation:45 pid84190
+title1:Effects of SeaView Decomposition of Multilevel Relations on Database Performance. title2:Effects of SeaView decomposition of multilevel relations on database performance citation:11 ncitation:11 pid2254410
+title1:Protecting Privacy Against Location-Based Personal Identification. title2:Protecting privacy against location-based personal identification citation:221 ncitation:202 pid1308502
+title1:Recent Advances in Access Control Models. title2:Recent advances in access control models citation:6 ncitation:6 pid160055
+title1:Measuring the effect of commutative transactions on distributed database performance. title2:Measuring the effect of commutative transactions on distributed database performance citation:1 ncitation:2 pid970607
+title1:Identifying Sensitive Associations in Databases for Release Control. title2:Identifying sensitive associations in databases for release control citation:1 ncitation:1 pid2284702
+title1:Integrating Concurrency Control and Commit Algorithms in Distributed Multilevel Secure Databases. title2:Integrating concurrency control and commit algorithms in distributed multilevel secure databases citation:13 ncitation:13 pid74390
+title1:Achieving Stricter Correctness Requirements in Multilevel Secure Database Management Systems. title2:Achieving Stricter Correctness Requirements in Multilevel Secure Database Management Systems citation:0 ncitation:0 pid581168
+title1:Information Release Control: A Learning-Based Architecture. title2:Information release control: A learning-based architecture citation:1 ncitation:2 pid84198
+title1:Towards a Multilevel Secure Relational Data Model. title2:Toward a multilevel secure relational data model citation:256 ncitation:250 pid1952881
+title1:A Unified Framework for Enforcing Multiple Access Control Policies. title2:A unified framework for enforcing multiple access control policies citation:358 ncitation:349 pid644251
+title1:Providing flexibility in information flow control for object oriented systems. title2:Providing flexibility in information flow control for object oriented systems citation:83 ncitation:81 pid986308
+title1:A Note on Estimating the Cardinality of the Projection of a Database Relation. title2:A note on estimating the cardinality of the projection of a database relation citation:4 ncitation:5 pid145712
+title1:Privacy-preserving robust data aggregation in wireless sensor networks. citation:29 ncitation:21 pid1112455
+title1:Preventing Interval-Based Inference by Random Data Perturbation. title2:Preventing interval-based inference by random data perturbation citation:15 ncitation:16 pid613638
+title1:Temporal Mediators: Supporting Uniform Accesses to Heterogeneous Temporal Information. title2:Temporal Mediators: Supporting Uniform Accesses to Heterogeneous Temporal Information citation:0 ncitation:-1 pid145713
+title1:Unauthorized inferences in semistructured databases. title2:Unauthorized inferences in semistructured databases citation:17 ncitation:14 pid1103664
+title1:A Performance Comparison of two Decomposition Techniques for Multilevel Secure Database Systems. title2:A Performance Comparison of two Decomposition Techniques for Multilevel Secure Database Systems. citation:5 ncitation:5 pid613634
+title1:A Novel Approach to Certificate Revocation Management. title2:A novel approach to certificate revocation management citation:4 ncitation:4 pid24507
+title1:A data outsourcing architecture combining cryptography and access control. title2:A data outsourcing architecture combining cryptography and access control citation:69 ncitation:56 pid613642
+title1:The Integrity Challenge. title2:The integrity challenge citation:0 ncitation:0 pid84214
+title1:Using Attribute Certificates with Mobile Policies in Electronic Commerce Applications. title2:Using attribute certificates with mobile policies in electronic commerce applications citation:16 ncitation:15 pid613640
+title1:Supporting Multiple Access Control Policies in Database Systems. title2:Supporting multiple access control policies in database systems citation:127 ncitation:124 pid1112456
+title1:Integrity Versus Security in Multi-Level Secure Databases. title2:Integrity versus security in multi-level secure databases citation:37 ncitation:34 pid1103583
+title1:A Checksum-based Corruption Detection Technique. title2:A checksum-based corruption detection technique citation:5 ncitation:5 pid1354133
+title1:Metadata Management in Outsourced Encrypted Databases. title2:Metadata management in outsourced encrypted databases citation:37 ncitation:31 pid1499558
+title1:Exploring Steganography: Seeing the Unseen. title2:Exploring steganography: Seeing the unseen citation:1078 ncitation:995 pid544745
+title1:Distributed Timestamp Generation in Planar Lattice Networks. title2:Distributed timestamp generation in planar lattice networks citation:40 ncitation:19 pid857270
+title1:A weakest-adversary security metric for network configuration security analysis. title2:A weakest-adversary security metric for network configuration security analysis citation:96 ncitation:81 pid579407
+title1:Fragmentation Design for Efficient Query Execution over Sensitive Distributed Databases. title2:Fragmentation design for efficient query execution over sensitive distributed databases citation:30 ncitation:25 pid24143
+title1:Intrusion Confinement by Isolation in Information Systems. title2:Intrusion confinement by isolation in information systems citation:61 ncitation:60 pid579401
+title1:Correlating Intrusion Events and Building Attack Scenarios Through Attack Graph Distances. title2:Correlating intrusion events and building attack scenarios through attack graph distances citation:107 ncitation:98 pid1103558
+title1:Understanding Complex Network Attack Graphs through Clustered Adjacency Matrices. title2:Understanding complex network attack graphs through clustered adjacency matrices citation:76 ncitation:62 pid161866
+title1:Efficient Minimum-Cost Network Hardening Via Exploit Dependency Graphs. title2:Efficient minimum-cost network hardening via exploit dependency graphs citation:196 ncitation:178 pid942372
+title1:An Architecture for Supporting Interoperability among Temporal Databases. title2:An architecture for supporting interoperability among temporal databases citation:9 ncitation:9 pid579392
+title1:Surviving information warfare attacks on databases. title2:Surviving information warfare attacks on databases citation:124 ncitation:118 pid167672
+title1:Ensuring Atomicity of Multilevel Transactions. title2:Ensuring atomicity of multilevel transactions citation:14 ncitation:15 pid942360
+title1:Data warehousing and data mining techniques for intrusion detection systems. title2:Data warehousing and data mining techniques for intrusion detection systems citation:21 ncitation:19 pid1558857
+title1:Chaining watermarks for detecting malicious modifications to streaming data. title2:Chaining watermarks for detecting malicious modifications to streaming data citation:43 ncitation:39 pid1103602
+title1:A View-Based Dynamic Replication Control Algorithm. title2:A view-based dynamic replication control algorithm citation:0 ncitation:1 pid212618
+title1:Practical Broadcast Authentication in Sensor Networks. title2:Practical broadcast authentication in sensor networks citation:137 ncitation:123 pid95907
+title1:Toward measuring network security using attack graphs. title2:Toward measuring network security using attack graphs citation:85 ncitation:71 pid1496709
+title1:Application-Level Isolation to Cope with Malicious Database Users. title2:Application-level isolation to cope with malicious database users citation:28 ncitation:27 pid1856
+title1:Solving multi-granularity temporal constraint networks. title2:Solving multi-granularity temporal constraint networks citation:61 ncitation:56 pid84264
+title1:A Two-tier Coarse Indexing Scheme for MLS Database Systems. title2:A Two-tier coarse indexing scheme for MLS database systems citation:1 ncitation:1 pid931931
+title1:Flexible Transaction Dependencies in Database Systems. title2:Flexible transaction dependencies in database systems citation:6 ncitation:6 pid145562
+title1:Rewriting Histories: Recovering from Malicious Transactions. title2:Rewriting histories: Recovering from malicious transactions citation:96 ncitation:95 pid970454
+title1:Model-Based Covert Timing Channels: Automated Modeling and Evasion. title2:Model-based covert timing channels: Automated modeling and evasion citation:44 ncitation:34 pid145552
+title1:L-Cover: Preserving Diversity by Anonymity. title2:L-cover: Preserving diversity by anonymity citation:1 ncitation:1 pid145554
+title1:Assessing query privileges via safe and efficient permission composition. title2:Assessing query privileges via safe and efficient permission composition citation:14 ncitation:12 pid579351
+title1:On the Impact of User Movement Simulations in the Evaluation of LBS Privacy- Preserving Techniques. title2:On the impact of user movement simulations in the evaluation of lbs privacy-preserving techniques citation:13 ncitation:12 pid145557
+title1:A Multi-Path Approach for k-Anonymity in Mobile Hybrid Networks. title2:A multi-path approach for k-anonymity in mobile hybrid networks citation:4 ncitation:3 pid940728
+title1:Secure Locking Protocols for Multilevel Database Management Systems. title2:Secure Locking Protocols for Multilevel Database Management Systems. citation:19 ncitation:19 pid579350
+title1:Defending Against Additive Attacks with Maximal Errors in Watermarking Relational Databases. title2:Defending Against Additive Attacks with Maximal Errors in Watermarking Relational Databases. citation:7 ncitation:6 pid145556
+title1:GKMPAN: An Efficient Group Rekeying Scheme for Secure Multicast in Ad-Hoc Networks. title2:GKMPAN: An efficient group rekeying scheme for secure multicast in ad-hoc networks citation:95 ncitation:74 pid970462
+title1:Measuring network security using dynamic bayesian network. title2:Measuring network security using dynamic bayesian network citation:67 ncitation:55 pid986494
+title1:Provisions and Obligations in Policy Rule Management. title2:Provisions and obligations in policy rule management citation:51 ncitation:49 pid598964
+title1:Distributed Algorithms for Dynamic Replication of Data. title2:Distributed algorithms for dynamic replication of data citation:106 ncitation:103 pid598965
+title1:Reverse Tree-based Key Routing: Robust Data Aggregation in Wireless Sensor Networks. title2:Reverse tree-based key routing: Robust data aggregation in wireless sensor networks citation:2 ncitation:1 pid613563
+title1:Restoring compromised privacy in micro-data disclosure. title2:Restoring compromised privacy in micro-data disclosure citation:1 ncitation:1 pid1188967
+title1:Data and Applications Security and Privacy XXIV, 24th Annual IFIP WG 11.3 Working Conference, Rome, Italy, June 21-23, 2010. Proceedings title2:Data and Applications Security and Privacy XXIV: 24th Annual IFIP WG 11.3 Working Conference, Rome, Italy, June 21-23, 2010, Proceedings citation:0 ncitation:0 pid2374365
+title1:Providing Mobile Users' Anonymity in Hybrid Networks. title2:Providing mobile users' anonymity in hybrid networks citation:9 ncitation:4 pid145584
+title1:-Zero Day Safety: Measuring the Security Risk of Networks against Unknown Attacks. title2:k-zero day safety: Measuring the security risk of networks against unknown attacks citation:10 ncitation:6 pid24109
+title1:Advances in Multimedia Information Systems, 4th International Workshop, MIS'98, Istanbul, Turkey, September 24-26, 1998, Proceedings title2:Advances in Multimedia Information Systems: 4th International Workshop, MIS'98, Istanbul, Turkey September 24-26, 1998, Proceedings citation:0 ncitation:1 pid579364
+title1:Preserving Anonymity of Recurrent Location-Based Queries. title2:Preserving anonymity of recurrent location-based queries citation:14 ncitation:13 pid1246435
+title1:Privacy in geo-social networks: proximity notification with untrusted service providers and curious buddies title2:Privacy in geo-social networks: proximity notification with untrusted service providers and curious buddies citation:29 ncitation:13 pid24257
+title1:Editorial. title2:Guest Editorial citation:0 ncitation:-1 pid24259
+title1:Journal on Data Semantics II title2:Journal on Data Semantics II citation:0 ncitation:-1 pid136950
+title1:Combining fragmentation and encryption to protect privacy in data storage. title2:Combining fragmentation and encryption to protect privacy in data storage citation:55 ncitation:38 pid2241236
+title1:Localized Multicast: Efficient and Distributed Replica Detection in Large-Scale Sensor Networks. title2:Localized multicast: efficient and distributed replica detection in large-scale sensor networks citation:26 ncitation:13 pid2161605
+title1:Encryption policies for regulating access to outsourced data. title2:Encryption policies for regulating access to outsourced data citation:43 ncitation:40 pid613458
+title1:Fragments and Loose Associations: Respecting Privacy in Data Publishing. title2:Fragments and loose associations: Respecting privacy in data publishing citation:17 ncitation:14 pid1409504
+title1:Who is tweeting on Twitter: human, bot, or cyborg? title2:Who is tweeting on Twitter: human, bot, or cyborg? citation:57 ncitation:34 pid856143
+title1:The ephemeral legion: producing an expert cyber-security work force from thin air. title2:The ephemeral legion: producing an expert cyber-security work force from thin air citation:2 ncitation:0 pid942468
+title1:Access control for smarter healthcare using policy spaces. title2:Access control for smarter healthcare using policy spaces citation:23 ncitation:15 pid1025637
+title1:Measuring Security Risk of Networks Using Attack Graphs. title2:Measuring security risk of networks using attack graphs citation:18 ncitation:5 pid506751
+title1:Data Mining for Intrusion Detection. title2:Data mining for intrusion detection citation:9 ncitation:10 pid84441
+title1:Time granularities in databases, data mining, and temporal reasoning. title2:Time granularities in databases, data mining, and temporal reasoning citation:256 ncitation:245 pid24213
+title1:Security and Privacy in Communication Networks - 6th Iternational ICST Conference, SecureComm 2010, Singapore, September 7-9, 2010. Proceedings title2:Security and privacy in communication networks: 6th international icst conference, securecomm 2010, singapore, september 7-9, 2010, proceedings citation:0 ncitation:0 pid744450
+title1:Selective data outsourcing for enforcing privacy. title2:Selective data outsourcing for enforcing privacy citation:9 ncitation:7 pid145430
+title1:Authorization enforcement in distributed query evaluation. title2:Authorization enforcement in distributed query evaluation citation:6 ncitation:3 pid1367745
+title1:Message from the Guest Editors. title2:Message from the Guest Editors citation:0 ncitation:0 pid2397654
+title1:Privacy in geo-social networks: proximity notification with untrusted service providers and curious buddies. title2:Privacy in geo-social networks: proximity notification with untrusted service providers and curious buddies citation:29 ncitation:13 pid856117
+title1:Damage Quarantine and Recovery in Data Processing Systems. title2:Damage Quarantine and Recovery in Data Processing Systems citation:0 ncitation:-1 pid856108
+title1:Security in Data Warehouses and OLAP Systems. title2:Security in Data Warehouses and OLAP Systems citation:1 ncitation:1 pid1255131
+title1:Preserving Privacy in On-Line Analytical Processing (OLAP) title2:Preserving Privacy for On-Line Analytical Processing (OLAP) citation:8 ncitation:8 pid2397632
+title1:Intrusion Detection in Distributed Systems - An Abstraction-Based Approach title2:Intrusion detection in distributed systems: an abstraction-based approach citation:17 ncitation:16 pid2203439
+title1:Online detection of network traffic anomalies using behavioral distance. title2:Online detection of network traffic anomalies using behavioral distance citation:13 ncitation:8 pid84420
+title1:QoP and QoS Policy Cognizant Module Composition. title2:QoP and QoS Policy Cognizant Module Composition citation:0 ncitation:-1 pid189504
+title1:Encryption-Based Policy Enforcement for Cloud Storage. title2:Encryption-based policy enforcement for cloud storage citation:14 ncitation:8 pid189505
+title1:Information Systems Security - 7th International Conference, ICISS 2011, Kolkata, India, December 15-19, 2011, Procedings title2:Information Systems Security: 7th International Conference, ICISS 2011, Kolkata, India, December 15-19, 2011, Proceedings citation:0 ncitation:0 pid145471
+title1:Cooperative Data Access in Multi-cloud Environments. title2:Cooperative data access in multi-cloud environments citation:0 ncitation:0 pid506702
+title1:Scalable Analysis of Attack Scenarios. title2:Scalable analysis of attack scenarios citation:8 ncitation:4 pid2264096
+title1:Interview: Amit Sheth On Workflow Technology. title2:Interview: Amit Sheth on workflow technology citation:12 ncitation:13 pid84449
+title1:Scalable Detection of Cyber Attacks. title2:Scalable Detection of Cyber Attacks citation:1 ncitation:1 pid985484
+title1:Entity-relationship diagrams which are in BCNF. title2:Entity-relationship diagrams which are in BCNF citation:10 ncitation:9 pid2773237
+title1:Cyber SA: Situational Awareness for Cyber Defense. title2:Cyber SA: Situational awareness for cyber defense citation:9 ncitation:7 pid2778798
+title1:Cyber Situational Awareness - Issues and Research title2:Cyber situational awareness: Issues and Research citation:40 ncitation:15 pid2778804
+title1:Moving Target Defense - Creating Asymmetric Uncertainty for Cyber Threats title2:Moving target defense: creating asymmetric uncertainty for cyber threats citation:14 ncitation:8 pid2778865
+title1:Provisional Authorizations. title2:Provisional authorizations citation:78 ncitation:73 pid2782406
+title1:DaTA - Data-Transparent Authentication Without Communication Overhead. title2:DaTA--Data-Transparent Authentication Without Communication Overhead citation:1 ncitation:1 pid2783299
+title1:Secure Data Aggregation in Wireless Sensor Networks. title2:Secure data aggregation in wireless sensor networks citation:6 ncitation:3 pid2783313
+title1:NSDMiner: Automated discovery of Network Service Dependencies. title2:NSDMiner: Automated Discovery of Network Service Dependencies citation:7 ncitation:2 pid2786231
+title1:Trading Elephants for Ants: Efficient Post-attack Reconstitution. title2:Trading Elephants for Ants: Efficient Post-attack Reconstitution citation:0 ncitation:0 pid2786282
+title1:Privacy of data outsourced to a cloud for selected readers through client-side encryption. title2:Privacy of data outsourced to a cloud for selected readers through client-side encryption citation:5 ncitation:1 pid2799259
+title1:Secure File Allocation and Caching in Large-scale Distributed Systems. title2:Secure File Allocation and Caching in Large-scale Distributed Systems citation:0 ncitation:0 pid2807488
+title1:A Probabilistic Framework for Localization of Attackers in MANETs. title2:A Probabilistic Framework for Localization of Attackers in MANETs citation:1 ncitation:0 pid2813202
+title1:Securing MAODV: attacks and countermeasures. title2:Securing MAODV: attacks and countermeasures. citation:36 ncitation:30 pid2817709
+title1:Securing password recovery through dispersion. title2:Securing password recovery through dispersion citation:0 ncitation:None pid2817710
+title1:Recoverable Encryption through Noised Secret over a Large Cloud. title2:Recoverable Encryption through Noised Secret over a Large Cloud citation:0 ncitation:1 pid2817779
+title1:Security Considerations in Data Center Configuration Management. title2:Security considerations in data center configuration management citation:1 ncitation:None pid2819483
+title1:Aggregating CVSS Base Scores for Semantics-Rich Network Security Metrics. title2:Aggregating CVSS Base Scores for Semantics-Rich Network Security Metrics citation:1 ncitation:-1 pid2819484
+title1:Access rule consistency in cooperative data access environment. title2:Access rule consistency in cooperative data access environment citation:3 ncitation:None pid2827077

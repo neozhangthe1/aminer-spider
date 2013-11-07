@@ -1,0 +1,277 @@
+title:Trustworthiness Measure for e-Service. citation:-1
+title:Theoretical and Practical Considerations of Uncertainty and Complexity in Automated Knowledge Acquisition. citation:-1
+title:A New Decomposition Method to Relieve the State Space Explosion Problem. citation:-1
+title:Correction to a Footnote in "Theoretical and Practical Considerations of Uncertainty and Complexity in Automated Knowledge Acquisition". citation:-1
+title:Performance evaluation of PC routers using a single-server multi-queue system with a reflection technique. citation:-1
+title:Methodology for Multi-site Software Engineering Using Ontology. citation:-1
+title:Privacy Data Management. citation:-1
+title:Improvement of a Convertible Undeniable Partially Blind Signature Scheme. citation:-1
+title:Theory of Deductive Systems for Protocol Verification. citation:-1
+title:An Ontology Supported Meta-interface for the Development and Installation of Customized Web Based Telemedicine Systems. citation:-1
+title:Using UML 2.1 to Model Multi-agent Systems. citation:-1
+title:HBP: an optimization technique to shorten the control cycle time of the Neural Network Controller that provides dynamic buffer tuning to eliminate overflow at user level. citation:-1
+title:Mining of Health Information from Ontologies. citation:-1
+title:Predicting the Dynamic Nature of Risk. citation:-1
+title:A Novel Dynamic Greedydual-Size Replacement Strategy to Make Time-Critical Web Applications Successful. citation:-1
+title:Repute Relationships for Reputation Management in Peer-to-Peer Communication - I. citation:-1
+title:Enhancing Data Warehousing with Fuzzy Technology. citation:-1
+title:XML Views, Part III: An UML Based Design Methodology for XML Views. citation:-1
+title:XML-Based Declarative Access Control. citation:-1
+title:Aspects Influencing Trustworthiness In Service Oriented Environments. citation:-1
+title:Genetic Algorithm and PID Control Together for Dynamic Anticipative Marginal Buffer Management: An Effective Approach to Enhance Dependability and Performance for Distributed Mobile Object-Based Real-Time Computing over the Internet. citation:-1
+title:Semantics of a Multimedia Database for Support within Synthetic Environments for Multiple Sensor Systems. citation:-1
+title:Engineering Trustworthy Ontologies: Case Study of Protein Ontology. citation:-1
+title:Supporting metasearch with XSL. citation:-1
+title:HBP: A Novel Technique for Dynamic Optimization of the Feed-Forward Neural Network Configuration. citation:-1
+title:Repute Relationships for Reputation Management in Peer-to-Peer Communication - II. citation:-1
+title:Trust and Reputation Ontologies for Electronic Business. citation:-1
+title:Automated Usability Testing. citation:-1
+title:A Methodology for Determining the Creditability of Recommending Agents. citation:-1
+title:Detection of Fractal Breakdowns by the Novel Real-Time Pattern Detection Model (Enhanced-RTPD+Holder Exponent) for Web Applications. citation:-1
+title:Two Approaches for Answering Inadequate Queries-Empirical Project IDB-KROOM. citation:-1
+title:Towards Ontology as Knowledge Representation for Intellectual Capital Measurement. citation:-1
+title:An Object-Oriented Database-based Architecture for Mobile Enterprise Applications. citation:-1
+title:Modeling Views for Semantic Web Using eXtensible Semantic (XSemantic) Nets. citation:-1
+title:XML-Based Mobile Agents. citation:-1
+title:Large scale ontology visualisation using ontology extraction. citation:-1
+title:A Neuro-Expert System Architecture with Application to Alarm Processing in a Power System Control Center. citation:-1
+title:Using the Novel FLC Dynamic Buffer Size Tuning Technique to Support More Dependable Location-Aware Information Retrieval. citation:-1
+title:A Service Oriented Architecture for Extracting and Extending Sub-Ontologies in the Semantic Grid. citation:-1
+title:Reputation Relationship and Its Inner Relationships for Service Oriented Environments. citation:-1
+title:Ascertaining the Financial Loss from Non-dependable Events in Business Interactions by Using the Monte Carlo Method. citation:-1
+title:Constructs for Building Complex Symbolic-Connectionist Systems. citation:-1
+title:HBM: A Suitable Neural Network Pruning Technique to Optimize the Execution Time of the Novel Neural Network Controller (NNC) that Eliminates Buffer Overflow. citation:-1
+title:Quantifying Risk in Financial Terms According to Context and Time for Decision Making. citation:-1
+title:Risk in Trusted Decentralized Communications. citation:-1
+title:Secure Electronic Commerce with Mobile Agents. citation:-1
+title:Trust Relationships and Reputation Relationships for Service Oriented Environments. citation:-1
+title:SWWS 2009 PC Co-chairs' Message. citation:-1
+title:Application of Object-Oriented Technology in a Terminal Power Station. citation:-1
+title:Intelligent Matching for Public Internet Web Services Towards Semi-Automatic Internet Services Mashup. citation:-1
+title:Concurrent, Real-Time Systems: a Systematic Approach Using Timed Petri Nets. citation:-1
+title:Modelling the Effect of Transient Faults in Fault-Tolerant Computer Systems. citation:-1
+title:Objects Count for Software Estimation. citation:-1
+title:The Use of Object Oriented Principles to Develop Intelligent Legal Reasoning Systems. citation:-1
+title:RDCT: A novel reconfigurable dynamic cache size tuner to shorten information retrieval time over the Internet. citation:-1
+title:Web Information Representation, Extraction, and Reasoning based on Existing Programming Technology. citation:-1
+title:Trust Ontology for Service-Oriented Environment. citation:-1
+title:Classification of trust in Peer-to-Peer (P2P) communication. citation:-1
+title:Secure E-Transactions Protocol using Intelligent Mobile Agents with Fair Privacy. citation:-1
+title:Trustworthiness and CCCI metrics in P2P communication. citation:-1
+title:Ontology Views: A Theoretical Perspective. citation:-1
+title:FLC: A Novel Dynamic Buffer Tuner for Shortening Service Roundtrip Time over the Internet by Eliminating User-Level Buffer Overflow on the Fly. citation:-1
+title:A Fuzzy Approach to Risk Based Decision Making. citation:-1
+title:Towards the Mental Health Ontology. citation:-1
+title:Reputation Ontology for Reputation Systems. citation:-1
+title:Knowledge Based System for Transforming an Object Oriented Conceptual Model into a Relational Logical Model. citation:-1
+title:Fuzzy Service Selection and Interaction Review in Distributed Electronic Markets. citation:-1
+title:Software Design Process Ontology Development. citation:-1
+title:A Practical Formally-Based Approach to Object-Oriented Modeling of Control Systems. citation:-1
+title:Towards Semantic Interoperability of Protein Data Sources. citation:-1
+title:A lambda-Cut Approximate Algorithm for Goal-Based bilevel Risk Management Systems. citation:-1
+title:Interestingness of Association Rules Using Symmetrical Tau and Logistic Regression. citation:-1
+title:Multi-site Distributed Software Development: Issues, Solutions, and Challenges. citation:-1
+title:RTPD/MACSC: A Novel Approach for Effective Pervasive Information Retrieval. citation:-1
+title:E-MACSC: A novel dynamic cache tuning technique to reduce information retrieval roundtrip time over the Internet. citation:-1
+title:Accomplishments and Challenges of Protein Ontology. citation:-1
+title:A Generic Visualization Framework to Help Debug Mobile-Object-Based Distributed Programs Running on Large Networks. citation:-1
+title:An Approximation Kuhn-Tucker Approach for Fuzzy Linear Bilevel Decision Making. citation:-1
+title:Protein Sequences Classification Using Modular RBF Neural Networks. citation:-1
+title:Theoretical Foundation for Nonlinear Edge-Preserving Regularized Learning Image Restoration. citation:-1
+title:Robustness for Evaluating Rule?s Generalization Capability in Data Mining. citation:-1
+title:ODBASE 2007 PC Co-chairs' Message. citation:-1
+title:CSOM for Mixed Data Types. citation:-1
+title:Context and Time Based Riskiness Assessment for Decision Making. citation:-1
+title:Defining Reputation in Service Oriented Environment. citation:-1
+title:Using Competitive Learning between Symbolic Rules as a Knowledge Learning Method. citation:-1
+title:Knowledge Conceptualization and Software Agent based Approach for OWL Modeling Issues. citation:-1
+title:Use of Protein Ontology to Enable Data Exchange for Complex Proteomic Experiments. citation:-1
+title:Special Section on Engineering Semantic Agent Systems. citation:-1
+title:A Practical Formally-Based Modelling Method for Object Oriented Information Systems. citation:-1
+title:PIM: A Novel Model for Secure and Reliable Distributed Computing over the Internet with Mobile Objects. citation:-1
+title:Comparing Four Novel Scalable Split/Aggregate Algorithms (Mobile Agent Based) for Distributes Mining of Multimedia Association Rules over the Internet. citation:-1
+title:T. Kapnoullas, A Virtual Logistics Network and an E-hub as a Competitive Approach for Small to Medium Size Companies. citation:-1
+title:Enabling Technology for Diagnostic Applications. citation:-1
+title:Current Trends in Biomedical Data and Applications. citation:-1
+title:Quantitative Risk Assessment of Computer Virus Attacks on Computer Networks. citation:-1
+title:Integration of User Interfaces with Application Software and Databases Through the Use of Perspectives. citation:-1
+title:A Novel R-FLC Dynamic Buffer Size Tuner to Support Time-Critical Applications over the Internet by Improving Logical Channel Fault Tolerance to Shorten Roundtrip Time. citation:-1
+title:System intrusion processes: a simulation model. citation:-1
+title:XML Descriptor Based Approach for Real Time Data Messaging. citation:-1
+title:A Novel real-time self-similar traffic detector/filter to improve the reliability of a TCP based end-to-end client/server interaction path for shorter roundtrip time. citation:-1
+title:SWWS 2006 PC Co-chairs' Message. citation:-1
+title:Modelling Exceptions in Semantic Database and Knowledge-based Systems. citation:-1
+title:Integration of Task Level Architecture with O-O Technology. citation:-1
+title:U3 - Mning Unordered Embedded Subtrees Using TMG Candidate Generation. citation:-1
+title:Towards Quantifying the Possible Risk in e-commerce Interactions for RDSS. citation:-1
+title:Enhancing Query Processing of Information Systems. citation:-1
+title:A fault tolerant model to attain reliability and high performance for distributed computing on the Internet. citation:-1
+title:Representing real time semantics for distributed application integration. citation:-1
+title:Razor: mining distance-constrained embedded subtrees. citation:-1
+title:A Tool for Object-Oriented Dynamic Modeling. citation:-1
+title:Sub-ontologies and ontology views: a theoretical perspective. citation:-1
+title:The Navigational Aspects of the Logical Design of User Interfaces. citation:-1
+title:An Object-Oriented Approach on Web Information Representation and Derivation. citation:-1
+title:Prohabilistic Induction of Decision Trees and Disjunctive Normal Forms. citation:-1
+title:Secure web services using two-way authentication and three-party key establishment for service delivery. citation:-1
+title:Fusion of knowledge-based systems and neural networks and applications. citation:-1
+title:Xplorer: A generic search and navigation application for semi-structured data repositories. citation:-1
+title:Extraction of classification rules characterized by ellipsoidal regions using soft-computing techniques. citation:-1
+title:Thinking PubMed: an Innovative System for Mental Health Domain. citation:-1
+title:Alternate Representations for Visual Constraint Specification in the Layered View Model. citation:-1
+title:A Software Engineering Approach to Develop Adaptive RBF Neural Networks. citation:-1
+title:Towards a Practical Model-Driven Approach to Web Information System. citation:-1
+title:XML as a basis for interoperability in Real Time Distributed Systems. citation:-1
+title:Web Event: A Platform-Independent Concept for Systematic Modeling, Implementing and Generating Web Applications. citation:-1
+title:Using Mobile Agent Technology to Implement Web Service Migration. citation:-1
+title:On Modelling and Analysis of Latency Problem in Fault-Tolerant Systems. citation:-1
+title:Event Composition and Detection in Data Stream Management Systems. citation:-1
+title:Semiautomatic Implementation of Communication Protocols from a Petri Net Based Specification Language Description. citation:-1
+title:Local Compilation: A Novel Paradigm for Multilanguage-Based and Reliable Distributed Computing over the Internet. citation:-1
+title:Taxonomy of Trust Relationships in Peer-to-Peer (P2P) Communication. citation:-1
+title:A Statistical-Heuristic Feature Selection Criterion for Decision Tree Induction. citation:-1
+title:Modeling Dynamic Properties in the Layered View Model for XML Using XSemantic Nets. citation:-1
+title:A Methodology for Transactional Risk Assessment and Decision Making in e-Business Interactions. citation:-1
+title:Composite Indices as a Mechanism for Transforming Multi-Level Composite Objects into Relational Databases. citation:-1
+title:Communication Protocol Design to Facilitate Re-Use Based on the Object-Oriented Paradigm. citation:-1
+title:Incorporating Prior Knowledge in the Form of Production Rules into Neural Networks Using Boolean-Like Neurons. citation:-1
+title:Alternative Web Service Paradigms. citation:-1
+title:Tree Mining in Mental Health Domain. citation:-1
+title:E-MACSC: A Novel Dynamic Cache Tuning Technique to Maintain the Hit Ratio Prescribed by the User in Internet Applications. citation:-1
+title:A Novel Traffic Independent NNC for Dynamic Buffer Tuning to Shorten the RTT of a TCP Channel. citation:-1
+title:A Novel Fuzzy Logic Controller (FLC) for Shortening the TCP Channel Roundtrip Time by Eliminating User Buffer Overflow Adaptively. citation:-1
+title:Using Real-Time Traffic Pattern Detection for Dynamic Cache Size Tuning in Information Retrieval. citation:-1
+title:Business-to-Consumer Mobile Agent-Based Internet Commerce System (MAGICS). citation:-1
+title:GOPT-Resolution in Web Information Derivation. citation:-1
+title:Applying a Fuzzy Trust Model to E-Commerce Systems. citation:-1
+title:Models and Algorithm for Fuzzy Multi-objective Multi-follower Linear Bilevel Programming. citation:-1
+title:Representing Exceptions in Rule-Based Systems. citation:-1
+title:Knowledge Analysis with Tree Patterns. citation:-1
+title:WAD Workflow System: Data-Centric Workflow System. citation:-1
+title:Classification of Reputation in Peer-to-Peer (P2P) Communication. citation:-1
+title:Reputation Ontology for Reputation Systems. citation:-1
+title:OWL, Proteins and Data Integration. citation:-1
+title:CCCI Metrics for the Measurement of Quality of e-Service. citation:-1
+title:Keynote 2: Trust and Reputation Relationships in Service-Oriented Environments. citation:-1
+title:Knowledge extraction from web-based application source code: An approach to database reverse engineering for ontology development. citation:-1
+title:Use of Neural Networks for Case-Retrieval in a System for Fashion Shoe Design. citation:-1
+title:The Object-Oriented Features in OOWIS. citation:-1
+title:Relational Database Implementation of Generic Methods in an Inheritance Hierarchy. citation:-1
+title:A Hybrid Case-Based Reasoner for Footwear Design. citation:-1
+title:A Self-Healing and Mutual-Healing Key Distribution Scheme Using Bilinear Pairings for Wireless Networks. citation:-1
+title:Trustworthiness Measurement Methodology for e-Business. citation:-1
+title:An Indexing Structure for Aggregation Relationship in OODB. citation:-1
+title:Methodology framework for the design of digital ecosystems. citation:-1
+title:Two Layer Web User Interface Analysis Framework Using SNN and iFIN. citation:-1
+title:Advances in Protein Ontology Project. citation:-1
+title:Mining Sequential Pattern Using DF2Ls. citation:-1
+title:Towards a definition of benchmarks for parallel computers dedicated to image processing/understanding. citation:-1
+title:Optimal topologies of transputers for different classes of problems. citation:-1
+title:User-defined view automation of genomic databases. citation:-1
+title:Enhancing Software Engineering Project Information through Software Engineering Ontology Instantiations. citation:-1
+title:Model of Error Propagation in Database Systems. citation:-1
+title:Towards an Algebraic Theory of Inheritance in Project Oriented Programming. citation:-1
+title:Unification of Protein Data and Knowledge Sources. citation:-1
+title:A Requirement Engineering Approach for Designing XML-View Driven, XML Document Warehouses. citation:-1
+title:Engineering XML Solutions Using Views. citation:-1
+title:XML Schema for Software Process Framework. citation:-1
+title:A Methodology for Risk Based Decision Making in a Service Oriented Environment. citation:-1
+title:An Undergraduate Software Engineering Major Embedded in a Computer Systems Engineering Degree. citation:-1
+title:SWWS 2005 PC Co-chairs' Message. citation:-1
+title:Creating a Protein Ontology Resource. citation:-1
+title:HCISWWA 2003 PC Co-chairs' Message. citation:-1
+title:Trust ontologies for e-service environments. citation:-1
+title:Context and Time Dependent Risk Based Decision Making. citation:-1
+title:Reputation in Peer-to-Peer Communication. citation:-1
+title:Modeling dimensions in the XDW model - a LVM-driven approach. citation:-1
+title:EXtensible Web (): An XML-View Based Web Engineering Methodology. citation:-1
+title:Exchanging STEP Data through XML-Based Mediators. citation:-1
+title:Preface. citation:-1
+title:Feature guide: a statistically based feature selection scheme. citation:-1
+title:On hierarchical multimedia information retrieval. citation:-1
+title:A Design Methodology for User Access Control (UAC) Middleware. citation:-1
+title:SWWS 2008 PC Co-chairs' Message. citation:-1
+title:Modeling views in the layered view model for XML using UML. citation:-1
+title:Privacy Support and Evaluation on an Ontological Basis. citation:-1
+title:Mining Unordered Distance-Constrained Embedded Subtrees. citation:-1
+title:Measurement of Usability of Software Using a Fuzzy Systems Approach. citation:-1
+title:Bridging the Gap Between Object Oriented Design and Implementation. citation:-1
+title:Quantifying Failure for Risk Based Decision Making in Digital Business Ecosystem Interactions. citation:-1
+title:Security Framework for Mobile Agent Platforms (SFMAP). citation:-1
+title:Integrating connectionless and connection-oriented traffic using quantum packets. citation:-1
+title:A Novel Fuzzy-PID Dynamic Buffer Tuning Model to Eliminate Overflow and Shorten the End-to-End Roundtrip Time for TCP Channels. citation:-1
+title:On Using Protean To Verify ISO FTAM Protocol. citation:-1
+title:Security against DOS attack in mobile IP communication. citation:-1
+title:Distributed Symbolic-SubSymbolic Agent Architecture for Configuring Power Network Faults. citation:-1
+title:An abstract layered model for Web-inclusive distributed computing leading to enhancing GRIDSpace with Web 2.0. citation:-1
+title:A Novel Self-Similar ( ) Traffic Filter to Enhance E-Business Success by Improving Internet Communication Channel Fault Tolerance. citation:-1
+title:Designing Websites with EXtensible Web (xWeb) Methodology. citation:-1
+title:A Secure Key Management Model for Wireless Mesh Networks. citation:-1
+title:Semantic Issues in E-Commerce Systems, IFIP TC2/WG2.6 Ninth Working Conference on Database Semantics, April 25-28, 2001, Hong Kong citation:-1
+title:Discovering Concept Mappings by Similarity Propagation among Substructures. citation:-1
+title:A Key Management Scheme for Heterogeneous Sensor Networks Using Keyed-Hash Chain. citation:-1
+title:On the Move to Meaningful Internet Systems 2005: OTM 2005 Workshops, OTM Confederated International Workshops and Posters, AWeSOMe, CAMS, GADA, MIOS+INTEROP, ORM, PhDS, SeBGIS, SWWS, and WOSE 2005, Agia Napa, Cyprus, October 31 - November 4, 2005, Proceedings citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2009 Workshops, Confederated International Workshops and Posters, ADI, CAMS, EI2N, ISDE, IWSSA, MONET, OnToContent, ODIS, ORM, OTM Academy, SWWS, SEMELS, Beyond SAWSDL, and COMBEK 2009, Vilamoura, Portugal, November 1-6, 2009. Proceedings citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2009, Confederated International Conferences, CoopIS, DOA, IS, and ODBASE 2009, Vilamoura, Portugal, November 1-6, 2009, Proceedings, Part I citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2009, Confederated International Conferences, CoopIS, DOA, IS, and ODBASE 2009, Vilamoura, Portugal, November 1-6, 2009, Proceedings, Part II citation:-1
+title:Modelling Volatility with Mixture Density Networks. citation:-1
+title:An Efficient Self-Healing Key Distribution Scheme. citation:-1
+title:Operation properties and delta-equalities of complex fuzzy sets. citation:-1
+title:The Open Innovation Paradigm and the Semantic Web: An Ontology for Distributed Product Innovation. citation:-1
+title:On the Move to Meaningful Internet Systems, OTM 2010 - Confederated International Conferences: CoopIS, IS, DOA and ODBASE, Hersonissos, Crete, Greece, October 25-29, 2010, Proceedings, Part II citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2010 Workshops - Confederated International Workshops and Posters: International Workshops: AVYTAT, ADI, DATAVIEW, EI2N, ISDE, MONET, OnToContent, ORM, P2P-CDVE, SeDeS, SWWS and OTMA. Hersonissos, Crete, Greece, October 25-29, 2010. Proceedings citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2010 - Confederated International Conferences: CoopIS, IS, DOA and ODBASE, Hersonissos, Crete, Greece, October 25-29, 2010, Proceedings, Part I citation:-1
+title:A Survey on Low-cost RFID Authentication Protocols citation:-1
+title:Model guided algorithm for mining unordered embedded subtrees. citation:-1
+title:Goal-Oriented Requirement Engineering for XML Document Warehouses. citation:-1
+title:Probabilistic assessment of financial risk in e-business associations. citation:-1
+title:Mining of patient data: towards better treatment strategies for depression. citation:-1
+title:Privacy-Preserving Transactions Protocol Using Mobile Agents with Mutual Authentication. citation:-1
+title:Automated knowledge acquisition. citation:-1
+title:Determining Writing Genre: Towards a Rubric-based Approach to Automated Essay Grading. citation:-1
+title:A Key Management Protocol for Multiphase Hierarchical Wireless Sensor Networks. citation:-1
+title:Response time for cloud computing providers. citation:-1
+title:Fuzzy Multi-objective Bilevel Decision Making by an Approximation Kth-Best Approach. citation:-1
+title:Dependability and Rollback Recovery for Composite Web Services. citation:-1
+title:Mining of Data with Complex Structures citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2011 - Confederated International Conferences: CoopIS, DOA-SVI, and ODBASE 2011, Hersonissos, Crete, Greece, October 17-21, 2011, Proceedings, Part I citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2011 Workshops - Confederated International Workshops and Posters: EI2N+NSF ICE, ICSP+INBAST, ISDE, ORM, OTMA, SWWS+MONET+SeDeS, and VADER 2011, Hersonissos, Crete, Greece, October 17-21, 2011. Proceedings citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2011 - Confederated International Conferences: CoopIS, DOA-SVI, and ODBASE 2011, Hersonissos, Crete, Greece, October 17-21, 2011, Proceedings, Part II citation:-1
+title:Noise Reduction in Essay Datasets for Automated Essay Grading. citation:-1
+title:IEEE 23rd International Symposium on Computer-Based Medical Systems (CBMS 2010), Perth, Australia, October 12-15, 2010 citation:-1
+title:Artificial neural network for herbal ingredient discoveries. citation:-1
+title:Evidence/discovery-based evolving ontology (EDBEO). citation:-1
+title:Knapsack Diffie-Hellman: A New Family of Diffie-Hellman. citation:-1
+title:State of the Art of Community-Driven Software Engineering Ontology Evolution. citation:-1
+title:Resource Scheduling Methods for Query Optimization in Data Grid Systems. citation:-1
+title:Neural-Network-Based Models for Short-Term Traffic Flow Forecasting Using a Hybrid Exponential Smoothing and Levenberg-Marquardt Algorithm. citation:-1
+title:Model and extended Kuhn-Tucker approach for bilevel multi-follower decision making in a referential-uncooperative situation. citation:-1
+title:Selection of Significant On-Road Sensor Data for Short-Term Traffic Flow Forecasting Using the Taguchi Method. citation:-1
+title:Detecting Events in Narrative Essays. citation:-1
+title:A Methodology to Ascertain the Level of Failure in an E-Commerce Interaction. citation:-1
+title:Event Handling for Distributed Real-Time Cyber-Physical Systems. citation:-1
+title:Guest Editorial Everyday Applications Of Neural Networks. citation:-1
+title:Transactional risk-based decision making system in e-business interactions. citation:-1
+title:Obligation nets: a rigorous object-oriented technique for modeling the behavioural semantics of information systems. citation:-1
+title:A novel approach to achieve real-time TCM (traditional Chinese medecine) telemedicine through the use of ontology and clinical intelligence discovery. citation:-1
+title:Pairing-based public-key encryption schemes with backward-and-forward security. citation:-1
+title:State of the art of data mining of tree structured information. citation:-1
+title:A dynamically reconfigurable Voice User Interace (VUI) framework and platform. citation:-1
+title:Pairing-based public-key encryption schemes with backward-and-forward security. citation:-1
+title:Mining Induced/Embedded Subtrees using the Level of Embedding Constraint. citation:-1
+title:Risk Assessment and Management in the Networked Economy citation:-1
+title:Semantics of Cyber-Physical Systems. citation:-1
+title:Optimization of neural network configurations for short-term traffic flow forecasting using orthogonal design. citation:-1
+title:10th International Conference on Machine Learning and Applications and Workshops, ICMLA 2011, Honolulu, Hawaii, USA, December 18-21, 2011. Volume 1: Main Conference citation:-1
+title:10th International Conference on Machine Learning and Applications and Workshops, ICMLA 2011, Honolulu, Hawaii, USA, December 18-21, 2011. Volume 2: Special Sessions and Workshop citation:-1
+title:Enhancement of Speech Recognitions for Control Automation Using an Intelligent Particle Swarm Optimization. citation:-1
+title:Semantic Web Support for Open-Source Software Development. citation:-1
+title:Object-oriented behaviour modelling for real-time design. citation:-1
+title:Software testing of the behavioral aspects of objects. citation:-1
+title:On-Road Sensor Configuration Design for Traffic Flow Prediction Using Fuzzy Neural Networks and Taguchi Method. citation:-1
+title:Prediction of Short-Term Traffic Variables Using Intelligent Swarm-Based Neural Networks. citation:-1
+title:Quantifying the level of failure in a digital business ecosystem interactions. citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2012, Confederated International Conferences: CoopIS, DOA-SVI, and ODBASE 2012, Rome, Italy, September 10-14, 2012. Proceedings, Part II citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2012, Confederated International Conferences: CoopIS, DOA-SVI, and ODBASE 2012, Rome, Italy, September 10-14, 2012. Proceedings, Part I citation:-1
+title:On the Move to Meaningful Internet Systems: OTM 2012 Workshops, Confederated International Workshops: OTM Academy, Industry Case Studies Program, EI2N, INBAST, META4eS, OnToContent, ORM, SeDeS, SINCOM, and SOMOCO 2012, Rome, Italy, September 10-14, 2012. Proceedings citation:-1
+title:Active routing service for the next-generation network/ISDN3. citation:-1

@@ -1,0 +1,103 @@
+title:A Flexible Authorization Framework for E-Commerce. citation:-1
+title:An Adaptive Data Replication Algorithm. citation:-1
+title:An Algorithm for Dynamic Data Distribution. citation:-1
+title:Achieving simultaneous distribution control and privacy protection for Internet media delivery. citation:-1
+title:Letter from the TC Chairman. citation:-1
+title:Letter from the TC Chair. citation:-1
+title:From the Issue Editors. citation:-1
+title:Trusted Recovery. citation:-1
+title:Discovering Calendar-based Temporal Association Rules. citation:-1
+title:Chairman's Message. citation:-1
+title:Achieving Stricter Correctness Requirements in Multilevel Secure Databases: The Dynamic Case. citation:-1
+title:Integrating Temporal Data in a Heterogeneous Environment. citation:-1
+title:Protecting Critical Information Systems (Abstract). citation:-1
+title:Construction of Universal Instances for Loop-Free Network Databases Using a Join-Like Operation. citation:-1
+title:An Extension of "Representative Instances and gamma-Acyclic Relational Schemes". citation:-1
+title:A View of Database Management Systems as Abstract Data Types. citation:-1
+title:Representative Instances and gamma-Acyclic Relational Schemes. citation:-1
+title:Maintaining Multilevel Transaction Atomicity in MLS Database Systems with Kernelized Architecture. citation:-1
+title:A Consensus Glossary of Temporal Database Concepts. citation:-1
+title:Database Security: Current Status and Key Issues. citation:-1
+title:Information Systems Research at George Mason University. citation:-1
+title:Multimedia Database System: Issues and Research Direction citation:-1
+title:On Universal and Representative Instances for Inconsistent Databases. citation:-1
+title:A Framework for Maximizing Utility of Sanitized Documents Based on Meta-labeling. citation:-1
+title:Efficient Proxy-Based Internet Media Distribution Control and Privacy Protection Infrastructure. citation:-1
+title:Reduction in Transaction Conflicts Using Semantics-Based Concurrency Control. citation:-1
+title:Performance Optimizations for Group Key Management Scheme. citation:-1
+title:Introduction to the special issue on the use of entity-relationship concepts in databases and related software. citation:-1
+title:On the Representation of Relational Structures by Entity-Relationship Diagrams. citation:-1
+title:Preserving Privacy in On-line Analytical Processing Data Cubes. citation:-1
+title:Trusted Recovery. citation:-1
+title:A Fair Locking Protocol for Multilevel Secure Databases. citation:-1
+title:k-Anonymity in Databases with Timestamped Data. citation:-1
+title:Secure Mediated Databases. citation:-1
+title:Evaluating privacy threats in released database views by symmetric indistinguishability. citation:-1
+title:Recovery from Malicious Transactions. citation:-1
+title:Kronos: A Scalable Group Re-Keying Approach for Secure Multicast. citation:-1
+title:Data Security. citation:-1
+title:Managing Security and Privacy of Information. citation:-1
+title:Temporal Modules: An Approach Toward Federated Temporal Databases. citation:-1
+title:Parity-based inference control for multi-dimensional range sum queries. citation:-1
+title:Implementing interactive analysis of attack graphs using relational databases. citation:-1
+title:Model-Driven Development for secure information systems. citation:-1
+title:Detecting VoIP Floods Using the Hellinger Distance. citation:-1
+title:Creating Objects in the Flexible Authorization Framework. citation:-1
+title:Enforcing Confidentiality Constraints on Sensitive Databases with Lightweight Trusted Clients. citation:-1
+title:Obligation Monitoring in Policy Management. citation:-1
+title:Enhancing Profiles for Anomaly Detection Using Time Granularities. citation:-1
+title:Exclusive Strategy for Generalization Algorithms in Micro-data Disclosure. citation:-1
+title:Minimizing Agent Synchronization in Workflow Systems with Temporal Constraints. citation:-1
+title:Security Issues in Data Warehousing and Data Mining: Panel Discussion. citation:-1
+title:A Logical Language for Expressing Authorizations. citation:-1
+title:On Equivalence of Relational and Network Database Models. citation:-1
+title:Semantic-Based Decomposition of Transactions. citation:-1
+title:Concurrency Control in a Secure Database via a Two-Snapshot Algorithm. citation:-1
+title:Audit Trail Organization in Relational Databases. citation:-1
+title:Dynamic Voting. citation:-1
+title:Polyinstantiation Integrity in Multilevel Relations Revisited. citation:-1
+title:Surviving Information Warfare Attacks. citation:-1
+title:Integrating Data Mining Techniques with Intrusion Detection Methods. citation:-1
+title:Distributed Databases: Turing Award Winner Jim Gray on the new millennium. citation:-1
+title:Temporal Modules: An Approach Toward Federated Temporal Databases. citation:-1
+title:Discovering calendar-based temporal association rules. citation:-1
+title:Proceedings of the 10th ACM Conference on Computer and Communications Security, CCS 2003, Washingtion, DC, USA, October 27-30, 2003 citation:-1
+title:Proceedings of the 2006 ACM Symposium on Information, Computer and Communications Security, ASIACCS 2006, Taipei, Taiwan, March 21-24, 2006 citation:-1
+title:Temporal Databases: Research and Practice. (the book grow out of a Dagstuhl Seminar, June 23-27, 1997) citation:-1
+title:Database Security, V: Status and Prospects, Results of the IFIP WG 11.3 Workshop on Database Security, Shepherdstown, West Virginia, USA, 4-7 November, 1991 citation:-1
+title:Database Security XII: Status and Prospects, IFIP TC11 WG 11.3 Twelfth International Working Conference on Database Security, July 15-17, 1998, Chalkidiki, Greece citation:-1
+title:Data and Applications Security XIX, 19th Annual IFIP WG 11.3 Working Conference on Data and Applications Security, Storrs, CT, USA, August 7-10, 2005, Proceedings citation:-1
+title:Conceptual Modeling - ER 2001, 20th International Conference on Conceptual Modeling, Yokohama, Japan, November 27-30, 2001, Proceedings citation:-1
+title:Proceedings of the 3rd Int. Conf. on Entity-Relationship Approach (ER'83) citation:-1
+title:Computer Security - ESORICS 2008, 13th European Symposium on Research in Computer Security, Málaga, Spain, October 6-8, 2008. Proceedings citation:-1
+title:Proceedings of the 1st International Workshop on Privacy in Location-Based Applications, Malaga, Spain, October 9, 2008 citation:-1
+title:Privacy in Location-Based Applications, Research Issues and Emerging Trends [This book was partially born out of the First International Workshop on Privacy in Location-Based Applications (PiLBA 2008) held in Malaga, Spain, in October 2008, in conjunction with the 13th European Symposium on Research in Computer Security]. citation:-1
+title:Information Systems Security, First International Conference, ICISS 2005, Kolkata, India, December 19-21, 2005, Proceedings citation:-1
+title:Information Security Management, Education and Privacy, IFIP 18th World Computer Congress, TC11 19th International Information Security Workshops, 22-27 August 2004, Toulouse, France citation:-1
+title:Tracking Skype VoIP Calls Over The Internet. citation:-1
+title:Security and Protection in Information Processing Systems, IFIP 18th WorldComputer Congress, TC11 19th International Information Security Conference, 22-27 August 2004, Toulouse, France citation:-1
+title:Proceedings of The IFIP TC-11 23rd International Information Security Conference, IFIP 20th World Computer Congress, IFIP SEC 2008, September 7-10, 2008, Milano, Italy citation:-1
+title:Proceedings of the 1993 ACM SIGMOD International Conference on Management of Data, Washington, D.C., May 26-28, 1993. citation:-1
+title:Integrity and Internal Control in Information Systems, IFIP TC11 Working Group 11.5, First Working Conference on Integrity and Internal Control in Information Systems: Increasing the confidence in Information Systems, Zurich, Switzerland, December 4-5, 1997 citation:-1
+title:Integrity and Internal Control in Information Systems, IFIP TC11 Working Group 11.5, Second Working Conference on Integrity and Internal Control in Information Systems: Bridging Business Requirements and Research Results, Warrenton, Virginia, USA, November 19-20, 1998 citation:-1
+title:Proceedings of the 2002 ACM Workshop on Privacy in the Electronic Society, WPES 2002, Washington, DC, USA, November 21, 2002 citation:-1
+title:Proceedings of the 2003 ACM Workshop on Privacy in the Electronic Society, WPES 2003, Washington, DC, USA, October 30, 2003 citation:-1
+title:Proceedings of the 2003 ACM Workshop on XML Security, Fairfax, VA, USA, October 31, 2003 citation:-1
+title:An Application-Level Data Transparent Authentication Scheme without Communication Overhead. citation:-1
+title:Providing witness anonymity under peer-to-peer settings. citation:-1
+title:Securing Topology Maintenance Protocols for Sensor Networks. citation:-1
+title:Encyclopedia of Cryptography and Security, 2nd Ed. citation:-1
+title:Handbook of Database Security - Applications and Trends citation:-1
+title:LH*RE: A Scalable Distributed Data Structure with Recoverable Encryption. citation:-1
+title:CCS 2000, Proceedings of the 7th ACM Conference on Computer and Communications Security, Athens, Greece, November 1-4, 2000. citation:-1
+title:Topological Vulnerability Analysis. citation:-1
+title:Securing Topology Maintenance Protocols for Sensor Networks. citation:-1
+title:Access control policies and languages. citation:-1
+title:Support for Write Privileges on Outsourced Data. citation:-1
+title:Detecting Automation of Twitter Accounts: Are You a Human, Bot, or Cyborg? citation:-1
+title:Integrating trust management and access control in data-intensive Web applications. citation:-1
+title:Time-efficient and cost-effective network hardening using attack graphs. citation:-1
+title:Private data indexes for selective access to outsourced data. citation:-1
+title:A Mission-centric Framework for Cyber Situational Awareness. citation:-1
+title:Enforcing Subscription-Based Authorization Policies in Cloud Scenarios. citation:-1
+title:An Anonymous Routing Protocol with The Local-repair Mechanism for Mobile Ad Hoc Networks. citation:-1

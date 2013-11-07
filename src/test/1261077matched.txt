@@ -1,0 +1,140 @@
+title1:A Tradeoff between Information and Communication in Broadcast Protocols. title2:A trade-off between information and communication in broadcast protocols citation:63 ncitation:48 pid61815
+title1:Universal Arguments and their Applications. title2:Universal arguments and their applications citation:118 ncitation:117 pid104412
+title1:Lower Bounds for Linear Locally Decodable Codes and Private Information Retrieval. title2:Lower bounds for linear locally decodable codes and private information retrieval citation:70 ncitation:67 pid104533
+title1:Comparing Entropies in Statistical Zero Knowledge with Applications to the Structure of SZK. title2:Comparing entropies in statistical zero knowledge with applications to the structure of SZK citation:66 ncitation:66 pid104537
+title1:Incremental Cryptography: The Case of Hashing and Signing. title2:Incremental cryptography: The case of hashing and signing citation:247 ncitation:214 pid119653
+title1:Everything Provable is Provable in Zero-Knowledge. title2:Everything provable is provable in zero-knowledge citation:196 ncitation:185 pid119696
+title1:On the (Im)possibility of Obfuscating Programs. title2:On the (im) possibility of obfuscating programs citation:659 ncitation:604 pid119705
+title1:A Simple Protocol for Signing Contracts. title2:A simple protocol for signing contracts citation:62 ncitation:61 pid120061
+title1:Two Remarks Concerning the Goldwasser-Micali-Rivest Signature Scheme. title2:Two remarks concerning the Goldwasser-Micali-Rivest signature scheme citation:119 ncitation:115 pid120063
+title1:Towards a Theory of Software Protection. title2:Towards a theory of software protection and simulation by oblivious RAMs citation:147 ncitation:3 pid120064
+title1:On the Foundations of Modern Cryptography. title2:The Foundations of Modern Cryptography citation:62 ncitation:42 pid120065
+title1:On the Security of Multi-Party Ping-Pong Protocols. title2:On the security of multi-party ping-pong protocols citation:164 ncitation:156 pid120066
+title1:On the Power of Cascade Ciphers. title2:On the power of cascade ciphers citation:64 ncitation:51 pid120067
+title1:Electronic Wallet. title2:Electronic wallet citation:67 ncitation:62 pid120068
+title1:Eliminating Decryption Errors in the Ajtai-Dwork Cryptosystem. title2:Eliminating decryption errors in the Ajtai-Dwork cryptosystem citation:61 ncitation:60 pid120069
+title1:Public-Key Cryptosystems from Lattice Reduction Problems. title2:Public-key cryptosystems from lattice reduction problems citation:333 ncitation:322 pid120070
+title1:On the Cryptographic Applications of Random Functions. title2:On the cryptographic applications of random functions citation:112 ncitation:109 pid120071
+title1:On the Existence of Pseudorandom Generators. title2:On the existence of pseudorandom generators citation:75 ncitation:147 pid120074
+title1:Session-Key Generation Using Human Passwords Only. title2:Session-key generation using human passwords only citation:192 ncitation:181 pid120075
+title1:How to Prove all NP-Statements in Zero-Knowledge, and a Methodology of Cryptographic Protocol Design. title2:How to prove all NP statements in zero-knowledge and a methodology of cryptographic protocol design citation:118 ncitation:102 pid120076
+title1:A Randomized Protocol for Signing Contracts. title2:A randomized protocol for signing contracts citation:1077 ncitation:1035 pid120267
+title1:RSA/Rabin Bits are 1/2 + 1/poly(log N) Secure title2:RSA/Rabin Bits are 1/2+ 1/poly (log N) Secure citation:57 ncitation:55 pid209806
+title1:Resettably-Sound Zero-Knowledge and its Applications. title2:Resettably-sound zero-knowledge and its applications citation:81 ncitation:77 pid210031
+title1:Randomness in Interactive Proofs title2:Randomness in interactive proofs citation:86 ncitation:89 pid210089
+title1:On the Security of Multi-Party Ping-Pong Protocols title2:On the security of multi-party ping-pong protocols citation:164 ncitation:156 pid210545
+title1:Testing Monotonicity. title2:Testing monotonicity citation:135 ncitation:124 pid210754
+title1:Property Testing and Its Connection to Learning and Approximation. title2:Property testing and its connection to learning and approximation citation:716 ncitation:581 pid210760
+title1:Security Preserving Amplification of Hardness title2:Security preserving amplification of hardness citation:125 ncitation:119 pid210762
+title1:Quantifying Knowledge Complexity title2:Quantifying knowledge complexity citation:61 ncitation:60 pid210770
+title1:Learning Polynomials with Queries: The Highly Noisy Case. title2:Learning polynomials with queries: The highly noisy case citation:164 ncitation:158 pid210772
+title1:Locally Testable Codes and PCPs of Almost-Linear Length. title2:Locally testable codes and PCPs of almost-linear length citation:117 ncitation:59 pid210774
+title1:Three Theorems Regarding Testing Graph Properties. title2:Three theorems regarding testing graph properties citation:129 ncitation:130 pid210776
+title1:On the Composition of Zero-Knowledge Proof Systems. title2:On the composition of zero-knowledge proof systems citation:90 ncitation:350 pid268099
+title1:Improved Testing Algorithms for Monotonicity. title2:Improved testing algorithms for monotonicity citation:103 ncitation:98 pid557809
+title1:Incremental cryptography and application to virus protection. title2:Incremental cryptography and application to virus protection citation:111 ncitation:107 pid621445
+title1:On the Theory of Average Case Complexity title2:On the theory of average case complexity citation:243 ncitation:237 pid621459
+title1:Asynchronous secure computation. title2:Asynchronous secure computation citation:129 ncitation:118 pid621465
+title1:Robust pcps of proximity, shorter pcps and applications to coding. title2:Robust PCPs of proximity, shorter PCPs, and applications to coding citation:131 ncitation:72 pid621488
+title1:Adaptively Secure Multi-Party Computation. title2:Adaptively secure multi-party computation citation:324 ncitation:296 pid621628
+title1:Approximations of General Independent Distributions title2:Approximations of general independent distributions citation:77 ncitation:77 pid621932
+title1:Towards a Theory of Software Protection and Simulation by Oblivious RAMs title2:Towards a theory of software protection and simulation by oblivious RAMs citation:147 ncitation:132 pid622145
+title1:On the Limits of Non-Approximability of Lattice Problems. title2:On the limits of non-approximability of lattice problems citation:188 ncitation:185 pid622146
+title1:A Hard-Core Predicate for all One-Way Functions title2:A hard-core predicate for all one-way functions citation:887 ncitation:853 pid622147
+title1:Property Testing in Bounded Degree Graphs. title2:Property testing in bounded degree graphs citation:263 ncitation:159 pid622150
+title1:A Sublinear Bipartiteness Tester for Bunded Degree Graphs. title2:A sublinear bipartiteness tester for bounded degree graphs citation:118 ncitation:115 pid622151
+title1:Chinese Remaindering with Errors. title2:Chinese remaindering with errors citation:114 ncitation:111 pid622152
+title1:Honest-Verifier Statistical Zero-Knowledge Equals General Statistical Zero-Knowledge. title2:Honest-verifier statistical zero-knowledge equals general statistical zero-knowledge citation:98 ncitation:94 pid622153
+title1:Tiny families of functions with random properties (preliminary version): a quality-size trade-off for hashing. title2:Tiny families of functions with random properties (preliminary version): a quality-size trade-off for hashing citation:120 ncitation:120 pid622154
+title1:On the Random-Oracle Methodology as Applied to Length-Restricted Signature Schemes. title2:On the random-oracle methodology as applied to length-restricted signature schemes citation:55 ncitation:52 pid627255
+title1:Efficient Emulation of Single-Hop Radio Network with Collision Detection on Multi-Hop Radio Network with no Collision Detection. title2:Efficient emulation of single-hop radio network with collision detection on multi-hop radio network with no collision detection citation:87 ncitation:93 pid653633
+title1:Property Testing in Bounded Degree Graphs. title2:Property testing in bounded degree graphs citation:263 ncitation:159 pid750054
+title1:A Randomized Protocol for Signing Contracts. title2:A randomized protocol for signing contracts citation:1077 ncitation:1035 pid771543
+title1:Lower bounds for linear locally decodable codes and private information retrieval. title2:Lower bounds for linear locally decodable codes and private information retrieval citation:70 ncitation:67 pid783610
+title1:Quantifying Knowledge Complexity. title2:Quantifying knowledge complexity citation:61 ncitation:60 pid783612
+title1:Randomness in Interactive Proofs. title2:Randomness in interactive proofs citation:86 ncitation:89 pid783623
+title1:Testing Monotonicity. title2:Testing monotonicity citation:135 ncitation:124 pid798170
+title1:A Sublinear Bipartiteness Tester for Bounded Degree Graphs. title2:A sublinear bipartiteness tester for bounded degree graphs citation:118 ncitation:115 pid798172
+title1:The Random Oracle Methodology, Revisited title2:The random oracle methodology, revisited citation:1226 ncitation:1151 pid817145
+title1:Theory of Computing: A Scientific Perspective. title2:Theory of computing: a scientific perspective citation:0 ncitation:8 pid832539
+title1:Efficient Emulation of Single-Hop Radio Network with Collision Detection on Multi-Hop Radio Network with no Collision Detection. title2:Efficient emulation of single-hop radio network with collision detection on multi-hop radio network with no collision detection citation:87 ncitation:93 pid841342
+title1:Candidate One-Way Functions Based on Expander Graphs title2:Candidate One-Way Functions Based on Expander Graphs. citation:58 ncitation:54 pid861072
+title1:On Testing Expansion in Bounded-Degree Graphs title2:On testing expansion in bounded-degree graphs citation:89 ncitation:86 pid861077
+title1:Three Theorems regarding Testing Graph Properties. title2:Three theorems regarding testing graph properties citation:129 ncitation:130 pid861094
+title1:On the (Im)possibility of Obfuscating Programs title2:On the (im) possibility of obfuscating programs citation:659 ncitation:604 pid861187
+title1:Lower Bounds for Linear Locally Decodable Codes and Private Information Retrieval title2:Lower bounds for linear locally decodable codes and private information retrieval citation:70 ncitation:67 pid861210
+title1:Universal Arguments and their Applications title2:Universal arguments and their applications citation:118 ncitation:117 pid861223
+title1:Locally Testable Codes and PCPs of Almost-Linear Length title2:Locally testable codes and PCPs of almost-linear length citation:117 ncitation:59 pid861284
+title1:Zero-Knowledge twenty years after its invention title2:Zero-Knowledge twenty years after its invention. citation:70 ncitation:63 pid861297
+title1:Robust PCPs of Proximity, Shorter PCPs and Applications to Coding title2:Robust PCPs of proximity, shorter PCPs, and applications to coding citation:131 ncitation:72 pid861416
+title1:Collision-Free Hashing from Lattice Problems title2:Collision-free hashing from lattice problems citation:98 ncitation:89 pid861830
+title1:Public-Key Cryptosystems from Lattice Reduction Problems title2:Public-key cryptosystems from lattice reduction problems citation:333 ncitation:322 pid861844
+title1:Property Testing and its connection to Learning and Approximation title2:Property testing and its connection to learning and approximation citation:716 ncitation:581 pid861845
+title1:Eliminating Decryption Errors in the Ajtai-Dwork Cryptosystem. title2:Eliminating decryption errors in the Ajtai-Dwork cryptosystem citation:61 ncitation:60 pid861873
+title1:On the Limits of Non-Approximability of Lattice Problems title2:On the limits of non-approximability of lattice problems citation:188 ncitation:185 pid861886
+title1:Another proof that BPP subseteq PH (and more). title2:Another proof that BPP\ subseteq PH (and more) citation:82 ncitation:88 pid861900
+title1:Combinatorial Property Testing (a survey). title2:Combinatorial property testing (a survey) citation:124 ncitation:120 pid861911
+title1:Learning Polynomials with Queries - The Highly Noisy Case. title2:Learning polynomials with queries: The highly noisy case citation:164 ncitation:158 pid861976
+title1:Chinese Remaindering with Errors title2:Chinese remaindering with errors citation:114 ncitation:111 pid861978
+title1:Comparing Entropies in Statistical Zero-Knowledge with Applications to the Structure of SZK title2:Comparing entropies in statistical zero knowledge with applications to the structure of SZK citation:66 ncitation:66 pid861979
+title1:Approximating Shortest Lattice Vectors is Not Harder Than Approximating Closest Lattice Vectors. title2:Approximating shortest lattice vectors is not harder than approximating closest lattice vectors citation:77 ncitation:72 pid861996
+title1:Improved Testing Algorithms for Monotonicity. title2:Improved testing algorithms for monotonicity citation:103 ncitation:98 pid862011
+title1:Resettable Zero-Knowledge. title2:Resettable zero-knowledge citation:224 ncitation:211 pid862036
+title1:On the Average-Case Complexity of Property Testing. title2:On the average-case complexity of property testing citation:0 ncitation:2 pid862156
+title1:Lower Bounds for Sampling Algorithms for Estimating the Average. title2:Lower bounds for sampling algorithms for estimating the average citation:70 ncitation:65 pid930310
+title1:Approximating Shortest Lattice Vectors is not Harder than Approximating Closest Lattice Vectors. title2:Approximating shortest lattice vectors is not harder than approximating closest lattice vectors citation:77 ncitation:72 pid931376
+title1:A Trade-Off between Information and Communication in Broadcast Protocols title2:A trade-off between information and communication in broadcast protocols citation:63 ncitation:48 pid949655
+title1:The random oracle methodology, revisited. title2:The random oracle methodology, revisited citation:1226 ncitation:1151 pid949956
+title1:How to construct random functions. title2:How to construct random functions citation:1468 ncitation:1423 pid950465
+title1:Property Testing and its Connection to Learning and Approximation. title2:Property testing and its connection to learning and approximation citation:716 ncitation:581 pid950466
+title1:Proofs that Yield Nothing But Their Validity for All Languages in NP Have Zero-Knowledge Proof Systems. title2:Proofs that yield nothing but their validity or all languages in NP have zero-knowledge proof systems citation:1012 ncitation:3310 pid950467
+title1:Software Protection and Simulation on Oblivious RAMs. title2:Software protection and simulation on oblivious RAMs citation:386 ncitation:360 pid950468
+title1:Locally testable codes and PCPs of almost-linear length. title2:Locally testable codes and PCPs of almost-linear length citation:117 ncitation:59 pid951920
+title1:On the power of two-point based sampling. title2:On the power of two-point based sampling citation:211 ncitation:201 pid959979
+title1:On the Time-Complexity of Broadcast in Multi-hop Radio Networks: An Exponential Gap Between Determinism and Randomization. title2:On the time-complexity of broadcast in multi-hop radio networks: An exponential gap between determinism and randomization citation:351 ncitation:336 pid971445
+title1:On the Theory of Average Case Complexity. title2:On the theory of average case complexity citation:243 ncitation:237 pid971495
+title1:On the Limits of Nonapproximability of Lattice Problems. title2:On the limits of non-approximability of lattice problems citation:188 ncitation:185 pid972042
+title1:On-Line/Off-Line Digital Signatures. title2:On-line/off-line digital signatures citation:224 ncitation:230 pid985858
+title1:A Uniform-Complexity Treatment of Encryption and Zero-Knowledge. title2:A uniform-complexity treatment of encryption and zero-knowledge citation:142 ncitation:133 pid985912
+title1:How to Construct Constant-Round Zero-Knowledge Proof Systems for NP. title2:How to construct constant-round zero-knowledge proof systems for NP citation:264 ncitation:248 pid985916
+title1:Definitions and Properties of Zero-Knowledge Proof Systems. title2:Definitions and properties of zero-knowledge proof systems citation:311 ncitation:288 pid985918
+title1:Session-Key Generation Using Human Passwords Only. title2:Session-key generation using human passwords only citation:192 ncitation:181 pid986129
+title1:Three theorems regarding testing graph properties. title2:Three theorems regarding testing graph properties citation:129 ncitation:130 pid1052020
+title1:RSA and Rabin Functions: Certain Parts are as Hard as the Whole. title2:RSA and Rabin functions: Certain parts are as hard as the whole citation:334 ncitation:311 pid1058440
+title1:Unbiased Bits from Sources of Weak Randomness and Probabilistic Communication Complexity. title2:Unbiased bits from sources of weak randomness and probabilistic communication complexity citation:444 ncitation:428 pid1058834
+title1:Fault-Tolerant Computation in the Full Information Model. title2:Fault-tolerant computation in the full information model citation:67 ncitation:64 pid1059360
+title1:On the Composition of Zero-Knowledge Proof Systems. title2:On the composition of zero-knowledge proof systems citation:90 ncitation:350 pid1059361
+title1:On the Existence of Pseudorandom Generators. title2:On the existence of pseudorandom generators citation:75 ncitation:147 pid1059362
+title1:Robust PCPs of Proximity, Shorter PCPs, and Applications to Coding. title2:Robust PCPs of proximity, shorter PCPs, and applications to coding citation:131 ncitation:72 pid1060700
+title1:Special Issue on Randomness and Complexity. title2:Special Issue on Randomness and Complexity citation:0 ncitation:0 pid1060721
+title1:Universal Arguments and their Applications. title2:Universal arguments and their applications citation:118 ncitation:117 pid1060943
+title1:Learning Polynomials with Queries: The Highly Noisy Case. title2:Learning polynomials with queries: The highly noisy case citation:164 ncitation:158 pid1061405
+title1:Computational complexity: a conceptual perspective. title2:Computational complexity: a conceptual perspective citation:237 ncitation:183 pid1062310
+title1:A fair protocol for signing contracts. title2:A fair protocol for signing contracts citation:273 ncitation:268 pid1104214
+title1:Chinese remaindering with errors. title2:Chinese remaindering with errors citation:114 ncitation:111 pid1105890
+title1:On the Power of Cascade Ciphers title2:On the power of cascade ciphers citation:64 ncitation:49 pid1117414
+title1:More Constructions of Lossy and Correlation-Secure Trapdoor Functions. title2:More constructions of lossy and correlation-secure trapdoor functions citation:62 ncitation:49 pid1403008
+title1:Computational complexity - a conceptual perspective. title2:Computational complexity: a conceptual perspective citation:237 ncitation:183 pid1588311
+title1:Input-Oblivious Proof Systems and a Uniform Complexity Perspective on P/poly. title2:Input-Oblivious Proof Systems and a Uniform Complexity Perspective on P/poly. citation:0 ncitation:0 pid2185139
+title1:Monotone Circuits: One-Way Functions versus Pseudorandom Generators. title2:Monotone Circuits: One-Way Functions versus Pseudorandom Generators. citation:2 ncitation:0 pid2366565
+title1:More Constructions of Lossy and Correlation-Secure Trapdoor Functions. title2:More constructions of lossy and correlation-secure trapdoor functions citation:62 ncitation:49 pid2373074
+title1:A Sample of Samplers: A Computational Perspective on Sampling. title2:A sample of samplers: A computational perspective on sampling citation:88 ncitation:92 pid2428814
+title1:On Testing Expansion in Bounded-Degree Graphs. title2:On testing expansion in bounded-degree graphs citation:89 ncitation:86 pid2776369
+title1:Candidate One-Way Functions Based on Expander Graphs. title2:Candidate One-Way Functions Based on Expander Graphs. citation:58 ncitation:54 pid2810323
+title1:Strong Proofs of Knowledge. title2:Strong Proofs of Knowledge (preliminary version) citation:0 ncitation:0 pid2919676
+title1:Collision-Free Hashing from Lattice Problems. title2:Collision-free hashing from lattice problems citation:98 ncitation:89 pid2940000
+title1:On the Average-Case Complexity of Property Testing. title2:On the average-case complexity of property testing citation:0 ncitation:2 pid2962368
+title1:Basic Facts about Expander Graphs. title2:Basic facts about expander graphs citation:0 ncitation:0 pid2967595
+title1:The Foundations of Cryptography - Volume 2, Basic Applications. title2:Foundations of Cryptography: Volume 2, Basic Applications citation:2859 ncitation:2679 pid3142607
+title1:Enhancements of Trapdoor Permutations. title2:Enhancements of Trapdoor Permutations citation:0 ncitation:0 pid3169050
+title1:Zero-Knowledge twenty years after its invention. title2:Zero-Knowledge twenty years after its invention. citation:70 ncitation:63 pid3169051
+title1:Resettably-Sound Zero-Knowledge and its Applications. title2:Resettably-sound zero-knowledge and its applications citation:81 ncitation:77 pid3169052
+title1:Candidate One-Way Functions Based on Expander Graphs. title2:Candidate One-Way Functions Based on Expander Graphs. citation:58 ncitation:54 pid3169055
+title1:On the random-oracle methodology as applied to length-restricted signature schemes. title2:On the random-oracle methodology as applied to length-restricted signature schemes citation:55 ncitation:52 pid3169056
+title1:On the (Im)possibility of Obfuscating Programs. title2:On the (im) possibility of obfuscating programs citation:659 ncitation:604 pid3169059
+title1:Session-Key Generation using Human Passwords Only. title2:Session-key generation using human passwords only citation:192 ncitation:181 pid3169060
+title1:Universal Arguments and their Applications. title2:Universal arguments and their applications citation:118 ncitation:117 pid3169062
+title1:On the (im)possibility of obfuscating programs. title2:On the (im) possibility of obfuscating programs citation:659 ncitation:604 pid3169070
+title1:Monotone Circuits: One-Way Functions versus Pseudorandom Generators. title2:Monotone Circuits: One-Way Functions versus Pseudorandom Generators. citation:2 ncitation:-1 pid3169077
+title1:On the np-completeness of certain network testing problems. citation:103 ncitation:100 pid3169078
+title1:More Constructions of Lossy and Correlation-Secure Trapdoor Functions. title2:More constructions of lossy and correlation-secure trapdoor functions citation:62 ncitation:None pid3169079

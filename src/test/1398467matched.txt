@@ -1,0 +1,234 @@
+title1:Remote Attestation on Legacy Operating Systems With Trusted Platform Modules. title2:Remote attestation on legacy operating systems with trusted platform modules citation:65 ncitation:51 pid869942
+title1:Blind Differential Cryptanalysis for Enhanced Power Attacks. title2:Blind differential cryptanalysis for enhanced power attacks citation:30 ncitation:29 pid570531
+title1:Power-Analysis Attack on an ASIC AES implementation. title2:Power-Analysis Attack on an ASIC AES implementation citation:152 ncitation:130 pid2135111
+title1:On Securely Scheduling a Meeting. title2:On securely scheduling a meeting citation:31 ncitation:30 pid457275
+title1:Cryptanalysis of Reduced Variants of the FORK-256 Hash Function. title2:Cryptanalysis of reduced variants of the FORK-256 hash function citation:14 ncitation:14 pid580855
+title1:Anonymous user communication for privacy protection in wireless metropolitan mesh networks. title2:Anonymous user communication for privacy protection in wireless metropolitan mesh networks citation:23 ncitation:15 pid127225
+title1:A New Keystream Generator MUGI. title2:A new keystream generator MUGI citation:70 ncitation:65 pid1196935
+title1:On Feistel Ciphers Using Optimal Diffusion Mappings Across Multiple Rounds. title2:On Feistel ciphers using optimal diffusion mappings across multiple rounds citation:31 ncitation:24 pid895239
+title1:Seven-Property-Preserving Iterated Hashing: ROX. title2:Seven-property-preserving iterated hashing: ROX citation:76 ncitation:68 pid663408
+title1:Cryptanalysis of White-Box DES Implementations with Arbitrary External Encodings. title2:Cryptanalysis of white-box DES implementations with arbitrary external encodings citation:35 ncitation:29 pid51176
+title1:On the Performance of Signature Schemes Based on Elliptic Curves. title2:On the performance of signature schemes based on elliptic curves citation:106 ncitation:104 pid524978
+title1:A Toolbox for Cryptanalysis: Linear and Affine Equivalence Algorithms. title2:A toolbox for cryptanalysis: Linear and affine equivalence algorithms citation:67 ncitation:54 pid2388899
+title1:Classification of Boolean Functions of 6 Variables or Less with Respect to Some Cryptographic Properties. title2:Classification of boolean functions of 6 variables or less with respect to some cryptographic properties citation:22 ncitation:20 pid781308
+title1:On the security of stepwise triangular systems. title2:On the security of stepwise triangular systems citation:11 ncitation:9 pid720054
+title1:Hardware architectures for public key cryptography. title2:Hardware architectures for public key cryptography citation:91 ncitation:81 pid192747
+title1:Efficient Cooperative Signatures: A Novel Authentication Scheme for Sensor Networks. title2:Efficient cooperative signatures: A novel authentication scheme for sensor networks citation:17 ncitation:18 pid267543
+title1:Privacy Weaknesses in Biometric Sketches. title2:Privacy weaknesses in biometric sketches citation:87 ncitation:58 pid842480
+title1:Differential power and electromagnetic attacks on a FPGA implementation of elliptic curve cryptosystems. title2:Differential power and electromagnetic attacks on a FPGA implementation of elliptic curve cryptosystems citation:19 ncitation:17 pid1164996
+title1:Pripayd: privacy friendly pay-as-you-drive insurance. title2:PriPAYD: Privacy-friendly pay-as-you-drive insurance citation:63 ncitation:52 pid23341
+title1:Hardware Implementation of an Elliptic Curve Processor over GF(p). title2:Hardware implementation of an elliptic curve processor over GF (p) citation:84 ncitation:78 pid1541139
+title1:State-of-the-art ciphers for commercial applications. title2:State-of-the-art ciphers for commercial applications citation:2 ncitation:1 pid1625822
+title1:Towards a framework for evaluating certificate status information mechanisms. title2:Towards a framework for evaluating certificate status information mechanisms citation:32 ncitation:32 pid2135163
+title1:A fast dual-field modular arithmetic logic unit and its hardware implementation. title2:A fast dual-field modular arithmetic logic unit and its hardware implementation citation:17 ncitation:15 pid1164973
+title1:Cryptanalysis of 3-Pass HAVAL. title2:Cryptanalysis of 3-pass HAVAL citation:49 ncitation:44 pid667221
+title1:Revisiting a combinatorial approach toward measuring anonymity. title2:Revisiting a combinatorial approach toward measuring anonymity citation:29 ncitation:27 pid713493
+title1:High-performance Public-key Cryptoprocessor for Wireless Mobile Applications. title2:High-performance public-key cryptoprocessor for wireless mobile applications citation:19 ncitation:19 pid1243111
+title1:The Newton Channel. title2:The Newton channel citation:45 ncitation:47 pid50173
+title1:Hardware/Software Co-design for Hyperelliptic Curve Cryptography (HECC) on the 8051µP. citation:20 ncitation:22 pid800660
+title1:On the Power of Memory in the Design of Collision Resistant Hash Functions. title2:On the power of memory in the design of collision resistant hash functions citation:19 ncitation:19 pid429542
+title1:Evaluating the Resistance of Stream Ciphers with Linear Feedback Against Fast Algebraic Attacks. title2:Evaluating the resistance of stream ciphers with linear feedback against fast algebraic attacks citation:16 ncitation:15 pid667230
+title1:Taxonomy of Mixes and Dummy Traffic. title2:Taxonomy of mixes and dummy traffic citation:63 ncitation:60 pid1251528
+title1:On Weaknesses of Non-surjective Round Functions. citation:44 ncitation:39 pid87002
+title1:Efficient Negative Databases from Cryptographic Hash Functions. title2:Efficient negative databases from cryptographic hash functions citation:16 ncitation:15 pid1251530
+title1:An FPGA implementation of an elliptic curve processor GF(2). title2:An FPGA implementation of an elliptic curve processor GF (2 m) citation:41 ncitation:42 pid1659006
+title1:FPGA Vendor Agnostic True Random Number Generator. title2:FPGA vendor agnostic true random number generator citation:68 ncitation:63 pid1361092
+title1:An Introduction to Cryptology. title2:An introduction to cryptology citation:2 ncitation:2 pid51106
+title1:A Systematic Evaluation of Compact Hardware Implementations for the Rijndael S-Box. title2:A systematic evaluation of compact hardware implementations for the Rijndael S-box citation:68 ncitation:62 pid378871
+title1:Identification via location-profiling in GSM networks. title2:Identification via location-profiling in GSM networks citation:41 ncitation:28 pid842370
+title1:On the (In)security of Stream Ciphers Based on Arrays and Modular Addition. title2:On the (in) security of stream ciphers based on arrays and modular addition citation:32 ncitation:26 pid452978
+title1:New Weak-Key Classes of IDEA. title2:New weak-key classes of IDEA citation:47 ncitation:37 pid234073
+title1:Towards Tamper Resistant Code Encryption: Practice and Experience. title2:Towards tamper resistant code encryption: Practice and experience citation:25 ncitation:21 pid859479
+title1:From Image Hashing to Video Hashing. title2:From image hashing to video hashing citation:2 ncitation:1 pid216074
+title1:Hardware Implementation of a Montgomery Modular Multiplier in a Systolic Array. title2:Hardware implementation of a Montgomery modular multiplier in a systolic array citation:47 ncitation:43 pid452936
+title1:Cryptography in Computer System Security. title2:Cryptography in Computer System Security J. UCS Special Issue citation:2 ncitation:2 pid1197030
+title1:Resynchronization Attacks on WG and LEX. title2:Resynchronization Attacks on WG and LEX citation:29 ncitation:24 pid2686200
+title1:Authentication and Payment in Future Mobile Systems. title2:Authentication and payment in future mobile systems citation:34 ncitation:132 pid667234
+title1:A Memory Efficient Version of Satoh's Algorithm. title2:A memory efficient version of Satoh's algorithm citation:54 ncitation:52 pid2207726
+title1:A Study of the Security of Unbalanced Oil and Vinegar Signature Schemes. title2:A study of the security of Unbalanced Oil and Vinegar signature schemes citation:56 ncitation:51 pid2698869
+title1:Authentication and Payment in Future Mobile Systems. title2:Authentication and payment in future mobile systems citation:34 ncitation:132 pid51080
+title1:The Wandering Nodes: Key Management for Low-Power Mobile Ad Hoc Networks. title2:The wandering nodes: Key management for low-power mobile ad hoc networks citation:15 ncitation:15 pid314742
+title1:Related-Key Rectangle Attacks on Reduced AES-192 and AES-256. title2:Related-key rectangle attacks on reduced AES-192 and AES-256 citation:83 ncitation:67 pid447124
+title1:Cryptanalysis of a fast cryptographic checksum algorithm. title2:Cryptanalysis of a fast cryptographic checksum algorithm citation:13 ncitation:10 pid1588304
+title1:Offline NFC payments with electronic vouchers. title2:Offline NFC payments with electronic vouchers citation:15 ncitation:11 pid1308618
+title1:Cryptanalysis of the CFB Mode of the DES with a Reduced Number of Rounds. title2:Cryptanalysis of the CFB mode of the DES with a reduced number of rounds citation:29 ncitation:28 pid410298
+title1:MDx-MAC and Building Fast MACs from Hash Functions. title2:MDx-MAC and building fast MACs from hash functions citation:264 ncitation:243 pid1002713
+title1:A Chosen Text Attack on The Modified Cryptographic Checksum Algorithm of Cohen and Huang. title2:A chosen text attack on the modified cryptographic checksum algorithm of Cohen and Huang citation:10 ncitation:11 pid1197044
+title1:Hash Functions Based on Block Ciphers: A Synthetic Approach. title2:Hash functions based on block ciphers: A synthetic approach citation:303 ncitation:280 pid2397311
+title1:On the Security of the Threshold Scheme Based on the Chinese Remainder Theorem. title2:On the security of the threshold scheme based on the Chinese remainder theorem citation:30 ncitation:27 pid217350
+title1:New Weaknesses in the Keystream Generation Algorithms of the Stream Ciphers TPy and Py. title2:New weaknesses in the keystream generation algorithms of the stream ciphers TPy and Py citation:14 ncitation:14 pid2290724
+title1:On the covering radii of binary Reed-Muller codes in the set of resilient Boolean functions. title2:On the covering radii of binary Reed-Muller codes in the set of resilient Boolean functions citation:17 ncitation:15 pid541349
+title1:A Randomised Algorithm for Checking the Normality of Cryptographic Boolean Functions. title2:A randomised algorithm for checking the normality of cryptographic Boolean functions citation:11 ncitation:10 pid127092
+title1:Cryptanalysis of the Alleged SecurID Hash Function. title2:Cryptanalysis of the alleged SecurID hash function citation:30 ncitation:26 pid970499
+title1:Collisions for RC4-Hash. title2:Collisions for RC4-Hash citation:10 ncitation:7 pid298803
+title1:A Tangled World Wide Web of Security Issues. title2:A tangled world wide web of security issues citation:15 ncitation:14 pid217363
+title1:Analysis of Grain's Initialization Algorithm. title2:Analysis of Grain's initialization algorithm citation:35 ncitation:28 pid805484
+title1:Trivium. title2:Trivium citation:87 ncitation:85 pid120396
+title1:A survey of recent developments in cryptographic algorithms for smart cards. title2:A survey of recent developments in cryptographic algorithms for smart cards citation:18 ncitation:15 pid120395
+title1:Solving Systems of Differential Equations of Addition. title2:Solving systems of differential equations of addition citation:24 ncitation:22 pid541312
+title1:On the Security of Encryption Modes of MD4, MD5 and HAVAL. title2:On the Security of Encryption Modes of MD4, MD5 and HAVAL citation:21 ncitation:20 pid452992
+title1:On the Algebraic Immunity of Symmetric Boolean Functions. title2:On the algebraic immunity of symmetric Boolean functions citation:139 ncitation:127 pid1254805
+title1:On Boolean Functions with Generalized Cryptographic Properties. title2:On Boolean functions with generalized cryptographic properties citation:26 ncitation:25 pid1109645
+title1:Embedded Trusted Computing with Authenticated Non-volatile Memory. title2:Embedded trusted computing with authenticated non-volatile memory citation:29 ncitation:25 pid1254806
+title1:Higher Order Universal One-Way Hash Functions. title2:Higher order universal one-way hash functions citation:14 ncitation:13 pid570368
+title1:Analysis Methods for (Alleged) RC4. title2:Analysis methods for (alleged) RC4 citation:133 ncitation:120 pid453004
+title1:Hash Functions Based on Block Ciphers and Quaternary Codes. title2:Hash functions based on block ciphers and quaternary codes citation:29 ncitation:28 pid193589
+title1:Universally Composable Adaptive Priced Oblivious Transfer. title2:Universally composable adaptive priced oblivious transfer citation:22 ncitation:19 pid877803
+title1:Combining World Wide Web and wireless security. title2:Combining world wide web and wireless security citation:29 ncitation:30 pid717052
+title1:Cryptography on smart cards. title2:Cryptography on smart cards citation:29 ncitation:27 pid1262376
+title1:The Biryukov-Demirci Attack on Reduced-Round Versions of IDEA and MESH Ciphers. title2:The Biryukov-Demirci attack on reduced-round versions of IDEA and MESH ciphers citation:10 ncitation:14 pid51020
+title1:Maa. title2:Security analysis of the message authenticator algorithm (maa) citation:14 ncitation:-1 pid796250
+title1:ARM: Anonymous Routing Protocol for Mobile Ad hoc Networks. title2:ARM: Anonymous routing protocol for mobile ad hoc networks citation:158 ncitation:109 pid19198
+title1:HMAC. title2:On the security of HMAC and NMAC based on HAVAL, MD4, MD5, SHA-0 and SHA-1 citation:81 ncitation:-1 pid1230339
+title1:Speed Records for NTRU. title2:Speed records for NTRU citation:23 ncitation:17 pid719947
+title1:Towards Measuring Anonymity. title2:Towards measuring anonymity citation:557 ncitation:504 pid911293
+title1:Efficient Oblivious Augmented Maps: Location-Based Services with a Payment Broker. title2:Efficient oblivious augmented maps: Location-based services with a payment broker citation:15 ncitation:16 pid50991
+title1:Related-Key Attacks on the Py-Family of Ciphers and an Approach to Repair the Weaknesses. title2:Related-key Attacks on the Py-family of Ciphers and an Approach to Repair the Weaknesses citation:15 ncitation:9 pid164310
+title1:Attacking Some Perceptual Image Hash Algorithms. title2:Attacking some perceptual image hash algorithms citation:13 ncitation:10 pid50964
+title1:Revisiting Higher-Order DPA Attacks: . title2:Revisiting higher-order DPA attacks citation:38 ncitation:30 pid1259210
+title1:Mutual Information Analysis. title2:Mutual information analysis citation:183 ncitation:150 pid923487
+title1:Remote attestation on legacy operating systems with trusted platform modules. title2:Remote attestation on legacy operating systems with trusted platform modules citation:65 ncitation:51 pid793517
+title1:Location privacy in wireless personal area networks. title2:Location privacy in wireless personal area networks citation:24 ncitation:24 pid2270709
+title1:Power Analysis Attacks Against FPGA Implementations of the DES. title2:Power analysis attacks against FPGA implementations of the DES citation:48 ncitation:44 pid19149
+title1:Improved Characteristics for Differential Cryptanalysis of Hash Functions Based on Block Ciphers. title2:Improved characteristics for differential cryptanalysis of hash functions based on block ciphers citation:24 ncitation:21 pid660300
+title1:Cryptanalysis of McGuffin. title2:Cryptanalysis of mcguffin citation:11 ncitation:11 pid1197337
+title1:A Family of Trapdoor Ciphers. title2:A family of trapdoor ciphers citation:12 ncitation:13 pid35667
+title1:On Secure and Anonymous Buyer-Seller Watermarking Protocol. title2:On secure and anonymous buyer-seller watermarking protocol citation:21 ncitation:20 pid570451
+title1:Producing Collisions for PANAMA. title2:Producing collisions for panama citation:22 ncitation:22 pid49987
+title1:The Wireless Application Protocol. title2:The wireless application protocol (WAP) citation:16 ncitation:-1 pid660293
+title1:Secure Billing for Mobile Information Services in UMTS. title2:Secure billing for mobile information services in UMTS citation:39 ncitation:37 pid1197302
+title1:The Cipher SHARK. title2:The cipher SHARK citation:183 ncitation:163 pid1322182
+title1:NESSIE: A European Approach to Evaluate Cryptographic Algorithms. title2:NESSIE: A European approach to evaluate cryptographic algorithms citation:2 ncitation:2 pid539710
+title1:Design Principles for Dedicated Hash Functions. title2:Design principles for dedicated hash functions citation:11 ncitation:10 pid1541412
+title1:A New Weakness in the RC4 Keystream Generator and an Approach to Improve the Security of the Cipher. title2:A New Weakness in the RC4 Keystream Generator and an Approach to Improve the Security of the Cipher citation:116 ncitation:90 pid1654546
+title1:MAME: A Compression Function with Reduced Hardware Requirements. title2:MAME: A compression function with reduced hardware requirements citation:22 ncitation:19 pid399567
+title1:Traffic Analysis Attacks on a Continuously-Observable Steganographic File System. title2:Traffic analysis attacks on a continuously-observable steganographic file system citation:13 ncitation:9 pid2398675
+title1:Linear Cryptanalysis of Reduced-Round Versions of the SAFER Block Cipher Family. title2:Linear cryptanalysis of reduced-round versions of the SAFER block cipher family citation:15 ncitation:14 pid332840
+title1:Equivalent Keys in HFE, C, and Variations. title2:Equivalent keys in HFE, C*, and variations citation:41 ncitation:37 pid1322198
+title1:Extending the Resynchronization Attack. title2:Extending the resynchronization attack citation:34 ncitation:35 pid87268
+title1:Superscalar Coprocessor for High-Speed Curve-Based Cryptography. title2:Superscalar coprocessor for high-speed curve-based cryptography citation:41 ncitation:33 pid1057387
+title1:Perfect Matching Disclosure Attacks. title2:Perfect matching disclosure attacks citation:38 ncitation:29 pid1197292
+title1:Probabilistic Algebraic Attacks. title2:Probabilistic algebraic attacks citation:20 ncitation:19 pid217273
+title1:Construction of secure and fast hash functions using nonbinary error-correcting codes. title2:Construction of secure and fast hash functions using nonbinary error-correcting codes citation:40 ncitation:36 pid396265
+title1:Differential Cryptanalysis of the Stream Ciphers Py, Py6 and Pypy. title2:Differential cryptanalysis of the stream ciphers Py, Py6 and Pypy citation:26 ncitation:25 pid711567
+title1:On the Security of Iterated Message Authentication Codes. title2:On the security of iterated message authentication codes citation:78 ncitation:70 pid217275
+title1:A New Keystream Generator MUGI. title2:A new keystream generator MUGI citation:70 ncitation:65 pid1295826
+title1:Robust Metering Schemes for General Access Structures. title2:Robust metering schemes for general access structures citation:2 ncitation:2 pid1197274
+title1:Multicore Curve-Based Cryptoprocessor with Reconfigurable Modular Arithmetic Logic Units over GF(2). title2:Multicore curve-based cryptoprocessor with reconfigurable modular arithmetic logic units over GF (2^ n) citation:44 ncitation:41 pid217264
+title1:On the Security of Two MAC Algorithms. title2:On the security of two MAC algorithms citation:124 ncitation:115 pid430454
+title1:Elliptic Curve Public-Key Cryptosystems - An Introduction. citation:32 ncitation:29 pid659629
+title1:Improved Meet-in-the-Middle Attacks on Reduced-Round DES. title2:Improved meet-in-the-middle attacks on reduced-round DES citation:22 ncitation:18 pid217266
+title1:Distance Bounding in Noisy Environments. title2:Distance bounding in noisy environments citation:84 ncitation:71 pid217267
+title1:Time-Memory Trade-Off Attack on FPGA Platforms: UNIX Password Cracking. title2:Time-memory trade-off attack on FPGA platforms: UNIX password cracking citation:18 ncitation:12 pid87240
+title1:Low-Cost Elliptic Curve Cryptography for Wireless Sensor Networks. title2:Low-cost elliptic curve cryptography for wireless sensor networks citation:91 ncitation:77 pid2187733
+title1:Differential-Linear Attacks Against the Stream Cipher Phelix. title2:Differential-linear attacks against the stream cipher Phelix citation:16 ncitation:15 pid217250
+title1:Propagation Characteristics of Boolean Functions. title2:Propagation characteristics of Boolean functions citation:274 ncitation:255 pid1523616
+title1:Boolean Functions Satisfying Higher Order Propagation Criteria. title2:Boolean functions satisfying higher order propagation criteria citation:80 ncitation:77 pid87218
+title1:Cryptanalysis of the Stream Cipher DECIM. title2:Cryptanalysis of the stream cipher decim citation:14 ncitation:13 pid1197234
+title1:Towards an XML format for time-stamps. title2:Towards an XML format for time-stamps citation:11 ncitation:10 pid1597466
+title1:Combining World Wide Web and Wireless Security. title2:Combining world wide web and wireless security citation:29 ncitation:30 pid17809
+title1:A Secure Cross-Layer Protocol for Multi-hop Wireless Body Area Networks. title2:A secure cross-layer protocol for multi-hop wireless body area networks citation:24 ncitation:17 pid1197247
+title1:Reasoning About the Anonymity Provided by Pool Mixes That Generate Dummy Traffic. title2:Reasoning about the anonymity provided by pool mixes that generate dummy traffic citation:51 ncitation:49 pid396161
+title1:Fast and Secure Hashing Based on Codes. title2:Fast and secure hashing based on codes citation:46 ncitation:42 pid396163
+title1:Towards a cross-context identity management framework in e-health. title2:Towards a cross-context identity management framework in e-health citation:11 ncitation:8 pid1106859
+title1:Analysis of Non-fortuitous Predictive States of the RC4 Keystream Generator. title2:Analysis of non-fortuitous predictive states of the RC4 keystream generator citation:43 ncitation:37 pid217290
+title1:Practical Collisions for EnRUPT. title2:Practical collisions for EnRUPT citation:18 ncitation:18 pid933415
+title1:Universal One-Way Hash Functions. title2:Higher order universal one-way hash functions citation:14 ncitation:-1 pid1537414
+title1:Public-Key Cryptography on the Top of a Needle. title2:Public-key cryptography on the top of a needle citation:18 ncitation:16 pid2357204
+title1:On Unconditionally Secure Distributed Oblivious Transfer. title2:On unconditionally secure distributed oblivious transfer citation:17 ncitation:17 pid1420281
+title1:Reconfigurable Modular Arithmetic Logic Unit for High-Performance Public-Key Cryptosystems. title2:Reconfigurable modular arithmetic logic unit for high-performance public-key cryptosystems citation:12 ncitation:10 pid1197227
+title1:Threshold things that think: usable authorization for resharing. title2:Threshold things that think: usable authorization for resharing. citation:2 ncitation:1 pid1083141
+title1:RIPEMD-160: A Strengthened Version of RIPEMD. title2:RIPEMD-160: A strengthened version of RIPEMD citation:505 ncitation:475 pid193425
+title1:On Multiplicative Linear Secret Sharing Schemes. title2:On multiplicative linear secret sharing schemes citation:11 ncitation:11 pid17846
+title1:Related-Key Rectangle Attacks on Reduced Versions of SHACAL-1 and AES-192. title2:Related-key rectangle attacks on reduced versions of SHACAL-1 and AES-192 citation:75 ncitation:67 pid399541
+title1:A Concrete Security Analysis for 3GPP-MAC. title2:A concrete security analysis for 3GPP-MAC citation:15 ncitation:12 pid187693
+title1:On Distributed Key Distribution Centers and Unconditionally Secure Proactive Verifiable Secret Sharing Schemes Based on General Access Structure. title2:On distributed key distribution centers and unconditionally secure proactive verifiable secret sharing schemes based on general access structure citation:12 ncitation:10 pid1104481
+title1:Cryptanalysis of SOBER-t32. title2:Cryptanalysis of SOBER-t32 citation:20 ncitation:21 pid1251086
+title1:Power-Analysis Attacks on an FPGA - First Experimental Results. citation:127 ncitation:116 pid1108268
+title1:Non-randomness of the Full 4 and 5-Pass HAVAL. title2:Non-randomness of the full 4 and 5-pass HAVAL citation:23 ncitation:20 pid693666
+title1:CNN Algorithms for Video Authentication and Copyright Protection. title2:CNN algorithms for video authentication and copyright protection citation:2 ncitation:2 pid572213
+title1:A secure privacy-preserving roaming protocol based on hierarchical identity-based encryption for mobile networks. title2:A secure privacy-preserving roaming protocol based on hierarchical identity-based encryption for mobile networks citation:19 ncitation:15 pid87170
+title1:Linear Cryptanalysis of RC5 and RC6. title2:Linear Cryptanalysis of RC5 and RC6 citation:42 ncitation:39 pid103706
+title1:Revocable anonymous access to the Internet? title2:Revocable anonymous access to the Internet? citation:42 ncitation:36 pid193419
+title1:Improved SQUARE Attacks against Reduced-Round HIEROCRYPT. title2:Improved SQUARE attacks against reduced-round HIEROCRYPT citation:20 ncitation:19 pid1853626
+title1:Efficient Cryptanalysis of RSE(2)PKC and RSSE(2)PKC. title2:Efficient cryptanalysis of rse (2) pkc and rsse (2) pkc citation:61 ncitation:60 pid193423
+title1:(How) can mobile agents do secure electronic transactions on untrusted hosts? A survey of the security issues and the current solutions. title2:(How) can mobile agents do secure electronic transactions on untrusted hosts? A survey of the security issues and the current solutions citation:80 ncitation:81 pid217318
+title1:Near Optimal Algorithms for Solving Differential Equations of Addition with Batch Queries. title2:Near optimal algorithms for solving differential equations of addition with batch queries citation:12 ncitation:9 pid578459
+title1:Attack on Six Rounds of Crypton. title2:Attack on six rounds of Crypton citation:28 ncitation:29 pid709560
+title1:On the Size of Monotone Span Programs. title2:On the size of monotone span programs citation:16 ncitation:14 pid512873
+title1:The Belgian Electronic Identity Card (Overview). title2:The Belgian Electronic Identity Card (Overview). citation:22 ncitation:22 pid385588
+title1:Recent attacks on alleged SecurID and their practical implications. title2:Recent attacks on alleged SecurID and their practical implications citation:12 ncitation:10 pid1293886
+title1:On the Security of Today's Online Electronic Banking Systems. title2:On the security of today's online electronic banking systems citation:94 ncitation:84 pid1197168
+title1:ARM: anonymous routing protocol for mobile ad hoc networks. title2:ARM: Anonymous routing protocol for mobile ad hoc networks citation:158 ncitation:109 pid1310389
+title1:On the Security of Double and 2-Key Triple Modes of Operation. title2:On the security of double and 2-key triple modes of operation citation:12 ncitation:10 pid399454
+title1:Collisions and Other Non-random Properties for Step-Reduced SHA-256. title2:Collisions and other non-random properties for step-reduced SHA-256 citation:40 ncitation:35 pid2309182
+title1:Key Establishment Using Secure Distance Bounding Protocols. title2:Key establishment using secure distance bounding protocols citation:13 ncitation:12 pid1262717
+title1:A Three-Property-Secure Hash Function. title2:A three-property-secure hash function citation:16 ncitation:17 pid429090
+title1:Attacks on Fast Double Block Length Hash Functions. title2:Attacks on fast double block length hash functions citation:78 ncitation:71 pid693573
+title1:On the Effectiveness of Source Code Transformations for Binary Obfuscation. title2:On the effectiveness of source code transformations for binary obfuscation citation:17 ncitation:17 pid217100
+title1:Key-Recovery Attacks on Universal Hash Function Based MAC Algorithms. title2:Key-recovery attacks on universal hash function based MAC algorithms citation:44 ncitation:39 pid217032
+title1:Recent Developments in the Design of Conventional Cryptographic Algorithms. title2:Recent developments in the design of conventional cryptographic algorithms citation:42 ncitation:37 pid217033
+title1:PMAC. title2:A concrete security analysis for 3GPP-MAC citation:15 ncitation:0 pid2103852
+title1:Cryptographic Primitives for Information Authentication - State of the Art. citation:42 ncitation:41 pid399436
+title1:The State of Cryptographic Hash Functions. title2:The state of cryptographic hash functions citation:81 ncitation:75 pid217079
+title1:Software Performance of Universal Hash Functions. title2:Software performance of universal hash functions citation:75 ncitation:68 pid1681183
+title1:Information Authentication: Hash Functions and Digital Signatures. title2:Information authentication: hash functions and digital signatures citation:16 ncitation:13 pid87128
+title1:Program obfuscation: a quantitative approach. title2:Program obfuscation: a quantitative approach citation:27 ncitation:24 pid578489
+title1:Anonymous ID-Based Group Key Agreement for Wireless Networks. title2:Anonymous id-based group key agreement for wireless networks citation:21 ncitation:18 pid1197147
+title1:Update on Tiger. title2:Update on tiger citation:17 ncitation:16 pid578480
+title1:PAKE: A Hierarchical Group Password-Authenticated Key Exchange Protocol Using Different Passwords. title2:nPAKE+: A hierarchical group password-authenticated key exchange protocol using different passwords citation:11 ncitation:11 pid711432
+title1:Fast Software Encryption: Second International Workshop. Leuven, Belgium, 14-16 December 1994, Proceedings title2:Fast Software Encryption: Second International Workshop, Leuven, Belgium, December 14-16, 1994. Proceedings citation:2 ncitation:3 pid1120528
+title1:Automata, Languages and Programming, 33rd International Colloquium, ICALP 2006, Venice, Italy, July 10-14, 2006, Proceedings, Part I title2:Automata, Languages and Programming: 33rd International Colloquium, ICALP 2006, Venice, Italy, July 10-14, 2006, Proceedings citation:2 ncitation:2 pid399456
+title1:Automata, Languages and Programming, 33rd International Colloquium, ICALP 2006, Venice, Italy, July 10-14, 2006, Proceedings, Part II title2:Automata, Languages and Programming: 33rd International Colloquium, ICALP 2006, Venice, Italy, July 10-14, 2006, Proceedings citation:2 ncitation:2 pid2383489
+title1:On the Indifferentiability of the Grøstl Hash Function. citation:24 ncitation:21 pid396157
+title1:Parallel Shortest Lattice Vector Enumeration on Graphics Cards. title2:Parallel shortest lattice vector enumeration on graphics cards citation:15 ncitation:14 pid1594798
+title1:Guest editorial: special issue on electronic voting. title2:Guest editorial special issue on electronic voting citation:2 ncitation:2 pid27009
+title1:Security Reductions of the Second Round SHA-3 Candidates. title2:Security reductions of the second round SHA-3 candidates citation:24 ncitation:22 pid985995
+title1:Improved Collision Attacks on the Reduced-Round Grøstl Hash Function. citation:17 ncitation:13 pid578497
+title1:Image Distortion Estimation by Hash Comparison. title2:Image distortion estimation by hash comparison citation:2 ncitation:2 pid2418897
+title1:PrETP: Privacy-Preserving Electronic Toll Pricing. title2:PrETP: Privacy-Preserving Electronic Toll Pricing. citation:50 ncitation:40 pid585311
+title1:Practical Collisions for EnRUPT. title2:Practical collisions for EnRUPT citation:18 ncitation:18 pid1619580
+title1:The Differential Analysis of S-Functions. title2:The differential analysis of S-functions citation:16 ncitation:13 pid1197069
+title1:State-of-the-art of Secure ECC Implementations: A Survey on Known Side-channel Attacks and Countermeasures. title2:State-of-the-art of secure ECC implementations: a survey on known side-channel attacks and countermeasures citation:28 ncitation:18 pid17708
+title1:Efficient Isolation of Trusted Subsystems in Embedded Systems. title2:Efficient isolation of trusted subsystems in embedded systems citation:13 ncitation:8 pid17709
+title1:A privacy threat analysis framework: supporting the elicitation and fulfillment of privacy requirements. title2:A privacy threat analysis framework: supporting the elicitation and fulfillment of privacy requirements citation:28 ncitation:15 pid17710
+title1:Point/Counterpoint. title2:Point/Counterpoint citation:2 ncitation:2 pid193288
+title1:A Privacy-Preserving Buyer-Seller Watermarking Protocol Based on Priced Oblivious Transfer. citation:2 ncitation:1 pid17711
+title1:PriPAYD: Privacy-Friendly Pay-As-You-Drive Insurance. title2:PriPAYD: Privacy-friendly pay-as-you-drive insurance citation:63 ncitation:52 pid1197066
+title1:Seven-Property-Preserving Iterated Hashing: ROX. title2:Seven-property-preserving iterated hashing: ROX citation:76 ncitation:68 pid399406
+title1:On the Indifferentiability of the Gröstl Hash Function. citation:24 ncitation:21 pid2352235
+title1:Parallel Shortest Lattice Vector Enumeration on Graphics Cards. title2:Parallel shortest lattice vector enumeration on graphics cards citation:15 ncitation:14 pid1923351
+title1:Related-Key Boomerang and Rectangle Attacks. title2:Related-key boomerang and rectangle attacks: theory and experimental analysis citation:2 ncitation:127 pid2774104
+title1:Security Reductions of the Second Round SHA-3 Candidates. title2:Security reductions of the second round SHA-3 candidates citation:24 ncitation:22 pid2781972
+title1:The Parazoa Family: Generalizing the Sponge Hash Functions. title2:The parazoa family: generalizing the sponge hash functions citation:14 ncitation:11 pid2786258
+title1:New Weaknesses in the Keystream Generation Algorithms of the Stream Ciphers TPy and Py. title2:New weaknesses in the keystream generation algorithms of the stream ciphers TPy and Py citation:14 ncitation:14 pid2786525
+title1:Improved Collision Attacks on the Reduced-Round Gröstl Hash Function. citation:17 ncitation:13 pid2792047
+title1:Collisions and other Non-Random Properties for Step-Reduced SHA-256. title2:Collisions and other non-random properties for step-reduced SHA-256 citation:40 ncitation:35 pid2812369
+title1:On the Security of HMAC and NMAC Based on HAVAL, MD4, MD5, SHA-0 and SHA-1. title2:On the security of HMAC and NMAC based on HAVAL, MD4, MD5, SHA-0 and SHA-1 citation:81 ncitation:76 pid2812829
+title1:Cryptanalysis of White-Box DES Implementations with Arbitrary External Encodings. title2:Cryptanalysis of white-box DES implementations with arbitrary external encodings citation:35 ncitation:29 pid2816254
+title1:Weaknesses in the Pseudorandom Bit Generation Algorithms of the Stream Ciphers TPypy and TPy. title2:Weaknesses in the Pseudorandom Bit Generation Algorithms of the Stream Ciphers TPypy and TPy. citation:10 ncitation:10 pid2828867
+title1:Tripartite modular multiplication. title2:Tripartite modular multiplication citation:13 ncitation:11 pid2828892
+title1:MAA. title2:Security analysis of the message authenticator algorithm (maa) citation:14 ncitation:-1 pid2942789
+title1:HMAC. title2:On the security of HMAC and NMAC based on HAVAL, MD4, MD5, SHA-0 and SHA-1 citation:81 ncitation:-1 pid2949102
+title1:PMAC. title2:A concrete security analysis for 3GPP-MAC citation:15 ncitation:0 pid2974115
+title1:Location verification using secure distance bounding protocols. title2:Location verification using secure distance bounding protocols citation:69 ncitation:63 pid3027395
+title1:Cryptographic Hardware and Embedded Systems - CHES 2011 - 13th International Workshop, Nara, Japan, September 28 - October 1, 2011. Proceedings title2:Cryptographic Hardware and Embedded Systems--CHES 2011: 13th International Workshop, Nara, Japan, September 28--October 1, 2011, Proceedings citation:22 ncitation:5 pid3079148
+title1:Power consumption evaluation of efficient digital signature schemes for low power devices. title2:Power consumption evaluation of efficient digital signature schemes for low power devices citation:26 ncitation:23 pid3090114
+title1:A New RFID Privacy Model. title2:A new RFID privacy model citation:38 ncitation:23 pid3140373
+title1:On Boolean Functions with Generalized Cryptographic Properties. title2:On Boolean functions with generalized cryptographic properties citation:26 ncitation:25 pid3140632
+title1:Cryptanalysis of the Alleged SecurID Hash Function. title2:Cryptanalysis of the alleged SecurID hash function citation:30 ncitation:26 pid3140676
+title1:Equivalent Keys in HFE, C, and variations. title2:Equivalent keys in HFE, C*, and variations citation:41 ncitation:37 pid3142063
+title1:Efficient Cryptanalysis of RSE(2)PKC and RSSE(2)PKC. title2:Efficient cryptanalysis of rse (2) pkc and rsse (2) pkc citation:61 ncitation:60 pid3142420
+title1:On the Security of Encryption Modes of MD4, MD5 and HAVAL. title2:On the Security of Encryption Modes of MD4, MD5 and HAVAL citation:21 ncitation:20 pid3142741
+title1:Extending the Resynchronization Attack. title2:Extending the resynchronization attack citation:34 ncitation:32 pid3142772
+title1:Asymmetric Cryptography: Hidden Field Equations. title2:Asymmetric Cryptography: Hidden Field Equations. citation:21 ncitation:22 pid3142930
+title1:Applying General Access Structure to Proactive Secret Sharing Schemes. title2:Applying General Access Structure to Proactive Secret Sharing Schemes. citation:26 ncitation:24 pid3142964
+title1:On the Algebraic Immunity of Symmetric Boolean Functions. title2:On the algebraic immunity of symmetric Boolean functions citation:139 ncitation:127 pid3143203
+title1:Solving Systems of Differential Equations of Addition. title2:Solving systems of differential equations of addition citation:24 ncitation:22 pid3166695
+title1:A Study of the Security of Unbalanced Oil and Vinegar Signature Schemes. title2:A study of the security of Unbalanced Oil and Vinegar signature schemes citation:56 ncitation:54 pid3167045
+title1:SQUARE Attacks on Reduced-Round PES and IDEA Block Ciphers. title2:Square attacks on reduced-round PES and IDEA block ciphers citation:21 ncitation:27 pid3167062
+title1:Classification of Boolean Functions of 6 Variables or Less with Respect to Cryptographic Properties. title2:Classification of boolean functions of 6 variables or less with respect to some cryptographic properties citation:22 ncitation:20 pid3167065
+title1:The parazoa family: generalizing the sponge hash functions. title2:The parazoa family: generalizing the sponge hash functions citation:14 ncitation:11 pid3167262
+title1:Related-Key Boomerang and Rectangle Attacks: Theory and Experimental Analysis. title2:Related-key boomerang and rectangle attacks: theory and experimental analysis citation:2 ncitation:0 pid3167689
+title1:Impossibility Results for Indifferentiability with Resets. title2:Impossibility Results for Indi erentiability with Resets citation:3 ncitation:-1 pid3232942
+title1:Challenging the increased resistance of regular hash functions against birthday attacks. title2:Challenging the increased resistance of regular hash functions against birthday attacks citation:2 ncitation:2 pid3255471

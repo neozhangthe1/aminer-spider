@@ -1,0 +1,353 @@
+title1:The design and use of simplepower: a cycle-accurate energy estimation tool. title2:The design and use of simplepower: a cycle-accurate energy estimation tool citation:451 ncitation:420 pid134388
+title1:Influence of Loop Optimizations on Energy Consumption of Multi-bank Memory Systems. title2:Influence of loop optimizations on energy consumption of multi-bank memory systems citation:37 ncitation:31 pid81335
+title1:Designing Energy-Efficient Software. title2:Designing Energy-Efficient Software. citation:7 ncitation:6 pid410791
+title1:Array Unification: A Locality Optimization Technique. title2:Array unification: a locality optimization technique citation:9 ncitation:8 pid81336
+title1:Software-directed combined cpu/link voltage scaling fornoc-based cmps. title2:Software-directed combined cpu/link voltage scaling fornoc-based cmps citation:3 ncitation:3 pid597853
+title1:Improving I/O performance through compiler-directed code restructuring and adaptive prefetching. title2:Improving I/O performance through compiler-directed code restructuring and adaptive prefetching citation:1 ncitation:1 pid412714
+title1:A Collective I/O Scheme Based on Compiler Analysis. title2:A collective I/O scheme based on compiler analysis citation:4 ncitation:4 pid2187979
+title1:Discretionary Caching for I/O on Clusters. title2:Discretionary caching for I/O on clusters citation:34 ncitation:34 pid483503
+title1:Intra-application shared cache partitioning for multithreaded applications. title2:Intra-application shared cache partitioning for multithreaded applications citation:4 ncitation:4 pid792959
+title1:An I/O-Conscious Tiling Strategy for Disk-Resident Data Sets. title2:An i/o-conscious tiling strategy for disk-resident data sets citation:10 ncitation:10 pid1309008
+title1:Compiler-directed selection of dynamic memory layouts. title2:Compiler-directed selection of dynamic memory layouts citation:18 ncitation:17 pid1111955
+title1:Increasing on-chip memory space utilization for embedded chip multiprocessors through data compression. title2:Increasing on-chip memory space utilization for embedded chip multiprocessors through data compression citation:11 ncitation:10 pid106198
+title1:Experimental Evaluation of Energy Behavior of Iteration Space Tiling. title2:Experimental evaluation of energy behavior of iteration space tiling citation:14 ncitation:14 pid409799
+title1:Modeling and improving data cache reliability. title2:Modeling and improving data cache reliability: 1 citation:6 ncitation:5 pid483089
+title1:Leakage Energy Management in Cache Hierarchies. title2:Leakage energy management in cache hierarchies citation:85 ncitation:75 pid597857
+title1:Hardware and Software Techniques for Controlling DRAM Power Modes. title2:Hardware and software techniques for controlling dram power modes citation:106 ncitation:101 pid285977
+title1:Improving Cache Locality by a Combination of Loop and Data Transformation. title2:Improving cache locality by a combination of loop and data transformations citation:101 ncitation:103 pid1078948
+title1:Data Relation Vectors: A New Abstraction for Data Optimizations. title2:Data relation vectors: a new abstraction for data optimizations citation:13 ncitation:13 pid483077
+title1:Compiler-Directed Code Restructuring for Improving Performance of MPSoCs. title2:Compiler-directed code restructuring for improving performance of MPSoCs citation:8 ncitation:9 pid1079933
+title1:Total Power Optimization for Combinational Logic Using Genetic Algorithms. title2:Total power optimization for combinational logic using genetic algorithms citation:3 ncitation:2 pid1126434
+title1:ILP-Based energy minimization techniques for banked memories. title2:ILP-Based energy minimization techniques for banked memories citation:7 ncitation:5 pid1611171
+title1:Compiling for memory emergency. title2:Compiling for memory emergency citation:0 ncitation:0 pid106121
+title1:Access pattern-based code compression for memory-constrained systems. title2:Access pattern-based code compression for memory-constrained systems citation:2 ncitation:2 pid483577
+title1:Exploiting Memory Bank Locality in Multiprocessor SoC Architectures. title2:Exploiting memory bank locality in multiprocessor SoC architectures citation:1 ncitation:1 pid106119
+title1:Reducing Power with Performance Constraints for Parallel Sparse Applications. title2:Reducing power with performance constraints for parallel sparse applications citation:64 ncitation:54 pid483573
+title1:Data Access Reorganizations in Compiling Out-of-Core Data Parallel Programs on Distributed Memory Machines. title2:Data access reorganizations in compiling out-of-core data parallel programs on distributed memory machines citation:18 ncitation:19 pid408546
+title1:Compiler-Directed I/O Optimization. title2:Compiler-directed I/O optimization citation:3 ncitation:2 pid409519
+title1:A Graph Based Framework to Detect Optimal Memory Layouts for Improving Data Locality. title2:A graph based framework to detect optimal memory layouts for improving data locality citation:9 ncitation:9 pid410858
+title1:Studying Energy Trade Offs in Offloading Computation/Compilation in Java-Enabled Mobile Devices. title2:Studying energy trade offs in offloading computation/compilation in java-enabled mobile devices citation:73 ncitation:56 pid409522
+title1:Compiler-assisted soft error detection under performance and energy constraints in embedded systems. title2:Compiler-assisted soft error detection under performance and energy constraints in embedded systems citation:14 ncitation:13 pid409524
+title1:A global communication optimization technique based on data-flow analysis and linear algebra. title2:A global communication optimization technique based on data-flow analysis and linear algebra citation:39 ncitation:41 pid1124765
+title1:Compiler-directed channel allocation for saving power in on-chip networks. title2:Compiler-directed channel allocation for saving power in on-chip networks citation:27 ncitation:25 pid1227692
+title1:VL-CDRAM: variable line sized cached DRAMs. title2:VL-CDRAM: variable line sized cached DRAMs citation:5 ncitation:4 pid1123653
+title1:Address Code and Arithmetic Optimizations for Embedded Systems. title2:Address code and arithmetic optimizations for embedded systems citation:6 ncitation:6 pid202508
+title1:A Heuristic for Clock Selection in High-Level Synthesis. title2:A heuristic for clock selection in high-level synthesis citation:16 ncitation:15 pid483549
+title1:Load elimination for low-power embedded processors. title2:Load elimination for low-power embedded processors citation:0 ncitation:-1 pid645862
+title1:Compiler-directed thermal management for VLIW functional units. title2:Compiler-directed thermal management for VLIW functional units citation:33 ncitation:29 pid234071
+title1:Profile-driven energy reduction in network-on-chips. title2:Profile-driven energy reduction in network-on-chips citation:12 ncitation:11 pid81371
+title1:Reducing power through compiler-directed barrier synchronization elimination. title2:Reducing power through compiler-directed barrier synchronization elimination citation:3 ncitation:2 pid542950
+title1:Energy-aware data prefetching for multi-speed disks. title2:Energy-aware data prefetching for multi-speed disks citation:40 ncitation:34 pid2262794
+title1:Implementation and evaluation of a migration-based NUCA design for chip multiprocessors. title2:Implementation and evaluation of a migration-based nuca design for chip multiprocessors citation:6 ncitation:7 pid408534
+title1:Markov Model Based Disk Power Management for Data Intensive Workloads. title2:Markov model based disk power management for data intensive workloads citation:14 ncitation:14 pid1077173
+title1:A Holistic Approach to Designing Energy-Efficient Cluster Interconnects. title2:A holistic approach to designing energy-efficient cluster interconnects citation:23 ncitation:20 pid452446
+title1:A Window-Based Approach to Retrieving Memory-Resident Data for Query Execution. title2:A window-based approach to retrieving memory-resident data for query execution citation:3 ncitation:3 pid1303595
+title1:Runtime system support for software-guided disk power management. title2:Runtime system support for software-guided disk power management citation:2 ncitation:2 pid1172498
+title1:Improving Off-Chip Memory Energy Behavior in a Multi-processor, Multi-bank Environment. title2:Improving off-chip memory energy behavior in a multi-processor, multi-bank environment citation:8 ncitation:8 pid1080018
+title1:Leakage-Aware SPM Management. title2:Leakage-aware SPM management citation:3 ncitation:3 pid372884
+title1:Exploiting Software Pipelining for Network-on-Chip architectures. title2:Exploiting software pipelining for network-on-chip architectures citation:5 ncitation:5 pid409686
+title1:Using data compression in an MPSoC architecture for improving performance. title2:Using data compression in an MPSoC architecture for improving performance citation:3 ncitation:3 pid234117
+title1:Energy management in software-controlled multi-level memory hierarchies. title2:Energy management in software-controlled multi-level memory hierarchies citation:5 ncitation:5 pid234116
+title1:Integer linear programming based energy optimization for banked DRAMs. title2:Integer linear programming based energy optimization for banked DRAMs citation:10 ncitation:10 pid452451
+title1:Improving Performance of Java Applications Using a Coprocessor. title2:Improving performance of Java applications using a coprocessor citation:3 ncitation:3 pid234115
+title1:Design of power-aware FPGA fabrics. title2:Design of power-aware FPGA fabrics citation:3 ncitation:3 pid234114
+title1:Ring data location prediction scheme for Non-Uniform Cache Architectures. title2:Ring data location prediction scheme for non-uniform cache architectures citation:5 ncitation:3 pid234113
+title1:Analyzing energy behavior of spatial access methods for memory-resident data. title2:Analyzing energy behavior of spatial access methods for memory-resident data citation:15 ncitation:15 pid409681
+title1:Generating physical addresses directly for saving instruction TLB energy. title2:Generating physical addresses directly for saving instruction TLB energy citation:24 ncitation:23 pid1172543
+title1:SPM management using Markov chain based data access prediction. title2:SPM management using Markov chain based data access prediction citation:4 ncitation:3 pid287263
+title1:In-Network Caching for Chip Multiprocessors. title2:In-Network Caching for Chip Multiprocessors citation:1 ncitation:1 pid283910
+title1:A Matrix-Based Approach to Global Locality Optimization. title2:A matrix-based approach to global locality optimization citation:9 ncitation:9 pid251449
+title1:Evaluating Integrated Hardware-Software Optimizations Using a Unified Energy Estimation Framework. title2:Evaluating integrated hardware-software optimizations using a unified energy estimation framework citation:39 ncitation:38 pid1079937
+title1:Locality-conscious workload assignment for array-based computations in MPSOC architectures. title2:Locality-conscious workload assignment for array-based computations in MPSOC architectures citation:20 ncitation:17 pid1172556
+title1:Multi-Level On-Chip Memory Hierarchy Design for Embedded Chip Multiprocessors. title2:Multi-level on-chip memory hierarchy design for embedded chip multiprocessors citation:17 ncitation:16 pid989035
+title1:Minimizing Data and Synchronization Costs in One-Way Communication. title2:Minimizing data and synchronization costs in one-way communication citation:11 ncitation:11 pid989033
+title1:A Scratch-Pad Memory Aware Dynamic Loop Scheduling Algorithm. title2:A scratch-pad memory aware dynamic loop scheduling algorithm citation:6 ncitation:4 pid341432
+title1:Compiler-guided leakage optimization for banked scratch-pad memories. title2:Compiler-guided leakage optimization for banked scratch-pad memories citation:24 ncitation:21 pid343325
+title1:Compiler-directed scratch pad memory optimization for embedded multiprocessors. title2:Compiler-directed scratch pad memory optimization for embedded multiprocessors citation:30 ncitation:26 pid237
+title1:Performance Implications of Architectural and Software Techniques on I/O-Intensive Applications. title2:Performance implications of architectural and software techniques on I/O-intensive applications citation:11 ncitation:14 pid448692
+title1:Compiler Optimizations for I/O-Intensive Computations. title2:Compiler optimizations for I/O-intensive computations citation:13 ncitation:13 pid1134471
+title1:Ring Prediction for Non-Uniform Cache Architectures. title2:Ring Prediction for Non-Uniform Cache Architectures citation:3 ncitation:2 pid1411613
+title1:Dynamic Compilation for Reducing Energy Consumption of I/O-Intensive Applications. title2:Dynamic compilation for reducing energy consumption of i/o-intensive applications citation:2 ncitation:3 pid1134473
+title1:MPISec I/O: Providing Data Confidentiality in MPI-I/O. title2:Mpisec i/o: Providing data confidentiality in mpi-i/o citation:8 ncitation:6 pid281854
+title1:A Framework for Interprocedural Locality Optimization Using Both Loop and Data Layout Transformations. title2:A framework for interprocedural locality optimization using both loop and data layout transformations citation:8 ncitation:6 pid343317
+title1:Switch Box Architectures for Three-Dimensional FPGAs. title2:Switch box architectures for three-dimensional FPGAs citation:6 ncitation:4 pid343319
+title1:Soft errors issues in low-power caches. title2:Soft errors issues in low-power caches citation:42 ncitation:37 pid1303628
+title1:Reducing Energy Consumption of On-Chip Networks Through a Hybrid Compiler-Runtime Approach. title2:Reducing Energy Consumption of On-Chip Networks Through a Hybrid Compiler-Runtime Approach citation:1 ncitation:1 pid343315
+title1:Runtime integrity checking for inter-object connections. title2:Runtime integrity checking for inter-object connections citation:1 ncitation:1 pid203614
+title1:Enhancing Compiler Techniques for Memory Energy Optimizations. title2:Enhancing compiler techniques for memory energy optimizations citation:11 ncitation:10 pid9940
+title1:Integrating loop and data optimizations for locality within a constraint network based framework. title2:Integrating loop and data optimizations for locality within a constraint network based framework citation:7 ncitation:7 pid281839
+title1:Using Complete Machine Simulation for Software Power Estimation: The SoftWatt Approach. title2:Using complete machine simulation for software power estimation: The softwatt approach citation:152 ncitation:136 pid142946
+title1:Using Task Recomputation During Application Mapping in Parallel Embedded Architectures. title2:Using Task Recomputation During Application Mapping in Parallel Embedded Architectures. citation:0 ncitation:0 pid181487
+title1:Comparative evaluation of overlap strategies with study of I/O overlap in MPI-IO. title2:Comparative evaluation of overlap strategies with study of I/O overlap in MPI-IO citation:15 ncitation:13 pid281868
+title1:Soft error and energy consumption interactions: a data cache perspective. title2:Soft error and energy consumption interactions: a data cache perspective citation:96 ncitation:90 pid646033
+title1:Integrated code and data placement in two-dimensional mesh based chip multiprocessors. title2:Integrated code and data placement in two-dimensional mesh based chip multiprocessors citation:3 ncitation:3 pid436895
+title1:A Memory-Conscious Code Parallelization Scheme. title2:A memory-conscious code parallelization scheme citation:5 ncitation:4 pid84773
+title1:Fault Tolerant Algorithms for Network-On-Chip Interconnect. title2:Fault tolerant algorithms for network-on-chip interconnect citation:174 ncitation:148 pid1342211
+title1:Compiler-directed application mapping for NoC based chip multiprocessors. title2:Compiler-directed application mapping for NoC based chip multiprocessors citation:6 ncitation:2 pid161471
+title1:Reducing Data TLB Power via Compiler-Directed Address Generation. title2:Reducing data TLB power via compiler-directed address generation citation:5 ncitation:5 pid436877
+title1:Profiler and compiler assisted adaptive I/O prefetching for shared storage caches. title2:Profiler and compiler assisted adaptive I/O prefetching for shared storage caches citation:10 ncitation:8 pid134649
+title1:Energy-conscious compilation based on voltage scaling. title2:Energy-conscious compilation based on voltage scaling citation:84 ncitation:80 pid483713
+title1:Reliability-Aware Co-Synthesis for Embedded Systems. title2:Reliability-aware co-synthesis for embedded systems citation:63 ncitation:56 pid9997
+title1:Exploiting Inter-Processor Data Sharing for Improving Behavior of Multi-Processor SoCs. title2:Exploiting inter-processor data sharing for improving behavior of multi-processor SoCs citation:6 ncitation:6 pid436897
+title1:Studying Storage-Recomputation Tradeoffs in Memory-Constrained Embedded Processing. title2:Studying storage-recomputation tradeoffs in memory-constrained embedded processing citation:6 ncitation:5 pid483734
+title1:Leakage Current: Moore's Law Meets Static Power. title2:Leakage current: Moore's law meets static power citation:589 ncitation:506 pid452341
+title1:Increasing Data TLB Resilience to Transient Errors. title2:Increasing data TLB resilience to transient errors citation:0 ncitation:0 pid483732
+title1:Dynamic partitioning of processing and memory resources in embedded MPSoC architectures. title2:Dynamic partitioning of processing and memory resources in embedded mpsoc architectures citation:16 ncitation:14 pid50316
+title1:Improving Offset Assignment on Embedded Processors Using Transformations. title2:Improving offset assignment on embedded processors using transformations citation:13 ncitation:12 pid452225
+title1:On the Performance of the POSIX I/O Interface to PVFS. title2:On the Performance of the POSIX I/O Interface to PVFS citation:3 ncitation:4 pid2135871
+title1:Compilation Techniques for Out-of-Core Parallel Computations. title2:Compilation techniques for out-of-core parallel computations citation:32 ncitation:31 pid142209
+title1:Kernel-Level Caching for Optimizing I/O by Exploiting Inter-Application Data Sharing. title2:Kernel-level caching for Optimizing I/O by exploiting inter-application data sharing citation:18 ncitation:17 pid142208
+title1:Influence of compiler optimizations on system power. title2:Influence of compiler optimizations on system power citation:151 ncitation:146 pid534498
+title1:Adaptive Garbage Collection for Battery-Operated Environments. title2:Adaptive Garbage Collection for Battery-Operated Environments. citation:23 ncitation:23 pid1034900
+title1:Reducing energy consumption of multiprocessor SoC architectures by exploiting memory bank locality. title2:Reducing energy consumption of multiprocessor soc architectures by exploiting memory bank locality citation:7 ncitation:7 pid99883
+title1:Slicing based code parallelization for minimizing inter-processor communication. title2:Slicing based code parallelization for minimizing inter-processor communication citation:0 ncitation:0 pid161476
+title1:Energy Behavior of Java Applications from the Memory Perspective. title2:Energy behavior of Java applications from the memory perspective citation:37 ncitation:34 pid254096
+title1:A Parallel Architecture for Secure FPGA Symmetric Encryption. title2:A parallel architecture for secure FPGA symmetric encryption citation:26 ncitation:26 pid2232209
+title1:Improving Offset Assignment for Embedded Processors. title2:Improving offset assignment for embedded processors citation:30 ncitation:29 pid1413695
+title1:Studying interactions between prefetching and cache line turnoff. title2:Studying interactions between prefetching and cache line turnoff citation:3 ncitation:3 pid1135383
+title1:Optimizing shared cache behavior of chip multiprocessors. title2:Optimizing shared cache behavior of chip multiprocessors citation:25 ncitation:23 pid1117811
+title1:Optimizing code parallelization through a constraint network based approach. title2:Optimizing code parallelization through a constraint network based approach citation:0 ncitation:-1 pid1238794
+title1:Prefetching-aware cache line turnoff for saving leakage energy. title2:Prefetching-aware cache line turnoff for saving leakage energy citation:4 ncitation:4 pid1117813
+title1:Energy-Conscious Memory Allocation and Deallocation for Pointer-Intensive Applications. title2:Energy-conscious memory allocation and deallocation for pointer-intensive applications citation:2 ncitation:2 pid471184
+title1:Optimizing bus energy consumption of on-chip multiprocessors using frequent values. title2:Optimizing bus energy consumption of on-chip multiprocessors using frequent values citation:11 ncitation:11 pid181358
+title1:Dynamic thread and data mapping for NoC based CMPs. title2:Dynamic thread and data mapping for NoC based CMPs citation:6 ncitation:4 pid410932
+title1:An ILP-Based Approach to Locality Optimization. title2:An ILP-based approach to locality optimization citation:2 ncitation:1 pid132581
+title1:Data locality enhancement for CMPs. title2:Data locality enhancement for CMPs citation:7 ncitation:6 pid482998
+title1:Formulation and Validation of an Energy Dissipation Model for the Clock Generation Circuitry and Distribution Networks. title2:Formulation and validation of an energy dissipation model for the clock generation circuitry and distribution networks citation:18 ncitation:18 pid133431
+title1:Exploiting Barriers to Optimize Power Consumption of CMPs. title2:Exploiting barriers to optimize power consumption of CMPs citation:47 ncitation:45 pid1117794
+title1:SHARP control: controlled shared cache management in chip multiprocessors. title2:SHARP control: controlled shared cache management in chip multiprocessors citation:25 ncitation:20 pid133433
+title1:A Compiler-Based Approach for Improving Intra-Iteration Data Reuse. title2:A compiler-based approach for improving intra-iteration data reuse citation:8 ncitation:8 pid483006
+title1:Locality-Aware Process Scheduling for Embedded MPSoCs. title2:Locality-aware process scheduling for embedded MPSoCs citation:13 ncitation:13 pid1561162
+title1:Reliability-Centric High-Level Synthesis. title2:Reliability-centric high-level synthesis citation:34 ncitation:31 pid142189
+title1:Improving I/O Performance of Applications through Compiler-Directed Code Restructuring. title2:Improving I/O performance of applications through compiler-directed code restructuring citation:12 ncitation:7 pid409924
+title1:Reducing Cache Access Energy in Array-Intensive Application. title2:Reducing cache access energy in array-intensive applications citation:3 ncitation:3 pid142201
+title1:A compiler-based approach for dynamically managing scratch-pad memories in embedded systems. title2:A compiler-based approach for dynamically managing scratch-pad memories in embedded systems citation:72 ncitation:72 pid52451
+title1:Exploiting VLIW schedule slacks for dynamic and leakage energy reduction. title2:Exploiting VLIW schedule slacks for dynamic and leakage energy reduction citation:76 ncitation:76 pid436770
+title1:A Holistic Approach to System Level Energy Optimization. title2:A holistic approach to system level energy optimization citation:16 ncitation:16 pid792776
+title1:An evaluation of code and data optimizations in the context of disk power reduction. title2:An evaluation of code and data optimizations in the context of disk power reduction citation:9 ncitation:9 pid142203
+title1:Compiler support for block buffering. title2:Compiler support for block buffering citation:1 ncitation:1 pid483608
+title1:A hardware-software codesign strategy for Loop intensive applications. title2:A hardware-software codesign strategy for loop intensive applications citation:3 ncitation:2 pid143158
+title1:Compiler-Directed Instruction Duplication for Soft Error Detection. title2:Compiler-directed instruction duplication for soft error detection citation:31 ncitation:21 pid142207
+title1:Energy and Performance Considerations in Work Partitioning for Mobile Spatial Queries. title2:Energy and performance considerations in work partitioning for mobile spatial queries citation:5 ncitation:5 pid499574
+title1:Organizing the Last Line of Defense before Hitting the Memory Wall for CMP. title2:Organizing the last line of defense before hitting the memory wall for CMPs citation:168 ncitation:146 pid530677
+title1:Optimizing Bus Energy Consumption of On-Chip Multiprocessors Using Frequent Values. title2:Optimizing bus energy consumption of on-chip multiprocessors using frequent values citation:11 ncitation:11 pid436823
+title1:Exploiting frequent field values in java objects for reducing heap memory requirements. title2:Exploiting frequent field values in Java objects for reducing heap memory requirements citation:14 ncitation:13 pid134456
+title1:Discretionary Caching for I/O on Clusters. title2:Discretionary caching for I/O on clusters citation:34 ncitation:34 pid419594
+title1:A Systematic Approach to Automatically Generate Multiple Semantically Equivalent Program Versions. title2:A Systematic Approach to Automatically Generate Multiple Semantically Equivalent Program Versions citation:0 ncitation:0 pid142110
+title1:Increasing Register File Immunity to Transient Errors. title2:Increasing register file immunity to transient errors citation:41 ncitation:37 pid142109
+title1:Compiler-directed proactive power management for networks. title2:Compiler-directed proactive power management for networks citation:15 ncitation:14 pid142108
+title1:An Integrated Approach for Improving Cache Behavior. title2:An integrated approach for improving cache behavior citation:5 ncitation:5 pid282684
+title1:Adapting application execution in CMPs using helper threads. title2:Adapting application execution in CMPs using helper threads citation:4 ncitation:4 pid645024
+title1:Locality-Aware Process Scheduling for Embedded MPSoCs title2:Locality-aware process scheduling for embedded MPSoCs citation:13 ncitation:13 pid2182546
+title1:Estimating and reducing the memory requirements of signal processing codes for embedded systems. title2:Estimating and reducing the memory requirements of signal processing codes for embedded systems citation:2 ncitation:2 pid188962
+title1:Design and Management of 3D Chip Multiprocessors Using Network-in-Memory. title2:Design and management of 3D chip multiprocessors using network-in-memory citation:293 ncitation:253 pid645042
+title1:Temperature-Sensitive Loop Parallelization for Chip Multiprocessors. title2:Temperature-sensitive loop parallelization for chip multiprocessors citation:12 ncitation:11 pid677985
+title1:Compiler-Directed Code Restructuring for Operating with Compressed Arrays. title2:Compiler-Directed Code Restructuring for Operating with Compressed Arrays. citation:3 ncitation:2 pid83154
+title1:SRP: Symbiotic Resource Partitioning of the Memory Hierarchy in CMPs. title2:SRP: Symbiotic resource partitioning of the memory hierarchy in CMPs citation:9 ncitation:7 pid142526
+title1:Changing Interaction of Compiler and Architecture. title2:Changing interaction of compiler and architecture citation:28 ncitation:28 pid1262001
+title1:Interplay of energy and performance for disk arrays running transaction processing workloads. title2:Interplay of energy and performance for disk arrays running transaction processing workloads citation:71 ncitation:67 pid142525
+title1:Reliability-Centric High-Level Synthesis title2:Reliability-centric high-level synthesis citation:34 ncitation:31 pid1124136
+title1:Compiler-Directed Energy Optimization for Parallel Disk Based Systems. title2:Compiler-directed energy optimization for parallel disk based systems citation:11 ncitation:10 pid1175083
+title1:An ILP Formulation for Task Scheduling on Heterogeneous Chip Multiprocessors. title2:An ILP formulation for task scheduling on heterogeneous chip multiprocessors citation:8 ncitation:4 pid419069
+title1:A Compiler-Guided Approach for Reducing Disk Power Consumption by Exploiting Disk Access Locality. title2:A Compiler-Guided Approach for Reducing Disk Power Consumption by Exploiting Disk Access Locality citation:0 ncitation:-1 pid52020
+title1:Application mapping for chip multiprocessors. title2:Application mapping for chip multiprocessors citation:46 ncitation:33 pid286480
+title1:Adaptive set pinning: managing shared caches in chip multiprocessors. title2:Adaptive set pinning: managing shared caches in chip multiprocessors citation:87 ncitation:74 pid286889
+title1:Dynamic Management of Scratch-Pad Memory Space. title2:Dynamic management of scratch-pad memory space citation:257 ncitation:247 pid1323025
+title1:Influence of compiler optimizations on system power. title2:Influence of compiler optimizations on system power citation:151 ncitation:146 pid360812
+title1:Compiler-directed scratch pad memory hierarchy design and management. title2:Compiler-directed scratch pad memory hierarchy design and management citation:142 ncitation:131 pid446254
+title1:Exploiting shared scratch pad memory space in embedded multiprocessor systems. title2:Exploiting shared scratch pad memory space in embedded multiprocessor systems citation:75 ncitation:71 pid283635
+title1:Data Replication in Banked DRAMs for Reducing Energy Consumption. title2:Data replication in banked DRAMs for reducing energy consumption citation:10 ncitation:9 pid1425404
+title1:LODS: locality-oriented dynamic scheduling for on-chip multiprocessors. title2:LODS: locality-oriented dynamic scheduling for on-chip multiprocessors citation:5 ncitation:5 pid407996
+title1:SPM Conscious Loop Scheduling for Embedded Chip Multiprocessors. title2:Spm conscious loop scheduling for embedded chip multiprocessors citation:7 ncitation:7 pid1126289
+title1:Hybrid Techniques for Fast Multicore Simulation. title2:Hybrid Techniques for Fast Multicore Simulation citation:1 ncitation:1 pid446270
+title1:Optimizing Address Code Generation for Array-Intensive DSP Applications. title2:Optimizing address code generation for array-intensive DSP applications citation:14 ncitation:13 pid436634
+title1:Reliability-aware Co-synthesis for Embedded Systems. title2:Reliability-aware co-synthesis for embedded systems citation:63 ncitation:56 pid433799
+title1:A Compiler Algorithm for Optimizing Locality in Loop Nests. title2:A compiler algorithm for optimizing locality in loop nests citation:61 ncitation:61 pid86505
+title1:Adaptive prefetching for shared cache based chip multiprocessors. title2:Adaptive prefetching for shared cache based chip multiprocessors citation:5 ncitation:5 pid134804
+title1:Reducing Disk Power Consumption in Servers with DRPM. title2:Reducing disk power consumption in servers with DRPM citation:90 ncitation:79 pid77538
+title1:A Hyperplane Based Approach for Optimizing Spatial Locality in Loop Nests. title2:A hyperplane based approach for optimizing spatial locality in loop nests citation:44 ncitation:40 pid53954
+title1:Compiler-Directed Power Density Reduction in NoC-Based Multi-Core Designs. title2:Compiler-directed power density reduction in NoC-based multicore designs citation:15 ncitation:15 pid132614
+title1:An integer linear programming approach for optimizing cache locality. title2:An integer linear programming approach for optimizing cache locality citation:16 ncitation:16 pid196734
+title1:Exploring parallelization strategies for NUFFT data translation. title2:Exploring parallelization strategies for NUFFT data translation citation:6 ncitation:6 pid132612
+title1:Designing a 3-D FPGA: Switch Box Architecture and Thermal Issues. title2:Designing a 3-D FPGA: switch box architecture and thermal issues citation:18 ncitation:14 pid196735
+title1:Verifiable annotations for embedded java environments. title2:Verifiable annotations for embedded java environments citation:8 ncitation:8 pid448227
+title1:A dynamic locality optimization algorithm for linear algebra codes. title2:A dynamic locality optimization algorithm for linear algebra codes citation:1 ncitation:1 pid448229
+title1:Reducing Off-Chip Memory Access Costs Using Data Recomputation in Embedded Chip Multi-processors. title2:Reducing off-chip memory access costs using data recomputation in embedded chip multi-processors citation:10 ncitation:8 pid1243405
+title1:Secure Execution of Computations in Untrusted Hosts. title2:Secure execution of computations in untrusted hosts citation:0 ncitation:-1 pid86512
+title1:Managing power, performance and reliability trade-offs. title2:Managing power, performance and reliability trade-offs citation:0 ncitation:0 pid1165376
+title1:A Prefetching Algorithm for Multi-speed Disks. title2:A prefetching algorithm for multi-speed disks citation:1 ncitation:1 pid1241506
+title1:On the Detection of Clones in Sensor Networks Using Random Key Predistribution. title2:On the detection of clones in sensor networks using random key predistribution citation:66 ncitation:45 pid806620
+title1:Pro-active Page Replacement for Scientific Applications: A Characterization. title2:Pro-active Page Replacement for Scientific Applications: A Characterization citation:5 ncitation:5 pid360249
+title1:Improving java virtual machine reliability for memory-constrained embedded systems. title2:Improving java virtual machine reliability for memory-constrained embedded systems citation:9 ncitation:7 pid448204
+title1:Reducing NoC energy consumption through compiler-directed channel voltage scaling. title2:Reducing NoC energy consumption through compiler-directed channel voltage scaling citation:22 ncitation:22 pid530362
+title1:Dataflow analysis for energy-efficient scratch-pad memory management. title2:Dataflow analysis for energy-efficient scratch-pad memory management citation:3 ncitation:3 pid360247
+title1:Memory Space Conscious Loop Iteration Duplication for Reliable Execution. title2:Memory space conscious loop iteration duplication for reliable execution citation:4 ncitation:4 pid1242593
+title1:A Crosstalk Aware Interconnect with Variable Cycle Transmission. title2:A crosstalk aware interconnect with variable cycle transmission citation:61 ncitation:56 pid1135754
+title1:Quasidynamic Layout Optimizations for Improving Data Locality. title2:Quasidynamic layout optimizations for improving data locality citation:2 ncitation:2 pid86469
+title1:An Approach for Enhancing Inter-processor Data Locality on Chip Multiprocessors. title2:An Approach for Enhancing Inter-processor Data Locality on Chip Multiprocessors citation:2 ncitation:2 pid77522
+title1:Optimizing Array-Intensive Applications for On-Chip Multiprocessors. title2:Optimizing array-intensive applications for on-chip multiprocessors citation:5 ncitation:4 pid563808
+title1:An Experimental Evaluation of I/O Optimizations on Different Applications. title2:An experimental evaluation of I/O optimizations on different applications citation:13 ncitation:10 pid567600
+title1:An Experimental Evaluation of I/O Optimizations on Different Applications. title2:An experimental evaluation of I/O optimizations on different applications citation:13 ncitation:10 pid53023
+title1:I/O-Conscious Tiling for Disk-Resident Data Sets. title2:I/O-conscious tiling for disk-resident data sets citation:6 ncitation:7 pid134747
+title1:Enhancing Spatial Locality via Data Layout Optimizations. title2:Enhancing spatial locality via data layout optimizations citation:18 ncitation:18 pid25609
+title1:Reducing False Sharing and Improving Spatial Locality in a Unified Compilation Framework. title2:Reducing false sharing and improving spatial locality in a unified compilation framework citation:13 ncitation:14 pid412370
+title1:Minimizing Data and Synchronization Costs in One-Way Communication. title2:Minimizing data and synchronization costs in one-way communication citation:11 ncitation:11 pid2331293
+title1:Static and Dynamic Locality Optimizations Using Integer Linear Programming. title2:Static and dynamic locality optimizations using integer linear programming citation:13 ncitation:14 pid52144
+title1:Reducing memory energy consumption of embedded applications that process dynamically allocated data. title2:Reducing memory energy consumption of embedded applications that process dynamically allocated data citation:5 ncitation:4 pid1132948
+title1:A Linear Algebra Framework for Automatic Determination of Optimal Data Layouts. title2:A linear algebra framework for automatic determination of optimal data layouts citation:55 ncitation:55 pid446358
+title1:A Unified Framework for Optimizing Locality, Parallelism, and Communication in Out-of-Core Computations. title2:A unified framework for optimizing locality, parallelism, and communication in out-of-core computations citation:24 ncitation:24 pid131728
+title1:DRPM: Dynamic Speed Control for Power Mangagement in Server Class Disks. title2:DRPM: dynamic speed control for power management in server class disks citation:369 ncitation:340 pid542449
+title1:Reducing Memory Requirements of Nested Loops for Embedded Systems. title2:Reducing memory requirements of nested loops for embedded systems citation:45 ncitation:44 pid436495
+title1:Improving MPI Independent Write Performance Using A Two-Stage Write-Behind Buffering Method. title2:Improving MPI independent write performance using a two-stage write-behind buffering method citation:8 ncitation:8 pid572560
+title1:Processor-embedded distributed smart disks for I/O-intensive workloads: architectures, performance models and evaluation. title2:Processor-embedded distributed smart disks for I/O-intensive workloads: architectures, performance models and evaluation citation:6 ncitation:12 pid1195047
+title1:Processor-embedded distributed smart disks for I/O-intensive workloads: architectures, performance models and evaluation. title2:Processor-embedded distributed smart disks for I/O-intensive workloads: architectures, performance models and evaluation citation:6 ncitation:12 pid1125197
+title1:Memory system optimization of embedded software. title2:Memory system optimization of embedded software citation:43 ncitation:38 pid1125207
+title1:FD-HGAC: a hybrid heuristic/genetic algorithm hardware/software co-synthesis framework with fault detection. title2:FD-HGAC: A hybrid heuristic/genetic algorithm hardware/software co-synthesis framework with fault detection citation:7 ncitation:5 pid196750
+title1:Memory bank aware dynamic loop scheduling. title2:Memory bank aware dynamic loop scheduling citation:4 ncitation:4 pid196751
+title1:Enhancing the performance of MPI-IO applications by overlapping I/O, computation and communication. title2:Enhancing the performance of MPI-IO applications by overlapping I/O, computation and communication citation:6 ncitation:5 pid196748
+title1:Capturing and optimizing the interactions between prefetching and cache line turnoff. title2:Capturing and optimizing the interactions between prefetching and cache line turnoff citation:0 ncitation:-1 pid196749
+title1:Data Windows: A Data-Centric Approach for Query Execution in Memory-Resident Databases. title2:Data windows: a data-centric approach for query execution in memory-resident databases citation:3 ncitation:3 pid1125210
+title1:Improving Memory Energy Using Access Pattern Classification. title2:Improving memory energy using access pattern classification citation:20 ncitation:19 pid1085017
+title1:Managing Leakage Energy in Cache Hierarchies. title2:Managing leakage energy in cache hierarchies citation:17 ncitation:16 pid1125213
+title1:2D data locality: definition, abstraction, and application. title2:2D data locality: definition, abstraction, and application citation:5 ncitation:4 pid418862
+title1:A helper thread based EDP reduction scheme for adapting application execution in CMPs. title2:A helper thread based edp reduction scheme for adapting application execution in cmps citation:21 ncitation:21 pid133701
+title1:A compiler-directed data prefetching scheme for chip multiprocessors. title2:A compiler-directed data prefetching scheme for chip multiprocessors citation:15 ncitation:12 pid412288
+title1:Using dynamic compilation for continuing execution under reduced memory availability. title2:Using dynamic compilation for continuing execution under reduced memory availability citation:0 ncitation:0 pid142429
+title1:Optimal topology exploration for application-specific 3D architectures. title2:Optimal topology exploration for application-specific 3D architectures citation:18 ncitation:12 pid1241384
+title1:Field level analysis for heap space optimization in embedded java environments. title2:Field level analysis for heap space optimization in embedded Java environments citation:7 ncitation:6 pid1165565
+title1:Lightweight barrier-based parallelization support for non-cache-coherent MPSoC platforms. title2:Lightweight barrier-based parallelization support for non-cache-coherent MPSoC platforms citation:11 ncitation:11 pid988524
+title1:Energy-performance trade-offs for spatial access methods on memory-resident data. title2:Energy-performance trade-offs for spatial access methods on memory-resident data citation:11 ncitation:11 pid1037539
+title1:Design and Evaluation of Smart Disk Architecture for DSS Commercial Workloads. title2:Design and evaluation of smart disk architecture for DSS commercial workloads citation:23 ncitation:23 pid215253
+title1:A compiler technique for improving whole-program locality. title2:A compiler technique for improving whole-program locality citation:22 ncitation:21 pid143429
+title1:Adapting Application Mapping to Systematic Within-Die Process Variations on Chip Multiprocessors. title2:Adapting application mapping to systematic within-die process variations on chip multiprocessors citation:6 ncitation:6 pid1153207
+title1:Fault Recovery Designs for Processor-Embedded Distributed Storage Architectures with I/O-Intensive DB Workloads. title2:Fault recovery designs for processor-embedded distributed storage architectures with I/O-intensive DB workloads citation:3 ncitation:3 pid160906
+title1:APRIL: A Run-Time Library for Tape-Resident Data. title2:April: A Run-Time Library for Tape-Resident Data citation:23 ncitation:23 pid142769
+title1:The Sleep Deprivation Attack in Sensor Networks: Analysis and Methods of Defense. title2:The sleep deprivation attack in sensor networks: Analysis and methods of defense citation:37 ncitation:30 pid549197
+title1:Integrated link/CPU voltage scaling for reducing energy consumption of parallel sparse matrix applications. title2:Integrated link/cpu voltage scaling for reducing energy consumption of parallel sparse matrix applications citation:12 ncitation:12 pid549199
+title1:Improving disk reuse for reducing power consumption. title2:Improving disk reuse for reducing power consumption citation:8 ncitation:7 pid282422
+title1:Phase-aware adaptive hardware selection for power-efficient scientific computations. title2:Phase-aware adaptive hardware selection for power-efficient scientific computations citation:5 ncitation:4 pid412519
+title1:On Reducing False Sharing while Improving Locality on Shared Memory Multiprocessors. title2:On reducing false sharing while improving locality on shared memory multiprocessors citation:4 ncitation:2 pid548603
+title1:Towards energy efficient scaling of scientific codes. title2:Towards energy efficient scaling of scientific codes citation:15 ncitation:13 pid52827
+title1:Using loop invariants to fight soft errors in data caches. title2:Using loop invariants to fight soft errors in data caches citation:7 ncitation:7 pid343798
+title1:CCC: Crossbar Connected Caches for Reducing Energy Consumption of On-Chip Multiprocessors. title2:CCC: Crossbar connected caches for reducing energy consumption of on-chip multiprocessors citation:11 ncitation:10 pid251389
+title1:A Hybrid Evolutionary Algorithm for Solving the Register Allocation Problem. title2:A hybrid evolutionary algorithm for solving the register allocation problem citation:2 ncitation:2 pid1098648
+title1:A case for integrated processor-cache partitioning in chip multiprocessors. title2:A case for integrated processor-cache partitioning in chip multiprocessors citation:13 ncitation:9 pid509062
+title1:Process-Variation-Aware Adaptive Cache Architecture and Management. title2:Process-variation-aware adaptive cache architecture and management citation:7 ncitation:4 pid509061
+title1:A novel application development environment for large-scale scientific computations. title2:A novel application development environment for large-scale scientific computations citation:0 ncitation:18 pid548508
+title1:Energy savings through embedded processing on disk system. title2:Energy savings through embedded processing on disk system citation:3 ncitation:2 pid1186795
+title1:Multi-compilation: capturing interactions among concurrently-executing applications. title2:Multi-compilation: capturing interactions among concurrently-executing applications citation:3 ncitation:2 pid406552
+title1:Integrated Data Reorganization and Disk Mapping for Reducing Disk Energy Consumption. title2:Integrated data reorganization and disk mapping for reducing disk energy consumption citation:6 ncitation:6 pid411591
+title1:Enhancing Locality in Two-Dimensional Space through Integrated Computation and Data Mappings. title2:Enhancing locality in two-dimensional space through integrated computation and data mappings citation:4 ncitation:3 pid1559878
+title1:Solving the Register Allocation Problem for Embedded Systems Using a Hybrid Evolutionary Algorithm. title2:Solving the register allocation problem for embedded systems using a hybrid evolutionary algorithm citation:12 ncitation:11 pid1588573
+title1:Design and Evaluation of a Compiler-Directed Collective I/O Technique. title2:Design and Evaluation of a Compiler-directed Collective I/O technique citation:5 ncitation:6 pid141700
+title1:Evaluating the role of scratchpad memories in chip multiprocessors for sparse matrix computations. title2:Evaluating the role of scratchpad memories in chip multiprocessors for sparse matrix computations citation:8 ncitation:6 pid9584
+title1:An Automated Framework for Accelerating Numerical Algorithms on Reconfigurable Platforms Using Algorithmic/Architectural Optimization. title2:An automated framework for accelerating numerical algorithms on reconfigurable platforms using algorithmic/architectural optimization citation:6 ncitation:5 pid196950
+title1:Reducing energy consumption of queries in memory-resident database systems. title2:Reducing energy consumption of queries in memory-resident database systems citation:9 ncitation:9 pid2313996
+title1:Disk layout optimization for reducing energy consumption. title2:Disk layout optimization for reducing energy consumption citation:43 ncitation:41 pid412468
+title1:Energy management schemes for memory-resident database systems. title2:Energy management schemes for memory-resident database systems citation:6 ncitation:5 pid216329
+title1:Array Regrouping and Its Use in Compiling Data-Intensive Embedded Applications. title2:Array regrouping and its use in compiling data-intensive, embedded applications citation:7 ncitation:7 pid141714
+title1:Prefetch throttling and data pinning for improving performance of shared caches. title2:Prefetch throttling and data pinning for improving performance of shared caches citation:1 ncitation:1 pid52746
+title1:Nonuniform Banking for Reducing Memory Energy Consumption. title2:Nonuniform banking for reducing memory energy consumption citation:25 ncitation:25 pid437377
+title1:Dynamic storage cache allocation in multi-server architectures. title2:Dynamic storage cache allocation in multi-server architectures citation:8 ncitation:5 pid161021
+title1:BB-GC: Basic-Block Level Garbage Collection. title2:Bb-gc: basic-block level garbage collection citation:6 ncitation:7 pid2323657
+title1:Loop Transformations for Reducing Data Space Requirements of Resource-Constrained Applications. title2:Loop transformations for reducing data space requirements of resource-constrained applications citation:7 ncitation:6 pid198962
+title1:An ilp based approach to reducing energy consumption in nocbased CMPS. title2:An ilp based approach to reducing energy consumption in nocbased CMPS citation:4 ncitation:3 pid360663
+title1:Partitioned instruction cache architecture for energy efficiency. title2:Partitioned instruction cache architecture for energy efficiency citation:49 ncitation:48 pid85465
+title1:An ILP Formulation for Reliability-Oriented High-Level Synthesis. title2:An ILP formulation for reliability-oriented high-level synthesis citation:17 ncitation:16 pid824135
+title1:Reliability-Centric Hardware/Software Co-Design. title2:Reliability-centric hardware/software co-design citation:16 ncitation:13 pid1098557
+title1:Using Data Compression for Increasing Memory System Utilization. title2:Using data compression for increasing memory system utilization citation:6 ncitation:3 pid646496
+title1:ICR: In-Cache Replication for Enhancing Data Cache Reliability. title2:ICR: In-Cache Replication for Enhancing Data Cache Reliability. citation:85 ncitation:80 pid77595
+title1:Access Pattern Restructuring for Memory Energy. title2:Access pattern restructuring for memory energy citation:8 ncitation:7 pid77585
+title1:Automatic data migration for reducing energy consumption in multi-bank memory systems. title2:Automatic data migration for reducing energy consumption in multi-bank memory systems citation:83 ncitation:79 pid77583
+title1:Reducing data cache leakage energy using a compiler-based approach. title2:Reducing data cache leakage energy using a compiler-based approach citation:12 ncitation:12 pid197021
+title1:A novel migration-based NUCA design for chip multiprocessors. title2:A novel migration-based NUCA design for chip multiprocessors citation:51 ncitation:46 pid412671
+title1:Data Relation Vectors: A New Abstraction for Data Optimizations. title2:Data relation vectors: a new abstraction for data optimizations citation:13 ncitation:13 pid77578
+title1:Adapative Error Protection for Energy Efficiency. title2:Adapative error protection for energy efficiency citation:58 ncitation:45 pid360682
+title1:Reducing energy consumption of parallel sparse matrix applications through integrated link/CPU voltage scaling. title2:Reducing energy consumption of parallel sparse matrix applications through integrated link/CPU voltage scaling citation:10 ncitation:7 pid1687972
+title1:Performance, energy, and reliability tradeoffs in replicating hot cache lines. title2:Performance, energy, and reliability tradeoffs in replicating hot cache lines citation:7 ncitation:8 pid283260
+title1:Design and Evaluation of a Smart Disk Cluster for DSS Commercial Workloads. title2:Design and evaluation of a smart disk cluster for DSS commercial workloads citation:17 ncitation:15 pid1080712
+title1:Topology-Aware I/O Caching for Shared Storage Systems. title2:Topology-Aware I/O Caching for Shared Storage Systems. citation:1 ncitation:1 pid142693
+title1:Improving soft-error tolerance of FPGA configuration bits. title2:Improving soft-error tolerance of FPGA configuration bits citation:48 ncitation:42 pid1255113
+title1:Enhancing L2 organization for CMPs with a center cell. title2:Enhancing L2 organization for CMPs with a center cell citation:8 ncitation:8 pid572909
+title1:Exploiting scratch-pad memory using Presburger formulas. title2:Exploiting scratch-pad memory using presburger formulas citation:49 ncitation:50 pid142695
+title1:Improving I/O performance using soft-QoS-based dynamic storage cache partitioning. title2:Improving I/O performance using soft-QoS-based dynamic storage cache partitioning citation:9 ncitation:7 pid1098595
+title1:Feedback control for providing QoS in NoC based multicores. title2:Feedback control for providing QoS in NoC based multicores citation:12 ncitation:8 pid437304
+title1:A special-purpose compiler for look-up table and code generation for function evaluation. title2:A special-purpose compiler for look-up table and code generation for function evaluation citation:11 ncitation:9 pid143515
+title1:Code Scheduling for Optimizing Parallelism and Data Locality. title2:Code scheduling for optimizing parallelism and data locality citation:1 ncitation:1 pid1098618
+title1:Scalable Parallelization Strategies to Accelerate NuFFT Data Translation on Multicores. title2:Scalable parallelization strategies to accelerate NuFFT data translation on multicores citation:3 ncitation:3 pid1541612
+title1:Adaptive multi-level cache allocation in distributed storage architectures. title2:Adaptive multi-level cache allocation in distributed storage architectures citation:3 ncitation:3 pid1098614
+title1:Compiler directed network-on-chip reliability enhancement for chip multiprocessors. title2:Compiler directed network-on-chip reliability enhancement for chip multiprocessors citation:1 ncitation:1 pid448363
+title1:Cache topology aware computation mapping for multicores. title2:Cache topology aware computation mapping for multicores citation:24 ncitation:18 pid448361
+title1:Coordinated power management of voltage islands in CMPs. title2:Coordinated power management of voltage islands in CMPs citation:2 ncitation:2 pid1342893
+title1:Computation mapping for multi-level storage cache hierarchies. title2:Computation mapping for multi-level storage cache hierarchies citation:2 ncitation:2 pid646432
+title1:Cashing in on hints for better prefetching and caching in PVFS and MPI-IO. title2:Cashing in on Hints for Better Prefetching and Caching in PVFS and MPI-IO citation:3 ncitation:3 pid1124905
+title1:Shared scratch pad memory space management across applications. title2:Shared scratch pad memory space management across applications citation:1 ncitation:0 pid133002
+title1:T-NUCA - a novel approach to non-uniform access latency cache architectures for 3D CMPs. title2:T-NUCA-a novel approach to non-uniform access latency cache architectures for 3D CMPs citation:2 ncitation:1 pid1098574
+title1:Dynamic core partitioning for energy efficiency. title2:Dynamic core partitioning for energy efficiency citation:1 ncitation:1 pid576081
+title1:Intra-application cache partitioning. title2:Intra-application cache partitioning citation:6 ncitation:2 pid521985
+title1:Analyzing the soft error resilience of linear solvers on multicore multiprocessors. title2:Analyzing the soft error resilience of linear solvers on multicore multiprocessors citation:13 ncitation:6 pid1236608
+title1:Synergistic TLBs for High Performance Address Translation in Chip Multiprocessors. title2:Synergistic TLBs for high performance address translation in chip multiprocessors citation:9 ncitation:5 pid2153891
+title1:QoS aware storage cache management in multi-server environments. title2:QoS aware storage cache management in multi-server environments citation:0 ncitation:0 pid9724
+title1:Automated Tracing of I/O Stack. title2:Automated tracing of i/o stack citation:5 ncitation:5 pid282569
+title1:Neighborhood-aware data locality optimization for NoC-based multicores. title2:Neighborhood-aware data locality optimization for NoC-based multicores citation:4 ncitation:3 pid9725
+title1:On-chip cache hierarchy-aware tile scheduling for multicore machines. title2:On-chip cache hierarchy-aware tile scheduling for multicore machines citation:7 ncitation:3 pid1112200
+title1:MorphCache: A Reconfigurable Adaptive Multi-level Cache hierarchy. title2:MorphCache: a reconfigurable adaptive multi-level cache hierarchy citation:13 ncitation:9 pid646419
+title1:Software-directed data access scheduling for reducing disk energy consumption. title2:Software-directed data access scheduling for reducing disk energy consumption citation:1 ncitation:1 pid77655
+title1:Exploring performance-power tradeoffs in providing reliability for NoC-based MPSoCs. title2:Exploring performance-power tradeoffs in providing reliability for NoC-based MPSoCs citation:1 ncitation:0 pid989365
+title1:Automatic Feedback Control of Shared Hybrid Caches in 3D Chip Multiprocessors. title2:Automatic Feedback Control of Shared Hybrid Caches in 3D Chip Multiprocessors citation:0 ncitation:0 pid1236634
+title1:Quantifying Thread Vulnerability for Multicore Architectures. title2:Quantifying thread vulnerability for multicore architectures citation:2 ncitation:1 pid983327
+title1:CPM in CMPs: Coordinated Power Management in Chip-Multiprocessors. title2:CPM in CMPs: Coordinated power management in chip-multiprocessors citation:11 ncitation:8 pid1236637
+title1:METE: meeting end-to-end QoS in multicores through system-wide resource management. title2:METE: meeting end-to-end QoS in multicores through system-wide resource management citation:15 ncitation:7 pid283187
+title1:Studying inter-core data reuse in multicores. title2:Studying inter-core data reuse in multicores citation:2 ncitation:0 pid408618
+title1:Particle simulation on the Cell BE architecture. title2:Particle simulation on the Cell BE architecture citation:1 ncitation:1 pid2782884
+title1:Multilayer Cache Partitioning for Multiprogram Workloads. title2:Multilayer cache partitioning for multiprogram workloads citation:0 ncitation:0 pid2782903
+title1:Bandwidth Constrained Coordinated HW/SW Prefetching for Multicores. title2:Bandwidth constrained coordinated HW/SW prefetching for multicores citation:0 ncitation:0 pid2786762
+title1:Minimizing interference through application mapping in multi-level buffer caches. title2:Minimizing interference through application mapping in multi-level buffer caches citation:2 ncitation:2 pid2798348
+title1:Improving energy efficiency of multi-threaded applications using heterogeneous CMOS-TFET multicores. title2:Improving energy efficiency of multi-threaded applications using heterogeneous CMOS-TFET multicores citation:11 ncitation:7 pid2806190
+title1:Adaptive QoS Decomposition and Control for Storage Cache Management in Multi-server Environments. title2:Adaptive QoS Decomposition and Control for Storage Cache Management in Multi-server Environments citation:0 ncitation:0 pid2806206
+title1:APP: Minimizing Interference Using Aggressive Pipelined Prefetching in Multi-level Buffer Caches. title2:APP: Minimizing Interference Using Aggressive Pipelined Prefetching in Multi-level Buffer Caches citation:1 ncitation:1 pid2810530
+title1:Process variation-aware routing in NoC based multicores. title2:Process variation-aware routing in NoC based multicores citation:2 ncitation:2 pid2814565
+title1:A helper thread based dynamic cache partitioning scheme for multithreaded applications. title2:A helper thread based dynamic cache partitioning scheme for multithreaded applications citation:3 ncitation:2 pid2851532
+title1:Provisioning a Multi-tiered Data Staging Area for Extreme-Scale Machines. title2:Provisioning a multi-tiered data staging area for extreme-scale machines citation:8 ncitation:6 pid2882297
+title1:Exploiting large on-chip memory space through data recomputation. title2:Exploiting large on-chip memory space through data recomputation citation:0 ncitation:0 pid2900579
+title1:Optimizing Leakage Energy Consumption in Cache Bitlines. title2:Optimizing leakage energy consumption in cache bitlines citation:3 ncitation:4 pid2900582
+title1:Optimizing Data Layouts for Parallel Computation on Multicores. title2:Optimizing data layouts for parallel computation on multicores citation:4 ncitation:1 pid2934256
+title1:Compiler Directed Data Locality Optimization for Multicore Architectures. title2:Compiler Directed Data Locality Optimization for Multicore Architectures citation:1 ncitation:1 pid2948356
+title1:Optimizing data locality using array tiling. title2:Optimizing data locality using array tiling citation:1 ncitation:1 pid2948499
+title1:Exploring heterogeneous NoC design space. title2:Exploring heterogeneous NoC design space citation:2 ncitation:0 pid2948589
+title1:Cooperative parallelization. title2:Cooperative parallelization citation:0 ncitation:-1 pid2948628
+title1:Improving shared cache behavior of multithreaded object-oriented applications in multicores. title2:Improving shared cache behavior of multithreaded object-oriented applications in multicores citation:0 ncitation:0 pid2949630
+title1:Feedback control based cache reliability enhancement for emerging multicores. title2:Feedback control based cache reliability enhancement for emerging multicores citation:0 ncitation:0 pid2950499
+title1:BrickX: building hybrid systems for recursive computations. title2:BrickX: building hybrid systems for recursive computations citation:0 ncitation:0 pid2950558
+title1:A compiler framework for extracting superword level parallelism. title2:A compiler framework for extracting superword level parallelism citation:0 ncitation:0 pid3009960
+title1:Panacea: towards holistic optimization of MapReduce applications. title2:Panacea: towards holistic optimization of MapReduce applications citation:5 ncitation:0 pid3009981
+title1:A data layout optimization framework for NUCA-based multicores. title2:A data layout optimization framework for NUCA-based multicores citation:2 ncitation:1 pid3017052
+title1:Reducing memory interference in multicore systems via application-aware memory channel partitioning. title2:Reducing memory interference in multicore systems via application-aware memory channel partitioning citation:30 ncitation:16 pid3017105
+title1:Courteous cache sharing: being nice to others in capacity management. title2:Courteous cache sharing: being nice to others in capacity management citation:2 ncitation:1 pid3023975
+title1:A hybrid NoC design for cache coherence optimization for chip multiprocessors. title2:A hybrid NoC design for cache coherence optimization for chip multiprocessors citation:1 ncitation:-1 pid3026085
+title1:REEact: a customizable virtual execution manager for multicore platforms. title2:REEact: a customizable virtual execution manager for multicore platforms citation:2 ncitation:-1 pid3026162
+title1:Reuse distance based performance modeling and workload mapping. title2:Reuse distance based performance modeling and workload mapping citation:0 ncitation:0 pid3027480
+title1:Improving the performance of k-means clustering through computation skipping and data locality optimizations. title2:Improving the performance of k-means clustering through computation skipping and data locality optimizations citation:0 ncitation:0 pid3027844
+title1:Performance-reliability tradeoff analysis for multithreaded applications. title2:Performance-reliability tradeoff analysis for multithreaded applications citation:0 ncitation:-1 pid3027874
+title1:Locality-Aware Dynamic Mapping for Multithreaded Applications. title2:Locality-Aware Dynamic Mapping for Multithreaded Applications citation:0 ncitation:-1 pid3117319
+title1:Compiler Support for Voltage Islands. title2:Compiler support for voltage islands citation:2 ncitation:2 pid3117481
+title1:Energy-Aware Code Replication for Improving Reliability in Embedded Chip Multiprocessors. title2:Energy-aware code replication for improving reliability in embedded chip multiprocessors citation:1 ncitation:1 pid3147304
+title1:Automatic Parallel Code Generation for NUFFT Data Translation on multicores. title2:Automatic Parallel Code Generation for NuFFT Data Translation on Multicores citation:1 ncitation:-1 pid3176957
+title1:Reliability-aware core partitioning in chip multiprocessors. title2:Reliability-aware core partitioning in chip multiprocessors citation:0 ncitation:0 pid3177060
+title1:Thread vulnerability in parallel applications. title2:Thread vulnerability in parallel applications citation:1 ncitation:0 pid3177770
+title1:Physically Addressed Queueing (PAQ): Improving parallelism in Solid State Disks. title2:Physically addressed queueing (PAQ): Improving parallelism in solid state disks citation:3 ncitation:0 pid3179665
+title1:Optimization and Evaluation of Hartree-Fock Application's I/O with PASSION. title2:Optimization and evaluation of Hartree-Fock application's I/O with PASSION citation:4 ncitation:4 pid3184539
+title1:Design space exploration of workload-specific last-level caches. title2:Design space exploration of workload-specific last-level caches citation:1 ncitation:-1 pid3189950
+title1:Off-chip access localization for NoC-based multicores. title2:Off-chip access localization for NoC-based multicores citation:0 ncitation:-1 pid3189963
+title1:PEPON: performance-aware hierarchical power budgeting for NoC based multicores. title2:PEPON: performance-aware hierarchical power budgeting for NoC based multicores citation:1 ncitation:0 pid3198599
+title1:On Urgency of I/O Operations. title2:On Urgency of I/O Operations citation:0 ncitation:0 pid3198609
+title1:NANDFlashSim: Intrinsic latency variation aware NAND flash memory system modeling and simulation at microarchitecture level. title2:NANDFlashSim: Intrinsic latency variation aware NAND flash memory system modeling and simulation at microarchitecture level citation:7 ncitation:3 pid3228821
+title1:MROrchestrator: A Fine-Grained Resource Orchestration Framework for MapReduce Clusters. title2:Mrorchestrator: A fine-grained resource orchestration framework for mapreduce clusters citation:3 ncitation:1 pid3239501
+title1:Software-Directed Data Access Scheduling for Reducing Disk Energy Consumption. title2:Software-directed data access scheduling for reducing disk energy consumption citation:1 ncitation:1 pid3248442
+title1:Compiler-directed file layout optimization for hierarchical storage systems. title2:Compiler-directed file layout optimization for hierarchical storage systems citation:0 ncitation:0 pid3276617
+title1:Taking Garbage Collection Overheads Off the Critical Path in SSDs. title2:Taking garbage collection overheads off the critical path in SSDs citation:2 ncitation:1 pid3276618
+title1:Workload Clustering for Increasing Energy Savings on Embedded MPSoCs. title2:Workload Clustering for Increasing Energy Savings on Embedded MPSOCS citation:0 ncitation:3 pid3304386
+title1:Improving last level cache locality by integrating loop and data transformations. title2:Improving last level cache locality by integrating loop and data transformations citation:1 ncitation:0 pid3304473
+title1:Performance enhancement under power constraints using heterogeneous CMOS-TFET multicores. title2:Performance enhancement under power constraints using heterogeneous CMOS-TFET multicores citation:3 ncitation:0 pid3399088
+title1:OWL: cooperative thread array aware scheduling techniques for improving GPGPU performance. title2:OWL: cooperative thread array aware scheduling techniques for improving GPGPU performance citation:4 ncitation:None pid3406136
+title1:Data layout optimization for GPGPU architectures. title2:Data layout optimization for GPGPU architectures citation:0 ncitation:None pid3407479

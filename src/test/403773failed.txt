@@ -1,0 +1,392 @@
+title:Formal Models and Computability. citation:-1
+title:Computational Machine Learning in Theory and Praxis. citation:-1
+title:Inferring a DNA Sequence from Erroneous Copies (Abstract). citation:-1
+title:Normalizing Traffic Pattern with Anonymity for Mission Critical Applications. citation:-1
+title:PRIME: Peptide robust identification from MS/MS spectra. citation:-1
+title:ONBRIRES: Ontology-Based Biological Relation Extraction System. citation:-1
+title:Consensus fold recognition by predicted model quality. citation:-1
+title:PathwayFinder: Paving the Way Towards Automatic Pathway Extraction. citation:-1
+title:A Real-Time and Reliable Approach to Detecting Traffic Variations at Abnormally High and Low Rates. citation:-1
+title:Average-Case Analysis Using Kolmogorov Complexity. citation:-1
+title:Fractional Gaussian Noise: A Tool of Characterizing Traffic for Detection Purpose. citation:-1
+title:Some Examples of Average-case Analysis by the Imcompressibility Method. citation:-1
+title:Information shared by many objects. citation:-1
+title:Average-Case Analysis Using Kolgomorov Complexity (Abstract). citation:-1
+title:A Statistical Model for Detecting Abnormality in Static-Priority Scheduling Networks with Differentiated Services. citation:-1
+title:Combinatorics and Kolmogorov Complexity. citation:-1
+title:Inductive Reasoning and Komogorov Complexity. citation:-1
+title:The Expected Size of Heilbronn's Triangles. citation:-1
+title:Reversible Simulation of Irreversible Computation. citation:-1
+title:Sharpening Occam's Razor. citation:-1
+title:The Power of the Queue. citation:-1
+title:Information Distance from a Question to an Answer. citation:-1
+title:Some Notes on the Nearest Neighbour Interchange Distance. citation:-1
+title:Better Approximation of Diagonal-Flip Transformation and Rotation Transformation. citation:-1
+title:Fixed Topology Alignment with Recombination. citation:-1
+title:On the Complexity of Learning Strings and Sequences. citation:-1
+title:Computing Exact p-Value for Structured Motif. citation:-1
+title:Finding Largest Well-Predicted Subset of Protein Structure Models. citation:-1
+title:Optimizing Multiple Spaced Seeds for Homology Search. citation:-1
+title:Finding Compact Structural Motifs. citation:-1
+title:Finding Cancer Biomarkers from Mass Spectrometry Data by Decision Lists. citation:-1
+title:On Prediction by Data Compression. citation:-1
+title:Event dissemination via group-aware stream filtering. citation:-1
+title:Average-Case Analysis via Incompressibility. citation:-1
+title:Quartet Cleaning: Improved Algorithms and Simulations. citation:-1
+title:Bounded Time-Stamps (Extended Abstract) citation:-1
+title:A Novel Multi-reduced SVM Approach for Speaker Recognition. citation:-1
+title:A Theory of Learning Simple Concepts Under Simple Distributions and Average Case Complexity for the Universal Distribution (Extended Abstract) citation:-1
+title:Improvement of Routing Structure in P2P Overlay Networks. citation:-1
+title:Gemini: Probabilistic Routing Algorithm in Structured P2P Overlay. citation:-1
+title:Constructing Regularity Feature Trees for Solid Models. citation:-1
+title:Construct Piecewise Hermite Interpolation Surface with Blending Methods. citation:-1
+title:Speaker Identification Based on Multi-reduced SVM. citation:-1
+title:A New Algorithm for Pattern Optimization in Protein-Protein Interaction Extraction System. citation:-1
+title:Abstract Analysis of Detection Probability for Statistically Detecting DDoS Attacks. citation:-1
+title:Fair Intelligent Feedback Mechanism on TCP Based Network. citation:-1
+title:Rational Quadratic Approximation to Real Plane Algebraic Curves. citation:-1
+title:A Comment on "Constructing Regularity Feature Trees for Solid Models". citation:-1
+title:Average-Case Complexity of Shellsort. citation:-1
+title:On the Approximation of Shortest Common Supersequences and Longest Common Subsequences. citation:-1
+title:New Applications of the Incompressibility Method. citation:-1
+title:Philosophical Issues in Kolmogorov Complexity. citation:-1
+title:How to Share Concurrent Asynchronous Wait-Free Varaibles (Preliminary Version). citation:-1
+title:Twins: 2-hop Structured Overlay with High Scalability. citation:-1
+title:A Question Understanding Model Based on Knowledge Points for Chinese Question Answering Service in E-Learning. citation:-1
+title:A Novel Description of Multifractal Phenomenon of Network Traffic Based on Generalized Cauchy Process. citation:-1
+title:Developing Personalized Knowledge Navigation Service for Students Self-Learning based on Interpretive Structural Modeling. citation:-1
+title:A New Approach to Formal Language Theory by Kolmogorov Complexity (Preliminary Version). citation:-1
+title:Group-aware Stream Filtering. citation:-1
+title:Generating Traffic Time Series Based on Generalized Cauchy Process. citation:-1
+title:Towards Describing Multi-fractality of Traffic Using Local Hurst Function. citation:-1
+title:PeerWindow: An Efficient, Heterogeneous, and Autonomic Node Collection Protocol. citation:-1
+title:An Experimental Study on Automatic Face Gender Classification. citation:-1
+title:Chaotically Masking Traffic Pattern to Prevent Traffic Pattern Analysis Attacks for Mission Critical Applications in Computer Communication Networks. citation:-1
+title:Class-Based Fair Intelligent Admission Control over an Enhanced Differentiated Service Network. citation:-1
+title:Personalized event-based news video retrieval with dynamic user-log. citation:-1
+title:SmartBoa: Constructing p2p Overlay Network in the Heterogeneous Internet Using Irregular Routing Tables. citation:-1
+title:Fair Intelligent Congestion Control Resource Discovery Protocol on TCP based Network. citation:-1
+title:Determining the Topology of Real Algebraic Surfaces. citation:-1
+title:Semi-Supervised Regression with Co-Training. citation:-1
+title:The Minimum Description Length Principle and Its Application to Online Learning of Handprinted Characters. citation:-1
+title:Study of the Impact of Hardware Fault on Software Reliability. citation:-1
+title:Ranking Software Engineering Measures Related to Reliability Using Expert Opinion. citation:-1
+title:Integrating Software into PRA. citation:-1
+title:Validation of a Methodology for Assessing Software Reliability. citation:-1
+title:Information distance from a question to an answer. citation:-1
+title:On Synchronous Coding. citation:-1
+title:Designing succinct structural alphabets. citation:-1
+title:Homology search for genes. citation:-1
+title:Design and Implementation of a Large-Scale Context Fusion Network. citation:-1
+title:Model for Survivability of Wireless Sensor Network. citation:-1
+title:A Method to Obtain Signatures from Honeypots Data. citation:-1
+title:An Empirical Autocorrelation Form for Modeling LRD Traffic Series. citation:-1
+title:PRESTO: Feedback-driven Data Management in Sensor Networks. citation:-1
+title:Generation of Comprehensible Hypotheses from Gene Expression Data. citation:-1
+title:An Improved OIF Elman Neural Network and Its Applications to Stock Market. citation:-1
+title:Multimedia Evidence Fusion for Video Concept Detection via OWA Operator. citation:-1
+title:On Processor Coordination Using Asynchronous Hardware. citation:-1
+title:Online Manifold Regularization: A New Learning Setting and Empirical Study. citation:-1
+title:ONSP: Parallel Overlay Network Simulation Platform. citation:-1
+title:A compression algorithm for DNA sequences and its applications in genome comparison. citation:-1
+title:Protein Threading by Linear Programming. citation:-1
+title:Discovering Sequence-Structure Motifs from Protein Segments and Two Applications. citation:-1
+title:Mining Bulletin Board Systems Using Community Generation. citation:-1
+title:SETRED: Self-training with Editing. citation:-1
+title:Probability Principle of a Reliable Approach to Detect Signs of DDOS Flood Attacks. citation:-1
+title:Synopsis Alignment: Importing External Text Information for Multi-model Movie Analysis. citation:-1
+title:A practical algorithm for recovering the best supported edges of an evolutionary tree (extended abstract). citation:-1
+title:On Distances between Phylogenetic Trees (Extended Abstract). citation:-1
+title:Recovering Branches on the Tree of Life: An Approximation Algorithm. citation:-1
+title:Computing the quartet distance between evolutionary trees. citation:-1
+title:Rapid and Accurate Protein Side Chain Prediction with Local Backbone Information. citation:-1
+title:Multi-user data sharing in radar sensor networks. citation:-1
+title:On the complexity and approximation of syntenic distance. citation:-1
+title:On reconstructing species trees from gene trees in term of duplications and losses. citation:-1
+title:Detecting approximate incomplete symmetries in discrete point sets. citation:-1
+title:Achieving Flow Fairness in DiffServ Class: Per-flow Fair Admission Control over Differentiated Service Network. citation:-1
+title:Multi-user data sharing in radar sensor networks. citation:-1
+title:Finding Similar Regions in Many Strings. citation:-1
+title:Near optimal multiple alignment within a band in polynomial time. citation:-1
+title:k one-way heads cannot do string-matching. citation:-1
+title:Thermodynamics of computation and information distance. citation:-1
+title:Lower Bounds on Learning Decision Lists and Trees (Extended Abstract). citation:-1
+title:The Incompressibility Method. citation:-1
+title:Linear Approximation of Shortest Superstrings citation:-1
+title:Estimating DNA sequence entropy. citation:-1
+title:Distinguishing String Selection Problems. citation:-1
+title:Superiority and complexity of the spaced seeds. citation:-1
+title:Classification Rule Acquisition Based on Extended Concept Lattice. citation:-1
+title:A Whole Correlation Structure of Asymptotically Self-Similar Traffic in Communication Networks. citation:-1
+title:A Novel Audio Watermarking in Wavelet Domain. citation:-1
+title:On the Complexity of the Crossing Contact Map Pattern Matching Problem. citation:-1
+title:Approximating Shortest Superstrings with Constraints (Extended Abstract). citation:-1
+title:Algorithmic Arguments in Physics of Computation. citation:-1
+title:tPatternHunter: gapped, fast and sensitive translated homology search . citation:-1
+title:Discovering patterns to extract protein-protein interactions from full texts. citation:-1
+title:Discovering patterns to extract protein-protein interactions from the literature: Part II. citation:-1
+title:DNACompress: fast and effective DNA sequence compression. citation:-1
+title:On the Linear-Cost Subtree-Transfer Distance between Phylogenetic Trees. citation:-1
+title:Applying MDL to learn best model granularity. citation:-1
+title:An Immune Algorithm-Based Atmospheric Quality Assessment Model and Its Applications. citation:-1
+title:A New Approach to Formal Language Theory by Kolmogorov Complexity citation:-1
+title:FIAC: a resource discovery-based two-level admission control for differentiated service networks. citation:-1
+title:Fair intelligent admission control over resource-feedback DiffServ network. citation:-1
+title:New Applications of the Incompressibility Method. citation:-1
+title:Detecting approximate symmetries of discrete point subsets. citation:-1
+title:Rational quadratic approximation to real algebraic curves. citation:-1
+title:Computing exact -values for DNA motifs. citation:-1
+title:ZOOM! Zillions of oligos mapped. citation:-1
+title:Lower Bounds on Learning Decision Lists and Trees. citation:-1
+title:Addition in logn + O(1) Steps on Average: A Simple Analysis citation:-1
+title:Tape versus Queue and Stacks: The Lower Bounds citation:-1
+title:Distinguishing string selection problems. citation:-1
+title:Optimal synchronous coding. citation:-1
+title:Optimal Prefix Codes and Huffman Codes. citation:-1
+title:Melody Track Selection Using Discriminative Language Model. citation:-1
+title:Automatic Language Identification with Discriminative Language Characterization Based on SVM. citation:-1
+title:Decision Analysis of Statistically Detecting Distributed Denial-of-Service Flooding Attacks. citation:-1
+title:Improving Chinese Storing Text Retrieval Systems' Security via a Novel Maximal Prefix Coding. citation:-1
+title:Average-Case Complexity of Shellsort (Preliminary version) citation:-1
+title:On The Closest String and Substring Problems citation:-1
+title:New Applications of the Incompressibility Method: Part II citation:-1
+title:New Applications of the Incompressibility Method: Part I citation:-1
+title:Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity citation:-1
+title:The Average-Case Area of Heilbronn-Type Triangles citation:-1
+title:Average-Case Complexity of Shellsort citation:-1
+title:Sharpening Occam's Razor citation:-1
+title:Reversibility and Adiabatic Computation: Trading Time and Space for Energy citation:-1
+title:Normalized Information Distance citation:-1
+title:Applying MDL to Learning Best Model Granularity citation:-1
+title:Reversible Simulation of Irreversible Computation by Pebble Games citation:-1
+title:Fixed topology alignment with recombination. citation:-1
+title:Bonded Time-Stamps. citation:-1
+title:On the Complexity and Approximation of Syntenic Distance. citation:-1
+title:On spaced seeds for similarity search. citation:-1
+title:Prima: Peptide Robust Identification from Ms/ms Spectra. citation:-1
+title:Twist-Rotation Transformations of Binary Trees and Arithmetic Expressions. citation:-1
+title:Patternhunter Ii: Highly Sensitive and Fast Homology Search. citation:-1
+title:A Tutorial of Recent Developments in the Seeding of Local Alignment. citation:-1
+title:Finding Cancer Biomarkers from Mass Spectrometry Data by Decision Lists. citation:-1
+title:Raptor: Optimal Protein Threading by Linear Programming. citation:-1
+title:Protein Threading by Linear Programming: Theoretical Analysis and Computational Results. citation:-1
+title:Optimizing Multiple Spaced Seeds for Homology Search. citation:-1
+title:Guest Editors' foreword. citation:-1
+title:K One-Way Heads Cannot Do String-Matching. citation:-1
+title:Finding Similar Regions in Many Sequences. citation:-1
+title:Inductive Reasoning and Kolmogorov Complexity. citation:-1
+title:Foreword. citation:-1
+title:A Note on Shortest Superstrings with Flipping. citation:-1
+title:Sharpening Occam's razor. citation:-1
+title:Average Case Complexity Under the Universal Distribution Equals Worst-Case Complexity. citation:-1
+title:Optimality of Wait-Free Atomic Multiwriter Variables. citation:-1
+title:Average-case analysis of QuickSort and Binary Insertion Tree height using incompressibility. citation:-1
+title:Linear Approximation of Shortest Superstrings. citation:-1
+title:A lower bound on the average-case complexity of shellsort. citation:-1
+title:On the closest string and substring problems. citation:-1
+title:How to Share Concurrent Wait-Free Variables. citation:-1
+title:Selecting the branches for an evolutionary tree.: A polynomial time approximation scheme. citation:-1
+title:Some Open Problems in Computational Molecular Biology. citation:-1
+title:The average-case area of Heilbronn-type triangles. citation:-1
+title:Group-aware stream filtering for bandwidth-efficient data dissemination. citation:-1
+title:The Power of the Queue. citation:-1
+title:A New Approach to Formal Language Theory by Kolmogorov Complexity. citation:-1
+title:Learning Simple Concept Under Simple Distributions. citation:-1
+title:On the Approximation of Shortest Common Supersequences and Longest Common Subsequences. citation:-1
+title:Wait-Free Consensus Using Asynchronous Hardware. citation:-1
+title:Kolmogorov Random Graphs and the Incompressibility Method. citation:-1
+title:A Note on the Single Genotype Resolution Problem. citation:-1
+title:Average-Case Analysis of Algorithms Using Kolmogorov Complexity. citation:-1
+title:Generating Symbolic Interpolants for Scattered Data with Normal Vectors. citation:-1
+title:Special issue on computational molecular biology. citation:-1
+title:Near optimal multiple alignment within a band in polynomial time. citation:-1
+title:On the complexity of the spaced seeds. citation:-1
+title:Statistical Properties of Finite Sequences with High Kolmogorov Complexity. citation:-1
+title:DNA Sequencing and String Learning. citation:-1
+title:Simulation of Long-Range Dependent Traffic and a Simulator of TCP Arrival Traffic. citation:-1
+title:New Information Distance Measure and Its Application in Question Answering System. citation:-1
+title:Kolmogorov Complexity Arguments in Combinatorics. citation:-1
+title:Quadratic approximation to plane parametric curves and its application in approximate implicitization. citation:-1
+title:Improve Computer-Aided Diagnosis With Machine Learning Techniques Using Undiagnosed Samples. citation:-1
+title:Semisupervised Regression with Cotraining-Style Algorithms. citation:-1
+title:A Ranking of Software Engineering Measures Based on Expert Opinion. citation:-1
+title:Applications of algorithmic information theory. citation:-1
+title:MOLVIE: an interactive visualization environment for molecular structures. citation:-1
+title:New applications of the incompressibility method: Part II. citation:-1
+title:Foreword (COCOON'95). citation:-1
+title:On the Complexity of Learning Strings and Sequences. citation:-1
+title:From Gene Trees to Species Trees. citation:-1
+title:Mining extremely small data sets with application to software reuse. citation:-1
+title:Addition in logn + O(1) Steps on Average: A Simple Analysis. citation:-1
+title:Shared information and program plagiarism detection. citation:-1
+title:Minimum description length induction, Bayesianism, and Kolmogorov complexity. citation:-1
+title:Tri-Training: Exploiting Unlabeled Data Using Three Classifiers. citation:-1
+title:Approximating Shortest Superstrings with Constraints. citation:-1
+title:Inferring a DNA Sequence from Erroneous Copies. citation:-1
+title:Information Distance. citation:-1
+title:Semi-supervised document retrieval. citation:-1
+title:Mango: Multiple Alignment with n Gapped Oligos. citation:-1
+title:TRECVID 2008 Participation by MCG-ICT-CAS. citation:-1
+title:PRESTO: feedback-driven data management in sensor networks. citation:-1
+title:A hybrid method for relation extraction from biomedical literature. citation:-1
+title:Finding compact structural motifs. citation:-1
+title:Exploiting Multi-Modal Interactions: A Unified Framework. citation:-1
+title:Pornprobe: an LDA-SVM based pornography detection system. citation:-1
+title:Specialized Review Selection for Feature Rating Estimation. citation:-1
+title:Predicting Future Customers via Ensembling Gradually Expanded Trees. citation:-1
+title:On two open problems of 2-interval patterns. citation:-1
+title:Reconstructing Microwave Near-Field Image Based on the Discrepancy of Radial Distribution of Dielectric Constant. citation:-1
+title:Nearest Neighbor Interchange and Related Distances. citation:-1
+title:Accelerated Kernel CCA plus SVDD: A Three-stage Process for Improving Face Recognition. citation:-1
+title:PICKY: a novel SVD-based NMR spectra peak picking method. citation:-1
+title:Learning instance specific distances using metric propagation. citation:-1
+title:Preface. citation:-1
+title:Some open problems in computational molecular biology. citation:-1
+title:Multi-document Summarization by Information Distance. citation:-1
+title:Computing and Combinatorics, First Annual International Conference, COCOON '95, Xi'an, China, August 24-26, 1995, Proceedings citation:-1
+title:PRESTO: A Predictive Storage Architecture for Sensor Networks. citation:-1
+title:Block-switched Networks: A New Paradigm for Wireless Transport. citation:-1
+title:Towards Automated Structure-Based NMR Resonance Assignment. citation:-1
+title:TRECVID 2007 High-Level Feature Extraction By MCG-ICT-CAS. citation:-1
+title:Detecting design intent in approximate CAD models using symmetry. citation:-1
+title:Information Distance citation:-1
+title:Power spectrum of generalized Cauchy process. citation:-1
+title:Exploiting remote learners in Internet environment with agents. citation:-1
+title:Predicting Local Quality of a Sequence-Structure Alignment. citation:-1
+title:Protein Secondary Structure Prediction Using NMR Chemical Shift Data. citation:-1
+title:A New Approach for Multi-Document Update Summarization. citation:-1
+title:Semi-supervised learning by disagreement. citation:-1
+title:Representation of a Stochastic Traffic Bound. citation:-1
+title:Automatic Singing Performance Evaluation for Untrained Singers. citation:-1
+title:A New Multiword Expression Metric and Its Applications. citation:-1
+title:An introduction to Kolmogorov - complexity and its applications ; part 1: theory. citation:-1
+title:Measuring the Non-compositionality of Multiword Expressions. citation:-1
+title:S-Kcore: A Social-aware Kcore Decomposition Algorithm in Pocket Switched Networks. citation:-1
+title:OST: A Transaction Based Online Social Trust Model for Social Network and File Sharing Security. citation:-1
+title:Scalable Prediction Structure for Multiview Video Coding. citation:-1
+title:Segment Level Authentication: Combating internet source spoofing. citation:-1
+title:Combining five acoustic level modeling methods for automatic speaker age and gender recognition. citation:-1
+title:An objective singing evaluation approach by relating acoustic measurements to perceptual ratings. citation:-1
+title:Cochannel speech separation using multi-pitch estimation and model based voiced sequential grouping. citation:-1
+title:Spoken language identification using score vector modeling and support vector machine. citation:-1
+title:Multi-group mixture weight HMM. citation:-1
+title:Wave-spec: a preprocessing package for mass spectrometry data. citation:-1
+title:An approach to expert recommendation based on fuzzy linguistic method and fuzzy text classification in knowledge management systems. citation:-1
+title:Feature fatigue analysis in product development using Bayesian networks. citation:-1
+title:Error Tolerant NMR Backbone Resonance Assignment and Automated Structure Generation. citation:-1
+title:Software Defect Detection with Rocus. citation:-1
+title:A lock-based cache coherence protocol for scope consistency. citation:-1
+title:Rate-Distortion Criterion Based Picture Padding for Arbitrary Resolution Video Coding Using H.264/MPEG-4 AVC. citation:-1
+title:Effect of Cr additions on interfacial reaction between the Sn-Zn-Bi solder and Cu/electroplated Ni substrates. citation:-1
+title:Effect of Ag on oxidation of Cu-base leadframe. citation:-1
+title:A fast algorithm for color image enhancement with total variation regularization. citation:-1
+title:A novel voltage-type sense amplifier for low-power nonvolatile memories. citation:-1
+title:A Method for Requiring Block Size for Spectrum Measurement of Ocean Surface Waves. citation:-1
+title:Frame layer rate control for H.264/AVC with hierarchical B-frames. citation:-1
+title:Using SVM as Back-End Classifier for Language Identification. citation:-1
+title:Hardware Error Likelihood Induced by the Operation of Software. citation:-1
+title:A process mining based approach to knowledge maintenance. citation:-1
+title:Design-Oriented bifurcation Analysis of Power Electronics Systems. citation:-1
+title:An Ensemble Data Mining and FLANN Combining Short-term Load Forecasting System for Abnormal Days. citation:-1
+title:Regularization methods for a problem of analytic continuation. citation:-1
+title:A New Multi-Objective Genetic Algorithm for Feature Subset Selection in Fatigue Fracture Image Identification. citation:-1
+title:Asymptotic Identity in Min-Plus Algebra: A Report on CPNS. citation:-1
+title:Trust by Association: A Meta-Reputation System for Peer-to-Peer Networks. citation:-1
+title:Residues with Similar Hexagon Neighborhoods Share Similar Side-Chain Conformations. citation:-1
+title:Investigation of CMOS Varactors for High-GHz-Range Applications. citation:-1
+title:-Parameter Measurement of Pulse-Compression Nonlinear Transmission Lines. citation:-1
+title:TD-SCDMA/HSDPA Transceiver and Analog Baseband Chipset in 0.18- ??box m CMOS Process. citation:-1
+title:Singing Melody Extraction in Polyphonic Music by Harmonic Tracking. citation:-1
+title:Embedment of 3D virtual human into webpages for visual speech synthesis purpose. citation:-1
+title:The integration method research of MSL and collaborative simulation platform. citation:-1
+title:A Scalable and Elastic Publish/Subscribe Service. citation:-1
+title:Face Recognition Using Discrete Cosine Transform and Fuzzy Linear Discriminant Analysis. citation:-1
+title:Incremental local online Gaussian Mixture Regression for imitation learning of multiple tasks. citation:-1
+title:Self-organizing feature map clustering based on fuzzy equivalence relation and its application in ecological analysis. citation:-1
+title:PatentRank: An Ontology-based Approach to Patent Search. citation:-1
+title:A new neural network algorithm based on conjugate gradient and output weight optimization. citation:-1
+title:Improving P2P IPTV random peers search through user similarity. citation:-1
+title:Scene simulation of navigation simulator based on Creator and Vega. citation:-1
+title:Challenges in designing high speed memory subsystem for mobile applications. citation:-1
+title:Information Distance and Its Extensions. citation:-1
+title:Root-Soil System Domain Knowledge Constructing Method Based on Relational Analysis of Single Impact Factor. citation:-1
+title:Pseudo-Immersive Real-Time Display of 3D Scenes on Mobile Devices. citation:-1
+title:Ontology-based context information modeling for smart space. citation:-1
+title:Thermal isolation in 3D chip stacks using vacuum gaps and capacitive or inductive communications. citation:-1
+title:Design and Research on the Control of Biped Robot System Based on RUP. citation:-1
+title:Authentication and Quality Monitoring based on Audio Watermark for Analog AM Shortwave Broadcasting. citation:-1
+title:Static Gait Analysis and Planning of Biped Robot. citation:-1
+title:Multi-granular demand forecasting in SmarterWater. citation:-1
+title:Information Distance and Its Extensions. citation:-1
+title:Sample-based software defect prediction with active and semi-supervised learning. citation:-1
+title:Analysis of the Hamming Weight of the Extended wmbNAF. citation:-1
+title:Adhesion improvement of Epoxy Molding Compound - Pd Preplated leadframe interface using shaped nickel layers. citation:-1
+title:Estimating the effects of removing negative features on engineering analysis. citation:-1
+title:Estimating defeaturing-induced engineering analysis errors for arbitrary 3D features. citation:-1
+title:Music Structural Segmentation by Combining Harmonic and Timbral Information. citation:-1
+title:Robust Controller Design for Main Steam Pressure Based on SPEA2. citation:-1
+title:Cooling Wet-Pad Fan Control System of Piggery Based on Zigbee. citation:-1
+title:T-OSN: A Trust Evaluation Model in Online Social Networks. citation:-1
+title:Speaker Verification Using Sparse Representations on Total Variability i-vectors. citation:-1
+title:Intoxicated Speech Detection by Fusion of Speaker Normalized Hierarchical Features and GMM Supervectors. citation:-1
+title:Trip analyzer through smartphone apps. citation:-1
+title:A New Analytical Model for the Evaluation of Transmitted Power in Downlink of Cellular Networks. citation:-1
+title:Approximating Ideal Filters by Systems of Fractional Order. citation:-1
+title:Decentralized robust control for interconnected neutral delay systems. citation:-1
+title:Design of mM-W Fully Integrated CMOS Standing-Wave VCOs Using Low-Loss CPW Resonators. citation:-1
+title:Towards real-time novel view synthesis using visual hulls. citation:-1
+title:Information collection in bargaining. citation:-1
+title:When mandatory disclosure hurts: Expert advice and conflicting interests. citation:-1
+title:M-Dimension: Multi-characteristics based routing protocol in human associated delay-tolerant networks with improved performance over one dimensional classic models. citation:-1
+title:A von Neumann entropy condition of unitary equivalence of quantum states. citation:-1
+title:Efficient Mining of Gap-Constrained Subsequences and Its Various Applications. citation:-1
+title:Genetic Signatures in the Envelope Glycoproteins of HIV-1 that Associate with Broadly Neutralizing Antibodies. citation:-1
+title:Microstructure and mechanical properties of Sn-Zn-Bi-Cr lead-free solder. citation:-1
+title:Clustering 100, 000 Protein Structure Decoys in Minutes. citation:-1
+title:Lessons from co-development of a Single Vessel Processor: methodologies for managing innovation in customer-supplier networks. citation:-1
+title:Network coding based multipath TCP. citation:-1
+title:Traffic sign detection and recognition for intelligent vehicle. citation:-1
+title:Trajectory generation based vehicle action tracking for intersection driving safe. citation:-1
+title:LoopWeaver - Loop Modeling by the Weighted Scaling of Verified Proteins. citation:-1
+title:Protein Structure by Semidefinite Facial Reduction. citation:-1
+title:Adhesion improvement of Cu-based substrate and epoxy molding compound interface by hierarchical structure preparation. citation:-1
+title:Feature extraction based on fuzzy class mean embedding (FCME) with its application to face and palm biometrics. citation:-1
+title:On a fractional backward heat conduction problem: Application to deblurring. citation:-1
+title:Adaptive tetrahedral remeshing for modified solid models. citation:-1
+title:Classifying Stem Cell Differentiation Images by Information Distance. citation:-1
+title:Privacy-preserving energy theft detection in smart grids. citation:-1
+title:AMDD: Exploring Entropy Based Anonymous Multi-dimensional Data Detection for Network Optimization in Human Associated DTNs. citation:-1
+title:Effects of Social Characters in Viral Propagation Seeding Strategies in Online Social Networks. citation:-1
+title:The Design of a Segway AR-Tactile Navigation System. citation:-1
+title:How Accurately Can We Model Protein Structures with Dihedral Angles? citation:-1
+title:3D LIDAR point cloud based intersection recognition for autonomous driving. citation:-1
+title:Programmable and single-shot chirped microwave pulse compression using an optical fiber-based microwave dispersive line. citation:-1
+title:A Novel Multi-Beam Lens Antenna for High Altitude Platform Communications. citation:-1
+title:A Novel Hardware Implementation Mechanism for AR4JA Codes in Deep Space Communication. citation:-1
+title:Editorial: Reduce Time-to-Market by Considering Reliability Tradeoffs. citation:-1
+title:Engineering analysis error estimation when removing finite-sized features in nonlinear elliptic problems. citation:-1
+title:An Adaptive Motion Model and Multi-feature Cues Based on Particle Filter for Object Tracking. citation:-1
+title:Automatic speaker age and gender recognition using acoustic and prosodic level information fusion. citation:-1
+title:Natural disaster risk communication-understandings, framework, targets and challenges. citation:-1
+title:Speaker states recognition using latent factor analysis based Eigenchannel factor vector modeling. citation:-1
+title:Semantic-based user demand modeling for remote sensing images retrieval. citation:-1
+title:Combining ambiguous chemical shift mapping with structure-based backbone and NOE assignment from N-NOESY. citation:-1
+title:Evaluating defeaturing-induced impact on model analysis. citation:-1
+title:Combining automated peak tracking in SAR by NMR with structure-based backbone assignment from N-NOESY. citation:-1
+title:Finding Nearly Optimal GDT Scores. citation:-1
+title:Towards Fully Automated Structure-Based NMR Resonance Assignment of N-Labeled Proteins From Automatically Picked Peaks. citation:-1
+title:(2) Protein structure determination on demand. citation:-1
+title:Insights into user experiences and acceptance of mobile indoor navigation devices. citation:-1
+title:Dynamic tiling display: building an interactive display surface using multiple mobile devices. citation:-1
+title:Adaptive OFDM synchronization algorithm in frequency selective fading channels. citation:-1
+title:Heavy-Tailed Prediction Error: A Difficulty in Predicting Biomedical Signals of Noise Type. citation:-1
+title:Metadata Harvesting and Registration in a Geospatial Sensor Web Registry. citation:-1
+title:Intelligibility classification of pathological speech using fusion of multiple high level descriptors. citation:-1
+title:Speaker Personality Classification Using Systems Based on Acoustic-Lexical Cues and an Optimal Tree-Structured Bayesian Network. citation:-1
+title:Two decades of applied Kolmogorov complexity: in memoriam Andrei Nikolaevich Kolmogorov 1903-87. citation:-1
+title:LoopWeaver: Loop Modeling by the Weighted Scaling of Verified Proteins. citation:-1
+title:Multi-Objective Optimal Energy Consumption Scheduling in Smart Grids. citation:-1
+title:A local adaptation-based generation method of medial axis for efficient engineering analysis. citation:-1
+title:Edge-aware resource discovery and fair intelligent admission control scheme over multi-domain differentiated services networks. citation:-1
+title:An Adaptive Relevance Feedback Image Retrieval Method with Based on Possibilistic Clustering Algorithm. citation:-1
+title:A Scalable and Elastic Business Event Processing System. citation:-1

@@ -1,0 +1,274 @@
+title:Energy-aware Dynamic Task Scheduling Applied to a Real-time Multimedia Application on an Xscale Board. citation:-1
+title:EMPIRE: Empirical power/area/timing models for register files. citation:-1
+title:Fast Variable Center-Biased Windowing for High-Speed Stereo on Programmable Graphics Hardware. citation:-1
+title:Is it Possible to achieve a Teraflop/s on a chip? From High Performance Algorithms to Architectures. citation:-1
+title:Application - specific NoC platform design based on System Level Optimization. citation:-1
+title:Platform independent optimisation of multi-resolution 3D content to enable universal media access. citation:-1
+title:An Automatic Verification Technique for Loop and Data Reuse Transformations based on Geometric Modeling of Programs. citation:-1
+title:Storage requirement estimation for data intensive applications with partially fixed execution ordering. citation:-1
+title:Strategy for power-efficient design of parallel systems. citation:-1
+title:Functional Equivalence Checking for Verification of Algebraic Transformations on Array-Intensive Source Code. citation:-1
+title:Code Transformations for Reduced Data Transfer and Storage in Low Power Realisations of MPEG-4 Full-Pel Motion Estimation. citation:-1
+title:Matador: An Exploration Environment for System-Design. citation:-1
+title:Downlink OFDM Scheduling and Resource Allocation for Delay Constraint SVC Streaming. citation:-1
+title:Optimization of dynamic data structures in multimedia embedded systems using evolutionary computation. citation:-1
+title:Systematic Preprocessing of Data Dependent Constructs for Embedded Systems. citation:-1
+title:Efficient System-Level Functional Verification Methodology for Multimedia Applications. citation:-1
+title:Efficiently scheduling runtime reconfigurations. citation:-1
+title:Statistical Performance Analysis and Estimation for Parallel Multimedia Processing. citation:-1
+title:Power Estimation Approach of Dynamic Data Storage on a Hardware Software Boundary Level. citation:-1
+title:Systematic intermediate sequence removal for reduced memory accesses. citation:-1
+title:Compilation Technique for Loop Overhead Minimization. citation:-1
+title:An integrated automatic design system for complex DSP algorithms. citation:-1
+title:Optimizing the memory bandwidth with loop fusion. citation:-1
+title:Efficient microcoded processor design for fixed rate DFT and FFT. citation:-1
+title:Optimizing data structures at the modeling level in embedded multimedia. citation:-1
+title:Dynamic Mapping and Ordering Tasks of Embedded Real-Time Systems on Multiprocessor Platforms. citation:-1
+title:Combining system scenarios and configurable memories to tolerate unpredictability. citation:-1
+title:Object-Distribution Analysis: Technique for Parallel Loop Distribution of Object-Oriented Programs. citation:-1
+title:High-Level Data-Access Analysis for Characterisation of (Sub)task-Level Parallelism in Java. citation:-1
+title:Introduction. citation:-1
+title:An application-specific architecture for the RBN-coder with efficient memory organization. citation:-1
+title:Incremental hierarchical memory size estimation for steering of loop transformations. citation:-1
+title:Trade-offs in loop transformations. citation:-1
+title:Nonlinear transformations for high level regular array ASIC synthesis. citation:-1
+title:Reducing the reconfiguration overhead: a survey of techniques. citation:-1
+title:Generic Multiphase Software Pipelined Partial FFT on Instruction Level Parallel Architectures. citation:-1
+title:Methodology for operation shuffling and L0 cluster generation for low energy heterogeneous VLIW processors. citation:-1
+title:Energy-aware compilation and hardware design for VLIW embedded systems. citation:-1
+title:Systematic Design of Programs with Sub-Word Parallelism. citation:-1
+title:Transformation to Dynamic Single Assignment Using a Simple Data Flow Analysis. citation:-1
+title:A practical dynamic single assignment transformation. citation:-1
+title:Systematic Address and Control Code Transformations for Performance Optimisation of a MPEG-4 Video Decoder. citation:-1
+title:Software Simultaneous Multi-Threading, a Technique to Exploit Task-Level Parallelism to Improve Instruction- and Data-Level Parallelism. citation:-1
+title:Power, Performance and Area Exploration for Data Memory Assignment of Multimedia Applications. citation:-1
+title:Hierarchical task scheduler for interleaving subtasks on heterogeneous multiprocessor platforms. citation:-1
+title:MEERA: cross-layer methodology for energy efficient resource allocation in wireless networks. citation:-1
+title:Techniques for Reducing the Number of Decisions and Backtracks in Combinational Test Generation. citation:-1
+title:Guest Editorial. citation:-1
+title:Parallel Image/Video Processing and Computer Arithmetic. citation:-1
+title:Physical design implementation of segmented buses to reduce communication energy. citation:-1
+title:Dynamic memory management methodology applied to embedded telecom network systems. citation:-1
+title:Formalisation of multi-precision arithmetic for high-level synthesis of DSP architectures. citation:-1
+title:Energy-efficient dynamic memory allocators at the middleware level of embedded systems. citation:-1
+title:SARA: StreAm register allocation. citation:-1
+title:Locality optimization in wireless applications. citation:-1
+title:Bit-Width Constrained Memory Hierarchy Optimization for Real-Time Video Systems. citation:-1
+title:A systematic methodology for the application of data transfer and storage optimizing code transformations for power consumption and execution time reduction in realizations of multimedia algorithms on programmable processors. citation:-1
+title:The formalism underlying EASYMAP. citation:-1
+title:Reducing memory fragmentation in network applications with dynamic memory allocators optimized for performance. citation:-1
+title:Operation shuffling over cycle boundaries for low energy L0 clustering. citation:-1
+title:A scalable MPEG-4 wavelet-based visual texture compression system with optimized memory organization. citation:-1
+title:Design of a Low Power Pre-synchronization ASIP for Multimode SDR Terminals. citation:-1
+title:A loop transformation approach for combined parallelization and data transfer and storage optimization. citation:-1
+title:Dynamic Memory Oriented Transformations in the MPEG4 IM1-Player on a Low Power Platform. citation:-1
+title:A methodology for power efficient partitioning of data-dominated algorithm specifications within performance constraints. citation:-1
+title:Design-Time Data-Access Analysis for Parallel Java Programs with Shared-Memory Communication Model. citation:-1
+title:Generic Multi-Phase Software-Pipelined Partial-FFT on Instruction-Level-Parallel Architectures and SDR Baseband Applications. citation:-1
+title:Yield prediction for architecture exploration in nanometer technology nodes: : a model and case study for memory organizations. citation:-1
+title:Improving superword level parallelism support in modern compilers. citation:-1
+title:High-Level Data-Access Analysis for Characterisation of (Sub)task-Level Parallelism in Java. citation:-1
+title:Object-Distribution Analysis for Program Decomposition and Re-Clustering. citation:-1
+title:Application-driven adaptive fixed-point refinement for SDRs. citation:-1
+title:Interactive co-design of high throughput embedded multimedia. citation:-1
+title:A Spatial Learning Algorithm for IEEE 802.11 Networks. citation:-1
+title:Modular Construction and Power Modelling of Dynamic Memory Managers for Embedded Systems. citation:-1
+title:An implementation friendly low complexity multiplierless LLR generator for soft MIMO sphere decoders. citation:-1
+title:Extended design reuse trade-offs in hardware-software architecture mapping. citation:-1
+title:Enabling run-time memory data transfer optimizations at the system level with automated extraction of embedded software metadata information. citation:-1
+title:Multi-dimentsional Incremetal Loops Fusion for Data Locality. citation:-1
+title:Memory Compaction and Power Optimization for Wavelet-Based Coders. citation:-1
+title:Transformations of a 3D Image Reconstruction Algorithm for Data Transfer and Storage Optimization. citation:-1
+title:A Customized Cross-Bar for Data-Shuffling in Domain-Specific SIMD Processors. citation:-1
+title:Architectural exploration and optimization for counter based hardware address generation. citation:-1
+title:L0 Cluster Synthesis and Operation Shuffling. citation:-1
+title:Topic 15+20: Multimedia and Embedded Systems. citation:-1
+title:Incorporating energy efficient data structures into modular software implementations for internet-based embedded systems. citation:-1
+title:Combining Background Memory Management and Regular Array Co-Partitioning, Illustrated on a Full Motion Estimation Kernel. citation:-1
+title:Improving the Memory Bandwidth Utilization Using Loop Transformations. citation:-1
+title:Fast prototyping and refinement of complex dynamic data types in multimedia applications for consumer embedded devices. citation:-1
+title:Instruction Transfer And Storage Exploration for Low Energy VLIWs. citation:-1
+title:Dynamic Voltage Scaling for Power Efficient MPEG4-SP Implementation. citation:-1
+title:Systematic Preprocessing of Data Dependent Constructs for Embedded Systems. citation:-1
+title:Bridging the energy gap in size, weight and power constrained software defined radio: Agile baseband processing as a key enabler. citation:-1
+title:Formalized Three-Layer System-Level Reuse Model and Methodology for Embedded Data-Dominated Applications. citation:-1
+title:System-level performance optimization of the data queueing memory management in high-speed network processors. citation:-1
+title:Energy Consumption for Transport of Control Information on a Segmented Software-Controlled Communication Architecture. citation:-1
+title:Reconfigurable AGU: An Address Generation Unit Based on Address Calculation Pattern for Low Energy and High Performance Embedded Processors. citation:-1
+title:Performance Evaluation of Barrier Techniques for Distributed Tracing Garbage Collectors. citation:-1
+title:Combining Background Memory Management and Regular Array Co-Partitioning, Illustrated on a Full Motion Estimation Kernel. citation:-1
+title:Software-Controlled Scratchpad Mapping Strategies for Wavelet-Based Applications. citation:-1
+title:Scalable performance-energy trade-off exploration of embedded real-time systems on multiprocessor platforms. citation:-1
+title:Systematic design flow for dynamic data management in visual texture decoder of MPEG-4. citation:-1
+title:Systematic Optimization of Programmable QRD Implementation for Multiple Application Scenarios. citation:-1
+title:Cross-layer power management in wireless networks and consequences on system-level architecture. citation:-1
+title:Embedded Memories in System Design: Technology, Application, Design and Tools. citation:-1
+title:Operation Shuffling for Low Energy L0 Cluster Generation on Heterogeneous VLIW Processors. citation:-1
+title:System-level process variability compensation on memory organizations of dynamic applications: a case study. citation:-1
+title:A global bus power optimization methodology for physical design of memory dominated systems by coupling bus segmentation and activity driven block placement. citation:-1
+title:A Wavelet-FFT Based Efficient Sparse OFDMA Demodulator and Its Implementation on VLIW Architecture. citation:-1
+title:Efficient system-level prototyping of power-aware dynamic memory managers for embedded systems. citation:-1
+title:Optimizing the Memory Bandwidth with Loop Morphing. citation:-1
+title:Run-time Task Overlapping on Multiprocessor Platforms. citation:-1
+title:A Memory Hierarchical Layer Assigning and Prefetching Technique to Overcome the Memory Performance/Energy Bottleneck citation:-1
+title:Search space definition and exploration for nonuniform data reuse opportunities in data-dominant applications. citation:-1
+title:Reuse analysis of indirectly indexed arrays. citation:-1
+title:Functional Equivalence Checking for Verification of Algebraic Transformations on Array-Intensive Source Code citation:-1
+title:Low energy data and concurrency management of highly dynamic real-time multi-media systems. citation:-1
+title:Adaptive mapping to resource availability for dynamic wavelet-based applications. citation:-1
+title:Guest Editors' Intoduction: The New World of Large Embedded Memories. citation:-1
+title:Detection of Partially Simultaneously Alive Signals in Storage Requirement Estimation for Data Intensive Applications. citation:-1
+title:Fast memory footprint estimation based on maximal dependency vector calculation. citation:-1
+title:Energy/Area/Delay Tradeoffs in the Physical Design of On-Chip Segmented Bus Architecture. citation:-1
+title:Storage Estimation and Design Space Exploration Methodologies for the Memory Management of Signal Processing Applications. citation:-1
+title:Data assignment and access scheduling exploration for multi-layer memory architectures. citation:-1
+title:System-level data-format exploration for dynamically allocated datastructures. citation:-1
+title:Analyzing energy friendly steady state phases of dynamic application execution in terms of sparse data structures. citation:-1
+title:Analysis of scratch-pad and data-cache performance using statistical methods. citation:-1
+title:Pack Transposition: Enhancing Superword Level Parallelism Exploitation. citation:-1
+title:How to let instruction set processor beat ASIC for low power wireless baseband implementation: a system level approach. citation:-1
+title:A System Level Algorithmic Approach toward Energy-Aware SDR Baseband Implementations. citation:-1
+title:Run-Time Scheduling for Multimedia Applications on Dynamically Reconfigurable Systems. citation:-1
+title:Loop Transformation Methodologies for Array-Oriented Memory Management. citation:-1
+title:Array design methodologies for real-time signal processing in the CATHEDRAL-IV synthesis environment. citation:-1
+title:Multi-dimensional Selection Techniques for Minimizing Memory Bandwidth in High-Throughput Embedded Systems. citation:-1
+title:Signal analysis and signal transformations for ASIC regular array architecture synthesis. citation:-1
+title:Dynamic data type refinement methodology for systematic performance-energy design exploration of network applications. citation:-1
+title:Multi-ovjective abstract data type refinement for mapping tables in telecom network applications. citation:-1
+title:Synthesis of Runtime Switchable Pareto Buffers Offering Full Range Fine Grained Energy/Delay Trade-Offs. citation:-1
+title:Low power design without compromise (panel). citation:-1
+title:Simulation framework for early phase exploration of SDR platforms: A case study of platform dimensioning. citation:-1
+title:Partial scan and symbolic test at the register-transfer level. citation:-1
+title:Optimized BIST Strategies for Programmable Data Paths Based on Cellular Automata. citation:-1
+title:Methodology for Refinement and Optimisation of Dynamic Memory Management for Embedded Systems in Multimedia Applications. citation:-1
+title:Global interconnect trade-off for technology over memory modules to application level: case study. citation:-1
+title:Causality Constraints for Processor Architectures with Sub-Word Parallelism. citation:-1
+title:Quality-Energy Scalable Chip Level Equalization for HSDPA. citation:-1
+title:Partitioning-Based Allocation of Dedicated Data-Paths in the Architectural Synthesis for High Throughput Applications. citation:-1
+title:Embedded memories in system design - from technology to systems architecture. citation:-1
+title:Energy/area/delay trade-offs in the physical design of on-chip segmented bus architecture. citation:-1
+title:Deriving ASIC architectures for the Hough transform. citation:-1
+title:Automated exploration of pareto-optimal configurations in parameterized dynamic memory allocation for embedded systems. citation:-1
+title:Combining Data and Instruction Memory Energy Optimizations for Embedded Applications. citation:-1
+title:Data-Access Optimization of Embedded Systems Through Selective Inlining Transformation. citation:-1
+title:Energy Efficient Memory Architecture for High Speed Decoding of Block Turbo-Codes with the Fang-Buda Algorithm. citation:-1
+title:Interaction Between Data Parallel Compilation and Data Transfer and Storage Cost Minimization for Multimedia Applications. citation:-1
+title:Parallel programmable architectures and compilation for multi-dimensional processing. citation:-1
+title:Power-efficient flexible processor architecture for embedded applications. citation:-1
+title:Algorithm-architecture co-design of soft-output ML MIMO detector for parallel application specific instruction set processors. citation:-1
+title:Optimization methodology of dynamic data structures based on genetic algorithms for multimedia embedded systems. citation:-1
+title:Scenario-Based Fixed-point Data Format Refinement to Enable Energy-scalable Software Defined Radios. citation:-1
+title:Solving large scale assignment problems in high-level synthesis by approximative quadratic programming. citation:-1
+title:Pareto based optimization of multi-resolution geometry for real time rendering. citation:-1
+title:Background Data Organisation for the Low-Power Implementation in Real-Time of a Digital Audio Broadcast Receiver on a SIMD Processor. citation:-1
+title:Garbage Collector Refinement for New Dynamic Multimedia Applications on Embedded Systems. citation:-1
+title:Test Algorithms for Double-Buffered Random Access and Pointer-Addressed Memories. citation:-1
+title:MEERA: Cross-Layer Methodology for Energy Efficient Resource Allocation in Wireless Networks. citation:-1
+title:Design of Energy Efficient Wireless Networks Using Dynamic Data Type Refinement Methodology. citation:-1
+title:Statistical Performance Analysis and Estimation of Coarse Grain Parallel Multimedia Processing System. citation:-1
+title:Combined Application of Data Transfer and Storage Optimizing Transformations and Subword Parallelism Exploitation for Power Consumption and Execution Time Reduction in VLIW Multimedia Processors. citation:-1
+title:Distributed Loop Controller for Multithreading in Unithreaded ILP Architectures. citation:-1
+title:Mapping real-time motion estimation type algorithms to memory efficient, programmable multi-processor architectures. citation:-1
+title:Semi Custom Design: A Case Study on SIMD Shufflers. citation:-1
+title:Exploration and Synthesis of Dynamic Data Sets in Telecom Network Applications. citation:-1
+title:A configuration memory hierarchy for fast reconfiguration with reduced energy consumption overhead. citation:-1
+title:Guest Editorial: Special Issue on Signal Processing Systems: Part II. citation:-1
+title:Distributed loop controller architecture for multi-threading in uni-threaded VLIW processors. citation:-1
+title:Scenario Based Mapping of Dynamic Applications on MPSoC: A 3D Graphics Case Study. citation:-1
+title:A Memory Hierarchical Layer Assigning and Prefetching Technique to Overcome the Memory Performance/Energy Bottleneck. citation:-1
+title:Exploiting Data Transfer Locality in Memory Mapping. citation:-1
+title:Energy Aware Algorithm and Implementation of SDR Oriented HSDPA Chip Level Equalizer. citation:-1
+title:System-level process variability compensation on memory organizations: on the scalability of multi-mode memories. citation:-1
+title:Real-Time Stereo Correspondence using a Truncated Separable Laplacian Kernel Approximation on Graphics Hardware. citation:-1
+title:Energy-performance Exploration of a CGA-based SDR Processor. citation:-1
+title:Finite precision processing in wireless applications. citation:-1
+title:Template-Based Semi-Automatic Profiling of Multimedia Applications. citation:-1
+title:Exploiting Varying Resource Requirements in Wavelet-based Applications in Dynamic Execution Environments. citation:-1
+title:Guest Editorial: Special Issue on Signal Processing Systems: Part I. citation:-1
+title:Energy-Aware Interconnect Optimization for a Coarse Grained Reconfigurable Processor. citation:-1
+title:Automated Data Dependency Size Estimation with a Partially Fixed Execution Ordering. citation:-1
+title:System-Level Energy-Delay Exploration for Multimedia Applications on Embedded Cores with Hardware Cache. citation:-1
+title:Systematic speed-power memory data-layout exploration for cache controlled embedded multimedia applications. citation:-1
+title:Overcoming the "Memory Wall" by improved system design exploration and a link to process technology options. citation:-1
+title:Systematic Data Reuse Exploration Methodology for Irregular Access Patterns. citation:-1
+title:How to Live with Uncertainties: Exploiting the Performance Benefits of Self-Timed Logic In Synchronous Design. citation:-1
+title:Energy-Delay Efficient Data Storage and Transfer Architectures and Methodologies: Current Solutions and Remaining Problems. citation:-1
+title:Efficient System Exploration and Synthesis of Applications with Dynamic Data Storage and Intensive Data Transfer. citation:-1
+title:Random-Access Data Storage Components in Customized Architectures. citation:-1
+title:Dynamic scheduling of concurrent tasks with cost performance trade-off. citation:-1
+title:L0 buffer energy optimization through scheduling and exploration. citation:-1
+title:Playing the trade-off game: Architecture exploration using Coffeee. citation:-1
+title:Systematic Power-Performance Trade-Off in MPEG-4 by Means of Selective Function Inlining Steered by Address Optimization Opportunities. citation:-1
+title:System-level data format exploration for dynamically allocated data structures. citation:-1
+title:Low Power Storage Cycle Budget Distribution Tool Support for Hierarchical Graphs. citation:-1
+title:How Can System-Level Design Solve the Interconnect Technology Scaling Problem? citation:-1
+title:Integrated Task Scheduling and Data Assignment for SDRAMs in Dynamic Applications. citation:-1
+title:System level verification of video and image processing specifications. citation:-1
+title:Control Flow Analysis for Recursion Removal. citation:-1
+title:Throughput Modeling of Large-Scale 802.11 Networks. citation:-1
+title:Middleware design optimization of wireless protocols based on the exploitation of dynamic input patterns. citation:-1
+title:Design of a C-testable booth multiplier using a realistic fault model. citation:-1
+title:Design Style Case Study for Embedded Multi Media Compute Nodes. citation:-1
+title:Strategy for power efficient combined task and data parallelism exploration illustrated on a QSDPCM video codec. citation:-1
+title:Exploiting finite precision information to guide data-flow mapping. citation:-1
+title:A framework for automatic parallelization, static and dynamic memory optimization in MPSoC platforms. citation:-1
+title:Multi-granularity NoC Simulation Framework for Early Phase Exploration of SDR Hardware Platforms. citation:-1
+title:Register file exploration for a multi-standard wireless forward error correction ASIP. citation:-1
+title:Real-time stereo matching: A cross-based local approach. citation:-1
+title:Software metadata: Systematic characterization of the memory behaviour of dynamic applications. citation:-1
+title:Modeling and exploiting spatial locality trade-offs in wavelet-based applications under varying resource requirements. citation:-1
+title:Spatial locality exploitation for runtime reordering of JPEG2000 wavelet data layouts. citation:-1
+title:Run-time Task Overlapping on Multiprocessor Platforms. citation:-1
+title:Experience with Widening Based Equivalence Checking in Realistic Multimedia Systems. citation:-1
+title:Accumulative Interference Modeling for Distributed Cognitive Radio Networks. citation:-1
+title:Direct memory access usage optimization in network applications for reduced memory latency and energy consumption. citation:-1
+title:Design and Synthesis of Pareto Buffers Offering Large Range Runtime Energy/Delay Tradeoffs Via Combined Buffer Size and Supply Voltage Tuning. citation:-1
+title:Interconnect Exploration for Energy Versus Performance Tradeoffs for Coarse Grained Reconfigurable Architectures. citation:-1
+title:Dealing with data dependent conditions to enable general global source code transformations. citation:-1
+title:Statistical approach in a system level methodology to deal with process variation. citation:-1
+title:Optimizing transmission and shutdown for energy-efficient packet scheduling in sensor networks. citation:-1
+title:Fast performance evaluation of fixed-point systems with un-smooth operators. citation:-1
+title:PinComm: Characterizing Intra-application Communication for the Many-Core Era. citation:-1
+title:Design of fuzzy cognitive maps using neural networks for predicting chaotic time series. citation:-1
+title:Stream-Centric Stereo Matching and View Synthesis: A High-Speed Approach on GPUs. citation:-1
+title:Reliability-Aware Proactive Energy Management in Hard Real-Time Systems: A Motivational Case Study. citation:-1
+title:A probabilistic fuzzy approach to modeling nonlinear systems. citation:-1
+title:Fast multidimension multichoice knapsack heuristic for MP-SoC runtime management. citation:-1
+title:An Extension to Fuzzy Cognitive Maps for Classification and Prediction. citation:-1
+title:Energy Aware Signal Processing for Software Defined Radio Baseband Implementation. citation:-1
+title:Exploration of Soft-Output MIMO Detector Implementations on Massive Parallel Processors. citation:-1
+title:Systematic Design Principles for Cost-Effective Hard Constraint Management in Dynamic Nonlinear Systems. citation:-1
+title:Energy-Efficient Bandwidth Allocation for Multiuser Scalable Video Streaming over WLAN. citation:-1
+title:Optimizing Transmission and Shutdown for Energy-Efficient Real-time Packet Scheduling in Clustered Ad Hoc Networks. citation:-1
+title:Memory hierarchy for high-performance and energyaware reconfigurable systems. citation:-1
+title:Design-time application mapping and platform exploration for MP-SoC customised run-time management. citation:-1
+title:Methodology for Energy-Flexibility Space Exploration and Mapping of Multimedia Applications to Single-Processor Platform Styles. citation:-1
+title:An Energy Aware Design Space Exploration for VLIW AGU Model with Fine Grained Power Gating. citation:-1
+title:8T SRAM with Mimicked Negative Bit-lines and Charge Limited Sequential sense amplifier for wireless sensor nodes. citation:-1
+title:A Framework for Data Partitioning for C++ Data-Intensive Applications. citation:-1
+title:Transformations of a 3D Image Reconstruction Algorithm for Data Transfer and Storage Optimisation. citation:-1
+title:Locality optimization in a compiler for wireless applications. citation:-1
+title:Systematic Application of Data Transfer and Storage Optimizing Code Transformations for Power Consumption and Execution Time Reduction in ACROPOLIS: A Pre-Compiler for Multimedia Applications. citation:-1
+title:A Lightweight Security Scheme for Wireless Body Area Networks: Design, Energy Evaluation and Proposed Microprocessor Design. citation:-1
+title:Enabling efficient system configurations for dynamic wireless baseband engines using system scenarios. citation:-1
+title:Experience with widening based equivalence checking in realistic multimedia systems. citation:-1
+title:Scalable Block-Based Parallel Lattice Reduction Algorithm for an SDR Baseband Processor. citation:-1
+title:Exploration of cryptographic ASIP designs for wireless sensor nodes. citation:-1
+title:Cellular automata based self-test for programmable data paths. citation:-1
+title:A 4.4 pJ/Access 80 MHz, 128 kbit Variability Resilient SRAM With Multi-Sized Sense Amplifier Redundancy. citation:-1
+title:Algorithms and parallel VLSI architectures. citation:-1
+title:Sub-word Handling in Data-parallel Mapping. citation:-1
+title:Ultra low power litho friendly local assist circuitry for variability resilient 8T SRAM. citation:-1
+title:Energy-Aware MPEG-4 Single Profile in HW-SW Multi-Platform Implementation. citation:-1
+title:Ultra Low-Energy SRAM Design for Smart Ubiquitous Sensors. citation:-1
+title:Memory and communication driven spatio-temporal scheduling on MPSoCs. citation:-1
+title:Automatic functional verification of memory oriented global source code transformations. citation:-1
+title:Survey of Low-Energy Techniques for Instruction Memory Organisations in Embedded Systems. citation:-1
+title:Partitioning and Assignment Exploration for Multiple Modes of IEEE 802.11n Modem on Heterogeneous MPSoC Platforms. citation:-1
+title:Impact of Duty Factor, Stress Stimuli, and Gate Drive Strength on Gate Delay Degradation with an Atomistic Trap-Based BTI Model. citation:-1
+title:Incorporating parameter variations in BTI impact on nano-scale logical gates analysis. citation:-1
+title:Eliminating CPU overhead for on-the-fly content adaptation with MPEG-4 wavelet subdivision surfaces. citation:-1
+title:Polyhedral parallel code generation for CUDA. citation:-1
+title:A template-based methodology for efficient microprocessor and FPGA accelerator co-design. citation:-1
+title:Ultra low energy Domain Specific Instruction-set Processor for on-line surveillance. citation:-1
+title:Delay improvement of IEEE 802.11 distributed coordination function using size-based scheduling. citation:-1

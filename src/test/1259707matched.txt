@@ -1,0 +1,263 @@
+title1:Typechecking XML views of relational databases. title2:Typechecking XML views of relational databases citation:52 ncitation:51 pid1237726
+title1:An isoperimetric inequality in the universal cover of the punctured plane. title2:An isoperimetric inequality in the universal cover of the punctured plane citation:1 ncitation:1 pid1060799
+title1:Small Sample Spaces Cannot Fool Low Degree Polynomials. title2:Small sample spaces cannot fool low degree polynomials citation:4 ncitation:3 pid2241845
+title1:Measures of Pseudorandomness for Finite Sequences: Minimal Values. title2:Measures of pseudorandomness for finite sequences: typical values citation:41 ncitation:35 pid1117119
+title1:A Characterization of Easily Testable Induced Subgraphs. title2:A characterization of easily testable induced subgraphs citation:45 ncitation:45 pid1637314
+title1:Bisection of trees and sequences. title2:Bisection of trees and sequences citation:4 ncitation:3 pid855615
+title1:Splitting digraphs. title2:Splitting digraphs citation:1 ncitation:2 pid46628
+title1:Conflict-free colorings of shallow discs. title2:Conflict-free colorings of shallow discs citation:39 ncitation:39 pid1379274
+title1:Conflict-Free colorings of Shallow Discs. title2:Conflict-free colorings of shallow discs citation:39 ncitation:39 pid1380972
+title1:Biomolecular network motif counting and discovery by color coding. title2:Biomolecular network motif counting and discovery by color coding citation:48 ncitation:40 pid831302
+title1:Piercing Convex Sets. title2:Piercing convex sets and the Hadwiger-Debrunner (< i> p, q</i>)-problem citation:92 ncitation:17 pid1168291
+title1:Long Non-Crossing Configurations in the Plane. title2:Long non-crossing configurations in the plane (Draft) citation:0 ncitation:22 pid835937
+title1:Sizes of Induced Subgraphs of Ramsey Graphs. title2:Sizes of induced subgraphs of Ramsey graphs citation:1 ncitation:1 pid829361
+title1:Economical Elimination of Cycles in the Torus. title2:Economical elimination of cycles in the torus citation:1 ncitation:1 pid1403200
+title1:A Characterization of the (Natural) Graph Properties Testable with One-Sided Error. title2:A characterization of the (natural) graph properties testable with one-sided error citation:145 ncitation:119 pid905755
+title1:Partitioning and Geometric Embedding of Range Spaces of Finite Vapnik-Chervonenkis Dimension. title2:Partitioning and geometric embedding of range spaces of finite Vapnik-Chervonenkis dimension citation:30 ncitation:32 pid438908
+title1:Disjoint Edges in Geometric Graphs. title2:Disjoint edges in geometric graphs citation:33 ncitation:33 pid110636
+title1:On-Line Steine Trees in the Euclidean Plane. title2:On-line Steiner trees in the Euclidean plane citation:90 ncitation:87 pid1336308
+title1:On-Line Steiner Trees in the Euclidean Plane. title2:On-line Steiner trees in the Euclidean plane citation:90 ncitation:87 pid1060826
+title1:Cutting Disjoint Disks by Straight Lines. title2:Cutting disjoint disks by straight lines citation:30 ncitation:29 pid110613
+title1:k-Wise Independent Random Graphs. title2:k-wise independent random graphs citation:4 ncitation:4 pid842948
+title1:Spanning directed trees with many leaves title2:Spanning directed trees with many leaves citation:27 ncitation:24 pid842956
+title1:Approximating the maximum clique minor and some subgraph homeomorphism problems. title2:Approximating the maximum clique minor and some subgraph homeomorphism problems citation:4 ncitation:4 pid110598
+title1:Broadcasting with Side Information. title2:Broadcasting with side information citation:45 ncitation:36 pid842954
+title1:Explicit construction of exponential sized families of k-independent sets. title2:Explicit construction of exponential sized families of< i> k</i>-independent sets citation:96 ncitation:91 pid212254
+title1:Typechecking XML Views of Relational Databases. title2:Typechecking XML views of relational databases citation:52 ncitation:51 pid862338
+title1:Choosability and fractional chromatic numbers. title2:Choosability and fractional chromatic numbers citation:33 ncitation:31 pid831456
+title1:Derandomized Graph Products. title2:Derandomized graph products citation:124 ncitation:115 pid1095579
+title1:On Disseminating Information Reliably without Broadcasting. title2:On disseminating information reliably without broadcasting citation:60 ncitation:59 pid484442
+title1:Lower Bounds on the Competitive Ratio for Mobile User Tracking and Distributed Job Scheduling. title2:Lower bounds on the competitive ratio for mobile user tracking and distributed job scheduling citation:41 ncitation:40 pid1379154
+title1:On Neciporuk's Theorem for Branching Programs. citation:1 ncitation:1 pid831451
+title1:Repeated communication and Ramsey graphs. title2:Repeated communication and Ramsey graphs citation:0 ncitation:54 pid783569
+title1:A simple algorithm for edge-coloring bipartite multigraphs. title2:A simple algorithm for edge-coloring bipartite multigraphs Comment, DRAFT citation:0 ncitation:35 pid186585
+title1:Source coding and graph entropies. title2:Source coding and graph entropies citation:91 ncitation:84 pid1646870
+title1:Finding and Counting Given Length Cycles. title2:Finding and counting given length cycles citation:36 ncitation:177 pid1538252
+title1:A linear time erasure-resilient code with nearly optimal recovery. title2:A linear time erasure-resilient code with nearly optimal recovery citation:107 ncitation:94 pid850497
+title1:Algorithmic Aspects of Acyclic Edge Colorings. title2:Algorithmic aspects of acyclic edge colorings citation:59 ncitation:59 pid799556
+title1:Testing Reed-Muller codes. title2:Testing reed-muller codes citation:67 ncitation:61 pid296385
+title1:Balancing sets of vectors. title2:Balancing sets of vectors citation:53 ncitation:52 pid831373
+title1:Matching Nuts and Bolts Faster. title2:Matching nuts and bolts faster citation:2 ncitation:3 pid2667643
+title1:Construction of asymptotically good low-rate error-correcting codes through pseudo-random graphs. title2:Construction of asymptotically good low-rate error-correcting codes through pseudo-random graphs citation:213 ncitation:201 pid861230
+title1:Derandomization, Witnesses for Boolean Matrix Multiplication and Construction of Perfect Hash Functions. title2:Derandomization, witnesses for Boolean matrix multiplication and construction of perfect hash functions citation:115 ncitation:110 pid1088779
+title1:Generating Pseudo-Random Permutations and Maximum Flow Algorithms. title2:Generating pseudo-random permutations and maximum flow algorithms citation:62 ncitation:57 pid1088781
+title1:An Extremal Problem for Sets with Applications to Graph Theory. title2:An extremal problem for sets with applications to graph theory citation:31 ncitation:30 pid1103916
+title1:Many random walks are faster than one. title2:Many random walks are faster than one citation:92 ncitation:82 pid749658
+title1:On a Problem in Shuffling. title2:On a problem in shuffling citation:1 ncitation:1 pid1403998
+title1:Multilinear polynomials and Frankl-Ray-Chaudhuri-Wilson type intersection theorems. title2:Multilinear polynomials and Frankl-Ray-Chaudhuri-Wilson type intersection theorems citation:74 ncitation:66 pid749660
+title1:Covering the Edges of a Graph by a Prescribed Tree with Minimum Overlap. title2:Covering the edges of a graph by a prescribed tree with minimum overlap citation:2 ncitation:2 pid929615
+title1:Combinatorial reconstruction problems. title2:Combinatorial reconstruction problems citation:41 ncitation:35 pid1103910
+title1:Partitioning into graphs with only small components. title2:Partitioning into graphs with only small components citation:32 ncitation:32 pid1103904
+title1:Regular subgraphs of almost regular graphs. title2:Regular subgraphs of almost regular graphs citation:73 ncitation:66 pid749652
+title1:On the Number of Permutations Avoiding a Given Pattern. title2:On the number of permutations avoiding a given pattern citation:43 ncitation:42 pid929611
+title1:Coin-Flipping Games Immune Against Linear-Sized Coalitions. title2:Coin-flipping games immune against linear-sized coalitions citation:45 ncitation:43 pid1103906
+title1:Approximating the Cut-Norm via Grothendieck's Inequality. title2:Approximating the cut-norm via Grothendieck's inequality citation:170 ncitation:152 pid749654
+title1:The number of small semispaces of a finite set of points in the plane. title2:The number of small semispaces of a finite set of points in the plane citation:87 ncitation:77 pid974233
+title1:A Graph-Theoretic Game and Its Application to the k-Server Problem. title2:A graph-theoretic game and its application to the k-server problem citation:216 ncitation:193 pid614739
+title1:On the density of sets of vectors. title2:On the density of sets of vectors citation:68 ncitation:66 pid974235
+title1:Unextendible Product Bases. title2:Unextendible product bases citation:33 ncitation:33 pid974237
+title1:Crossing patterns of semi-algebraic sets. title2:Crossing patterns of semi-algebraic sets citation:34 ncitation:33 pid974243
+title1:Learning a Hidden Matching. title2:Learning a hidden matching citation:44 ncitation:38 pid974241
+title1:Norm-Graphs: Variations and Applications. title2:Norm-graphs: variations and applications citation:77 ncitation:76 pid1374780
+title1:Anti-Hadamard Matrices, Coin Weighing, Threshold Gates, and Indecomposable Hypergraphs. title2:Anti-Hadamard matrices, coin weighing, threshold gates, and indecomposable hypergraphs citation:41 ncitation:31 pid1058313
+title1:The 123 Theorem and Its Extensions. title2:The 123 theorem and its extensions citation:3 ncitation:3 pid854859
+title1:Testing k-wise and almost k-wise independence. title2:Testing k-wise and almost k-wise independence citation:37 ncitation:33 pid974264
+title1:Partitioning multi-dimensional sets in a small number of ``uniform'' parts citation:4 ncitation:4 pid1058311
+title1:XML with Data Values: Typechecking Revisited. title2:XML with data values: typechecking revisited citation:110 ncitation:110 pid974270
+title1:The Probabilistic Method title2:The probabilistic method citation:4698 ncitation:4373 pid974276
+title1:Estimating arbitrary subset sums with few probes. title2:Estimating arbitrary subset sums with few probes citation:30 ncitation:30 pid1058425
+title1:Tracking Join and Self-Join Sizes in Limited Storage. title2:Tracking join and self-join sizes in limited storage citation:215 ncitation:205 pid974272
+title1:Better Expanders and Superconcentrators. title2:Better expanders and superconcentrators citation:69 ncitation:67 pid974274
+title1:Degrees and choice numbers. title2:Degrees and choice numbers citation:37 ncitation:34 pid1189459
+title1:A Fast and Simple Randomized Parallel Algorithm for the Maximal Independent Set Problem. title2:A fast and simple randomized parallel algorithm for the maximal independent set problem citation:477 ncitation:441 pid974286
+title1:Single Round Simulation on Radio Networks. title2:Single round simulation on radio networks citation:53 ncitation:54 pid974280
+title1:The Algorithmic Aspects of the Regularity Lemma. title2:The algorithmic aspects of the regularity lemma citation:224 ncitation:217 pid1058420
+title1:Optimal Monotone Encodings. title2:Optimal monotone encodings citation:1 ncitation:2 pid1378998
+title1:Algorithms with large domination ratio. title2:Algorithms with large domination ratio citation:42 ncitation:40 pid974282
+title1:Properly colored Hamilton cycles in edge-colored complete graphs. title2:Properly colored Hamilton cycles in edge-colored complete graphs citation:42 ncitation:39 pid974292
+title1:Polynomial Time Randomized Approximation Schemes for Tutte-Gröthendieck Invariants: The Dense Case. citation:54 ncitation:52 pid974294
+title1:Regular graphs whose subgraphs tend to be acyclic. title2:Regular graphs whose subgraphs tend to be acyclic citation:1 ncitation:1 pid974290
+title1:A Parallel Algorithmic Version of the Local Lemma. title2:A parallel algorithmic version of the local lemma citation:142 ncitation:134 pid1460283
+title1:Testing subgraphs in large graphs. title2:Testing subgraphs in large graphs citation:92 ncitation:88 pid623335
+title1:Random Cayley Graphs and Expanders. title2:Random Cayley graphs and expanders citation:173 ncitation:157 pid1900199
+title1:Disjoint Systems. title2:Disjoint systems citation:0 ncitation:2 pid1722565
+title1:Finding a large hidden clique in a random graph. title2:Finding a large hidden clique in a random graph citation:161 ncitation:137 pid861611
+title1:Acyclic Coloring of Graphs. title2:Acyclic coloring of graphs citation:207 ncitation:198 pid2220721
+title1:Nonrepetitive colorings of graphs. title2:Nonrepetitive colorings of graphs citation:1 ncitation:65 pid861601
+title1:A combinatorial characterization of the testable graph properties: it's all about regularity. title2:A combinatorial characterization of the testable graph properties: it's all about regularity citation:136 ncitation:121 pid544856
+title1:Properly colored subgraphs and rainbow subgraphs in edge-colorings with local constraints. citation:39 ncitation:35 pid2596302
+title1:The Average Complexity of Deterministic and Randomized Parallel Comparison-Sorting Algorithms. title2:The average complexity of deterministic and randomized parallel comparison-sorting algorithms citation:34 ncitation:34 pid3686
+title1:Parameterized Algorithms for Directed Maximum Leaf Problems. title2:Parameterized algorithms for directed maximum leaf problems citation:30 ncitation:27 pid544852
+title1:Regular Languages are Testable with a Constant Number of Queries. title2:Regular languages are testable with a constant number of queries citation:117 ncitation:113 pid544854
+title1:Covering with Latin Transversals. title2:Covering with latin transversals citation:2 ncitation:2 pid1269734
+title1:Separable Partitions. title2:Separable partitions citation:30 ncitation:30 pid952573
+title1:Lower Bounds for Approximations by Low Degree Polynomials Over Z. title2:Lower bounds for approximations by low degree polynomials over Z< sub> m</sub> citation:31 ncitation:31 pid952575
+title1:On the maximum number of Hamiltonian paths in tournaments. title2:The maximum number of Hamiltonian paths in tournaments citation:35 ncitation:9 pid1423413
+title1:The String Chromatic Number of a Graph. title2:The strong chromatic number of a graph citation:56 ncitation:54 pid952565
+title1:The Chromatic Number Of Graph Powers. title2:The chromatic number of graph powers citation:45 ncitation:40 pid1418711
+title1:Bipartite Subgraphs And The Smallest Eigenvalue. title2:Bipartite subgraphs and the smallest eigenvalue citation:44 ncitation:42 pid269360
+title1:Threshold Functions for H-factors. title2:Threshold Functions for//-factors citation:1 ncitation:16 pid1051740
+title1:Packing Ferrers Shapes. title2:Packing Ferrers Shapes citation:0 ncitation:0 pid1525278
+title1:Tura'n Numbers of Bipartite Graphs and Related Ramsey-Type Questions. citation:47 ncitation:44 pid1051732
+title1:A Combinatorial Characterization of the Testable Graph Properties: It's All About Regularity. title2:A combinatorial characterization of the testable graph properties: it's all about regularity citation:136 ncitation:121 pid1051728
+title1:The Online Set Cover Problem. title2:The online set cover problem citation:79 ncitation:73 pid1051756
+title1:Partitioning multi-dimensional sets in a small number of "uniform" parts. citation:4 ncitation:4 pid1051752
+title1:A Characterization of the (natural) Graph Properties Testable with One-Sided Error. title2:A characterization of the (natural) graph properties testable with one-sided error citation:145 ncitation:119 pid1051748
+title1:Additive Approximation for Edge-Deletion Problems. title2:Additive approximation for edge-deletion problems citation:31 ncitation:26 pid623135
+title1:Parallel Linear Programming in Fixed Dimension Almost Surely in Constant Time title2:Parallel linear programming in fixed dimension almost surely in constant time citation:34 ncitation:35 pid1051750
+title1:Explicit construction of linear sized tolerant networks. title2:Explicit construction of linear sized tolerant networks citation:3 ncitation:183 pid1051746
+title1:Testing Triangle-Freeness in General Graphs. title2:Testing triangle-freeness in general graphs citation:35 ncitation:30 pid269322
+title1:Efficient Simulation of Finite Automata by Neural Nets. title2:Efficient simulation of finite automata by neural nets citation:98 ncitation:98 pid1058446
+title1:Linear Hash Functions. title2:Linear hash functions citation:30 ncitation:30 pid1051760
+title1:Scale-sensitive dimensions, uniform convergence, and learnability. title2:Scale-sensitive dimensions, uniform convergence, and learnability citation:376 ncitation:372 pid835826
+title1:Weak &epsilon;-nets and interval chains. citation:1 ncitation:13 pid835824
+title1:Graph Powers, Delsarte, Hoffman, Ramsey, and Shannon. title2:Graph Powers, Delsarte, Hoffman, Ramsey, and Shannon citation:3 ncitation:3 pid104351
+title1:On the Exponent of the All Pairs Shortest Path Problem. title2:On the exponent of the all pairs shortest path problem citation:62 ncitation:85 pid2369871
+title1:Point Selections and Weak e-Nets for Convex Hulls. citation:92 ncitation:82 pid517149
+title1:On the Edge-Expansion of Graphs. title2:On the edge-expansion of graphs citation:32 ncitation:31 pid1051704
+title1:Choice Numbers of Graphs: a Probabilistic Approach. title2:Choice numbers of graphs: a probabilistic approach citation:44 ncitation:34 pid1051710
+title1:Every Monotone Graph Property Is Testable. title2:Every monotone graph property is testable citation:99 ncitation:91 pid2219616
+title1:Fast FAST. title2:Fast fast citation:53 ncitation:43 pid830792
+title1:Balanced Families of Perfect Hash Functions and Their Applications. title2:Balanced families of perfect hash functions and their applications citation:5 ncitation:11 pid830794
+title1:Dense graphs are antimagic. title2:Dense graphs are antimagic citation:45 ncitation:38 pid830798
+title1:Large Nearly Regular Induced Subgraphs. title2:Large nearly regular induced subgraphs citation:4 ncitation:3 pid830784
+title1:Guessing secrets efficiently via list decoding. title2:Guessing secrets efficiently via list decoding citation:28 ncitation:26 pid830786
+title1:Parallel Linear Programming in Fixed Dimension Almost Surely in Constant Time. title2:Parallel linear programming in fixed dimension almost surely in constant time citation:34 ncitation:35 pid269251
+title1:Witnesses for Boolean Matrix Multiplication and for Shortest Paths title2:Witnesses for boolean matrix multiplication and for shortest paths citation:59 ncitation:53 pid830788
+title1:Spanning Directed Trees with Many Leaves. title2:Spanning directed trees with many leaves citation:27 ncitation:24 pid830790
+title1:On the Exponent of the All Pairs Shortest Path Problem title2:On the exponent of the all pairs shortest path problem citation:62 ncitation:85 pid2179724
+title1:Multi-Node Graphs: A Framework for Multiplexed Biological Assays. title2:Multi-node graphs: a framework for multiplexed biological assays citation:1 ncitation:1 pid823100
+title1:Regular Languages Are Testable with a Constant Number of Queries. title2:Regular languages are testable with a constant number of queries citation:117 ncitation:113 pid1381433
+title1:Universal sequences for complete graphs. title2:Universal sequences for complete graphs citation:34 ncitation:36 pid1341498
+title1:Geometrical Realization of Set Systems and Probabilistic Communication Complexity title2:Geometrical realization of set systems and probabilistic communication complexity citation:71 ncitation:67 pid854123
+title1:Meanders, Ramsey Theory and Lower Bounds for Branching Programs title2:Meanders, Ramsey theory and lower bounds for branching programs citation:44 ncitation:45 pid865193
+title1:Semi-Direct Product in Groups and Zig-Zag Product in Graphs: Connections and Applications. title2:Semi-direct product in groups and zig-zag product in graphs: connections and applications citation:67 ncitation:62 pid209741
+title1:A Lattice Point Problem and Additive Number Theory. title2:A lattice point problem and additive number theory citation:47 ncitation:41 pid889990
+title1:The monotone circuit complexity of Boolean functions. title2:The monotone circuit complexity of Boolean functions citation:269 ncitation:249 pid841264
+title1:Learning a Hidden Matching. title2:Learning a hidden matching citation:44 ncitation:38 pid1062015
+title1:The Shannon Capacity of a Union. title2:The Shannon capacity of a union citation:70 ncitation:64 pid2053191
+title1:A general approach to online network optimization problems. title2:A general approach to online network optimization problems citation:80 ncitation:69 pid1882465
+title1:The maximum number of Hamiltonian paths in tournaments. title2:The maximum number of Hamiltonian paths in tournaments citation:35 ncitation:32 pid830746
+title1:Efficient Dynamic-Resharing "Verifiable Secret Sharing" Against Mobile Adversary. citation:37 ncitation:38 pid611646
+title1:Scale-sensitive Dimensions, Uniform Convergence, and Learnability title2:Scale-sensitive dimensions, uniform convergence, and learnability citation:376 ncitation:372 pid1061983
+title1:Eigenvalues, geometric expanders, sorting in rounds, and Ramsey theory. title2:Eigenvalues, geometric expanders, sorting in rounds, and Ramsey theory citation:106 ncitation:96 pid1061982
+title1:The Average Complexity of Deterministic and Randomized Parallel Comparison Sorting Algorithms title2:The average complexity of deterministic and randomized parallel comparison-sorting algorithms citation:34 ncitation:34 pid1322418
+title1:Covering graphs by the minimum number of equivalence relations. title2:Covering graphs by the minimum number of equivalence relations citation:31 ncitation:30 pid1077393
+title1:Efficient Testing of Large Graphs. title2:Efficient testing of large graphs citation:255 ncitation:179 pid830780
+title1:Eigenvalues and expanders. title2:Eigenvalues and expanders citation:839 ncitation:759 pid1060868
+title1:Testing of Clustering. title2:Testing of clustering citation:2 ncitation:87 pid1209575
+title1:Linear Time Algorithms for Finding a Dominating Set of Fixed Size in Degenerated Graphs. title2:Linear time algorithms for finding a dominating set of fixed size in degenerated graphs citation:30 ncitation:19 pid269247
+title1:Linear Time Algorithms for Finding a Dominating Set of Fixed Size in Degenerated Graphs title2:Linear time algorithms for finding a dominating set of fixed size in degenerated graphs citation:30 ncitation:19 pid1380383
+title1:Universality and Tolerance. title2:Universality and tolerance citation:35 ncitation:31 pid1144570
+title1:XML with data values: typechecking revisited. title2:XML with data values: typechecking revisited citation:110 ncitation:110 pid1077351
+title1:Meanders and Their Applications in Lower Bounds Arguments. title2:Meanders and their applications in lower bounds arguments citation:61 ncitation:55 pid949585
+title1:Tracking Join and Self-Join Sizes in Limited Storage. title2:Tracking join and self-join sizes in limited storage citation:215 ncitation:205 pid209867
+title1:A Lower Bound for Radio Broadcast. title2:A lower bound for radio broadcast citation:272 ncitation:265 pid1341579
+title1:Testing k-colorability. title2:Testing k-colorability citation:75 ncitation:74 pid209865
+title1:Colorings and orientations of graphs. title2:Colorings and orientations of graphs citation:325 ncitation:287 pid962596
+title1:Planar Separators. title2:Planar separators citation:76 ncitation:74 pid1449484
+title1:Algorithmic construction of sets for -restrictions. title2:Algorithmic construction of sets for k-restrictions citation:143 ncitation:116 pid209858
+title1:A nowhere-zero point in liner mappings. title2:A nowhere-zero point in linear mappings citation:48 ncitation:44 pid209856
+title1:Explicit Constructions of Depth-2 Majority Circuits for Comparison and Addition. title2:Explicit constructions of depth-2 majority circuits for comparison and addition citation:57 ncitation:56 pid855200
+title1:A parallel algorithmic version of the Local Lemma title2:A parallel algorithmic version of the local lemma citation:142 ncitation:134 pid209881
+title1:Ramsey-type Theorems with Forbidden Subgraphs. title2:Ramsey-type theorems with forbidden subgraphs citation:45 ncitation:36 pid1052493
+title1:Routing Permutations on Graphs Via Matchings. title2:Routing permutations on graphs via matchings citation:72 ncitation:68 pid1536529
+title1:Learning a Hidden Subgraph. title2:Learning a hidden subgraph citation:30 ncitation:27 pid209875
+title1:Testing Subgraphs in Large Graphs. title2:Testing subgraphs in large graphs citation:92 ncitation:88 pid209873
+title1:List Coloring of Random and Pseudo-Random Graphs. title2:List coloring of random and pseudo-random graphs citation:35 ncitation:34 pid209877
+title1:Polynomial Time Randomised Approximation Schemes for Tutte-Gröthendieck Invariants: The Dense Case citation:54 ncitation:52 pid797855
+title1:Testing of Clustering. title2:Testing of clustering citation:2 ncitation:87 pid1341678
+title1:Parameterized Algorithms for Directed Maximum Leaf Problems title2:Parameterized algorithms for directed maximum leaf problems citation:30 ncitation:27 pid209838
+title1:Random sampling and approximation of MAX-CSPs. title2:Random sampling and approximation of MAX-CSPs citation:64 ncitation:61 pid797851
+title1:The Concentration of the Chromatic Number of Random Graphs. title2:The concentration of the chromatic number of random graphs citation:58 ncitation:54 pid797847
+title1:Testing subgraphs in directed graphs. title2:Testing subgraphs in directed graphs citation:97 ncitation:87 pid209829
+title1:Ranking Tournaments. title2:Ranking tournaments citation:150 ncitation:136 pid865093
+title1:Learning a Hidden Subgraph. title2:Learning a hidden subgraph citation:30 ncitation:27 pid209831
+title1:On sums of subsets of a set of integers. title2:On sums of subsets of a set of integers citation:34 ncitation:30 pid797843
+title1:On the power of two, three and four probes. title2:On the power of two, three and four probes citation:6 ncitation:4 pid209825
+title1:The Space Complexity of Approximating the Frequency Moments. title2:The space complexity of approximating the frequency moments citation:1114 ncitation:1067 pid185901
+title1:Efficient Testing of Large Graphs. title2:Efficient testing of large graphs citation:255 ncitation:179 pid797841
+title1:Finding a Large Hidden Clique in a Random Graph. title2:Finding a large hidden clique in a random graph citation:161 ncitation:137 pid889973
+title1:A characterization of easily testable induced subgraphs. title2:A characterization of easily testable induced subgraphs citation:45 ncitation:45 pid797839
+title1:Matching Nuts and Bolts. title2:Matching nuts and bolts faster citation:2 ncitation:18 pid209850
+title1:Testing triangle-freeness in general graphs. title2:Testing triangle-freeness in general graphs citation:35 ncitation:30 pid827719
+title1:Guessing secrets efficiently via list decoding. title2:Guessing secrets efficiently via list decoding citation:28 ncitation:26 pid2373539
+title1:Comparison-Sorting and Selecting in Totally Monotone Matrices. title2:Comparison-sorting and selecting in totally monotone matrices citation:3 ncitation:3 pid209846
+title1:A general approach to online network optimization problems. title2:A general approach to online network optimization problems citation:80 ncitation:69 pid209840
+title1:An optimal procedure for gap closing in whole genome shotgun sequencing. title2:An optimal procedure for gap closing in whole genome shotgun sequencing citation:30 ncitation:26 pid209842
+title1:Covering the Cube by Affine Hyperplanes. title2:Covering the cube by affine hyperplanes citation:29 ncitation:27 pid971406
+title1:Regular Honest Graphs, Isoperimetric Numbers, and Bisection of Weighted Graphs. title2:Regular honest graphs, isoperimetric numbers, and bisection of weighted graphs citation:2 ncitation:2 pid971402
+title1:Short Certificates for Tournaments. title2:Short certificates for tournaments citation:4 ncitation:5 pid971401
+title1:Explicit Ramsey graphs and orthonormal labelings. title2:Explicit Ramsey graphs and orthonormal labelings citation:70 ncitation:64 pid1061009
+title1:Testing Low-Degree Polynomials over GF(2(. title2:Testing low-degree polynomials over GF (2) citation:88 ncitation:86 pid1061011
+title1:The online set cover problem. title2:The online set cover problem citation:79 ncitation:73 pid797874
+title1:Expanders, Sorting in Rounds and Superconcentrators of Limited Depth title2:Expanders, sorting in rounds and superconcentrators of limited depth citation:28 ncitation:29 pid797868
+title1:Weak &epsis;-nets and interval chains. citation:1 ncitation:13 pid1061001
+title1:Routing permutations on graphs via matchings. title2:Routing permutations on graphs via matchings citation:72 ncitation:68 pid209823
+title1:Quadratic forms on graphs. title2:Quadratic forms on graphs citation:75 ncitation:70 pid267179
+title1:The Space Complexity of Approximating the Frequency Moments. title2:The space complexity of approximating the frequency moments citation:1114 ncitation:1067 pid209821
+title1:Testing subgraphs in directed graphs. title2:Testing subgraphs in directed graphs citation:97 ncitation:87 pid797865
+title1:Approximating the cut-norm via Grothendieck's inequality. title2:Approximating the cut-norm via Grothendieck's inequality citation:170 ncitation:152 pid267181
+title1:A Separator Theorem for Graphs with an Excluded Minor and its Applications title2:A separator theorem for graphs with an excluded minor and its applications citation:174 ncitation:165 pid861703
+title1:Every monotone graph property is testable. title2:Every monotone graph property is testable citation:99 ncitation:91 pid1061007
+title1:Color-coding: a new method for finding simple paths, cycles and other small subgraphs within large graphs. title2:Color-coding: a new method for finding simple paths, cycles and other small subgraphs within large graphs citation:55 ncitation:53 pid267183
+title1:Broadcasting with side information title2:Broadcasting with side information citation:45 ncitation:36 pid1571801
+title1:Optimal Monotone Encodings. title2:Optimal monotone encodings citation:1 ncitation:2 pid1180656
+title1:Codes And Xor Graph Products. title2:Codes and Xor graph products citation:2 ncitation:2 pid797861
+title1:Nonrepetitive colorings of graphs. title2:Nonrepetitive colorings of graphs citation:1 ncitation:65 pid861707
+title1:Balanced Families of Perfect Hash Functions and Their Applications title2:Balanced families of perfect hash functions and their applications citation:5 ncitation:11 pid865138
+title1:The Moore Bound for Irregular Graphs. title2:The Moore bound for irregular graphs citation:114 ncitation:104 pid797857
+title1:A Coding Theory Bound and Zero-Sum Square Matrices. title2:A coding theory bound and zero-sum square matrices citation:0 ncitation:-1 pid611730
+title1:On graphs with subgraphs having large independence numbers. title2:On graphs with subgraphs having large independence numbers citation:2 ncitation:2 pid1060999
+title1:The complexity of the outer face in arrangements of random segments. title2:The complexity of the outer face in arrangements of random segments citation:4 ncitation:3 pid1336529
+title1:Partitioning a rectangle into small perimeter rectangles. title2:Partitioning a rectangle into small perimeter rectangles citation:2 ncitation:1 pid609758
+title1:The star arboricity of graphs. title2:The star arboricity of graphs citation:82 ncitation:77 pid609750
+title1:Problems and results in extremal combinatorics--I. citation:119 ncitation:106 pid609742
+title1:Explicit construction of linear sized tolerant networks. title2:Explicit construction of linear sized tolerant networks citation:3 ncitation:183 pid609740
+title1:Linear Time Algorithms for Finding a Dominating Set of Fixed Size in Degenerated Graphs. title2:Linear time algorithms for finding a dominating set of fixed size in degenerated graphs citation:30 ncitation:19 pid2221208
+title1:Long Non-Crossing Configurations in the Plane. title2:Long non-crossing configurations in the plane (Draft) citation:0 ncitation:22 pid2360592
+title1:Problems and results in extremal combinatorics - II. citation:119 ncitation:106 pid886891
+title1:Bayesian ignorance. title2:Bayesian ignorance citation:5 ncitation:4 pid1609556
+title1:Solving MAX-r-SAT Above a Tight Lower Bound. title2:Solving MAX-r-SAT above a tight lower bound citation:61 ncitation:39 pid798870
+title1:Brief Announcement: Sharing Memory in a Self-stabilizing Manner. title2:Brief announcement: Sharing memory in a self-stabilizing manner citation:3 ncitation:3 pid798868
+title1:Balanced families of perfect hash functions and their applications. title2:Balanced families of perfect hash functions and their applications citation:5 ncitation:11 pid2110042
+title1:Adversarial Leakage in Games. title2:Adversarial leakage in games citation:3 ncitation:3 pid621189
+title1:Walking in circles. title2:Walking in circles citation:3 ncitation:2 pid952001
+title1:Uniformly cross intersecting families. title2:Uniformly cross intersecting families citation:4 ncitation:3 pid1403491
+title1:Typical peak sidelobe level of binary sequences. title2:Typical peak sidelobe level of binary sequences citation:4 ncitation:3 pid621210
+title1:Many Random Walks Are Faster Than One. title2:Many random walks are faster than one citation:92 ncitation:82 pid621208
+title1:Almost k-wise vs. k-wise independent permutations, and uniformity for general group actions. title2:Almost k-wise vs. k-wise independent permutations, and uniformity for general group actions citation:3 ncitation:2 pid621214
+title1:On Sunflowers and Matrix Multiplication. title2:On sunflowers and matrix multiplication citation:1 ncitation:5 pid621212
+title1:Solving MAX--SAT Above a Tight Lower Bound. title2:Solving MAX-r-SAT above a tight lower bound citation:61 ncitation:39 pid621216
+title1:MIS on the fly title2:MIS on the fly citation:1 ncitation:1 pid2375326
+title1:Testing perfection is hard title2:Testing perfection is hard citation:1 ncitation:1 pid979322
+title1:Space-efficient Local Computation Algorithms title2:Space-efficient local computation algorithms citation:5 ncitation:4 pid1710927
+title1:Sparse Balanced Partitions and the Complexity of Subgraph Problems. title2:Sparse balanced partitions and the complexity of subgraph problems citation:2 ncitation:1 pid2173312
+title1:Economical Graph Discovery. title2:Economical Graph Discovery. citation:5 ncitation:3 pid1342966
+title1:Pragmatic Self-stabilization of Atomic Memory in Message-Passing Systems. title2:Pragmatic self-stabilization of atomic memory in message-passing systems citation:4 ncitation:1 pid2373349
+title1:Local correction of juntas. title2:Local correction of juntas citation:2 ncitation:3 pid2492751
+title1:The Number of -Matchings in Almost Every Tree is a Zero Residue. title2:The number of F-matchings in almost every tree is a zero residue citation:2 ncitation:1 pid1342948
+title1:Another Abstraction of the Erdös-Szekeres Happy End Theorem. citation:0 ncitation:0 pid1340791
+title1:Nearly Complete Graphs Decomposable into Large Induced Matchings and their Applications title2:Nearly complete graphs decomposable into large induced matchings and their applications citation:2 ncitation:1 pid1421127
+title1:Space-efficient local computation algorithms. title2:Space-efficient local computation algorithms citation:5 ncitation:4 pid46488
+title1:Large Sets of Nearly Orthogonal Vectors. title2:LARGE SETS OF NEARLY ORTHOGONAL VECTORS citation:0 ncitation:10 pid827430
+title1:List coloring and Euclidean Ramsey Theory. title2:List coloring and Euclidean Ramsey Theory. citation:0 ncitation:-1 pid1908105
+title1:Dense uniform hypergraphs have high list chromatic number. title2:Dense uniform hypergraphs have high list chromatic number citation:3 ncitation:3 pid883236
+title1:Transversal numbers of uniform hypergraphs. title2:Transversal numbers of uniform hypergraphs citation:89 ncitation:67 pid798721
+title1:Packing of partial designs. title2:Packing of partial designs citation:3 ncitation:2 pid1110095
+title1:Legitimate colorings of projective planes. title2:Legitimate colorings of projective planes citation:3 ncitation:3 pid111610
+title1:Every 8-uniform 8-regular hypergraph is 2-colorable. title2:Every 8-uniform 8-regular hypergraph is 2-colorable citation:35 ncitation:22 pid853308
+title1:Almost-factors in dense graphs. title2:AlmostH-factors in dense graphs citation:43 ncitation:42 pid862047
+title1:Sub-Ramsey numbers for arithmetic progressions. title2:Sub-Ramsey numbers for arithmetic progressions citation:4 ncitation:4 pid1144613
+title1:Ramsey graphs contain many distinct induced subgraphs. title2:Ramsey graphs contain many distinct induced subgraphs citation:4 ncitation:4 pid2359742
+title1:Optimizing budget allocation among channels and influencers. title2:Optimizing budget allocation among channels and influencers citation:1 ncitation:1 pid846856
+title1:Sequential voting with externalities: herding in social networks. title2:Sequential voting with externalities: herding in social networks. citation:4 ncitation:2 pid846862
+title1:Nearly complete graphs decomposable into large induced matchings and their applications. title2:Nearly complete graphs decomposable into large induced matchings and their applications citation:2 ncitation:1 pid846860
+title1:Acyclic edge colorings of graphs. title2:Acyclic edge colorings of graphs citation:145 ncitation:137 pid2704353
+title1:A Ramsey-type problem and the Turán numbers. citation:3 ncitation:2 pid798797
+title1:Almost K-Wise vs. K-Wise Independent Permutations, and Uniformity for General Group Actions. title2:Almost k-wise vs. k-wise independent permutations, and uniformity for general group actions citation:3 ncitation:2 pid1380753
+title1:On Sunflowers and Matrix Multiplication. title2:On sunflowers and matrix multiplication citation:1 ncitation:5 pid2444202
+title1:Bayesian ignorance. title2:Bayesian ignorance citation:5 ncitation:4 pid105734
+title1:Local Correction with Constant Error Rate title2:Local correction with constant error rate citation:1 ncitation:-1 pid105735
+title1:A Note on Degenerate and Spectrally Degenerate Graphs. title2:A note on degenerate and spectrally degenerate graphs citation:2 ncitation:1 pid1702440
+title1:The de Bruijn-Erd?s theorem for hypergraphs. citation:3 ncitation:1 pid881387

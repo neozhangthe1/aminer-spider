@@ -1,0 +1,331 @@
+title:Energy Efficient Intrusion Detection in Camera Sensor Networks. citation:-1
+title:Collision detection for deforming necklaces. citation:-1
+title:Cylindrical static and kinetic binary space partitions. citation:-1
+title:Optimal Placement of Identical Resources in a Distributed Network. citation:-1
+title:Toward Unsupervised Segmentation of Semi-Rigid Low-Resolution Molecular Surfaces. citation:-1
+title:Inverse Kinematics in Biology: The Protein Loop Closure Problem. citation:-1
+title:The Floodlight Problem. citation:-1
+title:Optimal Placement and Selection of Camera Network Nodes for Target Localization. citation:-1
+title:Walking on an Arrangement Topologically. citation:-1
+title:Kinetic Data Structures: Animating Proofs Through Time. citation:-1
+title:Disconnection Proofs for Motion Planning. citation:-1
+title:Sweeping Lines and Line Segments with a Heap. citation:-1
+title:Distributed Proximity Maintenance in Ad Hoc Mobile Networks. citation:-1
+title:Spanning Trees Crossing Few Barriers. citation:-1
+title:A Practical Evaluation of Kinetic Data Structures. citation:-1
+title:Proximity Problems on Moving Points. citation:-1
+title:Walking on an arrangement topologically. citation:-1
+title:Distance-Sensitive Information Brokerage in Sensor Networks. citation:-1
+title:Composable Information Gradients in Wireless Sensor Networks. citation:-1
+title:Locating and Bypassing Routing Holes in Sensor Networks. citation:-1
+title:Penetration Depth of Two Convex Polytopes in 3D. citation:-1
+title:GLIDER: gradient landmark-based distributed routing for sensor networks. citation:-1
+title:Maintaining the Extent of a Moving Point Set. citation:-1
+title:Spanning Trees Crossing Few Barriers. citation:-1
+title:Fast Collision Detection Among Multiple Moving Spheres. citation:-1
+title:Example-Based 3D Scan Completion. citation:-1
+title:Kinetic Collision Detection Between Two Simple Polygons. citation:-1
+title:Fast Collision Detection among Multiple Moving Spheres. citation:-1
+title:Registration of Point Cloud Data from a Geometric Optimization Perspective. citation:-1
+title:Computing the visibility graphs of n line segments in O(n) time. citation:-1
+title:The Floodlight Problem. citation:-1
+title:Discovering structural regularity in 3D geometry. citation:-1
+title:On the General Motion-Planning Problem with Two Degrees of Freedom. citation:-1
+title:Lower Bounds for Kinetic Planar Subdivisions. citation:-1
+title:Computing Convolutions by Reciprocal Search. citation:-1
+title:Kinetic Connectivity for Unit Disks. citation:-1
+title:Morphing Simple Polygons. citation:-1
+title:Vertical Decomposition of Arrangements of Hyperplanes in Four Dimensions. citation:-1
+title:Guest Editor's Foreword. citation:-1
+title:An O(n²) Shortest Path Algorithm for a Non-Rotating Convex Body. citation:-1
+title:Voronoi Diagrams of Moving Points. citation:-1
+title:Geodesic Delaunay triangulation and witness complex in the plane. citation:-1
+title:Corrigendum: Topologically Sweeping an Arrangement. citation:-1
+title:Visibility-Based Pursuit-Evasion in a Polygonal Environment. citation:-1
+title:The Power of Geometric Duality citation:-1
+title:Counting and Cutting Cycles of Lines and Rods in Space citation:-1
+title:Algorithmic issues in modeling motion. citation:-1
+title:Computing Convolutions by Reciprocal Search. citation:-1
+title:Ray Shooting in Polygons Using Geodesic Triangulations. citation:-1
+title:Compact Interval Trees: A Data Structure for Convex Hulls. citation:-1
+title:Adaptively sampled particle fluids. citation:-1
+title:On the General Motion Planning Problem with Two Degrees of Freedom. citation:-1
+title:The Robot Localization Problem in Two Dimensions. citation:-1
+title:A Singly-Expenential Stratification Scheme for Real Semi-Algebraic Varieties and Its Applications. citation:-1
+title:Collision detection for deforming necklaces. citation:-1
+title:Zonotopes as bounding volumes. citation:-1
+title:An empirical comparison of techniques for updating Delaunay triangulations. citation:-1
+title:Fractional Cascading: A Data Structuring Technique with Geometric Applications. citation:-1
+title:Interval Methods for Kinetic Simulations. citation:-1
+title:Rounding Arrangements Dynamically. citation:-1
+title:Cylindrical Static and Kinetic Binary Space Partitions. citation:-1
+title:Compressed Sensing and Time-Parallel Reduced-Order Modeling for Structural Health Monitoring Using a DDDAS. citation:-1
+title:Lines in Space: Combinatorics and Algorithms. citation:-1
+title:Algorithms for Bichromatic Line-Segment Problems Polyhedral Terrains. citation:-1
+title:Fractional Cascading: II. Applications. citation:-1
+title:Lower Bounds for Kinetic Planar Subdivisions. citation:-1
+title:Ray Shooting in Polygons Using Geodesic Triangulations. citation:-1
+title:Reaching a Goal with Directional Uncertainty. citation:-1
+title:Points and Triangles in the Plane and Halving Planes in Space. citation:-1
+title:On Arrangement of Jordan Arcs with Three Intersection per Pair. citation:-1
+title:Gromov-Hausdorff Stable Signatures for Shapes using Persistence. citation:-1
+title:The Upper Envelope of Piecewise Linear Functions: Algorithms and Applications. citation:-1
+title:Reconstruction Using Witness Complexes. citation:-1
+title:Implicitly Representing Arrangements of Lines or Segments. citation:-1
+title:A Concise and Provably Informative Multi-Scale Signature Based on Heat Diffusion. citation:-1
+title:Kinetic collision detection between two simple polygons. citation:-1
+title:Scalable Dynamical Systems for Multi-Agent Steering and Simulation. citation:-1
+title:Landmark-Based Information Storage and Retrieval in Sensor Networks. citation:-1
+title:Lightweight sensing and communication protocols for target enumeration and aggregation. citation:-1
+title:Diameter, Width, Closest Line Pair, and Parametric Searching. citation:-1
+title:Slimming Down by Adding: Selecting Heavily Covered Points. citation:-1
+title:Computing the Penetration Depth of Two Convex Polytopes in 3D. citation:-1
+title:Exploring Protein Folding Trajectories Using Geometric Spanners. citation:-1
+title:A Simple and Effeicient Procedure for Polyhedral Assembly Partitioning under Infinitesimal Motions. citation:-1
+title:Towards a Dynamic Data Driven System for Structural and Material Health Monitoring. citation:-1
+title:Robust Voronoi-based curvature and feature estimation. citation:-1
+title:Meshless animation of fracturing solids. citation:-1
+title:Finding Extremal Polygons. citation:-1
+title:Learning smooth shapes by probing. citation:-1
+title:Compilation and Delayed Evaluation in APL. citation:-1
+title:A Kinetic Framework for Computational Geometry citation:-1
+title:A Dichromatic Framework for Balanced Trees citation:-1
+title:Staying in the Middle: Exact and Approximate Medians in R1 and R2 for Moving Points. citation:-1
+title:The Analysis of Hashing Algorithms that Exhibit k-ary Clustering citation:-1
+title:The Complexity of Many Cells in Arrangements of Planes and Related Problems. citation:-1
+title:A New Proof of the Linearity of the Boyer-Moore String Searching Algorithm citation:-1
+title:The Complexity and Construction of Many Faces in Arrangement of Lines and of Segments. citation:-1
+title:Persistence Barcodes for Shapes. citation:-1
+title:New Similarity Measures between Polylines with Applications to Morphing and Polygon Sweeping. citation:-1
+title:Parallel Computational Geometry (Extended Abstract) citation:-1
+title:Robust extraction of 1D skeletons from grayscale 3D images. citation:-1
+title:Visibility Queries and Maintenance in Simple Polygons. citation:-1
+title:The Power of Geometric Duality. citation:-1
+title:Arrangements of Curves in the Plane - Topology, Combinatorics and Algorithms. citation:-1
+title:A package for exact kinetic data structures and sweepline algorithms. citation:-1
+title:Constructing Strongly Convex Approximate Hulls with Inaccurate Primitives. citation:-1
+title:A probabilistic approach to inference with limited information in sensor networks. citation:-1
+title:On incremental rendering of silhouette maps of a polyhedral scene. citation:-1
+title:Solving Related Two-and Three-Dimensional Linear Programming Problems in Logarithmic Time. citation:-1
+title:Scalable nonlinear dynamical systems for agent steering and crowd simulation. citation:-1
+title:Reaching a Goal with Directional Uncertainty. citation:-1
+title:Kinetic Collision Detection: Algorithms and Experiments. citation:-1
+title:Learning smooth objects by probing. citation:-1
+title:Learning smooth objects by probing. citation:-1
+title:Efficient Inference for Distributions on Permutations. citation:-1
+title:A Principle of Independence for Binary Tree Searching citation:-1
+title:Topological Sweeping in Three Dimensions. citation:-1
+title:The Analysis of Hashing Techniques That Exhibit k-ary Clustering. citation:-1
+title:Kinetic Medians and kd-Trees. citation:-1
+title:The number of edges of many faces in a line segment arrangement. citation:-1
+title:The geometry of mobility. citation:-1
+title:Combinatorics and Algorithms of Geometric Arrangements. citation:-1
+title:The union of moving polygonal pseudodiscs - Combinatorial bounds and applications. citation:-1
+title:Approximating Polygons and Subdivisions with Minimum Link Paths. citation:-1
+title:Non-Rigid Registration Under Isometric Deformations. citation:-1
+title:Maintaining the Extent of a Moving Point Set. citation:-1
+title:Global Intrinsic Symmetries of Shapes. citation:-1
+title:An Efficient Algorithm for Finding the CSG Representation of a Simple Polygon. citation:-1
+title:Manifold Reconstruction in Arbitrary Dimensions Using Witness Complexes. citation:-1
+title:Discrete Mobile Centers. citation:-1
+title:On Vertical Decomposition of Arrangements of Hyperplanes in Four Dimensions. citation:-1
+title:Euclidean proximity and power diagrams. citation:-1
+title:The Design and Analysis of Geometric Algorithms. citation:-1
+title:Parametric and Kinetic Minimum Spanning Trees. citation:-1
+title:Reporting Red-Blue Intersections between Two Sets of Connected Line Segments. citation:-1
+title:05381 Executive Summary -- Form and Content in Sensor Networks. citation:-1
+title:Vertical Decompositions for Triangles in 3-Space. citation:-1
+title:Efficient Searching Using Partial Ordering. citation:-1
+title:Partial and approximate symmetry detection for 3D geometry. citation:-1
+title:05381 Abstracts Collection -- Form and Content in Sensor Networks. citation:-1
+title:A segment-tree based kinetic BSP. citation:-1
+title:Probabilistic Analysis of a Network Resource Allocation Algorithm citation:-1
+title:Analysis of scalar fields over point cloud data. citation:-1
+title:Fractionally cascaded information in a sensor network. citation:-1
+title:Kinetically stable task assignment for networks of microservers. citation:-1
+title:The Centroid of Points with Approximate Weights. citation:-1
+title:Improved Bounds on Weak epsilon-Nets for Convex Sets. citation:-1
+title:The Complexity of Cutting Complexes. citation:-1
+title:Iso-Contour Queries and Gradient Descent with Guaranteed Delivery in Sensor Networks. citation:-1
+title:Visibility and Intersection Problems in Plane Geometry. citation:-1
+title:Diameter, Width, Closest Line Pair, and Parametric Searching. citation:-1
+title:Emerging Challenges in Computational Topology citation:-1
+title:A dual-space approach to tracking and sensor management in wireless sensor networks. citation:-1
+title:The Complexity of Many Faces in Arrangements of Lines of Segments. citation:-1
+title:Implicitly Representing Arrangements of Lines or Segments. citation:-1
+title:Landmark Selection and Greedy Landmark-Descent Routing for Sensor Networks. citation:-1
+title:On Arrangements of Jordan Arcs with Three Intersections per Pair. citation:-1
+title:Partial Matching of Planar Polylines Under Similarity Transformations. citation:-1
+title:Epsilon Geometry: Building Robust Algorithms from Imprecise Computations. citation:-1
+title:Finding Extrema with Unary Predicates. citation:-1
+title:Reconstruction using witness complexes. citation:-1
+title:Voronoi Diagrams of Moving Points in the Plane. citation:-1
+title:Optimal Placement of Identical Resources in a Tree citation:-1
+title:Kinetic Binary Space Partitions for Intersecting Segments and Disjoint Triangles (Extended Abstract). citation:-1
+title:Fast Collision Detection Among Multiple Moving Spheres. citation:-1
+title:RoamHBA: maintaining group connectivity in sensor networks. citation:-1
+title:Proximity of persistence modules and their diagrams. citation:-1
+title:A Method for Obtaining Randomized Algorithms with Small Tail Probabilities. citation:-1
+title:An efficient algorithm for finding the CSG representation of a simple polygon. citation:-1
+title:Visibility-Polygon Search and Euclidean Shortest Paths citation:-1
+title:Guest Editor's Introduction to Special Issue on Computational Geometry. citation:-1
+title:Static and kinetic geometric spanners with applications. citation:-1
+title:Morphing between polylines. citation:-1
+title:On Computing All North-East Nearest Neighbors in the L Metric. citation:-1
+title:Visibility of Disjoint Polygons. citation:-1
+title:The Analysis of Double Hashing. citation:-1
+title:Arrangements of Curves in the Plane - Topology, Combinatorics, and Algorithms. citation:-1
+title:Mobiscopes for Human Spaces. citation:-1
+title:Optimal Shortest Path Queries in a Simple Polygon. citation:-1
+title:Sweeping simple polygons with a chain of guards. citation:-1
+title:On incremental rendering of silhouette maps of polyhedral scene. citation:-1
+title:BOXTREE: A Hierarchical Representation for Surfaces in 3D. citation:-1
+title:Counting People in Crowds with a Real-Time Network of Simple Image Sensors. citation:-1
+title:Constructing Strongly Convex Approximate Hulls with Inaccurate Primitives. citation:-1
+title:Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data. citation:-1
+title:The Earth Mover's Distance under Transformation Sets. citation:-1
+title:Object tracking in the presence of occlusions via a camera network. citation:-1
+title:Persistent voids: a new structural metric for membrane fusion. citation:-1
+title:A Visibility-Based Pursuit-Evasion Problem. citation:-1
+title:Compact interval trees: a data structure for convex hulls. citation:-1
+title:Computing a Face in an Arrangement of Line Segments. citation:-1
+title:Approximating Polygons and Subdivisions with Minimum Link Paths. citation:-1
+title:Polyhedral Assembly Partitioning Using Maximally Covered Cells in Arrangements of Convex Polytopes. citation:-1
+title:Rounding Arrangements Dynamically. citation:-1
+title:Shape Decomposition using Modal Analysis. citation:-1
+title:Towards Unsupervised Segmentation of Semi-rigid Low-Resolution Molecular Surfaces. citation:-1
+title:Deformable Free-Space Tilings for Kinetic Collision Detection. citation:-1
+title:Separation-Sensitive Collision Detection for Convex Objects citation:-1
+title:Counting and Cutting Cycles of Lines and Rods in Space. citation:-1
+title:Parallel Computational Geometry. citation:-1
+title:Efficient Collision Detection among Moving Spheres with Unknown Trajectories. citation:-1
+title:Symmetrization. citation:-1
+title:Sweeps over wireless sensor networks. citation:-1
+title:Vertical Decompositions for Triangles in 3-Space. citation:-1
+title:Shape Segmentation Using Local Slippage Analysis. citation:-1
+title:Snap Rounding Line Segments Efficiently in Two and Three Dimensions. citation:-1
+title:Separation-Sensitive Collision Detection for Convex Objects. citation:-1
+title:Robust single-view geometry and motion reconstruction. citation:-1
+title:Kinetic connectivity for unit disks. citation:-1
+title:: Hierarchical Distance Computation for Moving Convex Bodies. citation:-1
+title:Persistence Barcodes for Shapes. citation:-1
+title:A Singly Exponential Stratification Scheme for Real Semi-Algebraic Varieties and its Applications. citation:-1
+title:Morphing Simple Polygons. citation:-1
+title:Compact Voronoi Diagrams for Moving Convex Polygons. citation:-1
+title:Linear Time Algorithms for Visibility and Shortest Path Problems Inside Simple Polygons. citation:-1
+title:Optimal Shortest Path Queries in a Simple Polygon. citation:-1
+title:Fixed-Window Image Descriptors for Image Retrieval. citation:-1
+title:Geometric filtering of pairwise atomic interactions applied to the design of efficient statistical potentials. citation:-1
+title:The Identity Management Kalman Filter (IMKF). citation:-1
+title:Probabilistic fingerprints for shapes. citation:-1
+title:Visibility Queries in Simple Polygons and Applications. citation:-1
+title:Reconstruction of deforming geometry from time-varying point clouds. citation:-1
+title:Intersecting Line Segments, Ray Shooting, and Other Applications of Geometric Partitioning Techniques. citation:-1
+title:Localization of mobile users using trajectory matching. citation:-1
+title:Finding Extremal Polygons citation:-1
+title:Recovering network topology with binary sensors. citation:-1
+title:Sparse data aggregation in sensor networks. citation:-1
+title:Primitives for the Manipulation of General Subdivisions and Computation of Voronoi Diagrams. citation:-1
+title:A Language for Bitmap Manipulation. citation:-1
+title:Discrete mobile centers. citation:-1
+title:The Robot Localization Problem. citation:-1
+title:Deformable spanners and applications. citation:-1
+title:A New Proof of the Linearity of the Boyer-Moore String Searching Algorithm. citation:-1
+title:Local and Global Analysis for Point Cloud Data. citation:-1
+title:A Distributed Algorithm for Managing Multi-target Identities in Wireless Ad-hoc Sensor Networks. citation:-1
+title:Lazy inference on object identities in wireless sensor networks. citation:-1
+title:Dynamic geometry registration. citation:-1
+title:Efficient Raytracing of Deforming Point-Sampled Surfaces. citation:-1
+title:Reporting Red - Blue Intersections between Two Sets of Connected Line Segments. citation:-1
+title:A barcode shape descriptor for curve point cloud data. citation:-1
+title:A hierarchical method for real-time distance computation among moving convex bodies. citation:-1
+title:The Complexity of Cutting Convex Polytopes citation:-1
+title:The Exact Fitting Problem in Higher Dimensions. citation:-1
+title:Improved bounds on weak epsilon-nets for convex sets. citation:-1
+title:Lines in Space-Combinatorics, Algorithms and Applications citation:-1
+title:A Computational Framework for Handling Motion. citation:-1
+title:Estimating surface normals in noisy point cloud data. citation:-1
+title:Manifold reconstruction in arbitrary dimensions using witness complexes. citation:-1
+title:A New Representation for Linear Lists citation:-1
+title:The Analysis of Double Hashing (Extended Abstract) citation:-1
+title:Selecting Heavily Covered Points. citation:-1
+title:Implementing Geometric Algorithms Robustly. citation:-1
+title:Computing a Face in an Arrangement of Line Segments and Related Problems. citation:-1
+title:Deformable spanners and applications. citation:-1
+title:Adaptive Color-Image Embeddings for Database Navigation. citation:-1
+title:Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams citation:-1
+title:On Translating a Set of Rectangles citation:-1
+title:Periods in Strings. citation:-1
+title:Connected dominating sets on dynamic geometric graphs. citation:-1
+title:Intrinsic Multiscale Geometry. citation:-1
+title:Visibility and intersectin problems in plane geometry. citation:-1
+title:Kinetic stable Delaunay graphs. citation:-1
+title:Form and Content in Sensor Networks, 18.09. - 23.09.2005 citation:-1
+title:Fingerprinting Mobile User Positions in Sensor Networks. citation:-1
+title:Lightweight Coloring and Desynchronization for Networks. citation:-1
+title:Interference-Aware MAC Protocol for Wireless Networks by a Game-Theoretic Approach. citation:-1
+title:Information Processing in Sensor Networks, Second International Workshop, IPSN 2003, Palo Alto, CA, USA, April 22-23, 2003, Proceedings citation:-1
+title:Proceedings of the 6th International Conference on Information Processing in Sensor Networks, IPSN 2007, Cambridge, Massachusetts, USA, April 25-27, 2007 citation:-1
+title:Distributed resource management and matching in sensor networks. citation:-1
+title:Predictive QoS routing to mobile sinks in wireless sensor networks. citation:-1
+title:Data stashing: energy-efficient information delivery to mobile sinks through trajectory prediction. citation:-1
+title:Road Network Reconstruction for Organizing Paths. citation:-1
+title:Bounded Uncertainty Roadmaps for Path Planning. citation:-1
+title:Meshless Shape and Motion Design for Multiple Deformable Objects. citation:-1
+title:Fourier Theoretic Probabilistic Inference over Permutations. citation:-1
+title:Geodesic delaunay triangulations in bounded planar domains. citation:-1
+title:Geodesic patterns. citation:-1
+title:Image webs: Computing and exploiting connectivity in image collections. citation:-1
+title:Constructing Multi-Resolution Markov State Models (MSMs) to Elucidate RNA Hairpin Folding Mechanisms. citation:-1
+title:One Point Isometric Matching with the Heat Kernel. citation:-1
+title:On Discrete Killing Vector Fields and Patterns on Surfaces. citation:-1
+title:END: a topology-aware collection metric for sensor networks. citation:-1
+title:Persistence-based clustering in riemannian manifolds. citation:-1
+title:Witnessed k-distance. citation:-1
+title:Metric graph reconstruction from noisy data. citation:-1
+title:The Impact of Network Topology on Collection Performance. citation:-1
+title:Overcomplete Radon bases for target property management in sensor networks. citation:-1
+title:Meshless Modeling of Deformable Shapes and their Motion. citation:-1
+title:SHREC'10 Track: Feature Detection and Description. citation:-1
+title:SHREC'10 Track: Robust Shape Retrieval. citation:-1
+title:SHREC'10 Track: Correspondence Finding. citation:-1
+title:Discovery of Intrinsic Primitives on Triangle Meshes. citation:-1
+title:Witnessed k-Distance citation:-1
+title:Kinetic Stable Delaunay Graphs citation:-1
+title:Compressive Network Analysis citation:-1
+title:Exploiting Probabilistic Independence for Permutations. citation:-1
+title:Shape google: Geometric words and expressions for invariant shape retrieval. citation:-1
+title:Voronoi-Based Curvature and Feature Estimation from Point Clouds. citation:-1
+title:Exploration of continuous variability in collections of 3D shapes. citation:-1
+title:Probabilistic reasoning for assembly-based 3D modeling. citation:-1
+title:Scalar Field Analysis over Point Cloud Data. citation:-1
+title:A Condition Number for Non-Rigid Shape Matching. citation:-1
+title:An Optimization Approach to Improving Collections of Shape Maps. citation:-1
+title:As-Killing-As-Possible Vector Fields for Planar Deformation. citation:-1
+title:Fourier-Information Duality in the Identity Management Problem. citation:-1
+title:Inferring mobile trajectories using a network of binary proximity sensors. citation:-1
+title:Approximate Map Matching with respect to the Fréchet Distance. citation:-1
+title:Network warehouses: Efficient information distribution to mobile users. citation:-1
+title:Interactive analysis and simulation of VANETs using MOWINE. citation:-1
+title:Joint shape segmentation with linear programming. citation:-1
+title:Human action recognition by learning bases of action attributes and parts. citation:-1
+title:Select informative features for recognition. citation:-1
+title:Data-driven trajectory smoothing. citation:-1
+title:A Fourier-Theoretic Approach for Inferring Symmetries. citation:-1
+title:Kinetically-aware Conformational Distances in Molecular Dynamics. citation:-1
+title:Facenet: Tracking People and Acquiring Canonical Face Images in a Wireless Camera Sensor Network. citation:-1
+title:Multi-person tracking from sparse 3D trajectories in a camera sensor network. citation:-1
+title:Fingerprinting Mobile User Positions in Sensor Networks: Attacks and Countermeasures. citation:-1
+title:Detecting Network Cliques with Radon Basis Pursuit. citation:-1
+title:On fast binary addition in MDS Technologies. citation:-1
+title:Functional maps: a flexible representation of maps between shapes. citation:-1
+title:Soft Maps Between Surfaces. citation:-1
+title:Microtiles: Extracting Building Blocks from Correspondences. citation:-1
+title:Supervised Earth Mover's Distance Learning and Its Computer Vision Applications. citation:-1
+title:An optimization approach for extracting and encoding consistent maps in a shape collection. citation:-1
+title:Acquiring 3D indoor environments with variability and repetition. citation:-1
+title:Connected dominating sets on dynamic geometric graphs. citation:-1
+title:Metric Graph Reconstruction from noisy Data. citation:-1
+title:Supporting group communication among interacting agents in wireless sensor networks. citation:-1
+title:Witnessed k-Distance. citation:-1
+title:Finding an unpredictable target in a workspace with obstacles. citation:-1

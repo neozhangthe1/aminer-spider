@@ -1,0 +1,101 @@
+title1:The Complexity of Computing a Nash Equilibrium. title2:The complexity of computing a Nash equilibrium citation:555 ncitation:372 pid1341478
+title1:Flowshop scheduling with limited temporary storage. title2:Flowshop scheduling with limited temporary storage citation:219 ncitation:194 pid951249
+title1:On a network creation game. title2:On a network creation game citation:377 ncitation:346 pid543957
+title1:Inferring Tree Models for Oncogenesis from Comparative Genome Hybridization Data. title2:Inferring tree models for oncogenesis from comparative genome hybridization data citation:154 ncitation:131 pid961916
+title1:The Weighted Region Problem: Finding Shortest Paths Through a Weighted Planar Subdivision. title2:The weighted region problem: finding shortest paths through a weighted planar subdivision citation:243 ncitation:229 pid951241
+title1:Algorithmic Aspects of Protein Structure Similarity. title2:Algorithmic aspects of protein structure similarity citation:151 ncitation:148 pid210744
+title1:How Easy is Local Search? title2:How easy is local search? citation:550 ncitation:548 pid972341
+title1:On the Convergence of Query Evaluation. title2:On the convergence of query evaluation citation:9 ncitation:9 pid971330
+title1:Sharing the cost of muliticast transmissions (preliminary version). title2:Sharing the cost of muliticast transmissions (preliminary version) citation:451 ncitation:446 pid621976
+title1:A BGP-based mechanism for lowest-cost routing. title2:A BGP-based mechanism for lowest-cost routing citation:413 ncitation:397 pid543980
+title1:An Approximate Truthful Mechanism for Combinatorial Auctions with Single Parameter Agents. title2:An approximate truthful mechanism for combinatorial auctions with single parameter agents citation:203 ncitation:192 pid1168297
+title1:On the Complexity of Protein Folding. title2:On the complexity of protein folding citation:364 ncitation:343 pid961878
+title1:Shortest Paths Without a Map. title2:Shortest paths without a map citation:414 ncitation:385 pid268759
+title1:Selfish behavior and stability of the internet: a game-theoretic analysis of TCP. title2:Selfish behavior and stability of the internet:: a game-theoretic analysis of TCP citation:184 ncitation:173 pid588442
+title1:On the Analysis of Indexing Schemes. title2:On the analysis of indexing schemes citation:149 ncitation:147 pid545148
+title1:On the Complexity of Circulations. title2:On the complexity of circulations citation:15 ncitation:11 pid952619
+title1:The Euclidean Traveling Salesman Problem is NP-Complete. title2:The Euclidean travelling salesman problem is NP-complete citation:357 ncitation:315 pid1093899
+title1:Shortest Paths Without a Map. title2:Shortest paths without a map citation:414 ncitation:385 pid1093901
+title1:On Linear Characterizations of Combinatorial Optimization Problems. title2:On linear characterizations of combinatorial optimization problems citation:178 ncitation:161 pid1059731
+title1:On the Optimal Bisection of a Polygon. title2:On the optimal bisection of a polygon citation:9 ncitation:8 pid1275437
+title1:The Optimum Execution Order of Queries in Linear Storage. title2:The optimum execution order of queries in linear storage citation:12 ncitation:14 pid932239
+title1:A BGP-based mechanism for lowest-cost routing. title2:A BGP-based mechanism for lowest-cost routing citation:413 ncitation:397 pid841355
+title1:Algorithms, games, and the internet. title2:Algorithms, games, and the internet citation:1017 ncitation:990 pid622872
+title1:Elements of the Theory of Computation title2:Elements of the Theory of Computation citation:1648 ncitation:1614 pid2603
+title1:How to Learn an Unknown Environment I: The Rectilinear Case. title2:How to learn an unknown environment. I: the rectilinear case citation:150 ncitation:142 pid950143
+title1:Computing correlated equilibria in multi-player games. title2:Computing correlated equilibria in multi-player games citation:182 ncitation:150 pid622876
+title1:Why not Negation by Fixpoint? title2:Why not negation by fixpoint? citation:206 ncitation:190 pid972422
+title1:Scheduling Interval-Ordered Tasks. title2:Scheduling interval-ordered tasks citation:242 ncitation:225 pid1060156
+title1:An approximate truthful mechanism for combinatorial auctions with single parameter agents. title2:An approximate truthful mechanism for combinatorial auctions with single parameter agents citation:203 ncitation:192 pid609870
+title1:The Complexity of Facets (and Some Facets of Complexity) title2:The complexity of facets (and some facets of complexity) citation:302 ncitation:304 pid622890
+title1:The Weighted Region Problem. title2:The weighted region problem: finding shortest paths through a weighted planar subdivision citation:243 ncitation:61 pid111329
+title1:The Geometry of Grasping. title2:The geometry of grasping citation:333 ncitation:318 pid920295
+title1:The complexity of computing a Nash equilibrium. title2:The complexity of computing a Nash equilibrium citation:555 ncitation:372 pid621825
+title1:The complexity of searching a graph. title2:The complexity of searching a graph citation:336 ncitation:322 pid951151
+title1:The complexity of pure Nash equilibria. title2:The complexity of pure Nash equilibria citation:439 ncitation:415 pid621936
+title1:An Algorithm for Shortest-Path Motion in Three Dimensions. title2:An algorithm for shortest-path motion in three dimensions citation:183 ncitation:174 pid933259
+title1:A Microeconomic View of Data Mining. title2:A microeconomic view of data mining citation:180 ncitation:174 pid839521
+title1:A simple algorithm for finding frequent elements in streams and bags. title2:A simple algorithm for finding frequent elements in streams and bags citation:363 ncitation:338 pid1118457
+title1:Hamilton Paths in Grid Graphs. title2:Hamilton paths in grid graphs citation:292 ncitation:273 pid1059628
+title1:Towards an Architecture-Independent Analysis of Parallel Algorithms. title2:Towards an architecture-independent analysis of parallel algorithms citation:522 ncitation:508 pid1060160
+title1:Beyond Competitive Analysis title2:Beyond competitive analysis citation:250 ncitation:81 pid211250
+title1:Why Not Negation by Fixpoint? title2:Why not negation by fixpoint? citation:206 ncitation:190 pid545238
+title1:Worst-case Equilibria. title2:Worst-case equilibria citation:1351 ncitation:1283 pid620516
+title1:Updates of Relational Views. title2:Updates of relational views citation:154 ncitation:143 pid950029
+title1:The NP-Completeness of the bandwidth minimization problem. title2:The NP-completeness of the bandwidth minimization problem citation:336 ncitation:294 pid1221931
+title1:Symmetric Space-Bounded Computation. title2:Symmetric space-bounded computation citation:138 ncitation:129 pid1093009
+title1:Searching and Pebbling. title2:Searching and pebbling citation:264 ncitation:252 pid1092604
+title1:The Theory of Database Concurrency Control title2:The theory of database concurrency control citation:528 ncitation:517 pid490
+title1:Decision-Making by Hierarchies of Discordant Agents. title2:Decision-making by hierarchies of discordant agents citation:13 ncitation:12 pid415415
+title1:Topological Inference. title2:Topological inference citation:189 ncitation:182 pid388729
+title1:Three-Player Games Are Hard title2:Three-player games are hard citation:137 ncitation:-1 pid861655
+title1:Market Equilibrium via a Primal-Dual-Type Algorithm. title2:Market equilibrium via a primal-dual-type algorithm citation:155 ncitation:148 pid210456
+title1:Computing correlated equilibria in multi-player games. title2:Computing correlated equilibria in multi-player games citation:182 ncitation:215 pid951988
+title1:On the k-Server Conjecture. title2:On the k-server conjecture citation:242 ncitation:232 pid950924
+title1:On the Power of Locking. title2:On the power of locking citation:11 ncitation:10 pid599493
+title1:Latent Semantic Indexing: A Probabilistic Analysis. title2:Latent semantic indexing: A probabilistic analysis citation:697 ncitation:482 pid545371
+title1:Probabilistic satisfiability. title2:Probabilistic satisfiability citation:130 ncitation:127 pid960150
+title1:On Linear Characterizations of Combinatorial Optimization Problems title2:On linear characterizations of combinatorial optimization problems citation:178 ncitation:161 pid211103
+title1:The Discrete Geodesic Problem. title2:The discrete geodesic problem citation:426 ncitation:392 pid1060078
+title1:On the Complexity of Database Queries. title2:On the complexity of database queries citation:146 ncitation:76 pid545381
+title1:The complexity of computing a Nash equilibrium title2:The complexity of computing a Nash equilibrium citation:555 ncitation:138 pid861631
+title1:The Complexity of Multiterminal Cuts. title2:The complexity of multiterminal cuts citation:483 ncitation:462 pid1058998
+title1:On the Approximability of Trade-offs and Optimal Access of Web Sources. title2:On the approximability of trade-offs and optimal access of web sources citation:305 ncitation:269 pid211553
+title1:On Generating All Maximal Independent Sets. title2:On generating all maximal independent sets citation:548 ncitation:-1 pid931986
+title1:Beyond Competitive Analysis. title2:Beyond competitive analysis citation:250 ncitation:81 pid1059847
+title1:Heuristically Optimized Trade-Offs: A New Paradigm for Power Laws in the Internet. title2:Heuristically optimized trade-offs: A new paradigm for power laws in the Internet citation:345 ncitation:316 pid267923
+title1:The Complexity of Knowledge Representation. title2:The complexity of knowledge representation citation:10 ncitation:9 pid104739
+title1:Two remarks on the power of counting. title2:Two remarks on the power of counting citation:249 ncitation:227 pid627488
+title1:Inclusion Dependencies and Their Interaction with Functional Dependencies. title2:Inclusion dependencies and their interaction with functional dependencies citation:256 ncitation:237 pid544905
+title1:The Complexity of Facets Resolved title2:The complexity of facets resolved citation:194 ncitation:152 pid211551
+title1:Elements of the Theory of Computation. title2:Elements of the Theory of Computation citation:1648 ncitation:1614 pid1341946
+title1:Geographic routing without location information. title2:Geographic routing without location information citation:758 ncitation:726 pid505763
+title1:Shortest-Path Motion. title2:An algorithm for shortest-path motion in three dimensions citation:183 ncitation:6 pid219873
+title1:The complexity of computing a Nash equilibrium. title2:The complexity of computing a Nash equilibrium citation:555 ncitation:372 pid778037
+title1:On the Complexity of Database Queries. title2:On the complexity of database queries citation:146 ncitation:117 pid972770
+title1:Free-riding and whitewashing in peer-to-peer systems. title2:Free-riding and whitewashing in peer-to-peer systems citation:467 ncitation:417 pid992561
+title1:On the Complexity of the Parity Argument and Other Inefficient Proofs of Existence. title2:On the complexity of the parity argument and other inefficient proofs of existence citation:374 ncitation:344 pid972752
+title1:Latent Semantic Indexing: A Probabilistic Analysis. title2:Latent semantic indexing: A probabilistic analysis citation:697 ncitation:482 pid972754
+title1:A Note on Succinct Representations of Graphs title2:A note on succinct representations of graphs citation:141 ncitation:130 pid889091
+title1:Updates of Relational Views. title2:Updates of relational views citation:154 ncitation:143 pid544966
+title1:The Complexity of Facets Resolved. title2:The complexity of facets resolved citation:194 ncitation:152 pid972760
+title1:The Complexity of Facets (and Some Facets of Complexity). title2:The complexity of facets (and some facets of complexity) citation:302 ncitation:304 pid972762
+title1:Optimization, Approximation, and Complexity Classes. title2:Optimization, approximation, and complexity classes citation:1626 ncitation:1544 pid972764
+title1:Worst-case equilibria. title2:Worst-case equilibria citation:1351 ncitation:1283 pid1287096
+title1:On Limited Nondeterminism and the Complexity of the V-C Dimension. title2:On limited nondeterminism and the complexity of the VC dimension citation:198 ncitation:174 pid972766
+title1:On the complexity of edge traversing. title2:On the complexity of edge traversing citation:144 ncitation:123 pid951384
+title1:Algorithms, Games, and the Internet. title2:Algorithms, games, and the internet citation:1017 ncitation:990 pid268839
+title1:Inclusion Dependencies and Their Interaction with Functional Dependencies. title2:Inclusion dependencies and their interaction with functional dependencies citation:256 ncitation:237 pid971656
+title1:The serializability of concurrent database updates. title2:The serializability of concurrent database updates citation:749 ncitation:731 pid951389
+title1:A deterministic (2-2/(k+1)) algorithm for k-SAT based on local search. citation:202 ncitation:187 pid1090463
+title1:On the complexity of integer programming. title2:On the complexity of integer programming citation:214 ncitation:198 pid951383
+title1:Games Against Nature. title2:Games against nature citation:247 ncitation:241 pid972750
+title1:The Complexity of the Homotopy Method, Equilibrium Selection, and Lemke-Howson Solutions title2:The complexity of the homotopy method, equilibrium selection, and Lemke-Howson solutions citation:10 ncitation:9 pid2855537
+title1:On Learning Algorithms for Nash Equilibria. title2:On learning algorithms for nash equilibria citation:14 ncitation:9 pid2910314
+title1:A New Look at Selfish Routing. title2:A New Look at Selfish Routing. citation:14 ncitation:11 pid2913163
+title1:Computational complexity. title2:Computational complexity citation:6345 ncitation:6143 pid3001057
+title1:Turing - a novel about computation. title2:Turing: a novel about computation citation:9 ncitation:8 pid3002225
+title1:Computational complexity. title2:Computational complexity citation:6345 ncitation:6143 pid3003209
+title1:Elements of the theory of computation (2. ed.). title2:Elements of the Theory of Computation citation:1648 ncitation:1614 pid3005123
+title1:Continuous Local Search. title2:Continuous local search citation:12 ncitation:8 pid3028067
+title1:The Complexity of the Homotopy Method, Equilibrium Selection, and Lemke-Howson Solutions. title2:The complexity of the homotopy method, equilibrium selection, and Lemke-Howson solutions citation:10 ncitation:9 pid3300597

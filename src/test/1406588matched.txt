@@ -1,0 +1,150 @@
+title1:CGTA: current gain-based timing analysis for logic cells. title2:CGTA: current gain-based timing analysis for logic cells citation:0 ncitation:1 pid52751
+title1:A New Design for Double Edge Triggered Flip-flops. title2:A new design of double edge triggered flip-flops citation:104 ncitation:83 pid52758
+title1:Power-aware scheduling and dynamic voltage setting for tasks running on a hard real-time system. title2:Power-aware scheduling and dynamic voltage setting for tasks running on a hard real-time system citation:36 ncitation:33 pid52819
+title1:Power optimization and management in embedded systems. title2:Power optimization and management in embedded systems citation:64 ncitation:53 pid52857
+title1:A compressed frame buffer to reduce display power consumption in mobile systems. title2:A compressed frame buffer to reduce display power consumption in mobile systems citation:41 ncitation:35 pid52946
+title1:An interleaved dual-battery power supply for battery-operated electronics. title2:An interleaved dual-battery power supply for battery-operated electronics citation:36 ncitation:33 pid53096
+title1:An effective power mode transition technique in MTCMOS circuits. title2:An effective power mode transition technique in MTCMOS circuits citation:43 ncitation:38 pid131222
+title1:A new canonical form for fast boolean matching in logic synthesis and verification. title2:A new canonical form for fast Boolean matching in logic synthesis and verification citation:42 ncitation:37 pid131224
+title1:Analysis of Non-Uniform Temperature-Dependent Interconnect Performance in High Performance ICs. title2:Analysis of non-uniform temperature-dependent interconnect performance in high performance ICs citation:48 ncitation:43 pid131315
+title1:Register Allocation and Binding for Low Power. title2:Register allocation and binding for low power citation:191 ncitation:191 pid131681
+title1:A Near Optimal Algorithm for Technology Mapping Minimizing Area under Delay Constraints. title2:A near optimal algorithm for technology mapping minimizing area under delay constraints citation:94 ncitation:91 pid131694
+title1:Off-chip latency-driven dynamic voltage and frequency scaling for an MPEG decoding. title2:Off-chip latency-driven dynamic voltage and frequency scaling for an MPEG decoding citation:50 ncitation:47 pid131784
+title1:Energy-aware MPEG-4 FGS streaming. title2:Energy-aware MPEG-4 FGS streaming citation:27 ncitation:27 pid131818
+title1:Statistical logic cell delay analysis using a current-based model. title2:Statistical logic cell delay analysis using a current-based model citation:52 ncitation:46 pid132077
+title1:Profile-Driven Program Synthesis for Evaluation of System Power Dissipation. title2:Profile-driven program synthesis for evaluation of system power dissipation citation:40 ncitation:39 pid132417
+title1:Logic Extraction and Factorization for Low Power. title2:Logic extraction and factorization for low power citation:43 ncitation:41 pid132477
+title1:POSE: Power Optimization and Synthesis Environment. title2:POSE: Power optimization and synthesis environment citation:45 ncitation:45 pid132478
+title1:BDD Based Decomposition of Logic Functions with Application to FPGA Synthesis. title2:BDD based decomposition of logic functions with application to FPGA synthesis citation:150 ncitation:149 pid132849
+title1:High-Level Power Modeling, Estimation, and Optimization. title2:High-level power modeling, estimation, and optimization citation:294 ncitation:292 pid133040
+title1:Multi-Pad Power/Ground Network Design for Uniform Distribution of Ground Bounce. title2:Multi-pad power/ground network design for uniform distribution of ground bounce citation:37 ncitation:36 pid133101
+title1:Timing-driven placement based on partitioning with dynamic cut-net control. title2:Timing-driven placement based on partitioning with dynamic cut-net control citation:60 ncitation:58 pid133109
+title1:Efficient Power Estimation for Highly Correlated Input Streams. title2:Efficient power estimation for highly correlated input streams citation:111 ncitation:112 pid133122
+title1:Stochastic Sequential Machine Synthesis Targeting Constrained Sequence Generation. title2:Stochastic sequential machine synthesis targeting constrained sequence generation citation:38 ncitation:40 pid133123
+title1:Hierarchical Sequence Compaction for Power Estimation. title2:Hierarchical sequence compaction for power estimation citation:28 ncitation:26 pid133125
+title1:Constructing Lower and Upper Bounded Delay Routing Trees Using Linear Programming. title2:Constructing lower and upper bounded delay routing trees using linear programming citation:51 ncitation:50 pid133400
+title1:Charge recycling in MTCMOS circuits: concept and analysis. title2:Charge recycling in MTCMOS circuits: concept and analysis citation:27 ncitation:28 pid133440
+title1:Layout Driven Technology Mapping. title2:Layout driven technology mapping citation:127 ncitation:118 pid133491
+title1:Design Considerations for Battery-Powered Electronics. title2:Design considerations for battery-powered electronics citation:140 ncitation:137 pid133494
+title1:Dynamic Power Management Based on Continuous-Time Markov Decision Processes. title2:Dynamic power management based on continuous-time Markov decision processes citation:253 ncitation:250 pid133628
+title1:Dynamic power management of complex systems using generalized stochastic Petri nets. title2:Dynamic power management of complex systems using generalized stochastic Petri nets citation:85 ncitation:83 pid133630
+title1:Dynamic Power Management in a Mobile Multimedia System with Guaranteed Quality-of-Service. title2:Dynamic power management in a mobile multimedia system with guaranteed quality-of-service citation:57 ncitation:55 pid133632
+title1:Extending the lifetime of a network of battery-powered mobile devices by remote processing: a markovian decision-based approach. title2:Extending the lifetime of a network of battery-powered mobile devices by remote processing: a markovian decision-based approach citation:58 ncitation:50 pid133662
+title1:A DSM Design Flow: Putting Floorplanning, Technology-Napping, and Gate-Placement Together. title2:A DSM design flow: putting floorplanning, technology-mapping, and gate-placement together citation:25 ncitation:25 pid133756
+title1:Improving the Efficiency of Power Simulators by Input Vector Compaction. title2:Improving the efficiency of power simulators by input vector compaction citation:38 ncitation:39 pid134123
+title1:Technology Decomposition and Mapping Targeting Low Power Dissipation. title2:Technology decomposition and mapping targeting low power dissipation citation:187 ncitation:186 pid134124
+title1:Exact and Approximate Methods for Calculating Signal and Transition Probabilities in FSMs. title2:Exact and approximate methods for calculating signal and transition probabilities in FSMs citation:102 ncitation:102 pid134125
+title1:Routability-Driven Fanout Optimization. title2:Routability-driven fanout optimization citation:47 ncitation:48 pid134138
+title1:Minimizing the Routing Cost During Logic Extraction. title2:Minimizing the routing cost during logic extraction citation:30 ncitation:28 pid134139
+title1:Reducing the sub-threshold and gate-tunneling leakage of SRAM cells using Dual-Vt and Dual-Tox assignment. title2:Reducing the sub-threshold and gate-tunneling leakage of SRAM cells using dual-Vt and dual-Tox assignment citation:40 ncitation:36 pid141429
+title1:Fine-Grained Dynamic Voltage and Frequency Scaling for Precise Energy and Performance Trade-Off Based on the Ratio of Off-Chip Access to On-Chip Computation Times. title2:Fine-grained dynamic voltage and frequency scaling for precise energy and performance tradeoff based on the ratio of off-chip access to on-chip computation times citation:185 ncitation:95 pid141655
+title1:Codex-dp: Co-design of Communicating Systems Using Dynamic Programming. title2:Codex-dp: co-design of communicating systems using dynamic programming citation:48 ncitation:47 pid141673
+title1:Power Minimization in a Backlit TFT-LCD Display by Concurrent Brightness and Contrast Scaling. title2:Power minimization in a backlit TFT-LCD display by concurrent brightness and contrast scaling citation:167 ncitation:158 pid141724
+title1:Chromatic Encoding: A Low Power Encoding Technique for Digital Visual Interface. title2:Chromatic encoding: a low power encoding technique for digital visual interface citation:30 ncitation:30 pid141728
+title1:A Game Theoretic Approach to Low Energy Wireless Video Streaming. title2:A game theoretic approach to low energy wireless video streaming citation:0 ncitation:0 pid142138
+title1:HEBS: Histogram Equalization for Backlight Scaling. title2:HEBS: Histogram equalization for backlight scaling citation:79 ncitation:66 pid142139
+title1:Low-power design tools: are EDA vendors taking this matter seriously? title2:Low-power design tools: are EDA vendors taking this matter seriously? citation:0 ncitation:0 pid142445
+title1:STAX: statistical crosstalk target set compaction. title2:STAX: statistical crosstalk target set compaction citation:0 ncitation:1 pid142617
+title1:Battery-Powered Digital CMOS Design. title2:Battery-powered digital CMOS design citation:65 ncitation:62 pid142743
+title1:Concurrent and Selective Logic Extraction with Timing Consideration. title2:Concurrent and selective logic extraction with timing consideration citation:0 ncitation:0 pid142866
+title1:An Analytical Model for Predicting the Remaining Battery Capacity of Lithium-Ion Batteries. title2:An analytical model for predicting the remaining battery capacity of lithium-ion batteries citation:153 ncitation:117 pid142893
+title1:An Empirical Investigation of Mesh and Torus NoC Topologies Under Different Routing Algorithms and Traffic Models. title2:An empirical investigation of mesh and torus NoC topologies under different routing algorithms and traffic models citation:47 ncitation:40 pid161287
+title1:Green computing: reducing energy cost and carbon footprint of information processing systems. title2:Green computing: reducing energy cost and carbon footprint of information processing systems citation:0 ncitation:0 pid234608
+title1:Analysis of Substrate Thermal Gradient Effects on Optimal Buffer Insertion. title2:Analysis of substrate thermal gradient effects on optimal buffer insertion citation:30 ncitation:28 pid281666
+title1:Frame-based dynamic voltage and frequency scaling for a MPEG decoder. title2:Frame-based dynamic voltage and frequency scaling for a MPEG decoder citation:138 ncitation:132 pid281933
+title1:Dynamic voltage and frequency scaling under a precise energy model considering variable and fixed components of the system power dissipation. title2:Dynamic voltage and frequency scaling under a precise energy model considering variable and fixed components of the system power dissipation citation:42 ncitation:35 pid281938
+title1:Stratified random sampling for power estimation. title2:Stratified random sampling for power estimation citation:71 ncitation:70 pid282065
+title1:Model Reduction of Variable-Geometry Interconnects using Variational Spectrally-Weighted Balanced Truncation. title2:Model reduction of variable-geometry interconnects using variational spectrally-weighted balanced truncation citation:49 ncitation:52 pid282277
+title1:Statistical sampling and regression analysis for RT-level power evaluation. title2:Statistical sampling and regression analysis for RT-level power evaluation citation:32 ncitation:32 pid282307
+title1:Multi-level network optimization for low power. title2:Multi-level network optimization for low power citation:73 ncitation:66 pid282364
+title1:FGILP: an integer linear program solver based on function graphs. title2:FGILP: an integer linear program solver based on function graphs citation:31 ncitation:30 pid282577
+title1:Concurrent logic restructuring and placement for timing closure. title2:Concurrent logic restructuring and placement for timing closure citation:28 ncitation:30 pid282711
+title1:An exact solution to simultaneous technology mapping and linear placement problem. title2:An exact solution to simultaneous technology mapping and linear placement problem citation:39 ncitation:40 pid282712
+title1:Switching activity analysis considering spatiotemporal correlations. title2:Switching activity analysis considering spatiotemporal correlations citation:135 ncitation:133 pid282783
+title1:Layout Driven Logic Restructuring/Decomposition. title2:Layout driven logic restructuring/decomposition citation:71 ncitation:67 pid282944
+title1:Floorplanning with Pin Assignment. title2:Floorplanning with pin assignment citation:28 ncitation:26 pid282945
+title1:Battery-aware power management based on Markovian decision processes. title2:Battery-aware power management based on Markovian decision processes citation:27 ncitation:26 pid283036
+title1:Low power state assignment targeting two-and multi-level logic implementations. title2:Low-power state assignment targeting two-and multilevel logic implementations citation:136 ncitation:138 pid283243
+title1:Efficient estimation of dynamic power consumption under a real delay model. title2:Efficient estimation of dynamic power consumption under a real delay model citation:150 ncitation:150 pid283245
+title1:Analysis and Optimization of Ground Bounce in Digital CMOS Circuits. title2:Analysis and Optimization of Power/Ground Bounce in Digital CMOS Circuits citation:0 ncitation:15 pid286126
+title1:FPGA Synthesis Using Function Decomposition. title2:FPGA synthesis using function decomposition citation:26 ncitation:25 pid286325
+title1:Boolean Matching Using Binary Decision Diagrams with Applications to Logic Synthesis and Verification. title2:Boolean matching using binary decision diagrams with applications to logic synthesis and verification citation:51 ncitation:54 pid286327
+title1:QoM and lifetime-constrained random deployment of sensor networks for minimum energy consumption. title2:QoM and lifetime-constrained random deployment of sensor networks for minimum energy consumption citation:35 ncitation:36 pid412872
+title1:Runtime mechanisms for leakage current reduction in CMOS VLSI circuits. title2:Runtime mechanisms for leakage current reduction in CMOS VLSI circuits 1, 2 citation:71 ncitation:62 pid436503
+title1:Irredundant address bus encoding for low power. title2:Irredundant address bus encoding for low power citation:70 ncitation:66 pid436526
+title1:Energy minimization using multiple supply voltages. title2:Energy minimization using multiple supply voltages citation:344 ncitation:308 pid436588
+title1:Dynamic voltage and frequency scaling based on workload decomposition. title2:Dynamic voltage and frequency scaling based on workload decomposition citation:138 ncitation:119 pid436648
+title1:Energy efficient strategies for deployment of a two-level wireless sensor network. title2:Energy efficient strategies for deployment of a two-level wireless sensor network citation:44 ncitation:35 pid436800
+title1:Power-aware source routing protocol for mobile ad hoc networks. title2:Power-aware source routing protocol for mobile ad hoc networks citation:221 ncitation:205 pid436931
+title1:Information theoretic measures of energy consumption at register transfer level. title2:Information theoretic measures of energy consumption at register transfer level citation:86 ncitation:86 pid436944
+title1:Theoretical bounds for switching activity analysis in finite-state machines. title2:Theoretical bounds for switching activity analysis in finite-state machines citation:24 ncitation:22 pid436946
+title1:Non-stationary effects in trace-driven power analysis. title2:Non-stationary effects in trace-driven power analysis citation:0 ncitation:-1 pid436947
+title1:Stochastic modeling of a power-managed system: construction and optimization. title2:Stochastic modeling of a power-managed system-construction and optimization citation:137 ncitation:77 pid437061
+title1:Cycle-accurate macro-models for RT-level power analysis. title2:Cycle-accurate macro-models for RT-level power analysis citation:107 ncitation:108 pid437062
+title1:Hierarchical power management with application to scheduling. title2:Hierarchical power management with application to scheduling citation:24 ncitation:21 pid437085
+title1:Optimizing the Energy-Delay-Ringing Product in On-Chip CMOS Line Drivers. title2:Optimizing the energy-delay-ringing product in on-chip CMOS line drivers citation:0 ncitation:0 pid447734
+title1:Memory Bus Encoding for Low Power: A Tutorial. title2:Memory bus encoding for low power: a tutorial citation:35 ncitation:34 pid447844
+title1:Architectures for Silicon Nanoelectronics and Beyond. title2:Architectures for silicon nanoelectronics and beyond citation:61 ncitation:55 pid809046
+title1:HEBS: Histogram Equalization for Backlight Scaling title2:HEBS: Histogram equalization for backlight scaling citation:79 ncitation:66 pid824079
+title1:A Backlight Power Management Framework for Battery-Operated Multimedia Systems. title2:A backlight power management framework for battery-operated multimedia systems citation:64 ncitation:57 pid858503
+title1:Factored Edge-Valued Binary Decision Diagrams. title2:Factored edge-valued binary decision diagrams citation:32 ncitation:27 pid879024
+title1:Standby and Active Leakage Current Control and Minimization in CMOS VLSI Circuits. title2:Standby and active leakage current control and minimization in CMOS VLSI circuits citation:160 ncitation:147 pid899970
+title1:Formal Verification Using Edge-Valued Binary Decision Diagrams. title2:Formal verification using edge-valued binary decision diagrams citation:25 ncitation:22 pid1080310
+title1:Modeling and analysis of nonuniform substrate temperature effects on global ULSI interconnects. title2:Modeling and analysis of nonuniform substrate temperature effects on global ULSI interconnects citation:181 ncitation:171 pid1083353
+title1:Codex-dp: co-design of communicating systems using dynamicprogramming. title2:Codex-dp: co-design of communicating systems using dynamic programming citation:48 ncitation:47 pid1083714
+title1:Computing the area versus delay trade-off curves in technology mapping. title2:Computing the area versus delay trade-off curves in technology mapping citation:37 ncitation:35 pid1083731
+title1:Simultaneous gate sizing and placement. title2:Simultaneous gate sizing and placement citation:35 ncitation:33 pid1083755
+title1:Fine-grained dynamic voltage and frequency scaling for precise energy and performance tradeoff based on the ratio of off-chip access to on-chip computation times. title2:Fine-grained dynamic voltage and frequency scaling for precise energy and performance tradeoff based on the ratio of off-chip access to on-chip computation times citation:185 ncitation:95 pid1083834
+title1:Gate-level power estimation using tagged probabilistic simulation. title2:Gate-level power estimation using tagged probabilistic simulation citation:64 ncitation:61 pid1084044
+title1:Stratified random sampling for power estimation. title2:Stratified random sampling for power estimation citation:71 ncitation:70 pid1084045
+title1:Capacitive coupling noise in high-speed VLSI circuits. title2:Capacitive coupling noise in high-speed VLSI circuits citation:51 ncitation:49 pid1084383
+title1:Architectural energy optimization by bus splitting. title2:Architectural energy optimization by bus splitting citation:92 ncitation:88 pid1084440
+title1:Microprocessor power estimation using profile-driven program synthesis. title2:Microprocessor power estimation using profile-driven program synthesis citation:56 ncitation:50 pid1084441
+title1:An approach for multilevel logic optimization targeting low power. title2:An approach for multilevel logic optimization targeting low power citation:27 ncitation:25 pid1084501
+title1:OBDD-based function decomposition: algorithms and implementation. title2:OBDD-based function decomposition: Algorithms and implementation citation:80 ncitation:72 pid1084721
+title1:EVBDD-based algorithms for integer linear programming, spectral transformation, and function decomposition. title2:EVBDD-based algorithms for integer linear programming, spectral transformation, and function decomposition citation:124 ncitation:125 pid1084723
+title1:High-level power modeling, estimation, and optimization. title2:High-level power modeling, estimation, and optimization citation:294 ncitation:292 pid1085043
+title1:Information theoretic measures for power analysis [logic design]. title2:Information theoretic measures for power analysis [logic design] citation:122 ncitation:120 pid1085142
+title1:Probabilistic modeling of dependencies during switching activity analysis. title2:Probabilistic modeling of dependencies during switching activity analysis citation:74 ncitation:74 pid1085145
+title1:Sequence compaction for power estimation: theory and practice. title2:Sequence compaction for power estimation: Theory and practice citation:38 ncitation:38 pid1085148
+title1:Gated clock routing for low-power microprocessor design. title2:Gated clock routing for low-power microprocessor design citation:86 ncitation:80 pid1085150
+title1:Design and analysis of segmented routing channels for row-based FPGA's. title2:Design and analysis of segmented routing channels for row-based FPGA's citation:29 ncitation:30 pid1085340
+title1:Stochastic modeling of a power-managed system-construction andoptimization. title2:Stochastic modeling of a power-managed system-construction and optimization citation:137 ncitation:77 pid1085460
+title1:Battery-aware power management based on Markovian decision processes. title2:Battery-aware power management based on Markovian decision processes citation:27 ncitation:26 pid1085651
+title1:Power efficient technology decomposition and mapping under an extended power consumption model. title2:Power efficient technology decomposition and mapping under an extended power consumption model citation:67 ncitation:69 pid1086074
+title1:Low-power state assignment targeting two- and multilevel logic implementations. title2:Low-power state assignment targeting two-and multilevel logic implementations citation:136 ncitation:138 pid1086075
+title1:Estimation of peak power dissipation in VLSI circuits using thelimiting distributions of extreme order statistics. title2:Estimation of peak power dissipation in VLSI circuits using the limiting distributions of extreme order statistics citation:27 ncitation:25 pid1086283
+title1:Cycle-Based Decomposition of Markov Chains With Applications to Low-Power Synthesis and Sequence Compaction for Finite State Machines. title2:Cycle-Based Decomposition of Markov Chains With Applications to Low-Power Synthesis and Sequence Compaction for Finite State Machines citation:0 ncitation:1 pid1086464
+title1:Power minimization in IC design: principles and applications. title2:Power minimization in IC design: principles and applications citation:522 ncitation:518 pid1117941
+title1:Introduction to special issue on demonstrable software systems and hardware platforms. title2:Introduction to special issue on demonstrable software systems and hardware platforms citation:0 ncitation:-1 pid1118047
+title1:Leakage current reduction in CMOS VLSI circuits by input vector control. title2:Leakage current reduction in CMOS VLSI circuits by input vector control citation:195 ncitation:189 pid1134341
+title1:An Analytical Model for Predicting the Remaining Battery Capacity of Lithium-Ion Batteries. title2:An analytical model for predicting the remaining battery capacity of lithium-ion batteries citation:153 ncitation:117 pid1134557
+title1:HVS-Aware Dynamic Backlight Scaling in TFT-LCDs. title2:HVS-aware dynamic backlight scaling in TFT-LCDs citation:43 ncitation:40 pid1134646
+title1:A Robust Power Gating Structure and Power Mode Transition Strategy for MTCMOS Design. title2:A robust power gating structure and power mode transition strategy for MTCMOS design citation:33 ncitation:33 pid1134886
+title1:Power estimation methods for sequential logic circuits. title2:Power estimation methods for sequential logic circuits citation:129 ncitation:127 pid1135018
+title1:Energy minimization using multiple supply voltages. title2:Energy minimization using multiple supply voltages citation:344 ncitation:308 pid1135125
+title1:Cycle-accurate macro-models for RT-level power analysis. title2:Cycle-accurate macro-models for RT-level power analysis citation:107 ncitation:108 pid1135232
+title1:Theoretical bounds for switching activity analysis in finite-state machines. title2:Theoretical bounds for switching activity analysis in finite-state machines citation:24 ncitation:22 pid1135359
+title1:Power-optimal encoding for a DRAM address bus. title2:Power-optimal encoding for a DRAM address bus citation:46 ncitation:41 pid1135466
+title1:Battery-powered digital CMOS design. title2:Battery-powered digital CMOS design citation:65 ncitation:62 pid1135486
+title1:Ground bounce in digital VLSI circuits. title2:Ground bounce in digital VLSI circuits citation:90 ncitation:83 pid1135596
+title1:Leakage Minimization of SRAM Cells in a Dual-Vt and Dual-Tox Technology. title2:Leakage minimization of SRAM cells in a dual-Vt and dual-Tox technology citation:36 ncitation:24 pid1135814
+title1:Energy-Aware MPEG-4 FGS Streaming. title2:Energy-aware MPEG-4 FGS streaming citation:27 ncitation:27 pid1165013
+title1:Minimizing data center cooling and server power costs. title2:Minimizing data center cooling and server power costs citation:70 ncitation:45 pid1250828
+title1:Temperature-aware dynamic resource provisioning in a power-optimized datacenter. title2:Temperature-aware dynamic resource provisioning in a power-optimized datacenter citation:29 ncitation:24 pid1418902
+title1:Maximum power transfer tracking for a photovoltaic-supercapacitor energy system. title2:Maximum power transfer tracking for a photovoltaic-supercapacitor energy system citation:32 ncitation:19 pid1552267
+title1:Hybrid electrical energy storage systems. title2:Hybrid electrical energy storage systems citation:38 ncitation:21 pid1569502
+title1:Accurate modeling and calculation of delay and energy overheads of dynamic voltage scaling in modern high-performance microprocessors. title2:Accurate modeling and calculation of delay and energy overheads of dynamic voltage scaling in modern high-performance microprocessors citation:36 ncitation:21 pid1586860
+title1:A Novel Synthetic Traffic Pattern for Power/Performance Analysis of Network-on-Chips Using Negative Exponential Distribution. title2:NED: a novel synthetic traffic pattern for power/performance analysis of network-on-chips using negative exponential distribution citation:28 ncitation:20 pid2151748
+title1:Design and Analysis of Two Low-Power SRAM Cell Structures. title2:Design and analysis of two low-power SRAM cell structures citation:35 ncitation:33 pid2228548
+title1:Analysis and optimization of sequential circuit element to combat single-event timing upsets. title2:Analysis and optimization of sequential circuit element to combat single-event timing upsets citation:0 ncitation:0 pid2312553
+title1:Variation aware dynamic power management for chip multiprocessor architectures. title2:Variation aware dynamic power management for chip multiprocessor architectures citation:0 ncitation:0 pid2802698
+title1:Multi-dimensional SLA-Based Resource Allocation for Multi-tier Cloud Computing Systems. title2:Multi-dimensional sla-based resource allocation for multi-tier cloud computing systems citation:33 ncitation:14 pid2803261
+title1:Probability calculation of read failures in nano-scaled SRAM cells under process variations. title2:Probability calculation of read failures in nano-scaled SRAM cells under process variations citation:0 ncitation:0 pid3072589
+title1:Calculating the effective capacitance for the RC interconnect in VDSM technologies. title2:Calculating the effective capacitance for the RC interconnect in VDSM technologies citation:26 ncitation:22 pid3184524
+title1:Portfolio Theory-Based Resource Assignment in a Cloud Computing System. title2:Portfolio Theory-Based Resource Assignment in a Cloud Computing System citation:1 ncitation:0 pid3198699
+title1:Lifetime prediction routing in mobile ad hoc networks. title2:Lifetime prediction routing in mobile ad hoc networks citation:119 ncitation:104 pid3219044
+title1:Lifetime-aware multicast routing in wireless ad hoc networks. title2:Lifetime-aware multicast routing in wireless ad hoc networks citation:29 ncitation:27 pid3219090
+title1:Online fault detection and tolerance for photovoltaic energy harvesting systems. title2:Online fault detection and tolerance for photovoltaic energy harvesting systems citation:1 ncitation:0 pid3219183
+title1:Reinforcement learning based dynamic power management with a hybrid power supply. title2:Reinforcement learning based dynamic power management with a hybrid power supply citation:1 ncitation:0 pid3241155
+title1:Robust optimization of a Chip Multiprocessor's performance under power and thermal constraints. title2:Robust optimization of a Chip Multiprocessor's performance under power and thermal constraints citation:2 ncitation:0 pid3262908

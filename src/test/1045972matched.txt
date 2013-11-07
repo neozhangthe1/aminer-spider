@@ -1,0 +1,553 @@
+title1:On the Forward and Backward Secrecy of HLL Group Key Exchange Mechanism. title2:On the forward and backward secrecy of HLL group key exchange mechanism citation:2 ncitation:2 pid8250
+title1:A Novel Information Hiding Scheme Based on BTC. title2:A novel information hiding scheme based on BTC citation:21 ncitation:19 pid8370
+title1:Steganography Using JPEG-Compressed Images. title2:Steganography using JPEG-compressed images citation:28 ncitation:24 pid8466
+title1:A dynamic secret sharing scheme with cheater detection. title2:A dynamic secret sharing scheme with cheater detection citation:8 ncitation:10 pid19096
+title1:A group-oriented (t, n) undeniable signature scheme without trusted center. title2:A group-oriented (t, n) undeniable signature scheme without trusted center citation:14 ncitation:13 pid19185
+title1:Yet Another Attack on a QR-based Password Authentication System. title2:Yet another attack on a QR-based password authentication system citation:2 ncitation:2 pid35003
+title1:Enhanced Anonymous Auction Protocols with Freewheeling Bids. title2:Enhanced anonymous auction protocols with freewheeling bids citation:18 ncitation:14 pid35007
+title1:Lossless Image Compression Based on Two-Way Smaller Difference. title2:Lossless image compression based on two-way smaller difference citation:3 ncitation:3 pid35009
+title1:A DCT-Domain System for Hiding Fractal Compressed Images. title2:A DCT-domain system for hiding fractal compressed images citation:16 ncitation:14 pid35011
+title1:A secure improvement on the user-friendly remote authentication scheme with no time concurrency mech. title2:A secure improvement on the user-friendly remote authentication scheme with no time concurrency mechanism citation:9 ncitation:9 pid35013
+title1:A New Scheme to Protect Confidential Images. title2:A new scheme to protect confidential images citation:2 ncitation:-1 pid35017
+title1:An Efficient Multi-Server Password Authenticated Key Agreement Scheme Using Smart Cards with Access Control. title2:An efficient multi-server password authenticated key agreement scheme using smart cards with access control citation:34 ncitation:30 pid35028
+title1:Fast Algorithms for Common-Multiplicand Multiplication and Exponentiation by Performing Complements. title2:Fast algorithms for common-multiplicand multiplication and exponentiation by performing complements citation:22 ncitation:21 pid35032
+title1:Bandwidth Efficiency of an Image Compression Method for Information Hiding. title2:Bandwidth efficiency of an image compression method for information hiding citation:1 ncitation:1 pid35034
+title1:Secret Sharing with Access Structures in a Hierarchy. title2:Secret sharing with access structures in a hierarchy citation:19 ncitation:18 pid35036
+title1:A Dynamic Mechanism for Determining Relationships in a Partially Ordered User Hierarchy. title2:A dynamic mechanism for determining relationships in a partially ordered user hierarchy citation:3 ncitation:2 pid35045
+title1:A Key Assignment Scheme for Controlling Access in Partially Ordered User Hierarchies. title2:A key assignment scheme for controlling access in partially ordered user hierarchies citation:26 ncitation:23 pid35047
+title1:A Reversible Data Hiding Scheme with Modified Side Match Vector Quantization. title2:A reversible data hiding scheme with modified side match vector quantization citation:55 ncitation:49 pid35057
+title1:Spatial Video Retrieval Based on the Piecewise Method. title2:Spatial video retrieval based on the piecewise method citation:0 ncitation:1 pid35123
+title1:A Lossless Medical Image Compression Scheme Using Modified S-Tree Structure. title2:A lossless medical image compression scheme using modified S-tree structure citation:3 ncitation:2 pid35125
+title1:A New Design for Efficient t-out-n Oblivious Transfer Scheme. title2:A new design for efficient t-out-n oblivious transfer scheme citation:12 ncitation:11 pid35325
+title1:Authenticated Encryption Schemes with Message Linkage for Threshold Signatures. title2:Authenticated encryption schemes with message linkage for threshold signatures citation:1 ncitation:1 pid35347
+title1:Enhancing the Efficiency of (v, r, n)-Fairness Secret Sharing Scheme. title2:Enhancing the efficiency of (v, r, n)-fairness secret sharing scheme citation:10 ncitation:10 pid35383
+title1:A Simple Forward Secure Blind Signature Scheme Based on Master Keys and Blind Signatures. title2:A simple forward secure blind signature scheme based on master keys and blind signatures citation:9 ncitation:8 pid35455
+title1:An Improved Low Computation Cost User Authentication Scheme for Mobile Communication. title2:An improved low computation cost user authentication scheme for mobile communication citation:31 ncitation:31 pid35479
+title1:Using IC Cards to Remotely Login Passwords without Verification Tables. title2:Using IC cards to remotely login passwords without verification tables citation:11 ncitation:11 pid35813
+title1:Signature Schemes Based on Two Hard Problems Simultaneously. title2:Signature schemes based on two hard problems simultaneously citation:12 ncitation:9 pid35845
+title1:A Color-Based Image Retrieval Method Using Color Distribution and Common Bitmap. title2:A color-based image retrieval method using color distribution and common bitmap citation:1 ncitation:1 pid37851
+title1:A Fast Algorithm for Mining Share-Frequent Itemsets. title2:A fast algorithm for mining share-frequent itemsets citation:27 ncitation:23 pid48304
+title1:An Efficient Fragile Watermarking for Web Pages Tamper-Proof. title2:An efficient fragile watermarking for web pages tamper-proof citation:13 ncitation:11 pid48638
+title1:The Design of a Conference Key Distribution System. title2:The design of a conference key distribution system citation:28 ncitation:28 pid50818
+title1:An Efficient Fault-Tolerant Digital Signature Scheme Based on the Discrete Logarithm Problem. title2:An efficient fault-tolerant digital signature scheme based on the discrete logarithm problem citation:3 ncitation:2 pid57759
+title1:A New FP-Tree Algorithm for Mining Frequent Itemsets. title2:A new FP-tree algorithm for mining frequent itemsets citation:16 ncitation:16 pid61570
+title1:A Prediction Scheme for Image Vector Quantization Based on Mining Association Rules. title2:A prediction scheme for image vector quantization based on mining association rules citation:2 ncitation:2 pid61575
+title1:A LSB Substitution Oriented Image Hiding Strategy Using Genetic Algorithms. title2:A LSB substitution oriented image hiding strategy using genetic algorithms citation:5 ncitation:5 pid61593
+title1:Image Copy Detection with Rotating Tolerance. title2:Novel image copy detection with rotating tolerance citation:25 ncitation:9 pid97251
+title1:Connected Proper Interval Graphs and the Guard Problem in Spiral Polygons. title2:Connected proper interval graphs and the guard problem in spiral polygons citation:1 ncitation:-1 pid104940
+title1:Concealing a Secret Image Using the Breadth First Traversal Linear Quadtree Structure. title2:Concealing a secret image using the breadth first traversal linear quadtree structure citation:23 ncitation:22 pid105839
+title1:Detecting Dealer Cheating in Secret Sharing Systems. title2:Detecting dealer cheating in secret sharing systems citation:6 ncitation:7 pid111912
+title1:A Proof of Copyright Ownership Using Moment-Preserving. title2:A proof of copyright ownership using moment-preserving citation:5 ncitation:7 pid111926
+title1:Optimal Linear Hashing Files for Orthogonal Range Retrieval. title2:Optimal linear hashing files for orthogonal range retrieval citation:1 ncitation:0 pid111976
+title1:Security Enhancement for the "Simple Authentication Key Agreement Algorithm". citation:26 ncitation:23 pid112359
+title1:Some Active Attacks on Fast Server-Aided Secret Computation Protocols for Modular Exponentiation. title2:Some active attacks on fast server-aided secret computation protocols for modular exponentiation citation:4 ncitation:6 pid118106
+title1:An efficient deniable authentication protocol. title2:An efficient deniable authentication protocol citation:2 ncitation:2 pid130884
+title1:Key Exchange Protocols for Multiparty Communication Services. title2:Key exchange protocols for multiparty communication services citation:4 ncitation:4 pid130923
+title1:Password-authenticated 3PEKE with Round Efficiency without Server's Public Key. title2:Password-authenticated 3PEKE with round efficiency without server's public key citation:2 ncitation:2 pid130925
+title1:An Extendable-Message-Passing Protocol with Signatures Based on Two Hard Problems and Its Applications. title2:An extendable-message-passing protocol with signatures based on two hard problems and its applications citation:1 ncitation:1 pid130927
+title1:An Image Copyright Protection Scheme Based on Torus Automorphism. title2:An image copyright protection scheme based on torus automorphism citation:28 ncitation:30 pid130929
+title1:Time-bounded Based Password Authentication Scheme. title2:Time-bounded based password authentication scheme citation:2 ncitation:2 pid130931
+title1:A Compression-Based Data Hiding Scheme Using Vector Quantization and Principle Component Analysis. title2:A compression-based data hiding scheme using vector quantization and principle component analysis citation:12 ncitation:13 pid130933
+title1:An Efficient and Secure Multi-Server Password Authentication Scheme using Smart Cards. title2:An efficient and secure multi-server password authentication scheme using smart cards citation:64 ncitation:54 pid130935
+title1:Sharing a Secret Gray Image in Multiple Images. title2:Sharing a secret gray image in multiple images citation:50 ncitation:47 pid130939
+title1:Cryptanalysis of the WD Public-Key Cryptosystem. title2:Cryptanalysis of the WD public-key cryptosystem citation:0 ncitation:0 pid131017
+title1:Similarity Retrieval on Pictorial Databases Based upon Module Operation. title2:Similarity Retrieval on Pictorial Databases Based upon Module Operation. citation:9 ncitation:10 pid140750
+title1:A Secret Image Sharing Scheme Based on Vector Quantization Mechanism. title2:A secret image sharing scheme based on vector quantization mechanism citation:1 ncitation:1 pid190591
+title1:An Efficient Data Structure for Storing Similar Binary Images. title2:An efficient data structure for storing similar binary images citation:11 ncitation:11 pid212298
+title1:The Study of a Letter Oriented Minimal Perfect Hashing Scheme. title2:The study of a letter oriented minimal perfect hashing scheme citation:5 ncitation:5 pid212300
+title1:On Strict Optimality Property of Allocating Binary Cartesian Product Files on Multiple Disk Systems. title2:On strict optimality property of allocating binary Cartesian product files on multiple disk systems citation:5 ncitation:-1 pid212306
+title1:Consecutive Retrieval Organization as a File Allocation Scheme on Multiple Disk Systems. title2:Consecutive retrieval organization as a file allocation scheme on multiple disk systems citation:5 ncitation:3 pid212308
+title1:On the Complexity of File Allocation Problem. title2:On the complexity of file allocation problem citation:11 ncitation:10 pid212310
+title1:Direct Candidates Generation: A Novel Algorithm for Discovering Complete Share-Frequent Itemsets. title2:Direct candidates generation: a novel algorithm for discovering complete share-frequent itemsets citation:23 ncitation:19 pid217700
+title1:Synthesizing transition textures on succession patterns. title2:Synthesizing transition textures on succession patterns citation:9 ncitation:8 pid236351
+title1:A Progressive Image Transmission Scheme Based on Block Truncation Coding. title2:A progressive image transmission scheme based on block truncation coding citation:8 ncitation:7 pid257179
+title1:A Novel Conference Key Distribution System with Re-keying Protocol. title2:A novel conference key distribution system with re-keying protocol citation:1 ncitation:1 pid257219
+title1:A Robust and Recoverable Tamper Proofing Technique for Image Authentication. title2:A robust and recoverable tamper proofing technique for image authentication citation:5 ncitation:4 pid257221
+title1:On the Design of Ordered Minimal Perfect Hashing Functions. title2:On the design of ordered minimal perfect hashing functions citation:1 ncitation:1 pid299598
+title1:The Security Flaw of an Untraceable Signature Scheme. title2:The Security Flaw of an Untraceable Signature Scheme. citation:1 ncitation:1 pid304283
+title1:A New Scheme for the Electronic Coin. title2:A new scheme for the electronic coin citation:5 ncitation:5 pid304623
+title1:An Untraceable Electronic Cash System Using Fair Blind Signatures. title2:An untraceable electronic cash system using fair blind signatures citation:3 ncitation:3 pid304745
+title1:An Improvement on Strong-Password Authentication Protocols. title2:An improvement on strong-password authentication protocols citation:0 ncitation:-1 pid308885
+title1:Towards the Forgery of a Group Signature without Knowing the Group Center's Secret. title2:Towards the forgery of a group signature without knowing the group center's secret citation:3 ncitation:-1 pid314775
+title1:Cryptanalysis of the Improved User Efficient Blind Signatures. title2:Cryptanalysis of the improved user efficient blind signatures citation:0 ncitation:-1 pid314777
+title1:An Efficient Convertible Authenticated Encryption Scheme and Its Variant. title2:An efficient convertible authenticated encryption scheme and its variant citation:36 ncitation:35 pid314784
+title1:A Semi-blind Watermarking Based on Discrete Wavelet Transform. title2:A semi-blind watermarking based on discrete wavelet transform citation:0 ncitation:-1 pid315052
+title1:Modified curvature scale space feature alignment approach for hand posture recognition. title2:Modified curvature scale space feature alignment approach for hand posture recognition citation:6 ncitation:6 pid316793
+title1:Novel hierarchical approach for radiosity. title2:Novel hierarchical approach for radiosity citation:0 ncitation:-1 pid329755
+title1:Gesture recognition approach for sign language using curvature scale space and hidden Markov model. title2:Gesture recognition approach for sign language using curvature scale space and hidden Markov model citation:10 ncitation:8 pid329843
+title1:Sharing a Secret Two-Tone Image in Two Gray-Level Images. title2:Sharing a secret two-tone image in two gray-level images citation:28 ncitation:25 pid340798
+title1:A New Scheme for Sharing Secret Color Images in Computer Network. title2:A new scheme for sharing secret color images in computer network citation:59 ncitation:51 pid340824
+title1:A Search Scheme Resulting in Mixing Compressed Text Files. title2:A search scheme resulting in mixing compressed text files citation:1 ncitation:1 pid341047
+title1:Tree Structured Vector Quantization with Dynamic Path Search. title2:Tree structured vector quantization with dynamic path search citation:21 ncitation:21 pid345148
+title1:Hand Pose Recognition Using Curvature Scale Space. title2:Hand pose recognition using curvature scale space citation:25 ncitation:18 pid346267
+title1:Reusability on Learning Object Repository. title2:Reusability on learning object repository citation:14 ncitation:10 pid369833
+title1:An Improvement of the Design of Integrating Subliminal Channel with Access Control. title2:An Improvement of the Design of Integrating Subliminal Channel with Access Control citation:0 ncitation:0 pid397099
+title1:A Cryptanalysis on a Generalized Threshold Cryptosystem. title2:A Cryptanalysis on a Generalized Threshold Cryptosystem. citation:1 ncitation:1 pid397101
+title1:A Compact Patricia Trie for a Large Set of Keys. title2:A Compact Patricia Trie for a Large Set of Keys. citation:1 ncitation:1 pid434504
+title1:An Inverse Halftoning Technique using Genetic Algorithm. title2:An Inverse Halftoning Technique using Genetic Algorithm. citation:1 ncitation:1 pid434505
+title1:An Association Rule Mining Method for Spatial Database. title2:An Association Rule Mining Method for Spatial Database. citation:0 ncitation:-1 pid434525
+title1:Hiding Data in Binary Images. title2:Hiding data in binary images citation:13 ncitation:9 pid447091
+title1:Reversible Quantization-Index Modulation Using Neighboring Correlation. title2:Reversible Quantization-Index Modulation Using Neighboring Correlation citation:2 ncitation:2 pid464064
+title1:Reversible Palette Image Steganography Based on De-clustering and Predictive Coding. title2:Reversible Palette Image Steganography Based on De-clustering and Predictive Coding. citation:1 ncitation:-1 pid468747
+title1:Comments on Abe et al.'s Threshold Signer-ambiguous Signature Scheme from Variety of Keys. title2:Comments on Abe et al.'s Threshold Signer-ambiguous Signature Scheme from Variety of Keys. citation:0 ncitation:-1 pid468807
+title1:Improving Image Quality for JPEG Compression. title2:Improving image quality for JPEG compression citation:1 ncitation:2 pid474152
+title1:A Reversible Information Hiding Scheme Based on Vector Quantization. title2:A reversible information hiding scheme based on vector quantization citation:12 ncitation:10 pid474174
+title1:A Method for Protecting Digital Images from Being Copied Illegally. title2:A method for protecting digital images from being copied illegally citation:2 ncitation:2 pid480518
+title1:Detection and Restoration of a Tampered Medical Image. title2:Detection and restoration of a tampered medical image citation:2 ncitation:2 pid495725
+title1:A novel data hiding scheme for keeping high stego-image quality. title2:A novel data hiding scheme for keeping high stego-image quality citation:6 ncitation:6 pid504772
+title1:A Color Image Hiding Scheme Based on SMVQ and Modulo Operator. title2:A color image hiding scheme based on SMVQ and modulo operator citation:7 ncitation:9 pid504990
+title1:Two-Phase Algorithms for a Novel Utility-Frequent Mining Model. title2:Two-phase algorithms for a novel utility-frequent mining model citation:5 ncitation:5 pid527557
+title1:A Fuzzy Inference System for Simplifying Surfaces with Color. title2:A fuzzy inference system for simplifying surfaces with color citation:1 ncitation:1 pid531237
+title1:A Color Image Retrieval Method Based on Local Histogram. title2:A color image retrieval method based on local histogram citation:4 ncitation:4 pid531323
+title1:Image Retrieval Using Spatial Color and Edge Detection. title2:Image retrieval using spatial color and edge detection citation:2 ncitation:1 pid531325
+title1:A Fast and Efficient Noise Reduction Method Suitable for Low Noise Density. title2:A fast and efficient noise reduction method suitable for low noise density citation:0 ncitation:-1 pid531335
+title1:A Dynamic Color Palette for Color Images Coding. title2:A dynamic color palette for color images coding citation:1 ncitation:2 pid531341
+title1:An Adaptive Steganography for Index-Based Images Using Codeword Grouping. title2:An adaptive steganography for index-based images using codeword grouping citation:17 ncitation:17 pid531343
+title1:A Novel Scheme for Securing Image Steganography. title2:A novel scheme for securing image steganography citation:3 ncitation:4 pid531351
+title1:A Generalized Secret Image Sharing and Recovery Scheme. title2:A generalized secret image sharing and recovery scheme citation:4 ncitation:4 pid531912
+title1:A Remediable Image Authentication Scheme Based on Feature Extraction and Clustered VQ. title2:A remediable image authentication scheme based on feature extraction and clustered VQ citation:2 ncitation:1 pid532252
+title1:A Scheme for Obtaining a Message from the Digital Multisignature. title2:A scheme for obtaining a message from the digital multisignature citation:8 ncitation:7 pid541208
+title1:An Efficient Algorithm for Incremental Mining of Association Rules. title2:An efficient algorithm for incremental mining of association rules citation:26 ncitation:23 pid559747
+title1:A Solution to Generalized Group Oriented Cryptography. title2:A solution to generalized group oriented cryptography citation:5 ncitation:5 pid580812
+title1:Some Properties of Cartesian Product Files. title2:Some properties of Cartesian product files citation:34 ncitation:33 pid598330
+title1:Application of a Reciprocal Confluence Tree Unit to Similar-Picture Retrieval. title2:Application of a reciprocal confluence tree unit to similar-picture retrieval citation:3 ncitation:2 pid617595
+title1:Orthogonal Range Retrieval Using Bucket Address Hashing. title2:Orthogonal range retrieval using bucket address hashing citation:4 ncitation:3 pid617874
+title1:A Group-Oriented (t, n) Threshold Signature Scheme Against Replay Attacks. title2:A group-oriented (t, n) threshold signature scheme against replay attacks citation:0 ncitation:-1 pid633679
+title1:A Practical Solution to the (, ) Threshold Untraceable Signature with (, ) Verification Scheme. title2:A Practical Solution to the (t, n) Threshold Untraceable Signature with (k, l) Verification Scheme citation:1 ncitation:1 pid633724
+title1:The Idea of De-Clustering and its Applications. title2:The idea of de-clustering and its applications citation:74 ncitation:72 pid642532
+title1:Similar Image Retrieval Based on Wavelet Transformation. title2:Similar image retrieval based on wavelet transformation citation:7 ncitation:7 pid650293
+title1:A Novel Key Agreement Scheme in a Multiple Server Environment. title2:A novel key agreement scheme in a multiple server environment citation:2 ncitation:2 pid663334
+title1:A Discrete Wavelet Transform Based State-Codebook Search Algorithm for Vector Quantization. title2:A Discrete Wavelet Transform Based State-Codebook Search Algorithm for Vector Quantization citation:2 ncitation:2 pid679137
+title1:An Efficient Euclidean Distance Estimation Scheme for Accelerating VQ Encoding. title2:An Efficient Euclidean Distance Estimation Scheme for Accelerating VQ Encoding citation:2 ncitation:2 pid679225
+title1:A Wavelet-Based Progressive Digital Image Transmission Scheme. title2:A wavelet-based progressive digital image transmission scheme citation:9 ncitation:8 pid679335
+title1:A Fast Wavelet-Based Image Progressive Transmission Method Based on Vector Quantization. title2:A fast wavelet-based image progressive transmission method based on vector quantization citation:1 ncitation:1 pid679337
+title1:A Multipurpose Wavelet-Based Image Watermarking. title2:A multipurpose wavelet-based image watermarking citation:9 ncitation:11 pid679526
+title1:An ImageWatermarking Scheme Using Pattern Coding Technique. title2:An ImageWatermarking Scheme Using Pattern Coding Technique citation:1 ncitation:1 pid679545
+title1:An Image Hiding Scheme Based on Du's Disk Allocation Method. title2:An Image Hiding Scheme Based on Du's Disk Allocation Method citation:0 ncitation:0 pid681486
+title1:A Heuristic Method for Extracting Enhanced Watermarks from Digital Images. title2:A Heuristic Method for Extracting Enhanced Watermarks from Digital Images citation:1 ncitation:1 pid681488
+title1:Quantization Index Modulation Using Vector Quantization with DWT Based State-Codebook Search. title2:Quantization Index Modulation Using Vector Quantization with DWT Based State-Codebook Search citation:2 ncitation:1 pid681558
+title1:Novel Steganographic Schemes Based on Row-Major Mapping Relation. title2:Novel Steganographic Schemes Based on Row-Major Mapping Relation citation:1 ncitation:1 pid681563
+title1:Improved SMVQ Scheme with Edge-Directed Prediction. title2:Improved SMVQ scheme with edge-directed prediction citation:1 ncitation:1 pid681608
+title1:Progressive Image Transmission Using Significant Features and Linear Regression Prediction. title2:Progressive Image Transmission Using Significant Features and Linear Regression Prediction citation:0 ncitation:0 pid681620
+title1:An efficient accessing technique of Chinese characters using Boshiamy Chinese input system. title2:An efficient accessing technique of Chinese characters using Boshiamy Chinese input system citation:4 ncitation:4 pid681918
+title1:An Enhanced Password Authentication Scheme Providing Password Updating without Smart Cards. title2:An enhanced password authentication scheme providing password updating without smart cards citation:1 ncitation:1 pid691879
+title1:An Efficient Key-Lock-Pair Mechanism Based on Division Algorithm. title2:An Efficient Key-Lock-Pair Mechanism Based on Division Algorithm citation:0 ncitation:0 pid692044
+title1:Senary Huffman Compression - A Reversible Data Hiding Scheme for Binary Images. citation:10 ncitation:8 pid695815
+title1:Reversible Data Embedding Technique for Palette Images Using De-clustering. title2:Reversible data embedding technique for palette images using de-clustering citation:2 ncitation:2 pid695826
+title1:A Digital Watermarking Scheme Based on Singular Value Decomposition. title2:A digital watermarking scheme based on singular value decomposition citation:16 ncitation:13 pid701869
+title1:A broadcast-encryption-based key management scheme for dynamic multicast communications work-in-progress. title2:A broadcast-encryption-based key management scheme for dynamic multicast communications work-in-progress citation:3 ncitation:3 pid708985
+title1:Using nearest covering codes to embed secret information in grayscale images. title2:Using nearest covering codes to embed secret information in grayscale images citation:2 ncitation:-1 pid712404
+title1:Security design for three-party encrypted key exchange protocol using smart cards. title2:Security design for three-party encrypted key exchange protocol using smart cards citation:6 ncitation:6 pid712415
+title1:Embedding secret messages based on chaotic map and Huffman coding. title2:Embedding secret messages based on chaotic map and Huffman coding citation:1 ncitation:1 pid712494
+title1:A reversible data hiding scheme based on dual steganographic images. title2:A reversible data hiding scheme based on dual steganographic images citation:4 ncitation:4 pid712511
+title1:A Probabilistic Visual Secret Sharing Scheme for Grayscale Images with Voting Strategy. title2:A probabilistic visual secret sharing scheme for grayscale images with voting strategy citation:14 ncitation:12 pid720152
+title1:A High Payload Steganographic Scheme Based on (7, 4) Hamming Code for Digital Images. title2:A high payload steganographic scheme based on (7, 4) Hamming code for digital images citation:21 ncitation:-1 pid720227
+title1:Secret Hiding Using Side Match Vector Quantization. title2:Secret Hiding Using Side Match Vector Quantization citation:1 ncitation:1 pid721874
+title1:FA-Tree - A Dynamic Indexing Structure for Spatial Data. citation:0 ncitation:-1 pid721949
+title1:MICF: An effective sanitization algorithm for hiding sensitive patterns on data mining. title2:MICF: An effective sanitization algorithm for hiding sensitive patterns on data mining citation:2 ncitation:3 pid743972
+title1:On the Design of a Key-Lock-Pair Mechanism in Information Protection Systems. title2:On the design of a key-lock-pair mechanism in information protection systems citation:46 ncitation:41 pid768113
+title1:Application of Principal Component Analysis to Multi-Disk Concurrent Accessing. title2:Application of principal component analysis to multi-disk concurrent accessing citation:11 ncitation:10 pid768115
+title1:Performance of Two-Disk Partition Data Allocations. title2:Performance of two-disk partition data allocations citation:13 ncitation:11 pid768117
+title1:A Refinement of a Compression-Oriented Addressing Scheme. title2:A refinement of a compression-oriented addressing scheme citation:2 ncitation:1 pid768119
+title1:A Reciprocal Confluence Tree Unit and Its Applications. title2:A reciprocal confluence tree unit and its applications citation:2 ncitation:2 pid768125
+title1:A Key-Lock-Pair Oriented Access Control Scheme for the Growth of Users and Files. title2:A key-lock-pair oriented access control scheme for the growth of users and files citation:0 ncitation:-1 pid768154
+title1:A (t, n) Threshold Secret Sharing System with Efficient Identification of Cheaters. title2:A (T, N) threshold secret sharing system with efficient identification of cheaters citation:0 ncitation:0 pid781363
+title1:An accuracy enhancement algorithm for hierarchical radiosity. title2:An accuracy enhancement algorithm for hierarchical radiosity citation:2 ncitation:1 pid784569
+title1:An Information Protection Scheme Based Upon Number Theory. title2:An information protection scheme based upon number theory citation:34 ncitation:31 pid789983
+title1:Performance Analysis of the Generalised Disc Modulo Allocation method for Multiple Key Hashing Files on Multi-Disc Systems. title2:Performance analysis of the generalised disc modulo allocation method for multiple key hashing files on multi-disc systems citation:13 ncitation:10 pid789985
+title1:A Recursive Performance Formula of the Disc Modulo Allocation Method for Binary Cartesian Product Files. title2:Short notes A Recursive Performance Formula of the Disc Modulo Allocation Method for Binary Cartesian Product Files citation:4 ncitation:-1 pid789987
+title1:Symbolic Gray Code As A Data Allocation Scheme For Two-Disc Systems. title2:Symbolic Gray code as a data allocation scheme for two-disc systems citation:30 ncitation:28 pid789991
+title1:On the Design of a Machine-Independent Perfect Hashing Scheme. title2:On the design of a machine-independent perfect hashing scheme citation:11 ncitation:12 pid789993
+title1:Perfect Hashing Schemes for Mining Association Rules. title2:Perfect hashing schemes for mining association rules citation:21 ncitation:20 pid789997
+title1:Optimality Properties of the Disc Modulo Allocation Method for k-ary Multiple Key Hashing Files. title2:Optimality properties of the disc modulo allocation method for k-ary multiple key hashing files citation:3 ncitation:3 pid790001
+title1:Construction of Symmetrical Reversible Variable Length Codes Using Backtracking. title2:Construction of symmetrical reversible variable length codes using backtracking citation:18 ncitation:18 pid791757
+title1:A Branch-and-Bound Algorithm for the Construction of Reversible Variable Length Codes. title2:A branch-and-bound algorithm for the construction of reversible variable length codes citation:3 ncitation:4 pid791758
+title1:Security enhancement of an IC-card-based remote login mechanism. title2:Security enhancement of an IC-card-based remote login mechanism citation:8 ncitation:8 pid796299
+title1:Efficient authentication protocols of GSM. title2:Efficient authentication protocols of GSM citation:30 ncitation:26 pid800101
+title1:Remote scheme for password authentication based on theory of quadratic residues. title2:Remote scheme for password authentication based on theory of quadratic residues citation:21 ncitation:20 pid800105
+title1:Cryptanalysis of a Password Authentication Scheme Using Quadratic Residues. title2:Cryptanalysis of a password authentication scheme using quadratic residues citation:5 ncitation:4 pid800107
+title1:An on-line secret sharing scheme for multi-secrets. title2:An on-line secret sharing scheme for multi-secrets citation:101 ncitation:98 pid800644
+title1:Three ID-based information security functions. title2:Three ID-based information security functions citation:3 ncitation:3 pid800914
+title1:Authenticity of public keys in asymmetric cryptosystems. title2:Authenticity of public keys in asymmetric cryptosystems citation:5 ncitation:5 pid800916
+title1:Using RSA with low exponent in a public network. title2:Using RSA with low exponent in a public network citation:2 ncitation:2 pid800918
+title1:Method for constructing a group-oriented cipher system. title2:Method for constructing a group-oriented cipher system citation:8 ncitation:8 pid801043
+title1:Threshold signature schemes with traceable signers in group communications. title2:Threshold signature schemes with traceable signers in group communications citation:114 ncitation:106 pid802091
+title1:Enhanced authentication scheme with anonymity for roaming service in global mobility networks. title2:Enhanced authentication scheme with anonymity for roaming service in global mobility networks citation:63 ncitation:41 pid803366
+title1:Efficient anonymous auction protocols with freewheeling bids. title2:Efficient anonymous auction protocols with freewheeling bids citation:31 ncitation:25 pid804213
+title1:A scheme to determine the relationship between two users in a hierarchy. title2:A scheme to determine the relationship between two users in a hierarchy citation:8 ncitation:9 pid804215
+title1:A flexible date-attachment scheme on e-cash. title2:A flexible date-attachment scheme on e-cash citation:29 ncitation:25 pid804217
+title1:An anonymous voting mechanism based on the key exchange protocol. title2:An anonymous voting mechanism based on the key exchange protocol citation:23 ncitation:17 pid804219
+title1:Access control with binary keys. title2:Access control with binary keys citation:8 ncitation:6 pid804223
+title1:A dynamic key-lock-pair access control scheme. title2:A dynamic key-lock-pair access control scheme citation:28 ncitation:26 pid804762
+title1:Authentication and protection of public keys. title2:Authentication and protection of public keys citation:6 ncitation:6 pid804770
+title1:A fair and secure mobile agent environment based on blind signature and proxy host. title2:A fair and secure mobile agent environment based on blind signature and proxy host citation:12 ncitation:11 pid804833
+title1:A novel digital image watermarking scheme based on the vector quantization technique. title2:A novel digital image watermarking scheme based on the vector quantization technique citation:56 ncitation:53 pid804892
+title1:A cryptographic implementation for dynamic access control in a user hierarchy. title2:A cryptographic implementation for dynamic access control in a user hierarchy citation:46 ncitation:41 pid805194
+title1:Cryptographic key assignment scheme for hierarchical access control. title2:Cryptographic key assignment scheme for hierarchical access control citation:29 ncitation:27 pid831940
+title1:A new steganographic method for color and grayscale image hiding. title2:A new steganographic method for color and grayscale image hiding citation:38 ncitation:36 pid835633
+title1:The General Pay-Word: A Micro-payment Scheme Based on -dimension One-way Hash Chain. title2:The general pay-word: A micro-payment scheme based on n-dimension one-way hash chain citation:7 ncitation:5 pid842209
+title1:A Bin-Tree Oriented Iconic Indexing Scheme for Retrieving Symbolic Pictures. title2:A bin-tree oriented iconic indexing scheme for retrieving symbolic pictures citation:1 ncitation:1 pid845617
+title1:A Compact Sparse Matrix Representation Using Random Hash Functions. title2:A compact sparse matrix representation using random hash functions citation:1 ncitation:1 pid845832
+title1:Isolated items discarding strategy for discovering high utility itemsets. title2:Isolated items discarding strategy for discovering high utility itemsets citation:66 ncitation:49 pid846460
+title1:A New Micro-Payment System Using General Payword Chain. title2:A new micro-payment system using general payword chain citation:19 ncitation:18 pid862488
+title1:A new key assignment scheme for enforcing complicated access control policies in hierarchy. title2:A new key assignment scheme for enforcing complicated access control policies in hierarchy citation:33 ncitation:31 pid876950
+title1:An Improved Tree-Structured Codebook Search Algorithm for Grayscale Image Compression. title2:An improved tree-structured codebook search algorithm for grayscale image compression citation:3 ncitation:2 pid881516
+title1:An Inverse Halftoning Technique Using Modified Look-Up Tables. title2:An Inverse Halftoning Technique Using Modified Look-Up Tables citation:0 ncitation:0 pid881532
+title1:Spatial Domain Image Hiding Scheme Using Pixel-Values Differencing. title2:Spatial domain image hiding scheme using pixel-values differencing citation:12 ncitation:11 pid881613
+title1:Perfect Hashing Schemes for Mining Traversal Patterns. title2:Perfect hashing schemes for mining traversal patterns citation:8 ncitation:9 pid881630
+title1:An Adaptive Steganographic Scheme for Color Images. title2:An Adaptive Steganographic Scheme for Color Images citation:3 ncitation:4 pid881633
+title1:Data Compressor for VQ Index Tables. title2:Data compressor for VQ index tables citation:5 ncitation:5 pid881637
+title1:A New Channel for Image Hiding Based on Interpolating polynomials. title2:A new channel for image hiding based on interpolating polynomials citation:3 ncitation:1 pid881643
+title1:An Image Hiding Scheme Based on Multi-bit-reference Substitution Table Using Dynamic Programming Strategy. title2:An Image Hiding Scheme Based on Multi-bit-reference Substitution Table Using Dynamic Programming Strategy citation:6 ncitation:5 pid881645
+title1:An Efficient and Practical (t, n) Threshold Proxy Signature Scheme with Known Signers. title2:An efficient and practical (t, n) threshold proxy signature scheme with known signers citation:7 ncitation:7 pid881905
+title1:A New Density-Based Scheme for Clustering Based on Genetic Algorithm. title2:A new density-based scheme for clustering based on genetic algorithm citation:14 ncitation:10 pid882011
+title1:Hiding Digital Watermarks Using Fractal Compression Technique. title2:Hiding digital watermarks using fractal compression technique citation:20 ncitation:19 pid882117
+title1:Embedding Invisible Watermarks into Digital Images Based on Side-Match Vector Quantization. title2:Embedding invisible watermarks into digital images based on side-match vector quantization citation:4 ncitation:4 pid882124
+title1:Scenery Image Segmentation Using Support Vector Machines. title2:Scenery image segmentation using support vector machines citation:5 ncitation:4 pid882144
+title1:An Improvement to Image Segment Based on Human Visual System for Object-based Coding. title2:An improvement to image segment based on human visual system for object-based coding citation:8 ncitation:7 pid882497
+title1:A DWT-based Deblocking Technique Based on Edge Detection and Zero Masking for Reducing Blocking Effect. title2:A DWT-based deblocking technique based on edge detection and zero masking for reducing blocking effect citation:0 ncitation:0 pid882498
+title1:A Robust Content-Based Copy Detection Scheme. title2:A robust content-based copy detection scheme citation:14 ncitation:11 pid882599
+title1:A Novel Image Ownership Protection Scheme Based on Rehashing Concept and Vector Quantization. title2:A novel image ownership protection scheme based on rehashing concept and vector quantization citation:7 ncitation:7 pid882600
+title1:A Novel Index Coding Scheme for Vector Quantization. title2:A novel index coding scheme for vector quantization citation:9 ncitation:7 pid882618
+title1:Reversible Data Embedding Based on Prediction Approach for VQ and SMVQ Compressed Images. title2:Reversible data embedding based on prediction approach for VQ and SMVQ compressed images citation:2 ncitation:1 pid882702
+title1:VQ Codebook Searching Algorithm Based on Correlation Property. title2:VQ codebook searching algorithm based on correlation property citation:1 ncitation:1 pid882748
+title1:Full-Searching-Equivalent Vector Quantization Using Two-Bounds Triangle Inequality. title2:Full-Searching-Equivalent Vector Quantization Using Two-Bounds Triangle Inequality citation:5 ncitation:3 pid882753
+title1:Secret Image Hiding and Sharing Based on the (t, n)-Threshold. title2:Secret image hiding and sharing based on the (t, n)-threshold citation:14 ncitation:13 pid882761
+title1:An Image Retrieval Method Based on Color-Complexity and Spatial-Histogram Features. title2:An image retrieval method based on color-complexity and spatial-histogram features citation:3 ncitation:3 pid882763
+title1:A Novel Image Hiding Scheme Based on VQ and Hamming Distance. title2:A novel image hiding scheme based on VQ and Hamming distance citation:2 ncitation:3 pid882804
+title1:Three-Phase Lossless Data Hiding Method for the VQ Index Table. title2:Three-phase lossless data hiding method for the VQ index table citation:1 ncitation:1 pid882931
+title1:A Novel Cryptographic Key Assignment Scheme with ID-Based Access Control in a Hierachy. title2:A Novel Cryptographic Key Assignment Scheme with ID-Based Access Control in a Hierachy citation:1 ncitation:1 pid882988
+title1:High Capacity Data Hiding for Grayscale Images. title2:High capacity data hiding for grayscale images citation:17 ncitation:18 pid883015
+title1:Adaptive Data Embedding Scheme Based on Similar and Dissimilar Clustering Strategies. title2:Adaptive Data Embedding Scheme Based on Similar and Dissimilar Clustering Strategies citation:0 ncitation:0 pid883050
+title1:A Large Payload Data Embedding Technique for Color Images. title2:A large payload data embedding technique for color images citation:13 ncitation:5 pid883054
+title1:A Fragile Digital Image Authentication Scheme Inspired by Wet Paper Codes. title2:A fragile digital image authentication scheme inspired by wet paper codes citation:6 ncitation:5 pid883135
+title1:NovelWatermarking Authentication Schemes for Binary Images Based on Dual-Pair Block Pixel Patterns. title2:NovelWatermarking Authentication Schemes for Binary Images Based on Dual-Pair Block Pixel Patterns citation:0 ncitation:-1 pid883137
+title1:Reversible Data Hiding in the VQ-Compressed Domain. title2:Reversible data hiding in the VQ-compressed domain citation:16 ncitation:-1 pid896276
+title1:Hiding Secret Information Using Adaptive Side-Match VQ. title2:Hiding secret information using adaptive side-match VQ citation:3 ncitation:3 pid896296
+title1:A Steganographic Method for Hiding Secret Data Using Side Match Vector Quantization. title2:A steganographic method for hiding secret data using side match vector quantization citation:35 ncitation:30 pid897541
+title1:A Color Image Authentication Method Using Partitioned Palette and Morphological Operations. title2:A color image authentication method using partitioned palette and morphological operations citation:9 ncitation:7 pid900350
+title1:Reversible Steganographic Method with High Payload for JPEG Images. title2:Reversible steganographic method with high payload for JPEG images citation:13 ncitation:-1 pid900548
+title1:LSB-Based Steganography Using Reflected Gray Code. title2:LSB-based steganography using reflected gray code citation:9 ncitation:7 pid900912
+title1:Genetic-Based Approach for Synthesizing Texture. title2:Genetic-based approach for synthesizing texture citation:1 ncitation:1 pid903417
+title1:A high-speed division algorithm in residue number system using parity. title2:A high-speed division algorithm in residue number system using parity-checking technique citation:5 ncitation:-1 pid906641
+title1:A Novel Progressive Image Transmission Technique for Chinese Calligraphy. title2:A novel progressive image transmission technique for Chinese calligraphy citation:1 ncitation:2 pid907261
+title1:Error Prevention and Concealment for Chinese Calligraphy Based on Block Truncation Coding. title2:Error prevention and concealment for Chinese calligraphy based on block truncation coding citation:1 ncitation:1 pid907263
+title1:A Cost Optimal Search Technique for the Knapsack Problem. title2:A cost optimal search technique for the knapsack problem citation:1 ncitation:1 pid910210
+title1:Adaptive multiple sets of CSS features for hand posture recognition. title2:Adaptive multiple sets of CSS features for hand posture recognition citation:11 ncitation:10 pid917342
+title1:An image coding scheme using SMVQ and support vector machines. title2:An image coding scheme using SMVQ and support vector machines citation:1 ncitation:1 pid917622
+title1:A Color Image Retrieval Method Based on Color Moment and Color Variance of Adjacent Pixels. title2:A color image retrieval method based on color moment and color variance of adjacent pixels citation:14 ncitation:11 pid918744
+title1:A Two-Dimensional Shape Recognition Scheme Based on Principal Component Analysis. title2:A Two-Dimensional Shape Recognition Scheme Based on Principal Component Analysis citation:2 ncitation:2 pid918756
+title1:A Spatial Filter for Similarity Retrieval. title2:A spatial filter for similarity retrieval citation:13 ncitation:13 pid918762
+title1:A Fast and Secure Image Hiding Scheme Based on LSB Substitution. title2:A fast and secure image hiding scheme based on LSB substitution citation:85 ncitation:81 pid918764
+title1:An Efficient Approach For Face Detection And Facial Feature Location Using Prune-And-Search Technique. title2:An efficient approach for face detection and facial feature location using prune-and-search technique citation:2 ncitation:1 pid918768
+title1:Edge Detection Using Block Truncation Coding. title2:Edge detection using block truncation coding citation:12 ncitation:9 pid919014
+title1:Both Color and Gray Scale Secret Images Hiding in a Color Image. title2:Both color and gray scale secret images hiding in a color image citation:35 ncitation:27 pid919158
+title1:A Feature-Oriented Copyright Owner Proving Technique for Still Images. title2:A feature-oriented copyright owner proving technique for still images citation:3 ncitation:3 pid920702
+title1:A Watermarking Scheme Based on Principal Component Analysis Technique. title2:A watermarking scheme based on principal component analysis technique citation:16 ncitation:16 pid923108
+title1:Some Forgery Attacks on a Remote User Authentication Scheme Using Smart Cards. title2:Some forgery attacks on a remote user authentication scheme using smart cards citation:106 ncitation:102 pid923110
+title1:VQ-Based Image Watermarking Using Anti-Gray Coding. title2:VQ-based image watermarking using anti-Gray coding citation:6 ncitation:6 pid923114
+title1:High Capacity Data Hiding in JPEG-Compressed Images. title2:High capacity data hiding in JPEG-compressed images citation:40 ncitation:32 pid923218
+title1:Schemes for Digital Gift Certificates with Low Computation Complexity. title2:Schemes for Digital Gift Certificates with Low Computation Complexity citation:4 ncitation:4 pid923278
+title1:Hiding Data in Halftone Images. title2:Hiding data in halftone images citation:5 ncitation:5 pid923292
+title1:A Concealed t-out-of-n Signer Ambiguous Signature Scheme with Variety of Keys. title2:A concealed t-out-of-n signer ambiguous signature scheme with variety of keys citation:1 ncitation:1 pid923398
+title1:Recognition of Image Authenticity Using Significant DCT Coefficients Quantization. title2:Recognition of image authenticity using significant DCT coefficients quantization citation:6 ncitation:5 pid923457
+title1:A Digital Watermarking Scheme Using Human Visual Effects. title2:Digital watermarking scheme using human visual effects citation:28 ncitation:22 pid923459
+title1:An improvement of a technique for color quantization using reduction of color space dimensionality. title2:An improvement of a technique for color quantization using reduction of color space dimensionality citation:2 ncitation:2 pid923656
+title1:An efficient protocol for anonymous multicast and reception. title2:An efficient protocol for anonymous multicast and reception citation:1 ncitation:1 pid930388
+title1:An Ordered Minimal Perfect Hashing Scheme with Single Parameter. title2:An ordered minimal perfect hashing scheme with single parameter citation:12 ncitation:9 pid930389
+title1:A Simple Approach for Generating RSA Keys. title2:A simple approach for generating RSA keys citation:3 ncitation:4 pid930398
+title1:A fast modular multiplication algorithm for calculating the product AB modulo N. title2:A fast modular multiplication algorithm for calculating the product AB modulo N citation:10 ncitation:9 pid930461
+title1:Autenticated Encryption Schemes with Message Linkage. title2:Authenticated encryption schemes with message linkage citation:3 ncitation:41 pid931837
+title1:Integrating Authentication in Public Key Distribution System. title2:Integrating authentication in public key distribution system citation:7 ncitation:4 pid932440
+title1:Authenticated Encryption Schemes with Linkage Between Message Blocks. title2:Authenticated encryption schemes with linkage between message blocks citation:44 ncitation:43 pid932442
+title1:Retrieving the Most Similar Symbolic Pictures from Pictorial Databases. title2:Retrieving the most similar symbolic pictures from pictorial databases citation:57 ncitation:52 pid935483
+title1:Controlling the Access Requests in an Information Protection System. title2:Controlling the access requests in an information protection system citation:2 ncitation:2 pid935484
+title1:Color image retrieval technique based on color features and image bitmap. title2:Color image retrieval technique based on color features and image bitmap citation:60 ncitation:46 pid937088
+title1:On the design of multiple key hashing files for concurrent orthogonal range retrieval between two disks. title2:On the design of multiple key hashing files for concurrent orthogonal range retrieval between two disks citation:1 ncitation:1 pid938357
+title1:Optimal MMI file systems for orthogonal range retrieval. title2:Optimal MMI file systems for orthogonal range retrieval citation:14 ncitation:16 pid938358
+title1:Crypographic key assignment scheme for access control in a hierarchy. title2:Cryptographic key assignment scheme for access control in a hierarchy citation:82 ncitation:73 pid938370
+title1:A conference key broadcasting system using sealed locks. title2:A conference key broadcasting system using sealed locks citation:18 ncitation:20 pid938712
+title1:Password authentication using Newton's interpolating polynomials. title2:Password authentication using Newton's interpolating polynomials citation:8 ncitation:8 pid938713
+title1:Algebraic operations on encryped relational databases. title2:Algebraic operations on encrypted relational databases citation:4 ncitation:3 pid939110
+title1:An ordered minimal perfect hashing scheme based upon Euler's theorem. title2:An ordered minimal perfect hashing scheme based upon Euler's theorem citation:19 ncitation:16 pid940005
+title1:Optimal information retrieval when queries are not random. title2:Optimal information retrieval when queries are not random citation:17 ncitation:18 pid940006
+title1:Letter-oriented reciprocal hashing scheme. title2:Letter-oriented reciprocal hashing scheme citation:13 ncitation:12 pid940007
+title1:A scheme for constructing ordered minimal perfect hashing functions. title2:A scheme for constructing ordered minimal perfect hashing functions citation:11 ncitation:11 pid940008
+title1:A note on allocating k-ary multiple key hashing files among multiple disks. title2:A note on allocating< i> k</i>-ary multiple key hashing files among multiple disks citation:6 ncitation:4 pid940010
+title1:A steganographic method based upon JPEG and quantization table modification. title2:A steganographic method based upon JPEG and quantization table modification citation:242 ncitation:232 pid940013
+title1:The hierarchical ordering in multiattribute files. title2:The hierarchical ordering in Multiattribute files citation:5 ncitation:5 pid940015
+title1:Sharing Secret Omages using Shadow Codebooks. title2:Sharing secret images using shadow codebooks citation:52 ncitation:52 pid940019
+title1:Dynamic Pictorial Databases Design for Similarity Retrieval. title2:Dynamic pictorial databases design for similarity retrieval citation:0 ncitation:1 pid940023
+title1:Hierarchy representations based on arithmetic coding for dynamic information protection systems. title2:Hierarchy representations based on arithmetic coding for dynamic information protection systems citation:8 ncitation:8 pid940024
+title1:A Binary Access Control Method Using Prime Factorization. title2:A binary access control method using prime factorization citation:11 ncitation:9 pid940026
+title1:Optimal Multiple Key Hashing Files for Orthogonal Range Queries. title2:Optimal multiple key hashing files for orthogonal range queries citation:1 ncitation:1 pid941106
+title1:Controlling Access in Tree Hierarchies. title2:Controlling access in tree hierarchies citation:4 ncitation:-1 pid942110
+title1:A novel efficient (, ) threshold proxy signature scheme. title2:A novel efficient (< i> t</i>,< i> n</i>) threshold proxy signature scheme citation:62 ncitation:57 pid942383
+title1:New image steganographic methods using run-length approach. title2:New image steganographic methods using run-length approach citation:54 ncitation:52 pid942396
+title1:Reversible steganographic method using SMVQ approach based on declustering. title2:Reversible steganographic method using SMVQ approach based on declustering citation:41 ncitation:33 pid942556
+title1:Security enhancement for digital signature schemes with fault tolerance in RSA. title2:Security enhancement for digital signature schemes with fault tolerance in RSA citation:9 ncitation:7 pid942764
+title1:Reversible hiding in DCT-based compressed images. title2:Reversible hiding in DCT-based compressed images citation:125 ncitation:113 pid942780
+title1:A novel secret image sharing scheme in color images using small shadow images. title2:A novel secret image sharing scheme in color images using small shadow images citation:43 ncitation:37 pid942835
+title1:Joint coding and embedding techniques for multimedia images. title2:Joint coding and embedding techniques for multimedia images citation:26 ncitation:20 pid943048
+title1:Retrieving digital images from a JPEG compressed image database. title2:Retrieving digital images from a JPEG compressed image database citation:37 ncitation:31 pid946133
+title1:An image zooming technique based on vector quantization approximation. title2:An image zooming technique based on vector quantization approximation citation:34 ncitation:30 pid946134
+title1:A new edge detection approach based on image context analysis. title2:A new edge detection approach based on image context analysis citation:46 ncitation:31 pid947285
+title1:A genetic-based adaptive threshold selection method for dynamic path tree structured vector quantization. title2:A genetic-based adaptive threshold selection method for dynamic path tree structured vector quantization citation:6 ncitation:6 pid947359
+title1:An extended difference expansion algorithm for reversible watermarking. title2:An extended difference expansion algorithm for reversible watermarking citation:29 ncitation:22 pid947740
+title1:Lossless nibbled data embedding scheme based on difference expansion. title2:Lossless nibbled data embedding scheme based on difference expansion citation:12 ncitation:12 pid947775
+title1:An improvement of EMD embedding method for large payloads by pixel segmentation strategy. title2:An improvement of EMD embedding method for large payloads by pixel segmentation strategy citation:19 ncitation:15 pid947783
+title1:New Sealed-Bid Electronic Auction with Fairness, Security and Efficiency. title2:New sealed-bid electronic auction with fairness, security and efficiency citation:7 ncitation:6 pid974141
+title1:A Chinese Character Retrieval Scheme Using Shuang Pinyin. title2:A Chinese Character Retrieval Scheme Using Shuang Pinyin citation:1 ncitation:1 pid983047
+title1:A Composite Perfect Hashing Scheme for Large Letter-Oriented Key Sets. title2:A composite perfect hashing scheme for large letter-oriented key sets citation:2 ncitation:2 pid983052
+title1:Spatial Match Retrieval of Symbolic Pictures. title2:Spatial match retrieval of symbolic pictures citation:78 ncitation:75 pid983054
+title1:Shortest Weighted Length Addition Chains. title2:Shortest weighted length addition chains citation:3 ncitation:3 pid983067
+title1:Cryptanalysis of the Secret Exponent of the RSA Scheme. title2:Cryptanalysis of the secret exponent of the RSA scheme citation:6 ncitation:5 pid983069
+title1:New Approach for Static Gesture Recognition. title2:New approach for static gesture recognition citation:20 ncitation:16 pid983092
+title1:A Cascade Exponentiation Evaluation Scheme Based on the Lempel-Ziv-Welch Compression Algorithm. title2:A cascade exponentiation evaluation scheme based on the Lempel-Ziv-Welch compression algorithm citation:19 ncitation:18 pid983102
+title1:Multidisk Smaller Sized MKH file Allocation for Partial Match Retrieval. title2:Multidisk Smaller Sized MKH file Allocation for Partial Match Retrieval. citation:0 ncitation:0 pid983109
+title1:A Digital Multisignature Scheme Based upon the Digital Signature Scheme of a Modified ElGamal Public Key Cryptosystem. title2:A digital multisignature scheme based upon the digital signature scheme of a modified ElGamal public key cryptosystem citation:3 ncitation:4 pid983118
+title1:A New Password Authentication Scheme. title2:A new password authentication scheme citation:5 ncitation:4 pid983132
+title1:A Fuzzy-based Approach to Mesh Simplification. title2:A Fuzzy-based Approach to Mesh Simplification* citation:3 ncitation:3 pid983144
+title1:A Fuzzy-based Approach to Mesh Simplification. title2:A Fuzzy-based Approach to Mesh Simplification* citation:3 ncitation:3 pid983146
+title1:An Improved Threshold Scheme Based on Modular ARithmetic. title2:An Improved Threshold Scheme Based on Modular ARithmetic. citation:5 ncitation:6 pid983348
+title1:A Dynamic Access Control Mechanism in Information Protection Systems. title2:A dynamic access control mechanism in information protection systems citation:10 ncitation:10 pid983555
+title1:A new scheme to protect confidential images. title2:A new scheme to protect confidential images citation:2 ncitation:-1 pid986643
+title1:A New Generalized Group-Oriented Cryptoscheme Without Trusted Centers. title2:A new generalized group-oriented cryptoscheme without trusted centers citation:52 ncitation:50 pid991394
+title1:An Improvement to Ziegler's Sparse Matrix Compression Algorithm. title2:An improvement to Ziegler's sparse matrix compression algorithm citation:3 ncitation:4 pid995800
+title1:New concepts for multiple stack systems: Born and reborn. title2:New concepts for multiple stack systems: born and reborn citation:1 ncitation:-1 pid995814
+title1:A spatial match retrieval mechanism for symbolic pictures. title2:A spatial match retrieval mechanism for symbolic pictures citation:12 ncitation:10 pid995822
+title1:Partition search filter and its performance analysis. title2:Partition search filter and its performance analysis citation:6 ncitation:7 pid995828
+title1:A Generalized Secret Sharing Scheme. title2:A generalized secret sharing scheme citation:5 ncitation:8 pid995836
+title1:A concept of designing cheater identification methods for secret sharing. title2:A concept of designing cheater identification methods for secret sharing citation:29 ncitation:27 pid996392
+title1:A new design of efficient partially blind signature scheme. title2:A new design of efficient partially blind signature scheme citation:14 ncitation:13 pid996478
+title1:Breadth-first search oriented symbolic picture representation for spatial match retrieval. title2:Breadth-first search oriented symbolic picture representation for spatial match retrieval citation:2 ncitation:2 pid996674
+title1:An adaptive exponentiation method. title2:An adaptive exponentiation method citation:18 ncitation:17 pid996771
+title1:Detection and restoration of tampered JPEG compressed images. title2:Detection and restoration of tampered JPEG compressed images citation:16 ncitation:16 pid997110
+title1:Sharing multiple secrets in digital images. title2:Sharing multiple secrets in digital images citation:55 ncitation:56 pid997357
+title1:Error resilient locally adaptive data compression. title2:Error resilient locally adaptive data compression citation:1 ncitation:-1 pid997615
+title1:TFRP: An efficient microaggregation algorithm for statistical disclosure control. title2:TFRP: An efficient microaggregation algorithm for statistical disclosure control citation:28 ncitation:21 pid997672
+title1:A difference expansion oriented data hiding scheme for restoring the original host images. title2:A difference expansion oriented data hiding scheme for restoring the original host images citation:68 ncitation:61 pid997678
+title1:Reversible index-domain information hiding scheme based on side-match vector quantization. title2:Reversible index-domain information hiding scheme based on side-match vector quantization citation:32 ncitation:23 pid997689
+title1:Novel image copy detection with rotating tolerance. title2:Novel image copy detection with rotating tolerance citation:25 ncitation:17 pid997764
+title1:Adaptive watermark mechanism for rightful ownership protection. title2:Adaptive watermark mechanism for rightful ownership protection citation:62 ncitation:50 pid997873
+title1:An embedding technique based upon block prediction. title2:An embedding technique based upon block prediction citation:13 ncitation:12 pid997969
+title1:Tighter error bounds and weighted error metrics for hierarchical radiosity. title2:Tighter error bounds and weighted error metrics for hierarchical radiosity citation:0 ncitation:0 pid1002815
+title1:A secure voting system on a public network. title2:A secure voting system on a public network citation:11 ncitation:10 pid1024241
+title1:Parallel Computation of the Modular Cascade Exponentiation. title2:Parallel computation of the modular cascade exponentiation citation:6 ncitation:5 pid1030791
+title1:A Parallel Two-List Algorithm for the Knapsack Problem. title2:A parallel two-list algorithm for the knapsack problem citation:29 ncitation:29 pid1035029
+title1:Image hiding scheme with modulus function and dynamic programming strategy on partitioned pixels. title2:Image hiding scheme with modulus function and dynamic programming strategy on partitioned pixels citation:36 ncitation:32 pid1038845
+title1:A shape recognition scheme based on relative distances of feature points from the centroid. title2:A shape recognition scheme based on relative distances of feature points from the centroid citation:93 ncitation:85 pid1038859
+title1:Finding optimal least-significant-bit substitution in image hiding by dynamic programming strategy. title2:Finding optimal least-significant-bit substitution in image hiding by dynamic programming strategy citation:246 ncitation:238 pid1038861
+title1:Retrieval of similar pictures on pictorial databases. title2:Retrieval of similar pictures on pictorial databases citation:170 ncitation:171 pid1038863
+title1:Relative coordinates oriented symbolic string for spatial relationship retrieval. title2:Relative coordinates oriented symbolic string for spatial relationship retrieval citation:24 ncitation:23 pid1038865
+title1:Hiding secret data in images via predictive coding. title2:Hiding secret data in images via predictive coding citation:107 ncitation:106 pid1042102
+title1:An efficient image authentication method based on Hamming code. title2:An efficient image authentication method based on Hamming code citation:33 ncitation:31 pid1042346
+title1:Four-scanning attack on hierarchical digital watermarking method for image tamper detection and recovery. title2:Four-scanning attack on hierarchical digital watermarking method for image tamper detection and recovery citation:44 ncitation:38 pid1042701
+title1:Multilevel reversible data hiding based on histogram modification of difference images. title2:Multilevel reversible data hiding based on histogram modification of difference images citation:154 ncitation:138 pid1042779
+title1:A two-codebook combination and three-phase block matching based image-hiding scheme with high embedding capacity. title2:A two-codebook combination and three-phase block matching based image-hiding scheme with high embedding capacity citation:14 ncitation:13 pid1042781
+title1:Sharing secrets in stego images with authentication. title2:Sharing secrets in stego images with authentication citation:82 ncitation:70 pid1042856
+title1:Lossless data hiding for color images based on block truncation coding. title2:Lossless data hiding for color images based on block truncation coding citation:36 ncitation:27 pid1042876
+title1:Image matching using run-length feature. title2:Image matching using run-length feature citation:21 ncitation:19 pid1044092
+title1:An image intellectual property protection scheme for gray-level images using visual secret sharing strategy. title2:An image intellectual property protection scheme for gray-level images using visual secret sharing strategy citation:124 ncitation:123 pid1044099
+title1:Information hiding based on search-order coding for VQ indices. title2:Information hiding based on search-order coding for VQ indices citation:52 ncitation:45 pid1044101
+title1:A watermarking-based image ownership and tampering authentication scheme. title2:A watermarking-based image ownership and tampering authentication scheme citation:85 ncitation:73 pid1044103
+title1:A spatial data representation: an adaptive 2D-H string. title2:A spatial data representation: an adaptive 2D-H string citation:21 ncitation:22 pid1044106
+title1:Fast codebook search algorithms based on tree-structured vector quantization. title2:Fast codebook search algorithms based on tree-structured vector quantization citation:17 ncitation:15 pid1044107
+title1:A steganographic method for digital images using side match. title2:A steganographic method for digital images using side match citation:182 ncitation:167 pid1044109
+title1:SVD-based digital image watermarking scheme. title2:SVD-based digital image watermarking scheme citation:188 ncitation:170 pid1044110
+title1:A hashing-oriented nearest neighbor searching scheme. title2:A hashing-oriented nearest neighbor searching scheme citation:21 ncitation:12 pid1044111
+title1:An exact match retrieval scheme based upon principal component analysis. title2:An exact match retrieval scheme based upon principal component analysis citation:30 ncitation:26 pid1044112
+title1:Cryptanalysis of an encryption scheme for binary images. title2:Cryptanalysis of an encryption scheme for binary images citation:32 ncitation:31 pid1044116
+title1:An object-oriented similarity retrieval algorithm for iconic image databases. title2:An object-oriented similarity retrieval algorithm for iconic image databases citation:21 ncitation:18 pid1044156
+title1:A near pattern-matching scheme based upon principal component analysis. title2:A near pattern-matching scheme based upon principal component analysis citation:19 ncitation:19 pid1044158
+title1:A fast pixel mapping algorithm using principal component analysis. title2:A fast pixel mapping algorithm using principal component analysis citation:7 ncitation:7 pid1044722
+title1:Application of geometric hashing to iconic database retrieval. title2:Application of geometric hashing to iconic database retrieval citation:31 ncitation:29 pid1045423
+title1:Novel full-search schemes for speeding up image coding using vector quantization. title2:Novel full-search schemes for speeding up image coding using vector quantization citation:11 ncitation:12 pid1052636
+title1:An Adaptive Two-Stage Edge Detection Scheme for Digital Color Images. title2:An adaptive two-stage edge detection scheme for digital color images citation:26 ncitation:22 pid1052894
+title1:A Fast and Simple Algorithm for the Construction of Asymmetrical Reversible Variable Length Codes. title2:A fast and simple algorithm for the construction of asymmetrical reversible variable length codes citation:3 ncitation:3 pid1052899
+title1:A secure and efficient strong-password authentication protocol. title2:A secure and efficient strong-password authentication protocol citation:23 ncitation:20 pid1066086
+title1:An efficient authentication protocol for mobile satellite communication systems. title2:An efficient authentication protocol for mobile satellite communication systems citation:16 ncitation:14 pid1066088
+title1:An improvement on a deniable authentication protocol. title2:An improvement on a deniable authentication protocol citation:1 ncitation:2 pid1066092
+title1:A convertible group signature scheme. title2:A convertible group signature scheme citation:1 ncitation:1 pid1066100
+title1:A secure one-time password authentication scheme with low-computation for mobile communications. title2:A secure one-time password authentication scheme with low-computation for mobile communications citation:12 ncitation:12 pid1066444
+title1:A data embedding scheme for color images based on genetic algorithm and absolute moment block truncation coding. title2:A data embedding scheme for color images based on genetic algorithm and absolute moment block truncation coding citation:12 ncitation:10 pid1070240
+title1:A Letter-oriented Perfect Hashing Scheme Based upon Sparse Table Compression. citation:11 ncitation:9 pid1073756
+title1:New Public-Key Cipher System Based Upon the Diophantine Equations. title2:A new public-key cipher system based upon the Diophantine equations citation:25 ncitation:23 pid1080584
+title1:An efficient computation of Euclidean distances using approximated look-up table. title2:An efficient computation of Euclidean distances using approximated look-up table citation:25 ncitation:27 pid1096700
+title1:A Reversible Data Hiding Scheme Based on Side Match Vector Quantization. title2:A reversible data hiding scheme based on side match vector quantization citation:123 ncitation:121 pid1097570
+title1:A new image coding algorithm using variable-rate side-match finite-state vector quantization. title2:A new image coding algorithm using variable-rate side-match finite-state vector quantization citation:47 ncitation:48 pid1100499
+title1:A virtual image cryptosystem based upon vector quantization. title2:A virtual image cryptosystem based upon vector quantization citation:219 ncitation:216 pid1100501
+title1:Fast Planar-Oriented Ripple Search Algorithm for Hyperspace VQ Codebook. title2:Fast planar-oriented ripple search algorithm for hyperspace VQ codebook citation:63 ncitation:53 pid1102576
+title1:Optimal Bucket Allocation Design of k-ary MKH Files for Partial Match Retrieval. title2:Optimal bucket allocation design of k-ary MKH files for partial match retrieval citation:4 ncitation:4 pid1112552
+title1:An ElGamal-Like Cryptosystem for Enciphering Large Messages. title2:An ElGamal-like cryptosystem for enciphering large messages citation:72 ncitation:68 pid1112946
+title1:Performance Analyses of Cartesian Product Files and Random Files. title2:Performance analyses of Cartesian product files and random files citation:26 ncitation:23 pid1127735
+title1:Symbolic Gray Code as a Perfect Multiattribute Hashing Scheme for Partial Match Queries. title2:Symbolic Gray code as a perfect multiattribute hashing scheme for partial match queries citation:33 ncitation:28 pid1127740
+title1:Query Processing in a Fragmented Relational Distributed System: Mermaid. title2:Query processing in a fragmented relational distributed system: Mermaid citation:52 ncitation:54 pid1129924
+title1:Guessing by neighbors: an efficient reconstruction method for transmitting image progressively. title2:Guessing by neighbors: an efficient reconstruction method for transmitting image progressively citation:3 ncitation:3 pid1136351
+title1:Importance sampling of products from illumination and BRDF using spherical radial basis functions. title2:Importance sampling of products from illumination and BRDF using spherical radial basis functions citation:4 ncitation:3 pid1137391
+title1:A new solution for assigning cryptographic keys to control access in mobile agent environments. title2:A new solution for assigning cryptographic keys to control access in mobile agent environments citation:9 ncitation:9 pid1140458
+title1:A novel key management scheme for dynamic multicast communications. title2:A novel key management scheme for dynamic multicast communications citation:4 ncitation:5 pid1142342
+title1:Lossless recovery of a VQ index table with embedded secret data. title2:Lossless recovery of a VQ index table with embedded secret data citation:38 ncitation:29 pid1143474
+title1:An iterative modular multiplication algorithm in RNS. title2:An iterative modular multiplication algorithm in RNS citation:2 ncitation:2 pid1144803
+title1:A division algorithm for residue numbers. title2:A division algorithm for residue numbers citation:5 ncitation:3 pid1144890
+title1:Digital signature with message recovery using self-certified public keys without trustworthy system authority. title2:Digital signature with message recovery using self-certified public keys without trustworthy system authority citation:32 ncitation:29 pid1148342
+title1:A fast modular square computing method based on the generalized Chinese remainder theorem for prime moduli. title2:A fast modular square computing method based on the generalized Chinese remainder theorem for prime moduli citation:8 ncitation:8 pid1148373
+title1:A scheme for threshold multi-secret sharing. title2:A scheme for threshold multi-secret sharing citation:38 ncitation:29 pid1148716
+title1:Authentication schemes with no verification table. title2:Authentication schemes with no verification table citation:5 ncitation:5 pid1148733
+title1:A time-stamping protocol for digital watermarking. title2:A time-stamping protocol for digital watermarking citation:8 ncitation:8 pid1148981
+title1:Error prevention and resilience of VQ encoded images. title2:Error prevention and resilience of VQ encoded images citation:3 ncitation:3 pid1150376
+title1:A color image watermarking scheme based on color quantization. title2:A color image watermarking scheme based on color quantization citation:61 ncitation:60 pid1150598
+title1:Removing blocking effects using an artificial neural network. title2:Removing blocking effects using an artificial neural network citation:5 ncitation:3 pid1150935
+title1:A parallel residue-to-binary conversion algorithm without trial division. title2:A parallel residue-to-binary conversion algorithm without trial division citation:1 ncitation:1 pid1164873
+title1:Simple efficient mutual anonymity protocols for peer-to-peer network based on primitive roots. title2:Simple efficient mutual anonymity protocols for peer-to-peer network based on primitive roots citation:3 ncitation:2 pid1167964
+title1:Secure communications for cluster-based ad hoc networks using node identities. title2:Secure communications for cluster-based ad hoc networks using node identities citation:37 ncitation:32 pid1168019
+title1:Robust t-out-of-n oblivious transfer mechanism based on CRT. title2:Robust< i> t</i>-out-of-< i> n</i> oblivious transfer mechanism based on CRT citation:15 ncitation:10 pid1168175
+title1:Anonymous authentication scheme for wireless communications. title2:Anonymous authentication scheme for wireless communications citation:9 ncitation:7 pid1168462
+title1:A secure and efficient authentication scheme for mobile users. title2:A secure and efficient authentication scheme for mobile users citation:8 ncitation:6 pid1168502
+title1:A dynamic mechanism for determining relationships in a partially ordered user hierarchy. title2:A dynamic mechanism for determining relationships in a partially ordered user hierarchy citation:3 ncitation:2 pid1169715
+title1:Reversible Steganography for VQ-Compressed Images Using Side Matching and Relocation. title2:Reversible steganography for VQ-compressed images using side matching and relocation citation:76 ncitation:72 pid1185649
+title1:Lossless Data Embedding With High Embedding Capacity Based on Declustering for VQ-Compressed Codes. title2:Lossless data embedding with high embedding capacity based on declustering for VQ-compressed codes citation:29 ncitation:22 pid1185743
+title1:Preserving data integrity in mobile networks with variant Diffie-Hellman protocol. citation:1 ncitation:1 pid1188928
+title1:Adaptive Data Hiding Scheme for Palette Images. title2:Adaptive Data Hiding Scheme for Palette Images citation:1 ncitation:1 pid1201408
+title1:A Bit-Level Visual Secret Sharing Scheme for Multi-Secret Images Using Rotation and Reversion Operatations. title2:A Bit-Level Visual Secret Sharing Scheme for Multi-Secret Images Using Rotation and Reversion Operatations citation:0 ncitation:0 pid1201419
+title1:Preventing Cheating in Computational Visual Cryptography. title2:Preventing cheating in computational visual cryptography citation:4 ncitation:4 pid1223571
+title1:Search-order coding method with indicator-elimination property. title2:Search-order coding method with indicator-elimination property citation:4 ncitation:3 pid1226209
+title1:Distortion-free secret image sharing mechanism using modulus operator. title2:Distortion-free secret image sharing mechanism using modulus operator citation:27 ncitation:24 pid1226973
+title1:A lossless data embedding technique by joint neighboring coding. title2:A lossless data embedding technique by joint neighboring coding citation:37 ncitation:-1 pid1227012
+title1:The strategy of reducing the location update traffic using forwarding pointers in virtual layer architecture. title2:The strategy of reducing the location update traffic using forwarding pointers in virtual layer architecture citation:6 ncitation:6 pid1231955
+title1:Security enhancement for anonymous secure e-voting over a network. title2:Security enhancement for anonymous secure e-voting over a network citation:48 ncitation:43 pid1231962
+title1:A new cryptographic key assignment scheme with time-constraint access control in a hierarchy. title2:A new cryptographic key assignment scheme with time-constraint access control in a hierarchy citation:29 ncitation:29 pid1232026
+title1:A novel three-party encrypted key exchange protocol. title2:A novel three-party encrypted key exchange protocol citation:78 ncitation:72 pid1232032
+title1:On the security of a copyright protection scheme based on visual cryptography. title2:On the security of a copyright protection scheme based on visual cryptography citation:18 ncitation:12 pid1232060
+title1:Roaming across wireless local area networks using SIM-based authentication protocol. title2:Roaming across wireless local area networks using SIM-based authentication protocol citation:2 ncitation:1 pid1232097
+title1:An efficient proxy raffle protocol with anonymity-preserving. title2:An efficient proxy raffle protocol with anonymity-preserving citation:2 ncitation:1 pid1232151
+title1:Design of electronic t-out-of-n lotteries on the Internet. title2:Design of electronic< i> t</i>-out-of-< i> n</i> lotteries on the Internet citation:9 ncitation:7 pid1232168
+title1:Sharing visual multi-secrets using circle shares. title2:Sharing visual multi-secrets using circle shares citation:86 ncitation:71 pid1232171
+title1:Security enhancement for a three-party encrypted key exchange protocol against undetectable on-line password guessing attacks. title2:Security enhancement for a three-party encrypted key exchange protocol against undetectable on-line password guessing attacks citation:29 ncitation:27 pid1232178
+title1:An ID-based multisignature scheme without reblocking and predetermined signing order. title2:An ID-based multisignature scheme without reblocking and predetermined signing order citation:7 ncitation:7 pid1232355
+title1:Multisignatures with distinguished signing authorities for sequential and broadcasting architectures. title2:Multisignatures with distinguished signing authorities for sequential and broadcasting architectures citation:9 ncitation:9 pid1232363
+title1:An efficient password authenticated key exchange protocol for imbalanced wireless networks. title2:An efficient password authenticated key exchange protocol for imbalanced wireless networks citation:8 ncitation:7 pid1232404
+title1:Combined association rules for dealing with missing values. title2:Combined association rules for dealing with missing values citation:13 ncitation:11 pid1232488
+title1:An Improved EMD Embedding Scheme Based on Secret Image Difference. title2:An Improved EMD Embedding Scheme Based on Secret Image Difference citation:0 ncitation:0 pid1243098
+title1:Lossless Data Hiding Based on Histogram Modification for Image Authentication. title2:Lossless data hiding based on histogram modification for image authentication citation:16 ncitation:16 pid1243145
+title1:A High Embedding Efficiency Steganography Scheme for Wet Paper Codes. title2:A High Embedding Efficiency Steganography Scheme for Wet Paper Codes citation:4 ncitation:1 pid1259996
+title1:A Resistant Secret Sharing Scheme. title2:A Resistant Secret Sharing Scheme citation:1 ncitation:1 pid1260028
+title1:A Block Feature Correlation Based Image Watermarking for Tamper Detection Using Linear Equation. title2:A Block Feature Correlation Based Image Watermarking for Tamper Detection Using Linear Equation citation:0 ncitation:0 pid1260305
+title1:Preserving robustness and removability for digital watermarks using subsampling and difference correlation. title2:Preserving robustness and removability for digital watermarks using subsampling and difference correlation citation:24 ncitation:20 pid1276387
+title1:A countable and time-bound password-based user authentication scheme for the applications of electronic commerce. title2:A countable and time-bound password-based user authentication scheme for the applications of electronic commerce citation:8 ncitation:6 pid1276599
+title1:A high stego-image quality steganographic scheme with reversibility and high payload using multiple embedding strategy. title2:A high stego-image quality steganographic scheme with reversibility and high payload using multiple embedding strategy citation:14 ncitation:-1 pid1278609
+title1:A reversible information hiding scheme using left-right and up-down chinese character representation. citation:14 ncitation:10 pid1278613
+title1:An efficient three-party authenticated key exchange protocol using elliptic curve cryptography for mobile-commerce environments. title2:An efficient three-party authenticated key exchange protocol using elliptic curve cryptography for mobile-commerce environments citation:39 ncitation:27 pid1278618
+title1:Sharing a verifiable secret image using two shadows. title2:Sharing a verifiable secret image using two shadows citation:12 ncitation:9 pid1280352
+title1:Reversible information hiding for VQ indices based on locally adaptive coding. title2:Reversible information hiding for VQ indices based on locally adaptive coding citation:41 ncitation:-1 pid1282963
+title1:Efficient User Authentication and Key Establishment Protocols with Perfect Forward Secrecy for Mobile Devices. title2:Efficient user authentication and key establishment protocols with perfect forward secrecy for mobile devices citation:1 ncitation:1 pid1301920
+title1:Data Hiding in Images by Hybrid LSB Substitution. title2:Data hiding in images by hybrid LSB substitution citation:11 ncitation:11 pid1311113
+title1:Information Hiding in Dual Images with Reversibility. title2:Information hiding in dual images with reversibility citation:4 ncitation:2 pid1311115
+title1:An Improvement on Authenticated Key Agreement Scheme. title2:An improvement on authenticated key agreement scheme citation:2 ncitation:2 pid1314974
+title1:Cryptanalysis of ID-Based Digital Signature Scheme on Elliptic Curve Cryptosystem. title2:Cryptanalysis of ID-based digital signature scheme on elliptic curve cryptosystem citation:5 ncitation:5 pid1321388
+title1:A Self-Reference Watermarking Scheme Based on Wet Paper Coding. title2:A self-reference watermarking scheme based on wet paper coding citation:2 ncitation:2 pid1323102
+title1:A VSS Scheme of Image Size Invariant for Vertical Edge Enhancement. title2:A VSS Scheme of Image Size Invariant for Vertical Edge Enhancement citation:0 ncitation:0 pid1323115
+title1:A New Intelligent Authorization Agent Model in Grid. title2:A New Intelligent Authorization Agent Model in Grid citation:1 ncitation:2 pid1323121
+title1:An Enhancement of JPEG Still Image Compression with Adaptive Linear Regression and Golomb-Rice Coding. title2:An Enhancement of JPEG Still Image Compression with Adaptive Linear Regression and Golomb-Rice Coding citation:3 ncitation:2 pid1323282
+title1:Hiding Information Employing Reduplicating Embedding. title2:Hiding Information Employing Reduplicating Embedding citation:2 ncitation:1 pid1327362
+title1:Hiding data: a high-capacity distortionless approach. title2:Hiding data: a high-capacity distortionless approach citation:2 ncitation:2 pid1340503
+title1:An ID-based remote mutual authentication with key agreement scheme for mobile devices on elliptic curve cryptosystem. title2:An ID-based remote mutual authentication with key agreement scheme for mobile devices on elliptic curve cryptosystem citation:70 ncitation:53 pid1391270
+title1:An efficient and fair buyer-seller fingerprinting scheme for large scale networks. citation:7 ncitation:3 pid1394696
+title1:High payload steganography mechanism using hybrid edge detector. title2:High payload steganography mechanism using hybrid edge detector citation:33 ncitation:20 pid1419222
+title1:A high payload frequency-based reversible image hiding method. title2:A high payload frequency-based reversible image hiding method citation:23 ncitation:17 pid1462823
+title1:A novel self-tuning feedback controller for active queue management supporting TCP flows. title2:A novel self-tuning feedback controller for active queue management supporting TCP flows citation:13 ncitation:13 pid1501716
+title1:A reversible data hiding scheme using complementary embedding strategy. title2:A reversible data hiding scheme using complementary embedding strategy citation:28 ncitation:19 pid1513816
+title1:Using quad smoothness to efficiently control capacity-distortion of reversible data hiding. citation:3 ncitation:1 pid1543139
+title1:High capacity SMVQ-based hiding scheme using adaptive index. title2:High capacity SMVQ-based hiding scheme using adaptive index citation:17 ncitation:10 pid1561959
+title1:An on-line electronic check system with mutual authentication. title2:An on-line electronic check system with mutual authentication citation:24 ncitation:15 pid1562231
+title1:Lossless Compression Schemes of Vector Quantization Indices Using State Codebook. title2:Lossless compression schemes of vector quantization indices using state codebook citation:3 ncitation:3 pid1599008
+title1:New method of secret image sharing based upon vector quantization. title2:New method of secret image sharing based upon vector quantization citation:11 ncitation:9 pid1657499
+title1:Digital watermarking of images using neural networks. title2:Digital watermarking of images using neural networks citation:49 ncitation:46 pid1658407
+title1:Two improved codebook search methods of vector quantization based on orthogonal checking and fixed range search. title2:Two improved codebook search methods of vector quantization based on orthogonal checking and fixed range search citation:7 ncitation:7 pid1681111
+title1:An efficient and reliable E-DRM scheme for mobile environments. title2:An efficient and reliable E-DRM scheme for mobile environments citation:7 ncitation:4 pid1681979
+title1:Digital rights management for multimedia content over 3G mobile networks. title2:Digital rights management for multimedia content over 3G mobile networks citation:2 ncitation:2 pid1682525
+title1:Path Planning for Racing Games. title2:Path planning for racing games citation:3 ncitation:-1 pid1683046
+title1:Novel Geometrical Voxelization Approach with Application to Streamlines. title2:Novel geometrical voxelization approach with application to streamlines citation:1 ncitation:-1 pid1726138
+title1:An encoding method for both image compression and data lossless information hiding. title2:An encoding method for both image compression and data lossless information hiding citation:12 ncitation:9 pid1729206
+title1:An improved data hiding approach for polygon meshes. title2:An improved data hiding approach for polygon meshes citation:4 ncitation:3 pid1744317
+title1:Data hiding based on the similarity between neighboring pixels with reversibility. title2:Data hiding based on the similarity between neighboring pixels with reversibility citation:35 ncitation:17 pid1744642
+title1:Hybrid wet paper coding mechanism for steganography employing n-indicator and fuzzy edge detector. title2:Hybrid wet paper coding mechanism for steganography employing< i> n</i>-indicator and fuzzy edge detector citation:3 ncitation:2 pid1750700
+title1:Self-verifying visual secret sharing using error diffusion and interpolation techniques. title2:Self-verifying visual secret sharing using error diffusion and interpolation techniques citation:5 ncitation:3 pid1762672
+title1:An adaptable threshold detector. title2:An adaptable threshold detector citation:8 ncitation:3 pid1809755
+title1:Texture Tiling on 3D Models Using Automatic Polycube-maps and Wang Tiles. title2:Texture Tiling on 3D Models Using Automatic Polycube-maps and Wang Tiles citation:2 ncitation:0 pid1809758
+title1:Dual Digital Watermarking for Internet Media Based on Hybrid Strategies. title2:Dual digital watermarking for internet media based on hybrid strategies citation:9 ncitation:7 pid1809768
+title1:Reversible Data Hiding Based on Histogram Modification of Pixel Differences. title2:Reversible data hiding based on histogram modification of pixel differences citation:148 ncitation:121 pid1809776
+title1:A Novel Illumination-Balance Technique for Improving the Quality of Degraded Text-Photo Images. title2:A novel illumination-balance technique for improving the quality of degraded text-photo images citation:7 ncitation:5 pid1816030
+title1:An efficient e-mail protocol providing perfect forward secrecy for mobile devices. citation:1 ncitation:1 pid2121122
+title1:An Anonymous and Self-Verified Mobile Authentication with Authenticated Key Agreement for Large-Scale Wireless Networks. title2:An anonymous and self-verified mobile authentication with authenticated key agreement for large-scale wireless networks citation:16 ncitation:10 pid2123901
+title1:A Steganographic Scheme based on Wet Paper Codes Suitable for Uniformly Distributed Wet Pixels. title2:A steganographic scheme based on wet paper codes suitable for uniformly distributed wet pixels citation:3 ncitation:2 pid2124708
+title1:A Large Payload EMD Embedding Scheme with High Stego-image Quality. title2:A large payload EMD embedding scheme with high stego-image quality citation:1 ncitation:1 pid2125129
+title1:A steganographic scheme by fully exploiting modification directions. title2:A steganographic scheme by fully exploiting modification directions citation:5 ncitation:-1 pid2125359
+title1:Meaningful secret sharing technique with authentication and remedy abilities. title2:Meaningful secret sharing technique with authentication and remedy abilities citation:6 ncitation:3 pid2125754
+title1:A novel image watermarking in redistributed invariant wavelet domain. title2:A novel image watermarking in redistributed invariant wavelet domain citation:12 ncitation:6 pid2127514
+title1:Hiding Secret Data in an Image Using Codeword Imitation. title2:Hiding Secret Data in an Image Using Codeword Imitation. citation:2 ncitation:1 pid2137075
+title1:A progressive secret reveal system based on SPIHT image transmission. title2:A progressive secret reveal system based on SPIHT image transmission citation:19 ncitation:19 pid2148905
+title1:Using set partitioning in hierarchical trees to authenticate digital images. title2:Using set partitioning in hierarchical trees to authenticate digital images citation:35 ncitation:32 pid2151397
+title1:A new lossless compression scheme based on Huffman coding scheme for image compression. title2:A new lossless compression scheme based on Huffman coding scheme for image compression citation:26 ncitation:24 pid2153517
+title1:A high quality and small shadow size visual secret sharing scheme based on hybrid strategy for grayscale images. title2:A high quality and small shadow size visual secret sharing scheme based on hybrid strategy for grayscale images citation:1 ncitation:0 pid2156856
+title1:A reversible data hiding scheme for VQ indices using locally adaptive coding. title2:A reversible data hiding scheme for VQ indices using locally adaptive coding citation:11 ncitation:3 pid2159944
+title1:A Prediction-Based Adaptive Reversible Data Embedding Scheme. title2:A prediction-based adaptive reversible data embedding scheme citation:2 ncitation:0 pid2160692
+title1:A secure fragile watermarking scheme based on chaos-and-hamming code. title2:A secure fragile watermarking scheme based on chaos-and-hamming code citation:16 ncitation:7 pid2164067
+title1:A Secret Image Sharing Scheme with High Quality Shadows Based on Exploiting Modification Direction. title2:A Secret Image Sharing Scheme with High Quality Shadows Based on Exploiting Modification Direction citation:1 ncitation:-1 pid2170296
+title1:A Hierarchical Fragile Watermarking with VQ Index Recovery. title2:A hierarchical fragile watermarking with VQ index recovery citation:1 ncitation:0 pid2170874
+title1:A hierarchical threshold secret image sharing. title2:A hierarchical threshold secret image sharing citation:4 ncitation:-1 pid2171355
+title1:An Efficient V-Fairness (t, n) Threshold Secret Sharing Scheme. title2:An Efficient V-Fairness (t, n) Threshold Secret Sharing Scheme citation:2 ncitation:1 pid2185823
+title1:An Image Authentication Scheme for Halftone Images Based upon Error Diffusion. title2:An image authentication scheme for halftone images based upon error diffusion citation:1 ncitation:1 pid2195707
+title1:High Payload Data Embedding with Hybrid Strategy. title2:High Payload Data Embedding with Hybrid Strategy citation:1 ncitation:1 pid2197329
+title1:Reversible Data Embedding for Vector Quantization Indices. title2:Reversible Data Embedding for Vector Quantization Indices citation:2 ncitation:2 pid2200934
+title1:Sharing Secrets and Reversibly Reconstructing the Cover Image Using Two Meaningful Shadows. title2:Sharing Secrets and Reversibly Reconstructing the Cover Image Using Two Meaningful Shadows citation:0 ncitation:0 pid2203095
+title1:Embedding Secret Messages Using Modified Huffman Coding. title2:Embedding secret messages using modified Huffman coding citation:2 ncitation:2 pid2207703
+title1:A Robust Public Watermarking Scheme Based on DWT. title2:A Robust Public Watermarking Scheme Based on DWT citation:1 ncitation:1 pid2207957
+title1:Aryabhata Remainder Theorem for Moduli with Common Factors and Its Application in Information Protection Systems. title2:Aryabhata Remainder Theorem for Moduli with Common Factors and Its Application in Information Protection Systems citation:1 ncitation:0 pid2208005
+title1:A Novel Digital Signature Scheme for Application of Document Review in a Linearly Hierarchical Organization. title2:A novel digital signature scheme for application of document review in a linearly hierarchical organization citation:2 ncitation:1 pid2216534
+title1:Using Dynamic Programming Strategy to Find an Optimal Solution to Exploiting Modification Direction Embedding Method. title2:Using dynamic programming strategy to find an optimal solution to exploiting modification direction embedding method citation:3 ncitation:3 pid2217667
+title1:A Novel Retinal Blood Vessel Segmentation Method Based on Line Operator and Edge Detector. title2:A Novel Retinal Blood Vessel Segmentation Method Based on Line Operator and Edge Detector citation:2 ncitation:2 pid2264606
+title1:An Improved Authentication Key Agreement Protocol Based on Elliptic Curve for Wireless Mobile Networks. title2:An improved authentication key agreement protocol based on elliptic curve for wireless mobile networks citation:7 ncitation:8 pid2264934
+title1:A Steganographic Method with High Embedding Capacity by Improving Exploiting Modification Direction. title2:A steganographic method with high embedding capacity by improving exploiting modification direction citation:30 ncitation:19 pid2268889
+title1:Hiding Data in VQ-Compressed Images Using Pairwise Nearest Codewords Based on Minimum Spanning Tree. title2:Hiding data in VQ-compressed images using pairwise nearest codewords based on minimum spanning tree citation:1 ncitation:0 pid2270670
+title1:Improvements of EMD Embedding for Large Payloads. title2:Improvements of EMD embedding for large payloads citation:6 ncitation:5 pid2271349
+title1:Brain Tumor Detection Using Color-Based K-Means Clustering Segmentation. title2:Brain tumor detection using color-based k-means clustering segmentation citation:30 ncitation:23 pid2271751
+title1:A Best-pair-first Capacity-distortion Control for Data Hiding on VQ Compression Domain. title2:A Best-pair-first Capacity-distortion Control for Data Hiding on VQ Compression Domain citation:2 ncitation:3 pid2283646
+title1:A New Probabilistic Visual Secret Sharing Scheme for Color Images. title2:A new probabilistic visual secret sharing scheme for color images citation:11 ncitation:11 pid2294325
+title1:Secret Image Sharing Using Quadratic Residues. title2:Secret image sharing using quadratic residues citation:7 ncitation:4 pid2311335
+title1:A Novel Secure Data Hiding Scheme Using a Secret Reference Matrix. title2:A novel secure data hiding scheme using a secret reference matrix citation:2 ncitation:1 pid2314003
+title1:General Threshold Signature Based on the Chinese Remainder Theorem. title2:General threshold signature based on the Chinese remainder theorem citation:1 ncitation:1 pid2315058
+title1:A Robust and Efficient Smart Card Oriented Remote User Authentication Protocol. title2:A Robust and Efficient Smart Card Oriented Remote User Authentication Protocol citation:4 ncitation:1 pid2321389
+title1:Secret Sharing and Information Hiding by Shadow Images. title2:Secret Sharing and Information Hiding by Shadow Images citation:1 ncitation:3 pid2326363
+title1:A Flexible Fragile Watermarking Scheme for Binary Images with Reversibility. title2:A Flexible Fragile Watermarking Scheme for Binary Images with Reversibility citation:0 ncitation:0 pid2328286
+title1:An Effective Demosaicking and Zooming Algorithm for CFA Images. title2:An Effective Demosaicking and Zooming Algorithm for CFA Images citation:1 ncitation:1 pid2360901
+title1:Preserving PHI in Compliance with HIPAA Privacy/Security Regulations Using Cryptographic Techniques. title2:Preserving PHI in compliance with HIPAA privacy/security regulations using cryptographic techniques citation:2 ncitation:1 pid2375809
+title1:Image Data Hiding Schemes Based on Graph Coloring. title2:Image data hiding schemes based on graph coloring citation:1 ncitation:0 pid2384262
+title1:A self-encryption mechanism for authentication of roaming and teleconference services. title2:A self-encryption mechanism for authentication of roaming and teleconference services citation:84 ncitation:84 pid2386245
+title1:Nucleus and cytoplast contour detector from a cervical smear image. title2:Nucleus and cytoplast contour detector from a cervical smear image citation:1 ncitation:0 pid2406187
+title1:Self-embedding fragile watermarking with restoration capability based on adaptive bit allocation mechanism. title2:Self-embedding fragile watermarking with restoration capability based on adaptive bit allocation mechanism citation:16 ncitation:6 pid2407857
+title1:A fast VQ codebook search with initialization and search order. title2:A fast VQ codebook search with initialization and search order citation:1 ncitation:0 pid2425469
+title1:A reversible and multiple-layer embedding strategy with high capacity. title2:A reversible and multiple-layer embedding strategy with high capacity citation:0 ncitation:0 pid2432050
+title1:A technique of embedding digital data in an image compression code reversibly. title2:A technique of embedding digital data in an image compression code reversibly citation:0 ncitation:0 pid2437754
+title1:A novel multi-group exploiting modification direction method based on switch map. title2:A novel multi-group exploiting modification direction method based on switch map citation:1 ncitation:-1 pid2453927
+title1:Anti-Pseudo-Gray Coding for VQ Encoded Images over Noisy Channels. title2:Anti-pseudo-gray coding for VQ encoded images over noisy channels citation:2 ncitation:2 pid2481042
+title1:Signing a digital signature without using one-way hash functions and message redundancy schemes. title2:Signing a digital signature without using one-way hash functions and message redundancy schemes citation:33 ncitation:31 pid2585573
+title1:A data-hiding scheme based on one-way hash function. title2:A data-hiding scheme based on one-way hash function citation:0 ncitation:0 pid2593761
+title1:Data hiding for vector quantization images using mixed-base notation and dissimilar patterns without loss of fidelity. title2:Data hiding for vector quantization images using mixed-base notation and dissimilar patterns without loss of fidelity citation:3 ncitation:2 pid2682991
+title1:Optimizing least-significant-bit substitution using cat swarm optimization strategy. title2:Optimizing least-significant-bit substitution using cat swarm optimization strategy citation:11 ncitation:10 pid2682999
+title1:Fully Deniable Message Authentication Protocols Preserving Confidentiality. title2:Fully deniable message authentication protocols preserving confidentiality citation:1 ncitation:-1 pid2683000
+title1:Similar Image Retrieval Based on Wavelet Transformation. title2:Similar image retrieval based on wavelet transformation citation:7 ncitation:7 pid2683023
+title1:Parallel computational algorithms for generalized Chinese remainder theorem. title2:Parallel computational algorithms for generalized Chinese remainder theorem citation:11 ncitation:8 pid2727687
+title1:A threshold decryption scheme without session keys. title2:A threshold decryption scheme without session keys citation:4 ncitation:4 pid2802613
+title1:Diagonal axes method (DAM): a fast search algorithm for vector quantization. title2:Diagonal axes method (DAM): a fast search algorithm for vector quantization citation:37 ncitation:37 pid2852280
+title1:Reversible Data Hiding Scheme Based on Image Inpainting. title2:Reversible Data Hiding Scheme Based on Image Inpainting citation:2 ncitation:1 pid2859613
+title1:A multi-threshold secret image sharing scheme based on MSP. title2:A multi-threshold secret image sharing scheme based on MSP citation:2 ncitation:-1 pid2860131
+title1:An adaptive prediction-error expansion oriented reversible information hiding scheme. title2:An adaptive prediction-error expansion oriented reversible information hiding scheme citation:3 ncitation:0 pid2862258
+title1:An Automatic Race Track Generating System. title2:An automatic race track generating system citation:0 ncitation:-1 pid2862372
+title1:Paper Currency Verification with Support Vector Machines. title2:Paper Currency Verification with Support Vector Machines citation:2 ncitation:0 pid2862389
+title1:Improved JPEG Scheme Based on Adaptive Block Encoding. title2:Improved JPEG Scheme Based on Adaptive Block Encoding citation:0 ncitation:0 pid2865178
+title1:Reversible data hiding for high quality images exploiting interpolation and direction order mechanism. title2:Reversible data hiding for high quality images exploiting interpolation and direction order mechanism citation:2 ncitation:0 pid2872766
+title1:Robust image hashing using non-uniform sampling in discrete Fourier domain. title2:Robust image hashing using non-uniform sampling in discrete Fourier domain citation:1 ncitation:0 pid2875713
+title1:A Secure Single Sign-On Mechanism for Distributed Computer Networks. title2:A secure single sign-on mechanism for distributed computer networks citation:18 ncitation:7 pid2876865
+title1:Adaptive self-recovery for tampered images based on VQ indexing and inpainting. title2:Adaptive self-recovery for tampered images based on VQ indexing and inpainting citation:2 ncitation:None pid2876970
+title1:A fault-tolerant group key agreement protocol exploiting dynamic setting. citation:0 ncitation:None pid2880354

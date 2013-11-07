@@ -1,0 +1,368 @@
+title:PRM-based identity matching using social context. citation:-1
+title:Toward Intelligent Meeting Agents. citation:-1
+title:Information Visualization for Collaborative Computing. citation:-1
+title:Validating a geographical image retrieval system. citation:-1
+title:Automatic patent classification using citation network information: an experimental study in nanotechnology. citation:-1
+title:Homeland security data mining using social network analysis. citation:-1
+title:Incorporating Geographical Contacts into Social Network Analysis for Contact Tracing in Epidemiology: A Study on Taiwan SARS Data. citation:-1
+title:Categorization and analysis of text in computer mediated communication archives using visualization. citation:-1
+title:Cyber extremism in Web 2.0: An exploratory study of international Jihadist groups. citation:-1
+title:Discovery of improvised explosive device content in the Dark Web. citation:-1
+title:IEDs in the Dark Web: Genre classification of improvised explosive device web pages. citation:-1
+title:Predicting criminal relationships using multivariate survival analysis. citation:-1
+title:Genescene: An ontology-enhanced integration of linguistic and co-occurrence based relations in biomedical texts. citation:-1
+title:Sentiment and affect analysis of Dark Web forums: Measuring radicalization on the internet. citation:-1
+title:Unraveling International Terrorist Groups' Exploitation of the Web: Technical Sophistication, Media Richness, and Web Interactivity. citation:-1
+title:BioPortal Infectious Disease Informatics research: disease surveillance and situational awareness. citation:-1
+title:Automated criminal link analysis based on domain knowledge. citation:-1
+title:A Web-Based System for Infectious Disease Data Integration and Sharing: Evaluating Outcome, Task Performance Efficiency, User Information Satisfaction, and Usability. citation:-1
+title:Global Foot-and-Mouth Disease Surveillance Using BioPortal. citation:-1
+title:Analysis of cyberactivism: A case study of online free Tibet activities. citation:-1
+title:Botnets, and the cybercriminal underground. citation:-1
+title:The Arizona IDMatcher: developing an identity matching tool for law enforcement. citation:-1
+title:Chinese Chief Complaint Classification for Syndromic Surveillance. citation:-1
+title:Redips: Backlink search and analysis on the Web for business intelligence analysis. citation:-1
+title:Terrorism Knowledge Discovery Project: A Knowledge Discovery Approach to Addressing the Threats of Terrorism. citation:-1
+title:Using Social Contextual Information to Match Criminal Identities. citation:-1
+title:Analyzing and Visualizing Criminal Network Dynamics: A Case Study. citation:-1
+title:Information Sharing and Collaboration Policies within Government Agencies. citation:-1
+title:Special issue: "Web retrieval and mining". citation:-1
+title:Medical Information Retrieval (Poster). citation:-1
+title:Intelligence and security informatics for homeland security: information, communication, and transportation. citation:-1
+title:Visual SOM (Abstract). citation:-1
+title:EBizPort: Collecting and analyzing business intelligence information. citation:-1
+title:Visualization in law enforcement. citation:-1
+title:The MindMine Comment Analysis Tool for Collaborative Attitude Solicitation, Analysis, Sense-Making and Visualization. citation:-1
+title:Collaborative Information Retrieval Environment: Integration of Information Retrieval with Group Support Systems. citation:-1
+title:Affect Analysis of Web Forums and Blogs Using Correlation Ensembles. citation:-1
+title:Guest Editors' Introduction: Special Section on Intelligence and Security Informatics. citation:-1
+title:Multilingual chief complaint classification for syndromic surveillance: An experiment with Chinese chief complaints. citation:-1
+title:Graph Kernel-Based Learning for Gene Function Prediction from Gene Interaction Network. citation:-1
+title:Internet Browsing: Visualizing Category Map by Fisheye and Fractal Views. citation:-1
+title:A machine learning approach to web page filtering using content and structure analysis. citation:-1
+title:Segmentation of Lecture Videos Based on Text: A Method Combining Multiple Linguistic Features. citation:-1
+title:Mapping the contemporary terrorism research domain. citation:-1
+title:Verifying the Proximity Hypothesis for Self-organizing Maps. citation:-1
+title:Evaluating mass knowledge acquisition using the ALICE chatterbot: The AZ-ALICE dialog system. citation:-1
+title:Cyberinfrastructure for homeland security: Advances in information sharing, data mining, and collaboration systems. citation:-1
+title:A Multi-layer Naïve Bayes Model for Approximate Identity Matching. citation:-1
+title:Discovering Identity Problems: A Case Study. citation:-1
+title:A Framework for Exploring Gray Web Forums: Analysis of Forum-Based Communities in Taiwan. citation:-1
+title:A probabilistic model for approximate identity matching. citation:-1
+title:A Graphical, Self-Organizing Approach to Classifying Electronic Meeting Output. citation:-1
+title:A Review of Public Health Syndromic Surveillance Systems. citation:-1
+title:Visualization Tools for Self-Organizing Maps. citation:-1
+title:Create a Large-Scale Digital Library for Geo-Referenced Information. citation:-1
+title:Arizona Literature Mapper: An integrated approach to monitor and analyze global bioterrorism research literature. citation:-1
+title:On the Topology of the Dark Web of Terrorist Groups. citation:-1
+title:BioPortal: Sharing and Analyzing Infectious Disease Information. citation:-1
+title:COPLINK Agent: An Architecture for Information Monitoring and Sharing in Law Enforcement. citation:-1
+title:Authorship Analysis in Cybercrime Investigation. citation:-1
+title:A quantitative stock prediction system based on financial news. citation:-1
+title:Collaborative Workflow Management for Interagency Crime Analysis. citation:-1
+title:Understanding the Nexus of Terrorist Web Sites. citation:-1
+title:Analyzing terror campaigns on the internet: Technical sophistication, content richness, and Web interactivity. citation:-1
+title:Mapping Dark Web Geolocation. citation:-1
+title:Kernel-based learning for biomedical relation extraction. citation:-1
+title:The Landscape of International Computing. citation:-1
+title:Reducing Indeterminism in Consultation: A Cognitive Model of User/Librarian Interactions. citation:-1
+title:Spatial-Temporal Cross-Correlation Analysis: A New Measure and a Case Study in Infectious Disease Informatics. citation:-1
+title:Homeland Security Data Mining Using Social Network Analysis. citation:-1
+title:Evaluating a news-aware quantitative trader: The effect of momentum and contrarian stock selection strategies. citation:-1
+title:Nuclear Threat Detection Via the Nuclear Web and Dark Web: Framework and Preliminary Study. citation:-1
+title:Organizing domain-specific information on the Web: An experiment on the Spanish business Web directory. citation:-1
+title:Efficient scheduling of periodic information monitoring requests. citation:-1
+title:Digital Library Development in the Asia Pacific. citation:-1
+title:Recommendation as link prediction: a graph kernel-based machine learning approach. citation:-1
+title:Using Genetic Algorithm in Building Domain-Specific Collections: An Experiment in the Nanotechnology Domain. citation:-1
+title:Biomedical Informatics and Security Informatics Research in Digital Library. citation:-1
+title:From Digital Library to Digital Government: A Case Study in Crime Data Mapping and Mining. citation:-1
+title:Using Content-Based and Link-Based Analysis in Building Vertical Search Engines. citation:-1
+title:Cross-Jurisdictional Activity Networks to Support Criminal Investigations. citation:-1
+title:Visualizing Internet Search Results with Adaptive Self-Organizing Maps (demonstration abstract). citation:-1
+title:Building Large-Scale Digital Libraries - Guest Editors' Introduction. citation:-1
+title:Interactive Internet Search through Automatic Clustering (poster abstract): an empirical study. citation:-1
+title:Analyzing Terrorist Networks: A Case Study of the Global Salafi Jihad Network. citation:-1
+title:The Dark Web Portal Project: Collecting and Analyzing the Presence of Terrorist Groups on the Web. citation:-1
+title:Online Query Refinement on Information Retrieval Systems: A Process Model of Searcher/System Interactions. citation:-1
+title:Mapping the Contemporary Terrorism Research Domain: Researchers, Publications, and Institutions Analysis. citation:-1
+title:Collecting and Analyzing the Presence of Terrorists on the Web: A Case Study of Jihad Websites. citation:-1
+title:Digital Libraries: Technological Advances and Social Impacts (Guest Editors' Introduction). citation:-1
+title:Semantic Search and Semantic Categorization (Abstract). citation:-1
+title:Federated Search of Scientific Literature. citation:-1
+title:CrimeLink Explorer: Using Domain Knowledge to Facilitate Automated Crime Association Analysis. citation:-1
+title:Content Analysis of Jihadi Extremist Groups' Videos. citation:-1
+title:Question Answer TARA: A Terrorism Activity Resource Application. citation:-1
+title:Supporting Information Seeking in Multinational Organizations: A Knowledge Portal Approach. citation:-1
+title:Business Intelligence Explorer: A Knowledge Map Framework for Discovering Business Intelligence on the Web. citation:-1
+title:Extracting gene pathway relations using a hybrid grammar: the Arizona Relation Parser. citation:-1
+title:Multilingual Web retrieval: An experiment in English-Chinese business intelligence. citation:-1
+title:EconPort: A Digital Library for Microeconomics Educatio. citation:-1
+title:Intelligent internet searching agent based on hybrid simulated annealing. citation:-1
+title:BioPortal: an integrated infectious disease information sharing and analysis environment. citation:-1
+title:Towards A National Infectious Disease Information Infrastructure: A Case Study in West Nile Virus and Botulism. citation:-1
+title:A Collection of Visual Thesauri for Browsing Large Collections of Geographic Images. citation:-1
+title:Enhancing border security: Mutual information analysis to identify suspect vehicles. citation:-1
+title:GeoScience Self-Organizing Map and Concept Space (Poster). citation:-1
+title:The Itsy Bitsy Spider (Poster). citation:-1
+title:SpidersRUs: automated development of vertical search engines in different domains and languages. citation:-1
+title:NanoPort: a web portal for nanoscale science and technology. citation:-1
+title:Introduction to the Special Topic Issue: Artificial Intelligence Techniques for Emerging Information Systems Applications. citation:-1
+title:Personalized spiders for web search and analysis. citation:-1
+title:A hybrid approach to Web forum interactional coherence analysis. citation:-1
+title:Comparison of two approaches to building a vertical search tool: a case study in the nanotechnology domain. citation:-1
+title:Introduction to the special topic issue: Intelligence and security informatics. citation:-1
+title:Coplink: a case of intelligent analysis and knowledge management. citation:-1
+title:Introduction to the JASIST Special Topic issue on web retrieval and mining: A machine learning perspective. citation:-1
+title:Introduction to the special topic issue: Digital Libraries - Part 2. citation:-1
+title:Bioterrorism event detection based on the Markov switching model: A simulated anthrax outbreak study. citation:-1
+title:Introduction to the special topic issue: Digital Libraries - Part 1. citation:-1
+title:An end user evaluation of query formulation and results review tools in three medical meta-search engines. citation:-1
+title:West Nile Virus and Botulism Portal: A Case Study in Infectious Disease Informatics. citation:-1
+title:Optimal Search-Based Gene Subset Selection for Gene Array Cancer Classification. citation:-1
+title:Dynamic Social Network Analysis of a Dark Network: Identifying Significant Facilitators. citation:-1
+title:Exploring the Dark Side of the Web: Collection and Analysis of U.S. Extremist Online Forums. citation:-1
+title:Uncovering the dark Web: A case study of Jihad on the Web. citation:-1
+title:elpfulMed: Intelligent searching for medical information over the internet. citation:-1
+title:Large-scale regulatory network analysis from microarray data: modified Bayesian network learning and association rule mining. citation:-1
+title:The Arizona IDMatcher: A Probabilistic Identity Matching System. citation:-1
+title:Alleviating Search Uncertainty Through Concept Associations: Automatic Indexing, Co-Occurrence Analysis, and Parallel Computing. citation:-1
+title:Introduction to the special issue on decision support in medicine. citation:-1
+title:Interaction Coherence Analysis for Dark Web Forums. citation:-1
+title:Using importance flooding to identify interesting networks of criminal activity. citation:-1
+title:DGPort: A Web Portal for Digital Government. citation:-1
+title:Inductive Query by Examples (IQBE): A Machine Learning Approach. citation:-1
+title:DGPort: A Web Portal for Digital Government. citation:-1
+title:Affect Intensity Analysis of Dark Web Forums. citation:-1
+title:BioPortal: Sharing, Analyzing & Visualizing Infectious Disease Datasets. citation:-1
+title:Medical Ontology-Enhanced Text Processing for Infectious Disease Informatics. citation:-1
+title:Sharing and Visualizing Infectious Disease Datasets Using the WNV-BOT Portal System. citation:-1
+title:Intelligent Spider for Internet Searching. citation:-1
+title:System for Infectious Disease Information Sharing and Analysis: Design and Evaluation. citation:-1
+title:The topology of dark networks. citation:-1
+title:Internet searching and browsing in a multilingual world: An experiment on the Chinese Business Intelligence Portal (CBizPort). citation:-1
+title:User-Centered Evaluation of Arizona BioPathway: An Information Extraction, Integration, and Visualization System. citation:-1
+title:Leveraging Question Answer technology to address terrorism inquiry. citation:-1
+title:Browsing the underdeveloped Web: An experiment on the Arabic Medical Web Directory. citation:-1
+title:Using Importance Flooding to Identify Interesting Networks of Criminal Activity. citation:-1
+title:Applying Authorship Analysis to Arabic Web Content. citation:-1
+title:Visualizing Authorship for Identification. citation:-1
+title:COPLINK center: social network analysis and identity deception detection for law enforcement and homeland security intelligence and security informatics: a crime data mining approach to developing border safe research. citation:-1
+title:Crime Data Mining: An Overview and Case Studies. citation:-1
+title:COPLINK Overview. citation:-1
+title:Matching knowledge elements in concept maps using a similarity flooding algorithm. citation:-1
+title:Summary in context: Searching versus browsing. citation:-1
+title:Collection of U.S. Extremist Online Forums: A Web Mining Approach. citation:-1
+title:Expertise visualization: An implementation and study based on cognitive fit theory. citation:-1
+title:Exploring Gray Web Forums: Analysis and Investigation of Forum-Based Communities in Taiwan. citation:-1
+title:Business stakeholder analyzer: An experiment of classifying stakeholders on the Web. citation:-1
+title:COPLINK: Visualization for Crime Analysis. citation:-1
+title:Visualization in law enforcement. citation:-1
+title:Intelligence and Security Informatics, Techniques and Applications citation:-1
+title:Suspect Vehicle Identification for Border Safety. citation:-1
+title:Evaluating ontology mapping techniques: An experiment in public safety information sharing. citation:-1
+title:CMedPort: Intelligent Searching for Chinese Medical Information. citation:-1
+title:Ontology-enhanced automatic chief complaint classification for syndromic surveillance. citation:-1
+title:Filling Preposition-Based Templates to Capture Information from Medical Abstracts. citation:-1
+title:Visualizing the Expertise Space. citation:-1
+title:Using Shortest Path Algorithms to Identify Criminal Associations. citation:-1
+title:Identifying significant facilitators of dark network evolution. citation:-1
+title:Linking Ontological Resources Using Aggregatable Substance Identifiers to Organize Extracted Relations. citation:-1
+title:SpidersRUs: Creating specialized search engines in multiple languages. citation:-1
+title:An evaluation of the chat and knowledge delivery components of a low-level dialog system: The AZ-ALICE experiment. citation:-1
+title:Multilingual Web Retrieval: An Experiment on a Multilingual Business Intelligence Portal. citation:-1
+title:A stack-based prospective spatio-temporal data analysis approach. citation:-1
+title:Teaching key topics in computer science and information systems through a web search engine project. citation:-1
+title:Estimating drug/plasma concentration levels by applying neural networks to pharmacokinetic data sets. citation:-1
+title:Fighting cybercrime: a review and the Taiwan experience. citation:-1
+title:Target vehicle identification for border safety with modified mutual information. citation:-1
+title:The use of dynamic context to improve casual internet searching. citation:-1
+title:Genescene: Biomedical Text And Data Mining. citation:-1
+title:Introduction to the Journal on Digital Libraries special issue on Asian digital libraries. citation:-1
+title:Topological analysis of criminal activity networks in multiple jurisdictions. citation:-1
+title:Supporting non-English Web searching: An experiment on the Spanish business and the Arabic medical intelligence portals. citation:-1
+title:Editors' introduction special issue on multilingual knowledge management. citation:-1
+title:Process-driven collaboration support for intra-agency crime analysis. citation:-1
+title:Communication-Garden System: Visualizing a computer-mediated communication process. citation:-1
+title:Intelligence and security informatics: information systems perspective. citation:-1
+title:Global mapping of gene/protein interactions in PubMed abstracts: A framework and an experiment with P53 interactions. citation:-1
+title:An International Perspective on Fighting Cybercrime. citation:-1
+title:Examining User Acceptance of COPLINK Technologies by Law Enforcement Officers: A Survey Study. citation:-1
+title:A framework of integrating gene relations from heterogeneous data sources: an experiment on . citation:-1
+title:Technology Implementation Management in Law Enforcement: COPLINK System Usability and User Acceptance Evaluations. citation:-1
+title:Suspect Vehicle Identification for Border Safety with Modified Mutual Information. citation:-1
+title:Visualizing aggregated biological pathway relations. citation:-1
+title:A Spatio Temporal Visualizer for Law Enforcement. citation:-1
+title:Building a scientific knowledge web portal: The NanoPort experience. citation:-1
+title:BorderSafe: Cross-Jurisdictional Information Sharing, Analysis, and Visualization. citation:-1
+title:CMedPort: An integrated approach to facilitating Chinese medical information seeking. citation:-1
+title:Analyzing and Visualizing Gray Web Forum Structure. citation:-1
+title:Supporting Multilingual Information Retrieval in Web Applications: An English-Chinese Web Portal Experiment. citation:-1
+title:Exploring Extremism and Terrorism on the Web: The Dark Web Project. citation:-1
+title:Digital libraries supporting digital government. citation:-1
+title:Evaluating an Infectious Disease Information Sharing and Analysis System. citation:-1
+title:Moving digital libraries into the student learning space: The GetSmart experience. citation:-1
+title:Examining Technology Acceptance by Individual Law Enforcement Officers: An Exploratory Study. citation:-1
+title:A Geographic Knowledge Representation System for Multimedia Geospatial Retrieval and Analysis. citation:-1
+title:Using sentence-selection heuristics to rank text segments in TXTRACTOR. citation:-1
+title:Visualizing criminal relationships: comparison of a hyperbolic tree and a hierarchical list. citation:-1
+title:Untangling Criminal Networks: A Case Study. citation:-1
+title:Evaluating the efficacy of a terrorism question/answer system. citation:-1
+title:NanoPort: An Example for Building Knowledge Portals for Scientific Domains. citation:-1
+title:Medical Data Mining on the Internet: Research on a Cancer Information System. citation:-1
+title:A Knowledge-Based Design for Hypertext-Based Document Retrieval Systems. citation:-1
+title:Frame-based argumentation for group decision task generation and identification. citation:-1
+title:Aggregating Automatically Extracted Regulatory Pathway Relations. citation:-1
+title:Using 3D interfaces to facilitate the spatial knowledge retrieval: a geo-referenced knowledge repository system. citation:-1
+title:Incorporating Web Analysis Into Neural Networks: An Example in Hopfield Net Searching. citation:-1
+title:Evaluating event visualization: a usability study of COPLINK spatio-temporal visualizer. citation:-1
+title:AI, E-government, and Politics 2.0. citation:-1
+title:Intelligent Internet Searching Engine Based on Hybrid Simulated Annealing. citation:-1
+title:AI for Global Disease Surveillance. citation:-1
+title:AI and Global Science and Technology Assessment. citation:-1
+title:Terror tracker system: a web portal for terrorism research. citation:-1
+title:Effect of Inventor Status on Intra-Organizational Innovation Evolution. citation:-1
+title:User acceptance of Intelligence and Security Informatics technology: A study of COPLINK. citation:-1
+title:User Misconceptions of Information Retrieval Systems. citation:-1
+title:The BioPortal project: a national center of excellence for infectious disease informatics. citation:-1
+title:A national center of excellence for infectious disease informatics: project summary. citation:-1
+title:Digital Government Portal: A Tool for Digital Government Research. citation:-1
+title:A Comparison of Tools for Detecting Fake Websites. citation:-1
+title:Exploring the use of concept spaces to improve medical information retrieval. citation:-1
+title:Coplink center: social network analysis and identity deception detection for law enforcement and homeland security intelligence and security informatics: a crime data mining approach to developing border safe research. citation:-1
+title:COPLINK: Visualization and Collaboration for Law Enforcement. citation:-1
+title:Support concept-based multimedia information retrieval: a knowledge management approach. citation:-1
+title:Using Coplink to Analyze Criminal-Justice Data. citation:-1
+title:Creating a large-scale content-based airphoto image digital library. citation:-1
+title:Expert Prediction, Symbolic Learning, and Neural Networks: An Experiment on Greyhound Racing. citation:-1
+title:Guest Editors' Introduction: Artificial Intelligence for Homeland Security. citation:-1
+title:Studying the presence of terrorism on the web: an knowledge portal approach. citation:-1
+title:CMedPort: A Cross-Regional Chinese Medical Portal. citation:-1
+title:BioPortal: a case study in infectious disease informatics. citation:-1
+title:MedTextus: an intelligent web-based medical meta-search system. citation:-1
+title:Visualizing the archive of a computer mediated communication process. citation:-1
+title:Building a Directory for the Underdeveloped Web: An Experiment on the Arabic Medical Web Directory. citation:-1
+title:COPLINK: Visualization for Crime Analysis. citation:-1
+title:BorderSafe: cross-jurisdictional information sharing, analysis, and visualization. citation:-1
+title:Using Backpropagation Networks for the Estimation of Aqueous Activity Coefficients of Aromatic Organic Compounds. citation:-1
+title:Digital Libraries: People, Knowledge, and Technology, 5th International Conference on Asian Digital Libraries, ICADL 2002 Singapore, December 11-14, 2002, Proceedings citation:-1
+title:Digital Libraries: Technology and Management of Indigenous Knowledge for Global Access, 6th International Conference on Asian Digital Libraries, ICADL 2003, Kuala Lumpur, Malaysia, December 8-12, 2003, Proceedings citation:-1
+title:Digital Libraries: International Collaboration and Cross-Fertilization, 7th International Conference on Asian Digital Libraries, ICADL 2004, Shanghai, China, December 13-17, 2004, Proceedings citation:-1
+title:Intelligence and Security Informatics, First NSF/NIJ Symposium, ISI 2003, Tucson, AZ, USA, June 2-3, 2003, Proceedings citation:-1
+title:Intelligence and Security Informatics, IEEE International Conference on Intelligence and Security Informatics, ISI 2005, Atlanta, GA, USA, May 19-20, 2005, Proceedings citation:-1
+title:Intelligence and Security Informatics, IEEE International Conference on Intelligence and Security Informatics, ISI 2006, San Diego, CA, USA, May 23-24, 2006, Proceedings citation:-1
+title:Intelligence and Security Informatics, Second Symposium on Intelligence and Security Informatics, ISI 2004, Tucson, AZ, USA, June 10-11, 2004, Proceedings citation:-1
+title:Intelligence and Security Informatics, IEEE ISI 2008 International Workshops: PAISI, PACCF, and SOCO 2008, Taipei, Taiwan, June 17, 2008. Proceedings citation:-1
+title:ACM/IEEE Joint Conference on Digital Libraries, JCDL 2004, Tuscon, AZ, USA, June 7-11, 2004, Proceedings citation:-1
+title:Proceedings of the ACM SIGKDD Workshop on CyberSecurity and Intelligence Informatics, Paris, France, June 28, 2009 citation:-1
+title:Intelligence and Security Informatics, International Workshop, WISI 2006, Singapore, April 9, 2006, Proceedings citation:-1
+title:Intelligence and Security Informatics: Biosurveillance, Second NSF Workshop, BioSurveillance 2007, New Brunswick, NJ, USA, May 22, 2007, Proceedings. citation:-1
+title:Biosurveillance and Biosecurity, International Workshop, BioSecure 2008, Raleigh, NC, USA, December 2, 2008. Proceedings citation:-1
+title:Intelligence and Security Informatics, Pacific Asia Workshop, PAISI 2009, Bangkok, Thailand, April 27, 2009. Proceedings citation:-1
+title:Intelligence and Security Informatics, Pacific Asia Workshop, PAISI 2007, Chengdu, China, April 11-12, 2007, Proceedings citation:-1
+title:Intelligence and Security Informatics, Pacific Asia Workshop, PAISI 2010, Hyderabad, India, June 21, 2010. Proceedings citation:-1
+title:A Discrete Stock Price Prediction Engine Based on Financial News. citation:-1
+title:Automatic online news monitoring and classification for syndromic surveillance. citation:-1
+title:Visualizing social network concepts. citation:-1
+title:Business and Market Intelligence 2.0, Part 2. citation:-1
+title:Trends & Controversies. citation:-1
+title:Evaluating the use of search engine development tools in IT education. citation:-1
+title:A focused crawler for Dark Web forums. citation:-1
+title:Text-based video content classification for online video-sharing sites. citation:-1
+title:Prospective Infectious Disease Outbreak Detection Using Markov Switching Models. citation:-1
+title:Analyzing Consumer-Product Graphs: Empirical Findings and Applications in Recommender Systems. citation:-1
+title:Comparing the virtual linkage intensity and real world proximity of social movements. citation:-1
+title:Dark web forums portal: Searching and analyzing jihadist forums. citation:-1
+title:Gender difference analysis of political web forums: An experiment on an international islamic women's forum. citation:-1
+title:IEDs in the dark web: Lexicon expansion and genre classification. citation:-1
+title:Identification of extremist videos in online video sharing sites. citation:-1
+title:IEEE International Conference on Intelligence and Security Informatics, ISI 2010, Vancouver, BC, Canada, May 23-26, 2010, Proceedings citation:-1
+title:Developing a Dark Web collection and infrastructure for computational and social sciences. citation:-1
+title:Agency satisfaction with electronic record management systems: A large-scale survey. citation:-1
+title:Knowledge mapping for rapidly evolving domains: A design science approach. citation:-1
+title:A Lexicon-Enhanced Method for Sentiment Classification: An Experiment on Online Product Reviews. citation:-1
+title:AI and Security Informatics. citation:-1
+title:AI and Opinion Mining. citation:-1
+title:Social Media Analytics and Intelligence. citation:-1
+title:An Integrated Framework for Avatar Data Collection from the Virtual World. citation:-1
+title:A Cyber-archaeology Approach to Social Movement Research: Framework and Case Study. citation:-1
+title:Detecting Fake Websites: The Contribution of Statistical Learning Theory. citation:-1
+title:CyberGate: A Design Framework and System for Text Analysis of Computer-Mediated Communication. citation:-1
+title:Gene function prediction with gene interaction networks: a context graph kernel approach. citation:-1
+title:Interaction Analysis of the ALICE Chatterbot: A Two-Study Investigation of Dialog and Domain Questioning. citation:-1
+title:Managing Knowledge in Light of Its Evolution Process: An Empirical Study on Citation Network - Based Patent Classification. citation:-1
+title:A Methodology for Analyzing Web-Based Qualitative Data. citation:-1
+title:Hypothesis for Self-Organizing Verifying the Proximity and Size Maps. citation:-1
+title:GANNET: A Machine Learning Approach to Document Retrieval. citation:-1
+title:Enterprise risk and security management: Data, text and Web mining. citation:-1
+title:Giving context to accounting numbers: The role of news coverage. citation:-1
+title:Law enforcement officers' acceptance of advanced e-government technology: A survey study of COPLINK Mobile. citation:-1
+title:Trends and Controversies. citation:-1
+title:Identity matching using personal and social identity features. citation:-1
+title:A multi-region empirical study on the internet presence of global extremist organizations. citation:-1
+title:Introduction to special issue on terrorism informatics. citation:-1
+title:Disease named entity recognition using semisupervised learning and conditional random fields. citation:-1
+title:Determining inventor status and its effect on knowledge diffusion: A study on nanotechnology literature from China, Russia, and India. citation:-1
+title:ISI-KDD: SIGKDD workshop on intelligence and security informatics 2010. citation:-1
+title:Selecting Attributes for Sentiment Classification Using Feature Relation Networks. citation:-1
+title:Burst Detection From Multiple Data Streams: A Network-Based Approach. citation:-1
+title:Topological Analysis of Criminal Activity Networks: Enhancing Transportation Security. citation:-1
+title:Using Open Web APIs in Teaching Web Mining. citation:-1
+title:Editorial: Welcome to the first issue of . citation:-1
+title:Editorial: Design science, grand challenges, and societal impacts. citation:-1
+title:Gender Classification for Web Forums. citation:-1
+title:Analyzing information systems researchers' productivity and impacts: A perspective on the H index. citation:-1
+title:From Terrorism Informatics to Dark Web Research. citation:-1
+title:Building a Social Media Digital Library: Collection, Management, and Analytics. citation:-1
+title:Predicting Market Movements: From Breaking News to Emerging Social Media. citation:-1
+title:Dark Web: Exploring and Mining the Dark Side of the Web. citation:-1
+title:Intelligence and Security Informatics - Pacific Asia Workshop, PAISI 2011, Beijing, China, July 9, 2011. Proceedings citation:-1
+title:Intelligence and security informatics. citation:-1
+title:Syndromic surveillance systems. citation:-1
+title:Information visualization. citation:-1
+title:Web mining: Machine learning for web applications. citation:-1
+title:Special Issue on Social Media Analytics: Understanding the Pulse of the Society. citation:-1
+title:Trends & Controversies. citation:-1
+title:Framing Social Movement Identity with Cyber-Artifacts: A Case Study of the International Falun Gong Movement. citation:-1
+title:Security Informatics citation:-1
+title:Identity Matching Based on Probabilistic Relational Models. citation:-1
+title:Building Web Directories in Different Languages for Decision Support: A Semi-Automatic Approach. citation:-1
+title:A Link Analysis Approach to Recommendation under Sparse Data. citation:-1
+title:Textual Analysis of Stock Market Prediction Using Financial News Articles. citation:-1
+title:Building Knowledge Management System for Researching Terrorist Groups on the Web. citation:-1
+title:Senior Scholars' Forum. citation:-1
+title:Sports knowledge management and data mining. citation:-1
+title:Identifying High-Status Nodes in Knowledge Networks. citation:-1
+title:Social Network Data Mining: Research Questions, Techniques, and Applications. citation:-1
+title:Data Mining for Social Network Data citation:-1
+title:COPLINK - Arming Law Enforcement with New Knowledge Management Technologies. citation:-1
+title:The Strategic Co-Alignment for Implementing Information Systems in E-Government. citation:-1
+title:Exploiting Emotions in Social Interactions to Detect Online Social Communities. citation:-1
+title:Transforming Open-Source Documents to Terror Networks: The Arizona TerrorNet. citation:-1
+title:A comparison of fraud cues and classification methods for fake escrow website detection. citation:-1
+title:Combining probability models and web mining models: a framework for proper name transliteration. citation:-1
+title:Creating a Large-Scale Digital Library for Georeferenced Information. citation:-1
+title:Semantic Research for Digital Libraries. citation:-1
+title:Artificial immune system for illicit content identification in social media. citation:-1
+title:Theory-Informed Design and Evaluation of an Advanced Search and Knowledge Mapping System in Nanotechnology. citation:-1
+title:Examining the Business-Technology Alignment in Government Agencies: A Study of Electronic Record Management Systems in Taiwan. citation:-1
+title:Intelligence and Security Informatics - Pacific Asia Workshop, PAISI 2012, Kuala Lumpur, Malaysia, May 29, 2012. Proceedings citation:-1
+title:Law enforcement officers' acceptance of advanced e-government technology: a survey study of COPLNK mobile. citation:-1
+title:Evaluating sentiment in financial news articles. citation:-1
+title:Dark Web: Exploring and Mining the Dark Side of the Web. citation:-1
+title:Scalable sentiment classification across multiple Dark Web Forums. citation:-1
+title:An event-driven SIR model for topic diffusion in web forums. citation:-1
+title:Partially supervised learning for radical opinion identification in hate group web forums. citation:-1
+title:An SIR model for violent topic diffusion in social media. citation:-1
+title:The Dark Web Forum Portal: From multi-lingual to video. citation:-1
+title:Securing cyberspace: Identifying key actors in hacker communities. citation:-1
+title:Evaluating an integrated forum portal for terrorist surveillance and analysis. citation:-1
+title:From Dark Web to GeoPolitical Web: Exploring the Value of Social Media Informatics. citation:-1
+title:Business Intelligence and Analytics: From Big Data to Big Impact. citation:-1
+title:Sentimental Spidering: Leveraging Opinion Information in Focused Crawlers. citation:-1
+title:SHB 2012: international workshop on smart health and wellbeing. citation:-1
+title:Proceedings of the 2012 International Workshop on Smart Health and Wellbeing, SHB 2012, October 29, 2012, Maui, HI, USA citation:-1
+title:Recommendation as link prediction in bipartite graphs: A graph kernel-based machine learning approach. citation:-1
+title:Understanding Avatar Sentiments Using Verbal and Non-Verbal Cues. citation:-1
+title:Business Intelligence and Analytics: Research Directions. citation:-1
+title:Ontology-Based Automatic Chief Complaints Classification for Syndromic Surveillance. citation:-1

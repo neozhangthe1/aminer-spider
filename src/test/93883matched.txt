@@ -1,0 +1,33 @@
+title1:HYTECH: A Model Checker for Hybrid Systems. title2:HyTech: A model checker for hybrid systems citation:1131 ncitation:1091 pid1076496
+title1:A Determinizable Class of Timed Automata. title2:A Determinizable Class of Timed Automata citation:0 ncitation:166 pid79166
+title1:PROOF-PAD: An Interactive Proof Generating System Using Natural Deduction. title2:PROOF-PAD An Interactive Proof Generating System Using Natural Deduction citation:0 ncitation:-1 pid520859
+title1:Alternating-time temporal logic. title2:Alternating-time temporal logic citation:433 ncitation:735 pid949658
+title1:A Really Temporal Logic. title2:A really temporal logic citation:614 ncitation:594 pid949656
+title1:Reactive Modules. title2:Reactive modules citation:618 ncitation:596 pid878804
+title1:MOCHA: Modularity in Model Checking. title2:MOCHA: Modularity in model checking citation:375 ncitation:374 pid79172
+title1:Alternating-Time Temporal Logic. title2:Alternating-time temporal logic citation:433 ncitation:735 pid111710
+title1:Hybrid Automata: An Algorithmic Approach to the Specification and Verification of Hybrid Systems. title2:Hybrid automata: An algorithmic approach to the specification and verification of hybrid systems citation:1070 ncitation:1031 pid257465
+title1:Abstractions from proofs. title2:Abstractions from proofs citation:419 ncitation:394 pid546303
+title1:Alternating-time Temporal Logic. title2:Alternating-time temporal logic citation:433 ncitation:735 pid209888
+title1:Symbolic Model Checking for Real-Time Systems title2:Symbolic model checking for real-time systems citation:1280 ncitation:1208 pid888220
+title1:Software Verification with BLAST. title2:Software verification with BLAST citation:436 ncitation:412 pid615573
+title1:Reactive Modules. title2:Reactive modules citation:618 ncitation:596 pid484460
+title1:Real-time Logics: Complexity and Expressiveness title2:Real-time logics: Complexity and expressiveness citation:503 ncitation:470 pid484456
+title1:Automatic Symbolic Verification of Embedded Systems. title2:Automatic symbolic verification of embedded systems citation:729 ncitation:712 pid564979
+title1:Logics and Models of Real Time: A Survey. title2:Logics and models of real time: A survey citation:630 ncitation:608 pid559520
+title1:Formal specification and verification of a dataflow processor array. title2:Formal Specification and Verification of a Dataflow Processor Array (PDF) citation:0 ncitation:33 pid282265
+title1:A Really Temporal Logic title2:A really temporal logic citation:614 ncitation:594 pid209886
+title1:Model Checking: From Hardware to Software. title2:Model checking: From hardware to software citation:0 ncitation:0 pid44902
+title1:The Algorithmic Analysis of Hybrid Systems. title2:The algorithmic analysis of hybrid systems citation:1654 ncitation:1601 pid1088803
+title1:Real-Time Logics: Complexity and Expressiveness title2:Real-time logics: Complexity and expressiveness citation:503 ncitation:470 pid886903
+title1:A User Guide to HyTech. title2:A user guide to HyTech citation:362 ncitation:353 pid625169
+title1:From Quantity to Quality. citation:0 ncitation:26 pid257596
+title1:Lazy abstraction. title2:Lazy abstraction citation:1059 ncitation:1022 pid546304
+title1:What's decidable about hybrid automata? title2:What's decidable about hybrid automata? citation:923 ncitation:872 pid622287
+title1:Symbolic Model Checking for Real-time Systems title2:Symbolic model checking for real-time systems citation:1280 ncitation:1208 pid484791
+title1:The Theory of Hybrid Automata. title2:The theory of hybrid automata citation:1590 ncitation:1509 pid484790
+title1:HYTECH: A Model Checker for Hybrid Systems. title2:HyTech: A model checker for hybrid systems citation:1131 ncitation:1091 pid79509
+title1:Interface automata. title2:Interface automata citation:1049 ncitation:1000 pid601059
+title1:Automatic Symbolic Verification of Embedded Systems. title2:Automatic symbolic verification of embedded systems citation:729 ncitation:712 pid1127360
+title1:What's Decidable about Hybrid Automata? title2:What's decidable about hybrid automata? citation:923 ncitation:872 pid972199
+title1:Formal Modeling and Analysis of Timed Systems - 8th International Conference, FORMATS 2010, Klosterneuburg, Austria, September 8-10, 2010. Proceedings title2:Formal modeling and analysis of timed systems: 8th international conference, formats 2010, klosterneuburg, austria, september 8-10, 2010, proceedings citation:0 ncitation:-1 pid2943523

@@ -1,0 +1,37 @@
+title1:Visual robot guidance for an insertion task. title2:Visual robot guidance for an insertion task citation:1 ncitation:-1 pid73671
+title1:Geometry-Driven Curve Evolution. title2:Geometry-driven curve evolution citation:6 ncitation:6 pid168473
+title1:An Extended Class of Scale-Invariant and Recursive Scale Space Filters. title2:An extended class of scale-invariant and recursive scale space filters citation:90 ncitation:85 pid1032679
+title1:Enhancement of Planar Shape Through Optimization of Functionals for Curves. title2:Enhancement of planar shape through optimization of functionals for curves citation:12 ncitation:11 pid1032678
+title1:View synthesis by the parallel use of GPU and CPU. title2:View synthesis by the parallel use of GPU and CPU citation:12 ncitation:10 pid947658
+title1:Editorial. citation:6 ncitation:-1 pid907878
+title1:Moment invariants for recognition under changing viewpoint and illumination. title2:Moment invariants for recognition under changing viewpoint and illumination citation:156 ncitation:145 pid501635
+title1:Foundations of semi-differential invariants. title2:Foundations of semi-differential invariants citation:74 ncitation:75 pid136160
+title1:Recognition of planar shapes under affine distortion. title2:Recognition of planar shapes under affine distortion citation:56 ncitation:55 pid434654
+title1:Wide-baseline Multiple-view Correspondences. title2:Wide-baseline multiple-view correspondences citation:132 ncitation:131 pid127950
+title1:Shape Extraction for Curves Using Geometry-Driven Diffusion and Functional Optimization. title2:Shape-extraction for curves using geometry-driven diffusion and functional optimization citation:18 ncitation:20 pid4118
+title1:Analysis of Human Locomotion based on Partial Measurements. title2:Analysis of human locomotion based on partial measurements citation:9 ncitation:9 pid648230
+title1:Markerless tracking of complex human motions from multiple views. title2:Markerless tracking of complex human motions from multiple views citation:71 ncitation:65 pid1017555
+title1:Bayesian Pixel Classification for Human Tracking. title2:Bayesian pixel classification for human tracking citation:20 ncitation:21 pid647183
+title1:Generating Visemes for Realistic Animation. title2:Generating Visemes for Realistic Animation. citation:2 ncitation:2 pid347996
+title1:Speech Animation Using Viseme Space. title2:Speech Animation Using Viseme Space. citation:8 ncitation:8 pid293498
+title1:Groups for Grouping: A Strategy for the Exploitation of Geometrical Constraints. title2:Groups for Grouping: A Strategy for the Exploitation of Geometrical Constraints. citation:3 ncitation:3 pid129280
+title1:Editorial: Special Issue on "Texture Analysis and Synthesi". citation:6 ncitation:5 pid73295
+title1:Wide Baseline Stereo Matching based on Local, Affinely Invariant Regions. title2:Wide Baseline Stereo Matching based on Local, Affinely Invariant Regions. citation:482 ncitation:449 pid85958
+title1:From images to 3D models. title2:From images to 3D models citation:72 ncitation:72 pid648363
+title1:Three-dimensional Scene Reconstruction from Images. title2:Three-dimensional scene reconstruction from images citation:66 ncitation:63 pid168421
+title1:Lococo: low complexity corner detector. title2:Lococo: Low complexity corner detector citation:7 ncitation:6 pid2899530
+title1:Shape-from-recognition: Recognition enables meta-data transfer. title2:Shape-from-recognition: Recognition enables meta-data transfer citation:14 ncitation:13 pid2899593
+title1:I know what you did last summer: object-level auto-annotation of holiday snaps. title2:I know what you did last summer: object-level auto-annotation of holiday snaps citation:45 ncitation:43 pid2916461
+title1:Hough Transform-based Mouth Localization for Audio-visual Speech Recognition. title2:Hough Transform-based Mouth Localization for Audio-visual Speech Recognition. citation:14 ncitation:11 pid2944958
+title1:PRISM: PRincipled Implicit Shape Model. title2:PRISM: PRincipled Implicit Shape Model. citation:21 ncitation:16 pid2946441
+title1:Exemplar-based Action Recognition in Video. title2:Exemplar-based Action Recognition in Video. citation:37 ncitation:31 pid2972062
+title1:An Efficient Shared Multi-Class Detection Cascade. title2:An Efficient Shared Multi-Class Detection Cascade. citation:9 ncitation:7 pid3007257
+title1:Generalised Linear Pose Estimation. title2:Generalised Linear Pose Estimation. citation:7 ncitation:3 pid3007411
+title1:Procedural 3D Reconstruction of Puuc Buildings in Xkipché. citation:37 ncitation:27 pid3009050
+title1:Online loop closure for real-time interactive 3D scanning. title2:Online loop closure for real-time interactive 3D scanning citation:9 ncitation:2 pid3009071
+title1:Scene Cut: Class-Specific Object Detection and Segmentation in 3D Scenes. title2:Scene cut: Class-specific object detection and segmentation in 3D scenes citation:4 ncitation:3 pid3203114
+title1:Eliciting qualitative structure from image curve deformations. title2:Eliciting qualitative structure from image curve deformations citation:8 ncitation:8 pid3221843
+title1:Learning Probabilistic Non-Linear Latent Variable Models for Tracking Complex Activities. title2:Learning probabilistic non-linear latent variable models for tracking complex activities citation:14 ncitation:7 pid3298246
+title1:Classification with Global, Local and Shared Features. title2:Classification with Global, Local and Shared Features citation:3 ncitation:0 pid3411172
+title1:On-line semantic perception using uncertainty. title2:On-line semantic perception using uncertainty citation:1 ncitation:1 pid3517197
+title1:Active acquisition of 3D shape for moving objects. title2:Active acquisition of 3D shape for moving objects citation:42 ncitation:40 pid3603991

@@ -1,0 +1,232 @@
+title1:A Framework for Classifier Fusion: Is It Still Needed?. title2:A framework for classifier fusion: Is it still needed? citation:63 ncitation:58 pid2304750
+title1:Fast Branch & Bound Algorithms for Optimal Feature Selection. title2:Fast branch & bound algorithms for optimal feature selection citation:203 ncitation:186 pid311761
+title1:Performance Characterisation of Face Recognition Algorithms and Their Sensitivity to Severe Illumination Changes. title2:Performance characterisation of face recognition algorithms and their sensitivity to severe illumination changes citation:33 ncitation:28 pid714514
+title1:Fusion of Multiple Cue Detectors for Automatic Sports Video Annotation. title2:Fusion of multiple cue detectors for automatic sports video annotation citation:3 ncitation:3 pid2254914
+title1:Multiple classifier combination for face-based identity verification. title2:Multiple classifier combination for face-based identity verification citation:50 ncitation:45 pid618867
+title1:An analysis of the Max-Min approach to feature selection and ordering. title2:An analysis of the Max-Min approach to feature selection and ordering citation:19 ncitation:17 pid1039094
+title1:Robust Detection of Lines Using the Progressive Probabilistic Hough Transform. title2:Robust detection of lines using the progressive probabilistic hough transform citation:126 ncitation:96 pid918670
+title1:Floating search methods in feature selection. title2:Floating search methods in feature selection citation:1821 ncitation:1617 pid835192
+title1:Gesture Spotting in Low-Quality Video with Features Based on Curvature Scale Space. title2:Gesture spotting in low-quality video with features based on curvature scale space citation:3 ncitation:3 pid835191
+title1:On Accurate and Robust Estimation of Fundamental Matrix. title2:On accurate and robust estimation of fundamental matrix citation:31 ncitation:31 pid1045621
+title1:Improving Stability of Feature Selection Methods. title2:Improving stability of feature selection methods citation:46 ncitation:38 pid93216
+title1:A linear-complexity reparameterisation strategy for the hierarchical bootstrapping of capabilities within perception-action architectures. citation:4 ncitation:4 pid205846
+title1:On compatibility and support functions in probabilistic relaxation. title2:On compatibility and support functions in probabilistic relaxation citation:30 ncitation:29 pid2282164
+title1:Threshold selection based on a simple image statistic. title2:Threshold selection based on a simple image statistic citation:236 ncitation:204 pid2331717
+title1:Improving the Performance of the Product Fusion Strategy. title2:Improving the performance of the product fusion strategy citation:25 ncitation:24 pid67150
+title1:A New Algorithm for Probabilistic Relaxation Based on the Baum Eagon Theorem. title2:A new algorithm for Probabilistic Relaxation based on the Baum Eagon theorem citation:5 ncitation:5 pid834092
+title1:Visual Bootstrapping for Unsupervised Symbol Grounding. title2:Visual bootstrapping for unsupervised symbol grounding citation:2 ncitation:1 pid2006304
+title1:Combining Multiple Experts for Classifying Shot Changes in Video Sequences. title2:Combining multiple experts for classifying shot changes in video sequences citation:36 ncitation:33 pid834093
+title1:Error Propagation for 2D-to-3D Matching with Application to Underwater Navigation. title2:Error Propagation for 2D-to-3D Matching with Application to Underwater Navigation. citation:4 ncitation:4 pid274103
+title1:A comparative study of two object recognition methods. title2:A comparative study of two object recognition methods. citation:5 ncitation:4 pid331510
+title1:Fast Exhaustive Robust Matching. title2:Fast exhaustive robust matching citation:3 ncitation:3 pid2371906
+title1:Temporal Post-processing of Decision Tree Outputs for Sports Video Categorisation. title2:Temporal post-processing of decision tree outputs for sports video categorisation citation:3 ncitation:2 pid2238601
+title1:Simultaneous learning of decision rules and important attributes for classification problems in image analysis. title2:Simultaneous learning of decision rules and important attributes for classification problems in image analysis citation:26 ncitation:25 pid1030231
+title1:Database Size Effects on Performance on a Smart Card Face Verification System. title2:Database size effects on performance on a smart card face verification system citation:6 ncitation:6 pid1030233
+title1:Orientation Correlation. title2:Orientation Correlation. citation:56 ncitation:52 pid67101
+title1:Relationship of Sum and Vote Fusion Strategies. title2:Relationship of sum and vote fusion strategies citation:29 ncitation:28 pid273116
+title1:Weighting Factors in Multiple Expert Fusion. title2:Weighting Factors in Multiple Expert Fusion. citation:43 ncitation:40 pid67096
+title1:Unsupervised Symbol Grounding and Cognitive Bootstrapping in Cognitive Vision. title2:Unsupervised symbol grounding and cognitive bootstrapping in cognitive vision citation:3 ncitation:3 pid618780
+title1:On Matching Scores for LDA-based Face Verification. title2:On Matching Scores for LDA-based Face Verification. citation:98 ncitation:94 pid205897
+title1:Physics-Based Decorrelation of Image Data for Decision Level Fusion in Face Verification. title2:Physics-based decorrelation of image data for decision level fusion in face verification citation:19 ncitation:18 pid2407596
+title1:Structural Matching in Computer Vision Using Probabilistic Relaxation. title2:Structural matching in computer vision using probabilistic relaxation citation:525 ncitation:483 pid67079
+title1:Building Classifier Ensembles for Automatic Sports Classification. title2:Building classifier ensembles for automatic sports classification citation:6 ncitation:4 pid346859
+title1:Multiple Classifier Fusion in Probabilistic Neural Networks. title2:Multiple classifier fusion in probabilistic neural networks citation:25 ncitation:27 pid274047
+title1:Gesture spotting for low-resolution sports video annotation. title2:Gesture spotting for low-resolution sports video annotation citation:20 ncitation:19 pid67319
+title1:Colour Feature Selection for Face Authentication. title2:Colour Feature Selection for Face Authentication. citation:6 ncitation:6 pid73566
+title1:Independent component analysis in a local facial residue space for face recognition. title2:Independent component analysis in a local facial residue space for face recognition citation:50 ncitation:49 pid67317
+title1:Defect detection in random colour textures. title2:Defect detection in random colour textures citation:77 ncitation:71 pid311641
+title1:Modified product fusion. title2:Modified product fusion citation:25 ncitation:23 pid922908
+title1:Experimental evaluation of expert fusion strategies. title2:Experimental evaluation of expert fusion strategies citation:104 ncitation:97 pid490972
+title1:Saliency-Based Robust Correlation for Real-Time Face Registration and Verification. title2:Saliency-Based Robust Correlation for Real-Time Face Registration and Verification. citation:6 ncitation:6 pid2446599
+title1:Support Vector Machines for Face Authentication. title2:Support vector machines for face authentication citation:170 ncitation:161 pid1722673
+title1:Layered Data Association Using Graph-Theoretic Formulation with Application to Tennis Ball Tracking in Monocular Sequences. title2:Layered data association using graph-theoretic formulation with application to tennis ball tracking in monocular sequences citation:22 ncitation:17 pid1031372
+title1:Image Sequence Coding Using Multiple-Level Segmentation and Affine Motion Estimation. title2:Image sequence coding using multiple-level segmentation and affine motion estimation citation:19 ncitation:18 pid135563
+title1:A new approach to feature selection based on the Karhunen-Loeve expansion. title2:A new approach to feature selection based on the Karhunen-Loeve expansion citation:141 ncitation:131 pid490948
+title1:Improving Product by Moderating k-NN Classifiers. title2:Improving product by moderating k-nn classifiers citation:4 ncitation:3 pid1030302
+title1:Quality Controlled Multimodal Fusion of Biometric Experts. title2:Quality controlled multimodal fusion of biometric experts citation:20 ncitation:19 pid1042723
+title1:Comments on "single-link characteristics of a mode-seeking clustering algorithm". citation:6 ncitation:7 pid947113
+title1:Minimum error thresholding. title2:Minimum error thresholding citation:1321 ncitation:1143 pid169170
+title1:An efficient estimator of pattern recognition system error probability. title2:An efficient estimator of pattern recognition system error probability citation:19 ncitation:19 pid1043809
+title1:Automatic inspection by lots in the presence of classification errors. title2:Automatic inspection by lots in the presence of classification errors citation:2 ncitation:1 pid2311235
+title1:Vanishing point detection. title2:Vanishing point detection citation:33 ncitation:27 pid2542532
+title1:An Optimizing Line Finder Using a Hough Transform Algorithm. title2:An optimizing line finder using a Hough transform algorithm citation:47 ncitation:41 pid2304591
+title1:A Performance Measure for Boundary Detection Algorithms. title2:A performance measure of boundary detection algorithms citation:78 ncitation:74 pid67291
+title1:Region growing: a new approach. title2:Region growing: a new approach citation:367 ncitation:323 pid67290
+title1:Diversity-Based Classifier Selection for Adaptive Object Tracking. title2:Diversity-based classifier selection for adaptive object tracking citation:3 ncitation:1 pid1097531
+title1:Advances in the Statistical Methodology for the Selection of Image Descriptors for Visual Pattern Representation and Classification. title2:Advances in the statistical methodology for the selection of image descriptors for visual pattern representation and classification citation:5 ncitation:5 pid618973
+title1:Using focus of attention with the hough transform for accurate line parameter estimation. title2:Using focus of attention with the Hough transform for accurate line parameter estimation citation:42 ncitation:40 pid1506186
+title1:Local ordered grey levels as an aid to corner detection. title2:Local ordered grey levels as an aid to corner detection citation:61 ncitation:53 pid992335
+title1:Probabilistic relaxation and the Hough transform. title2:Probabilistic relaxation and the Hough transform citation:6 ncitation:6 pid1039976
+title1:A locally sensitive method for cluster analysis. title2:A locally sensitive method for cluster analysis citation:78 ncitation:66 pid490902
+title1:Epistemic Constraints on Autonomous Symbolic Representation in Natural and Artificial Agents. title2:Epistemic constraints on autonomous symbolic representation in natural and artificial agents citation:3 ncitation:3 pid93383
+title1:Effective Implementation of Linear Discriminant Analysis for Face Recognition and Verification. title2:Effective implementation of linear discriminant analysis for face recognition and verification citation:31 ncitation:28 pid490901
+title1:On Representation and Matching of Multi-Coloured Objects. title2:On representation and matching of multi-coloured objects citation:87 ncitation:83 pid1039969
+title1:Fast face localisation and verification. title2:Fast face localisation and verification citation:78 ncitation:78 pid1039968
+title1:Spatial and Feature Space Clustering: Applications in Image Analysis. title2:Spatial and feature space clustering: Applications in image analysis citation:44 ncitation:43 pid1039971
+title1:Comparison of Face Verification Results on the XM2VTS Database. title2:Comparison of face verification results on the XM2VTFS database citation:148 ncitation:143 pid1039970
+title1:Influence of compression on 3D face recognition. title2:Influence of compression on 3D face recognition citation:2 ncitation:2 pid1039975
+title1:Composite Support Vector Machines with Extended Discriminative Features for Accurate Face Detection. title2:Composite support vector machines with extended discriminative features for accurate face detection citation:3 ncitation:-1 pid947170
+title1:Adaptive Texture Representation Methods for Automatic Target Recognition. title2:Adaptive Texture Representation Methods for Automatic Target Recognition. citation:22 ncitation:20 pid1468185
+title1:Robust and Efficient Shape Indexing through Curvature Scale Space. title2:Robust and E cient Shape Indexing through Curvature Scale Space citation:316 ncitation:288 pid835205
+title1:Non-Iterative Contextual Correspondence Matching. title2:Non-iterative contextual correspondence matching citation:5 ncitation:5 pid1100951
+title1:Data and Decision Level Fusion of Temporal Information for Automatic Target Recognition. title2:Data and Decision Level Fusion of Temporal Information for Automatic Target Recognition. citation:2 ncitation:2 pid2617251
+title1:Locally Optimized RANSAC. title2:Locally optimized RANSAC citation:194 ncitation:160 pid1212649
+title1:Detection of Defects in Colour Texture Surfaces. title2:Detection of Defects in Colour Texture Surfaces. citation:24 ncitation:22 pid917518
+title1:A hierarchical approach to line extraction based on the Hough transform. title2:A hierarchical approach to line extraction based on the Hough transform citation:123 ncitation:114 pid318686
+title1:Face Authentication Competition on the BANCA Database. title2:Face authentication competition on the BANCA database citation:44 ncitation:39 pid73529
+title1:On the Discriminant Vector Method of Feature Selection. title2:On the discriminant vector method of feature selection citation:30 ncitation:28 pid1040842
+title1:Incorporating Model-Specific Score Distribution in Speaker Verification Systems. title2:Incorporating model-specific score distribution in speaker verification systems citation:54 ncitation:21 pid2617978
+title1:Complex Feedback Strategies for Hypothesis Generation and Verification. title2:Complex Feedback Strategies for Hypothesis Generation and Verification. citation:6 ncitation:6 pid1040839
+title1:Choosing an Optimal Neural Network Size to aid a Search Through a Large Image Database. title2:Choosing an Optimal Neural Network Size to aid a Search Through a Large Image Database. citation:28 ncitation:25 pid1447991
+title1:Optimal Edge Detectors for Ramp Edges. title2:Optimal edge detectors for ramp edges citation:203 ncitation:186 pid1461698
+title1:Fast Face Localisation and Verification. title2:Fast face localisation and verification citation:78 ncitation:78 pid1039966
+title1:Object Recognition using the Invariant Pixel-Set Signature. title2:Object Recognition using the Invariant Pixel-Set Signature. citation:26 ncitation:26 pid946751
+title1:A Multiple Classifier System Approach to Affine Invariant Object Recognition. title2:A multiple classifier system approach to affine invariant object recognition citation:4 ncitation:4 pid2618261
+title1:Classification of Incomplete Pattern Vectors Using Modified Discriminant Functions. title2:Classification of Incomplete Pattern Vectors Using Modified Discrminant Functions citation:21 ncitation:20 pid2618264
+title1:Fast Unit Selection Algorithm for Neural Network Design. title2:Fast unit selection algorithm for neural network design citation:3 ncitation:3 pid73442
+title1:Automatic Sports Classification. title2:Building classifier ensembles for automatic sports classification citation:6 ncitation:15 pid347928
+title1:Object Evidence Extraction Using Simple Gabor Features and Statistical Ranking. title2:Object evidence extraction using simple Gabor features and statistical ranking citation:5 ncitation:5 pid2618276
+title1:Face Authentication Test on the BANCA Database. title2:Face authentication test on the BANCA database citation:100 ncitation:94 pid1399659
+title1:Colour-Based Model Pruning for Efficient ARG Object Recognition. title2:Colour-based model pruning for efficient ARG object recognition citation:3 ncitation:3 pid913672
+title1:Support Object Classifiers with Rigid and Elastic Kernel Functions for Face Identification. title2:Support object classifiers with rigid and elastic kernel functions for face identification citation:3 ncitation:3 pid2331976
+title1:Performance versus Computational Complexity Trade-Off in Face Verification. title2:Performance versus computational complexity trade-off in face verification citation:5 ncitation:5 pid1434019
+title1:Face Recognition Using Angular LDA and SVM Ensembles. title2:Face recognition using angular LDA and SVM ensembles citation:4 ncitation:4 pid1046958
+title1:Robust Statistical Methods of 2D and 3D Image Description. title2:Robust statistical methods of 2D and 3D image description citation:6 ncitation:6 pid946175
+title1:Constraining Probabilistic Relaxation with Symbolic Attributes. title2:Constraining probabilistic relaxation with symbolic attributes citation:2 ncitation:5 pid897434
+title1:A Novel Data Association Algorithm for Object Tracking in Clutter with Application to Tennis Video Analysis. title2:A novel data association algorithm for object tracking in clutter with application to tennis video analysis citation:31 ncitation:26 pid318745
+title1:Strategies for combining classifiers employing shared and distinct pattern representations. title2:Strategies for combining classifiers employing shared and distinct pattern representations citation:45 ncitation:42 pid67373
+title1:On Computing the Next Look Camera Parameters in Active Vision. title2:On computing the next look camera parameters in active vision citation:2 ncitation:2 pid168282
+title1:Decision Fusion for Face Authentication. title2:Decision fusion for face authentication citation:48 ncitation:43 pid67371
+title1:Combining evidence in personal identity verification systems. title2:Combining evidence in personal identity verification systems citation:139 ncitation:130 pid135247
+title1:Estimation of complex multimodal motion: an approach based on robust statistics and Hough transform. title2:Estimation of complex multimodal motion: An approach based on robust statistics and hough transform citation:52 ncitation:49 pid274351
+title1:A Multimedia System Architecture for Automatic Annotation of Sports Videos. title2:A multimedia system architecture for automatic annotation of sports videos citation:6 ncitation:5 pid1975957
+title1:Curvature Scale Space Image in Shape Similarity Retrieval. title2:Curvature scale space image in shape similarity retrieval citation:162 ncitation:136 pid2728585
+title1:Error Guided Design of a 3D Vision System. title2:Error guided design of a 3D vision system citation:19 ncitation:22 pid1357315
+title1:Enhancing CSS-based shape retrieval for objects with shallow concavities. title2:Enhancing CSS-based shape retrieval for objects with shallow concavities citation:83 ncitation:74 pid1752690
+title1:Combining multiple classifiers by averaging or by multiplying? title2:Combining multiple classifiers by averaging or by multiplying? citation:329 ncitation:298 pid67376
+title1:Region-Based Representation for Object Recognition by Relaxation Labelling. title2:Region-based representation for object recognition by relaxation labelling citation:5 ncitation:5 pid1032714
+title1:Independent Component Analysis in a Facial Local Residue Space. title2:Independent component analysis in a facial local residue space citation:26 ncitation:26 pid67338
+title1:Bayesian and neural networks for geographic information processing. title2:Bayesian and neural networks for geographic information processing citation:18 ncitation:16 pid1032754
+title1:A Weighted Combination of Classifiers Employing Shared and Distinct Representations. title2:A weighted combination of classifiers employing shared and distinct representations citation:22 ncitation:21 pid946752
+title1:Multi-scale Local Binary Pattern Histograms for Face Recognition. title2:Multi-scale local binary pattern histograms for face recognition citation:76 ncitation:56 pid1319519
+title1:Histogram-based segmentation in a perceptually uniform color space. title2:Histogram-based segmentation in a perceptually uniform color space citation:109 ncitation:102 pid577880
+title1:Automatic watershed segmentation of randomly textured color images. title2:Automatic watershed segmentation of randomly textured color images citation:277 ncitation:259 pid67330
+title1:Empirical evaluation of a calibration chart detector. title2:Empirical evaluation of a calibration chart detector citation:6 ncitation:6 pid1080096
+title1:Combining Evidence in Multimodal Personal Identity Recognition Systems. title2:Combining evidence in multimodal personal identity recognition systems citation:71 ncitation:65 pid466641
+title1:Application of a Bayesian Network in a GIS Based Decision Making System. title2:Application of a Bayesian network in a GIS based decision making system citation:82 ncitation:75 pid347969
+title1:Feature-Based Affine-Invariant Localization of Faces. title2:Feature-based affine-invariant localization of faces citation:84 ncitation:76 pid347968
+title1:Face Identification and Verification via ECOC. title2:Face identification and verification via ECOC citation:6 ncitation:8 pid577870
+title1:On the generalised stock-cutting problem. citation:2 ncitation:2 pid2015727
+title1:Edge-Labeling Using Dictionary-Based Relaxation. title2:Edge-labeling using dictionary-based relaxation citation:150 ncitation:141 pid272371
+title1:Incremental Linear Discriminant Analysis Using Sufficient Spanning Set Approximations. title2:Incremental linear discriminant analysis using sufficient spanning set approximations citation:61 ncitation:57 pid1447309
+title1:Affine-Invariant Face Detection and Localization Using GMM-based Feature Detector and Enhanced Appearance Model. title2:Affine-invariant face detection and localization using GMM-based feature detector and enhanced appearance model citation:35 ncitation:32 pid345889
+title1:Pose-Invariant Face Matching Using MRF Energy Minimization Framework. title2:Pose-invariant face matching using mrf energy minimization framework citation:6 ncitation:5 pid274272
+title1:A Comparative Study of Automatic Face Verification Algorithms on the BANCA Database. title2:A comparative study of automatic face verification algorithms on the banca database citation:40 ncitation:36 pid348090
+title1:Statistical Chromaticity Models for Lip Tracking with B-splines. title2:Statistical chromaticity models for lip tracking with B-splines citation:43 ncitation:38 pid348736
+title1:Reliable Classification of Chrysanthemum Leaves through Curvature Scale Space. title2:Reliable classification of chrysanthemum leaves through curvature scale space citation:58 ncitation:50 pid73304
+title1:Face Verification Competition on the XM2VTS Database. title2:Face verification competition on the XM2VTS database citation:84 ncitation:77 pid165923
+title1:Spatial Clustering of Pixels in the Mouth Area of Face Images. title2:Spatial clustering of pixels in the mouth area of face images citation:4 ncitation:5 pid2416691
+title1:Support vector machines for face authentication. title2:Support vector machines for face authentication citation:170 ncitation:161 pid274291
+title1:Image Feature Localization by Multiple Hypothesis Testing of Gabor Features. title2:Image feature localization by multiple hypothesis testing of Gabor features citation:26 ncitation:22 pid274254
+title1:On the accuracy of the Sobel edge detector. title2:On the accuracy of the Sobel edge detector citation:55 ncitation:39 pid274255
+title1:Contextual classification of multispectral pixel data. title2:Contextual classification of multispectral pixel data citation:96 ncitation:87 pid2419932
+title1:Relaxation labelling algorithms - a review. citation:191 ncitation:179 pid946024
+title1:Video Shot Cut Detection using Adaptive Thresholding. title2:Video Shot Cut Detection using Adaptive Thresholding. citation:57 ncitation:50 pid2308721
+title1:Generation of semantic cues for sports video annotation. title2:Generation of semantic cues for sports video annotation citation:19 ncitation:18 pid1031656
+title1:2D face pose normalisation using a 3D morphable model. title2:2d face pose normalisation using a 3d morphable model citation:5 ncitation:6 pid274259
+title1:Component-based LDA face description for image retrieval and MPEG-7 standardisation. title2:Component-based LDA face description for image retrieval and MPEG-7 standardisation citation:46 ncitation:40 pid946915
+title1:The MediaMill TRECVID 2008 Semantic Video Search Engine. title2:The MediaMill TRECVID 2009 semantic video search engine citation:309 ncitation:278 pid1044940
+title1:On Optimisation of Smart Card Face Verification Systems. title2:On optimisation of smart card face verification systems citation:2 ncitation:2 pid2241783
+title1:Periodic Human Motion Description for Sports Video Databases. title2:Periodic human motion description for sports video databases citation:24 ncitation:20 pid618659
+title1:Accurate Face Localisation for Faces under Active Near-IR Illumination. title2:Accurate face localisation for faces under active near-ir illumination citation:2 ncitation:2 pid67516
+title1:Introduction to the Special Issue on Biometrics: Progress and Directions. title2:Introduction to the special issue on biometrics: Progress and directions citation:35 ncitation:33 pid2689519
+title1:A nonlinear distance metric criterion for feature selection in the measurement space. title2:A nonlinear distance metric criterion for feature selection in the measurement space citation:5 ncitation:5 pid128321
+title1:Audio-Visual Person Verification. title2:Audio-visual person verification citation:35 ncitation:34 pid682795
+title1:Divergence Based Feature Selection for Multimodal Class Densities. title2:Divergence based feature selection for multimodal class densities citation:104 ncitation:100 pid1045930
+title1:Feedback control strategies for object recognition. title2:Feedback control strategies for object recognition citation:31 ncitation:29 pid128334
+title1:Lip Contour Segmentation Using Kernel Methods and Level Sets. title2:Lip contour segmentation using kernel methods and level sets citation:6 ncitation:4 pid2302864
+title1:Discriminative Learning and Recognition of Image Set Classes Using Canonical Correlations. title2:Discriminative learning and recognition of image set classes using canonical correlations citation:183 ncitation:161 pid1150751
+title1:Learning Support Vectors for Face Verification and Recognition. title2:Learning support vectors for face verification and recognition citation:132 ncitation:120 pid1101889
+title1:On Dimensionality Reduction for Client Specific Discriminant Analysis with Application to Face Verification. title2:On dimensionality reduction for client specific discriminant analysis with application to face verification citation:3 ncitation:2 pid73268
+title1:Estimation of Curvature and Tangent Direction by Median Filtered Differencing. title2:Estimation of curvature and tangent direction by median filtered differencing citation:39 ncitation:32 pid1398624
+title1:Confidence Based Gating of Multiple Face Authentication Experts. title2:Confidence based gating of multiple face authentication experts citation:6 ncitation:6 pid1017440
+title1:Genetic optimisation of the image feature extraction process. title2:Genetic optimisation of the image feature extraction process citation:26 ncitation:25 pid2711677
+title1:Texture Description by Independent Components. title2:Texture description by independent components citation:6 ncitation:7 pid1031781
+title1:A Comparison of Photometric Normalisation Algorithms for Face Verification. title2:A comparison of photometric normalisation algorithms for face verification citation:66 ncitation:-1 pid2239214
+title1:Feature selection based on the training set manipulation. title2:Feature selection based on the training set manipulation citation:3 ncitation:-1 pid1359341
+title1:The Multimodal Signature Method: An Efficiency and Sensitivity Study. title2:The multimodal signature method: An efficiency and sensitivity study citation:4 ncitation:4 pid1031797
+title1:Colour-Based Object Recognition for Video Annotation. title2:Colour-based object recognition for video annotation citation:5 ncitation:5 pid1580636
+title1:Challenges and Research Directions for Adaptive Biometric Recognition Systems. title2:Challenges and research directions for adaptive biometric recognition systems citation:37 ncitation:31 pid2620480
+title1:A region-based image database system using colour and texture. title2:A region-based image database system using colour and texture citation:39 ncitation:40 pid1778677
+title1:An Experimental Comparison of Classifier Fusion Rules for Multimodal Personal Identity Verification Systems. title2:An experimental comparison of classifier fusion rules for multimodal personal identity verification systems citation:48 ncitation:43 pid1723324
+title1:On Combination of Face Authentication Experts by a Mixture of Quality Dependent Fusion Classifiers. title2:On combination of face authentication experts by a mixture of quality dependent fusion classifiers citation:37 ncitation:34 pid1761243
+title1:A Maximum A Posteriori Probability Viterbi Data Association Algorithm for Ball Tracking in Sports Video. title2:A maximum a posteriori probability viterbi data association algorithm for ball tracking in sports video citation:5 ncitation:5 pid1761208
+title1:Performance measures of the tomographic classifier fusion methodology. title2:Performance measures of the tomographic classifier fusion methodology citation:2 ncitation:2 pid1456326
+title1:Robust Motion Estimation and Multistage Vector Quantisation for Sequence Compression. title2:Robust motion estimation and multistage vector quantisation for sequence compression citation:4 ncitation:5 pid1242585
+title1:Learning Discriminative Canonical Correlations for Object Recognition with Image Sets. title2:Learning discriminative canonical correlations for object recognition with image sets citation:26 ncitation:23 pid60755
+title1:Multiple Classifier Fusion Performance in Networked Stochastic Vector Quantisers. title2:Multiple classifier fusion performance in networked stochastic vector quantisers citation:3 ncitation:3 pid2096124
+title1:Progressive Probabilistic Hough Transform for Line Detection. title2:Progressive probabilistic Hough transform for line detection citation:76 ncitation:68 pid1363578
+title1:On Accurate and Robust Estimation of Fundamental Matrix. title2:On accurate and robust estimation of fundamental matrix citation:31 ncitation:32 pid346141
+title1:A Study on Automatic Shot Change Detection. title2:A study on automatic shot change detection citation:32 ncitation:29 pid330977
+title1:On the correspondence problem for wide angular separation of non-coplanar points. title2:On the correspondence problem for wide angular separation of non-coplanar points citation:18 ncitation:17 pid576459
+title1:Using Background Memory for Efficient Video Coding. title2:Using background memory for efficient video coding citation:5 ncitation:4 pid1792245
+title1:Decision Making in the LDA Space: Generalised Gradient Direction Metric. title2:Decision making in the lda space: Generalised gradient direction metric citation:20 ncitation:19 pid294144
+title1:Use of Context in Automatic Annotation of Sports Videos. title2:Use of context in automatic annotation of sports videos citation:6 ncitation:6 pid932197
+title1:Feature condensing algorithm for feature selection. title2:Feature condensing algorithm for feature selection citation:3 ncitation:2 pid932198
+title1:The BANCA Database and Evaluation Protocol. title2:The BANCA database and evaluation protocol citation:397 ncitation:381 pid60781
+title1:Fast robust correlation. title2:Fast robust correlation citation:80 ncitation:70 pid312198
+title1:3D Assisted 2D Face Recognition: Methodology. title2:3D assisted 2D face recognition: Methodology citation:2 ncitation:2 pid946541
+title1:A Morphologically Optimal Strategy for Classifier Combination: Multiple Expert Fusion as a Tomographic Process. title2:A morphologically optimal strategy for classifier combination: Multiple expert fusion as a tomographic process citation:27 ncitation:26 pid60790
+title1:A Comparative Study of Different Segmentation Approaches for Audio Track Indexing. title2:A comparative study of different segmentation approaches for audio track indexing citation:3 ncitation:3 pid1431828
+title1:Feature selection based on the approximation of class densities by finite mixtures of special type. title2:Feature selection based on the approximation of class densities by finite mixtures of special type citation:58 ncitation:52 pid2684501
+title1:Matching and Recognition of Road Networks from Aerial Images. title2:Matching and recognition of road networks from aerial images citation:20 ncitation:18 pid2601138
+title1:Scenario Based Performance Optimisation in Face Verification Using Smart Cards. title2:Scenario based performance optimisation in face verification using smart cards citation:6 ncitation:6 pid946583
+title1:Robust unmixing of large sets of mixed pixels. title2:Robust unmixing of large sets of mixed pixels citation:4 ncitation:4 pid946584
+title1:Combining Face Verification Experts. title2:Combining face verification experts citation:32 ncitation:30 pid319755
+title1:Probabilistic Relaxation: Potential, Relationships and Open Problems. title2:Probabilistic relaxation: Potential, relationships and open problems citation:6 ncitation:6 pid2479654
+title1:A survey of the hough transform. title2:A survey of the Hough transform citation:1706 ncitation:1542 pid18039
+title1:Sensitivity Analysis of Projective Geometry 3D Reconstruction. title2:Sensitivity analysis of projective geometry 3d reconstruction citation:2 ncitation:2 pid1303123
+title1:Sum Versus Vote Fusion in Multiple Classifier Systems. title2:Sum versus vote fusion in multiple classifier systems citation:185 ncitation:159 pid2060126
+title1:On Combining Classifiers. title2:On combining classifiers citation:4114 ncitation:3624 pid1714645
+title1:Comparative study of Hough Transform methods for circle finding. title2:Comparative study of Hough transform methods for circle finding citation:223 ncitation:184 pid2602190
+title1:Detecting partially occluded ellipses using the Hough transform. title2:Detecting partially occluded ellipses using the Hough transform citation:197 ncitation:169 pid1279193
+title1:Locally Linear Discriminant Analysis for Multimodally Distributed Classes for Face Recognition with a Single Model Image. title2:Locally linear discriminant analysis for multimodally distributed classes for face recognition with a single model image citation:179 ncitation:153 pid61522
+title1:Colour Image Retrieval and Object Recognition Using the Multimodal Neighbourhood Signature. title2:Colour image retrieval and object recognition using the multimodal neighbourhood signature citation:53 ncitation:49 pid346359
+title1:Morphologically Unbiased Classifier Combination through Graphical PDF Correlation. title2:Morphologically unbiased classifier combination through graphical PDF correlation citation:2 ncitation:2 pid1033701
+title1:Multiple Classifier Systems, Second International Workshop, MCS 2001 Cambridge, UK, July 2-4, 2001, Proceedings title2:Multiple Classifier Systems: Second International Workshop, MCS 2001 Cambridge, UK, July 2-4, 2001 Proceedings citation:78 ncitation:117 pid1101448
+title1:Multiple Classifier Systems, 5th International Workshop, MCS 2004, Cagliari, Italy, June 9-11, 2004, Proceedings title2:Multiple Classifier Systems: 5th International Workshop, MCS 2004, Cagliari, Italy, June 9-11, 2004, Proceedings citation:26 ncitation:-1 pid1209466
+title1:Multiple Classifier Systems, 8th International Workshop, MCS 2009, Reykjavik, Iceland, June 10-12, 2009. Proceedings title2:Multiple Classifier Systems: 8th International Workshop, MCS 2009, Reykjavik, Iceland, June 10-12, 2009, Proceedings citation:6 ncitation:6 pid139399
+title1:Pattern Recognition, 4th International Conference, Cambridge, UK, March 28-30, 1988, Proceedings title2:Pattern recognition: 4th international conference, Cambridge, UK, March 28-30, 1988: proceedings citation:5 ncitation:17 pid205483
+title1:Kernel Fusion of Multiple Histogram Descriptors for Robust Face Recognition. title2:Kernel fusion of multiple histogram descriptors for robust face recognition citation:3 ncitation:2 pid2197428
+title1:A formal definition of the Hough transform: Properties and relationships. title2:A formal definition of the Hough transform: properties and relationships citation:91 ncitation:84 pid1362806
+title1:The Multiscenario Multienvironment BioSecure Multimodal Database (BMDB). title2:The multiscenario multienvironment biosecure multimodal database (bmdb) citation:78 ncitation:62 pid619089
+title1:A multimodal biometric test bed for quality-dependent, cost-sensitive and client-specific score-level fusion algorithms. title2:A multimodal biometric test bed for quality-dependent, cost-sensitive and client-specific score-level fusion algorithms citation:27 ncitation:19 pid1045296
+title1:p norm multiple kernel Fisher discriminant analysis for object and image categorisation. citation:23 ncitation:17 pid312062
+title1:The University of Surrey Visual Concept Detection System at ImageCLEF@ICPR: Working Notes. title2:The university of surrey visual concept detection system at imageCLEF@ ICPR: working notes citation:7 ncitation:3 pid376769
+title1:A review of instance selection methods. title2:A review of instance selection methods citation:32 ncitation:18 pid1899718
+title1:Benchmarking quality-dependent and cost-sensitive score-level multimodal biometric fusion algorithms. title2:Benchmarking quality-dependent and cost-sensitive score-level multimodal biometric fusion algorithms citation:51 ncitation:37 pid319653
+title1:Fusion of visible and synthesised near infrared information for face authentication. title2:Fusion of visible and synthesised near infrared information for face authentication citation:2 ncitation:-1 pid347452
+title1:Ball event recognition using hmm for automatic tennis annotation. title2:Ball event recognition using HMM for automatic tennis annotation citation:5 ncitation:4 pid347440
+title1:Quality-Based Score Normalization With Device Qualitative Information for Multimodal Biometric Fusion. title2:Quality-based score normalization with device qualitative information for multimodal biometric fusion citation:23 ncitation:15 pid1209771
+title1:3D-assisted Facial Texture Super-Resolution. title2:3D-assisted facial texture super-resolution citation:5 ncitation:4 pid1045256
+title1:All Pairs Shortest Path Formulation for Multiple Object Tracking with Application to Tennis Video Analysis. title2:All pairs shortest path formulation for multiple object tracking with application to tennis video analysis citation:3 ncitation:2 pid491096
+title1:Face Recognition Using Active Near-IR Illumination. title2:Face Recognition Using Active Near-IR Illumination. citation:27 ncitation:24 pid1758792
+title1:A Tennis Ball Tracking Algorithm for Automatic Annotation of Tennis Match. title2:A tennis ball tracking algorithm for automatic annotation of tennis match citation:33 ncitation:25 pid1663579
+title1:On the Results of the First Mobile Biometry (MOBIO) Face and Speaker Verification Evaluation. title2:On the results of the first mobile biometry (MOBIO) face and speaker verification evaluation citation:36 ncitation:27 pid491091
+title1:The University of Surrey Visual Concept Detection System at ImageCLEF@ICPR: Working Notes. title2:The university of surrey visual concept detection system at imageCLEF@ ICPR: working notes citation:7 ncitation:3 pid1042023
+title1:Texture crack detection. title2:Texture crack detection citation:33 ncitation:33 pid491055
+title1:Combining classifiers: A theoretical framework. title2:Combining classifiers: A theoretical framework citation:237 ncitation:216 pid491051
+title1:The Adaptive Hough Transform. title2:The adaptive Hough transform citation:439 ncitation:387 pid491049
+title1:Energy Normalization for Pose-Invariant Face Recognition Based on MRF Model Image Matching. title2:Energy normalization for pose-invariant face recognition based on mrf model image matching citation:5 ncitation:2 pid128966
+title1:Multiple Kernel Learning via Distance Metric Learning for Interactive Image Retrieval. title2:Multiple kernel learning via distance metric learning for interactive image retrieval citation:4 ncitation:1 pid127907
+title1:Probabilistic relaxation for matching problems in computer vision. title2:Probabilistic relaxation for matching problems in computer vision citation:77 ncitation:73 pid947242
+title1:Evaluation of face recognition system in heterogeneous environments (visible vs NIR). title2:Evaluation of face recognition system in heterogeneous environments (visible vs NIR) citation:5 ncitation:1 pid322599
+title1:Multilabel classification using heterogeneous ensemble of multi-label classifiers. title2:Multilabel classification using heterogeneous ensemble of multi-label classifiers citation:6 ncitation:-1 pid93180
+title1:Local Ordinal Contrast Pattern Histograms for Spatiotemporal, Lip-Based Speaker Authentication. title2:Local ordinal contrast pattern histograms for spatiotemporal, lip-based speaker authentication citation:6 ncitation:5 pid311913
+title1:User-Specific Cohort Selection and Score Normalization for Biometric Systems. title2:User-Specific Cohort Selection and Score Normalization for Biometric Systems citation:3 ncitation:-1 pid60564
+title1:Inverse random under sampling for class imbalance problem and its application to multi-label classification. title2:Inverse random under sampling for class imbalance problem and its application to multi-label classification citation:6 ncitation:-1 pid1100734
+title1:Kernel Discriminant Analysis Using Triangular Kernel for Semantic Scene Classification. title2:Kernel discriminant analysis using triangular kernel for semantic scene classification citation:5 ncitation:6 pid93170
+title1:Statistical Properties of Error Estimators in Performance Assessment of Recognition Systems. title2:Statistical properties of error estimators in performance assessment of recognition systems citation:31 ncitation:29 pid2303379
+title1:Combining symbolic with numeric attributes in multi-class object recognition problems. title2:Combining symbolic with numeric attributes in multi-class object recognition problems citation:5 ncitation:-1 pid2395143
+title1:A hybrid codec for very low bit rate video coding. title2:A hybrid codec for very low bit rate video coding citation:3 ncitation:-1 pid1352114
+title1:Using grammars for scene interpretation. title2:Using grammars for scene interpretation citation:6 ncitation:-1 pid1217264

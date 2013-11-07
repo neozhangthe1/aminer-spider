@@ -1,0 +1,322 @@
+title1:Modeling Relaxed Hand Shape for Character Animation. title2:Modeling relaxed hand shape for character animation citation:3 ncitation:3 pid40402
+title1:Shape Matching Based on Fully Automatic Face Detection on Triangular Meshes. title2:Shape matching based on fully automatic face detection on triangular meshes citation:2 ncitation:2 pid85962
+title1:Cloth X-Ray: MoCap of People Wearing Textiles. title2:Cloth x-ray: Mocap of people wearing textiles citation:15 ncitation:15 pid136261
+title1:One-Sided Stability of Medial Axis Transform. title2:One-sided stability of medial axis transform citation:7 ncitation:7 pid135246
+title1:Using Eigenvalue Derivatives for Edge Detection in DT-MRI Data. title2:Using eigenvalue derivatives for edge detection in DT-MRI data citation:5 ncitation:5 pid136697
+title1:Model-Based Motion Capture for Crash Test Video Analysis. title2:Model-based Motion Capture for Crash Test Video Analysis citation:0 ncitation:-1 pid136689
+title1:Online Smoothing for Markerless Motion Capture. title2:Online smoothing for markerless motion capture citation:4 ncitation:4 pid136746
+title1:Clustered Stochastic Optimization for Object Recognition and Pose Estimation. title2:Clustered stochastic optimization for object recognition and pose estimation citation:8 ncitation:8 pid136725
+title1:Staying Well Grounded in Markerless Motion Capture. title2:Staying well grounded in markerless motion capture citation:6 ncitation:5 pid136780
+title1:Extended Light Maps. title2:Extended Light Maps. citation:0 ncitation:-1 pid222591
+title1:Multiresolution Modeling and Interactive Deformation of Large 3D Meshes. title2:Multiresolution Modeling and Interactive Deformation of Large 3D Meshes citation:0 ncitation:-1 pid148201
+title1:High Accuracy Optical Flow Serves 3-D Pose Tracking: Exploiting Contour and Flow Based Constraints. title2:High accuracy optical flow serves 3-D pose tracking: exploiting contour and flow based constraints citation:41 ncitation:36 pid168318
+title1:Ensembles for Normal and Surface Reconstructions. title2:Ensembles for normal and surface reconstructions citation:0 ncitation:-1 pid235302
+title1:Mean Value Bézier Maps. citation:3 ncitation:-1 pid235352
+title1:An Image-Based Model for Realistic Lens Systems in Interactive Computer Graphics. title2:An image-based model for realistic lens systems in interactive computer graphics citation:42 ncitation:39 pid235851
+title1:Hardware-Accelerated Visual Hull Reconstruction and Rendering. title2:Hardware-Accelerated Visual Hull Reconstruction and Rendering. citation:93 ncitation:88 pid235808
+title1:Single Sample Soft Shadows Using Depth Maps. title2:Single sample soft shadows using depth maps citation:80 ncitation:75 pid235844
+title1:Decoupling BRDFs from Surface Mesostructures. title2:Decoupling BRDFs from surface mesostructures citation:16 ncitation:10 pid235909
+title1:Hardware Accelerated Displacement Mapping for Image Based Rendering. title2:Hardware accelerated displacement mapping for image based rendering citation:68 ncitation:64 pid235907
+title1:Geometry-based Muscle Modeling for Facial Animation. title2:Geometry-based muscle modeling for facial animation citation:152 ncitation:140 pid235891
+title1:Automatic Generation of Subdivision Surface Head Models from Point Cloud Data. title2:Automatic generation of subdivision surface head models from point cloud data citation:31 ncitation:29 pid235885
+title1:Texturing Faces. title2:Texturing faces citation:30 ncitation:26 pid235974
+title1:A Hybrid Hardware-Accelerated Algorithm for High Quality Rendering of Visual Hulls. title2:A hybrid hardware-accelerated algorithm for high quality rendering of visual hulls citation:20 ncitation:20 pid235946
+title1:Scanning Large-Scale Articulated Deformations. title2:Scanning Large-Scale Articulated Deformations. citation:3 ncitation:3 pid235941
+title1:A General Framework for Mesh Decimation. title2:A general framework for mesh decimation citation:222 ncitation:206 pid235919
+title1:Exponential shadow maps. title2:Exponential shadow maps citation:42 ncitation:35 pid236149
+title1:Lighting Networks - A New Approach for Designing Lighting Algorithms. title2:Lighting Networks-A New Approach for Designing Lighting Algorithms. citation:5 ncitation:5 pid236082
+title1:High-Quality Interactive Lumigraph Rendering Through Warping. title2:High-quality interactive lumigraph rendering through warping citation:43 ncitation:39 pid236052
+title1:Triangular B-splines for Blending & Filling of Polygonal Holes. title2:Triangular B-splines for blending and filling of polygonal holes citation:45 ncitation:43 pid236023
+title1:Interactive stylized silhouette for point-sampled geometry. title2:Interactive stylized silhouette for point-sampled geometry citation:17 ncitation:16 pid236400
+title1:Interactive global illumination based on coherent surface shadow maps. title2:Interactive global illumination based on coherent surface shadow maps citation:19 ncitation:19 pid236171
+title1:Background estimation from non-time sequence images. title2:Background estimation from non-time sequence images citation:13 ncitation:11 pid236153
+title1:Marker-Less 3D Feature Tracking for Mesh-Based Human Motion Capture. title2:Marker-less 3d feature tracking for mesh-based human motion capture citation:16 ncitation:14 pid257333
+title1:Nonparametric Density Estimation with Adaptive, Anisotropic Kernels for Human Motion Tracking. title2:Nonparametric density estimation with adaptive, anisotropic kernels for human motion tracking citation:24 ncitation:23 pid257337
+title1:Silhouette Based Generic Model Adaptation for Marker-Less Motion Capturing. title2:Silhouette based generic model adaptation for marker-less motion capturing citation:3 ncitation:1 pid257347
+title1:Effective Use of Procedural Shaders in Animated Scenes. title2:Effective Use of Procedural Shaders in Animated Scenes citation:0 ncitation:0 pid279237
+title1:Implicit Boundary Control of Vector Field Based Shape Deformations. title2:Implicit boundary control of vector field based shape deformations citation:0 ncitation:-1 pid396088
+title1:Mean Value Bézier Surfaces. citation:2 ncitation:2 pid396093
+title1:Color Calibrated High Dynamic Range Imaging with ICC Profiles. title2:Color calibrated high dynamic range imaging with ICC profiles citation:18 ncitation:18 pid396488
+title1:Validation of Color Managed 3D Appearance Acquisition. title2:Validation of color managed 3D appearance acquisition citation:6 ncitation:6 pid396490
+title1:Combinatorial Properties of Subdivision Meshes. title2:Combinatorial properties of subdivision meshes citation:0 ncitation:0 pid396051
+title1:Object-Oriented Design for Image Synthesis. title2:Object-oriented design for image synthesis citation:5 ncitation:4 pid521346
+title1:May I talk to you? : -)" - Facial Animation from Text. citation:29 ncitation:29 pid539876
+title1:Learning for Multi-view 3D Tracking in the Context of Particle Filters. title2:Learning for multi-view 3d tracking in the context of particle filters citation:9 ncitation:9 pid451651
+title1:Automatic Learning of Articulated Skeletons from 3D Marker Trajectories. title2:Automatic learning of articulated skeletons from 3D marker trajectories citation:24 ncitation:20 pid451522
+title1:A Comparison of Shape Matching Methods for Contour Based Pose Estimation. title2:A comparison of shape matching methods for contour based pose estimation citation:29 ncitation:28 pid463343
+title1:Combined Registration Methods for Pose Estimation. title2:Combined Registration Methods for Pose Estimation citation:1 ncitation:0 pid452002
+title1:Intelligent Mesh Scissoring Using 3D Snakes. title2:Intelligent mesh scissoring using 3d snakes citation:71 ncitation:67 pid540029
+title1:Interactive Rendering of Translucent Objects. citation:92 ncitation:82 pid540032
+title1:Interactive Visualization of Complex Real-World Light Sources. title2:Author manuscript, published in" Proceedings of Pacific Graphics 2003, Canada (2003)" Interactive Visualization of Complex Real-World Light Sources citation:0 ncitation:5 pid539911
+title1:Normal Based Estimation of the Curvature Tensor for Triangular Meshes. title2:Normal based estimation of the curvature tensor for triangular meshes citation:47 ncitation:38 pid540182
+title1:Enhancing Silhouette-Based Human Motion Capture with 3D Motion Fields. title2:Enhancing silhouette-based human motion capture with 3d motion fields citation:2 ncitation:37 pid540184
+title1:Hierarchical techniques for global illumination computations-recent trends and developments. title2:Hierarchical Techniques for Global Illumination Computations-Recent Trends and Developments citation:0 ncitation:-1 pid540124
+title1:Bounded Clustering 3/4 Finding Good Bounds on Clustered Light Transport. title2:Bounded clustering-finding good bounds on clustered light transport citation:20 ncitation:20 pid540136
+title1:Efficient Rendering of Local Subsurface Scattering. title2:Efficient rendering of local subsurface scattering citation:55 ncitation:48 pid540078
+title1:Entropy-Based Dark Frame Subtraction. title2:Entropy-based dark frame subtraction citation:10 ncitation:9 pid540658
+title1:Combining 2D Feature Tracking and Volume Reconstruction for Online Video-Based Human Motion Capture. title2:Combining 2D feature tracking and volume reconstruction for online video-based human motion capture citation:75 ncitation:73 pid540186
+title1:Fast and Faithful Geometric Algorithm for Detecting Crest Lines on Meshes. title2:Fast and faithful geometric algorithm for detecting crest lines on meshes citation:23 ncitation:17 pid540197
+title1:Canned Lightsources. title2:Canned lightsources citation:43 ncitation:41 pid562940
+title1:Soft Shadow Maps for Linear Lights. title2:Soft Shadow Maps for Linear Lights. citation:76 ncitation:70 pid562938
+title1:Interactive System for Dynamic Scene Lighting using Captured Video Environment Maps. title2:Interactive system for dynamic scene lighting using captured video environment maps citation:24 ncitation:20 pid562926
+title1:An Efficient Spatio-Temporal Architecture for Animation Rendering. title2:An efficient spatio-temporal architecture for animation rendering citation:39 ncitation:37 pid562924
+title1:Ray Maps for Global Illumination. title2:Ray maps for global illumination citation:2 ncitation:27 pid562922
+title1:Bayesian Relighting. title2:Bayesian relighting citation:12 ncitation:12 pid562863
+title1:Spherical harmonic Gradients for Mid-Range Illumination. title2:Spherical harmonic Gradients for Mid-Range Illumination. citation:49 ncitation:47 pid562851
+title1:Unified Approach to Prefiltered Environment Maps. title2:Unified Approach to Prefiltered Environment Maps. citation:122 ncitation:108 pid562837
+title1:Towards an Open Rendering Kernel for Image Synthesis. title2:Towards an open rendering kernel for image synthesis citation:4 ncitation:4 pid563093
+title1:Thrifty Final Gather for Radiosity. title2:Thrifty final gather for radiosity citation:19 ncitation:20 pid563084
+title1:Image-Based Reconstruction of Spatially Varying Materials. title2:Image-based reconstruction of spatially varying materials citation:141 ncitation:-1 pid562988
+title1:Ray Tracing of Subdivision Surfaces. title2:Ray tracing of subdivision surfaces citation:44 ncitation:45 pid562969
+title1:Interactive Global Illumination using Selective Photon Tracing. title2:Interactive global illumination using selective photon tracing citation:82 ncitation:79 pid562952
+title1:Light Field Techniques for Reflections and Refractions. title2:Light field techniques for reflections and refractions citation:70 ncitation:64 pid562942
+title1:Efficient Cloth Modeling and Rendering. title2:Efficient cloth modeling and rendering citation:70 ncitation:69 pid562941
+title1:Spherical barycentric coordinates. title2:Spherical barycentric coordinates citation:34 ncitation:30 pid586789
+title1:Overfitting control for surface reconstruction. title2:Overfitting control for surface reconstruction citation:5 ncitation:3 pid586750
+title1:Applications of pixel textures in visualization and realistic image synthesis. title2:Applications of pixel textures in visualization and realistic image synthesis citation:119 ncitation:113 pid586856
+title1:Setting the Boundary Free: A Composite Approach to Surface Parameterization. title2:Setting the Boundary Free: A Composite Approach to Surface Parameterization. citation:31 ncitation:31 pid586794
+title1:Maximum mipmaps for fast, accurate, and scalable dynamic height field rendering. title2:Maximum mipmaps for fast, accurate, and scalable dynamic height field rendering citation:32 ncitation:26 pid587068
+title1:An efficient spatio-temporal architecture for animation rendering. title2:An efficient spatio-temporal architecture for animation rendering citation:39 ncitation:37 pid593440
+title1:Robust Variational Reconstruction from Multiple Views. title2:Robust variational reconstruction from multiple views citation:3 ncitation:3 pid578150
+title1:Three Point Clustering for Radiance Computations. title2:Three point clustering for radiance computations citation:27 ncitation:26 pid563104
+title1:Laplacian Surface Editing. title2:Laplacian Surface Editing citation:0 ncitation:475 pid586685
+title1:Connectivity Transformation for Mesh Metamorphosis. title2:Connectivity transformation for mesh metamorphosis citation:6 ncitation:6 pid586670
+title1:Elastic secondary deformations by vector field integration. title2:Elastic secondary deformations by vector field integration citation:7 ncitation:6 pid586732
+title1:Linear angle based parameterization. title2:Linear angle based parameterization citation:38 ncitation:33 pid586718
+title1:Modeling with triangular B-splines. title2:Modeling with triangular B-splines citation:63 ncitation:17 pid605928
+title1:An integrating approach to meshing scattered point data. title2:An integrating approach to meshing scattered point data citation:51 ncitation:44 pid606085
+title1:Free-form skeleton-driven mesh deformations. title2:Free-form skeleton-driven mesh deformations citation:73 ncitation:65 pid606227
+title1:Fast and robust detection of crest lines on meshes. title2:Fast and robust detection of crest lines on meshes citation:116 ncitation:114 pid606228
+title1:Controlled field generation for quad-remeshing. title2:Controlled field generation for quad-remeshing citation:6 ncitation:5 pid606329
+title1:Illuminating micro geometry based on precomputed visibility. title2:Illuminating micro geometry based on precomputed visibility citation:103 ncitation:96 pid593449
+title1:Realistic, Hardware-Accelerated Shading and Lighting. title2:Realistic, hardware-accelerated shading and lighting citation:300 ncitation:285 pid593450
+title1:Feature sensitive surface extraction from volume data. title2:Feature sensitive surface extraction from volume data citation:462 ncitation:414 pid593552
+title1:Interactive Multi-Resolution Modeling on Arbitrary Meshes. title2:Interactive multi-resolution modeling on arbitrary meshes citation:720 ncitation:677 pid593553
+title1:View planning for BRDF acquisition. title2:View planning for BRDF acquisition citation:4 ncitation:3 pid593578
+title1:Perception-guided global illumination solution for animation rendering. title2:Perception-guided global illumination solution for animation rendering citation:108 ncitation:99 pid593757
+title1:BSP Shapes. title2:BSP Shapes citation:0 ncitation:2 pid608475
+title1:A Fast and Simple Stretch-Minimizing Mesh Parameterization. title2:A fast and simple stretch-minimizing mesh parameterization citation:83 ncitation:77 pid608494
+title1:Differential Coordinates for Interactive Mesh Editing. title2:Differential coordinates for interactive mesh editing citation:214 ncitation:194 pid608327
+title1:A Multi-scale Approach to 3D Scattered Data Interpolation with Compactly Supported Basis Function. title2:A multi-scale approach to 3D scattered data interpolation with compactly supported basis functions citation:182 ncitation:178 pid608377
+title1:Visualization of Volume Data with Quadratic Super Splines. title2:Visualization of volume data with quadratic super splines citation:14 ncitation:13 pid640260
+title1:Towards PDE-Based Image Compression. title2:Towards PDE-based image compression citation:45 ncitation:37 pid646680
+title1:Stream Line and Path Line Oriented Topology for 2D Time-Dependent Vector Fields. title2:Stream line and path line oriented topology for 2D time-dependent vector fields citation:33 ncitation:29 pid640416
+title1:Smooth Approximation and Rendering of Large Scattered Data Sets. title2:Smooth approximation and rendering of large scattered data sets citation:61 ncitation:54 pid639778
+title1:Segmentation of DT-MRI Anisotropy Isosurfaces. title2:Segmentation of DT-MRI Anisotropy Isosurfaces. citation:8 ncitation:7 pid639063
+title1:Using Feature Flow Fields for Topological Comparison of Vector Fields. title2:Using Feature Flow Fields for Topological Comparison of Vector Fields. citation:10 ncitation:8 pid647218
+title1:Localizing the Final Gathering for Dynamic Scenes using the Photon Map. title2:Localizing the Final Gathering for Dynamic Scenes using the Photon Map. citation:7 ncitation:6 pid647212
+title1:A Parallel Framework for Silhouette-Based Human Motion Capture. title2:A Parallel Framework for Silhouette-Based Human Motion Capture. citation:20 ncitation:19 pid647220
+title1:Grid-independent Detection of Closed Stream Lines in 2D Vector Fields. title2:Grid-independent Detection of Closed Stream Lines in 2D Vector Fields. citation:39 ncitation:33 pid647219
+title1:Efficient Free Form Light Field Rendering. title2:Efficient Free Form Light Field Rendering. citation:21 ncitation:20 pid647176
+title1:Rendering and Simulation of Liquid Foams. title2:Rendering and Simulation of Liquid Foams. citation:3 ncitation:3 pid647206
+title1:Hierarchical Radiosity with Global Refinement. title2:Hierarchical Radiosity with Global Refinement. citation:2 ncitation:2 pid647200
+title1:One-sided Stability of MAT and Its Applications. title2:One-sided Stability of MAT and Its Applications. citation:3 ncitation:3 pid647044
+title1:Improved Hardware-Accelerated Visual Hull Rendering. title2:Improved Hardware-Accelerated Visual Hull Rendering. citation:37 ncitation:35 pid647110
+title1:A Theoretical Comparison of Monte Carlo Radiosity Algorithms. title2:A Theoretical Comparison of Monte Carlo Radiosity Algorithms. citation:5 ncitation:5 pid646965
+title1:Asymtotic Analysis of Three-Point Approximations of Vertex Normals and Curvatures. title2:Asymtotic Analysis of Three-Point Approximations of Vertex Normals and Curvatures. citation:8 ncitation:7 pid646945
+title1:Building a Photo Studio for Measurement Purposes. title2:Building a Photo Studio for Measurement Purposes. citation:27 ncitation:27 pid646994
+title1:Speech Synchronization for Physics-Based Facial Animation. title2:Speech Synchronization for Physics-Based Facial Animation. citation:30 ncitation:28 pid672494
+title1:MIMIC - A Language for Specifying Facial Animations. title2:MIMIC-A Language for Specifying Facial Animations. citation:5 ncitation:5 pid672644
+title1:Nailing and Pinning: Adding Constraints to Inverse Kinematics . title2:Nailing and Pinning: Adding Constraints to Inverse Kinematics. citation:1 ncitation:2 pid672682
+title1:Online Accelerated Rendering of Visual Hulls in Real Scenes. title2:Online accelerated rendering of visual hulls in real scenes citation:20 ncitation:18 pid672803
+title1:A CAVE system for interactive modeling of global illumination in car interior. title2:A CAVE system for interactive modeling of global illumination in car interior citation:17 ncitation:16 pid648238
+title1:Marker-free kinematic skeleton estimation from sequences of volume data. title2:Marker-free kinematic skeleton estimation from sequences of volume data citation:29 ncitation:26 pid648330
+title1:FreeDrawer: a free-form sketching system on the responsive workbench. title2:FreeDrawer: a free-form sketching system on the responsive workbench citation:82 ncitation:74 pid648370
+title1:Efficient Iterative Solvers for Angle Based Flattening. title2:Efficient Iterative Solvers for Angle Based Flattening. citation:1 ncitation:1 pid647252
+title1:3D Reconstruction of Reflection Nebulae from a Single Image. title2:3D Reconstruction of Reflection Nebulae from a Single Image. citation:6 ncitation:6 pid647268
+title1:Automatic generation of personalized human avatars from multi-view video. title2:Automatic generation of personalized human avatars from multi-view video citation:34 ncitation:28 pid648141
+title1:Multi-Layer Skeleton Fitting for Online Human Motion Capture. title2:Multi-Layer Skeleton Fitting for Online Human Motion Capture. citation:8 ncitation:7 pid647221
+title1:Linear Time Mesh Simplification with Reliable Error-Bounds. title2:Linear Time Mesh Simplification with Reliable Error-Bounds. citation:0 ncitation:-1 pid647234
+title1:Error-guided adaptive Fourier-based surface reconstruction. title2:Error-guided adaptive Fourier-based surface reconstruction citation:9 ncitation:9 pid779794
+title1:A variational approach to progressive lens design. title2:A variational approach to progressive lens design citation:31 ncitation:24 pid778899
+title1:Interpolating scattered data with C2 surfaces. title2:Interpolating scattered data with C< sup> 2</sup> surfaces citation:19 ncitation:19 pid778757
+title1:A platform for visualizing curves and surfaces. title2:A platform for visualizing curves and surfaces citation:3 ncitation:2 pid778553
+title1:A perceptual framework for contrast processing of high dynamic range images. title2:A perceptual framework for contrast processing of high dynamic range images citation:133 ncitation:113 pid717234
+title1:Lightness perception inspired tone mapping. title2:Lightness perception inspired tone mapping citation:5 ncitation:5 pid717180
+title1:Perceptual uniformity of contrast scaling in complex images. title2:Perceptual uniformity of contrast scaling in complex images citation:0 ncitation:-1 pid717115
+title1:Reverse Engineering Garments. title2:Reverse engineering garments citation:3 ncitation:2 pid693008
+title1:Spatio-temporal Reflectance Sharing for Relightable 3D Video. title2:Spatio-temporal reflectance sharing for relightable 3D video citation:2 ncitation:2 pid692992
+title1:Animation collage. title2:Animation collage citation:12 ncitation:12 pid692697
+title1:Robust Pose Estimation with 3D Textured Models. title2:Robust pose estimation with 3d textured models citation:13 ncitation:13 pid677191
+title1:Enhancements to Directional Coherence Maps. title2:Enhancements to directional coherence maps citation:6 ncitation:6 pid672982
+title1:Line Art Rendering of Triangulated Surfaces Using Discrete Lines of Curvatures. title2:Line Art Rendering of Triangulated Surfaces Using Discrete Lines of Curvatures. citation:32 ncitation:29 pid672961
+title1:Processing and interactive editing of huge point clouds from 3D scanners. title2:Processing and interactive editing of huge point clouds from 3D scanners citation:23 ncitation:15 pid786449
+title1:Efficient Light Transport Using Precomputed Visibility. title2:Efficient light transport using precomputed visibility citation:18 ncitation:15 pid786551
+title1:Advanced environment mapping in VR applications. title2:Advanced environment mapping in VR applications citation:9 ncitation:9 pid785149
+title1:Density estimation for dynamic volumes. title2:Density estimation for dynamic volumes citation:11 ncitation:9 pid786311
+title1:Fast, robust, and faithful methods for detecting crest lines on meshes. title2:Fast, robust, and faithful methods for detecting crest lines on meshes citation:12 ncitation:9 pid781009
+title1:Enhancing digital documents by including 3D-models. title2:Enhancing digital documents by including 3D-models citation:11 ncitation:11 pid784540
+title1:Exact and interpolatory quadratures for curvature tensor estimation. title2:Exact and interpolatory quadratures for curvature tensor estimation citation:13 ncitation:7 pid780941
+title1:Mesh scissoring with minima rule and part salience. title2:Mesh scissoring with minima rule and part salience citation:0 ncitation:101 pid780466
+title1:Surface and normal ensembles for surface reconstruction. title2:Surface and normal ensembles for surface reconstruction citation:25 ncitation:24 pid779802
+title1:Adaptive feature-preserving non-local denoising of static and time-varying range data. title2:Adaptive feature-preserving non-local denoising of static and time-varying range data citation:16 ncitation:12 pid779913
+title1:Grid Based Final Gather for Radiosity on Complex Clustered Scenes. title2:Grid based final gather for radiosity on complex clustered scenes citation:17 ncitation:18 pid788060
+title1:Fitting Triangular B-Splines to Functional Scattered Data. citation:16 ncitation:40 pid787934
+title1:Spherical Triangular B-Splines with Application to Data Fitting. citation:34 ncitation:34 pid787932
+title1:On-the-Fly Processing of Generalized Lumigraphs. citation:67 ncitation:63 pid788065
+title1:Adaptive Acquisition of Lumigraphs from Synthetic Scenes. title2:Adaptive acquisition of lumigraphs from synthetic scenes citation:58 ncitation:53 pid788064
+title1:Efficient Fitting and Rendering of Large Scattered Data Sets Using Subdivision Surfaces. title2:Efficient fitting and rendering of large scattered data sets using subdivision surfaces citation:16 ncitation:14 pid788061
+title1:Bounded Radiosity - Illumination on General Surfaces and Clusters. citation:36 ncitation:35 pid788112
+title1:Using Procedural RenderMan Shaders for Global Illumination. title2:Using Procedural RenderMan Shaders for Global Illurnination citation:28 ncitation:28 pid788094
+title1:Implementing RenderMan - Practice, Problems and Enhancements. citation:28 ncitation:28 pid788093
+title1:Lightness Perception in Tone Reproduction for High Dynamic Range Images. title2:Lightness perception in tone reproduction for high dynamic range images citation:51 ncitation:42 pid788282
+title1:Topological Construction and Visualization of Higher Order 3D Vector Fields. title2:Topological construction and visualization of higher order 3D vector fields citation:30 ncitation:25 pid788227
+title1:Shadow Volumes on Programmable Graphics Hardware. title2:Shadow volumes on programmable graphics hardware citation:69 ncitation:62 pid787352
+title1:Perceptually Guided Corrective Splatting. title2:Perceptually guided corrective splatting citation:55 ncitation:52 pid787701
+title1:Hardware-Based Volumetric Knit-Wear. citation:18 ncitation:16 pid787514
+title1:Fair Surface Reconstruction Using Quadratic Functionals. title2:Fair surface reconstruction using quadratic functionals citation:11 ncitation:11 pid787769
+title1:Multiresolution shape deformations for meshes with dynamic vertex connectivity. title2:Multiresolution shape deformations for meshes with dynamic vertex connectivity citation:150 ncitation:141 pid787761
+title1:Using Subdivision on Hierarchical Data to Reconstruct Radiosity Distribution. title2:Using subdivision on hierarchical data to reconstruct radiosity distribution citation:50 ncitation:49 pid787762
+title1:Interactive Rendering of Translucent Objects. citation:92 ncitation:82 pid787857
+title1:Planned Sampling of Spatially Varying BRDFs. title2:Planned sampling of spatially varying BRDFs citation:31 ncitation:24 pid787859
+title1:Modeling a Generic Tone-mapping Operator. citation:22 ncitation:15 pid788578
+title1:Automatic Conversion of Mesh Animations into Skeleton-based Animations. citation:54 ncitation:44 pid788577
+title1:Combining Confocal Imaging and Descattering. title2:Combining confocal imaging and descattering citation:12 ncitation:11 pid788596
+title1:Render2MPEG: A Perception-based Framework Towards Integrating Rendering and Video Compression. citation:4 ncitation:4 pid788582
+title1:Enhancement of Bright Video Features for HDR Displays. title2:Enhancement of bright video features for HDR displays citation:24 ncitation:16 pid788612
+title1:High-speed Marching Cubes using HistoPyramids. citation:50 ncitation:43 pid788714
+title1:Anisotropic Radiance-Cache Splatting for Efficiently Computing High-Quality Global Illumination with Lightcuts. citation:7 ncitation:7 pid788777
+title1:Animating Pictures of Fluid using Video Examples. title2:Animating pictures of fluid using video examples citation:14 ncitation:13 pid788780
+title1:Multiresolution hierarchies on unstructured triangle meshes. title2:Multiresolution hierarchies on unstructured triangle meshes citation:73 ncitation:67 pid803805
+title1:Predicting Display Visibility Under Dynamically Changing Lighting Conditions. title2:Predicting display visibility under dynamically changing lighting conditions citation:2 ncitation:2 pid788801
+title1:Fast Final Gathering via Reverse Photon Mapping. title2:Fast final gathering via reverse photon mapping citation:29 ncitation:28 pid788299
+title1:Harmonic Guidance for Surface Deformation. title2:Harmonic guidance for surface deformation citation:158 ncitation:141 pid788328
+title1:Efficient Rendering of Local Subsurface Scattering. title2:Efficient rendering of local subsurface scattering citation:55 ncitation:48 pid788342
+title1:Creating Face Models from Vague Mental Images. title2:Creating face models from vague mental images citation:4 ncitation:21 pid788367
+title1:Ray Tracing Animated Scenes using Motion Decomposition. title2:Ray tracing animated scenes using motion decomposition citation:53 ncitation:45 pid788371
+title1:Beyond Tone Mapping: Enhanced Depiction of Tone Mapped HDR Images. title2:Beyond tone mapping: Enhanced depiction of tone mapped HDR images citation:38 ncitation:29 pid788416
+title1:Analysis of Reproducing Real-World Appearance on Displays of Varying Dynamic Range. citation:45 ncitation:36 pid788418
+title1:Superresolution Reflectance Fields: Synthesizing images for intermediate light directions. title2:Superresolution reflectance fields: Synthesizing images for intermediate light directions citation:7 ncitation:6 pid788450
+title1:Layered Performance Animation with Correlation Maps. title2:Layered performance animation with correlation maps citation:15 ncitation:14 pid788451
+title1:Global Illumination using Photon Ray Splatting. title2:Global illumination using photon ray splatting citation:26 ncitation:24 pid788452
+title1:Contrast Restoration by Adaptive Countershading. title2:Contrast restoration by adaptive countershading citation:24 ncitation:21 pid788458
+title1:Skeleton-based Variational Mesh Deformations. citation:33 ncitation:24 pid788507
+title1:Stackless KD-Tree Traversal for High Performance GPU Ray Tracing. citation:185 ncitation:158 pid788516
+title1:Higher Order Barycentric Coordinates. title2:Higher order barycentric coordinates citation:20 ncitation:17 pid788543
+title1:Physically-based simulation of twilight phenomena. title2:Physically-based simulation of twilight phenomena citation:19 ncitation:15 pid1119159
+title1:DISCO: acquisition of translucent objects. title2:DISCO: acquisition of translucent objects citation:102 ncitation:90 pid1119082
+title1:Accurate light source acquisition and rendering. title2:Accurate light source acquisition and rendering citation:50 ncitation:46 pid1119080
+title1:Free-viewpoint video of human actors. title2:Free-viewpoint video of human actors citation:468 ncitation:428 pid1118927
+title1:A perceptual framework for contrast processing of high dynamic range images. title2:A perceptual framework for contrast processing of high dynamic range images citation:133 ncitation:113 pid1077708
+title1:A system for articulated tracking incorporating a clothing model. title2:A system for articulated tracking incorporating a clothing model citation:25 ncitation:21 pid1017564
+title1:Ridge-valley lines on meshes via implicit surface fitting. title2:Ridge-valley lines on meshes via implicit surface fitting citation:269 ncitation:255 pid1119413
+title1:Multi-level partition of unity implicits. title2:Multi-level partition of unity implicits citation:773 ncitation:748 pid1119412
+title1:Perception-motivated high dynamic range video encoding. title2:Perception-motivated high dynamic range video encoding citation:121 ncitation:108 pid1119347
+title1:Image-based reconstruction of spatial appearance and geometric detail. title2:Image-based reconstruction of spatial appearance and geometric detail citation:222 ncitation:189 pid1119298
+title1:Reanimating the dead: reconstruction of expressive faces from skull data. title2:Reanimating the dead: reconstruction of expressive faces from skull data citation:106 ncitation:99 pid1119227
+title1:Sampling Procedural Shaders Using Affine Arithmetic. title2:Sampling procedural shaders using affine arithmetic citation:47 ncitation:47 pid1119174
+title1:3D acquisition of mirroring objects using striped patterns. title2:3D acquisition of mirroring objects using striped patterns citation:57 ncitation:47 pid834548
+title1:Combining 3D flow fields with silhouette-based human motion capture for immersive video. title2:Combining 3d flow fields with silhouette-based human motion capture for immersive video citation:22 ncitation:23 pid834555
+title1:Sparse surface reconstruction with adaptive partition of unity and radial basis functions. title2:Sparse surface reconstruction with adaptive partition of unity and radial basis functions citation:14 ncitation:12 pid834353
+title1:A composite approach to meshing scattered data. title2:A composite approach to meshing scattered data citation:12 ncitation:11 pid834355
+title1:A Silhouette-Based Algorithm for Texture Registration and Stitching. title2:A silhouette-based algorithm for texture registration and stitching citation:110 ncitation:100 pid834129
+title1:3D scattered data interpolation and approximation with multilevel compactly supported RBFs. title2:3D scattered data interpolation and approximation with multilevel compactly supported RBFs citation:62 ncitation:55 pid834351
+title1:Hyperbolic Hausdorff Distance for Medial Axis Transform. title2:Hyperbolic Hausdorff distance for medial axis transform citation:20 ncitation:17 pid833826
+title1:Dimension of C1-splines on type-6 tetrahedral partitions. title2:Dimension of C1-splines on type-6 tetrahedral partitions citation:17 ncitation:14 pid958485
+title1:Graphische Datenverarbeitung. title2:Graphische Datenverarbeitung citation:0 ncitation:-1 pid925642
+title1:A Moving Mesh Approach to Stretch-minimizing Mesh Parameterization. title2:A moving mesh approach to stretch-minimizing mesh parameterization citation:3 ncitation:2 pid921286
+title1:Digital Collections of Real World Objects. title2:Digital collections of real world objects citation:2 ncitation:2 pid846692
+title1:Combining 2d Feature Tracking And Volume Reconstruction For Online Video-Based Human Motion Capture. title2:Combining 2D feature tracking and volume reconstruction for online video-based human motion capture citation:75 ncitation:73 pid910430
+title1:Textures revisited. title2:Textures revisited citation:9 ncitation:8 pid1137153
+title1:Mesh segmentation driven by Gaussian curvature. title2:Mesh segmentation driven by Gaussian curvature citation:75 ncitation:62 pid1137151
+title1:On stochastic methods for surface reconstruction. title2:On stochastic methods for surface reconstruction citation:17 ncitation:15 pid1137314
+title1:Interactive ray tracing of skinned animations. title2:Interactive ray tracing of skinned animations citation:7 ncitation:8 pid1137189
+title1:Ray tracing of spline surfaces: Bézier clipping, Chebyshev boxing, and bounding volume hierarchy - a critical comparison with new results. citation:28 ncitation:28 pid1136321
+title1:Dynamic range independent image quality assessment. title2:Dynamic range independent image quality assessment citation:1 ncitation:52 pid1119879
+title1:Performance capture from sparse multi-view video. title2:Performance capture from sparse multi-view video citation:250 ncitation:210 pid1119904
+title1:Towards passive 6D reflectance field displays. title2:Towards passive 6D reflectance field displays citation:31 ncitation:24 pid1119910
+title1:Pitching a baseball: tracking high-speed motion with multi-exposure images. title2:Pitching a baseball: tracking high-speed motion with multi-exposure images citation:41 ncitation:34 pid1119589
+title1:Adaptive sampling of reflectance fields. title2:Adaptive sampling of reflectance fields citation:24 ncitation:17 pid1119664
+title1:Eikonal rendering: efficient light transport in refractive objects. title2:Eikonal rendering: efficient light transport in refractive objects citation:55 ncitation:48 pid1119792
+title1:Gesture modeling and animation based on a probabilistic re-creation of speaker style. title2:Gesture modeling and animation based on a probabilistic re-creation of speaker style citation:102 ncitation:88 pid1119835
+title1:Time-resolved 3d capture of non-stationary gas flows. title2:Time-resolved 3d capture of non-stationary gas flows citation:52 ncitation:41 pid1119986
+title1:Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data. title2:Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data citation:51 ncitation:38 pid1120007
+title1:Reflectance from Images: A Model-Based Approach for Human Faces. title2:Reflectance from Images: A Model-Based Approach for Human Faces citation:0 ncitation:20 pid1133484
+title1:3D-modeling by ortho-image generation from image sequences. title2:3D-modeling by ortho-image generation from image sequences citation:25 ncitation:20 pid1119921
+title1:Real-time, all-frequency shadows in dynamic scenes. title2:Real-time, all-frequency shadows in dynamic scenes citation:86 ncitation:68 pid1119925
+title1:Depth-of-field rendering with multiview synthesis. title2:Depth-of-field rendering with multiview synthesis citation:31 ncitation:25 pid1343451
+title1:Motion-aware temporal coherence for video resizing. title2:Motion-aware temporal coherence for video resizing citation:65 ncitation:45 pid1343425
+title1:Interactive reflection editing. title2:Interactive reflection editing citation:15 ncitation:9 pid1358246
+title1:Editing Object Behaviour in Video Sequences. title2:Editing object behaviour in video sequences citation:3 ncitation:2 pid1343455
+title1:Estimating body shape of dressed humans. title2:Estimating body shape of dressed humans citation:24 ncitation:18 pid1333745
+title1:Image Compression with Anisotropic Diffusion. title2:Image compression with anisotropic diffusion citation:56 ncitation:39 pid1333906
+title1:Interacting and Annealing Particle Filters: Mathematics and a Recipe for Applications. title2:Interacting and annealing particle filters: Mathematics and a recipe for applications citation:35 ncitation:28 pid1325464
+title1:Interactive volume caustics in single-scattering media. title2:Interactive volume caustics in single-scattering media citation:14 ncitation:11 pid1339112
+title1:Exploiting Mutual Camera Visibility in Multi-camera Motion Estimation. title2:Exploiting Mutual Camera Visibility in Multi-camera Motion Estimation citation:0 ncitation:0 pid1338276
+title1:Accurate Real-Time Disparity Estimation with Variational Methods. title2:Accurate real-time disparity estimation with variational methods citation:38 ncitation:23 pid1338380
+title1:Volume-preserving Mesh Skinning. title2:Volume-preserving Mesh Skinning. citation:11 ncitation:10 pid1308147
+title1:Learning skeletons for shape and pose. title2:Learning skeletons for shape and pose citation:12 ncitation:8 pid1325454
+title1:Hyperbolic Numerics for Variational Approaches to Correspondence Problems. title2:Hyperbolic numerics for variational approaches to correspondence problems citation:5 ncitation:5 pid1325315
+title1:Scale Invariant Feature Transform with Irregular Orientation Histogram Binning. title2:Scale invariant feature transform with irregular orientation histogram binning citation:20 ncitation:12 pid1325314
+title1:Mixed feelings: expression of non-basic emotions in a muscle-based talking head. title2:Mixed feelings: expression of non-basic emotions in a muscle-based talking head citation:74 ncitation:65 pid1242562
+title1:Approximating dynamic global illumination in image space. title2:Approximating dynamic global illumination in image space citation:102 ncitation:88 pid1304925
+title1:Visual Computing - Convergence of Computer Graphics and Computer Vision citation:0 ncitation:-1 pid1304783
+title1:Photo zoom: high resolution from unordered image collections. title2:Photo zoom: high resolution from unordered image collections citation:9 ncitation:7 pid1255707
+title1:Real-time Indirect Illumination with Clustered Visibility. title2:Real-time Indirect Illumination with Clustered Visibility. citation:20 ncitation:13 pid2329553
+title1:A Shaped Temporal Filter Camera. title2:A shaped temporal filter camera citation:2 ncitation:3 pid2335300
+title1:Visual maladaptation in contrast domain. title2:Visual maladaptation in contrast domain citation:1 ncitation:1 pid2337936
+title1:A perceptual evaluation of 3D unsharp masking. title2:A perceptual evaluation of 3D unsharp masking. citation:3 ncitation:-1 pid1602399
+title1:Real-time temporal shaping of high-speed video streams. title2:Real-time temporal shaping of high-speed video streams citation:4 ncitation:2 pid1687308
+title1:Optimization and Filtering for Human Motion Capture. title2:Optimization and filtering for human motion capture citation:120 ncitation:90 pid2139292
+title1:Visually significant edges. title2:Visually significant edges citation:1 ncitation:0 pid2198386
+title1:A connection between partial symmetry and inverse procedural modeling. title2:A connection between partial symmetry and inverse procedural modeling citation:66 ncitation:42 pid2221945
+title1:Interactive on-surface signal deformation. title2:Interactive on-surface signal deformation citation:8 ncitation:3 pid2265422
+title1:Real-time lens blur effects and focus control. title2:Real-time lens blur effects and focus control citation:31 ncitation:24 pid1435314
+title1:Acquisition and analysis of bispectral bidirectional reflectance and reradiation distribution functions. title2:Acquisition and analysis of bispectral bidirectional reflectance and reradiation distribution functions citation:15 ncitation:9 pid1525788
+title1:Contrast prescription for multiscale image editing. title2:Contrast prescription for multiscale image editing citation:4 ncitation:3 pid1562322
+title1:Testing tone mapping operators with human-perceived reality. title2:Testing tone mapping operators with human-perceived reality citation:11 ncitation:8 pid1560362
+title1:Multilinear pose and body shape estimation of dressed subjects from image sets. title2:Multilinear pose and body shape estimation of dressed subjects from image sets citation:30 ncitation:19 pid1400503
+title1:Exploiting global connectivity constraints for reconstruction of 3D line segments from images. title2:Exploiting global connectivity constraints for reconstruction of 3D line segments from images citation:4 ncitation:2 pid1406137
+title1:Variance Soft Shadow Mapping. title2:Variance soft shadow mapping citation:9 ncitation:9 pid1413980
+title1:Perceptually-motivated Real-time Temporal Upsampling of 3D Content for High-refresh-rate Displays. citation:15 ncitation:12 pid1411543
+title1:A probabilistic framework for partial intrinsic symmetries in geometric data. title2:A probabilistic framework for partial intrinsic symmetries in geometric data citation:17 ncitation:14 pid1414902
+title1:MovieReshape: tracking and reshaping of humans in videos. title2:Moviereshape: Tracking and reshaping of humans in videos citation:23 ncitation:14 pid2468086
+title1:Video quality assessment for computer graphics applications. title2:Video quality assessment for computer graphics applications citation:16 ncitation:8 pid2468450
+title1:Convolution Shadow Maps. title2:Convolution shadow maps citation:61 ncitation:51 pid2464814
+title1:Using Active Illumination for Accurate Variational Space-Time Stereo. title2:Using active illumination for accurate variational space-time stereo citation:2 ncitation:2 pid2465636
+title1:Feature Preserving Sketching of Volume Data. title2:Feature preserving sketching of volume data citation:1 ncitation:0 pid2463562
+title1:Adaptive Image-space Stereo View Synthesis. title2:Adaptive image-space stereo view synthesis citation:17 ncitation:12 pid2460835
+title1:Meshless Modeling of Deformable Shapes and their Motion. title2:Meshless modeling of deformable shapes and their motion citation:28 ncitation:25 pid2460290
+title1:Robust Filtering of Noisy Scattered Point Data. title2:Robust filtering of noisy scattered point data citation:65 ncitation:55 pid2459239
+title1:Interactive Ray Tracing of Point-based Models. title2:Interactive ray tracing of point-based models citation:82 ncitation:71 pid2458694
+title1:On visual complexity of 3D shapes. title2:On visual complexity of 3D shapes citation:3 ncitation:-1 pid2457027
+title1:Dynamic Display of BRDFs. title2:Dynamic display of BRDFs citation:9 ncitation:5 pid2446189
+title1:Scalable Remote Rendering with Depth and Motion-flow Augmented Streaming. citation:9 ncitation:7 pid2432976
+title1:Shape Analysis with Subspace Symmetries. title2:Shape analysis with subspace symmetries citation:11 ncitation:4 pid2422105
+title1:Computer-Suggested Facial Makeup. citation:7 ncitation:3 pid2383062
+title1:Video-based characters: creating new human performances from a multi-view video database. title2:Video-based characters: creating new human performances from a multi-view video database citation:25 ncitation:15 pid2367766
+title1:Physically-based real-time lens flare rendering. title2:Physically-based real-time lens flare rendering citation:5 ncitation:2 pid2350849
+title1:Making Imperfect Shadow Maps View-Adaptive: High-Quality Global Illumination in Large Dynamic Scenes. citation:13 ncitation:8 pid2795169
+title1:Partial Symmetry Detection in Volume Data. title2:Partial symmetry detection in volume data citation:2 ncitation:0 pid2814013
+title1:Bent Normals and Cones in Screen-space. title2:Bent Normals and Cones in Screen-space. citation:2 ncitation:2 pid2818373
+title1:Cloth Simulation Based Motion Capture of Dressed Humans. title2:Cloth Simulation Based Motion Capture of Dressed Humans citation:0 ncitation:0 pid2818377
+title1:Bundle Adjustment for Stereoscopic 3D. title2:Bundle adjustment for stereoscopic 3D citation:3 ncitation:1 pid2818379
+title1:Using Spatially Distributed Patterns for Multiple View Camera Calibration. title2:Using spatially distributed patterns for multiple view camera calibration citation:3 ncitation:2 pid2818411
+title1:Three-dimensional kaleidoscopic imaging. title2:Three-Dimensional Kaleidoscopic Imaging citation:0 ncitation:1 pid2818413
+title1:Photo zoom: high resolution from unordered image collections. title2:Photo zoom: high resolution from unordered image collections citation:9 ncitation:7 pid2851293
+title1:Pattern-aware shape deformation using sliding dockers. title2:Pattern-aware shape deformation using sliding dockers citation:14 ncitation:9 pid2860919
+title1:A dynamic BRDF display. title2:A dynamic BRDF display citation:1 ncitation:-1 pid2869338
+title1:A data-driven approach for real-time full body pose reconstruction from a depth camera. title2:A data-driven approach for real-time full body pose reconstruction from a depth camera citation:40 ncitation:12 pid2870740
+title1:Animation cartography - intrinsic reconstruction of shape and motion. citation:14 ncitation:5 pid2870757
+title1:An algebraic model for parameterized shape editing. title2:An algebraic model for parameterized shape editing citation:10 ncitation:3 pid2871644
+title1:Combinatorial Gradient Fields for 2D Images with Empirically Convergent Separatrices title2:Combinatorial Gradient Fields for 2D Images with Empirically Convergent Separatrices citation:0 ncitation:0 pid2871741
+title1:Automatically Rigging Multi-component Characters. citation:3 ncitation:1 pid2894092
+title1:Coherent Spatiotemporal Filtering, Upsampling and Rendering of RGBZ Videos. title2:Coherent spatiotemporal filtering, upsampling and rendering of RGBZ videos citation:11 ncitation:4 pid2898847
+title1:Exploring Shape Variations by 3D-Model Decomposition and Part-based Recombination. citation:11 ncitation:4 pid2899097
+title1:Pre-convolved Radiance Caching. citation:3 ncitation:0 pid2899208
+title1:3D Material Style Transfer. title2:3D material style transfer citation:3 ncitation:0 pid2916560
+title1:Microtiles: Extracting Building Blocks from Correspondences. title2:Microtiles: Extracting building blocks from correspondences citation:3 ncitation:2 pid2916599
+title1:Correspondences of Persistent Feature Points on Near-Isometric Surfaces. title2:Correspondences of persistent feature points on near-isometric surfaces citation:1 ncitation:1 pid2978368
+title1:Virtual passepartouts. title2:Virtual passepartouts citation:1 ncitation:0 pid3028049
+title1:Lightweight binocular facial performance capture under uncontrolled lighting. title2:Lightweight binocular facial performance capture under uncontrolled lighting. citation:3 ncitation:0 pid3028943
+title1:A luminance-contrast-aware disparity model and applications. title2:A luminance-contrast-aware disparity model and applications citation:6 ncitation:0 pid3029019
+title1:Material memex: automatic material suggestions for 3D objects. title2:Material memex: automatic material suggestions for 3D objects citation:1 ncitation:0 pid3029043
+title1:New measurements reveal weaknesses of image quality metrics in evaluating graphics artifacts. title2:New measurements reveal weaknesses of image quality metrics in evaluating graphics artifacts citation:5 ncitation:0 pid3030418
+title1:Interactive cloud rendering using temporally coherent photon mapping. title2:Interactive cloud rendering using temporally-coherent photon mapping citation:3 ncitation:2 pid3056997
+title1:Homunculus Warping: Conveying importance using self-intersection-free non-homogeneous mesh deformation. citation:0 ncitation:0 pid3062722
+title1:On cross-validation and resampling of BRDF data measurements. title2:On cross-validation and resampling of BRDF data measurements citation:9 ncitation:6 pid3062778
+title1:Geometry prediction for high degree polygons. title2:Geometry prediction for high degree polygons citation:12 ncitation:12 pid3062779
+title1:Perceptual effects in real-time tone mapping. title2:Perceptual effects in real-time tone mapping citation:61 ncitation:50 pid3062780
+title1:Robust and numerically stable Bézier clipping method for ray tracing NURBS surfaces. citation:36 ncitation:34 pid3062799
+title1:Asymptotic analysis of discrete normals and curvatures of polylines. title2:Asymptotic analysis of discrete normals and curvatures of polylines citation:10 ncitation:10 pid3062809
+title1:Fast Incident Light Field Acquisition and Rendering. title2:Fast incident light field acquisition and rendering citation:8 ncitation:None pid3062816

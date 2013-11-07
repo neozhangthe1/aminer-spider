@@ -1,0 +1,37 @@
+title1:A Linear-Time Algorithm for Computing the Voronoi Diagram of a Convex Polygon. title2:A linear-time algorithm for computing the Voronoi diagram of a convex polygon citation:332 ncitation:300 pid110508
+title1:Data Structures for Mobile Data. title2:Data structures for mobile data citation:402 ncitation:390 pid842898
+title1:Topologically Sweeping an Arrangement. title2:Topologically sweeping an arrangement citation:356 ncitation:349 pid843435
+title1:Data Structures for Mobile Data. title2:Data structures for mobile data citation:402 ncitation:390 pid843434
+title1:Fractional Cascading: I. A Data Structuring Technique. title2:Fractional cascading: I. A data structuring technique citation:389 ncitation:375 pid111106
+title1:Randomized Incremental Construction of Delaunay and Voronoi Diagrams. title2:Randomized incremental construction of Delaunay and Voronoi diagrams citation:423 ncitation:408 pid111104
+title1:Data structures for mobile data. title2:Data structures for mobile data citation:402 ncitation:-1 pid111105
+title1:Geometric spanner for routing in mobile networks. title2:Geometric spanners for routing in mobile networks citation:395 ncitation:341 pid415227
+title1:Locating and Bypassing Holes in Sensor Networks. title2:Locating and bypassing holes in sensor networks citation:507 ncitation:126 pid1715156
+title1:Geometric spanners for routing in mobile networks. title2:Geometric spanners for routing in mobile networks citation:395 ncitation:338 pid803563
+title1:Combinatorial Complexity Bounds for Arrangements of Curves and Surfaces title2:Combinatorial complexity bounds for arrangements of curves and spheres citation:318 ncitation:313 pid403515
+title1:Optimal Point Location in a Monotone Subdivision. title2:Optimal point location in a monotone subdivision citation:445 ncitation:433 pid1119434
+title1:The Earth Mover's Distance as a Metric for Image Retrieval. title2:The earth mover's distance as a metric for image retrieval citation:1589 ncitation:1456 pid768131
+title1:Topologically Sweeping an Arrangement title2:Topologically sweeping an arrangement citation:356 ncitation:349 pid788657
+title1:Metropolis light transport. title2:Metropolis light transport citation:368 ncitation:347 pid1223200
+title1:Optimally combining sampling techniques for Monte Carlo rendering. title2:Optimally combining sampling techniques for Monte Carlo rendering citation:279 ncitation:268 pid82044
+title1:Randomized Incremental Construction of Delaunay and Voronoi Diagrams. title2:Randomized incremental construction of Delaunay and Voronoi diagrams citation:423 ncitation:408 pid403274
+title1:Linear-Time Algorithms for Visibility and Shortest Path Problems Inside Triangulated Simple Polygons. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:498 pid110970
+title1:A Linear Time Algorithm for Computing the Voronoi Diagram of a Convex Polygon title2:A linear-time algorithm for computing the Voronoi diagram of a convex polygon citation:332 ncitation:243 pid111442
+title1:Combinatorial Complexity Bounds for Arrangement of Curves and Spheres. title2:Combinatorial complexity bounds for arrangements of curves and spheres citation:318 ncitation:313 pid609779
+title1:Robust Global Registration. title2:Robust Global Registration. citation:312 ncitation:285 pid267851
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid787390
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid750122
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid750120
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid750124
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid1120007
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid2241651
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid413042
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid843206
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid905481
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid2186279
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid235284
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid919832
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid803592
+title1:Problems. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:12 pid2342337
+title1:String Overlaps, Pattern Matching, and Nontransitive Games. title2:String overlaps, pattern matching, and nontransitive games citation:333 ncitation:312 pid111102
+title1:A Metric for Distributions with Applications to Image Databases. title2:A metric for distributions with applications to image databases citation:895 ncitation:845 pid953026

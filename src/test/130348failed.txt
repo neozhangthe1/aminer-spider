@@ -1,0 +1,422 @@
+title:Intelligent Database Systems citation:-1
+title:Object-Oriented Database Systems citation:-1
+title:Flexible Commit Protocols for Advanced Transaction Processing. citation:-1
+title:A Survey of Indexing Techniques for Object-Oriented Database Management Systems. citation:-1
+title:Query Processing. citation:-1
+title:Hierarchical Domains for Decentralized Administration of Spatially-Aware RBAC Systems. citation:-1
+title:Efficient Integration of Fine-grained Access Control in Large-scale Grid Services. citation:-1
+title:Security in SOA and Web Services. citation:-1
+title:Specifying and computing hierarchies of temporal authorizations. citation:-1
+title:Formalizzazione e Ottimizzazione di Transazioni di modifica in CLP(AD). citation:-1
+title:A Bottom-Up Interpreter for a Database Language with Updates and Transactions. citation:-1
+title:Local Closed-World Assumptions for reasoning about Semantic Web data. citation:-1
+title:Deadlock Detection in the Face of Transaction and Data Dependencies in Advanced Transaction Models. citation:-1
+title:An Approach to Integrate Multimedi Data in a Knowledge Representation System. citation:-1
+title:A semantic approach to build personalized interfaces in the cultural heritage domain. citation:-1
+title:High-Assurance Integrity Techniques for Databases. citation:-1
+title:An Object-Relational Approach to the Representation of Multi-granular Spatio-Temporal Data. citation:-1
+title:A Non-Timestamped Authorization Model for Data Management Systems. citation:-1
+title:Integrity Constraint Checking in Chimera. citation:-1
+title:A novel approach for privacy-preserving video sharing. citation:-1
+title:Queries, Constraints, Updates and Transactions Within a Logic-Based Language. citation:-1
+title:Trust-Chi: An XML Framework for Trust Negotiations. citation:-1
+title:CLP (X) as a framework for action and deduction. citation:-1
+title:Protecting XML Documents: Position Paper. citation:-1
+title:Protecting Information in the Web - Position Paper. citation:-1
+title:Ma X : An Access Control System for Digital Libraries and the Web. citation:-1
+title:PC Co-chairs' Message. citation:-1
+title:Active-U-Datalog: Integrating Active Rules in a Logical Update Language. citation:-1
+title:Approximation Techniques for Indexing Two-Dimensional Constraint Databases. citation:-1
+title:The Challenge of Assuring Data Trustworthiness. citation:-1
+title:Information Driven Evaluation of Data Hiding Algorithms. citation:-1
+title:Supporting Delegation in Secure Workflow Management Systems. citation:-1
+title:Degrees of Isolation, Concurrency Control Protocols, and Commit Protocols. citation:-1
+title:Specifying and Computing Hierarchies of Temporal Authorizations. citation:-1
+title:A Principled Approach to Object Deletion and Garbage Collection in a Multi-Level Secure Object Bases. citation:-1
+title:Administration Policies in a Multipolicy Autorization System. citation:-1
+title:Distributed Cooperative Updates of XML Documents. citation:-1
+title:A new Authorization Model for Object-Oriented Databases. citation:-1
+title:Panel Discussion: Role-Based Access Control and Next-Generation Security Models. citation:-1
+title:Modeling Database Updates with Constraint Logic Programming. citation:-1
+title:Supporting Multi-Dimensional Trustworthiness for Grid Workflows. citation:-1
+title:Design and Development of a Document Management System for Banking Applikations: an Example of Office Automation. citation:-1
+title:Data Management in RFID Applications. citation:-1
+title:Querying Multigranular Spatio-temporal Objects. citation:-1
+title:A Multi-Strategy Approach to Rating and Filtering Online Resources. citation:-1
+title:Access control management in a distributed environment supporting dynamic collaboration. citation:-1
+title:Password policy simulation and analysis. citation:-1
+title:Receipt management- transaction history based trust establishment. citation:-1
+title:Identity-based long running negotiations. citation:-1
+title:Minimal credential disclosure in trust negotiations. citation:-1
+title:Author-Chi - A System for Secure Dissemination and Update of XML Documents. citation:-1
+title:Trigger Inheritance and Overriding in Active Object Database Systems. citation:-1
+title:Modeling Multilevel Entities Using Single Level Objects. citation:-1
+title:Performance Evaluation of Two Concurrency Control Mechanisms in a Distributed Database System. citation:-1
+title:Deductive Object Databases. citation:-1
+title:Towards Optimal Indexing for Segment Databases. citation:-1
+title:MULTOS: a Document Server for Distributed Office Systems. citation:-1
+title:Self-tuning query mesh for adaptive multi-route query processing. citation:-1
+title:Secure Dissemination of XML Content Using Structure-based Routing. citation:-1
+title:CLP(AD) as a Deductive Database Language with Updates. citation:-1
+title:An Access Control System for Digital Libraries and the Web: The MaX Prototype Demonstration. citation:-1
+title:Signature and Access Control Policies for XML Documents. citation:-1
+title:Inheritance in a Deductive Object Database Language with Updates. citation:-1
+title:Inheritance in a Deductive Object Database Language with Updates. citation:-1
+title:Modelling Database Updates with Constraint Logic Programming. citation:-1
+title:Access to Multigranular Temporal Objects. citation:-1
+title:Towards Supporting Fine-Grained Access Control for Grid Resources. citation:-1
+title:The ADKMS Knowledge Acquisition System. citation:-1
+title:Multimedia Data Handling in a Knowledge Representation System. citation:-1
+title:Grid based methods for estimating spatial join selectivity. citation:-1
+title:A reference framework for integrating multiple representations of geographical maps. citation:-1
+title:Multigranular spatio-temporal models: implementation challenges. citation:-1
+title:Security and privacy for geospatial data: concepts and research directions. citation:-1
+title:Position transformation: a location privacy protection method for moving objects. citation:-1
+title:Privacy Requirements in Identity Management Solutions. citation:-1
+title:An Update Protocol for XML Documents in Distributed and Cooperative Systems. citation:-1
+title:Supporting Robust and Secure Interactions in Open Domains through Recovery of Trust Negotiations. citation:-1
+title:XJoin Index: Indexing XML Data for Efficient Handling of Branching Path Expressions. citation:-1
+title:Assuring Security Properties in Third-party Architectures. citation:-1
+title:A Graph-Theoretic Approach to Indexing in Object-Oriented Databases. citation:-1
+title:Private Updates to Anonymous Databases. citation:-1
+title:Secure Delta-Publishing of XML Content. citation:-1
+title:Trust establishment in the formation of Virtual Organizations. citation:-1
+title:Using Anonymized Data for Classification. citation:-1
+title:Auth-SL - A System for the Specification and Enforcement of Quality-Based Authentication Policies. citation:-1
+title:CONCERTO, Conceptual Indexing, Querying and Retrieval of Digital Documents. citation:-1
+title:A Constraint-Based Approach for the Authoring of Multi-Topic Multimedia Presentations. citation:-1
+title:The Update Problem in the Distributed Database System Hermes/1. citation:-1
+title:P-Hera: Scalable fine-grained access control for P2P infrastructures. citation:-1
+title:Authorization and User Failure Resiliency for WS-BPEL Business Processes. citation:-1
+title:A Flexible Authentication Method for UDDI Registries. citation:-1
+title:A Policy-Based Authorization Framework for Web Services: Integrating XGTRBAC and WS-Policy. citation:-1
+title:Rules Termination Analysis investigating the interaction between transactions and triggers. citation:-1
+title:A Knowledge Based Information System. citation:-1
+title:P-CDN: Extending access control capabilities of P2P systems to provide CDN services. citation:-1
+title:Repository Management in an Intelligent Indexing Approach for Multimedia Digital Libraries. citation:-1
+title:Matching an XML Document against a Set of DTDs. citation:-1
+title:PDL with Maximum Consistency Monitors. citation:-1
+title:CONCERTO, An Environment for the 'Intelligent' Indexing, Querying and Retrieval of Digital Documents. citation:-1
+title:A Secure Publishing Service for Digital Libraries of XML Documents. citation:-1
+title:An XML-Based Approach to Document Flow Verification. citation:-1
+title:Securing DBMS: Characterizing and Detecting Query Floods. citation:-1
+title:Access Control and Privacy in Location-Aware Services forMobile Organizations. citation:-1
+title:UCS-Router: A Policy Engine for Enforcing Message Routing Rules in a Universal Communication System. citation:-1
+title:Dissemination of Cultural Heritage Content through Virtual Reality and Multimedia Techniques: A Case Study. citation:-1
+title:Database Monitoring in U-Datalog. citation:-1
+title:The COMANDOS Integration System: An Object Oriented Approach to the Interconnection of Heterogeneous Applications. citation:-1
+title:Enforcing Mandatory Access Control in Object Bases. citation:-1
+title:Research Issues in Discretionary Authorizations for Object Bases. citation:-1
+title:Proactive Role Discovery in Mediator-Free Environments. citation:-1
+title:Towards a Language for Pattern Manipulation and Querying. citation:-1
+title:Privacy-Preserving Trust Negotiations. citation:-1
+title:Traceable and Automatic Compliance of Privacy Policies in Federated Digital Identity Management. citation:-1
+title:A Framework for Data Mining Pattern Management. citation:-1
+title:Applying Data Mining Techniques to Wafer Manufacturing. citation:-1
+title:Static Analysis of Intensional Databases in U-Datalog. citation:-1
+title:A Framework for Contractual Resource Sharing in Coalitions. citation:-1
+title:Automatic Compliance of Privacy Policies in Federated Digital Identity Management. citation:-1
+title:Policy Languages for Digital Identity Management in Federation Systems. citation:-1
+title:XACML Function Annotations. citation:-1
+title:An Analytical Model of Object-Oriented Query Costs. citation:-1
+title:Digital identity management and protection. citation:-1
+title:Database Intrusion Detection and Response. citation:-1
+title:TRBAC: a temporal role-based access control model. citation:-1
+title:Query Decomposition in an Object-Oriented Database System Distributed on a Local Area Network. citation:-1
+title:Transaction Optimization in Rule Databases. citation:-1
+title:An Advanced Information Management System. citation:-1
+title:An Access Control Mechanism for Large Scale Data Dissemination Systems. citation:-1
+title:Optimization of Object-Oriented Queries Using Path Indices. citation:-1
+title:An Approach to Support Method Invocations in Object-Oriented Queries. citation:-1
+title:Decentralized authorization and data security in web content delivery. citation:-1
+title:GEO-RBAC: a spatially aware RBAC. citation:-1
+title:Making access control more usable. citation:-1
+title:An infrastructure for managing secure update operations on XML data. citation:-1
+title:Panel: The next generation of acess control models (panel session): do we need them and what should they be? citation:-1
+title:Systematic control and management of data integrity. citation:-1
+title:Access control, confidentiality and privacy for video surveillance databases. citation:-1
+title:Privacy-aware role based access control. citation:-1
+title:A privacy preserving assertion based policy language for federation systems. citation:-1
+title:Policy decomposition for collaborative access control. citation:-1
+title:Responding to Anomalous Database Requests. citation:-1
+title:PAtterns for Next-generation DAtabase systems: preliminary results of the PANDA project. citation:-1
+title:Memorizzazione di regole per l'instradamento di messaggi in un sistema di comunicazione universale. citation:-1
+title:Exploiting User-Profiles for the Selective Dissemination of XML Documents. citation:-1
+title:Grid Based Methods for the Spatial Join Estimation. citation:-1
+title:Privacy-Preserving Techniques for Location-Based Services. citation:-1
+title:A decentralized temporal autoritzation model. citation:-1
+title:Towards a contextualized access to the cultural heritage world using 360 Panoramic Images. citation:-1
+title:VeryIDX - A Digital Identity Management System for Pervasive Computing Environments. citation:-1
+title:Securing XML Documents: the Author-X Project Demonstration. citation:-1
+title:Semantic Assumptions and Query Evaluation in Temporal Databases. citation:-1
+title:A Unified Framework for Enforcing Multiple Access Control Policies. citation:-1
+title:A Formal Representation for State Diagrams in the OMT Methodology. citation:-1
+title:Performance Evaluation of Two-Phase Locking Algorithms in a System for Distributed Databases. citation:-1
+title:Modeling and Language Support for the Management of Pattern-Bases. citation:-1
+title:A Linguistic Framework for Querying Dimensional Data. citation:-1
+title:An Approach to Model and Query Event-Based Temporal Data. citation:-1
+title:Navigating Through Multiple Temporal Granularity Objects. citation:-1
+title:Evolution Specification of Multigranular Temporal Objects. citation:-1
+title:A Temporal Object-Oriented Data Model with Multiple Granularities. citation:-1
+title:Querying Multiple Temporal Granularity Data. citation:-1
+title:On Using Materialization Strategies for a Temporal Authorization Model. citation:-1
+title:Supporting Periodic Authorizations and Temporal Reasoning in Database Access Control. citation:-1
+title:View Management in Distributed Data Base Systems. citation:-1
+title:Development of a Multimedia Information System for an Office Environment. citation:-1
+title:A Conceptual Annotation Approach to Indexing in a Web-Based Information System. citation:-1
+title:Verification of Receipts from M-commerce Transactions on NFC Cellular Phones. citation:-1
+title:Directions for Web and E-Commerce Applications Security. citation:-1
+title:Information carrying identity proof trees. citation:-1
+title:A structure preserving approach for securing XML documents. citation:-1
+title:Challenges of Testing Web Services and Security in SOA Implementations. citation:-1
+title:An abstraction-based approach to measuring the structural similarity between two unordered XML documents. citation:-1
+title:Triggers in Java-based Databases. citation:-1
+title:Trustworthy objects. citation:-1
+title:Correctness of Semantic Integrity Checking in Database Management Systems. citation:-1
+title:Protecting information on the Web. citation:-1
+title:Replacing Lost or Stolen E-Passports. citation:-1
+title:A set-oriented method definition language for object databases and its semantics. citation:-1
+title:Enhancing the expressive power of the U-Datalog language citation:-1
+title:Introducing Dynamic Behavior in Amalgamated Knowledge Bases citation:-1
+title:R*: A Research Project on Distributed Relational DBMS. citation:-1
+title:Query optimization by using knowledge about data semantics. citation:-1
+title:Clustering Techniques in Object Bases: A Survey. citation:-1
+title:Using spatial data access structures for filtering nearest neighbor queries. citation:-1
+title:Hierarchical data placement for navigational multimedia applications. citation:-1
+title:Modeling and language support for the management of pattern-bases. citation:-1
+title:Flexible Transaction Dependencies in Database Systems. citation:-1
+title:Review - Supporting Valid-Time Indeterminacy. citation:-1
+title:Review - Data Mining: An Overview from a Database Perspective. citation:-1
+title:Review - Role Hierarchies and Constraints for Lattice-Based Access Controls. citation:-1
+title:Review - Safeguarding Digital Library Contents and Users: Protecting Documents Rather Than Channels. citation:-1
+title:Review - An Authorization Mechanism for a Relational Data Base System. citation:-1
+title:IEEE Internet Computing: Guest Editors' Introduction - Database Technology on the Web. citation:-1
+title:Metadata, Intelligent Indexing, and Repository Management for Multimedia Digital Libraries. citation:-1
+title:Content-based filtering of Web documents: the MaX system and the EUFORBIA project. citation:-1
+title:A dynamic key management solution to access hierarchy. citation:-1
+title:Hsgs: An Interactive System For High-Level Specification And Generation Of Hypermedia Presentations. citation:-1
+title:A theoretical formulation for degrees of isolation in databases. citation:-1
+title:Guest Editors' Introduction: Database Technology on the Web. citation:-1
+title:Policies and IT Technologies: A Puzzle of Two Pieces. citation:-1
+title:Access-Control Language for Multidomain Environments. citation:-1
+title:Context-Aware Adaptation of Access-Control Policies. citation:-1
+title:Policy Mapper: Administering Location-Based Access-Control Policies. citation:-1
+title:Towards Optimal Two-Dimensional Indexing for Constraint Databases. citation:-1
+title:Finitely Representable Nested Relations. citation:-1
+title:On the Number of Descendants in an Object DAG. citation:-1
+title:Definition and Analysis of Index Organizations for Object-Oriented Database Systems. citation:-1
+title:Decentralized Administration for a Temporal Access Control Model. citation:-1
+title:T-ODMG: an ODMG compliant temporal object model supporting multiple granularity management. citation:-1
+title:Refined rules termination analysis through transactions. citation:-1
+title:Achieving Stricter Correctness Requirements in Multilevel Secure Database Management Systems. citation:-1
+title:Temporal Authorization Bases: From Specification to Integration. citation:-1
+title:Secure Object Deletion and Garbage Collection in Multilevel Object Bases. citation:-1
+title:An approach to cooperative updates of XML documents in distributed systems. citation:-1
+title:Ordering and Path Constraints over Semistructured Data. citation:-1
+title:A Logical Approach to Cooperative Information Systems. citation:-1
+title:Spatial Domains for the Administration of Location-based Access Control Policies. citation:-1
+title:Merkle Tree Authentication in UDDI Registries. citation:-1
+title:An Adaptive Access Control Model for Web Services. citation:-1
+title:Handling Expiration of Multigranular Temporal Objects. citation:-1
+title:A Constraint-Based Approach to Shape Management in Multimedia Databases. citation:-1
+title:The Effects of Two-Phase Locking on the Performance of a Distributed Database Management System. citation:-1
+title:An apples-to-apples comparison of two database journals. citation:-1
+title:Quality of Service in Multimedia Digital Libraries. citation:-1
+title:A Database Approach to Quality of Service Specification in Video Databases. citation:-1
+title:CiVeDi: A Customized Virtual Environment for Database Interaction. citation:-1
+title:The Indiana Center for Database Systems at Purdue University. citation:-1
+title:An index allocation tool for object-oriented database systems. citation:-1
+title:Mandatory Security and Object-Oriented Systems: A Multilevel Entity Model and its Mapping onto a Single-Level Object Model. citation:-1
+title:Towards Deductice Object Databases. citation:-1
+title:Object-Oriented Databases and Applications - Selected Papers from ICDE'98. citation:-1
+title:A Formal View of Object-Oriented Database Systems. citation:-1
+title:An Analysis Study on Zone-Based Anonymous Communication in Mobile Ad Hoc Networks. citation:-1
+title:An Efficient Time-Bound Hierarchical Key Management Scheme for Secure Broadcasting. citation:-1
+title:TRBAC: A temporal role-based access control model. citation:-1
+title:Controlled and cooperative updates of XML documents in byzantine and failure-prone distributed systems. citation:-1
+title:GEO-RBAC: A spatially aware RBAC. citation:-1
+title:XACML Policy Integration Algorithms. citation:-1
+title:Formal foundations for hybrid hierarchies in GTRBAC. citation:-1
+title:Alternative Correctness Criteria for Concurrent Execution of Transactions in Multilevel Secure Databases. citation:-1
+title:Transaction Processing in Multilevel Secure Databases with Kernelized Architectures: Challenges and Solutions. citation:-1
+title:Navigational Accesses in a Temporal Object Model. citation:-1
+title:Correction to 'MPGS: An Interactive Tool for the Specification and Generation of Multimedia Presentations'. citation:-1
+title:Trigger Inheritance and Overriding in an Active Object Database System. citation:-1
+title:Extending the ODMG Object Model with Triggers. citation:-1
+title:Guest Editorial: Introduction to the Special Section. citation:-1
+title:The Indispensability of Dispensable Indexes. citation:-1
+title:Guest Editorial: Introduction to the Special Section. citation:-1
+title:ASEP: A Secure and Flexible Commit Protocol for MLS Distributed Database Systems. citation:-1
+title:Information Flow Control in Object-Oriented Systems. citation:-1
+title:Anonymous Geo-Forwarding in MANETs through Location Cloaking. citation:-1
+title:Efficient and Secure Content Processing and Distribution by Cooperative Intermediaries. citation:-1
+title:Enhancing the expressive power of the U-Datalog language. citation:-1
+title:Introducing Dynamic Behavior in Amalgamated Knowledge Bases. citation:-1
+title:X-FEDERATE: A Policy Engineering Framework for Federated Access Management. citation:-1
+title:A New Model for Secure Dissemination of XML Content. citation:-1
+title:An authorization system for digital libraries. citation:-1
+title:Ws-AC: A Fine Grained Access Control System for Web Services. citation:-1
+title:Workflow authorisation in mediator-free environments. citation:-1
+title:Cryptanalysis of Some RFID Authentication Protocols. citation:-1
+title:Location Privacy in Moving-Object Environments. citation:-1
+title:Object-Oriented Databases. citation:-1
+title:Automating role-based provisioning by learning from examples. citation:-1
+title:: a stream-centric approach towards security and privacy in data stream environments. citation:-1
+title:A Hybrid Technique for Private Location-Based Queries with Database Protection. citation:-1
+title:Privacy-preserving Digital Identity Management for Cloud Computing. citation:-1
+title:Location-Aware Authentication and Access Control. citation:-1
+title:Physically restricted authentication with trusted hardware. citation:-1
+title:Assessing the trustworthiness of location data based on provenance. citation:-1
+title:The Design and Evaluation of Accountable Grid Computing System. citation:-1
+title:A Comprehensive Approach for Solving Policy Heterogeneity. citation:-1
+title:The SCIFC Model for Information Flow Control in Web Service Composition. citation:-1
+title:Identity Attribute-Based Role Provisioning for Human WS-BPEL Processes. citation:-1
+title:Query Processing Techniques for Compliance with Data Confidence Policies. citation:-1
+title:Assured information sharing: concepts and issues. citation:-1
+title:Privacy-Preserving Accountable Accuracy Management Systems (PAAMS). citation:-1
+title:An Interoperable Approach to Multifactor Identity Verification. citation:-1
+title:Privacy-Aware Role-Based Access Control. citation:-1
+title:A comprehensive simulation tool for the analysis of password policies. citation:-1
+title:Specification and enforcement of flexible security policy for active cooperation. citation:-1
+title:Privacy-preserving incremental data dissemination. citation:-1
+title:A distributed approach to enabling privacy-preserving model-based classifier training. citation:-1
+title:Tagging Stream Data for Rich Real-Time Services. citation:-1
+title:Query Mesh: Multi-Route Query Processing Technology. citation:-1
+title:Privacy-preserving techniques for location-based services. citation:-1
+title:Guest Editorial: Special Section on Service-Oriented Distributed Computing Systems. citation:-1
+title:VeryIDX - A Privacy Preserving Digital Identity Management System for Mobile Devices. citation:-1
+title:Interactive Location Cloaking with the PROBE Obfuscator. citation:-1
+title:Visualization for Access Control Policy Analysis Results Using Multi-level Grids. citation:-1
+title:A Policy-Based Accountability Tool for Grid Computing Systems. citation:-1
+title:Efficient integration of fine-grained access control and resource brokering in grid. citation:-1
+title:Progress in WWW Research and Development, 10th Asia-Pacific Web Conference, APWeb 2008, Shenyang, China, April 26-28, 2008. Proceedings citation:-1
+title:Controlling data disclosure in computational PIR protocols. citation:-1
+title:Proceedings of the 33rd Annual IEEE International Computer Software and Applications Conference, COMPSAC 2009, Seattle, Washington, USA, 20-24 July 2009 citation:-1
+title:Publishing Time-Series Data under Preservation of Privacy and Distance Orders. citation:-1
+title:A Privacy-Enhancing Content-Based Publish/Subscribe System Using Scalar Product Preserving Transformations. citation:-1
+title:Proceedings of the 4th Workshop on Digital Identity Management, Alexandria, VA, USA, October 31, 2008 citation:-1
+title:Proceedings of the 5th Workshop on Digital Identity Management, Chicago, Illinois, USA, November 13, 2009l citation:-1
+title:ECOOP 2000 - Object-Oriented Programming, 14th European Conference, Sophia Antipolis and Cannes, France, June 12-16, 2000, Proceedings citation:-1
+title:Advances in Database Technology - EDBT 2002, 8th International Conference on Extending Database Technology, Prague, Czech Republic, March 25-27, Proceedings citation:-1
+title:Advances in Database Technology - EDBT 2004, 9th International Conference on Extending Database Technology, Heraklion, Crete, Greece, March 14-18, 2004, Proceedings citation:-1
+title:How to authenticate graphs without leaking. citation:-1
+title:Proceedings of the SIGSPATIAL ACM GIS 2008 International Workshop on Security and Privacy in GIS and LBS, SPRINGL 2008, November 4, 2008, Irvine, California, USA, Proceedings citation:-1
+title:FENCE: Continuous access control enforcement in dynamic data stream environments. citation:-1
+title:Policy-Driven Service Composition with Information Flow Control. citation:-1
+title:Object-Oriented Methodologies and Systems, International Symposium ISOOMS '94, Palermo, Italy, September 21-22, 1994, Proceedings citation:-1
+title:A secure multiparty computation privacy preserving OLAP framework over distributed XML data. citation:-1
+title:Enforcing spatial constraints for mobile RBAC systems. citation:-1
+title:Assuring Data Trustworthiness - Concepts and Research Challenges. citation:-1
+title:Mask: a system for privacy-preserving policy-based access to published content. citation:-1
+title:Advances in Spatial and Temporal Databases, 9th International Symposium, SSTD 2005, Angra dos Reis, Brazil, August 22-24, 2005, Proceedings citation:-1
+title:3rd International Conference on Web Information Systems Engineering (WISE 2002), 12-14 December 2002, Singapore, Proceedings citation:-1
+title:Aggregating uncertain access risk estimations from different sources invited paper. citation:-1
+title:Collaborative Computing: Networking, Applications and Worksharing, 4th International Conference, CollaborateCom 2008, Orlando, FL, USA, November 13-16, 2008, Revised Selected Papers citation:-1
+title:L'Elimination de la subjectivité dans la recommandation de confiance. citation:-1
+title:Multi-granular Spatio-temporal Object Models: Concepts and Research Directions. citation:-1
+title:Guest Editors' Introduction: Data Quality in the Internet Era. citation:-1
+title:Journal on Data Semantics II citation:-1
+title:Privacy-aware role-based access control. citation:-1
+title:An Overview of VeryIDX - A Privacy-Preserving Digital Identity Management System for Mobile Devices. citation:-1
+title:Analyzing semantic locations cloaking techniques in a probabilistic grid-based map. citation:-1
+title:Privacy-preserving matching of spatial datasets with protection against background knowledge. citation:-1
+title:A Characterization of the problem of secure provenance management. citation:-1
+title:Provenance-based trustworthiness assessment in sensor networks. citation:-1
+title:Trust Management III, Third IFIP WG 11.11 International Conference, IFIPTM 2009 , West Lafayette, IN, USA, June 15-19, 2009. Proceedings citation:-1
+title:TIUPAM: A Framework for Trustworthiness-Centric Information Sharing. citation:-1
+title:Elimination of Subjectivity from Trust Recommendation. citation:-1
+title:A conditional purpose-based access control model with dynamic roles. citation:-1
+title:EXAM: a comprehensive environment for the analysis of access control policies. citation:-1
+title:Group-Based Negotiations in P2P Systems. citation:-1
+title:Panel Description: Joint COMPSAC/SAINT Panel: Future of the Internet. citation:-1
+title:Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Security and Privacy in GIS and LBS, SPRINGL 2010, November 2, 2010, San Jose, California, USA, Proceedings citation:-1
+title:Security for Web Services: Standards and Research Issues. citation:-1
+title:Mining Roles with Multiple Objectives. citation:-1
+title:Trust establishment in the formation of Virtual Organizations. citation:-1
+title:Sistemi di basi di dati orientate agli oggetti - concetti e architetture. citation:-1
+title:Systematic clustering method for -diversity model. citation:-1
+title:Privacy-preserving similarity measurement for access control policies. citation:-1
+title:Privacy preserving identity attribute verification in windows cardspace. citation:-1
+title:xfACL: an extensible functional language for access control. citation:-1
+title:Proceedings of the 20th International Conference on World Wide Web, WWW 2011, Hyderabad, India, March 28 - April 1, 2011 citation:-1
+title:Proceedings of the 20th International Conference on World Wide Web, WWW 2011, Hyderabad, India, March 28 - April 1, 2011 (Companion Volume) citation:-1
+title:Effective and efficient implementation of an information flow control protocol for service composition. citation:-1
+title:First ACM Conference on Data and Application Security and Privacy, CODASPY 2011, San Antonio, TX, USA, February 21-23, 2011, Proceedings citation:-1
+title:Efficient systematic clustering method for -anonymization. citation:-1
+title:Fine-grained integration of access control policies. citation:-1
+title:Policy framework for security and privacy management. citation:-1
+title:Analysis of privacy and security policies. citation:-1
+title:Privacy-Preserving Updates to Anonymous and Confidential Databases. citation:-1
+title:Design and Implementation of an Intrusion Response System for Relational Databases. citation:-1
+title:Access Control for Databases: Concepts and Systems. citation:-1
+title:DECHO - a framework for the digital exploration of cultural heritage objects. citation:-1
+title:A Conditional Role-Involved Purpose-Based Access Control Model. citation:-1
+title:Semantics-aware Obfuscation for Location Privacy. citation:-1
+title:On the Complexity of Authorization in RBAC under Qualification and Security Constraints. citation:-1
+title:Fine-Grained Cloaking of Sensitive Positions in Location-Sharing Applications. citation:-1
+title:JTAM - A Joint Threshold Administration Model. citation:-1
+title:A Provenance Based Mechanism to Identify Malicious Packet Dropping Adversaries in Sensor Networks. citation:-1
+title:Digital identity enrolment and assurance support for VeryIDX. citation:-1
+title:Detection and Protection against Distributed Denial of Service Attacks in Accountable Grid Computing Systems. citation:-1
+title:A policy-based approach for assuring data integrity in DBMSs. citation:-1
+title:Improving Scalability of Software Cloud for Composite Web Services. citation:-1
+title:A Service-oriented Approach to Security - Concepts and Issues. citation:-1
+title:A New Class of Buffer Overflow Attacks. citation:-1
+title:Aggregated Privacy-Preserving Identity Verification for Composite Web Services. citation:-1
+title:Proceedings of the 2nd SIGSPATIAL ACM GIS 2009 International Workshop on Security and Privacy in GIS and LBS, SPRINGL 2009, November 3, 2009, Seattle, WA, USA citation:-1
+title:Can an inter-disciplinary research community on location privacy be successful? citation:-1
+title:Towards location-based access control in healthcare emergency response. citation:-1
+title:Prox-RBAC: a proximity-based spatially aware RBAC. citation:-1
+title:Proceedings of the 4th ACM SIGSPATIAL International Workshop on Security and Privacy in GIS and LBS, SPRINGL 2011, November 1st, 2011, Chicago, IL, USA citation:-1
+title:Privacy-preserving assessment of location data trustworthiness. citation:-1
+title:Protecting location privacy against spatial inferences: the PROBE approach. citation:-1
+title:Towards mechanisms for detection and prevention of data exfiltration by insiders: keynote talk paper. citation:-1
+title:Poster: towards attribute based group key management. citation:-1
+title:Efficient Leakage-free Authentication of Trees, Graphs and Forests. citation:-1
+title:Towards privacy preserving access control in the cloud. citation:-1
+title:ACM/Springer Mobile Networks and Applications (MONET) Special Issue on "Collaborative Computing: Networking, Applications and Worksharing". citation:-1
+title:A lava flow simulation model for the development of volcanic hazard maps for Mount Etna (Italy). citation:-1
+title:Special issue: best papers of VLDB 2010. citation:-1
+title:k-Shares: A Privacy Preserving Reputation Protocol for Decentralized Environments. citation:-1
+title:Second ACM Conference on Data and Application Security and Privacy, CODASPY 2012, San Antonio, TX, USA, February 7-9, 2012 citation:-1
+title:On practical specification and enforcement of obligations. citation:-1
+title:Leakage-free redactable signatures. citation:-1
+title:Extended RBAC with Role Attributes. citation:-1
+title:A Hybrid Approach to Private Record Matching. citation:-1
+title:Privacy-Preserving Enforcement of Spatially Aware RBAC. citation:-1
+title:On Hashing Graphs. citation:-1
+title:Cryptographic Key Management for Smart Power Grids - Approaches and Issues citation:-1
+title:Privacy preserving delegated access control in the storage as a service model. citation:-1
+title:IEEE 13th International Conference on Information Reuse & Integration, IRI 2012, Las Vegas, NV, USA, August 8-10, 2012 citation:-1
+title:Panel: Using information re-use and integration principles in big data. citation:-1
+title:A Semi-automatic System for Conceptual Annotation, its Application to Resource Construction and Evaluation. citation:-1
+title:Towards a theory for privacy preserving distributed OLAP. citation:-1
+title:Efficient privacy preserving content based publish subscribe systems. citation:-1
+title:Emerging trends around big data analytics and security: panel. citation:-1
+title:A framework for verification and optimal reconfiguration of event-driven role based access control policies. citation:-1
+title:Marlin: making it harder to fish for gadgets. citation:-1
+title:Demonstrating a lightweight data provenance for sensor networks. citation:-1
+title:Detecting, Representing and Querying Collusion in Online Rating Systems citation:-1
+title:36th Annual IEEE Computer Software and Applications Conference, COMPSAC 2012, Izmir, Turkey, July 16-20, 2012 citation:-1
+title:36th Annual IEEE Computer Software and Applications Conference Workshops, COMPSAC 2012, Izmir, Turkey, July 16-20, 2012 citation:-1
+title:A discretionary access control model with temporal authorizations. citation:-1
+title:Network and System Security - 6th International Conference, NSS 2012, Wuyishan, Fujian, China, November 21-23, 2012. Proceedings citation:-1
+title:Privacy-Preserving Fine-Grained Access Control in Public Clouds. citation:-1
+title:Adaptive data management for self-protecting objects in cloud computing systems. citation:-1
+title:Efficient hierarchical key generation and key diffusion for sensor networks. citation:-1
+title:A risk management approach to RBAC. citation:-1
+title:Multi-route query processing and optimization. citation:-1
+title:Modeling the Risk & Utility of Information Sharing in Social Networks. citation:-1
+title:Authenticated Top-K Aggregation in Distributed and Outsourced Databases. citation:-1
+title:A Lightweight Secure Provenance Scheme for Wireless Sensor Networks. citation:-1
+title:Secure cryptographic key management system (CKMS) considerations for smart grid devices. citation:-1
+title:PUF ROKs: generating read-once keys from physically unclonable functions. citation:-1
+title:An efficient certificateless cryptography scheme without pairing. citation:-1
+title:FENCE: continuous access control enforcement in dynamic data stream environments. citation:-1
+title:Third ACM Conference on Data and Application Security and Privacy, CODASPY'13, San Antonio, TX, USA, February 18-20, 2013 citation:-1
+title:A file provenance system. citation:-1
+title:Adaptive data protection in distributed systems. citation:-1
+title:Secure sensor network SUM aggregation with detection of malicious nodes. citation:-1
+title:Privacy-preserving assessment of social network data trustworthiness. citation:-1
+title:Reputation management in crowdsourcing systems. citation:-1
+title:A formal proximity model for RBAC systems. citation:-1

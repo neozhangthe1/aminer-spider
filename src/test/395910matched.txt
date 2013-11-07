@@ -1,0 +1,18 @@
+title1:Monotone monadic SNP and constraint satisfaction. title2:The computational structure of monotone monadic SNP and constraint satisfaction: A study through Datalog and group theory citation:610 ncitation:95 pid202562
+title1:Memory-Efficient Algorithms for the Verification of Temporal Properties. title2:Memory-efficient algorithms for the verification of temporal properties citation:472 ncitation:569 pid625525
+title1:The Complementation Problem for Büchi Automata with Appplications to Temporal Logic. citation:411 ncitation:383 pid210307
+title1:An Automata-Theoretic Approach to Linear Temporal Logic. title2:An automata-theoretic approach to linear temporal logic citation:524 ncitation:497 pid71618
+title1:Conjunctive-Query Containment and Constraint Satisfaction. title2:Conjunctive-query containment and constraint satisfaction citation:320 ncitation:182 pid777773
+title1:The Complexity of Reasoning about Knowledge and Time. I. Lower Bounds. title2:The complexity of reasoning about knowledge and time. I. Lower bounds citation:273 ncitation:266 pid104281
+title1:Automata-Theoretic Techniques for Modal Logics of Programs. title2:Automata-theoretic techniques for modal logics of programs citation:526 ncitation:494 pid213770
+title1:On the Semantics of Updates in Databases. title2:On the semantics of updates in databases citation:423 ncitation:389 pid2380394
+title1:Why is Modal Logic So Robustly Decidable? title2:Why is modal logic so robustly decidable? citation:279 ncitation:262 pid544898
+title1:Reasoning About Infinite Computations title2:Reasoning about infinite computations citation:737 ncitation:696 pid544926
+title1:Automatic Verification of Probabilistic Concurrent Finite-State Programs title2:Automatic verification of probabilistic concurrent finite state programs citation:583 ncitation:575 pid1639985
+title1:Reasoning about The Past with Two-Way Automata. title2:Reasoning about the past with two-way automata citation:281 ncitation:272 pid299600
+title1:The Computational Structure of Monotone Monadic SNP and Constraint Satisfaction: A Study through Datalog and Group Theory. title2:The computational structure of monotone monadic SNP and constraint satisfaction: A study through Datalog and group theory citation:610 ncitation:558 pid626843
+title1:Conjunctive-Query Containment and Constraint Satisfaction. title2:Conjunctive-query containment and constraint satisfaction citation:320 ncitation:310 pid1092807
+title1:Memory Efficient Algorithms for the Verification of Temporal Properties. title2:Memory-efficient algorithms for the verification of temporal properties citation:472 ncitation:569 pid625074
+title1:An automata-theoretic approach to branching-time model checking. title2:An automata-theoretic approach to branching-time model checking citation:440 ncitation:408 pid622402
+title1:On the Foundations of the Universal Relation Model. title2:On the foundations of the universal relation model citation:282 ncitation:274 pid484906
+title1:Simple on-the-fly automatic verification of linear temporal logic. title2:Simple on-the-fly automatic verification of linear temporal logic citation:777 ncitation:761 pid2332543

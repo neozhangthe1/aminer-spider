@@ -1,0 +1,26 @@
+title1:On Packing R-trees. title2:On packing R-trees citation:531 ncitation:497 pid95492
+title1:Slim-Trees: High Performance Metric Trees Minimizing Overlap Between Nodes. title2:Slim-trees: High Performance Metric Trees Minimizing Overlap Between Nodes citation:0 ncitation:241 pid176623
+title1:Using Utility to Provision Storage Systems. title2:Using Utility to Provision Storage Systems (CMU-PDL-07-106) citation:0 ncitation:17 pid202438
+title1:Efficient Similarity Search In Sequence Databases. title2:Efficient similarity search in sequence databases citation:1744 ncitation:1679 pid212265
+title1:LOCI: Fast Outlier Detection Using the Local Correlation Integral. title2:Loci: Fast outlier detection using the local correlation integral citation:455 ncitation:389 pid300828
+title1:Efficient Retrieval of Similar Time Sequences Under Time Warping. title2:Efficient retrieval of similar time sequences under time warping citation:512 ncitation:495 pid301540
+title1:Graphs over time: densification laws, shrinking diameters and possible explanations. title2:Graphs over time: densification laws, shrinking diameters and possible explanations citation:876 ncitation:699 pid472996
+title1:Storage Device Performance Prediction with CART Models. title2:Storage Device Performance Prediction with CART Models (CMU-PDL-04-103) citation:0 ncitation:103 pid489958
+title1:Fractals for Secondary Key Retrieval. title2:Fractals for secondary key retrieval citation:389 ncitation:386 pid545017
+title1:On Power-law Relationships of the Internet Topology. title2:On power-law relationships of the internet topology citation:4693 ncitation:4501 pid588611
+title1:Storage device performance prediction with CART models. title2:Storage Device Performance Prediction with CART Models (CMU-PDL-04-103) citation:0 ncitation:103 pid597745
+title1:FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets. title2:FastMap: A fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets citation:1055 ncitation:1028 pid598613
+title1:Fast Subsequence Matching in Time-Series Databases. title2:Fast subsequence matching in time-series databases citation:1536 ncitation:1487 pid598615
+title1:Efficiently Supporting Ad Hoc Queries in Large Datasets of Time Sequences. title2:Efficiently supporting ad hoc queries in large datasets of time sequences citation:377 ncitation:369 pid599070
+title1:The QBIC Project: Querying Images by Content, Using Color, Texture, and Shape. title2:QBIC project: querying images by content, using color, texture, and shape citation:2240 ncitation:2175 pid615429
+title1:Fast Time Sequence Indexing for Arbitrary Lp Norms. title2:Fast time sequence indexing for arbitrary Lp norms citation:510 ncitation:494 pid642548
+title1:MindReader: Querying Databases Through Multiple Examples. title2:MindReader: Querying databases through multiple examples citation:602 ncitation:587 pid642862
+title1:Hilbert R-tree: An Improved R-tree using Fractals. title2:Hilbert R-tree: An improved R-tree using fractals citation:556 ncitation:537 pid642933
+title1:Active Storage for Large-Scale Data Mining and Multimedia. title2:Active Storage For Large-Scale Data Mining and Multimedia Applications citation:0 ncitation:-1 pid643592
+title1:The R+-Tree: A Dynamic Index for Multi-Dimensional Objects. title2:The r+-tree: A dynamic index for multi-dimensional objects citation:1580 ncitation:1546 pid643709
+title1:Efficient and Effective Querying by Image Content. title2:Efficient and effective querying by image content citation:1646 ncitation:1597 pid982100
+title1:Analysis of the Clustering Properties of the Hilbert Space-Filling Curve. title2:Analysis of the clustering properties of the Hilbert space-filling curve citation:478 ncitation:462 pid1113270
+title1:The TV-Tree: An Index Structure for High-Dimensional Data title2:The TV-tree: An index structure for high-dimensional data citation:626 ncitation:613 pid1138197
+title1:Graph evolution: Densification and shrinking diameters. title2:Graph evolution: Densification and shrinking diameters citation:458 ncitation:351 pid1167768
+title1:ShatterPlots: Fast Tools for Mining Large Graphs. title2:ShatterPlots: Fast Tool for Mining Large Graphs citation:0 ncitation:2 pid1213518
+title1:RainMon: an integrated approach to mining bursty timeseries monitoring data. title2:RainMon: an integrated approach to mining bursty timeseries monitoring data citation:1 ncitation:0 pid3170075

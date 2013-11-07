@@ -1,0 +1,13 @@
+title1:Kolmogorov Complexity and its Applications. title2:An introduction to Kolmogorov complexity and its applications citation:865 ncitation:31 pid421
+title1:Orchestrating Quartets: Approximation and Data Correction. title2:Orchestrating quartets: approximation and data correction citation:64 ncitation:60 pid105551
+title1:ExonHunter: a comprehensive approach to gene finding. title2:ExonHunter: a comprehensive approach to gene finding citation:58 ncitation:56 pid280781
+title1:The similarity metric. title2:The similarity metric citation:715 ncitation:620 pid558776
+title1:Multi-Instance Learning Based Web Mining. title2:Multi-instance learning based web mining citation:63 ncitation:56 pid559285
+title1:The similarity metric title2:The similarity metric citation:715 ncitation:620 pid608704
+title1:An information-based sequence distance and its application to whole mitochondrial genome phylogeny. title2:An information-based sequence distance and its application to whole mitochondrial genome phylogeny citation:440 ncitation:405 pid621474
+title1:PatternHunter: faster and more sensitive homology search. title2:PatternHunter: faster and more sensitive homology search citation:617 ncitation:580 pid610945
+title1:A Polynomial Time Approximation Scheme for Inferring Evolutionary Trees from Quartet Topologies and Its Application. title2:A polynomial time approximation scheme for inferring evolutionary trees from quartet topologies and its application citation:65 ncitation:62 pid959150
+title1:The similarity metric. title2:The similarity metric citation:715 ncitation:620 pid1059661
+title1:Data-centric middleware for context-aware pervasive computing. title2:Data-centric middleware for context-aware pervasive computing citation:68 ncitation:50 pid1177957
+title1:An introduction to Kolmogorov complexity and its applications (2. ed.). title2:An introduction to Kolmogorov complexity and its applications citation:865 ncitation:3835 pid1231679
+title1:An introduction to Kolmogorov complexity and its applications. title2:An introduction to Kolmogorov complexity and its applications citation:865 ncitation:3835 pid1227597

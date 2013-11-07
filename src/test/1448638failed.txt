@@ -1,0 +1,293 @@
+title:Wide baseline image registration using prior information. citation:-1
+title:Key Frame-Based Activity Representation Using Antieigenvalues. citation:-1
+title:Multi-camera Tracking of Articulated Human Motion Using Motion and Shape Cues. citation:-1
+title:Acquisition of Articulated Human Body Models Using Multiple Cameras. citation:-1
+title:Rank Constrained Recognition under Unknown Illuminations. citation:-1
+title:Pose-Encoded Spherical Harmonics for Robust Face Recognition Using a Single Image. citation:-1
+title:Discriminant Analysis for Recognition of Human Face Images (Invited Paper). citation:-1
+title:View Synthesis using Convex and Visual Hulls. citation:-1
+title:An architectural level design methodology for embedded face detection. citation:-1
+title:Edge Suppression by Gradient Field Transformation Using Cross-Projection Tensors. citation:-1
+title:On a spectral attentional mechanism. citation:-1
+title:Simultaneous Tracking and Verification via Sequential Posterior Estimation. citation:-1
+title:Fast 3D Stabilization and Mosaic Construction. citation:-1
+title:View Independent Human Body Pose Estimation from a Single Perspective Image. citation:-1
+title:Model-Based Target Recognition in Pulsed Ladar Imagery. citation:-1
+title:Probabilistic Identity Characterization for Face Recognition. citation:-1
+title:In Situ Evaluation of Tracking Algorithms Using Time Reversed Chains. citation:-1
+title:Symmetric Objects are Hardly Ambiguous. citation:-1
+title:Efficient Indexing For Articulation Invariant Shape Matching And Retrieval. citation:-1
+title:Human Identification using Gait and Face. citation:-1
+title:From Videos to Verbs: Mining Videos for Activities using a Cascade of Dynamical Systems. citation:-1
+title:Epitomic Representation of Human Activities. citation:-1
+title:Video Mensuration Using a Stationary Camera. citation:-1
+title:Bayesian Self-Calibration of a Moving Camera. citation:-1
+title:Optical Flow Using Overlapped Basis Functions for Solving Global Motion Problems. citation:-1
+title:Characterization of Human Faces under Illumination Variations Using Rank, Integrability, and Symmetry Constraints. citation:-1
+title:Illuminating Light Field: Image-based Face Recognition Across Illuminations and Poses. citation:-1
+title:Intra-Personal Kernel Space for Face Recognition. citation:-1
+title:Face Recognition from Video: A CONDENSATION Approach. citation:-1
+title:Modeling shape and textural variations in aging faces. citation:-1
+title:Algorithmic and Architectural Design Methodology for Particle Filters in Hardware. citation:-1
+title:Face Recognition in the Presence of Multiple Illumination Sources. citation:-1
+title:Appearance Modeling Under Geometric Context. citation:-1
+title:3D Object Tracking Using Shape-Encoded Particle Propagation. citation:-1
+title:Higher Order Statistical Learning for Vehicle Detection in Images. citation:-1
+title:Robust Estimation of Albedo for Illumination-invariant Matching and Shape Recovery. citation:-1
+title:Robust Visual Tracking Using the Time-Reversibility Constraint. citation:-1
+title:Video Biometrics. citation:-1
+title:Robust ego-motion estimation and 3d model refinement using depth based parallax model. citation:-1
+title:Frequency Dependence of ATD Performance in Foliage-Penetrating SAR Images. citation:-1
+title:An appearance based approach for human and object tracking. citation:-1
+title:Robust estimation of depth and motion using stochastic approximation. citation:-1
+title:Structure from Motion: Sparse Versus Dense Correspondence Methods. citation:-1
+title:Separability Based Tree Structured Local Basis Selection for Texture Classification. citation:-1
+title:Region Based Subband Image Coding Scheme. citation:-1
+title:Gabor Attributes Tracking for Face Verification. citation:-1
+title:Context-Aided False Alarm Reduction for SAR Automatic Target Recognition. citation:-1
+title:Optimal Shape Detection. citation:-1
+title:Tracking of human activities using shape-encoded particle propagation. citation:-1
+title:Video Coding Using Hybrid Motion Compensation. citation:-1
+title:Enhanced Segmentation of SAR Images using Non-Fourier Imaging. citation:-1
+title:Bayesian structure from motion using inertial information. citation:-1
+title:Robust bayesian cameras motion estimation using random sampling. citation:-1
+title:Robust Estimation of Motion and Structure Using a Discrete H Filter. citation:-1
+title:Reduction of Inherent Ambiguities in Structure from Motion Problem Using Inertial Data. citation:-1
+title:Vehicle Detection and Tracking in Video. citation:-1
+title:Higher-Order Spectral Analysis of Human Motion. citation:-1
+title:Facial similarity across age disguise illumination and pose. citation:-1
+title:Simultaneous background and foreground modeling for tracking in surveillance video. citation:-1
+title:A Multi-Fractal Formalism for Stabilization, Object Detection and Tracking in Flir Sequences. citation:-1
+title:Blind Estimation of PSF for Out of Focus Video Data. citation:-1
+title:Image Stabilization and Mosaicking Using the Overlapped Basis Optical Flow Field. citation:-1
+title:Multiple Description Subband Coding. citation:-1
+title:Multiple view tracking of humans modelled by kinematic chains. citation:-1
+title:Electronic image stabilization using multiple visual cues. citation:-1
+title:Robust Image Based Face Recognition. citation:-1
+title:3D Model Enhanced Face Recognition. citation:-1
+title:Automatic Registration of Oblique Aerial Images. citation:-1
+title:Tracking objects in video using motion and appearance models. citation:-1
+title:Invariant Geometric Representation of 3D Point Clouds for Registration and Matching. citation:-1
+title:Stabilization and Mosaicing of Airborne Videos. citation:-1
+title:Recognition of Multi-Object Events Using Attribute Grammars. citation:-1
+title:Shape-Regulated Particle Filtering for Tracking Non-Rigid Objects. citation:-1
+title:Learning action dictionaries from video. citation:-1
+title:Compressed sensing for multi-view tracking and 3-D voxel reconstruction. citation:-1
+title:Stochastic fusion of multi-view gradient fields. citation:-1
+title:Scenario Recognition from Video Using a Hierarchy of Dynamic Belief Networks. citation:-1
+title:Quasi-Invariants for Human Action Representation and Recognition. citation:-1
+title:A Bayesian Approach to Simultaneous Motion Estimation of Multiple Independently Moving Objects. citation:-1
+title:Finding Gait in Space and Time. citation:-1
+title:Segmentation and Probabilistic Registration of Articulated Body Models. citation:-1
+title:Classification Probability Analysis of Principal Component Null Space Analysis. citation:-1
+title:A Robust Algorithm for Probabilistic Human Recognition From. citation:-1
+title:Multiple-Exemplar Discriminant Analysis for Face Recognition. citation:-1
+title:Model-based Vehicular Motion and Structure Estimation. citation:-1
+title:Activity Representation Using 3D Shape Models. citation:-1
+title:A Scalable Projective Bundle Adjustment Algorithm using the L infinity Norm. citation:-1
+title:Integrated Motion Detection and Tracking for Visual Surveillance. citation:-1
+title:Moving Object Verification from Airborne Video. citation:-1
+title:Use of Knowledge-Based Control for Vision Systems. citation:-1
+title:An ontology based approach for activity recognition from video. citation:-1
+title:Combined Neural Network and Rule-Based Framework for Probabilistic Pattern Recognition and Discovery. citation:-1
+title:3D Facial Pose Tracking in Uncalibrated Videos. citation:-1
+title:Fusing Depth and Video Using Rao-Blackwellized Particle Filter. citation:-1
+title:Pattern Recognition in Video. citation:-1
+title:Ego-Motion Estimation and 3D Model Refinement in Scenes with Varying Illumination. citation:-1
+title:A Factorization Method for Structure from Planar Motion. citation:-1
+title:An Experimental Evaluation of Linear and Kernel-Based Methods for Face Recognition. citation:-1
+title:Estimation of Surface Topography from SAR Imagery Using Shape from Shading Techniques. citation:-1
+title:An Electronic Infrastructure for a Virtual University. citation:-1
+title:Face reconstruction from monocular video using uncertainty analysis and a generic model. citation:-1
+title:Experimental Evaluation of FLIR ATR Approaches - A Comparative Study. citation:-1
+title:Motion-Model-Based Boundary Extraction and a Real-Time Implementation. citation:-1
+title:Symbolic Compression and Processing of Document Images. citation:-1
+title:Human action-recognition using mutual invariants. citation:-1
+title:Bayesian self-calibration of a moving camera. citation:-1
+title:Unsupervised view and rate invariant clustering of video sequences. citation:-1
+title:Stochastic Approximation and Rate-Distortion Analysis for Robust Structure and Motion Estimation. citation:-1
+title:Editorial. citation:-1
+title:Experiments on estimating egomotion and structure parameters using long monocular image sequences. citation:-1
+title:A General Motion Model and Spatio-Temporal Filters for Computing Optical Flow. citation:-1
+title:Temporal Analysis of Motion in Video Sequences through Predictive Operators. citation:-1
+title:Knowledge-based control of vision systems. citation:-1
+title:Analyzing Looming Motion Components From Their Spatiotemporal Spectral Signature. citation:-1
+title:Editorial. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:State of the Transactions. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:Introduction of New Associate Editor. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:Editorial - State of the Transactions. citation:-1
+title:Introduction of New Associate Editor. citation:-1
+title:Introduction of New Associate Editor. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:Introduction of New Associate Editor. citation:-1
+title:Introduction of New Associate Editors. citation:-1
+title:In Memoriam, Azriel Rosenfeld(1931-2004). citation:-1
+title:Learning Texture Discrimination Rules in a Multiresolution System. citation:-1
+title:Hybrid Detectors for Subpixel Targets. citation:-1
+title:Shape-and-Behavior Encoded Tracking of Bee Dances. citation:-1
+title:A higher-order neural network for distortion invariant pattern recognition. citation:-1
+title:Fast Electronic Digital Image Stabilization for Off-Road Navigation. citation:-1
+title:Robust ego-motion estimation and 3-D model refinement using surface parallax. citation:-1
+title:Scalable data parallel algorithms for texture synthesis using Gibbs random fields. citation:-1
+title:Adaptive target detection in foliage-penetrating SAR images using alpha-stable models. citation:-1
+title:A spectral attentional mechanism tuned to object configurations. citation:-1
+title:Guest Editorial Applications Of Artificial Neural Networks To Image Processing. citation:-1
+title:An information theoretic criterion for evaluating the quality of 3-D reconstructions from video. citation:-1
+title:Statistical bias in 3-D reconstruction from a monocular video. citation:-1
+title:Probe-based automatic target recognition in infrared imagery. citation:-1
+title:Region adaptive subband image coding. citation:-1
+title:Delineating buildings by grouping lines with MRFs. citation:-1
+title:Model-based temporal object verification using video. citation:-1
+title:Bayesian algorithms for simultaneous structure from motion estimation of multiple independently moving objects. citation:-1
+title:Background learning for robust face recognition with PCA in the presence of clutter. citation:-1
+title:Principal Components Null Space Analysis for Image and Video Classification. citation:-1
+title:"Shape Activity": A Continuous-State HMM for Moving/Deforming Shapes With Application to Abnormal Activity Detection. citation:-1
+title:Structure From Planar Motion. citation:-1
+title:A Multiple-Hypothesis Approach for Multiobject Visual Tracking. citation:-1
+title:Activity Modeling Using Event Probability Sequences. citation:-1
+title:Algorithmic and Architectural Optimizations for Computationally Efficient Particle Filtering. citation:-1
+title:Appearance Modeling Using a Geometric Transform. citation:-1
+title:Wide baseline image registration with application to 3-D face modeling. citation:-1
+title:Super-Resolution of Face Images Using Kernel PCA-Based Prior. citation:-1
+title:Target Tracking Using a Joint Acoustic Video System. citation:-1
+title:A VLSI neuroprocessor for image restoration using analog computing-based systolic architecture. citation:-1
+title:A mixed-signal VLSI competitive neuroprocessor for video motion detection. citation:-1
+title:Guest Editorial: Special Issue on Human Detection and Recognition. citation:-1
+title:Integrating Video Information over Time. Example: Face Recognition from Video. citation:-1
+title:Robust Human Detection under Occlusion by Integrating Face and Person Detectors. citation:-1
+title:Model Driven Segmentation of Articulating Humans in Laplacian Eigenspace. citation:-1
+title:Robust Estimation of Albedo for Illumination-Invariant Matching and Shape Recovery. citation:-1
+title:Moving Object Verification in Airborne Video Sequences. citation:-1
+title:Computational methods for modeling facial aging: A survey. citation:-1
+title:Vehicle Speed Estimation Using Acoustic Wave Patterns. citation:-1
+title:Surveillance. citation:-1
+title:Enforcing integrability by error correction using l1-minimization. citation:-1
+title:Locally time-invariant models of human activities using trajectories on the grassmannian. citation:-1
+title:Learning multi-modal densities on Discriminative Temporal Interaction Manifold for group activity recognition. citation:-1
+title:Compressive wireless arrays for bearing estimation. citation:-1
+title:Multi-biometric cohort analysis for biometric fusion. citation:-1
+title:Multicamera Tracking of Articulated Human Motion Using Shape and Motion Cues. citation:-1
+title:Rate-Invariant Recognition of Humans and Their Activities. citation:-1
+title:Compressed sensing for Synthetic Aperture Radar imaging. citation:-1
+title:How would you look as you age? citation:-1
+title:Pose estimation in heavy clutter using a multi-flash camera. citation:-1
+title:Recognizing coordinated multi-object activities using a dynamic event ensemble model. citation:-1
+title:Markerless Monocular Tracking of Articulated Human Motion. citation:-1
+title:Face Recognition by Computers and Humans. citation:-1
+title:Online Empirical Evaluation of Tracking Algorithms. citation:-1
+title:Video Metrology Using a Single Camera. citation:-1
+title:Statistical Methods and Models for Video-Based Tracking, Modeling, and Recognition. citation:-1
+title:. citation:-1
+title:Recognition of Humans and Their Activities Using Video citation:-1
+title:Group motion segmentation using a Spatio-Temporal Driving Force Model. citation:-1
+title:Robust RVM regression using sparse outlier model. citation:-1
+title:Fast directional chamfer matching. citation:-1
+title:Moving vistas: Exploiting motion for describing scenes. citation:-1
+title:Pose-robust albedo estimation from a single image. citation:-1
+title:Articulation-Invariant Representation of Non-planar Shapes. citation:-1
+title:Compressive Acquisition of Dynamic Scenes. citation:-1
+title:Aligning Spatio-Temporal Signals on a Special Manifold. citation:-1
+title:Robust regression using sparse learning for high dimensional parameter estimation problems. citation:-1
+title:Sectored Random Projections for Cancelable Iris Biometrics. citation:-1
+title:The role of geometry in age estimation. citation:-1
+title:Recognizing offensive strategies from football videos. citation:-1
+title:Evaluation of state-of-the-art algorithms for remote face recognition. citation:-1
+title:Automatic target recognition based on simultaneous sparse representation. citation:-1
+title:A Constrained Probabilistic Petri Net Framework for Human Activity Detection in Video. citation:-1
+title:Synthesis of Silhouettes and Visual Hull Reconstruction for Articulated Humans. citation:-1
+title:A Constrained Probabilistic Petri Net Framework for Human Activity Detection in Video. citation:-1
+title:Video Précis: Highlighting Diverse Aspects of Videos. citation:-1
+title:An Efficient and Robust Algorithm for Shape Indexing and Retrieval. citation:-1
+title:Adaptive threshold estimation via extreme value theory. citation:-1
+title:Synthesis of Novel Views of Moving Objects in Airborne Video. citation:-1
+title:Towards view-invariant expression analysis using analytic shape manifolds. citation:-1
+title:Sparse representations and Random Projections for robust and cancelable biometrics. citation:-1
+title:Advances in Video-Based Biometrics. citation:-1
+title:Silhouette-based gesture and action recognition via modeling trajectories on Riemannian shape manifolds. citation:-1
+title:Editorial. citation:-1
+title:PADS: A Probabilistic Activity Detection Framework for Video Data. citation:-1
+title:A Fast Bilinear Structure from Motion Algorithm Using a Video Sequence and Inertial Sensors. citation:-1
+title:Robust Height Estimation of Moving Objects From Uncalibrated Videos. citation:-1
+title:Special Section on Distributed Camera Networks: Sensing, Processing, Communication, and Implementation. citation:-1
+title:Applications of a Simple Characterization of Human Gait in Surveillance. citation:-1
+title:A reliable descriptor for face objects in visual content. citation:-1
+title:Pose-Encoded Spherical Harmonics for Face Recognition and Synthesis Using a Single Image. citation:-1
+title:Mixed-State Models for Nonstationary Multiobject Activities. citation:-1
+title:Modeling and Visualization of Human Activities for Multicamera Networks. citation:-1
+title:Activity Representation Using 3D Shape Models. citation:-1
+title:3D Shape-Encoded Particle Filter for Object Tracking and Its Application to Human Body Tracking. citation:-1
+title:Statistical Computations on Grassmann and Stiefel Manifolds for Image and Video-Based Recognition. citation:-1
+title:Secure and Robust Iris Recognition Using Random Projections and Sparse Representations. citation:-1
+title:Example-Driven Manifold Priors for Image Deconvolution. citation:-1
+title:Special Issue on Video Analysis on Resource-Limited Systems. citation:-1
+title:Feature-based image to image registration. citation:-1
+title:Kernel fully constrained least squares abundance estimates. citation:-1
+title:Entropy rate superpixel segmentation. citation:-1
+title:P2C2: Programmable pixel compressive camera for high speed imaging. citation:-1
+title:Large-Scale Matrix Factorization with Missing Data under Additional Constraints. citation:-1
+title:Compressive Acquisition of Dynamic Scenes citation:-1
+title:Gradient-Based Image Recovery Methods From Incomplete Fourier Measurements. citation:-1
+title:Statistical Analysis on Manifolds and Its Applications to Video Analysis. citation:-1
+title:Domain adaptation for object recognition: An unsupervised approach. citation:-1
+title:Automatic feature point extraction and tracking in image sequences for unknown camera motion. citation:-1
+title:Sparse dictionary-based representation and recognition of action attributes. citation:-1
+title:Pyramid Implementation Of Optimal Step Conjugate Search Algorithms For Some Computer Vision Problems. citation:-1
+title:Illumination robust dictionary-based face recognition. citation:-1
+title:Component-based restoration of speckled images. citation:-1
+title:Variable remapping of images from very different sources. citation:-1
+title:Face tracking in low resolution videos under illumination variations. citation:-1
+title:The evolution of stochastic grammars for representation and recognition of activities in videos. citation:-1
+title:Noncooperative target classification using hierarchical modeling of high-range resolution radar signatures. citation:-1
+title:Dictionary-Based Face Recognition Under Variable Lighting and Pose. citation:-1
+title:A Blur-Robust Descriptor with Applications to Face Recognition. citation:-1
+title:Image and Video-Based Biometrics. citation:-1
+title:Face Tracking and Recognition in Video. citation:-1
+title:Bayesian methods for face recognition from video. citation:-1
+title:A framework for activity-specific human identification. citation:-1
+title:Two-frame multi-scale optical flow estimation using wavelet decomposition. citation:-1
+title:View synthesis of articulating humans using visual hull. citation:-1
+title:Video based rendering of planar dynamic scenes. citation:-1
+title:3D face reconstruction from video using a generic model. citation:-1
+title:Shape and motion driven particle filtering for human body tracking. citation:-1
+title:Adaptive visual tracking and recognition using particle filters. citation:-1
+title:Simultaneous tracking and recognition of human faces from video. citation:-1
+title:Statistical shape theory for activity modeling. citation:-1
+title:Fast object localization and pose estimation in heavy clutter for robotic bin picking. citation:-1
+title:Information-theoretic Dictionary Learning for Image Classification citation:-1
+title:Introduction. citation:-1
+title:Mathematical statistics and computer vision. citation:-1
+title:Remote identification of faces: Problems, prospects, and progress. citation:-1
+title:Dictionary-Based Face Recognition from Video. citation:-1
+title:Age Invariant Face Verification with Relative Craniofacial Growth Model. citation:-1
+title:Domain Adaptive Dictionary Learning. citation:-1
+title:Face Association across Unconstrained Video Frames Using Conditional Random Fields. citation:-1
+title:Joint Sparsity-Based Robust Multimodal Biometrics Recognition. citation:-1
+title:Nearest-neighbor search algorithms on non-Euclidean manifolds for computer vision applications. citation:-1
+title:Seventh Indian Conference on Computer Vision, Graphics and Image Processing, ICVGIP '10, Chennai, India, December 12-15, 2010 citation:-1
+title:Age Estimation and Face Verification Across Aging Using Landmarks. citation:-1
+title:A hierarchical approach for human age estimation. citation:-1
+title:Kernel dictionary learning. citation:-1
+title:Rotation invariant simultaneous clustering and dictionary learning. citation:-1
+title:Adaptive rate compressive sensing for background subtraction. citation:-1
+title:Synthesis-based recognition of low resolution faces. citation:-1
+title:Introduction to the issue on anomalous pattern discovery for spatial, temporal, networked, and high-dimensional signals. citation:-1
+title:Recognizing Interactive Group Activities Using Temporal Interaction Matrices and Their Riemannian Statistics. citation:-1
+title:Analysis of Sparse Regularization Based Robust Regression Approaches. citation:-1
+title:Blur and Illumination Robust Face Recognition via Set-Theoretic Characterization. citation:-1
+title:Pose-Invariant Face Recognition Using Markov Random Fields. citation:-1
+title:A Grassmann manifold-based domain adaptation approach. citation:-1
+title:A Markov Point Process model for wrinkles in human faces. citation:-1
+title:Performance analysis of model-based video coding. citation:-1
+title:Automatic head pose estimation using randomly projected dense SIFT descriptors. citation:-1
+title:Learning discriminative dictionaries with partially labeled data. citation:-1
+title:GMRF models and wavelet decomposition for texture segmentation. citation:-1
+title:Salient view selection based on sparse representation. citation:-1
+title:Spatio-temporal filters for transparent motion segmentation. citation:-1
+title:MAP decoding of gray-level images over binary channels with memory. citation:-1

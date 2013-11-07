@@ -1,0 +1,4 @@
+title:Constraints and Application Conditions: From Graphs to High-Level Structures. citation:-1
+title:Tutorial introduction to the algebraic approach of graph grammars. citation:-1
+title:Aspects of concurrency in graph grammars. citation:-1
+title:Formal Integration of Inheritance with Typed Attributed Graph Transformation for Efficient VL Definition and Model Manipulation. citation:-1

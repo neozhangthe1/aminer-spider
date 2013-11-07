@@ -1,0 +1,365 @@
+title:Advanced Database Systems. citation:-1
+title:Signature Files. citation:-1
+title:Indexing of Multimedia Data. citation:-1
+title:Design and Implementation of QBISM, a 3D Medical Image Database System. citation:-1
+title:SHIFTR: a user-directed, link-based system for ad hoc sensemaking of large heterogeneous data collections. citation:-1
+title:F4: large-scale automated forecasting using fractals. citation:-1
+title:Future directions in data mining: streams, networks, self-similarity and power laws. citation:-1
+title:"GeoPlot": spatial data mining on video libraries. citation:-1
+title:Selectivity Estimation of Window Queries. citation:-1
+title:The power-method: a comprehensive estimation technique for multi-dimensional queries. citation:-1
+title:How to improve the pruning ability of dynamic metric access methods. citation:-1
+title:Efficient processing of complex similarity queries in RDBMS through query rewriting. citation:-1
+title:A novel optimization approach to efficiently process aggregate similarity queries in metric access methods. citation:-1
+title:Fast mining of complex time-stamped events. citation:-1
+title:Graph mining and influence propagation. citation:-1
+title:Performance Considerations in Message Files. citation:-1
+title:Image Indexing and Retrieval Based on Human Perceptual Color Clustering. citation:-1
+title:GCap: Graph-Based Automatic Image Captioning. citation:-1
+title:Unsupervised modeling of object categories using link analysis techniques. citation:-1
+title:Relation between Fractal Dimension and Performance of Vector Quantization. citation:-1
+title:Next Generation Data Mining Tools: Power Laws and Self-similarity for Graphs, Streams and Traditional Data. citation:-1
+title:Hybrid Index Organizations for Text Databases. citation:-1
+title:Indexing Values in Continuous Field Databases. citation:-1
+title:Declustering Spatial Databases on a Multi-Computer Architecture. citation:-1
+title:Bit-Sliced Signature Files for Very Large Text Databases an a Parallel Machine Architecture. citation:-1
+title:On Multidimensional Data and Modern Disks. citation:-1
+title:Segmenting Motion Capture Data into Distinct Behaviors. citation:-1
+title:Toward a Comprehensive Model in Internet Auction Fraud Detection. citation:-1
+title:VideoCube: A Novel Tool for Video Mining and Classification. citation:-1
+title:QBISM: Extending a DBMS to Support 3D Medical Images. citation:-1
+title:DOT: A Spatial Access Method Using Fractals. citation:-1
+title:Similarity Search without Tears: The OMNI Family of All-purpose Access Methods. citation:-1
+title:A Multiresolution Symbolic Representation of Time Series. citation:-1
+title:Deflating the Dimensionality Curse Using Multiple Fractal Dimensions. citation:-1
+title:I/O Complexity for Range Queries on Region Data Stored Using an R-tree. citation:-1
+title:AutoLag: Automatic Discovery of Lag Correlations in Stream Data. citation:-1
+title:Online Latent Variable Detection in Sensor Networks. citation:-1
+title:Approximate Temporal Aggregation. citation:-1
+title:Distance Exponent: A New Concept for Selectivity Estimation in Metric Trees. citation:-1
+title:Data Mining Meets Performance Evaluation: Fast Algorithms for Modeling Bursty Traffic. citation:-1
+title:Online Data Mining for Co-Evolving Time Sequences. citation:-1
+title:Stream Monitoring under the Time Warping Distance. citation:-1
+title:Monitoring Network Evolution using MDL. citation:-1
+title:Compact Similarity Joins. citation:-1
+title:ViVo: Visual Vocabulary Construction for Mining Biomedical Images. citation:-1
+title:MMSS: Multi-Modal Story-Oriented Video Summarization. citation:-1
+title:Parameter-Free Spatial Data Mining Using MDL. citation:-1
+title:Neighborhood Formation and Anomaly Detection in Bipartite Graphs. citation:-1
+title:Example-Based Robust Outlier Detection in High Dimensional Datasets. citation:-1
+title:Fast Random Walk with Restart and Its Applications. citation:-1
+title:RTM: Laws and a Recursive Generator for Weighted Time-Evolving Graphs. citation:-1
+title:GRAPHITE: A Visual Query System for Large Graphs. citation:-1
+title:Automatic image captioning. citation:-1
+title:A Max Margin Framework on Image Annotation and Multimodal Image Retrieval. citation:-1
+title:Scalable modeling of real graphs using Kronecker multiplication. citation:-1
+title:Probabilistic Tensor Analysis with Akaike and Bayesian Information Criteria. citation:-1
+title:Bayesian tensor analysis. citation:-1
+title:Graph mining: laws, generators and tools. citation:-1
+title:Information Survival Threshold in Sensor and P2P Networks. citation:-1
+title:Data Visualization in RDBMS. citation:-1
+title:SuperGraph Visualization. citation:-1
+title:Protein complex identification by supervised graph local clustering. citation:-1
+title:VideoGraph: a new tool for video mining and classification. citation:-1
+title:Robust information-theoretic clustering. citation:-1
+title:Recovering latent time-series from their observed sums: network tomography with particle filters. citation:-1
+title:The "DGX" distribution for mining massive, skewed data. citation:-1
+title:Fully automatic cross-associations. citation:-1
+title:Fast discovery of connection subgraphs. citation:-1
+title:Sampling from large graphs. citation:-1
+title:ANF: a fast and scalable tool for data mining in massive graphs. citation:-1
+title:Automatic mining of fruit fly embryo images. citation:-1
+title:Automatic multimedia cross-modal correlation discovery. citation:-1
+title:Making every bit count: fast nonlinear axis scaling. citation:-1
+title:Beyond streams and graphs: dynamic tensor analysis. citation:-1
+title:Center-piece subgraphs: problem definition and fast solutions. citation:-1
+title:Tri-plots: scalable tools for multidimensional data mining. citation:-1
+title:GraphScope: parameter-free mining of large time-evolving graphs. citation:-1
+title:Fast best-effort pattern matching in large attributed graphs. citation:-1
+title:Enhanced max margin learning on multimodal data mining in a multimedia database. citation:-1
+title:Fast direction-aware proximity for graph mining. citation:-1
+title:Cost-effective outbreak detection in networks. citation:-1
+title:Social networks: looking ahead. citation:-1
+title:Colibri: fast mining of large static and dynamic graphs. citation:-1
+title:Using ghost edges for classification in sparsely labeled networks. citation:-1
+title:Weighted graphs and disconnected components: patterns and a generator. citation:-1
+title:Mobile call graphs: beyond power-law and lognormal distributions. citation:-1
+title:Cut-and-stitch: efficient parallel learning of linear dynamical systems on smps. citation:-1
+title:Unsupervised modeling and recognition of object categories with combination of visual contents and geometric similarity links. citation:-1
+title:: Representing and Visualizing Structure in Video Sequences. citation:-1
+title:Electricity Based External Similarity of Categorical Attributes. citation:-1
+title:AutoSplit: Fast and Scalable Discovery of Hidden Variables in Stream and Multimedia Databases. citation:-1
+title:Distributed Pattern Discovery in Multiple Streams. citation:-1
+title:OBE: Outlier by Example. citation:-1
+title:Graph Mining: Laws, Generators and Tools. citation:-1
+title:Declustering Using Fractals. citation:-1
+title:An Adaptive Two-Phase Approach to WiFi Location Sensing. citation:-1
+title:Detecting Fraudulent Personalities in Networks of Online Auctioneers. citation:-1
+title:Next Generation Data Mining Tools: Power Laws and Self-similarity for Graphs, Streams and Traditional Data. citation:-1
+title:Realistic, Mathematically Tractable Graph Generation and Evolution, Using Kronecker Multiplication. citation:-1
+title:Two Heads Better Than One: Pattern Discovery in Time-Evolving Multi-aspect Data. citation:-1
+title:Hierarchical, Parameter-Free Community Discovery. citation:-1
+title:Beyond Uniformity and Independence: Analysis of R-trees Using the Concept of Fractal Dimension. citation:-1
+title:Declustering Using Error Correcting Codes. citation:-1
+title:FTW: fast similarity search under the time warping distance. citation:-1
+title:Evaluating the intrinsic dimension of evolving data streams. citation:-1
+title:Mining Time Series Data. citation:-1
+title:Fast Feature Selection Using Fractal Dimension. citation:-1
+title:R-MAT: A Recursive Model for Graph Mining. citation:-1
+title:Efficient Distribution Mining and Classification. citation:-1
+title:Semi-Supervised Learning Based on Semiparametric Regularization. citation:-1
+title:Patterns of Cascading Behavior in Large Blog Graphs. citation:-1
+title:Less is More: Compact Matrix Decomposition for Large Sparse Graphs. citation:-1
+title:Proximity Tracking on Time-Evolving Bipartite Graphs. citation:-1
+title:Automated Assistance for Eliciting User Expectations. citation:-1
+title:Data Mining Using Fractals and Power Laws. citation:-1
+title:Quest: A Project on Database Mining. citation:-1
+title:Indexing and Mining Streams. citation:-1
+title:Signature files: Design and Performance Comparison of Some Signature Extraction Methods. citation:-1
+title:Multiattribute Hashing Using Gray Codes. citation:-1
+title:Indexing Multimedia Databases (Tutorial). citation:-1
+title:Analysis of Object Oriented Spatial Access Methods. citation:-1
+title:Spatial Join Selectivity Using Power Laws. citation:-1
+title:Parallel R-trees. citation:-1
+title:Research issues in protein location image databases. citation:-1
+title:Flexible Buffer Allocation Based on Marginal Gains. citation:-1
+title:Density Biased Sampling: An Improved Method for Data Mining and Clustering. citation:-1
+title:Data Mining on an OLTP System (Nearly) for Free. citation:-1
+title:BRAID: Stream Mining through Group Lag Correlations. citation:-1
+title:Prediction and Indexing of Moving Objects with Unknown Motion Patterns. citation:-1
+title:Mining large graphs and streams using matrix and tensor tools. citation:-1
+title:Outlier-robust clustering using independent components. citation:-1
+title:Multimedia Indexing over the Web. citation:-1
+title:Developing High-Level Representations of Video Clips using VideoTrails. citation:-1
+title:Compressed-Domain Video Indexing Techniques Using DCT and Motion Vector Information in MPEG Video. citation:-1
+title:Epidemic Spreading in Real Networks: An Eigenvalue Viewpoint. citation:-1
+title:Cross-Outlier Detection. citation:-1
+title:Boosting k-Nearest Neighbor Queries Estimating Suitable Query Radii. citation:-1
+title:Access Methods for Bi-Temporal Databases citation:-1
+title:Searching, Data Mining and Visualization of Multimedia Data. citation:-1
+title:Auditing Compliance with a Hippocratic Database. citation:-1
+title:Estimating the Selectivity of Spatial Queries Using the `Correlation' Fractal Dimension. citation:-1
+title:Sensor Data Mining: Similarity Search and Pattern Analysis. citation:-1
+title:Design of a Signature File Method that Accounts for Non-Uniform Occurrence and Query Frequencies. citation:-1
+title:Fast Text Access Methods for Optical and Large Magnetic Disks: Designs and Performance Comparison. citation:-1
+title:Analysis of n-Dimensional Quadtrees using the Hausdorff Fractal Dimension citation:-1
+title:On B-Tree Indices for Skewed Distributions. citation:-1
+title:Recovering Information from Summary Data. citation:-1
+title:Modeling Skewed Distribution Using Multifractals and the `80-20' Law. citation:-1
+title:Predictive Load Control for Flexible Buffer Allocation. citation:-1
+title:InteMon: Intelligent System Monitoring on Large Clusters. citation:-1
+title:Ratio Rules: A New Paradigm for Fast, Quantifiable Data Mining. citation:-1
+title:Fast Nearest Neighbor Search in Medical Image Databases. citation:-1
+title:NetCube: A Scalable Tool for Fast Data Mining and Compression. citation:-1
+title:Adaptive, Hands-Off Stream Mining. citation:-1
+title:Streaming Pattern Discovery in Multiple Time-Series. citation:-1
+title:GMine: A System for Scalable, Interactive Graph Visualization and Mining. citation:-1
+title:Multidimensional Access Methods: Trees Have Grown Everywhere. citation:-1
+title:A Multimedia Office Filing System. citation:-1
+title:FALCON: Feedback Adaptive Loop for Content-Based Retrieval. citation:-1
+title:Data Mining Using Fractals and Power Laws. citation:-1
+title:A Comparative Study of Feature Vector-Based Topic Detection Schemes A Comparative Study of Feature Vector-Based Topic Detection Schemes. citation:-1
+title:Parallel crawling for online social networks. citation:-1
+title:Netprobe: a fast and scalable system for fraud detection in online auction networks. citation:-1
+title:Click chain model in web search. citation:-1
+title:Intelligent system monitoring on large clusters. citation:-1
+title:Automated Learning and Discovery Stat-Of-The-Art and Research Topics in a Rapidly Growing Field. citation:-1
+title:Signature Files: An Integrated Access Method for Text and Attributes, Sluitable for Optical Disk Storage. citation:-1
+title:Analysis for the End of Block Wasted Space. citation:-1
+title:Data-driven evolution of data mining algorithms. citation:-1
+title:Design and Performance Considerations for an Optical Disk-Based Multimedia Object Server. citation:-1
+title:Identifying Web Browsing Trends and Patterns. citation:-1
+title:Active Disks for Large-Scale Data Processing. citation:-1
+title:Graph mining: Laws, generators, and algorithms. citation:-1
+title:Access Methods for Text. citation:-1
+title:On data mining, compression, and Kolmogorov complexity. citation:-1
+title:A fast and effective method to find correlations among attributes in databases. citation:-1
+title:Two heads better than one: pattern discovery in time-evolving multi-aspect data. citation:-1
+title:QBISM: A Prototype 3-D Medical Image Database System. citation:-1
+title:The New Jersey Data Reduction Report. citation:-1
+title:Signature-Based Text Retrieval Methods: A Survey. citation:-1
+title:Fast Searching by Content in Multimedia Databases. citation:-1
+title:High Performance R-trees. citation:-1
+title:Multimedia Queries by Example and Relevance Feedback. citation:-1
+title:Performance Issues in the Binary Relationship Model. citation:-1
+title:Expert Database Systems: Efficient Support for Engineering Environments. citation:-1
+title:Spatial Query Estimation without the Local Uniformity Assumption. citation:-1
+title:Incorporating String Search in a Hypertext System: User Interface and Signature File Design Issues. citation:-1
+title:Visualization of large networks with min-cut plots, A-plots and R-MAT. citation:-1
+title:Fractal dimension and vector quantization. citation:-1
+title:Fast estimation of fractal dimension and correlation integral on stream data. citation:-1
+title:Tri-cell-a data structure for spatial objects. citation:-1
+title:Experimenting with Pattern-Matching Algorithms. citation:-1
+title:Relaxing the Uniformity and Independence Assumptions Using the Concept of Fractal Dimension. citation:-1
+title:Random walk with restart: fast solutions and applications. citation:-1
+title:Fundamentals of Scheduling and Performance of Video Tape Libraries. citation:-1
+title:Efficient Discovery of Unusual Patterns in Time Series . citation:-1
+title:Overlay Striping and Optimal Parallel I/O for Modern Applications. citation:-1
+title:Capturing the spatio-temporal behavior of real traffic data. citation:-1
+title:Analytical results on the quadtree decomposition of arbitrary rectangles. citation:-1
+title:KDD-2002 Workshop Report Fractals and Self-similarity in Data Mining: Issues and Approaches. citation:-1
+title:Relevance search and anomaly detection in bipartite graphs. citation:-1
+title:An environmental sensor network to determine drinking water quality and security. citation:-1
+title:Reminiscences on Influential Papers. citation:-1
+title:InteMon: continuous mining of sensor data in large-scale self-infrastructures. citation:-1
+title:Disk Allocation Methods Using Error Correcting Codes. citation:-1
+title:Flexible and Adaptable Buffer Management Techniques for Database Management Systems. citation:-1
+title:Bayesian Tensor Approach for 3-D Face Modeling. citation:-1
+title:Epidemic thresholds in real networks. citation:-1
+title:Analysis of the n-Dimensional Quadtree Decomposition for Arbitrary Hyperectangles. citation:-1
+title:On the 'Dimensionality Curse' and the 'Self-Similarity Blessing'. citation:-1
+title:Fast and Effective Retrieval of Medical Tumor Shapes. citation:-1
+title:Designing Access Methods for Bitemporal Databases. citation:-1
+title:Frame-Sliced Signature Files. citation:-1
+title:Similarity Searching in Medical Image Databases. citation:-1
+title:ImageMap: An Image Indexing Method Based on Spatial Similarity. citation:-1
+title:Analysis of Range Queries and Self-Spatial Join Queries on Real Region Datasets Stored Using an R-Tree. citation:-1
+title:Accurate Modeling of Region Data. citation:-1
+title:Editorial: TKDE Topic Area Revisions. citation:-1
+title:Fast Indexing and Visualization of Metric Data Sets using Slim-Trees. citation:-1
+title:TKDE Guidelines for Survey Papers. citation:-1
+title:Optimal Signature Extraction and Information Loss. citation:-1
+title:Self-Spacial Join Selectivity Estimation Using Fractal Concepts. citation:-1
+title:Signature Files: An Access Method for Documents and Its Analytical Performance Evaluation. citation:-1
+title:Description and Performance Analysis of Signature File Methods for Office Filing. citation:-1
+title:Power laws and the AS-level internet topology. citation:-1
+title:Design Considerations for a Message File Server. citation:-1
+title:Gray Codes for Partial Match and Range Queries. citation:-1
+title:An Efficient Pictorial Database System for PSQL. citation:-1
+title:An Architecture for High Performance Engineering Information Systems. citation:-1
+title:Quantifiable Data Mining Using Ratio Rules. citation:-1
+title:Adaptive, unsupervised stream mining. citation:-1
+title:The Omni-family of all-purpose access methods: a simple and effective way to make similarity search more efficient. citation:-1
+title:RIC: Parameter-free noise-robust clustering. citation:-1
+title:Incremental tensor analysis: Theory and applications. citation:-1
+title:C-DEM: a multi-modal query system for Drosophila Embryo databases. citation:-1
+title:Graph Mining: Patterns, Generators and Tools. citation:-1
+title:DOULION: counting triangles in massive graphs with a coin. citation:-1
+title:TANGENT: a novel, 'Surprise me', recommendation algorithm. citation:-1
+title:Large human communication networks: patterns and a utility-driven generator. citation:-1
+title:BGP-lens: patterns and anomalies in internet routing updates. citation:-1
+title:DynaMMo: mining and summarization of coevolving sequences with missing values. citation:-1
+title:BBM: bayesian browsing model from petabyte-scale data. citation:-1
+title:SNARE: a link analytic system for graph labeling and risk detection. citation:-1
+title:iPoG: fast interactive proximity querying on graphs. citation:-1
+title:RTG: A Recursive Realistic Graph Generator Using Random Typing. citation:-1
+title:Time series analysis with multiple resolutions. citation:-1
+title:Fast Monitoring Proximity and Centrality on Time-evolving Bipartite Graphs. citation:-1
+title:Less is More: Sparse Graph Mining with Compact Matrix Decomposition. citation:-1
+title:Spectral Counting of Triangles in Power-Law Networks via Element-Wise Sparsification. citation:-1
+title:PEGASUS: A Peta-Scale Graph Mining System. citation:-1
+title:EigenSpokes: Surprising Patterns and Scalable Community Chipping in Large Graphs. citation:-1
+title:RTG: a recursive realistic graph generator using random typing. citation:-1
+title:Finding Clusters in subspaces of very large, multi-dimensional datasets. citation:-1
+title:Proceedings of the Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, DC, USA, August 24 - 27, 2003 citation:-1
+title:Metric forensics: a multi-level approach for mining volatile graphs. citation:-1
+title:TWave: High-Order Analysis of Spatiotemporal Data. citation:-1
+title:oddball: Spotting Anomalies in Weighted Graphs. citation:-1
+title:EigenSpokes: Surprising Patterns and Scalable Community Chipping in Large Graphs. citation:-1
+title:BASSET: Scalable Gateway Finder in Large Graphs. citation:-1
+title:Surprising Patterns for the Call Duration Distribution of Mobile Phone Users. citation:-1
+title:Virus Propagation on Time-Varying Networks: Theory and Immunization Algorithms. citation:-1
+title:Analysis of Large Multi-modal Social Networks: Patterns and a Generator. citation:-1
+title:Mining Billion-Node Graphs: Patterns, Generators and Tools. citation:-1
+title:HCDF: A Hybrid Community Discovery Framework. citation:-1
+title:Radius Plots for Mining Tera-byte Scale Graphs: Algorithms, Patterns, and Observations. citation:-1
+title:SIGMOD 1999, Proceedings ACM SIGMOD International Conference on Management of Data, June 1-3, 1999, Philadelphia, Pennsylvania, USA. citation:-1
+title:Modeling Blog Dynamics. citation:-1
+title:SPEX: automated concise extraction of spatial gene expression patterns from Fly embryo ISH images. citation:-1
+title:Kronecker Graphs: An Approach to Modeling Networks. citation:-1
+title:Parsimonious Linear Fingerprinting for Time Series. citation:-1
+title:Fast Feature Selection using Fractal Dimension - Ten Years Later. citation:-1
+title:Fast feature selection using fractal dimension. citation:-1
+title:Fast algorithms for time series mining. citation:-1
+title:NetCube. citation:-1
+title:On the Vulnerability of Large Graphs. citation:-1
+title:Mining Billion-node Graphs: Patterns, Generators and Tools. citation:-1
+title:Patterns on the Connected Components of Terabyte-Scale Graphs. citation:-1
+title:QMAS: Querying, Mining and Summarization of Multi-modal Databases. citation:-1
+title:EigenDiagnostics: Spotting Connection Patterns and Outliers in Large Graphs. citation:-1
+title:ValuePick: Towards a Value-Oriented Dual-Goal Recommender System. citation:-1
+title:Mining billion-node graphs: patterns, generators and tools. citation:-1
+title:Efficient Parallel Learning of Hidden Markov Chain Models on SMPs. citation:-1
+title:Fast Discovery of Group Lag Correlations in Streams. citation:-1
+title:Direction-Aware Proximity on Graphs. citation:-1
+title:Apolo: making sense of large network data by combining rich user interaction and machine learning. citation:-1
+title:Mining large graphs: Algorithms, inference, and discoveries. citation:-1
+title:High-order concept discovery in functional brain imaging. citation:-1
+title:Epidemic Spread in Mobile Ad Hoc Networks: Determining the Tipping Point. citation:-1
+title:Spectral Analysis for Billion-Scale Graphs: Discoveries and Implementation. citation:-1
+title:SBAD: Sequence Based Attack Detection via Sequence Comparison. citation:-1
+title:BoLeRO: A Principled Technique for Including Bone Length Constraints in Motion Capture Occlusion Filling. citation:-1
+title:Outlier detection by example. citation:-1
+title:PEGASUS: mining peta-scale graphs. citation:-1
+title:Bayesian Browsing Model: Exact Inference of Document Relevance from Petabyte-Scale Data. citation:-1
+title:HADI: Mining Radii of Large Graphs. citation:-1
+title:Spectral counting of triangles via element-wise sparsification and triangle-based link recommendation. citation:-1
+title:A Linear-Time Approximation of the Earth Mover's Distance citation:-1
+title:Graph Mining: Laws and Generators. citation:-1
+title:Searching Multimedia Databases by Content. citation:-1
+title:Dimensionality Reduction and Forecasting on Streams. citation:-1
+title:Unifying Guilt-by-Association Approaches: Theorems and Fast Algorithms. citation:-1
+title:The Typhoon Track Classification using Tri-plots and Markov Chain. citation:-1
+title:Large Scale Graph Mining and Inference for Malware Detection. citation:-1
+title:WindMine: Fast and Effective Mining of Web-click Sequences. citation:-1
+title:Human Dynamics in Large Communication Networks. citation:-1
+title:Recommending People in Developers' Collaboration Network. citation:-1
+title:MultiAspectForensics: Pattern Mining on Large-Scale Heterogeneous Networks with Tensor Analysis. citation:-1
+title:BlogCast effect on information diffusion in a blogosphere. citation:-1
+title:Spectral analysis of a blogosphere. citation:-1
+title:Constructing seminal paper genealogy. citation:-1
+title:A linear-time approximation of the earth mover's distance. citation:-1
+title:TWave: High-order analysis of functional MRI. citation:-1
+title:Beyond 'Caveman Communities': Hubs and Spokes for Graph Compression and Mining. citation:-1
+title:Threshold Conditions for Arbitrary Cascade Models on Arbitrary Networks. citation:-1
+title:Mobile Phone Graph Evolution: Findings, Model and Interpretation. citation:-1
+title:Statistical Properties of Social Networks. citation:-1
+title:Apolo: interactive large graph sensemaking by combining machine learning and visualization. citation:-1
+title:It's who you know: graph mining using recursive structural features. citation:-1
+title:ThermoCast: a cyber-physical forecasting model for datacenters. citation:-1
+title:GBASE: a scalable and general graph management system. citation:-1
+title:Clustering very large multi-dimensional datasets with MapReduce. citation:-1
+title:Top-10 Data Mining Case Studies. citation:-1
+title:Gateway finder in large graphs: problem definitions and fast solutions. citation:-1
+title:V-SMART-Join: A Scalable MapReduce Framework for All-Pair Similarity Joins of Multisets and Vectors citation:-1
+title:V-SMART-Join: A Scalable MapReduce Framework for All-Pair Similarity Joins of Multisets and Vectors. citation:-1
+title:An Intrinsic Graphical Signature Based on Alert Correlation Analysis for Intrusion Detection. citation:-1
+title:Graph Mining Techniques: Focusing on discriminating between real and synthetic graphs. citation:-1
+title:Quantifying Reciprocity in Large Weighted Communication Networks. citation:-1
+title:Winner takes all: competing viruses or ideas on fair-play networks. citation:-1
+title:OPAvion: mining and visualization in large graphs. citation:-1
+title:SigSpot: mining significant anomalous regions from time-evolving networks (abstract only). citation:-1
+title:Managing and mining large graphs: patterns and algorithms. citation:-1
+title:GigaTensor: Scaling Tensor Analysis Up by 100 Times - Algorithms and Discoveries citation:-1
+title:Competing memes propagation on networks: a case study of composite networks. citation:-1
+title:gbase: an efficient analysis platform for large graphs. citation:-1
+title:NetSimile: A Scalable Approach to Size-Independent Network Similarity citation:-1
+title:Understanding and Managing Cascades on Large Graphs. citation:-1
+title:Graph Mining: Laws, Tools, and Case Studies citation:-1
+title:ParCube: Sparse Parallelizable Tensor Decompositions. citation:-1
+title:Informed Prefetching of Collective Input/Output Requests. citation:-1
+title:Fast Robustness Estimation in Large Social Graphs: Communities and Anomaly Detection. citation:-1
+title:PICS: Parameter-free Identification of Cohesive Subgroups in Large Attributed Graphs. citation:-1
+title:Fast mining and forecasting of complex time-stamped events. citation:-1
+title:TourViz: interactive visualization of connection pathways in large graphs. citation:-1
+title:GigaTensor: scaling tensor analysis up by 100 times - algorithms and discoveries. citation:-1
+title:Interacting viruses in networks: can both survive? citation:-1
+title:RolX: structural role extraction & mining in large graphs. citation:-1
+title:Rise and fall patterns of information diffusion: model and implications. citation:-1
+title:Large Graph Analysis in the GMine System. citation:-1
+title:Threshold conditions for arbitrary cascade models on arbitrary networks. citation:-1
+title:Forecasting in the NBA and other team sports: Network effects in action. citation:-1
+title:Pegasus: Mining billion-scale graphs in the cloud. citation:-1
+title:Gelling, and melting, large graphs by edge manipulation. citation:-1
+title:Top-N recommendation through belief propagation. citation:-1
+title:Fast and reliable anomaly detection in categorical data. citation:-1
+title:TensorSplat: Spotting Latent Anomalies in Time. citation:-1
+title:Halite: Fast and Scalable Multiresolution Local-Correlation Clustering. citation:-1
+title:MultiAspectForensics: mining large heterogeneous networks using tensor. citation:-1
+title:EigenSP: A More Accurate Shortest Path Distance Estimation on Large-Scale Networks. citation:-1
+title:Spotting Culprits in Epidemics: How Many and Which Ones? citation:-1
+title:Interactively and Visually Exploring Tours of Marked Nodes in Large Graphs. citation:-1
+title:FastCARS: fast, correlation-aware sampling for network data mining. citation:-1
+title:Anomaly, event, and fraud detection in large network datasets. citation:-1
+title:Scoup-SMT: Scalable Coupled Sparse Matrix-Tensor Factorization citation:-1
+title:Finding patterns in blog shapes and blog evolution. citation:-1

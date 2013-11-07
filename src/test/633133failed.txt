@@ -1,0 +1,378 @@
+title:Satisfiability and Trustworthiness of Peers in Peer-to-Peer Overlay Networks. citation:-1
+title:Fault-Tolerant Semi-Passive Coordination Protocol for a Multi-Actuator/Multi-Sensor (MAMS) Model. citation:-1
+title:A Strategy for MLS Workflow. citation:-1
+title:A Macro-level Distributed Method for the Efficient Allocation of Zones in the Internet. citation:-1
+title:Evaluation of a Marketable Quality and Profitability Model Considering General Distribution. citation:-1
+title:Role Locks to Prevent Illegal Information Flow among Objects. citation:-1
+title:An Autonomic Group Communication. citation:-1
+title:Concurrency Control Using Role Ordering (RO) Scheduler. citation:-1
+title:Concurrency Control Protocol on Distributed Multimedia Objects. citation:-1
+title:QoS-Based Ordered Delivery for Multimedia Objects in a Group . citation:-1
+title:Design of a Notification System for the Accrual Failure Detector. citation:-1
+title:QoS-Based Synchronous/Asynchronous Data Transmission Model in Group Communication. citation:-1
+title:Design of a Hierarchical Group to Realize a Scalable Group. citation:-1
+title:Lattice-Based Precedence of Moderate Lock Modes on Objects. citation:-1
+title:Causality in a Hierarchical Group. citation:-1
+title:MaCC: Supporting Network Formation and Routing in Wireless Personal Area Networks. citation:-1
+title:Design and Implementation of Transactional Agents for Manipulating Distributed Objects. citation:-1
+title:A Fault-Tolerant Transactional Agent Model on Distributed Object Systems. citation:-1
+title:Fully Distributed Communication Protocol for Exchanging Real-Time Multimedia Data in a Group. citation:-1
+title:Charge-Based Flooding Algorithm for Detecting Multimedia Objects in Peer-to-Peer Overlay Networks. citation:-1
+title:Service Oriented Trustworthiness of Acquaintances in Peer-to-Peer Overlay Networks. citation:-1
+title:Distributed Replication and Caching: A Mechanism for Architecting Responsive Web Services. citation:-1
+title:Fault Detection and Recovery in a Transactional Agent Model. citation:-1
+title:Role-based Concurrency Control in a Subject- and Purpose-Oriented (SPO) View. citation:-1
+title:Coordination Protocols of Multiple Actuator Nodes in a Multi-Actuator/Multi-Sensor Model. citation:-1
+title:Synchronization of Transactions to Prevent Illegal Information Flow in a Role-Based Access Control Model. citation:-1
+title:A Distributed Coordination Protocol for Multiple Peer Processes. citation:-1
+title:A Computing Model for Marketable Quality and Profitability of Corporations: Model Evaluation Based on Two Different Sources Data. citation:-1
+title:A Model for Dynamic Integration of Ontologies in P2P/DAKS Coalitions. citation:-1
+title:A BAT in the Lab: Experimental Results of New Link State Routing Protocol. citation:-1
+title:Distributed Databases in Dynamic R-Tree for Vehicle Information Systems. citation:-1
+title:Trustworthiness and Confidence of Peers in Peer-to-Peer (P2P) Network. citation:-1
+title:Application Level QoS in Multimedia Peer-to-Peer (P2P) Networks. citation:-1
+title:Design and Implementation of a JXTA-Overlay P2P System and Smart Box Environment. citation:-1
+title:Role-Based Access Control in Peer-to-Peer (P2P) Societies. citation:-1
+title:QoS Control in Group Communication. citation:-1
+title:Access Control Model in Object-Oriented Systems. citation:-1
+title:Broad Path Decision in Vehicle Systems. citation:-1
+title:Object-Based Group Protocol. citation:-1
+title:Autonomic Group Protocol for Peer-to-Peer (P2P) Systems. citation:-1
+title:Information Flow Control among Objects in Role-Based Access Control Model. citation:-1
+title:Quality-Based Synchronization Methods of Multimedia Objects. citation:-1
+title:Transactional Agent Model for Distributed Object Systems. citation:-1
+title:Vehicle Transactions. citation:-1
+title:Role-Based Serializability for Distributed Object Systems. citation:-1
+title:Significant Checkpoint in Distributed System. citation:-1
+title:Quorum-Based Locking Protocol in Nested Invocations of Methods. citation:-1
+title:Object-Based Ordered Delivery of Messages in Object-Based Systems. citation:-1
+title:General Protocols for Consensus in Distributed Systems citation:-1
+title:A Quality Enhancement Model Considering Service Providers and Consumers Relation. citation:-1
+title:Tokens for Anonymous Communications in the Internet. citation:-1
+title:Role Ordering (RO) Scheduler for Concurrency Control. citation:-1
+title:Flexibility in Group Communication Service. citation:-1
+title:Information Propagation on the phi Failure Detector. citation:-1
+title:Performance Analysis of the phi-Failure Detector with its Tunable Parameters. citation:-1
+title:Recovery Protocol for Mobile Checkpointing. citation:-1
+title:Protocol for Pseudo-Active Replication in Wide-Area Networks. citation:-1
+title:Asynchronous Multi-source Streaming Protocol to Realize High-Performance Multimedia Communication. citation:-1
+title:Protocol for Large-Scale Group. citation:-1
+title:Message from the NbiS Workshop Chair. citation:-1
+title:Fault-Tolerant Destributed Systems in a Mobile Agent Model. citation:-1
+title:Quorum-Based Replication of Objects. citation:-1
+title:Distributed Multimedia Objects in Peer-to-Peer Networks. citation:-1
+title:Acquaintance-Based Protocol for Manipulating Multimedia Objects in Peer-to-Peer Overlay Networks. citation:-1
+title:Transactional Aid to Workflow Distribution to Support E-Commerce. citation:-1
+title:QoS-Based Method for Compensating Multimedia Objects. citation:-1
+title:Hierarchical Protocol for Byzantine Agreement in a Peer-to-Peer Overlay Network. citation:-1
+title:Trustworthiness of Acquaintance peers on Access Control Models. citation:-1
+title:Reliable Nested Invocation of Methods in Distributed Object-Based Systems. citation:-1
+title:Pseudo-Active Replication of Distributed Objects in Wide-Area Networks. citation:-1
+title:Communication Protocol for a Hierarchical Group. citation:-1
+title:Lock Mode Based Resolution of Uncompensatable Deadlock in Compensating Nested Transactions. citation:-1
+title:Starvation-Prevented Priority-Based Total Ordering Broadcast Protocol on High-Speed Single Channel Network. citation:-1
+title:Large-Scale Group Communication Protocol on High-Speed Channel. citation:-1
+title:Multimedia Distributed Infrastructure for B2B Operations in Web Services. citation:-1
+title:Arhitecting Responsive Web Services. citation:-1
+title:Causally Ordering Broadcast Protocol. citation:-1
+title:Towards a Scalable Heterogeneous P2P Data and Knowledge Sharing Facility. citation:-1
+title:Protocol for Synchronizing Multimedia Objects Exchanged in a Group of Processes. citation:-1
+title:Performance Evaluation of the . Accrual Failure Detector. citation:-1
+title:Flexible Group Communication Protocol for Distributed Applications. citation:-1
+title:Autonomic Group Protocol for Distributed Systems. citation:-1
+title:Concurrency Control Using Role Ordering (RO) Scheduler for Distributed Objects. citation:-1
+title:Distributed Coordination for Scalable Multimedia Streaming Model. citation:-1
+title:Heterogeneous Groups to Causally Ordered Delivery. citation:-1
+title:Mobile Agent Model for Distributed Systems. citation:-1
+title:Pseudo-Active Replication Protocol for Reliable Replica Group. citation:-1
+title:Striping Communication Protocol for Reliable Multimedia Communication in a Hierarchical Group. citation:-1
+title:Group Protocol for Exchanging Multimedia Objects in a Group. citation:-1
+title:Causality in Hierarchical Group Communication. citation:-1
+title:Group Communication Protocol in Object-Based Systems. citation:-1
+title:Trustworthiness of Peers Based on Access Control in Peer-to-Peer Overlay Networks. citation:-1
+title:Quality-Based Approach to Locking Multimedia Objects. citation:-1
+title:Performance Analysis of the Superpeer-based Two-layer P2P Overlay Network with the CBF Strategy. citation:-1
+title:Confidence-based Trustworthiness of Acquaintance Peers in Peer-to-Peer Overlay Networks. citation:-1
+title:Role Based Access Control in Distributed Object Systems. citation:-1
+title:A Marketable Quality and Profitability Model for Network Service Pricing. citation:-1
+title:QoS-based hybrid concurrency control on distributed multimedia objects. citation:-1
+title:Atomicity and causality of multimedia messages in group communication. citation:-1
+title:Group Protocol for Delivering Requests to Replicas. citation:-1
+title:Authorization Model Based on Object-Oriented Concept. citation:-1
+title:Mobile Agent Model for Transaction Processing in Distributed Database Systems. citation:-1
+title:Replica Management in Object-Based Systems. citation:-1
+title:Causality of Messages in Object-Based Systems . citation:-1
+title:Parallel and Distributed Processing Research in Some Asian Countries. citation:-1
+title:Significant Message Precedence in Object-Based Systems. citation:-1
+title:Group Communication Protocol for Autonomic Computing. citation:-1
+title:Transaction-Based Causally Ordered Protocol for Distributed Replicated Objects. citation:-1
+title:Object Replication Using Version Vector. citation:-1
+title:Distributed Coordination for Scalable Multi-source Multimedia Streaming Model. citation:-1
+title:Flexible Distributed Systems for Multimedia Applications. citation:-1
+title:Role Ordering Scheduler for Concurrency Control in Distributed Objects. citation:-1
+title:Causally Ordering Group Communication Protocol. citation:-1
+title:Fault-tolerant causal delivery in group communication. citation:-1
+title:Communication protocol for group of distributed objects. citation:-1
+title:Delta-Causality in Wide-Area Group Communications. citation:-1
+title:Optimization of Nested Invocation on Replicas in Object-Based Systems. citation:-1
+title:Transactional Agent on Distributed Objects. citation:-1
+title:Causal Precedent Relations among Messages in Object-Based Systems. citation:-1
+title:Synchronous Transmission of Real-Time Multimedia Data in Group Communication. citation:-1
+title:Charge-based Flooding Algorithm for Looking Up Multimedia Objects in Peer-to-Peer Overlay Networks. citation:-1
+title:A Secure Transaction Environment for Workflows in Distributed Systems. citation:-1
+title:Information Flow in a Purpose-Oriented Access Control Model. citation:-1
+title:QoS-Based Method for Compensating Multimedia Objects. citation:-1
+title:Byzantine Agreement Protocol using Hierarchical Groups. citation:-1
+title:A Legal Information flow (LIF) scheduler for distributed systems. citation:-1
+title:A Purpose-Based Synchronization Protocol of Multiple Transactions. citation:-1
+title:A Backward Algorithm in a Distributed Agreement Computing. citation:-1
+title:Object-Based Ordered Delivery of Messages in Object-Based Systems. citation:-1
+title:Three Dimensional Broadcast Protocol forWireless Networks. citation:-1
+title:Protocol for Pseudo-Active Replication in Wide-Area Network. citation:-1
+title:Hierarchical Protocol for Broadcast-Type Group Communication. citation:-1
+title:Quorum-Based Protocol for Group Communication. citation:-1
+title:Checkpoints in Distributed Object-Based Systems. citation:-1
+title:An Approach to Dynamic Ontology Integration for P2P/DAKS Coalitions. citation:-1
+title:An Enhanced Marketable Quality and Profitability Model for Network Service Pricing: Some Numerical Analysis. citation:-1
+title:Design and Evaluation of a Legal Information Flow (LIF) Scheduler in a Role-based Access Control Model. citation:-1
+title:Cooperation of Trustworthy Peers in P2P Overlay Networks. citation:-1
+title:Query Translation in Distributed Database. citation:-1
+title:Transaction Model of Automated Guided Vehicles. citation:-1
+title:Multimedia Environment for Real-Time Collaborative E-Business. citation:-1
+title:Scalable Peer-to-Peer Multimedia Streaming Model in Heterogeneous Networks. citation:-1
+title:Distributed Multimedia Streaming Systems in Peer-to-Peer Overlay Networks. citation:-1
+title:Hybrid Concurrency Control Protocol for Multimedia Objects. citation:-1
+title:Mobile Agent Model for Distributed Objects Systems. citation:-1
+title:Nested Invocation Protocol for Object-Based Systems. citation:-1
+title:Pseudo-Active Replication of Objects in Heterogeneous Clusters. citation:-1
+title:Quality-Based Compensation of Multimedia Objects. citation:-1
+title:A Fault-Tolerant Model ofWireless Sensor-Actor Network. citation:-1
+title:A Fault-Tolerant Transactional Agent Model on Distributed Objects. citation:-1
+title:Asynchronous Checkpointing Protocol for Object-Based Systems. citation:-1
+title:Acquaintance-based Protocol for Detecting Multimedia Objects in Peer-to-Peer Overlay Networks. citation:-1
+title:Efficient Data Transmission in a Lossy and Resource Limited Wireless Sensor-Actuator Network. citation:-1
+title:Logic Interface System on Navigational Database Systems. citation:-1
+title:Concurrent Execution of Prolog Transaction. citation:-1
+title:Consistent Lamport Clocks for Asynchronous Groups with Process Crashes. citation:-1
+title:Large-scale Group Communication Protocol for a Two-layered Group. citation:-1
+title:Logical Clocks for Unreliable Process Groups. citation:-1
+title:Transactional agent model for fault-tolerant object systems. citation:-1
+title:ELA: A Fully Distributed VPN System over Peer-to-Peer Network. citation:-1
+title:Trustworthiness in Peer-to-Peer Overlay Networks. citation:-1
+title:A Model for Manipulating Multimedia Objects in Peer-to-Peer Overlay Networks. citation:-1
+title:Timed Information Flow among Objects Based on Role Concept. citation:-1
+title:Group Communication in Distributed Multimedia Objects. citation:-1
+title:Concurrency Control on Distributed Objects using Role Ordering (RO) Scheduler. citation:-1
+title:Design and Implementation of Fault-Tolerant Transactional Agents for Manipulating Distributed Objects. citation:-1
+title:Flexible Group Protocol for Distributed Systems. citation:-1
+title:Design and Implementation of Transactional Agents. citation:-1
+title:SMIP: Striping Multimedia Communication Protocol for Large Scale Hierarchical Group. citation:-1
+title:An Asynchronous Multi-source Streaming Protocol for Scalable and Reliable Multimedia Communication. citation:-1
+title:Preventing Illegal Information Flow Based on Role-Based Access Control Model. citation:-1
+title:An Adaptive Call Admission Control Approach for Multimedia 3G Network. citation:-1
+title:Empirical Study of Design Pattern Usage in Peer-to-Peer Systems. citation:-1
+title:Role-Based Scheduling and Synchronization Algorithms to Prevent Illegal Information Flow. citation:-1
+title:Sensor-Actuator Communication Protocols in Wireless Networks. citation:-1
+title:Transfer Scheduling Schemes for Data-Intensive, Interactive Applications. citation:-1
+title:A Computing Model for Marketable Quality and Profitability of Corporations: A Case Study Evaluation Using a New Sources Data. citation:-1
+title:Implementation and Design of New Functions for a Web-Based E-learning System to Stimulate Learners Motivation. citation:-1
+title:An Intelligent Handoff System for Wireless Cellular Networks UsingFuzzy Logic and Random Walk Model. citation:-1
+title:Techniques for Efficient Resource Management for Context-Sensitive Mobile Applications. citation:-1
+title:Actuator-Device Coordination in a Reliable Sensor, Actuator, and Device Network (SADN). citation:-1
+title:A Distributed Coordination Algorithm for a Heterogeneous Group of Peers. citation:-1
+title:Leasing Variants in Distributed Systems. citation:-1
+title:A Superpeer-Based Two-Layer P2P Overlay Network with the CBF Strategy. citation:-1
+title:An Efficient Data Transmission Protocol in a Wireless Sensor-Actuator Network. citation:-1
+title:A mobile agent model for fault-tolerant manipulation on distributed objects. citation:-1
+title:Guest Editorial. citation:-1
+title:Delta-Causality and -delivery for wide-area group communications. citation:-1
+title:Causally ordered delivery in a hierarchical group of peer processes. citation:-1
+title:Heterogeneous Distributed Database System: JDDBS. citation:-1
+title:The Enhancement on Communication Stability in MANETs with Unit Disk Graph Model. citation:-1
+title:A marketable quality and profitability model: a case study for Japanese corporations. citation:-1
+title:Turning point from economies of scale to quality enhancement: a marketable quality and profitability model for corporations. citation:-1
+title:Quality-based synchronization methods of multimedia objects. citation:-1
+title:An enhanced network service pricing model considering network externalities. citation:-1
+title:HAMS: Scalable peer-to-peer multimedia streaming model in heterogeneous networks. citation:-1
+title:Significant Message Precedence in Object-Based Systems. citation:-1
+title:Distributed Workflows: A Framework for Electronic Commerce. citation:-1
+title:Locking Protocol For Information Flow Control. citation:-1
+title:Autonomic Group Communication Protocol. citation:-1
+title:Advanced Information Networking: P2P Systems and Distributed Applications - Foreword by Guest Editors. citation:-1
+title:Notification-Based QOS Control Protocol for Group Communication. citation:-1
+title:Service Oriented Cooperation among Trustworthy Peers. citation:-1
+title:Coordination protocols for a reliable sensor, actuator, and device network (SADN). citation:-1
+title:Design and evaluation of reliable data transmission protocol in wireless sensor networks. citation:-1
+title:Distributed multi-source streaming models in peer-to-peer overlay networks. citation:-1
+title:A data transmission protocol for reliable and energy-efficient data transmission in a wireless sensor-actuator network. citation:-1
+title:An autonomic group communication protocol for distributed applications. citation:-1
+title:Scalable multimedia streaming model in heterogeneous networks. citation:-1
+title:Zone-based congestion detection and control using routing method on the internet. citation:-1
+title:High-speed group communication protocol for exchanging real-time multimedia data. citation:-1
+title:A computing model for enhancing service quality and increasing profitability of corporations: model evaluation based on two different sources data. citation:-1
+title:A Fault-Tolerant Model of Wireless Sensor-Actuator Network. citation:-1
+title:Synchronous transmission protocol for exchanging real-time and non-real-time multimedia data in group communications. citation:-1
+title:A computing model for improving marketable quality and profitability of corporations. citation:-1
+title:Quorum-Based Multi-Invocation Model for Replicated Objects. citation:-1
+title:A legal information flow (LIF) scheduler based on role-based access control model. citation:-1
+title:Fault-Tolerant Flocking of Mobile Robots with Whole Formation Rotation. citation:-1
+title:A Protocol for Releasing Purpose Marks to Prevent Illegal Information Flow. citation:-1
+title:Serial and Parallel Transmission Models for Multi-source Streaming of Multimedia Objects. citation:-1
+title:A Purpose Marking and Releasing Protocol for Information Flow Control. citation:-1
+title:Trustworthy Cooperation among Peers. citation:-1
+title:Recoverable Cut Based Coordination Protocol for Peer Processes. citation:-1
+title:Energy-Efficient Process Allocation Algorithms in Peer-to-Peer Systems. citation:-1
+title:Minimizing Power Consumption with Performance Efficiency Constraint in Web Server Clusters. citation:-1
+title:Self-stabilized Flocking of a Group of Mobile Robots under Memory Corruption. citation:-1
+title:Evaluation of Purpose Mark Releasing Protocol for Purpose-based Marking (PM) Protocol. citation:-1
+title:A Redundant Data Transmission Protocol for a Wireless Sensor Network. citation:-1
+title:A Backward Strategy in a Peer-to-Peer Agreement Protocol. citation:-1
+title:Efficiently Making Agreement among Peer Processes by Using Recoverable Cuts. citation:-1
+title:Models for P2P Multi-Source Streaming. citation:-1
+title:Evaluation of a Purpose-Based Marking (PM) Protocol for Secure Distributed Systems. citation:-1
+title:Subjective and Objective Types of Trustworthiness in Peer-to-Peer(P2P) Overlay Networks. citation:-1
+title:A Scalable Peer-to-Peer Group Communication Protocol. citation:-1
+title:Trustworthiness among Peer Processes in Distributed Agreement Protocol. citation:-1
+title:Mobility Effects of Wireless Multi-hop Networks in Indoor Scenarios. citation:-1
+title:Proceedings of the 2005 International Conference on Pervasive Systems and Computing, PSC 2005, Las Vegas, Nevada, June 27-30, 2005 citation:-1
+title:Database and Expert Systems Applications, 15th International Conference, DEXA 2004 Zaragoza, Spain, August 30-September 3, 2004, Proceedings citation:-1
+title:Network-Based Information Systems, First International Conference, NBiS 2007, Regensburg, Germany, September 3-7, 2007, Proceedings citation:-1
+title:Network-Based Information Systems, 2nd International Conference, NBiS 2008, Turin, Italy, September 1-5, 2008. Proceedings citation:-1
+title:NBiS 2009, 12th International Conference on Network-Based Information Systems, Indianapolis, Indiana, USA, 19-21 August 2009 citation:-1
+title:A flexible group communication protocol with hybrid clocks. citation:-1
+title:Laxity-based process allocation algorithms to reduce power consumptions in peer-to-peer overlay networks. citation:-1
+title:Reduction of Messages Unnecessarily Ordered in Scalable Group Communication. citation:-1
+title:An MPR-based Solution for Flooding Broadcast Messages in Distributed Agreement Protocols. citation:-1
+title:Trustworthiness of Acquaintances in Peer-to-Peer(P2P) Overlay Networks. citation:-1
+title:A purpose-based synchronisation protocol of multiple transactions in multi-agent systems. citation:-1
+title:Design of a Hierarchical Group to Realize a Scalable Group. citation:-1
+title:Techniques for the Efficient Resource Management of Context-Sensitive Mobile Applications and Their Utilization in Industrial Field Service. citation:-1
+title:Data Transmission Procedures for a Multi-Source Streaming Model in Mobile Peer-to-Peer (P2P) Overlay Networks. citation:-1
+title:Heterogeneous clock group protocol for causally ordered delivery of messages. citation:-1
+title:Design and implementation of transactional agent. citation:-1
+title:A protocol for reliably, flexibly, and efficiently making agreement among peers. citation:-1
+title:Spatio-temporal resolution enhancement of video sequence based on super-resolution reconstruction. citation:-1
+title:Fault-tolerant flocking for a group of autonomous mobile robots. citation:-1
+title:Special issue on the information networking and services. citation:-1
+title:Transactional agents on distributed object systems. citation:-1
+title:Design of the notification system for failure detectors. citation:-1
+title:The 13th International Conference on Network-Based Information Systems, NBiS 2010, Takayama, Gifu, Japan, 14-16 September 2010 citation:-1
+title:Confidence and Trustworthiness in Peer-to-Peer Overlay Networks. citation:-1
+title:Hybrid Clock-Based Synchronization in a Scalable Heterogeneous Group. citation:-1
+title:A Comparison Study between Simulation and Experimental Results for MANETs. citation:-1
+title:Trustworthy acquaintances in Peer-to-Peer (P2P) overlay networks. citation:-1
+title:A marketable quality and profitability model for corporations considering sellers and buyers market. citation:-1
+title:Special issue on emerging trends in ubiquitous computing systems. citation:-1
+title:Performance analysis of multi-hop ad-hoc network using multi-flow traffic for indoor scenarios. citation:-1
+title:A Marketable Quality and Profit-ability Model Considering Service Providers and Consumers Relation. citation:-1
+title:A Multi-layered Model for Scalable Group Communication in P2P Overlay Networks. citation:-1
+title:An Integrated Power Consumption Model for Communication and Transaction Based Applications. citation:-1
+title:Experimental Results of a MANET Testbed in Indoor Stairs Environment. citation:-1
+title:Trustworthiness-Based Broadcast Algorithm in Scalable P2P Group. citation:-1
+title:A Study on the Performance of Search Methods for Mesh Router Nodes Placement Problem. citation:-1
+title:Objective Trustworthiness of Acquaintances in Peer-to-Peer (P2P) Overlay Networks. citation:-1
+title:Analysis of MANET Routing Protocols for Indoor Environment. citation:-1
+title:Application of Genetic Algorithms for QoS Routing in Mobile Ad Hoc Networks: A Survey. citation:-1
+title:Reliable Message Broadcast Schemes in Distributed Agreement Protocols. citation:-1
+title:Tuning Operators of Genetic Algorithms for Mesh Routers Placement Problem in Wireless Mesh Networks. citation:-1
+title:Energy-Efficient Server Selection Algorithms for Network Applications. citation:-1
+title:Two Types of Trustworthiness of Acquaintances in Peer-to-Peer (P2P) Overlay Networks. citation:-1
+title:A scalable group communication protocol with hybrid clocks. citation:-1
+title:Towards a smart world and ubiquitous intelligence: A walkthrough from smart things to smart hyperspaces and UbicKids. citation:-1
+title:QoS routing in ad-hoc networks using GA and multi-objective optimization. citation:-1
+title:An extended power consumption-based algorithm for communication-based applications. citation:-1
+title:Special issue on emerging trends in cyber-physical systems. citation:-1
+title:Danger warning via fuzzy inference in an RFID-deployed environment. citation:-1
+title:Energy-Efficient Agreement Protocols in P2P Overlay Networks. citation:-1
+title:Quorum-Based Replication of Multimedia Objects in Distributed Systems. citation:-1
+title:Performance Evaluation of WMN Using WMN-GA System for Different Mutation Operators. citation:-1
+title:Performance Evaluation of Wireless Mobile Ad-Hoc Network via NS-3 Simulator. citation:-1
+title:The Computation and Transmission Rate Based (CTRB) Algorithm for Distributed Applications. citation:-1
+title:The 14th International Conference on Network-Based Information Systems, NBiS 2011, Tirana, Albania, September 7-9, 2011 citation:-1
+title:Virtual Common Gateway Interface Program on the Network Using the Destination Addressing Control System Scheme. citation:-1
+title:A Power Consumption Model of a Storage Server. citation:-1
+title:Trustworthiness-Based Group Making Approach in Scalable P2P Group. citation:-1
+title:Application of GA and Multi-objective Optimization for QoS Routing in Ad-Hoc Networks. citation:-1
+title:Optimization Problems and Resolution Methods for Node Placement in Wireless Mesh Networks. citation:-1
+title:Performance Evaluation of Wireless Sensor Networks for Mobile Sensor Nodes Considering Goodput and Depletion Metrics. citation:-1
+title:The Rails Toolkit - Enabling End-System Topology-Aware High End Computing. citation:-1
+title:A GA-based System for WMN and its Performance Evaluation for Different Scenarios. citation:-1
+title:An Algorithm for Reducing the Total Power Consumption Based on the Computation and Transmission Rates. citation:-1
+title:Wireless Ad-hoc Networks Performance Evaluation Using NS-2 and NS-3 Network Simulators. citation:-1
+title:A Study on the Effect of Mutation in Genetic Algorithms for Mesh Router Placement Problem in Wireless Mesh Networks. citation:-1
+title:Quorum-based Synchronization Protocol of Object Replicas in Scalable Distributed Systems. citation:-1
+title:A TTF-Based Programming Model and a Support Kernel Running on a Communicating Sensor Platform. citation:-1
+title:Evaluation of Hybridization of GA and TS Algorithms for Independent Batch Scheduling in Computational Grids. citation:-1
+title:Multi-hop Wireless Networks Performance Evaluation via NS-3 Simulator. citation:-1
+title:Effects of Mutation and Crossover in Genetic Algorithms for Node Placement in WMNs Considering Giant Component Parameter. citation:-1
+title:Energy Efficient Distributed Systems for Storage-Based Applications. citation:-1
+title:Performance evaluation for different settings of crossover and mutation rates considering number of covered users: a case study. citation:-1
+title:Enriching and Impoverishing Types of Write Operations in the Multimedia Quorum-based (MQB) Protocol. citation:-1
+title:Evaluation of the Improved EPCLB Algorithm for Distributed Applications. citation:-1
+title:Energy Efficient Distributed Systems for Storage Servers. citation:-1
+title:An Event-based Approach to Supporting Team Coordination and Decision Making in Disaster Management Scenarios. citation:-1
+title:A Tabu Search Algorithm for Efficient Node Placement in Wireless Mesh Networks. citation:-1
+title:Trustworthy Group Based Agreement Protocol in Scalable Distributed Networks. citation:-1
+title:Performance Evaluation and Comparison of Fuzzy-Based Intelligent CAC Systems for Wireless Cellular Networks. citation:-1
+title:Performance evaluation of WMN-GA for different mutation and crossover rates considering number of covered users parameter. citation:-1
+title:An Application-Oriented Power Consumption Model of Storage Servers. citation:-1
+title:Design and evaluation of algorithms for obtaining objective trustworthiness on acquaintances in P2P overlay networks. citation:-1
+title:A multi-layered model for scalable group communication with hybrid clocks. citation:-1
+title:IEEE 26th International Conference on Advanced Information Networking and Applications, AINA, 2012 , Fukuoka, Japan, March 26-29, 2012 citation:-1
+title:Effect of Population Size for Node Placement in WMNs Considering Giant Component and Number of Covered Users Parameters. citation:-1
+title:Evaluation of Genetic Algorithms for Single Ground Station Scheduling Problem. citation:-1
+title:Impact of Multi-flow Traffic in Wireless Mobile Ad-hoc Networks. citation:-1
+title:An Extended Power Consumption Model for Distributed Applications. citation:-1
+title:26th International Conference on Advanced Information Networking and Applications Workshops, WAINA 2012, Fukuoka, Japan, March 26-29, 2012 citation:-1
+title:Completable Quorums of Multimedia Objects. citation:-1
+title:Conflict Intersection as Diagnostic Model. citation:-1
+title:Algorithms for Selecting Energy-Efficient Storage Servers in Storage and Computation Oriented Applications. citation:-1
+title:Super-Resolution Reconstruction for Spatio-Temporal Resolution Enhancement of Video Sequences. citation:-1
+title:Parallel transmission model for real-time multi-source streaming of multimedia data in scalable networks. citation:-1
+title:A study on the effect of mutation in genetic algorithms for mesh router placement in wireless mesh networks. citation:-1
+title:A Purpose-based Synchronization Protocol for Secure Information Flow Control. citation:-1
+title:Scheduling Algorithms for Concurrently Streaming Multimedia Objects in P2P Overlay Networks. citation:-1
+title:A Fuzzy-Based Cluster-Head Selection System for WSNs: A Comparison Study for Static and Mobile Sensors. citation:-1
+title:Energy-Efficient Server Selection Algorithm Based on the Extended Simple Power Consumption Model. citation:-1
+title:Quorums for Replication of Multimedia Objects in P2P Overlay Networks. citation:-1
+title:Congestion Control for Multi-flow Traffic in Wireless Mobile Ad-Hoc Networks. citation:-1
+title:Performance Investigation of a MANET Testbed in Outdoor Stairs Environment for Different Scenarios. citation:-1
+title:Multimedia Transmissions over a MANET Testbed: Problems and Issues. citation:-1
+title:Trustworthiness-based Group Communication Protocols. citation:-1
+title:Energy-Aware Distributed Systems for Computation and Storage-Based Applications. citation:-1
+title:Performance Evaluation of WMN-GA System for Low Densities of Clients and Different Settings of Population Size. citation:-1
+title:Hybrid algorithms for independent batch scheduling in grids. citation:-1
+title:Performance Evaluation of WMN-GA Simulation System for Different Settings of Genetic Operators Considering Giant Component and Number of Covered Users. citation:-1
+title:Evaluation of WMN-GA for different mutation operators. citation:-1
+title:Trustworthy-based efficient data broadcast model for P2P interaction in resource-constrained wireless environments. citation:-1
+title:A Struggle Genetic Algorithm for Ground Stations Scheduling Problem. citation:-1
+title:15th International Conference on Network-Based Information Systems, NBiS 2012, Melbourne, Australia, September 26-28, 2012 citation:-1
+title:TCP Congestion Control in MANETs for Multiple Traffic Considering Proactive and Reactive Routing Protocols. citation:-1
+title:Performance Evaluation of DYMO Protocol in Different VANET Scenarios. citation:-1
+title:A Fuzzy-Based Simulation System for Controlling Sensor Speed in Wireless Sensor Networks. citation:-1
+title:The Extended Transmission Power Consumption Model for Communication-Based Applications. citation:-1
+title:Simulation Performance of a MANET Using Static Source and Destination Considering AODV Routing Protocol. citation:-1
+title:Trustworthy Group Formation Algorithm Based on Decentralized Trust Management in Distributed Systems. citation:-1
+title:Evaluation of an Energy-Aware Selection Algorithm for Computation and Storage-Based Applications. citation:-1
+title:An Implementation of Visualization System for Visualizing Network Topology and Packet Flow in Mobile Ad Hoc Networks. citation:-1
+title:Data Replication in P2P Collaborative Systems. citation:-1
+title:Object-based precedency of messages in object-based systems. citation:-1
+title:Protocol for groups of pseudo-active replicated objects. citation:-1
+title:Object-based message ordering in group communication. citation:-1
+title:An Efficient Hybrid Medium Access Control Technique for Digital Ecosystems. citation:-1
+title:An Integrated Power Consumption Model for Distributed Systems. citation:-1
+title:Performance Evaluation of AODV Protocol for Single and Multiple Traffic in MANETs Considering Packet Delivery Fraction Parameter. citation:-1
+title:Performance Evaluation of MANET Routing Protocols: Simulations and Experiments. citation:-1
+title:Reliable and Efficient Way to Broadcast Messages in a Group by Trust-Based Broadcast (TBB) Scheme. citation:-1
+title:Purpose-Based Information Flow Control for Cyber Engineering. citation:-1
+title:Communication Protocols in Layered Groups with Heterogeneous Clocks. citation:-1
+title:Design Pattern Usage in Grid Computing. citation:-1
+title:Transmission Power Consumption Laxity-Based (TPCL) Algorithm for Communication Type Applications. citation:-1
+title:Using Data Replication for Improving QoS in MANETs. citation:-1
+title:Concept of the Support System for Operation and Management of DACS System. citation:-1
+title:Impact of Population Size and Number of Generations on the Performance of Dense WMNs. citation:-1
+title:Setting Up Static Components for Investigating MANET Performance: A Simulation Case. citation:-1
+title:A Redundant Power Consumption Laxity-Based (RPCLB) Algorithm for Computation Type Applications. citation:-1
+title:Evaluation of the Algorithms for Selecting an Energy-efficient Storage Server in Storage and Computation Oriented Applications. citation:-1
+title:Performance Evaluation of WSNs for MAC and Routing Protocols Considering Depletion and Routing Efficiency Metrics. citation:-1
+title:Mobile Peer-to-Peer data dissemination in wireless ad-hoc networks. citation:-1

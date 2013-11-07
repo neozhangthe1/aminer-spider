@@ -1,0 +1,47 @@
+title1:Creating data resources for designing user-centric frontends for query by humming systems. title2:Creating data resources for designing usercentric frontends for query-by-humming systems citation:12 ncitation:11 pid2433559
+title1:Hybrid global-local motion compensated frame interpolation for low bit rate video coding. citation:16 ncitation:14 pid2233713
+title1:Fast compression artifact reduction technique based on nonlinear filtering. title2:Fast compression artifact reduction technique based on nonlinear filtering citation:15 ncitation:14 pid1116567
+title1:Adaptive speaker identification with audiovisual cues for movie content analysis. title2:Adaptive speaker identification with audiovisual cues for movie content analysis citation:14 ncitation:14 pid2193300
+title1:Rule-based video classification system for basketball video indexing. title2:Rule-based video classification system for basketball video indexing citation:183 ncitation:173 pid426860
+title1:Color Distribution Analysis and Quantization for Image Retrieval. title2:Color distribution analysis and quantization for image retrieval citation:102 ncitation:100 pid993000
+title1:Inference of missing SNPs and information quantity measurements for haplotype blocks. title2:Inference of missing SNPs and information quantity measurements for haplotype blocks citation:20 ncitation:19 pid1631746
+title1:Heuristic approach for generic audio data segmentation and annotation. title2:Heuristic approach for generic audio data segmentation and annotation citation:108 ncitation:104 pid503230
+title1:Creating data resources for designing usercentric frontends for query-by-humming systems. title2:Creating data resources for designing usercentric frontends for query-by-humming systems citation:12 ncitation:11 pid322413
+title1:Optimized mesh and texture multiplexing for progressive textured model transmission. title2:Optimized mesh and texture multiplexing for progressive textured model transmission citation:21 ncitation:17 pid992945
+title1:Multiscale video compression using wavelet transform and motion compensation. title2:Multiscale video compression using wavelet transform and motion compensation citation:30 ncitation:25 pid1174654
+title1:TCP over multihop 802.11 networks: issues and performance enhancement. title2:TCP over multihop 802.11 networks: issues and performance enhancement citation:155 ncitation:148 pid421425
+title1:Iterative detection and frequency synchronization for OFDMA uplink transmissions. title2:Iterative detection and frequency synchronization for OFDMA uplink transmissions citation:72 ncitation:58 pid1097011
+title1:Technologies for 3D mesh compression: A survey. title2:Technologies for 3D mesh compression: A survey citation:185 ncitation:158 pid506425
+title1:Geometry-guided progressive lossless 3D mesh coding with octree (OT) decomposition. title2:Geometry-guided progressive lossless 3D mesh coding with octree (OT) decomposition citation:101 ncitation:86 pid427422
+title1:Environmental sound recognition using MP-based features. title2:Environmental sound recognition using MP-based features citation:66 ncitation:51 pid1097784
+title1:Improved H.263+ Rate Control via Variable Frame Rate Adjustment and Hybrid I-Frame Coding. title2:Improved H. 263+ rate control via variable frame rate adjustment and hybrid I-frame coding citation:12 ncitation:11 pid2191723
+title1:Content-based movie analysis and indexing based on audiovisual cues. title2:Content-based movie analysis and indexing based on audiovisual cues citation:78 ncitation:66 pid705454
+title1:Fast H.264 Intra-prediction mode selection using joint spatial and transform domain features. title2:Fast H. 264 intra-prediction mode selection using joint spatial and transform domain features citation:49 ncitation:44 pid1119442
+title1:MPEG-4 FGS video streaming with constant-quality rate control and differentiated forwarding. title2:MPEG-4 FGS video streaming with constant-quality rate control and differentiated forwarding citation:39 ncitation:38 pid1097059
+title1:Efficient block-based intra prediction for image coding with 2D geometrical manipulations. title2:Efficient block-based intra prediction for image coding with 2D geometrical manipulations citation:12 ncitation:13 pid299148
+title1:A multiscale error diffusion technique for digital halftoning. title2:A multiscale error diffusion technique for digital halftoning citation:62 ncitation:56 pid422024
+title1:Non-Rigid Ultrasound Image Registration Based on Intensity and Local Phase Information. title2:Non-rigid ultrasound image registration based on intensity and local phase information citation:13 ncitation:12 pid706126
+title1:QoS-aware radio resource management scheme for CDMA cellular networks based on dynamic interference guard margin (IGM). title2:QoS-aware radio resource management scheme for CDMA cellular networks based on dynamic interference guard margin (IGM) citation:11 ncitation:9 pid422588
+title1:Real-Time Compression Artifact Reduction Via Robust Nonlinear Filtering. title2:Real-time compression artifact reduction via robust nonlinear filtering citation:16 ncitation:15 pid993275
+title1:On-line knowledge- and rule-based video classification system for video indexing and dissemination. title2:On-line knowledge-and rule-based video classification system for video indexing and dissemination citation:28 ncitation:26 pid129895
+title1:Shape from Shading with a Generalized Reflectance Map Model. title2:Shape from shading with a generalized reflectance map model citation:91 ncitation:80 pid2190708
+title1:Implementation and Performance Evaluation of a Progressive Image Retrieval System. title2:Implementation and performance evaluation of a progressive image retrieval system citation:13 ncitation:15 pid276009
+title1:Semantic Video Content Abstraction Based On Multiple Cues. title2:Semantic Video Content Abstraction Based On Multiple Cues. citation:33 ncitation:29 pid325017
+title1:Indexing, Retrieval, and Browsing of Wavelet Compressed Imagery Data. title2:Indexing, Retrieval, and Browsing of Wavelet Compressed Imagery Data. citation:15 ncitation:12 pid331251
+title1:Aging analysis in large-scale wireless sensor networks. title2:Aging analysis in large-scale wireless sensor networks citation:10 ncitation:10 pid689281
+title1:Ultrawideband Transceiver Design Using Channel Phase Precoding. title2:Ultrawideband transceiver design using channel phase precoding citation:16 ncitation:16 pid1097456
+title1:An Integrated Approach to Image Watermarking and JPEG-2000 Compression. title2:An integrated approach to image watermarking and JPEG-2000 compression citation:55 ncitation:51 pid1229278
+title1:Early Determination of Zero-Quantized 8 , , 8 DCT Coefficients. citation:15 ncitation:12 pid2678613
+title1:Block-based image steganalysis: Algorithm and performance evaluation. title2:Block-based image steganalysis: Algorithm and performance evaluation citation:10 ncitation:6 pid2716351
+title1:Perceptual visual quality metrics: A survey. title2:Perceptual visual quality metrics: A survey citation:104 ncitation:53 pid2170423
+title1:Multimedia Encryption with Joint Randomized Entropy Coding and Rotation in Partitioned Bitstream. title2:Multimedia encryption with joint randomized entropy coding and rotation in partitioned bitstream citation:16 ncitation:13 pid1175023
+title1:Rate control for an embedded wavelet video coder. title2:Rate control for an embedded wavelet video coder citation:90 ncitation:85 pid2872445
+title1:Audio content analysis for online audiovisual data segmentation and classification. title2:Audio content analysis for online audiovisual data segmentation and classification citation:375 ncitation:361 pid2901171
+title1:Fragile speech watermarking based on exponential scale quantization for tamper detection. title2:Fragile speech watermarking based on exponential scale quantization for tamper detection citation:35 ncitation:29 pid2916595
+title1:Identification of speakers in movie dialogs using audiovisual cues. title2:Identification of speakers in movie dialogs using audiovisual cues citation:11 ncitation:12 pid2935261
+title1:A spatial-domain error concealment method with edge recovery and selective directional interpolation. title2:A spatial-domain error concealment method with edge recovery and selective directional interpolation citation:40 ncitation:38 pid2976762
+title1:Multidimensional humming transcription using a statistical approach for query by humming systems. title2:Multidimensional humming transcription using a statistical approach for query by humming systems citation:15 ncitation:15 pid2981705
+title1:Dynamic call admission control and resource reservation with interference guard margin (IGM) for CDMA systems. title2:Dynamic call admission control and resource reservation with interference guard margin (IGM) for CDMA systems citation:17 ncitation:15 pid3136564
+title1:Improved priority access, bandwidth allocation and traffic scheduling for DOCSIS cable networks. title2:Improved priority access, bandwidth allocation and traffic scheduling for DOCSIS cable networks citation:27 ncitation:None pid3287720
+title1:A dynamic error concealment for video transmission over noisy channels. title2:A dynamic error concealment for video transmission over noisy channels citation:16 ncitation:-1 pid3327756
+title1:Fractal wavelet coding using a rate-distortion constraint. title2:Fractal wavelet coding using a rate-distortion constraint citation:9 ncitation:None pid3368755

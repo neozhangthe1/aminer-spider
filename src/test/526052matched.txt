@@ -1,0 +1,246 @@
+title1:SVMs, Gaussian mixtures, and their generative/discriminative fusion. title2:SVMs, gaussian mixtures, and their generative/discriminative fusion citation:3 ncitation:2 pid1701181
+title1:Eine Entwicklungsumgebung für die interdisziplinäre Zusammenarbeit bei der Entwicklung des Image-Retrieval-Systems IRMA. citation:5 ncitation:-1 pid350583
+title1:Features for image retrieval: an experimental comparison. title2:Features for image retrieval: an experimental comparison citation:257 ncitation:199 pid1658855
+title1:CDER: Efficient MT Evaluation Using Block Movements. title2:CDER: Efficient MT Evaluation Using Block Movements. citation:64 ncitation:56 pid2297035
+title1:Jointly optimising relevance and diversity in image retrieval. title2:Jointly optimising relevance and diversity in image retrieval citation:29 ncitation:21 pid64083
+title1:Learning weighted distances for relevance feedback in image retrieval. title2:Learning weighted distances for relevance feedback in image retrieval citation:27 ncitation:21 pid937618
+title1:Improving SMT quality with morpho-syntactic analysis. title2:Improving SMT quality with morpho-syntactic analysis citation:62 ncitation:59 pid163640
+title1:Automatische Spracherkennung: Architektur und Suchstrategie aus statistischer Sicht. title2:Automatische Spracherkennung: Architektur und Suchstrategie aus statistischer Sicht citation:6 ncitation:7 pid1239638
+title1:Look-ahead techniques for fast beam search. title2:Look-ahead techniques for fast beam search citation:95 ncitation:61 pid1704859
+title1:Combination of Tangent Vectors and Local Representations for Handwritten Digit Recognition. title2:Combination of tangent vectors and local representations for handwritten digit recognition citation:39 ncitation:34 pid350551
+title1:A Mixture Density Based Approach to Object Recognition for Image Retrieval. title2:A Mixture Density Based Approach to Object Recognition for Image Retrieval. citation:19 ncitation:21 pid107815
+title1:Continuous speech dictation - From theory to practice. citation:21 ncitation:17 pid478223
+title1:Using a Bilingual Context in Word-Based Statistical Machine Translation. title2:Using a Bilingual Context in Word-Based Statistical Machine Translation. citation:1 ncitation:1 pid901474
+title1:Quantile based histogram equalization for noise robust large vocabulary speech recognition. title2:Quantile based histogram equalization for noise robust large vocabulary speech recognition citation:56 ncitation:48 pid1817416
+title1:FIRE in ImageCLEF 2005: Combining Content-Based Image Retrieval with Textual Information Retrieval. title2:FIRE in ImageCLEF 2005: Combining content-based image retrieval with textual information retrieval citation:51 ncitation:51 pid2756191
+title1:A DP based Search Using Monotone Alignments in Statistical Translation. title2:A DP based search using monotone alignments in statistical translation citation:95 ncitation:94 pid618840
+title1:Bag-of-visual-words models for adult image classification and filtering. title2:Bag-of-visual-words models for adult image classification and filtering citation:69 ncitation:58 pid1638819
+title1:Appearance-Based Recognition of Words in American Sign Language. title2:Appearance-based recognition of words in american sign language citation:29 ncitation:26 pid1228672
+title1:A DP based Search Algorithm for Statistical Machine Translation. title2:A DP based search algorithm for statistical machine translation citation:75 ncitation:74 pid552580
+title1:Tracking Using Dynamic Programming for Appearance-Based Sign Language Recognition. title2:Tracking using dynamic programming for appearance-based sign language recognition citation:38 ncitation:32 pid1144032
+title1:Computing Consensus Translation for Multiple Machine Translation Systems Using Enhanced Hypothesis Alignment. title2:Computing Consensus Translation for Multiple Machine Translation Systems Using Enhanced Hypothesis Alignment. citation:157 ncitation:142 pid1228798
+title1:An Overview of the Philips Research System for Large Vocabulary Continuous Speech Recognition. title2:An overview of the Philips research system for large vocabulary continuous speech recognition citation:40 ncitation:33 pid347746
+title1:A Comparison of Alignment Models for Statistical Machine Translation. title2:A comparison of alignment models for statistical machine translation citation:193 ncitation:178 pid99172
+title1:Translation with Cascaded Finite State Transducers. title2:Translation with cascaded finite state transducers citation:16 ncitation:17 pid21456
+title1:HMM-Based Word Alignment in Statistical Translation. title2:HMM-based word alignment in statistical translation citation:620 ncitation:582 pid350162
+title1:Learning of Variability for Invariant Statistical Pattern Recognition. title2:Learning of variability for invariant statistical pattern recognition citation:24 ncitation:22 pid1229032
+title1:Enhancing a Sign Language Translation System with Vision-Based Features. title2:Enhancing a sign language translation system with vision-based features citation:21 ncitation:20 pid262713
+title1:Automatic Filtering of Bilingual Corpora for Statistical Machine Translation. title2:Automatic filtering of bilingual corpora for statistical machine translation citation:18 ncitation:17 pid1941717
+title1:Algorithms for bigram and trigram word clustering. title2:Algorithms for bigram and trigram word clustering1 citation:174 ncitation:152 pid2756142
+title1:Word-Level Confidence Estimation for Machine Translation using Phrase-Based Translation Models. title2:Word-level confidence estimation for machine translation using phrase-based translation models citation:31 ncitation:28 pid205921
+title1:Experiments with an Extended Tangent Distance. title2:Experiments with an extended tangent distance citation:60 ncitation:55 pid163659
+title1:Local Context in Non-Linear Deformation Models for Handwritten Character Recognition. title2:Local context in non-linear deformation models for handwritten character recognition citation:40 ncitation:37 pid108359
+title1:Speaker adaptive modeling by vocal tract normalization. title2:Speaker adaptive modeling by vocal tract normalization citation:85 ncitation:75 pid21498
+title1:The 2005 PASCAL Visual Object Classes Challenge. title2:The 2005 pascal visual object classes challenge citation:169 ncitation:155 pid2313249
+title1:Statistical Machine Translation of German Compound Words. title2:Statistical machine translation of German compound words citation:29 ncitation:24 pid1704406
+title1:Combined Classification of Handwritten Digits Using the 'Virtual Test Sample Method'. title2:Combined classification of handwritten digits using the 'virtual test sample method' citation:24 ncitation:22 pid172299
+title1:Bridging the Gap between Naive Bayes and Maximum Entropy Text Classification. title2:Bridging the Gap between Naive Bayes and Maximum Entropy Text Classification. citation:5 ncitation:4 pid2417088
+title1:White-space models for offline Arabic handwriting recognition. title2:White-space models for offline Arabic handwriting recognition citation:30 ncitation:23 pid1724527
+title1:Joint-sequence models for grapheme-to-phoneme conversion. title2:Joint-sequence models for grapheme-to-phoneme conversion citation:198 ncitation:145 pid238394
+title1:Modeling spontaneous speech variability in professional dictation. title2:Modeling spontaneous speech variability in professional dictation citation:4 ncitation:3 pid518472
+title1:Writer Adaptive Training and Writing Variant Model Refinement for Offline Arabic Handwriting Recognition. title2:Writer adaptive training and writing variant model refinement for offline arabic handwriting recognition citation:23 ncitation:15 pid2307957
+title1:Confidence-Based Discriminative Training for Model Adaptation in Offline Arabic Handwriting Recognition. title2:Confidence-based discriminative training for model adaptation in offline Arabic handwriting recognition citation:23 ncitation:22 pid1228256
+title1:Improvements in Phrase-Based Statistical Machine Translation. title2:Improvements in Phrase-Based Statistical Machine Translation. citation:198 ncitation:187 pid552496
+title1:Statistical Approaches to Computer-Assisted Translation. title2:Statistical approaches to computer-assisted translation citation:92 ncitation:68 pid511421
+title1:On the Estimation of 'Small' Probabilities by Leaving-One-Out. title2:On the estimation ofsmall'probabilities by leaving-one-out citation:124 ncitation:122 pid347273
+title1:Combination of Tangent Distance and an Image Distortion Model for Appearance-Based Sign Language Recognition. title2:Combination of tangent distance and an image distortion model for appearance-based sign language recognition citation:20 ncitation:19 pid347275
+title1:Classification Error Rate for Quantitative Evaluation of Content-based Image Retrieval Systems. title2:Classification error rate for quantitative evaluation of content-based image retrieval systems citation:45 ncitation:37 pid1229325
+title1:Integrated Handwriting Recognition And Interpretation Using Finite-State Models. title2:Integrated handwriting recognition and interpretation using finite-state models citation:76 ncitation:65 pid1909548
+title1:Comparison of Log-linear Models and Weighted Dissimilarity Measures. title2:Comparison of log-linear models and weighted dissimilarity measures citation:3 ncitation:2 pid501246
+title1:Continous-Speech Recognition in the SPICOS-II System. title2:Continuous-Speech Recognition in the SPICOS-II System citation:1 ncitation:1 pid206477
+title1:A Comparative Study of Two Search Strategies for Connected Word Recognition: Dynamic Programming and Heuristic Search. title2:A comparative study of two search strategies for connected word recognition: Dynamic programming and heuristic search citation:24 ncitation:19 pid206519
+title1:Spracherkennung mit stochastischen Grammatiken: Wissensrepräsentation, Architektur und Suchstrategie. citation:1 ncitation:1 pid2739540
+title1:Statistical Machine Translation with Scarce Resources Using Morpho-syntactic Information. title2:Statistical machine translation with scarce resources using morpho-syntactic information citation:144 ncitation:133 pid1970762
+title1:Refined Lexikon Models for Statistical Machine Translation Using a Maximum Entropy Approach. title2:Refined lexicon models for statistical machine translation using a maximum entropy approach citation:40 ncitation:37 pid2750095
+title1:On the Probabilistic Interpretation of Neural Network Classifiers and Discriminative Training Criteria. title2:On the probabilistic interpretation of neural network classifiers and discriminative training criteria citation:86 ncitation:81 pid1413580
+title1:FSA: An Efficient and Flexible C++ Toolkit for Finite State Automata Using On-Demand Computation. title2:FSA: An efficient and flexible C++ toolkit for finite state automata using on-demand computation citation:44 ncitation:45 pid490985
+title1:Pan, zoom, scan - Time-coherent, trained automatic video cropping. citation:47 ncitation:40 pid552560
+title1:Comparison of discriminative training criteria and optimization methods for speech recognition. title2:Comparison of discriminative training criteria and optimization methods for speech recognition citation:97 ncitation:91 pid350640
+title1:Image Retrieval and Annotation Using Maximum Entropy. title2:Image retrieval and annotation using maximum entropy citation:20 ncitation:19 pid2289634
+title1:Efficient Search for Interactive Statistical Machine Translation. title2:Efficient search for interactive statistical machine translation citation:41 ncitation:36 pid1143307
+title1:Deformation Models for Image Recognition. title2:Deformation models for image recognition citation:90 ncitation:72 pid1142828
+title1:Efficient Phrase-Table Representation for Machine Translation with Applications to Online MT and Speech Translation. title2:Efficient Phrase-Table Representation for Machine Translation with Applications to Online MT and Speech Translation. citation:33 ncitation:31 pid2301233
+title1:Triplet Lexicon Models for Statistical Machine Translation. title2:Triplet lexicon models for statistical machine translation citation:29 ncitation:27 pid1246166
+title1:System Combination for Machine Translation of Spoken and Written Language. title2:System combination for machine translation of spoken and written language citation:41 ncitation:34 pid41372
+title1:Effect of Feature Smoothing Methods in Text Classification Tasks. title2:Effect of Feature Smoothing Methods in Text Classification Tasks. citation:17 ncitation:17 pid2770075
+title1:From within-word model search to across-word model search in large vocabulary continuous speech recognition. title2:From within-word model search to across-word model search in large vocabulary continuous speech recognition citation:23 ncitation:22 pid510902
+title1:Objektklassifikation mit Mischverteilungen. title2:Objektklassifikation mit Mischverteilungen citation:10 ncitation:7 pid2756254
+title1:The Alignment Template Approach to Statistical Machine Translation. title2:The alignment template approach to statistical machine translation citation:710 ncitation:644 pid1032580
+title1:Discriminative Training of Gaussian Mixtures for Image Object Recognition. title2:Discriminative training of Gaussian mixtures for image object recognition citation:28 ncitation:26 pid2754786
+title1:Parameter Estimation for Automatic Dose Control in Radioscopy. title2:Parameter Estimation for Automatic Dose Control in Radioscopy citation:1 ncitation:1 pid136608
+title1:Classification of Medical Images using Non-linear Distortion Models. title2:Classification of medical images using non-linear distortion models citation:43 ncitation:38 pid1928500
+title1:A Systematic Comparison of Various Statistical Alignment Models. title2:A systematic comparison of various statistical alignment models citation:2404 ncitation:2078 pid1209454
+title1:Reversing and Smoothing the Multinomial Naive Bayes Text Classifier. title2:Reversing and Smoothing the Multinomial Naive Bayes Text Classifier. citation:21 ncitation:19 pid2750520
+title1:Pixel-to-Pixel Matching for Image Recognition Using Hungarian Graph Matching. title2:Pixel-to-pixel matching for image recognition using hungarian graph matching citation:16 ncitation:14 pid347418
+title1:A Probabilistic View on Tangent Distance. title2:A probabilistic view on tangent distance citation:16 ncitation:14 pid2606238
+title1:Maximum Entropy and Gaussian Models for Image Object Recognition. title2:Maximum entropy and Gaussian models for image object recognition citation:26 ncitation:24 pid346453
+title1:Large vocabulary continuous speech recognition of Broadcast News - The Philips/RWTH approach. citation:39 ncitation:38 pid262485
+title1:Some approaches to statistical and finite-state speech-to-speech translation. title2:Some approaches to statistical and finite-state speech-to-speech translation citation:83 ncitation:80 pid2586669
+title1:Training and Recognition of Complex Scenes Using a Holistic Statistical Model. title2:Training and recognition of complex scenes using a holistic statistical model citation:4 ncitation:4 pid2756462
+title1:Using multiple acoustic feature sets for speech recognition. title2:Using multiple acoustic feature sets for speech recognition citation:22 ncitation:20 pid736269
+title1:Sparse Patch-Histograms for Object Classification in Cluttered Images. title2:Sparse patch-histograms for object classification in cluttered images citation:36 ncitation:32 pid163380
+title1:A Comparative Study on Reordering Constraints in Statistical Machine Translation. title2:A comparative study on reordering constraints in statistical machine translation citation:112 ncitation:100 pid1032292
+title1:Minimum Bayes Risk Decoding for BLEU. title2:Minimum Bayes risk decoding for BLEU citation:16 ncitation:16 pid20669
+title1:Matching training and test data distributions for robust speech recognition. title2:Matching training and test data distributions for robust speech recognition citation:23 ncitation:19 pid797503
+title1:Features for Image Retrieval: A Quantitative Comparison. title2:Features for image retrieval: A quantitative comparison citation:112 ncitation:105 pid20347
+title1:The CLEF 2005 Automatic Medical Image Annotation Task. title2:The CLEF 2005 automatic medical image annotation task citation:61 ncitation:57 pid2300575
+title1:Improving a Discriminative Approach to Object Recognition Using Image Patches. title2:Improving a discriminative approach to object recognition using image patches citation:30 ncitation:30 pid1032297
+title1:Word Reordering and a Dynamic Programming Beam Search Algorithm for Statistical Machine Translation. title2:Word reordering and a dynamic programming beam search algorithm for statistical machine translation citation:139 ncitation:128 pid2305936
+title1:Automatic Classification of Red Blood Cells Using Gaussian Mixture Densities. title2:Automatic classification of red blood cells using gaussian mixture densities citation:19 ncitation:17 pid2320270
+title1:Improved Statistical Alignment Models. title2:Improved statistical alignment models citation:874 ncitation:792 pid135691
+title1:Discriminative Training and Maximum Entropy Models for Statistical Machine Translation. title2:Discriminative training and maximum entropy models for statistical machine translation citation:885 ncitation:817 pid1046965
+title1:Modified MMI/MPE: a direct evaluation of the margin in speech recognition. title2:Modified MMI/MPE: A direct evaluation of the margin in speech recognition citation:39 ncitation:33 pid2754878
+title1:Selection criteria for word trigger pairs in language modelling. title2:Selection criteria for word trigger pairs in language modeling citation:33 ncitation:32 pid2302334
+title1:Statistical Image Object Recognition using Mixture Densities. title2:Statistical image object recognition using mixture densities citation:33 ncitation:31 pid2290098
+title1:Extended Query Refinement for Medical Image Retrieval. title2:Extended query refinement for medical image retrieval citation:29 ncitation:25 pid2322296
+title1:iROVER: Improving System Combination with Classification. title2:i ROVER: improving system combination with classification citation:16 ncitation:15 pid1033816
+title1:Analysis and System Combination of Phrase- and N-Gram-Based Statistical Machine Translation Systems. title2:Analysis and system combination of phrase-and N-gram-based statistical machine translation systems citation:1 ncitation:1 pid511559
+title1:Stochastic Modelling: From Pattern Classification to Speech Recognition and Language Translation. title2:Stochastic Modelling: From Pattern Classification to Speech Recognition and Language Translation citation:1 ncitation:7 pid1144317
+title1:Word Re-ordering and DP-based Search in Statistical Machine Translation. title2:Word re-ordering and DP-based search in statistical machine translation citation:66 ncitation:65 pid1973047
+title1:Classification of Medical Images Using local Representations. title2:Classification of medical images using local representations citation:27 ncitation:27 pid1680301
+title1:Unsupervised training of acoustic models for large vocabulary continuous speech recognition. title2:Unsupervised training of acoustic models for large vocabulary continuous speech recognition citation:102 ncitation:87 pid552410
+title1:FIRE - Flexible Image Retrieval Engine: ImageCLEF 2004 Evaluation. citation:80 ncitation:72 pid2569260
+title1:Adaptation in Statistical Pattern Recognition Using Tangent Vectors. title2:Adaptation in statistical pattern recognition using tangent vectors citation:56 ncitation:53 pid230923
+title1:Deformation-Aware Log-Linear Models. title2:Deformation-Aware Log-Linear Models citation:1 ncitation:1 pid135268
+title1:Discriminative Training for Object Recognition Using Image Patches. title2:Discriminative training for object recognition using image patches citation:106 ncitation:100 pid64298
+title1:Bayesian Semi-Supervised Chinese Word Segmentation for Statistical Machine Translation. title2:Bayesian semi-supervised chinese word segmentation for statistical machine translation citation:48 ncitation:38 pid135270
+title1:A Systematic Comparison of Training Criteria for Statistical Machine Translation. title2:A Systematic Comparison of Training Criteria for Statistical Machine Translation. citation:24 ncitation:22 pid2569787
+title1:Extending Statistical Machine Translation with Discriminative and Trigger-Based Lexicon Models. title2:Extending statistical machine translation with discriminative and trigger-based lexicon models citation:50 ncitation:40 pid64300
+title1:Error Measures and Bayes Decision Rules Revisited with Applications to POS Tagging. title2:Error Measures and Bayes Decision Rules Revisited with Applications to POS Tagging. citation:4 ncitation:5 pid797514
+title1:Extensions of absolute discounting (Kneser-Ney method). title2:Extensions of absolute discounting (Kneser-Ney method) citation:4 ncitation:3 pid552419
+title1:Audio segmentation for speech recognition using segment features. title2:Audio segmentation for speech recognition using segment features citation:5 ncitation:4 pid1928368
+title1:A Multi-Genre SMT System for Arabic to French. title2:A Multi-Genre SMT System for Arabic to French. citation:3 ncitation:2 pid479412
+title1:A Comparison of Various Methods for Concept Tagging for Spoken Language Understanding. title2:A Comparison of Various Methods for Concept Tagging for Spoken Language Understanding. citation:29 ncitation:25 pid1890436
+title1:The ATIS Sign Language Corpus. title2:The ATIS sign language corpus citation:20 ncitation:15 pid135757
+title1:Benchmark Databases for Video-Based Automatic Sign Language Recognition. title2:Benchmark Databases for Video-Based Automatic Sign Language Recognition. citation:41 ncitation:29 pid2547562
+title1:Statistical framework for model-based image retrieval in medical applications. title2:Statistical framework for model-based image retrieval in medical applications citation:107 ncitation:95 pid1143721
+title1:Constrained Energy Minimization for Matching-Based Image Recognition. title2:Constrained energy minimization for matching-based image recognition citation:3 ncitation:2 pid681831
+title1:Training Phrase Translation Models with Leaving-One-Out. title2:Training phrase translation models with leaving-one-out citation:50 ncitation:39 pid1143176
+title1:A Hybrid Morphologically Decomposed Factored Language Models for Arabic LVCSR. title2:A hybrid morphologically decomposed factored language models for Arabic LVCSR citation:3 ncitation:3 pid2291682
+title1:SURF-Face: Face Recognition Under Viewpoint Consistency Constraints. title2:SURF-Face: Face Recognition Under Viewpoint Consistency Constraints. citation:46 ncitation:32 pid2442712
+title1:Log-Linear Mixtures for Object Class Recognition. title2:Log-Linear Mixtures for Object Class Recognition. citation:1 ncitation:-1 pid2606307
+title1:Patch-based Object Recognition Using Discriminatively Trained Gaussian Mixtures. title2:Patch-based Object Recognition Using Discriminatively Trained Gaussian Mixtures. citation:19 ncitation:19 pid1144265
+title1:Warp that smile on your face: Optimal and smooth deformations for face recognition. title2:Warp that smile on your face: optimal and smooth deformations for face recognition citation:4 ncitation:2 pid2439408
+title1:The Fast and the Flexible: Extended Pseudo Two-Dimensional Warping for Face Recognition. title2:The fast and the flexible: Extended pseudo two-dimensional warping for face recognition citation:3 ncitation:3 pid21658
+title1:A discriminative splitting criterion for phonetic decision trees. title2:A discriminative splitting criterion for phonetic decision trees. citation:5 ncitation:3 pid21611
+title1:On the relation of Bayes risk, word error, and word posteriors in ASR. title2:On the relation of Bayes risk, word error, and word posteriors in ASR. citation:2 ncitation:2 pid238290
+title1:Time conditioned search in automatic speech recognition reconsidered. title2:Time conditioned search in automatic speech recognition reconsidered. citation:2 ncitation:2 pid135298
+title1:Discriminative adaptation for log-linear acoustic models. title2:Discriminative adaptation for log-linear acoustic models. citation:2 ncitation:2 pid908120
+title1:Speaker adaptive training using shift-MLLR. title2:Speaker adaptive training using shift-MLLR. citation:4 ncitation:2 pid1881682
+title1:Recent improvements of the RWTH GALE Mandarin LVCSR system. title2:Recent improvements of the RWTH GALE Mandarin LVCSR system. citation:18 ncitation:16 pid2075063
+title1:On the equivalence of Gaussian and log-linear HMMs. title2:On the equivalence of Gaussian and log-linear HMMs. citation:20 ncitation:18 pid2443026
+title1:The RWTH aachen university open source speech recognition system. title2:The RWTH aachen university open source speech recognition system. citation:41 ncitation:34 pid21029
+title1:Large-scale Polish SLU. title2:Large-scale Polish SLU. citation:4 ncitation:4 pid1836548
+title1:Cross-language bootstrapping for unsupervised acoustic model training: rapid development of a Polish speech recognition system. title2:Cross-language bootstrapping for unsupervised acoustic model training: rapid development of a Polish speech recognition system. citation:26 ncitation:19 pid1016418
+title1:Investigating the use of morphological decomposition and diacritization for improving Arabic LVCSR. title2:Investigating the use of morphological decomposition and diacritization for improving Arabic LVCSR. citation:21 ncitation:13 pid64508
+title1:Bayes risk approximations using time overlap with an application to system combination. title2:Bayes risk approximations using time overlap with an application to system combination. citation:4 ncitation:4 pid2209201
+title1:Quantile based histogram equalization for noise robust speech recognition. title2:Quantile based histogram equalization for noise robust speech recognition. citation:85 ncitation:79 pid205814
+title1:Natural language understanding using statistical machine translation. title2:Natural language understanding using statistical machine translation. citation:38 ncitation:34 pid346525
+title1:Breadth-first search for finding the optimal phonetic transcription from multiple utterances. title2:Breadth-first search for finding the optimal phonetic transcription from multiple utterances. citation:3 ncitation:4 pid2758907
+title1:Speech recognition techniques for a sign language recognition system. title2:Speech recognition techniques for a sign language recognition system citation:58 ncitation:50 pid1166722
+title1:Improving speech translation with automatic boundary prediction. title2:Improving speech translation with automatic boundary prediction. citation:25 ncitation:24 pid1593841
+title1:The RWTH 2007 TC-STAR evaluation system for european English and Spanish. title2:The RWTH 2007 TC-STAR evaluation system for european English and Spanish. citation:55 ncitation:55 pid99462
+title1:Feature combination using linear discriminant analysis and its pitfalls. title2:Feature combination using linear discriminant analysis and its pitfalls. citation:20 ncitation:18 pid2753379
+title1:Text-independent cross-language voice conversion. title2:Text-independent cross-language voice conversion. citation:25 ncitation:23 pid135927
+title1:Frame based system combination and a comparison with weighted ROVER and CNC. title2:Frame based system combination and a comparison with weighted ROVER and CNC. citation:35 ncitation:31 pid2443119
+title1:The 2006 RWTH parliamentary speeches transcription system. title2:The 2006 RWTH parliamentary speeches transcription system. citation:38 ncitation:34 pid2302379
+title1:Implementing frequency-warping and VTLN through linear transformation of conventional MFCC. title2:Implementing frequency-warping and VTLN through linear transformation of conventional MFCC. citation:29 ncitation:28 pid2290488
+title1:Open vocabulary speech recognition with flat hybrid models. title2:Open vocabulary speech recognition with flat hybrid models. citation:91 ncitation:73 pid108252
+title1:Investigations on error minimizing training criteria for discriminative training in automatic speech recognition. title2:Investigations on error minimizing training criteria for discriminative training in automatic speech recognition. citation:80 ncitation:76 pid64427
+title1:On the integration of speech recognition and statistical machine translation. title2:On the integration of speech recognition and statistical machine translation. citation:49 ncitation:44 pid1229121
+title1:Automatic text dictation in computer-assisted translation. title2:Automatic text dictation in computer-assisted translation. citation:16 ncitation:14 pid2300532
+title1:Evaluation of VTLN-based voice conversion for embedded speech synthesis. title2:Evaluation of VTLN-based voice conversion for embedded speech synthesis. citation:8 ncitation:5 pid625845
+title1:A first step towards text-independent voice conversion. title2:A first step towards text-independent voice conversion citation:30 ncitation:27 pid238252
+title1:Evaluation of quantile based histogram equalization with filter combination on the Aurora 3 and 4 databases. title2:Evaluation of quantile based histogram equalization with filter combination on the Aurora 3 and 4 databases. citation:3 ncitation:4 pid2393846
+title1:Vocal tract normalization as linear transformation of MFCC. title2:Vocal tract normalization as linear transformation of MFCC. citation:47 ncitation:46 pid1330427
+title1:Multigram-based grapheme-to-phoneme conversion for LVCSR. title2:Multigram-based grapheme-to-phoneme conversion for LVCSR. citation:33 ncitation:28 pid1241122
+title1:Extraction methods of voicing feature for robust speech recognition. title2:Extraction methods of voicing feature for robust speech recognition. citation:21 ncitation:21 pid127797
+title1:The statistical approach to machine translation and a roadmap for speech translation. title2:The statistical approach to machine translation and a roadmap for speech translation. citation:4 ncitation:3 pid99492
+title1:Multilingual acoustic modeling using graphemes. title2:Multilingual acoustic modeling using graphemes. citation:27 ncitation:24 pid926021
+title1:A comparative study on maximum entropy and discriminative training for acoustic modeling in automatic speech recognition. title2:A comparative study on maximum entropy and discriminative training for acoustic modeling in automatic speech recognition. citation:17 ncitation:19 pid2808319
+title1:Named entity extraction from Japanese broadcast news. title2:Named entity extraction from Japanese broadcast news. citation:5 ncitation:5 pid2832028
+title1:A comparison of two LVR search optimization techniques. title2:A comparison of two LVR search optimization techniques. citation:54 ncitation:44 pid2832141
+title1:Investigations on joint-multigram models for grapheme-to-phoneme conversion. title2:Investigations on joint-multigram models for grapheme-to-phoneme conversion. citation:67 ncitation:56 pid2832314
+title1:Enhanced histogram normalization in the acoustic feature space. title2:Enhanced histogram normalization in the acoustic feature space. citation:25 ncitation:24 pid2836213
+title1:Robust speech recognition using a voiced-unvoiced feature. title2:Robust speech recognition using a voiced-unvoiced feature. citation:30 ncitation:27 pid2836313
+title1:Quantile based histogram equalization for online applications. title2:Quantile based histogram equalization for online applications. citation:23 ncitation:22 pid2836863
+title1:Probabilistic retrieval based on document representations. title2:Probabilistic retrieval based on document representations. citation:2 ncitation:-1 pid2839866
+title1:Speech recognition using context conditional word posterior probabilities. title2:Speech recognition using context conditional word posterior probabilities. citation:4 ncitation:4 pid2840542
+title1:Improved MLLR speaker adaptation using confidence measures for conversational speech recognition. title2:Improved MLLR speaker adaptation using confidence measures for conversational speech recognition. citation:34 ncitation:32 pid2840619
+title1:A comparison of word graph and n-best list based confidence measures. title2:A comparison of word graph and n-best list based confidence measures. citation:58 ncitation:57 pid2840835
+title1:Assessment of smoothing methods and complex stochastic language modeling. title2:Assessment of smoothing methods and complex stochastic language modeling. citation:24 ncitation:24 pid2840886
+title1:An iterative, DP-based search algorithm for statistical machine translation. title2:An iterative, DP-based search algorithm for statistical machine translation citation:34 ncitation:33 pid2866606
+title1:State tying for context dependent phoneme models. title2:State tying for context dependent phoneme models. citation:37 ncitation:33 pid2867362
+title1:Accelerated DP based search for statistical translation. title2:Accelerated DP based search for statistical translation. citation:150 ncitation:128 pid2902876
+title1:Fast likelihood computation methods for continuous mixture densities in large vocabulary speech recognition. title2:Fast likelihood computation methods for continuous mixture densities in large vocabulary speech recognition. citation:49 ncitation:46 pid2912588
+title1:Acoustic front-end optimization for large vocabulary speech recognition. title2:Acoustic front-end optimization for large vocabulary speech recognition. citation:19 ncitation:19 pid2940444
+title1:Comparison of optimization methods for discriminative training criteria. title2:Comparison of optimization methods for discriminative training criteria. citation:38 ncitation:39 pid2949977
+title1:Adaptive topic - dependent language modelling using word - based varigrams. title2:Adaptive topic-dependent language modelling using word-based varigrams citation:57 ncitation:56 pid2996860
+title1:Language-model look-ahead for large vocabulary speech recognition. title2:Language-model look-ahead for large vocabulary speech recognition citation:119 ncitation:114 pid3009008
+title1:A comparison of time conditioned and word conditioned search techniques for large vocabulary speech recognition. title2:A comparison of time conditioned and word conditioned search techniques for large vocabulary speech recognition citation:50 ncitation:50 pid3009037
+title1:Connected digit recognition using statistical template matching. title2:Connected digit recognition using statistical template matching. citation:23 ncitation:24 pid3009355
+title1:Algorithms for bigram and trigram word clustering. title2:Algorithms for bigram and trigram word clustering1 citation:174 ncitation:152 pid3014194
+title1:Experimental analysis of the search space for 20 000-word speech recognition. title2:Experimental analysis of the search space for 20 000-word speech recognition. citation:20 ncitation:19 pid3017234
+title1:Experiments with linear feature extraction in speech recognition. title2:Experiments with linear feature extraction in speech recognition. citation:25 ncitation:21 pid3039514
+title1:A word graph algorithm for large vocabulary, continuous speech recognition. title2:A word graph algorithm for large vocabulary continuous speech recognition citation:190 ncitation:180 pid3039563
+title1:The Philips research system for large-vocabulary continuous-speech recognition. title2:An overview of the Philips research system for large vocabulary continuous speech recognition citation:40 ncitation:55 pid3039868
+title1:On the Relationship Between Bayes Risk and Word Error Rate in ASR. title2:On the relationship between Bayes risk and word error rate in ASR citation:2 ncitation:2 pid3040548
+title1:Comparing Stochastic Approaches to Spoken Language Understanding in Multiple Languages. title2:Comparing stochastic approaches to spoken language understanding in multiple languages citation:38 ncitation:19 pid3040649
+title1:Lattice-Based ASR-MT Interface for Speech Translation. title2:Lattice-based asr-mt interface for speech translation citation:3 ncitation:3 pid3040778
+title1:Using morpheme and syllable based sub-words for polish LVCSR. title2:Using morpheme and syllable based sub-words for Polish LVCSR citation:9 ncitation:3 pid3041079
+title1:Subspace pursuit method for kernel-log-linear models. title2:Subspace pursuit method for kernel-log-linear models citation:4 ncitation:2 pid3041193
+title1:The RWTH 2010 Quaero ASR evaluation system for English, French, and German. title2:The rwth 2010 quaero asr evaluation system for english, french, and german citation:24 ncitation:17 pid3041343
+title1:EM-style optimization of hidden conditional random fields for grapheme-to-phoneme conversion. title2:EM-style optimization of hidden conditional random fields for grapheme-to-phoneme conversion citation:3 ncitation:1 pid3041369
+title1:Feature selection for log-linear acoustic models. title2:Feature selection for log-linear acoustic models citation:3 ncitation:1 pid3041379
+title1:Incorporating alignments into Conditional Random Fields for grapheme to phoneme conversion. title2:Incorporating alignments into conditional random fields for grapheme to phoneme conversion citation:3 ncitation:1 pid3041381
+title1:Powerful extensions to CRFS for grapheme to phoneme conversion. title2:Powerful extensions to CRFS for grapheme to phoneme conversion citation:3 ncitation:3 pid3041411
+title1:Does the Cost Function Matter in Bayes Decision Rule? title2:Does the Cost Function Matter in Bayes Decision Rule? citation:2 ncitation:2 pid3041818
+title1:Towards Automatic Error Analysis of Machine Translation Output. title2:Towards automatic error analysis of machine translation output citation:19 ncitation:-1 pid3041982
+title1:WFST Enabled Solutions to ASR Problems: Beyond HMM Decoding. title2:WFST enabled solutions to ASR problems: Beyond HMM decoding citation:2 ncitation:1 pid3041991
+title1:Hierarchical hybrid MLP/HMM or rather MLP features for a discriminatively trained Gaussian HMM: A comparison for offline handwriting recognition. title2:Hierarchical hybrid MLP/HMM or rather MLP features for a discriminatively trained gaussian HMM: a comparison for offline handwriting recognition citation:10 ncitation:4 pid3042115
+title1:Log-Linear Optimization of Second-Order Polynomial Features with Subsequent Dimension Reduction for Speech Recognition. title2:Log-Linear Optimization of Second-Order Polynomial Features with Subsequent Dimension Reduction for Speech Recognition. citation:2 ncitation:1 pid3042439
+title1:Morpheme Based Factored Language Models for German LVCSR. title2:Morpheme Based Factored Language Models for German LVCSR. citation:4 ncitation:0 pid3043013
+title1:Improved Acoustic Feature Combination for LVCSR by Neural Networks. title2:Improved Acoustic Feature Combination for LVCSR by Neural Networks. citation:5 ncitation:3 pid3043112
+title1:Data driven search organization for continuous speech recognition. title2:Data driven search organization for continuous speech recognition citation:131 ncitation:121 pid3043343
+title1:Dynamic programming parsing for context-free grammars in continuous speech recognition. title2:Dynamic programming parsing for context-free grammars in continuous speech recognition citation:86 ncitation:77 pid3043468
+title1:Latent Log-Linear Models for Handwritten Digit Classification. title2:Latent log-linear models for handwritten digit classification citation:6 ncitation:2 pid3043784
+title1:Formant estimation for speech recognition. title2:Formant estimation for speech recognition citation:96 ncitation:90 pid3043936
+title1:Confidence measures for large vocabulary continuous speech recognition. title2:Confidence measures for large vocabulary continuous speech recognition citation:412 ncitation:372 pid3044284
+title1:The time-conditioned approach in dynamic programming search for LVCSR. title2:The time-conditioned approach in dynamic programming search for LVCSR citation:16 ncitation:17 pid3044576
+title1:Algorithms for statistical translation of spoken language. title2:Algorithms for statistical translation of spoken language citation:112 ncitation:112 pid3044584
+title1:Context-dependent acoustic modeling using graphemes for large vocabulary speech recognition. title2:Context-dependent acoustic modeling using graphemes for large vocabulary speech recognition citation:55 ncitation:49 pid3045542
+title1:Symmetric Word Alignments for Statistical Machine Translation. title2:Symmetric word alignments for statistical machine translation citation:54 ncitation:53 pid3046100
+title1:Improving Word Alignment Quality using Morpho-syntactic Information. title2:Improving word alignment quality using morpho-syntactic information citation:18 ncitation:-1 pid3046120
+title1:Improved Word Alignment Using a Symmetric Lexicon Model. title2:Improved word alignment using a symmetric lexicon model citation:19 ncitation:19 pid3046200
+title1:Reordering Constraints for Phrase-Based Statistical Machine Translation. title2:Reordering constraints for phrase-based statistical machine translation citation:84 ncitation:74 pid3046252
+title1:Discriminative splitting of Gaussian/log-linear mixture HMMs for speech recognition. title2:Discriminative splitting of gaussian/log-linear mixture hmms for speech recognition citation:1 ncitation:1 pid3046264
+title1:A convergence analysis of log-linear training and its application to speech recognition. title2:A convergence analysis of log-linear training and its application to speech recognition citation:3 ncitation:1 pid3046270
+title1:Development of the 2007 RWTH Mandarin LVCSR system. title2:Development of the 2007 RWTH mandarin LVCSR system citation:18 ncitation:18 pid3046536
+title1:The RWTH Arabic-to-English spoken language translation system. title2:The RWTH Arabic-to-English spoken language translation system citation:26 ncitation:24 pid3046786
+title1:Cross-lingual portability of Chinese and english neural network features for French and German LVCSR. title2:Cross-lingual portability of Chinese and English neural network features for French and German LVCSR citation:10 ncitation:2 pid3046896
+title1:Discriminative Training for Automatic Speech Recognition: Modeling, Criteria, Optimization, Implementation, and Performance. title2:Discriminative Training for Automatic Speech Recognition: Modeling, Criteria, Optimization, Implementation, and Performance citation:9 ncitation:2 pid3047652
+title1:Cardinality pruning and language model heuristics for hierarchical phrase-based translation. title2:Cardinality pruning and language model heuristics for hierarchical phrase-based translation citation:4 ncitation:3 pid3048382
+title1:Hierarchical Phrase-Based Translation with Jane 2. title2:Hierarchical Phrase-Based Translation with Jane 2 citation:2 ncitation:-1 pid3048572
+title1:Image warping for face recognition: From local optimality towards global optimization. title2:Image warping for face recognition: From local optimality towards global optimization citation:2 ncitation:1 pid3049346
+title1:Towards the Use of Word Stems and Suffixes for Statistical Machine Translation. title2:Towards the Use of Word Stems and Suffixes for Statistical Machine Translation. citation:64 ncitation:60 pid3049545
+title1:An Evaluation Tool for Machine Translation: Fast Evaluation for MT Research. title2:An Evaluation Tool for Machine Translation: Fast Evaluation for MT Research. citation:210 ncitation:186 pid3049595
+title1:Insertion and Deletion Models for Statistical Machine Translation. title2:Insertion and deletion models for statistical machine translation citation:7 ncitation:3 pid3049668
+title1:Deciphering Foreign Language by Combining Language Models and Context Vectors. title2:Deciphering foreign language by combining language models and context vectors citation:8 ncitation:-1 pid3049678
+title1:Fast and Scalable Decoding with Language Model Look-Ahead for Phrase-based Statistical Machine Translation. title2:Fast and scalable decoding with language model look-ahead for phrase-based statistical machine translation citation:2 ncitation:1 pid3049680
+title1:Enhanced continuous sign language recognition using PCA and neural network features. title2:Enhanced continuous sign language recognition using PCA and neural network features citation:3 ncitation:0 pid3049726
+title1:Analysis, preparation, and optimization of statistical sign language machine translation. title2:Analysis, preparation, and optimization of statistical sign language machine translation citation:3 ncitation:1 pid3049778
+title1:Conditional leaving-one-out and cross-validation for discount estimation in Kneser-Ney-like extensions. title2:Conditional leaving-one-out and cross-validation for discount estimation in Kneser-Ney-like extensions citation:3 ncitation:2 pid3050361
+title1:Overview of large scale optimization for discriminative training in speech recognition. title2:Overview of large scale optimization for discriminative training in speech recognition citation:1 ncitation:1 pid3050878
+title1:Joining advantages of word-conditioned and token-passing decoding. title2:Joining advantages of word-conditioned and token-passing decoding citation:4 ncitation:2 pid3051123
+title1:Extended search space pruning in LVCSR. title2:Extended search space pruning in lvcsr citation:3 ncitation:1 pid3051169
+title1:Silence is golden: Modeling non-speech events in WFST-based dynamic network decoders. title2:Silence is golden: Modeling non-speech events in WFST-based dynamic network decoders citation:1 ncitation:-1 pid3051191
+title1:Comparison and combination of different CRBE based MLP features for LVCSR. title2:Comparison and combination of different CRBE based MLP features for LVCSR citation:1 ncitation:1 pid3051740
+title1:Tracking Benchmark Databases for Video-Based Sign Language Recognition. title2:Tracking benchmark databases for video-based sign language recognition citation:4 ncitation:2 pid3051988
+title1:Analysis of Preprocessing Techniques for Latin Handwriting Recognition. title2:Analysis of preprocessing techniques for Latin handwriting recognition citation:2 ncitation:None pid3052060
+title1:Hidden Conditional Random Fields with M-to-N Alignments for Grapheme-to-Phoneme Conversion. title2:Hidden Conditional Random Fields with M-to-N Alignments for Grapheme-to-Phoneme Conversion. citation:2 ncitation:None pid3052973
+title1:Context-Dependent MLPs for LVCSR: TANDEM, Hybrid or Both? title2:Context-Dependent MLPs for LVCSR: TANDEM, Hybrid or Both? citation:7 ncitation:None pid3083287
+title1:Posterior-Scaled MPE: Novel Discriminative Training Criteria. title2:Posterior-Scaled MPE: Novel Discriminative Training Criteria. citation:1 ncitation:None pid3083338
+title1:Accelerated Batch Learning of Convex Log-linear Models for LVCSR. title2:Accelerated Batch Learning of Convex Log-linear Models for LVCSR. citation:3 ncitation:None pid3106215
+title1:LSTM Neural Networks for Language Modeling. title2:LSTM Neural Networks for Language Modeling. citation:5 ncitation:None pid3144929
+title1:RWTH-PHOENIX-Weather: A Large Vocabulary Sign Language Recognition and Translation Corpus. title2:RWTH-PHOENIX-Weather: A Large Vocabulary Sign Language Recognition and Translation Corpus. citation:3 ncitation:-1 pid3172680
+title1:Forced Derivations for Hierarchical Machine Translation. title2:Forced Derivations for Hierarchical Machine Translation. citation:1 ncitation:None pid3173106

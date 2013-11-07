@@ -1,0 +1,171 @@
+title:Resistance analysis of scalable video fingerprinting systems under fair collusion attacks. citation:-1
+title:Differential Modulation With Threshold-Based Decision Combining for Cooperative Communications. citation:-1
+title:Guest editorial- Cooperative communications and networking. citation:-1
+title:VLSI architecture and design for high performance adaptive video scaling. citation:-1
+title:A transformation for computational latency reduction in turbo-MAP decoding. citation:-1
+title:The hierarchical timing pair model. citation:-1
+title:Scalable Multimedia Fingerprinting Forensics with Side Information. citation:-1
+title:Mixture principal component analysis for distribution volume parametric imaging in brain PET studies. citation:-1
+title:Dynamic Pricing Approach for Spectrum Allocation in Wireless Networks with Selfish Users. citation:-1
+title:Adaptive Pilot-Embedded Data-Bearing Approach Channel Estimation in Space-Frequency Coded MIMO-OFDM Systems. citation:-1
+title:Robust Image and Video Transmission Over Spectrally Shaped Channels Using Multicarrier Modulation. citation:-1
+title:A Low-Power and Low-Complexity DCT/IDCT VLSI Architecture Based On Backward Chebyshev Recursion. citation:-1
+title:Systematic Space?Time Trellis Code Construction for Correlated Rayleigh-Fading Channels. citation:-1
+title:Game-theoretic analysis of maximum-payoff multiuser collusion. citation:-1
+title:Algorithm-based low-power transform coding architectures: the multirate approach. citation:-1
+title:Full Custom VLSI Implementation of High-Speed 2-D DCT/IDCT Chip. citation:-1
+title:Dynamic Frequency-Intelligent Reserve-and-Switch Technique (D-FIRST) to Combat Inter-Operator Interference. citation:-1
+title:Power minimization under throughput management over wireless networks with antenna diversity. citation:-1
+title:Joint source-channel content-based multistream video coding scheme. citation:-1
+title:A game theoretic framework for incentive-based peer-to-peer live-streaming social networks. citation:-1
+title:Channel aware unequal error protection for image transmission over broadband wireless LAN. citation:-1
+title:Connectivity-aware network maintenance and repair via relays deployment. citation:-1
+title:Repeated Spectrum Sharing Game with Self-Enforcing Truth-Telling Mechanism. citation:-1
+title:A Data-Bearing Approach for Pilot-Aiding in Space-Time Coded MIMO Systems. citation:-1
+title:DCT-based motion estimation. citation:-1
+title:Characterization of Distortion-SNR Performance for Practical Joint Source-Channel Coding Systems. citation:-1
+title:Localized wavelet based computerized tomography. citation:-1
+title:Behavior Forensics in Traitors within Traitors for Scalable Multimedia. citation:-1
+title:DCT-Based Supixel Motion Compensation and Fully DCT-Based Video Coder. citation:-1
+title:Dependence network modeling for biomarker identification. citation:-1
+title:Low-Power Architectures for Compressed Domain Video Coding Co-Processor. citation:-1
+title:Joint source-channel multistream coding and optical network adapter design for video over IP. citation:-1
+title:Progressive Image Transmission over OFDM Systems using Multiple Antennas. citation:-1
+title:An adaptive interpolation scheme for 2-D mesh motion compensation. citation:-1
+title:A Multi-layer 2-D Adaptive Filtering Architecture Based on McClellan Transformation. citation:-1
+title:Polynomial model approach for resynchronization analysis of cell-cycle gene expression data. citation:-1
+title:Source-Channel-Cooperation Tradeoffs for Adaptive Coded Communications [Transactions Papers]. citation:-1
+title:Distributed Relay Selection and Power Control for Multiuser Cooperative Communication Networks Using Stackelberg Game. citation:-1
+title:Securing Cooperative Ad-Hoc Networks Under Noise and Imperfect Monitoring: Strategies and Game Theoretic Analysis. citation:-1
+title:Analysis and Protection of Dynamic Membership Information for Group Key Distribution Schemes. citation:-1
+title:Content-Aware Cooperative Multiple Access Protocol for Packet Speech Communications. citation:-1
+title:Multi-Phase Systolic Architectures for Spectral Decomposition. citation:-1
+title:Distributed Relay Selection and Power Control for Multiuser Cooperative Communication Networks Using Buyer/Seller Game. citation:-1
+title:Orthogonal Space-Time Block Codes With Sphere Packing. citation:-1
+title:Secure Cooperation in Autonomous Mobile Ad-Hoc Networks Under Noise and Imperfect Monitoring: A Game-Theoretic Approach. citation:-1
+title:Diversity Analysis of Space-Time Modulation Over Time-Correlated Rayleigh-Fading Channels. citation:-1
+title:Power Optimized Space-Time Code for Layer Coded Multimedia over Wireless Channels. citation:-1
+title:Image and Video Transmission over Wireless Channel: A Subband Modulation Approach. citation:-1
+title:Differential space-frequency modulation via smooth logical channel for broadband wireless communications. citation:-1
+title:Adaptive QoS for Mobile Multimedia Applications Using Power Control and Smart Antennas. citation:-1
+title:Parallel programmable video co-processor design. citation:-1
+title:Anti-collusion codes: multi-user and multimedia perspectives. citation:-1
+title:A Likelihood-Based Framework for Quantification of Brain Receptor PET Studies in The Pixel Domain. citation:-1
+title:Throughput Analysis for Cooperation in Random Access Networks. citation:-1
+title:Time-sensitive behavior dynamics in multimedia fingerprinting social networks. citation:-1
+title:Block Size Forensic Analysis in Digital Images. citation:-1
+title:An Activity-Subspace Approach for Estimating the Integrated Input Function and Relative Distribution Volume in PET Parametric Imaging. citation:-1
+title:Best-effort cooperative communication without dedicated relays. citation:-1
+title:Multiplicative update rules for nonnegative matrix factorization with co-occurrence constraints. citation:-1
+title:Forensic estimation and reconstruction of a contrast enhancement mapping. citation:-1
+title:A Belief Evaluation Framework in Autonomous MANETs under Noisy and Imperfect Observation: Vulnerability Analysis and Cooperation Enforcement. citation:-1
+title:Evolutionary games for cooperative P2P video streaming. citation:-1
+title:Wavelet-based image compression anti-forensics. citation:-1
+title:Optimal Pricing for Mobile Video Streaming Using Behavior Analysis. citation:-1
+title:Attack-Resistant Collaboration in Wireless Video Streaming Social Networks. citation:-1
+title:Cooperation Stimulation in Cognitive Networks Using Indirect Reciprocity Game Modelling. citation:-1
+title:Differential Cooperative Communications with Space-Time Network Coding. citation:-1
+title:Optimal Defense against Jamming Attacks in Cognitive Radio Networks Using the Markov Decision Process Approach. citation:-1
+title:Mitigating channel estimation error with timing synchronization tradeoff in cooperative communications. citation:-1
+title:Opportunistic Multiple Access for Cognitive Radio Networks. citation:-1
+title:Indirect Reciprocity Game Modelling for Cooperation Stimulation in Cognitive Networks. citation:-1
+title:Cooperative Peer-to-Peer Streaming: An Evolutionary Game-Theoretic Approach. citation:-1
+title:Space-Time Network Coding. citation:-1
+title:High-Level Synthesis of DSP Applications Using Adaptive Negative Cycle Detection. citation:-1
+title:Systematic Design of Space-Time Trellis Codes for Diversity and Coding Advantages. citation:-1
+title:An Adaptive Channel Estimation Algorithm Using Time-Frequency Polynomial Model for OFDM with Fading Multipath Channels. citation:-1
+title:The Spirit Will Continue. citation:-1
+title:Deterministic Blind Subspace MIMO Equalization. citation:-1
+title:A Millennium Start. citation:-1
+title:A Fast Sphere Decoding Algorithm for Space-Frequency Block Codes. citation:-1
+title:A Low-Complexity Source Encoding Assisted Multiple Access Protocol for Voice/Data Integrated Networks. citation:-1
+title:Performance Analysis and Comparison of Time-Hopping and Direct-Sequence UWB-MIMO Systems. citation:-1
+title:An Integrated Source and Channel Rate Allocation Scheme for Robust Video Coding and Transmission over Wireless Channels. citation:-1
+title:Joint Design of Spectrum Sensing and Channel Access in Cognitive Radio Networks. citation:-1
+title:Best-Effort Cooperative Relaying. citation:-1
+title:An Information Secrecy Game in Cognitive Radio Networks. citation:-1
+title:Green Wireless Communications: A Time-Reversal Paradigm. citation:-1
+title:Anti-forensics for frame deletion/addition in MPEG video. citation:-1
+title:Pricing game and evolution dynamics for mobile video streaming. citation:-1
+title:Super-resolution of musical signals using approximate matching pursuit. citation:-1
+title:Differential Space-Time Network Coding for Multi-Source Cooperative Communications. citation:-1
+title:Anti-Eavesdropping Space-Time Network Coding for Cooperative Communications. citation:-1
+title:Extrinsic Channel-Like Fingerprint Embedding for Authenticating MIMO Systems. citation:-1
+title:Chinese Restaurant Game - Part II: Applications to Wireless Networking, Cloud Computing, and Online Social Networking citation:-1
+title:Anti-Jamming Games in Multi-Channel Cognitive Radio Networks. citation:-1
+title:Factorization of Overlapping Harmonic Sounds Using Approximate Matching Pursuit. citation:-1
+title:Eavesdropping-Resistant Space-Time Network Coding for Cooperative Communications. citation:-1
+title:Two-Way Denoise-and-Forward Relaying with Non-Coherent Differential Modulation. citation:-1
+title:Waveform Design for Sum Rate Optimization in Time-Reversal Multiuser Downlink Systems. citation:-1
+title:A structured low-rank matrix pencil for spectral estimation and system identification. citation:-1
+title:Trans-Modulation in Wireless Relay Networks. citation:-1
+title:Comments on "Multiphase systolic algorithms for spectral decomposition" [and reply]. citation:-1
+title:Systolic block Householder transformation for RLS algorithm with two-level pipelined implementation. citation:-1
+title:Multiphase systolic algorithms for spectral decomposition. citation:-1
+title:Traffic improvements in wireless communication networks using antenna arrays. citation:-1
+title:Value and Benefit [President's Message]. citation:-1
+title:Raison d'être [Presidnet's Message]. citation:-1
+title:A Melting Pot [President's Message]. citation:-1
+title:A Technical Revolution: Social Learning and Networking [From the Guest Editors]. citation:-1
+title:Fast orthogonalization algorithm and parallel architecture for AR spectral estimation based on forward-backward linear prediction. citation:-1
+title:Game-Theoretic Pricing for Video Streaming in Mobile Networks. citation:-1
+title:Cooperation and Coalition in Multimedia Fingerprinting Colluder Social Networks. citation:-1
+title:Anti-collusion of group-oriented fingerprinting. citation:-1
+title:Performance of detection statistics under collusion attacks on independent multimedia fingerprints. citation:-1
+title:Multi-layer key management for secure multimedia multicast communications. citation:-1
+title:A dynamic pricing approach for self-organized mobile ad hoc networks. citation:-1
+title:Multiband differential modulation for UWB communication systems. citation:-1
+title:Scheduling algorithms for quality of service aware OFDMA wireless systems. citation:-1
+title:Cooperative multimedia communications: joint source coding and collaboration. citation:-1
+title:Differential space-frequency modulation for MIMO-OFDM systems via a "smooth" logical channel. citation:-1
+title:Multi-node cooperative resource allocation to improve coverage area in wireless networks. citation:-1
+title:Anti-attack cooperation stimulation in self-organized ad hoc networks. citation:-1
+title:Minimization of rekeying cost for contributory group communications. citation:-1
+title:Dynamic distributed rate control for wireless networks by optimal Cartel maintenance strategy. citation:-1
+title:Maximum connectivity and maximum lifetime energy-aware routing for wireless sensor networks. citation:-1
+title:A near-optimal reinforcement learning scheme for energy efficient point-to-point wireless communications. citation:-1
+title:Throughput maximization for energy efficient multi-node communications using actor-critic approach. citation:-1
+title:Peer Review [President's Message]. citation:-1
+title:Citation Impact [President's Message]. citation:-1
+title:Cooperation in Random Access Networks: Protocol Design and Performance Analysis. citation:-1
+title:Mitigating Error Propagation for Wireless Network Coding. citation:-1
+title:Multi-source cooperative transmission with network coding. citation:-1
+title:A cheat-proof game-theoretic framework for cooperative peer-to-peer video streaming. citation:-1
+title:Template matching for image prediction: A game-theoretical approach. citation:-1
+title:Differential modulation for multi-node amplify-and-forward wireless relay networks. citation:-1
+title:LS FFT-based channel estimators using pilot-embedded data-bearing approach in space-frequency coded MIMO-OFDM systems. citation:-1
+title:Power minimization under real-time source distortion constraints in wireless networks. citation:-1
+title:Bandwidth-efficient OFDM cooperative protocol with applications to UWB communications. citation:-1
+title:Multiband uwb system performance with random-clustering multipath-rich fading channels. citation:-1
+title:Throughput maximization using adaptive modulation in wireless networks with fairness constraint. citation:-1
+title:Systematic design of space-frequency codes with full rate and full diversity. citation:-1
+title:On QoS constraints and joint source-channel coding for real-time cooperative multimedia communications. citation:-1
+title:Lifetime maximization by cooperative sensor and relay deployment in wireless sensor networks. citation:-1
+title:On the robustness of space-time coding for spatially and temporally correlated wireless channels. citation:-1
+title:A cheat-proof game theoretic demand response scheme for smart grids. citation:-1
+title:Error performances of multiple access system using analog network coding. citation:-1
+title:Cooperation stimulation in cooperative communications: An indirect reciprocity game. citation:-1
+title:Energy-efficient cellular network operation via base station cooperation. citation:-1
+title:An indirect reciprocity game theoretic framework for dynamic spectrum access. citation:-1
+title:An Indirect-Reciprocity Reputation Game for Cooperation in Dynamic Spectrum Access Networks. citation:-1
+title:Chinese Restaurant Game. citation:-1
+title:Outreach via Community Building [President's Message]. citation:-1
+title:Distributed Adaptive Networks: A Graphical Evolutionary Game-Theoretic View citation:-1
+title:Secure cooperative mobile ad hoc networks against injecting traffic attacks. citation:-1
+title:Single-block differential transmit scheme for frequency selective MIMO-OFDM systems. citation:-1
+title:Energy-efficient resource allocation for multiband UWB communication systems. citation:-1
+title:Topology-aware key management schemes for wireless multicast. citation:-1
+title:A resource allocation framework with credit system and user autonomy over heterogeneous wireless network. citation:-1
+title:Securing dynamic group membership information over multicast: attacks and immunization. citation:-1
+title:Near-Optimal Waveform Design for Sum Rate Optimization in Time-Reversal Multiuser Downlink Systems. citation:-1
+title:Sequential Chinese Restaurant Game. citation:-1
+title:Diversity Analysis of Analog Network Coding with Multi-User Interferences. citation:-1
+title:Awards and Recognition [President's Message]. citation:-1
+title:Local tomography in fan-beam geometry using wavelets. citation:-1
+title:Forensic identification of compressively sensed signals. citation:-1
+title:A context adaptive predictor of sensor pattern noise for camera source identification. citation:-1
+title:A fast sphere decoding framework for space-frequency block codes. citation:-1
+title:Distortion management of real-time MPEG-4 video over downlink multicode CDMA networks. citation:-1
+title:Rate control for DS-CDMA wireless systems using power control and orthogonally coded substreams. citation:-1
+title:Establishment of conference keys in heterogeneous networks. citation:-1
+title:A time-efficient contributory key agreement scheme for secure group communications. citation:-1

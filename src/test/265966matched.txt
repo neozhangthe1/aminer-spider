@@ -1,0 +1,582 @@
+title1:Optimal Distance Bounds on Time-Series Data. title2:Optimal Distance Bounds on Time-Series Data. citation:7 ncitation:-1 pid1213557
+title1:Request Redirection Algorithms for Distributed Web Systems. title2:Request redirection algorithms for distributed web systems citation:85 ncitation:81 pid1124812
+title1:Analytic Modeling and Comparisons of Striping Strategies for Replicated Disk Arrays. title2:Analytic modeling and comparisons of striping strategies for replicated disk arrays citation:61 ncitation:57 pid1080843
+title1:MALM: A Framework for Mining Sequence Database at Multiple Abstraction Levels. title2:MALM: a framework for mining sequence database at multiple abstraction levels citation:54 ncitation:48 pid95652
+title1:Analytic Modeling of Clustered RAID with Mapping Based on Nearly Random Permutation. title2:Analytic modeling of clustered RAID with mapping based on nearly random permutation citation:73 ncitation:71 pid2310300
+title1:Infominer: mining surprising periodic patterns. title2:Infominer: mining surprising periodic patterns citation:71 ncitation:66 pid1080845
+title1:Range-Based Bitmap Indexing for High Cardinality Attributes with Skew. title2:Range-based bitmap indexing for high cardinality attributes with skew citation:72 ncitation:53 pid519537
+title1:A new method to measure the semantic similarity of GO terms. title2:A new method to measure the semantic similarity of GO terms citation:292 ncitation:264 pid473497
+title1:Mining asynchronous periodic patterns in time series data. title2:Mining asynchronous periodic patterns in time series data citation:175 ncitation:154 pid112877
+title1:Horting Hatches an Egg: A New Graph-Theoretic Approach to Collaborative Filtering. title2:Horting hatches an egg: A new graph-theoretic approach to collaborative filtering citation:410 ncitation:392 pid767129
+title1:Mining, Indexing, and Similarity Search in Graphs and Complex Structures. title2:Mining, Indexing, and Similarity Search in Graphs and Complex Structures. citation:5 ncitation:4 pid600159
+title1:The IGrid index: reversing the dimensionality curse for similarity indexing in high dimensional space. title2:The IGrid index: reversing the dimensionality curse for similarity indexing in high dimensional space citation:70 ncitation:69 pid472409
+title1:On demand classification of data streams. title2:On demand classification of data streams citation:204 ncitation:187 pid1709263
+title1:Optimal NODUP All-to-All Broadcast Schemes in Distributed Computing Systems. title2:Optimal NODUP all-to-all broadcast schemes in distributed computing systems citation:8 ncitation:10 pid300082
+title1:Classification Spanning Private Databases. title2:Classification spanning private databases citation:6 ncitation:5 pid472413
+title1:On the Merits of Building Categorization Systems by Supervised Clustering. title2:On the merits of building categorization systems by supervised clustering citation:119 ncitation:110 pid472403
+title1:Interleaving a Join Sequence with Semijoins in Distributed Query Processing. title2:Interleaving a join sequence with semijoins in distributed query processing citation:55 ncitation:53 pid15315
+title1:Graph indexing based on discriminative frequent structure analysis. title2:Graph indexing based on discriminative frequent structure analysis citation:73 ncitation:62 pid472401
+title1:Ownership protection of shape datasets with geodesic distance preservation. title2:Ownership protection of shape datasets with geodesic distance preservation citation:3 ncitation:1 pid343533
+title1:Clustering Through Decision Tree Construction. title2:Clustering through decision tree construction citation:140 ncitation:118 pid1124817
+title1:Near-optimal Supervised Feature Selection among Frequent Subgraphs. title2:Near-optimal Supervised Feature Selection among Frequent Subgraphs. citation:39 ncitation:32 pid1118759
+title1:Anonymizing Classification Data for Privacy Preservation. title2:Anonymizing classification data for privacy preservation citation:136 ncitation:118 pid176715
+title1:Tradeoffs Between Coupling Small and Large Processors for Transaction Processing. title2:Tradeoffs between coupling small and large processors for transaction processing citation:23 ncitation:23 pid95617
+title1:An Efficient Online Tool to Search Top-N Genes with Similar Biological Functions in Gene Ontology Database. title2:An Efficient Online Tool to Search Top-N Genes with Similar Biological Functions in Gene Ontology Database citation:2 ncitation:2 pid1213521
+title1:On Robust Transaction Routing and Load Sharing. title2:On robust transaction routing and load sharing citation:26 ncitation:25 pid1113908
+title1:Cross-relational clustering with user's guidance. title2:Cross-relational clustering with user's guidance citation:44 ncitation:42 pid1428061
+title1:Analysis of Task Assignment Policies in Scalable Distributed Web-Server Systems. title2:Analysis of task assignment policies in scalable distributed Web-server systems citation:194 ncitation:191 pid1078970
+title1:Feature-based similarity search in graph structures. title2:Feature-based similarity search in graph structures citation:32 ncitation:25 pid713597
+title1:Content-based filtering for efficient online materialized view maintenance. title2:Content-based filtering for efficient online materialized view maintenance citation:9 ncitation:8 pid1118761
+title1:A graph-based approach to systematically reconstruct human transcriptional regulatory modules. title2:A graph-based approach to systematically reconstruct human transcriptional regulatory modules citation:70 ncitation:70 pid473517
+title1:GraphScope: parameter-free mining of large time-evolving graphs. title2:Graphscope: parameter-free mining of large time-evolving graphs citation:199 ncitation:187 pid1124856
+title1:CrossClus: user-guided multi-relational clustering. title2:CrossClus: user-guided multi-relational clustering citation:25 ncitation:20 pid1118770
+title1:LeeWave: level-wise distribution of wavelet coefficients for processing NN queries over distributed streams. title2:LeeWave: level-wise distribution of wavelet coefficients for processing k NN queries over distributed streams citation:5 ncitation:5 pid96590
+title1:Data Mining and Personalization Technologies. title2:Data mining and personalization technologies citation:95 ncitation:93 pid438895
+title1:GrubJoin: An Adaptive, Multi-Way, Windowed Stream Join with Time Correlation-Aware CPU Load Shedding. title2:Grubjoin: An adaptive, multi-way, windowed stream join with time correlation-aware cpu load shedding citation:17 ncitation:18 pid473563
+title1:Dual encryption for query integrity assurance. title2:Dual encryption for query integrity assurance citation:29 ncitation:28 pid839715
+title1:Correlating burst events on streaming stock market data. title2:Correlating burst events on streaming stock market data citation:8 ncitation:8 pid140875
+title1:A framework for condensation-based anonymization of string data. title2:A framework for condensation-based anonymization of string data citation:8 ncitation:5 pid2432465
+title1:On Efficient Query Processing of Stream Counts on the Cell Processor. title2:On efficient query processing of stream counts on the cell processor citation:9 ncitation:10 pid596831
+title1:Fast computing reachability labelings for large graphs with high compression rate. title2:Fast computing reachability labelings for large graphs with high compression rate citation:54 ncitation:50 pid1185995
+title1:On General Results for All-to-All Broadcast. title2:On general results for all-to-all broadcast citation:15 ncitation:14 pid1113947
+title1:Efficient Parallel and Data Mining for Association Rules. title2:Efficient parallel data mining for association rules citation:283 ncitation:276 pid96569
+title1:Inductive Learning in Less Than One Sequential Data Scan. title2:Inductive learning in less than one sequential data scan citation:3 ncitation:3 pid839725
+title1:Translating Relational Schema with Constraints into Xml Schema. title2:Translating relational schema with constraints into XML schema citation:12 ncitation:12 pid839729
+title1:On static and dynamic methods for condensation-based privacy-preserving data mining. title2:On static and dynamic methods for condensation-based privacy-preserving data mining citation:22 ncitation:18 pid302317
+title1:Truth Discovery with Multiple Conflicting Information Providers on the Web. title2:Truth discovery with multiple conflicting information providers on the web citation:145 ncitation:109 pid176694
+title1:A framework for resource-aware knowledge discovery in data streams: a holistic approach with its application to clustering. title2:A framework for resource-aware knowledge discovery in data streams: a holistic approach with its application to clustering citation:50 ncitation:46 pid473539
+title1:The Maximum Factor Queue Length Batching Scheme for Video-on-Demand Systems. title2:The maximum factor queue length batching scheme for video-on-demand systems citation:90 ncitation:89 pid1124753
+title1:Global distance-based segmentation of trajectories. title2:Global distance-based segmentation of trajectories citation:67 ncitation:57 pid95737
+title1:WebKDD 2005: web mining and web usage analysis post-workshop report. title2:Webkdd 2005: web mining and web usage analysis post-workshop report citation:4 ncitation:4 pid388365
+title1:Fast Monitoring Proximity and Centrality on Time-evolving Bipartite Graphs. citation:3 ncitation:3 pid920687
+title1:Temperature-Aware Scheduling: When is System-Throttling Good Enough? title2:Temperature-aware scheduling: When is system-throttling good enough? citation:7 ncitation:7 pid1376048
+title1:On Optimal Piggyback Merging Policies for Video-on-Demand Systems. title2:On optimal piggyback merging policies for video-on-demand systems citation:135 ncitation:135 pid1118825
+title1:Real-time new event detection for video streams. title2:Real-time new event detection for video streams citation:4 ncitation:4 pid1113976
+title1:Segment-based proxy caching of multimedia streams. title2:Segment-based proxy caching of multimedia streams citation:318 ncitation:301 pid567232
+title1:A Holistic Approach for Resource-aware Adaptive Data Stream Mining. title2:A holistic approach for resource-aware adaptive data stream mining citation:17 ncitation:15 pid1077929
+title1:Adaptive Piggybacking Schemes for Video-On-Demand Systems. title2:Adaptive piggybacking schemes for video-on-demand systems citation:1 ncitation:4 pid472377
+title1:A Sampling-Based Approach to Information Recovery. title2:A sampling-based approach to information recovery citation:29 ncitation:28 pid1063611
+title1:Online Failure Forecast for Fault-Tolerant Data Stream Processing. title2:Online failure forecast for fault-tolerant data stream processing citation:11 ncitation:11 pid1288325
+title1:PROUD: a probabilistic approach to processing similarity queries over uncertain data streams. title2:PROUD: a probabilistic approach to processing similarity queries over uncertain data streams citation:23 ncitation:20 pid652364
+title1:Toward Predictive Failure Management for Distributed Stream Processing Systems. title2:Toward predictive failure management for distributed stream processing systems citation:24 ncitation:25 pid596834
+title1:Mining significant graph patterns by leap search. title2:Mining significant graph patterns by leap search citation:143 ncitation:129 pid96521
+title1:Performance Comparison of Active-Sender and Active-Receiver Policies for Distributed Caching. title2:Performance comparison of active-sender and active-receiver policies for distributed caching citation:3 ncitation:3 pid674929
+title1:Efficient structural joins with on-the-fly indexing. title2:Efficient structural joins with on-the-fly indexing citation:2 ncitation:2 pid403143
+title1:DAWN: an efficient framework of DCT for data with error estimation. title2:DAWN: an efficient framework of DCT for data with error estimation citation:1 ncitation:1 pid1025389
+title1:Approximate Query Processing in Cube Streams. title2:Approximate query processing in cube streams citation:3 ncitation:3 pid1016653
+title1:Online pairing of VoIP conversations. title2:Online pairing of VoIP conversations citation:4 ncitation:4 pid302141
+title1:Pattern-based similarity search for microarray data. title2:Pattern-based similarity search for microarray data citation:5 ncitation:4 pid176877
+title1:Dynamic Load Balancing on Web-Server Systems. title2:Dynamic load balancing on web-server systems citation:641 ncitation:610 pid600275
+title1:TabSum: A Flexible and Dynamic Table Summarization Approach. title2:Tabsum: A flexible and dynamic table summarization approach citation:9 ncitation:5 pid255282
+title1:Scheduling Parallelizable Tasks to Minimize Average Response Time. title2:Scheduling parallelizable tasks to minimize average response time citation:67 ncitation:2 pid674921
+title1:Approximate Algorithms Scheduling Parallelizable Tasks. title2:Approximate algorithms scheduling parallelizable tasks citation:198 ncitation:192 pid1138380
+title1:Suppressing model overfitting in mining concept-drifting data streams. title2:Suppressing model overfitting in mining concept-drifting data streams citation:45 ncitation:44 pid1113985
+title1:The Intelligent Recommendation Analyzer. title2:The intelligent recommendation analyzer citation:6 ncitation:5 pid332756
+title1:Dynamic Load Sharing in Distributed Database Systems. title2:Dynamic load sharing in distributed database systems citation:13 ncitation:14 pid1354295
+title1:Efficient mining of weighted association rules (WAR). title2:Efficient mining of weighted association rules (WAR) citation:143 ncitation:134 pid1138376
+title1:Direct Discriminative Pattern Mining for Effective Classification. title2:Direct discriminative pattern mining for effective classification citation:104 ncitation:91 pid473396
+title1:Managing eBusiness on Demand SLA Contracts in Business Terms Using the Cross-SLA Execution Manager SAM. title2:Managing eBusiness on demand SLA contracts in business terms using the cross-SLA execution manager SAM citation:27 ncitation:27 pid674899
+title1:Performance Modelling and Comparisons of Global Shared Buffer Management Policies in a Cluster Environment. title2:Performance modelling and comparisons of global shared buffer management policies in a cluster environment citation:5 ncitation:6 pid928439
+title1:Effective Nearest Neighbor Indexing with the Euclidean Metric. title2:Effective nearest neighbor indexing with the euclidean metric citation:7 ncitation:7 pid297324
+title1:A Framework for Clustering Uncertain Data Streams. title2:A framework for clustering uncertain data streams citation:113 ncitation:103 pid614646
+title1:Clustering on Complex Graphs. title2:Clustering on Complex Graphs. citation:9 ncitation:8 pid614647
+title1:Fast Algorithms for Projected Clustering. title2:Fast algorithms for projected clustering citation:827 ncitation:784 pid473405
+title1:Performability comparison of configurable duplex systems. title2:Performability comparison of configurable duplex systems citation:1 ncitation:1 pid298285
+title1:Consumption-Based Buffer Management for Maximizing System Throughput of a Multimedia System. title2:Consumption-based buffer management for maximizing system throughput of a multimedia system citation:14 ncitation:16 pid206927
+title1:A New Method for Similarity Indexing of Market Basket Data. title2:A new method for similarity indexing of market basket data citation:88 ncitation:87 pid473406
+title1:Analysis of Fault Tolerant Multiprocessor Architectures for Lock Engine Design. title2:Analysis of fault tolerant multiprocessor architectures for lock engine design citation:9 ncitation:10 pid302104
+title1:Finding Generalized Projected Clusters In High Dimensional Spaces. title2:Finding generalized projected clusters in high dimensional spaces citation:511 ncitation:488 pid416254
+title1:Mining concept-drifting data streams using ensemble classifiers. title2:Mining concept-drifting data streams using ensemble classifiers citation:778 ncitation:719 pid2411507
+title1:Scalable OLAP and mining of information networks. title2:Scalable OLAP and mining of information networks citation:5 ncitation:4 pid95514
+title1:CellJoin: a parallel stream join operator for the cell processor. title2:CellJoin: a parallel stream join operator for the cell processor citation:6 ncitation:6 pid302093
+title1:An Analytical Model of Reconstruction Time in Mirrored Disks. title2:An analytical model of reconstruction time in mirrored disks citation:27 ncitation:27 pid16183
+title1:An Automated System for Web Portal Personalization. title2:An automated system for web portal personalization citation:19 ncitation:18 pid597985
+title1:Graph OLAP: a multi-dimensional framework for graph data analysis. title2:Graph OLAP: a multi-dimensional framework for graph data analysis citation:20 ncitation:12 pid832056
+title1:The S-Tree: An Efficient Index for Multidimensional Objects. title2:The S-tree: an efficient index for multidimensional objects citation:24 ncitation:23 pid331282
+title1:On the temporal dimension of search. title2:On the temporal dimension of search citation:48 ncitation:44 pid597987
+title1:Forward Semi-supervised Feature Selection. title2:Forward semi-supervised feature selection citation:27 ncitation:24 pid832058
+title1:Performability Analysis of Operation Modes of Configurable Duplex Systems. title2:Performability analysis of operation modes of configurable duplex systems citation:5 ncitation:5 pid597989
+title1:A Framework for Clustering Evolving Data Streams. title2:A framework for clustering evolving data streams citation:1038 ncitation:968 pid473387
+title1:Positive Unlabeled Learning for Data Stream Classification. title2:Positive Unlabeled Learning for Data Stream Classification. citation:30 ncitation:26 pid597991
+title1:A Framework for Projected Clustering of High Dimensional Data Streams. title2:A framework for projected clustering of high dimensional data streams citation:359 ncitation:339 pid2335648
+title1:Modeling and Analysis of Transaction Processing Systems. title2:Modeling and analysis of transaction processing systems citation:7 ncitation:6 pid2252800
+title1:Discovering Overlapping Communities of Named Entities. title2:Discovering overlapping communities of named entities citation:22 ncitation:20 pid1138320
+title1:Effectiveness of Parallel Joins. title2:Effectiveness of parallel joins citation:94 ncitation:93 pid641905
+title1:On Optimal Processor Allocation to Support Pipelined Hash Joins. title2:On optimal processor allocation to support pipelined hash joins citation:60 ncitation:62 pid1384915
+title1:Classifying Data Streams with Skewed Class Distributions and Concept Drifts. title2:Classifying data streams with skewed class distributions and concept drifts citation:37 ncitation:28 pid1339992
+title1:Applying data mining in investigating money laundering crimes. title2:Applying data mining in investigating money laundering crimes citation:38 ncitation:35 pid617544
+title1:Cooperative TransCaching: A System of Distributed Proxy Servers for Web Content Adaptation. title2:Cooperative TransCaching: A System of Distributed Proxy Servers for Web Content Adaptation. citation:2 ncitation:2 pid674878
+title1:TS-Trees: A Non-Alterable Search Tree Index for Trustworthy Databases on Write-Once-Read-Many (WORM) Storage. title2:Ts-trees: A non-alterable search tree index for trustworthy databases on write-once-read-many (worm) storage citation:4 ncitation:1 pid206892
+title1:Using Rotational Mirrored Declustering for Replica Placement in a Disk-Array-Based Video Server. title2:Using rotational mirrored declustering for replica placement in a disk-array-based video server citation:24 ncitation:33 pid641901
+title1:Optimization of the Grouped Sweeping Scheduling (GSS) with Heterogeneous Multimedia Streams. title2:Optimization of the grouped sweeping scheduling (GSS) with heterogeneous multimedia streams citation:150 ncitation:148 pid641903
+title1:Scan: A Hierarchical Algorithm for Similarity Search in Databases Consisting of Long Sequences. title2:HierarchyScan: A Hierarchical Algorithm for Similarity Search in Databases Consisting of Long Sequences citation:1 ncitation:1 pid596942
+title1:On Workload Characterization of Relational Database Environments. title2:On workload characterization of relational database environments citation:83 ncitation:83 pid541840
+title1:Utility computing SLA management based upon business objectives. title2:Utility computing SLA management based upon business objectives citation:129 ncitation:120 pid1113014
+title1:Analysis of Replication in Distributed Database Systems. title2:Analysis of replication in distributed database systems citation:75 ncitation:74 pid599165
+title1:Compact reachability labeling for graph-structured data. title2:Compact reachability labeling for graph-structured data citation:33 ncitation:29 pid929462
+title1:CrossMine: Efficient Classification Across Multiple Database Relations. title2:Crossmine: Efficient classification across multiple database relations citation:134 ncitation:126 pid673866
+title1:Enhanced Biclustering on Expression Data. title2:Enhanced biclustering on expression data citation:240 ncitation:209 pid795231
+title1:On Variable Constraints in Privacy Preserving Data Mining. title2:On variable constraints in privacy preserving data mining citation:18 ncitation:13 pid502083
+title1:Performance Analysis of Coherency Control Policies through Lock Retention. title2:Performance analysis of coherency control policies through lock retention citation:29 ncitation:28 pid502087
+title1:On Analytic Modeling of Multimedia Batching Schemes. title2:On analytic modeling of multimedia batching schemes citation:13 ncitation:14 pid844740
+title1:Active Mining of Data Streams. title2:Active mining of data streams citation:75 ncitation:69 pid502085
+title1:Answering linear optimization queries with an approximate stream index. title2:Answering linear optimization queries with an approximate stream index citation:4 ncitation:3 pid103181
+title1:A Performance Study of Robust Load Sharing Strategies for Distributed Heterogeneous Web Server Systems. title2:A performance study of robust load sharing strategies for distributed heterogeneous web server systems citation:40 ncitation:38 pid103179
+title1:Efficient State Estimators for Load Control Policies in Scalable Web Server Clusters. title2:Efficient state estimators for load control policies in scalable Web server clusters citation:18 ncitation:19 pid891729
+title1:Graph Partitioning Based on Link Distributions. title2:Graph partitioning based on link distributions citation:1 ncitation:1 pid1112646
+title1:Buffer Analysis for a Data Sharing Environment with Skewed Data Access. title2:Buffer analysis for a data sharing environment with skewed data access citation:11 ncitation:11 pid95422
+title1:Can the Utility of Anonymized Data be used for Privacy Breaches? title2:Can the utility of anonymized data be used for privacy breaches? citation:19 ncitation:10 pid578931
+title1:delta-Clusters: Capturing Subspace Correlation in a Large Data Set. citation:291 ncitation:259 pid2371594
+title1:Storage Optimization for Large-Scale Distributed Stream Processing Systems. title2:Storage optimization for large-scale distributed stream-processing systems citation:13 ncitation:12 pid301550
+title1:A Regression-Based Temporal Pattern Mining Scheme for Data Streams. title2:A regression-based temporal pattern mining scheme for data streams citation:145 ncitation:145 pid63370
+title1:Data Mining Techniques for Associations, Clustering and Classification. title2:Data mining techniques for associations, clustering and classification citation:34 ncitation:33 pid578922
+title1:Adaptive Transaction Routing in a Heterogeneous Database Environment. title2:Adaptive transaction routing in a heterogeneous database environment citation:5 ncitation:5 pid578924
+title1:A Comparison of Regression-Based Load Sharing Strategies for Distributed Database Environments. title2:A comparison of regression-based load sharing strategies for distributed database environments citation:2 ncitation:2 pid598480
+title1:Moment: Maintaining Closed Frequent Itemsets over a Stream Sliding Window. title2:Moment: Maintaining closed frequent itemsets over a stream sliding window citation:264 ncitation:256 pid578925
+title1:On Effective Conceptual Indexing and Similarity Search in Text Data. title2:On effective conceptual indexing and similarity search in text data citation:26 ncitation:25 pid578926
+title1:Text Classification by Labeling Words. title2:Text classification by labeling words citation:102 ncitation:89 pid2419818
+title1:Optimal Design of Multiple Hash Tables for Concurrency Control. title2:Optimal design of multiple hash tables for concurrency control citation:6 ncitation:6 pid2213092
+title1:Optimization of Parallel Execution for Multi-Join Queries. title2:Optimization of parallel execution for multi-join queries citation:50 ncitation:49 pid298117
+title1:On Coupling Multiple Systems With A Global Buffer. title2:On coupling multiple systems with a global buffer citation:13 ncitation:13 pid1278723
+title1:On the design of a learning crawler for topical resource discovery. title2:On the design of a learning crawler for topical resource discovery citation:44 ncitation:42 pid111876
+title1:Optimizing Index Allocation for Sequential Data Broadcasting in Wireless Mobile Computing. title2:Optimizing index allocation for sequential data broadcasting in wireless mobile computing citation:125 ncitation:119 pid16061
+title1:Optimal multi-scale patterns in time series streams. title2:Optimal multi-scale patterns in time series streams citation:54 ncitation:52 pid1112677
+title1:Why Naive Ensembles Do Not Work in Cloud Computing. title2:Why naive ensembles do not work in cloud computing citation:4 ncitation:4 pid1222442
+title1:Combining Join and Semi-Join Operations for Distributed Query Processing. title2:Combining joint and semi-join operations for distributed query processing citation:58 ncitation:65 pid301522
+title1:A Graph Theoretical Approach to Determine a Join Reducer Sequence in Distributed Query Processing. title2:A graph theoretical approach to determine a join reducer sequence in distributed query processing citation:27 ncitation:26 pid411985
+title1:Multi-Space-Mapped SVMs for Multi-class Classification. title2:Multi-space-mapped SVMs for multi-class classification citation:4 ncitation:3 pid643892
+title1:An Improved Categorization of Classifier's Sensitivity on Sample Selection Bias. title2:An improved categorization of classifier's sensitivity on sample selection bias citation:40 ncitation:39 pid526653
+title1:Effective Estimation of Posterior Probabilities: Explaining the Accuracy of Randomized Decision Tree Approaches. title2:Effective estimation of posterior probabilities: Explaining the accuracy of randomized decision tree approaches citation:27 ncitation:25 pid297195
+title1:Detection and Classification of Changes in Evolving Data Streams. title2:Detection and classification of changes in evolving data streams citation:24 ncitation:22 pid297193
+title1:Decision Tree Evolution Using Limited Number of Labeled Data Items from Drifting Data Streams. title2:Decision tree evolution using limited number of labeled data items from drifting data streams citation:20 ncitation:22 pid299335
+title1:An Effective Hash Based Algorithm for Mining Association Rules. title2:An effective hash-based algorithm for mining association rules citation:1773 ncitation:1664 pid302481
+title1:Searching Substructures with Superimposed Distance. title2:Searching substructures with superimposed distance citation:53 ncitation:49 pid2248532
+title1:Connecting Sparsely Distributed Similar Bloggers. title2:Connecting sparsely distributed similar bloggers citation:4 ncitation:4 pid302480
+title1:Analysis of Hybrid Concurrency Control Schemes For a High Data Contention Environment. title2:Analysis of hybrid concurrency control schemes for a high data contention environment citation:41 ncitation:40 pid13875
+title1:Relational clustering by symmetric convex coding. title2:Relational clustering by symmetric convex coding citation:16 ncitation:16 pid1112584
+title1:Integrating DCT and DWT for approximating cube streams. title2:Integrating dct and dwt for approximating cube streams citation:13 ncitation:13 pid1112586
+title1:A New Framework For Itemset Generation. title2:A new framework for itemset generation citation:203 ncitation:195 pid1112588
+title1:On Workload Characterization of Relational Database Environments. title2:On workload characterization of relational database environments citation:83 ncitation:83 pid537217
+title1:Dirichlet Process Based Evolutionary Clustering. title2:Dirichlet process based evolutionary clustering citation:26 ncitation:21 pid1120020
+title1:Time Sensitive Ranking with Application to Publication Search. title2:Time sensitive ranking with application to publication search citation:12 ncitation:12 pid1112578
+title1:Fast Burst Correlation of Financial Data. title2:Fast burst correlation of financial data citation:15 ncitation:14 pid599494
+title1:Dynamic Transaction Routing in Distributed Database Systems. title2:Dynamic transaction routing in distributed database systems citation:27 ncitation:26 pid1319546
+title1:Evolutionary Clustering by Hierarchical Dirichlet Process with Hidden Markov State. title2:Evolutionary clustering by hierarchical dirichlet process with hidden markov state citation:28 ncitation:24 pid1112580
+title1:Graph OLAP: Towards Online Analytical Processing on Graphs. title2:Graph OLAP: Towards online analytical processing on graphs citation:45 ncitation:40 pid1112582
+title1:Performance Analysis of Concurrency Control Using Locking with Deferred Blocking. title2:Performance analysis of concurrency control using locking with deferred blocking citation:21 ncitation:20 pid303714
+title1:Scheduling Algorithms for the Broadcast Delivery of Digital Products. title2:Scheduling algorithms for the broadcast delivery of digital products citation:17 ncitation:17 pid302585
+title1:Applying Hash Filters to Improving the Execution of Bushy Trees. title2:Applying Hash Filters to Improving the Execution of Bushy Trees citation:9 ncitation:11 pid302587
+title1:New Algorithms for Parallelizing Relational Database Joins in the Presence of Data Skew. title2:New algorithms for parallelizing relational database joins in the presence of data skew citation:20 ncitation:18 pid911581
+title1:Adaptive Load Diffusion for Stream Joins. title2:Adaptive load diffusion for stream joins citation:6 ncitation:5 pid302589
+title1:Storage and Retrieval Methods to Support Fully Interactive Playout in a Disk-Array-Based Video Server. title2:Storage and retrieval methods to support fully interactive playout in a disk-array-based video server citation:63 ncitation:61 pid599514
+title1:Performance Comparision of Concurrency Control Protocols for Transaction Processing Systems with Regional Locality. title2:Performance comparison of concurrency control protocols for transaction processing systems with regional locality citation:2 ncitation:3 pid1319531
+title1:DNS Dispatching Algorithms with State Estimators for Scalable Web-Server Clusters. citation:55 ncitation:55 pid1129926
+title1:On Optimal Site Assignment for Relations in the Distributed Database Environment. title2:On optimal site assignment for relations in the distributed database environment citation:37 ncitation:38 pid336227
+title1:Scheduling Parallelizable Tasks: Putting it All on the Shelf. title2:Scheduling parallelizable tasks: Putting it all on the shelf citation:46 ncitation:44 pid95440
+title1:A Hybrid Distributed Centralized System Structure for Transaction Processing. title2:A hybrid distributed centralized system structure for transaction processing citation:12 ncitation:11 pid544843
+title1:An Effective Approach to Vertical Partitioning for Physical Design of Relational Databases. title2:An effective approach to vertical partitioning for physical design of relational databases citation:60 ncitation:59 pid1129922
+title1:Analysis of Concurrency-Coherency Control Protocols for Distributed Transaction Processing Systems with Regional Locality. title2:Analysis of concurrency-coherency control protocols for distributed transaction processing systems with regional locality citation:28 ncitation:29 pid303690
+title1:Scheduling Multiple Queries on a Parallel Machine. title2:Scheduling multiple queries on a parallel machine citation:14 ncitation:15 pid542001
+title1:Divergence Control Algorithms for Epsilon Serializability. title2:Divergence control algorithms for epsilon serializability citation:19 ncitation:19 pid1129920
+title1:DASD Dancing: A Disk Load Balancing Optimization Scheme for Video-on-Demand Computer. title2:DASD dancing: a disk load balancing optimization scheme for video-on-demand computer systems citation:99 ncitation:98 pid2242710
+title1:Shingle-Based Query Indexing for Location-Based Mobile E-Commerce. title2:Shingle-based query indexing for location-based mobile e-commerce citation:5 ncitation:4 pid2335243
+title1:EIC Editorial. title2:EIC Editorial citation:1 ncitation:125 pid1113718
+title1:Using Rotational Mirrored Declustering for Replica Placement in a Disk-Array-Based Video Server. title2:Using rotational mirrored declustering for replica placement in a disk-array-based video server citation:24 ncitation:33 pid643957
+title1:Dynamic Refinement of Table Summarization or M-Commerce. title2:Dynamic refinement of table summarization for M-commerce citation:2 ncitation:2 pid1113717
+title1:Performance Comparison of IO Shipping and Database Call Shipping: Schemes in Multisystem Partitioned Databases. title2:Performance comparison of IO shipping and database call shipping: schemes in multisystem partitioned databases citation:18 ncitation:18 pid499791
+title1:EIC Editorial. title2:EIC Editorial citation:1 ncitation:125 pid1011084
+title1:Analysis of Affinity Based Routing in Multi-System Data Sharing. title2:Analysis of affinity based routing in multi-system data sharing citation:31 ncitation:34 pid541997
+title1:Limiting Factors of Join Performance on Parallel Processors. title2:Limiting factors of join performance on parallel processors citation:34 ncitation:36 pid616878
+title1:Text Classification without Negative Examples Revisit. title2:Text classification without negative examples revisit citation:93 ncitation:85 pid541999
+title1:Replication Algorithms in a Remote Caching Architecture. title2:Replication algorithms in a remote caching architecture citation:115 ncitation:115 pid1141860
+title1:Smart SMART Bounds for Weighted Response Time Scheduling. title2:Smart SMART bounds for weighted response time scheduling citation:58 ncitation:56 pid1127857
+title1:Editorial: New AE Introduction. title2:Editorial: New AE Introduction citation:5 ncitation:0 pid1113737
+title1:Efficient LRU-Based Buffering in a LAN Remote Caching Architecture. title2:Efficient LRU-based buffering in a LAN remote caching architecture citation:38 ncitation:38 pid597704
+title1:A Performance Study of Robust Distributed Load Sharing Strategies. title2:A performance study of robust distributed load sharing strategies citation:16 ncitation:15 pid1127856
+title1:On Multisystem Coupling Through Function Request Shipping. title2:On multisystem coupling through function request shipping citation:49 ncitation:50 pid1127858
+title1:Editorial: State of the Transactions. title2:Editorial: state of the transactions citation:3 ncitation:-1 pid1113740
+title1:Modeling and Analysis of a Time-Stamp History Based Certification Protocol for Concurrency Control. title2:Modeling and analysis of a time-stamp history based certification protocol for concurrency control citation:22 ncitation:23 pid597709
+title1:Fragmental Proxy Caching for Streaming Multimedia Objects. title2:Fragmental proxy caching for streaming multimedia objects citation:21 ncitation:20 pid1113742
+title1:Processing Moving Queries over Moving Objects Using Motion-Adaptive Indexes. title2:Processing moving queries over moving objects using motion-adaptive indexes citation:52 ncitation:43 pid597711
+title1:Design and Analysis of Permutation-Based Pyramid Broadcasting. title2:Design and analysis of permutation-based pyramid broadcasting citation:20 ncitation:22 pid1113729
+title1:Optimal Design and Sequential Analysis of VLSI Testing Strategy. title2:Optimal design and sequential analysis of VLSI testing strategy citation:7 ncitation:6 pid1113732
+title1:SpeedTracer: A Web Usage Mining and Analysis Tool. title2:Speedtracer: A web usage mining and analysis tool citation:175 ncitation:158 pid2401534
+title1:Energy-Efficient Caching for Wireless Mobile Computing. title2:Energy-efficient caching for wireless mobile computing citation:197 ncitation:195 pid102002
+title1:Performance Comparison of Thrashing Control Policies for Concurrent Mergesorts with Parallel Prefetching. title2:Performance comparison of thrashing control policies for concurrent Mergesorts with parallel prefetching citation:10 ncitation:9 pid658942
+title1:Dynamic Finite Versioning: An Effective Versioning Approach to Concurrent Transaction and Query Processing. title2:Dynamic finite versioning: An effective versioning approach to concurrent transaction and query processing citation:28 ncitation:28 pid1011047
+title1:Performance Analysis of Affinity Clustering on Transaction Processing Coupling Architecture. title2:Performance analysis of affinity clustering on transaction processing coupling architecture citation:44 ncitation:45 pid658940
+title1:Data Placement and Buffer Management for Concurrent Mergesorts with Parallel Prefetching. title2:Data placement and buffer management for concurrent mergesorts with parallel prefetching citation:3 ncitation:3 pid1037311
+title1:On Optimal Batching Policies for Video-on-Demand Storage Servers. title2:On optimal batching policies for video-on-demand storage servers citation:300 ncitation:296 pid1037310
+title1:A Permutation-Based Pyramid Broadcasting Scheme for Video-on-Demand Systems. title2:A permutation-based pyramid broadcasting scheme for video-on-demand systems citation:373 ncitation:367 pid300457
+title1:Modelling of Centralized Concurrency Control in a Multi-System Environment. title2:Modelling of centralized concurrency control in a multi-system environment citation:37 ncitation:38 pid1112787
+title1:A Distributed Infrastructure Supporting Personalized Services for the Mobile Web. title2:A distributed infrastructure supporting personalized services for the mobile Web citation:2 ncitation:2 pid1125376
+title1:Adaptive TTL Schemes for Load Balancing of Distributed Web Servers. title2:Adaptive TTL schemes for load balancing of distributed web servers citation:49 ncitation:50 pid1060406
+title1:Privacy-Preserving Singular Value Decomposition. title2:Privacy-preserving singular value decomposition citation:14 ncitation:12 pid2348412
+title1:A Survey of Uncertain Data Algorithms and Applications. title2:A survey of uncertain data algorithms and applications citation:173 ncitation:159 pid1113745
+title1:The state of the art in locally distributed Web-server systems. title2:The state of the art in locally distributed Web-server systems citation:547 ncitation:522 pid1125378
+title1:Using Unbalanced Trees for Indexing Multidimensional Objects. title2:Using unbalanced trees for indexing multidimensional objects citation:7 ncitation:7 pid1125380
+title1:Motion adaptive indexing for moving continual queries over moving objects. title2:Motion adaptive indexing for moving continual queries over moving objects citation:28 ncitation:29 pid1127855
+title1:A Two-Level Distributed Architecture for Efficient Web Content Adaptation and Delivery. title2:A two-level distributed architecture for efficient Web content adaptation and delivery citation:7 ncitation:7 pid1113751
+title1:A Performance Study of Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System. title2:A performance study of workfile disk management for concurrent mergesorts in a multiprocessor database system citation:8 ncitation:7 pid1113771
+title1:Adaptive load shedding for windowed stream joins. title2:Adaptive load shedding for windowed stream joins citation:46 ncitation:44 pid2462180
+title1:A Bandwidth-Sensitive Update Scheduling Method for Internet Push. title2:A bandwidth-sensitive update scheduling method for Internet push citation:6 ncitation:6 pid1116692
+title1:Mining Patterns in Long Sequential Data with Noise. title2:Mining patterns in long sequential data with noise citation:14 ncitation:14 pid1112802
+title1:Multisystem Coupling by a Combination of Data Sharing and Data Partitioning. title2:Multisystem coupling by a combination of data sharing and data partitioning citation:14 ncitation:15 pid1011025
+title1:Mining Asynchronous Periodic Patterns in Time Series Data. title2:Mining asynchronous periodic patterns in time series data citation:175 ncitation:154 pid1082857
+title1:Parameter Free Bursty Events Detection in Text Streams. title2:Parameter free bursty events detection in text streams citation:156 ncitation:227 pid892856
+title1:Online Mining of Data Streams: Applications, Techniques and Progress. title2:Online Mining of Data Streams: Applications, Techniques and Progress citation:3 ncitation:4 pid301378
+title1:Cross-Feature Analysis for Detecting Ad-Hoc Routing Anomalies. title2:Cross-feature analysis for detecting ad-hoc routing anomalies citation:196 ncitation:188 pid597731
+title1:An Effective Algorithm for Parallelizing Hash Joins in the Presence of Data Skew. title2:An effective algorithm for parallelizing hash joins in the presence of data skew citation:88 ncitation:88 pid579032
+title1:HierarchyScan: A Hierarchical Similarity Search Algorithm for Databases of Long Sequences. title2:Hierarchyscan: A hierarchical similarity search algorithm for databases of long sequences citation:78 ncitation:78 pid301376
+title1:A Hybrid Data Sharing - Data Partitioning Architecture for Transaction Processing. title2:A hybrid data sharing-data partitioning architecture for transaction processing citation:8 ncitation:8 pid301382
+title1:LinkClus: Efficient Clustering via Heterogeneous Semantic Links. title2:LinkClus: efficient clustering via heterogeneous semantic links citation:106 ncitation:94 pid301380
+title1:DDDM2007: Domain Driven Data Mining. title2:DDDM2007: Domain driven data mining citation:14 ncitation:14 pid329619
+title1:Visual Exploration of Genomic Data. title2:Visual exploration of genomic data citation:3 ncitation:2 pid597756
+title1:On Coupling Many Small Systems for Transaction Processing. title2:On coupling many small systems for transaction processing citation:8 ncitation:8 pid1313844
+title1:Scale-Up Strategies for Processing High-Rate Data Streams in System S. title2:Scale-up strategies for processing high-rate data streams in System S citation:29 ncitation:26 pid1063788
+title1:Efficient Classification across Multiple Database Relations: A CrossMine Approach. title2:Efficient classification across multiple database relations: A crossmine approach citation:51 ncitation:51 pid302360
+title1:Dual Labeling: Answering Graph Reachability Queries in Constant Time. title2:Dual labeling: Answering graph reachability queries in constant time citation:134 ncitation:124 pid1281918
+title1:On Affinity Based Routing in Multi-System Data Sharing. title2:On Affinity Based Routing in Multi-System Data Sharing. citation:8 ncitation:8 pid832340
+title1:Density-based clustering of data streams at multiple resolutions. title2:Density-based clustering of data streams at multiple resolutions citation:27 ncitation:23 pid1003347
+title1:Replication for Load Balancing and Hot-Spot Relief on Proxy Web Caches with Hash Routing. title2:Replication for load balancing and hot-spot relief on proxy web caches with hash routing citation:12 ncitation:12 pid301359
+title1:Dynamic Parity Grouping for Improving Write Performance of RAID-5 Disk Arrays. title2:Dynamic Parity Grouping for Improving Write Performance of RAID-5 Disk Arrays citation:3 ncitation:3 pid95357
+title1:Segmentation of multimedia streams for proxy caching. title2:Segmentation of multimedia streams for proxy caching citation:58 ncitation:52 pid571228
+title1:Load Balancing and Hot Spot Relief for Hash Routing among a Collection of Proxy Caches. title2:Load balancing and hot spot relief for hash routing among a collection of proxy caches citation:32 ncitation:31 pid644043
+title1:Incremental tensor analysis: Theory and applications. title2:Incremental tensor analysis: Theory and applications citation:61 ncitation:51 pid95358
+title1:Indexing Continual Range Queries with Covering Tiles for Fast Locating of Moving Objects. title2:Indexing continual range queries with covering tiles for fast locating of moving objects citation:3 ncitation:3 pid296983
+title1:Storage optimization for large-scale distributed stream-processing systems. title2:Storage optimization for large-scale distributed stream-processing systems citation:13 ncitation:12 pid1063708
+title1:Mining Data Streams. title2:Online mining data streams: Problems, applications and progress citation:2 ncitation:2 pid1129855
+title1:Disk Load Balancing for Video-On-Demand Systems. title2:Disk load balancing for video-on-demand systems citation:108 ncitation:106 pid1113817
+title1:Performance Study of a Collaborative Method for Hierarchical Caching in Proxy Servers. title2:Performance study of a collaborative method for hierarchical caching in proxy servers citation:76 ncitation:73 pid642611
+title1:Challenges and Experience in Prototyping a Multi-Modal Stream Analytic and Monitoring Application on System S. title2:Challenges and experience in prototyping a multi-modal stream analytic and monitoring application on System S citation:75 ncitation:74 pid301361
+title1:Spectral clustering for multi-type relational data. title2:Spectral clustering for multi-type relational data citation:127 ncitation:122 pid301326
+title1:Using Join Operations as Reducers in Distributed Query Processing. title2:Using join operations as reducers in distributed query processing citation:20 ncitation:16 pid300506
+title1:On Text Mining Techniques for Personalization. title2:On text mining techniques for personalization citation:14 ncitation:13 pid134409
+title1:peerTalk: A Peer-to-Peer Multiparty Voice-over-IP System. title2:peerTalk: A Peer-to-Peer Multiparty Voice-over-IP System citation:11 ncitation:11 pid301324
+title1:A Fully Distributed Framework for Cost-Sensitive Data Mining. title2:A fully distributed framework for cost-sensitive data mining citation:10 ncitation:10 pid644074
+title1:Approximate Frequent Itemset Mining In the Presence of Random Noise. title2:Approximate frequent itemset mining in the presence of random noise citation:24 ncitation:23 pid1063743
+title1:Partially Supervised Classification of Text Documents. title2:Partially supervised classification of text documents citation:249 ncitation:228 pid302416
+title1:Executing Stream Joins on the Cell Processor. title2:Executing stream joins on the cell processor citation:29 ncitation:26 pid2245441
+title1:Time Series Compressibility and Privacy. title2:Time series compressibility and privacy citation:54 ncitation:41 pid1113851
+title1:Grouped Sweeping Scheduling for DASD-based Multimedia Storage Management. title2:Grouped sweeping scheduling for DASD-based multimedia storage management citation:192 ncitation:193 pid1490452
+title1:A Framework for the Optimizing of WWW Advertising. title2:A framework for the optimizing of WWW advertising citation:38 ncitation:37 pid644084
+title1:ASAP: An Adaptive Sampling Approach to Data Collection in Sensor Networks. title2:ASAP: an adaptive sampling approach to data collection in sensor networks citation:105 ncitation:95 pid1230107
+title1:Efficient Discovery of Frequent Approximate Sequential Patterns. title2:Efficient discovery of frequent approximate sequential patterns citation:19 ncitation:16 pid344856
+title1:Towards Graph Containment Search and Indexing. title2:Towards graph containment search and indexing citation:61 ncitation:54 pid1116553
+title1:An Effective Algorithm for Parallelizing Sort Merge in the Presence of Data Skew. title2:An effective algorithm for parallelizing sort merge joins in the presence of data skew citation:63 ncitation:58 pid297957
+title1:Effect of Skew on Join Performance in Parallel Architectures. title2:Effect of skew on join performance in parallel architectures citation:57 ncitation:56 pid298922
+title1:Design and Analysis of a Look-Ahead Scheduling Scheme to Support Pause-Resume for Video-on-Demand Applications. title2:Design and analysis of a look-ahead scheduling scheme to support pause-resume for video-on-demand applications citation:70 ncitation:72 pid1124153
+title1:Robust Transaction Routing in Distributed Database Systems. title2:Robust transaction routing in distributed database systems citation:2 ncitation:2 pid1612572
+title1:Load balancing for clustered web farms. title2:Load balancing for clustered web farms citation:4 ncitation:4 pid2743
+title1:Efficiently Mining Frequent Closed Partial Orders. title2:Efficiently mining frequent closed partial orders citation:18 ncitation:18 pid1011395
+title1:Parallel Query Processing. title2:Parallel query processing citation:16 ncitation:17 pid795840
+title1:MaPle: A Fast Algorithm for Maximal Pattern-based Clustering. title2:Maple: A fast algorithm for maximal pattern-based clustering citation:99 ncitation:98 pid644209
+title1:Guest Editorial: Text and Web Mining. title2:Guest Editorial: Text and Web Mining citation:5 ncitation:5 pid579136
+title1:Structural Periodic Measures for Time-Series Data. title2:Structural periodic measures for time-series data citation:12 ncitation:13 pid335291
+title1:Combining Multiple Clusterings by Soft Correspondence. title2:Combining multiple clusterings by soft correspondence citation:22 ncitation:22 pid160212
+title1:Geographic Load Balancing for Scalable Distributed Web Systems. title2:Geographic load balancing for scalable distributed web systems citation:90 ncitation:88 pid1126325
+title1:Pushing Feature Selection Ahead Of Join. title2:Pushing feature selection ahead of join citation:11 ncitation:11 pid296738
+title1:Integrated Concurrency-Coherency Controls for Multisystem Data Sharing. title2:Integrated concurrency-coherency controls for multisystem data sharing citation:54 ncitation:53 pid1202741
+title1:Early Prediction on Time Series: A Nearest Neighbor Approach. title2:Early Prediction on Time Series: A Nearest Neighbor Approach. citation:22 ncitation:17 pid875937
+title1:Resource-Aware Mining with Variable Granularities in Data Streams. title2:Resource-Aware Mining with Variable Granularities in Data Streams. citation:27 ncitation:26 pid2224331
+title1:Redefining Clustering for High-Dimensional Applications. title2:Redefining clustering for high-dimensional applications citation:87 ncitation:84 pid335275
+title1:Progressive Transaction Recovery in Distributed DB/DC Systems. title2:Progressive transaction recovery in distributed DB/DC systems citation:6 ncitation:7 pid644184
+title1:Building Text Classifiers Using Positive and Unlabeled Examples. title2:Building text classifiers using positive and unlabeled examples citation:247 ncitation:201 pid644188
+title1:A New Approach to Online Generation of Association Rules. title2:A new approach to online generation of association rules citation:111 ncitation:105 pid1011437
+title1:On balancing the load in a clustered web farm. title2:On balancing the load in a clustered web farm citation:48 ncitation:49 pid579172
+title1:Mining Associations with the Collective Strength Approach. title2:Mining associations with the collective strength approach citation:26 ncitation:27 pid375466
+title1:Caching on the World Wide Web. title2:Caching on the world wide web citation:391 ncitation:380 pid2449173
+title1:Fast Algorithms for Online Generation of Profile Association Rules. title2:Fast algorithms for online generation of profile association rules citation:11 ncitation:12 pid301817
+title1:Finding Localized Associations in Market Basket Data. title2:Finding localized associations in market basket data citation:75 ncitation:73 pid303407
+title1:Mining Colossal Frequent Patterns by Core Pattern Fusion. title2:Mining colossal frequent patterns by core pattern fusion citation:43 ncitation:37 pid644173
+title1:A Framework for On-Demand Classification of Evolving Data Streams. title2:A framework for on-demand classification of evolving data streams citation:48 ncitation:44 pid160239
+title1:On Using Partial Supervision for Text Categorization. title2:On using partial supervision for text categorization citation:37 ncitation:34 pid297937
+title1:Community Learning by Graph Approximation. title2:Community learning by graph approximation citation:24 ncitation:20 pid1682948
+title1:Hierarchical, Parameter-Free Community Discovery. title2:Hierarchical, parameter-free community discovery citation:20 ncitation:18 pid160225
+title1:Fast Computation of Reachability Labeling for Large Graphs. title2:Fast computation of reachability labeling for large graphs citation:64 ncitation:60 pid1011441
+title1:A Condensation Approach to Privacy Preserving Data Mining. title2:A condensation approach to privacy preserving data mining citation:250 ncitation:215 pid1064167
+title1:On Periodicity Detection and Structural Periodic Similarity. title2:On periodicity detection and structural periodic similarity citation:61 ncitation:55 pid1007068
+title1:A Load Shedding Framework and Optimizations for M-way Windowed Stream Joins. title2:A load shedding framework and optimizations for m-way windowed stream joins citation:24 ncitation:22 pid755105
+title1:Continuous keyword search on multiple text streams. title2:Continuous keyword search on multiple text streams citation:10 ncitation:10 pid839652
+title1:Mining Behavior Graphs for "Backtrace" of Noncrashing Bugs. title2:Mining Behavior Graphs for" Backtrace" of Noncrashing Bugs. citation:65 ncitation:56 pid302806
+title1:Efficient Data Mining for Path Traversal Patterns. title2:Efficient data mining for path traversal patterns citation:720 ncitation:701 pid301722
+title1:A System for Keyword Search on Textual Streams. title2:A System for Keyword Search on Textual Streams. citation:4 ncitation:4 pid489384
+title1:CSR: Speaker Recognition from Compressed VoIP Packet Stream. title2:CSR: Speaker recognition from compressed VoIP packet stream citation:18 ncitation:18 pid579078
+title1:Progressive Modeling. title2:Progressive modeling citation:4 ncitation:4 pid1128006
+title1:Data Mining: An Overview from a Database Perspective. title2:Data mining: an overview from a database perspective citation:2251 ncitation:2195 pid579097
+title1:Is random model better? On its accuracy and efficiency. title2:Is random model better? On its accuracy and efficiency citation:62 ncitation:56 pid1249366
+title1:Optimal Component Composition for Scalable Stream Processing. title2:Optimal component composition for scalable stream processing citation:35 ncitation:32 pid579101
+title1:Applying Segmented Right-Deep Trees to Pipelining Multiple Hash Joins. title2:Applying segmented right-deep trees to pipelining multiple hash joins citation:18 ncitation:20 pid1580560
+title1:Analysis of Peer-to-Peer Systems: Workload Characterization and Effects on Traffic Cacheability. title2:Analysis of peer-to-peer systems: workload characterization and effects on traffic cacheability citation:18 ncitation:17 pid1112357
+title1:Incremental Processing of Continual Range Queries over Moving Objects. title2:Incremental processing of continual range queries over moving objects citation:36 ncitation:32 pid1080439
+title1:Collaborative Proxy System for Distributed Web Content Transcoding. title2:Collaborative proxy system for distributed Web content transcoding citation:71 ncitation:71 pid302784
+title1:Scoring the Data Using Association Rules. title2:Scoring the data using association rules citation:43 ncitation:41 pid579092
+title1:Discovering unexpected information from your competitors' web sites. title2:Discovering unexpected information from your competitors' web sites citation:90 ncitation:88 pid1112355
+title1:Online Algorithms for Finding Profile Association Rules. title2:Online algorithms for finding profile association rules citation:32 ncitation:30 pid1112351
+title1:Targeting the right students using data mining. title2:Targeting the right students using data mining citation:62 ncitation:61 pid301746
+title1:Interval query indexing for efficient stream processing. title2:Interval query indexing for efficient stream processing citation:36 ncitation:34 pid1112349
+title1:Co-clustering by block value decomposition. title2:Co-clustering by block value decomposition citation:98 ncitation:92 pid1112347
+title1:The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment. title2:The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment. citation:39 ncitation:39 pid301751
+title1:Unsupervised learning on k-partite graphs. title2:Unsupervised learning on k-partite graphs citation:100 ncitation:85 pid1112345
+title1:Type-Independent Correction of Sample Selection Bias via Structural Discovery and Re-balancing. title2:Type-Independent Correction of Sample Selection Bias via Structural Discovery and Re-balancing. citation:13 ncitation:10 pid303475
+title1:Exploring Wait Tolerance in Effective Batching for Video-on-Demand Scheduling. title2:Exploring wait tolerance in effective batching for video-on-demand scheduling citation:53 ncitation:51 pid542216
+title1:Site Assignment for Relations and Join Operations in the Distributed Transaction Processing Environment. title2:Site assignment for relations and joint operations in the distributed transaction processing environment citation:18 ncitation:17 pid176166
+title1:A Vertical Partitioning Algorithm for Relational Databases. title2:A vertical partitioning algorithm for relational databases citation:89 ncitation:88 pid1167811
+title1:Modeling and Analysis of Concurrency Control Schemes. title2:Modeling and analysis of concurrency control schemes citation:2 ncitation:2 pid176190
+title1:Analysis of Multi-System Function Request Shipping. title2:Analysis of multi-system function request shipping citation:10 ncitation:9 pid579134
+title1:On Disk Caching of Web Objects in Proxy Servers. title2:On disk caching of web objects in proxy servers citation:25 ncitation:24 pid579123
+title1:Efficient Method for Maximizing Bichromatic Reverse Nearest Neighbor. title2:Efficient method for maximizing bichromatic reverse nearest neighbor citation:49 ncitation:29 pid301736
+title1:Design and Analysis of Integrated Concurrency-Coherence Controls. title2:Design and Analysis of Integrated Concurrency-Coherence Controls citation:13 ncitation:14 pid1052559
+title1:Local Replication for Proxy Web Caches with Hash Routing. title2:Local replication for proxy Web caches with hash routing citation:10 ncitation:9 pid1685279
+title1:On Anonymization of String Data. title2:On Anonymization of String Data. citation:7 ncitation:7 pid1554429
+title1:On Privacy-Preservation of Text and Sparse Binary Data with Sketches. title2:On Privacy-Preservation of Text and Sparse Binary Data with Sketches. citation:20 ncitation:18 pid1112562
+title1:Efficient query monitoring using adaptive multiple key hashing. title2:Efficient query monitoring using adaptive multiple key hashing citation:16 ncitation:16 pid579266
+title1:A General Model for Multiple View Unsupervised Learning. title2:A General Model for Multiple View Unsupervised Learning. citation:78 ncitation:57 pid2443973
+title1:Mining Sequence Classifiers for Early Prediction. title2:Mining Sequence Classifiers for Early Prediction. citation:29 ncitation:24 pid332280
+title1:Increasing Multimedia System Throughput with Consumption-based Buffer Management. title2:Increasing multimedia system throughput with consumption-based buffer management citation:2 ncitation:2 pid302593
+title1:Effect of System Dynamics on Coupling Architectures for Transaction Processing. title2:Effect of system dynamics on coupling architectures for transaction processing citation:9 ncitation:11 pid1112544
+title1:Distributed data mining in a chain store database of short transactions. title2:Distributed data mining in a chain store database of short transactions citation:4 ncitation:5 pid302595
+title1:Outlier Detection with Uncertain Data. title2:Outlier Detection with Uncertain Data. citation:76 ncitation:54 pid642377
+title1:Impact of Workload Partitionability on the Performance of Coupling Architectures for Transaction Processing. title2:Impact of workload partitionability on the performance of coupling architectures for transaction processing citation:12 ncitation:11 pid296867
+title1:Optimal Buffer Allocation in A Multi-Query Environment. title2:Optimal buffer allocation in a multi-query environment citation:13 ncitation:13 pid1112554
+title1:GPLAG: detection of software plagiarism by program dependence graph analysis. title2:GPLAG: detection of software plagiarism by program dependence graph analysis citation:128 ncitation:103 pid489334
+title1:Performance comparison of dynamic policies for remote caching. title2:Performance comparison of dynamic policies for remote caching citation:3 ncitation:3 pid96042
+title1:Graph Indexing: Tree + Delta >= Graph. title2:Graph indexing: tree+ delta<= graph citation:155 ncitation:142 pid437575
+title1:CellSort: High Performance Sorting on the Cell Processor. title2:CellSort: high performance sorting on the cell processor citation:97 ncitation:93 pid755019
+title1:Parallel Execution of Hash Joins in Parallel Databases. title2:Parallel execution of hash joins in parallel databases citation:13 ncitation:14 pid340899
+title1:Lira: Lightweight, Region-aware Load Shedding in Mobile CQ Systems. title2:Lira: Lightweight, region-aware load shedding in mobile CQ systems citation:14 ncitation:10 pid1389222
+title1:VCR indexing for fast event matching for highly-overlapping range predicates. title2:VCR indexing for fast event matching for highly-overlapping range predicates citation:15 ncitation:16 pid473033
+title1:Pruning and Dynamic Scheduling of Cost-Sensitive Ensembles. title2:Pruning and dynamic scheduling of cost-sensitive ensembles citation:30 ncitation:25 pid95095
+title1:Information discovery across multiple streams. title2:Information discovery across multiple streams citation:9 ncitation:6 pid473047
+title1:Performance Analysis of Dynamic Finite Versioning for Concurrency Transaction and Query Processing. title2:Performance analysis of dynamic finite versioning for concurrent transaction and query processing citation:20 ncitation:20 pid96063
+title1:Mining Large Itemsets for Association Rules. title2:Mining large itemsets for association rules citation:81 ncitation:80 pid473042
+title1:Scheduling and Processor Allocation for Parallel Execution of Multi-Join Queries. title2:Scheduling and processor allocation for parallel execution of multijoin queries citation:89 ncitation:93 pid642414
+title1:Data Mining Techniques for Personalization. title2:Data mining techniques for personalization citation:43 ncitation:43 pid473041
+title1:On High Dimensional Projected Clustering of Data Streams. title2:On high dimensional projected clustering of data streams citation:28 ncitation:27 pid1065752
+title1:Determining Beneficial Semijoins for a Join Sequence in Distributed Query Processing. title2:Determining beneficial semijoins for a join sequence in distributed query processing citation:12 ncitation:13 pid579326
+title1:A General Framework for Mining Concept-Drifting Data Streams with Skewed Distributions. title2:A General Framework for Mining Concept-Drifting Data Streams with Skewed Distributions. citation:82 ncitation:68 pid1011322
+title1:A general framework for accurate and fast regression by data summarization in random decision trees. title2:A general framework for accurate and fast regression by data summarization in random decision trees citation:15 ncitation:11 pid299771
+title1:Multi-query SQL Progress Indicators. title2:Multi-query SQL progress indicators citation:43 ncitation:31 pid2569
+title1:On Applying Hash Filters to Improving the Execution of Multi-Join Queries. title2:On applying hash filters to improving the execution of multi-join queries citation:10 ncitation:8 pid95097
+title1:SSDT: A Scalable Subspace-Splitting Classifier for Biased Data. title2:SSDT: A scalable subspace-splitting classifier for biased data citation:12 ncitation:12 pid1286911
+title1:Bottom-Up Generalization: A Data Mining Solution to Privacy Protection. title2:Bottom-up generalization: A data mining solution to privacy protection citation:223 ncitation:213 pid642407
+title1:Loadstar: Load Shedding in Data Stream Mining. title2:Loadstar: load shedding in data stream mining citation:82 ncitation:76 pid2399316
+title1:Data Mining: How Research Meets Practical Development? title2:Data mining: how research meets practical development? citation:43 ncitation:40 pid500674
+title1:Query indexing with containment-encoded intervals for efficient stream processing. title2:Query indexing with containment-encoded intervals for efficient stream processing citation:14 ncitation:15 pid96073
+title1:Meta-patterns: Revealing Hidden Periodic Patterns. title2:Meta-patterns: revealing hidden periodic patterns citation:18 ncitation:18 pid579207
+title1:WAR: Weighted Association Rules for Item Intensities. title2:WAR: weighted association rules for item intensities citation:41 ncitation:35 pid579212
+title1:Performance Analysis of Dynamic Finite Versioning Schemes: Storage Cost vs. Obsolescence. title2:Performance analysis of dynamic finite versioning schemes: storage cost vs. obsolescence citation:9 ncitation:9 pid579215
+title1:Mining long sequential patterns in a noisy environment. title2:Mining long sequential patterns in a noisy environment citation:157 ncitation:156 pid2328487
+title1:Substructure Similarity Search in Graph Databases. title2:Substructure similarity search in graph databases citation:201 ncitation:191 pid1011211
+title1:Demand-driven frequent itemset mining using pattern structures. title2:Demand-driven frequent itemset mining using pattern structures citation:13 ncitation:12 pid301577
+title1:Graph Indexing: A Frequent Structure-based Approach. title2:Graph indexing: a frequent structure-based approach citation:413 ncitation:380 pid473014
+title1:Issues in the Design of Multi-Server File Systems to Cope with Load Skew. title2:Issues in the design of multi-server file systems to cope with load skew citation:12 ncitation:12 pid301573
+title1:Online Auctions: There Can Be Only One. title2:Online Auctions: There can be only one citation:3 ncitation:3 pid473021
+title1:Discovering Partial Orders in Binary Data. title2:Discovering Partial Orders in Binary Data citation:2 ncitation:2 pid301575
+title1:A Hierarchical Approach to Parallel Multiquery Scheduling. title2:A hierarchical approach to parallel multiquery scheduling citation:19 ncitation:21 pid644245
+title1:Colibri: fast mining of large static and dynamic graphs. title2:Colibri: fast mining of large static and dynamic graphs citation:50 ncitation:48 pid644244
+title1:A Parallel Sort Merge Join Algorithm for Managing Data Skew. title2:A parallel sort merge join algorithm for managing data skew citation:48 ncitation:49 pid1125125
+title1:CPU load shedding for binary stream joins. title2:CPU load shedding for binary stream joins citation:7 ncitation:6 pid1429776
+title1:A Parallel Hash Join Algorithm for Managing Data Skew. title2:A parallel hash join algorithm for managing data skew citation:47 ncitation:46 pid2360525
+title1:InfoMiner+: Mining Partial Periodic Patterns with Gap Penalties. title2:InfoMiner+: Mining partial periodic patterns with gap penalties citation:44 ncitation:39 pid1425201
+title1:Analytical Modeling of a Hierarchical Buffer for a Data Sharing Environment. title2:Analytical modelling of a hierarchical buffer for a data sharing environment citation:33 ncitation:34 pid568821
+title1:Fast Graph Pattern Matching. title2:Fast graph pattern matching citation:61 ncitation:55 pid12686
+title1:Scalable Processing of Spatial Alarms. title2:Scalable processing of spatial alarms citation:15 ncitation:10 pid1276557
+title1:An Adaptive Strategy for Load Sharing in Distributed Database Environment with Information Lags. title2:An adaptive strategy for load sharing in distributed database environments with information lags citation:7 ncitation:6 pid597389
+title1:Characterization of Database Access Skew in a Transaction Processing Environment. title2:Characterization of database access skew in a transaction processing environment citation:10 ncitation:9 pid844265
+title1:On High Dimensional Indexing of Uncertain Data. title2:On high dimensional indexing of uncertain data citation:21 ncitation:17 pid299706
+title1:Window-based Tensor Analysis on High-dimensional and Multi-aspect Streams. title2:Window-based Tensor Analysis on High-dimensional and Multi-aspect Streams. citation:34 ncitation:34 pid844263
+title1:GConnect: A Connectivity Index for Massive Disk-resident Graphs. title2:Gconnect: A connectivity index for massive disk-resident graphs citation:18 ncitation:17 pid839504
+title1:Comparative Performance of Parallel Join Algorithms. title2:Comparative performance of parallel join algorithms citation:23 ncitation:22 pid299704
+title1:Database Buffer Model for the Data Sharing Environment. title2:Database buffer model for the data sharing environment citation:12 ncitation:13 pid579260
+title1:Proximity Tracking on Time-Evolving Bipartite Graphs. title2:Proximity Tracking on Time-Evolving Bipartite Graphs. citation:60 ncitation:52 pid176475
+title1:Efficient Decentralized Consensus Protocols in a Distributed Computing System. title2:Efficient decentralized consensus protocols in a distributed computing system citation:8 ncitation:9 pid1638532
+title1:Association Rule Mining on Streams. title2:Association rule mining on streams citation:8 ncitation:-1 pid1003609
+title1:Characterization of Database Access Pattern for Analytic Prediction of Buffer Hit Probability title2:Characterization of database access pattern for analytic prediction of buffer hit probability citation:52 ncitation:51 pid1138019
+title1:Cluster Architectures and S/390 Parallel Sysplex Scalability. title2:Cluster architectures and S/390 Parallel Sysplex scalability citation:26 ncitation:27 pid302978
+title1:Database Access Characterization for Buffer Hit Prediction. title2:Database access characterization for buffer hit prediction citation:20 ncitation:20 pid302979
+title1:Integrated approach to buffer management and query optimization. title2:Integrated approach to buffer management and query optimization citation:2 ncitation:2 pid642251
+title1:BLINKS: ranked keyword searches on graphs. title2:BLINKS: ranked keyword searches on graphs citation:291 ncitation:258 pid1003605
+title1:AC-Close: Efficiently Mining Approximate Closed Itemsets by Core Pattern Recovery. title2:Ac-close: Efficiently mining approximate closed itemsets by core pattern recovery citation:24 ncitation:24 pid1065653
+title1:Stop Chasing Trends: Discovering High Order Models in Evolving Data. title2:Stop chasing trends: Discovering high order models in evolving data citation:31 ncitation:27 pid1003603
+title1:Mining Extremely Skewed Trading Anomalies. title2:Mining extremely skewed trading anomalies citation:18 ncitation:17 pid1003601
+title1:Using Combination of Join and Semijoin Operations for Distributed Query Processing. title2:Using combination of join and semijoin operations for distributed query processing citation:17 ncitation:-1 pid302981
+title1:An effective and efficient algorithm for high-dimensional outlier detection. title2:An effective and efficient algorithm for high-dimensional outlier detection citation:122 ncitation:104 pid1138043
+title1:SPADE: the system s declarative stream processing engine. title2:SPADE: the system s declarative stream processing engine citation:262 ncitation:215 pid597111
+title1:Energy-Efficient Mobile Cache Invalidation. title2:Energy-efficient mobile cache invalidation citation:17 ncitation:18 pid1003595
+title1:Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System. title2:A performance study of workfile disk management for concurrent mergesorts in a multiprocessor database system citation:8 ncitation:1 pid1113138
+title1:Catch the moment: maintaining closed frequent itemsets over a data stream sliding window. title2:Catch the moment: maintaining closed frequent itemsets over a data stream sliding window citation:84 ncitation:68 pid599991
+title1:Handicapping attacker's confidence: an alternative to -anonymization. title2:Handicapping attacker's confidence: an alternative to k-anonymization citation:96 ncitation:74 pid1567511
+title1:Effectiveness of parallel processing in database systems. title2:Effectiveness of parallel processing database systems citation:5 ncitation:5 pid599988
+title1:MobiQual: QoS-aware Load Shedding in Mobile CQ Systems. title2:Mobiqual: Qos-aware load shedding in mobile cq systems citation:5 ncitation:5 pid1003587
+title1:Redirection Algorithms for Load Sharing in Distributed Web-server Systems. title2:Redirection algorithms for load sharing in distributed Web-server systems citation:116 ncitation:112 pid599987
+title1:An Improved Biclustering Method for Analyzing Gene Expression Profiles. title2:An improved biclustering method for analyzing gene expression profiles citation:24 ncitation:21 pid652121
+title1:Anonymizing transaction databases for publication. title2:Anonymizing transaction databases for publication citation:98 ncitation:78 pid1511792
+title1:LOCUST: An Online Analytical Processing Framework for High Dimensional Classification of Data Streams. title2:Locust: An online analytical processing framework for high dimensional classification of data streams citation:5 ncitation:4 pid533945
+title1:A holistic lexicon-based approach to opinion mining. title2:A holistic lexicon-based approach to opinion mining citation:335 ncitation:232 pid1675394
+title1:CrossMine: Efficient Classification Across Multiple Database Relations. title2:Crossmine: Efficient classification across multiple database relations citation:134 ncitation:118 pid1310237
+title1:Direct mining of discriminative and essential frequent patterns via model-based search tree. title2:Direct mining of discriminative and essential frequent patterns via model-based search tree citation:83 ncitation:71 pid303139
+title1:Identifying the influential bloggers in a community. title2:Identifying the influential bloggers in a community citation:292 ncitation:214 pid856256
+title1:Scheduling Parallel Tasks to Minimize Average Response Time. title2:Scheduling parallel tasks to minimize average response time citation:68 ncitation:98 pid1126023
+title1:Using Segmented Right-Deep Trees for the Execution of Pipelined Hash Joins. title2:Using segmented right-deep trees for the execution of pipelined hash joins citation:110 ncitation:114 pid473754
+title1:On Temperature-Aware Scheduling for Single-Processor Systems. title2:On temperature-aware scheduling for single-processor systems citation:2 ncitation:2 pid1126016
+title1:Rotation invariant indexing of shapes and line drawings. title2:Rotation invariant indexing of shapes and line drawings citation:34 ncitation:30 pid617410
+title1:Efficient Construction of Compact Shedding Filters for Data Stream Processing. title2:Efficient construction of compact shedding filters for data stream processing citation:10 ncitation:8 pid1003622
+title1:Local Correlation Tracking in Time Series. title2:Local correlation tracking in time series citation:40 ncitation:28 pid1126025
+title1:ViCo: an adaptive distributed video correlation system. title2:ViCo: an adaptive distributed video correlation system citation:11 ncitation:10 pid301953
+title1:Adaptive Query Processing for Time-Series Data. title2:Adaptive query processing for time-series data citation:88 ncitation:83 pid251273
+title1:On Parallel Execution of Multiple Pipelined Hash Joins. title2:On parallel execution of multiple pipelined hash joins citation:37 ncitation:37 pid989194
+title1:Adding the Temporal Dimension to Search - A Case Study in Publication Search. title2:Adding the temporal dimension to search-a case study in publication search citation:29 ncitation:26 pid597029
+title1:Truth discovery with multiple conflicting information providers on the web. title2:Truth discovery with multiple conflicting information providers on the web citation:145 ncitation:109 pid1673550
+title1:Supporting multi-party voice-over-IP services with peer-to-peer stream processing. title2:Supporting multi-party voice-over-IP services with peer-to-peer stream processing citation:19 ncitation:18 pid301961
+title1:On Incremental Processing of Continual Range Queries for Location-Aware Services and Applications. title2:On incremental processing of continual range queries for location-aware services and applications citation:11 ncitation:11 pid1658001
+title1:A Fast Algorithm for Subspace Clustering by Pattern Similarity. title2:A fast algorithm for subspace clustering by pattern similarity citation:30 ncitation:27 pid1649200
+title1:Using a Hash-Based Method with Transaction Trimming for Mining Association Rules. title2:Using a hash-based method with transaction trimming for mining association rules citation:484 ncitation:465 pid533970
+title1:Lightweight Version Vectors for Pervasive Computing Devices. title2:Lightweight version vectors for pervasive computing devices citation:36 ncitation:34 pid299787
+title1:Efficient Processing of Continual Range Queries for Location-Aware Mobile Services. title2:Efficient processing of continual range queries for location-aware mobile services citation:11 ncitation:11 pid1269023
+title1:Divergence Control for Distributed Database Systems. title2:Divergence control for distributed database systems citation:22 ncitation:21 pid579339
+title1:Mining Association Rules with Adjustable Accuracy. title2:Mining association rules with adjustable accuracy citation:46 ncitation:43 pid579336
+title1:New Algorithms for Content-Based Publication-Subscription Systems. title2:New algorithms for content-based publication-subscription systems citation:41 ncitation:40 pid1501547
+title1:Decentralized Consensus Protocols with Multi-Port Communication. title2:Decentralized consensus protocols with multi-port communication citation:11 ncitation:13 pid1296765
+title1:A Context-Driven Content Adaptation Planner for Improving Mobile Internet Accessibility. title2:A context-driven content adaptation planner for improving mobile internet accessibility citation:2 ncitation:2 pid1137978
+title1:Indexed Sequential Data Broadcasting in Wireless Mobile Computing. title2:Indexed sequential data broadcasting in wireless mobile computing citation:79 ncitation:77 pid299789
+title1:Clustering Algorithms for Content-Based Publication-Subscription Systems. title2:Clustering algorithms for content-based publication-subscription systems citation:96 ncitation:85 pid831981
+title1:Resource Adaptive Periodicity Estimation of Streaming Data. title2:Resource adaptive periodicity estimation of streaming data citation:5 ncitation:3 pid600051
+title1:Design and Modeling of Clustered RAID. title2:Design and modeling of clustered RAID citation:46 ncitation:43 pid303185
+title1:Accelerating Approximate Subsequence Search on Large Protein Sequence Databases. title2:Accelerating approximate subsequence search on large protein sequence databases citation:4 ncitation:4 pid301976
+title1:Distributed Processing of Spatial Alarms: A Safe Region-Based Approach. title2:Distributed processing of spatial alarms: A safe region-based approach citation:18 ncitation:12 pid176384
+title1:Performance Evaluation of Transaction Processing Coupling Architectures for Handling System Dynamics. title2:Performance evaluation of transaction processing coupling architectures for handling system dynamics citation:31 ncitation:30 pid296572
+title1:A Border-Based Approach for Hiding Sensitive Frequent Itemsets. title2:A border-based approach for hiding sensitive frequent itemsets citation:70 ncitation:59 pid1137970
+title1:Scheduling Algorithms for Distributed Web Servers. title2:Scheduling algorithms for distributed web servers citation:79 ncitation:79 pid600054
+title1:Discovering Frequent Closed Partial Orders from Strings. title2:Discovering frequent closed partial orders from strings citation:57 ncitation:48 pid856234
+title1:Text Classification without Labeled Negative Documents. title2:Text classification without labeled negative documents citation:18 ncitation:17 pid856235
+title1:ViST: A Dynamic Index Method for Querying XML Data by Tree Structures. title2:ViST: a dynamic index method for querying XML data by tree structures citation:340 ncitation:316 pid1003524
+title1:Top-Down Specialization for Information and Privacy Preservation. title2:Top-down specialization for information and privacy preservation citation:395 ncitation:361 pid1003576
+title1:BASS: Approximate Search on Large String Databases. title2:BASS: Approximate search on large string databases citation:2 ncitation:1 pid301989
+title1:Intelligent crawling on the World Wide Web with arbitrary predicates. title2:Intelligent crawling on the World Wide Web with arbitrary predicates citation:333 ncitation:300 pid296513
+title1:Clustering by pattern similarity in large data sets. title2:Clustering by pattern similarity in large data sets citation:423 ncitation:407 pid473802
+title1:On the Analytical Modeling of Database Concurrency Control. title2:On the analytical modeling of database concurrency control citation:79 ncitation:67 pid303202
+title1:Multiversion Divergence Control of Time Fuzziness. title2:Multiversion divergence control of time fuzziness citation:7 ncitation:7 pid301994
+title1:A probabilistic framework for relational clustering. title2:A probabilistic framework for relational clustering citation:78 ncitation:64 pid1719677
+title1:Policies for Efficient Resource Utilization in a Remote Caching Architecture. title2:Policies for efficient memory utilization in a remote caching architecture citation:35 ncitation:36 pid710420
+title1:Distributed Divergence Control for Epsilon Serializability. title2:Distributed divergence control for epsilon serializability citation:24 ncitation:26 pid96817
+title1:G-SESAME: web tools for GO-term-based gene similarity analysis and knowledge discovery. title2:G-SESAME: web tools for GO-term-based gene similarity analysis and knowledge discovery citation:40 ncitation:27 pid473822
+title1:Performance Analysis of a Dual Striping Strategy for Replicated Disk Arrays. title2:Performance analysis of a dual striping strategy for replicated disk arrays citation:6 ncitation:5 pid710412
+title1:Recovery Analysis of Data Sharing Systems under Deferred Dirty Page Propagation Policies. title2:Recovery analysis of data sharing systems under deferred dirty page propagation policies citation:5 ncitation:7 pid611328
+title1:Indexing Continual Range Queries for Location-Aware Mobile Services. title2:Indexing continual range queries for location-aware mobile services citation:10 ncitation:10 pid642227
+title1:Performance Analysis of Buffer Coherency Policies in a Multisystem Data Sharing Environment. title2:Performance analysis of buffer coherency policies in a multisystem data sharing environment citation:26 ncitation:26 pid302013
+title1:Top 10 algorithms in data mining. title2:Top 10 algorithms in data mining citation:858 ncitation:742 pid303088
+title1:Time-dependent event hierarchy construction. title2:Time-dependent event hierarchy construction citation:39 ncitation:33 pid296538
+title1:Load Sharing in Hybrid Distributed - Centralized Database Systems. title2:Load sharing in hybrid distributed-centralized database systems citation:4 ncitation:4 pid623788
+title1:Mining Associations by Pattern Structure in Large Relational Tables. title2:Mining associations by pattern structure in large relational tables citation:4 ncitation:5 pid1556080
+title1:An Index Structure for Pattern Similarity Searching in DNA Microarray Dat. title2:An index structure for pattern similarity searching in DNA microarray data citation:3 ncitation:2 pid598892
+title1:gPrune: A Constraint Pushing Framework for Graph Pattern Mining. title2:gPrune: a constraint pushing framework for graph pattern mining citation:46 ncitation:42 pid655134
+title1:Template-Based Privacy Preservation in Classification Problems. title2:Template-based privacy preservation in classification problems citation:90 ncitation:79 pid473642
+title1:Mining Diversity on Networks. title2:Mining diversity on networks citation:2 ncitation:1 pid506672
+title1:Detecting Leaders from Correlated Time Series. title2:Detecting leaders from correlated time series citation:7 ncitation:3 pid506674
+title1:Semi-supervised feature selection for graph classification. title2:Semi-supervised feature selection for graph classification citation:24 ncitation:16 pid856162
+title1:UP-Growth: an efficient algorithm for high utility itemset mining. title2:UP-Growth: an efficient algorithm for high utility itemset mining citation:21 ncitation:15 pid95748
+title1:Detecting abnormal coupled sequences and sequence changes in group-based manipulative trading behaviors. title2:Detecting abnormal coupled sequences and sequence changes in group-based manipulative trading behaviors citation:10 ncitation:9 pid2240265
+title1:k-Support anonymity based on pseudo taxonomy for outsourcing of frequent itemset mining. title2:k-Support anonymity based on pseudo taxonomy for outsourcing of frequent itemset mining citation:8 ncitation:1 pid2405279
+title1:Advances in Knowledge Discovery and Data Mining, 6th Pacific-Asia Conference, PAKDD 2002, Taipei, Taiwan, May 6-8, 2002, Proceedings title2:Advances in Knowledge Discovery and Data Mining: 6th Pacific-Asia Conference, PAKDD 2002, Taipei, Taiwan, May 6-8, 2002. Proceedings citation:8 ncitation:8 pid527246
+title1:BASSET: Scalable Gateway Finder in Large Graphs. title2:Basset: Scalable gateway finder in large graphs citation:4 ncitation:1 pid297556
+title1:Online mining of temporal maximal utility itemsets from data streams. title2:Online mining of temporal maximal utility itemsets from data streams citation:9 ncitation:7 pid296581
+title1:On Classification of High-Cardinality Data Streams. title2:On Classification of High-Cardinality Data Streams. citation:4 ncitation:2 pid371205
+title1:On Clustering Graph Streams. title2:On Clustering Graph Streams. citation:18 ncitation:8 pid301923
+title1:Predictive Modeling with Heterogeneous Sources. title2:Predictive Modeling with Heterogeneous Sources. citation:8 ncitation:5 pid296583
+title1:Privacy-preserving data publishing: A survey of recent developments. title2:Privacy-preserving data publishing: A survey of recent developments citation:352 ncitation:239 pid121219
+title1:Music Recommendation Using Content and Context Information Mining. title2:Music recommendation using content and context information mining citation:52 ncitation:32 pid1246419
+title1:Guest Editors' Introduction: Social Computing in the Blogosphere. title2:Guest Editors' Introduction: Social Computing in the Blogosphere citation:12 ncitation:6 pid1126013
+title1:Introduction to the Domain-Driven Data Mining Special Section. title2:Introduction to the Domain-Drive Data Mining Special Section citation:2 ncitation:1 pid302927
+title1:Rights protection of trajectory datasets with nearest-neighbor preservation. title2:Rights protection of trajectory datasets with nearest-neighbor preservation citation:3 ncitation:1 pid296679
+title1:Optimal distance bounds for fast search on compressed time-series query logs. title2:Optimal distance bounds for fast search on compressed time-series query logs citation:5 ncitation:4 pid1113314
+title1:On Dense Pattern Mining in Graph Streams. title2:On dense pattern mining in graph streams citation:16 ncitation:11 pid299930
+title1:On wavelet decomposition of uncertain time series data sets. title2:On wavelet decomposition of uncertain time series data sets citation:6 ncitation:6 pid599915
+title1:Orientation distance-based discriminative feature extraction for multi-class classification. title2:Orientation distance-based discriminative feature extraction for multi-class classification citation:1 ncitation:1 pid299929
+title1:A general framework for relation graph clustering. title2:A general framework for relation graph clustering citation:6 ncitation:4 pid296677
+title1:On clustering massive text and categorical data streams. title2:On clustering massive text and categorical data streams citation:17 ncitation:13 pid2150743
+title1:Personalized Privacy Protection in Social Networks. title2:Personalized privacy protection in social networks citation:18 ncitation:17 pid1651474
+title1:Discriminative frequent subgraph mining with optimality guarantees. title2:Discriminative frequent subgraph mining with optimality guarantees citation:12 ncitation:5 pid618361
+title1:Multi-label Feature Selection for Graph Classification. title2:Multi-label feature selection for graph classification citation:10 ncitation:10 pid673686
+title1:Probabilistic Inference Protection on Anonymized Data. title2:Probabilistic inference protection on anonymized data citation:3 ncitation:3 pid296701
+title1:Transfer Learning on Heterogenous Feature Spaces via Spectral Transformation. title2:Transfer learning on heterogenous feature spaces via spectral transformation citation:13 ncitation:8 pid599920
+title1:Max-Clique: A Top-Down Graph-Based Approach to Frequent Pattern Mining. title2:Max-Clique: a top-down graph-based approach to frequent pattern mining citation:4 ncitation:2 pid951899
+title1:Exploiting Local Data Uncertainty to Boost Global Outlier Detection. title2:Exploiting local data uncertainty to boost global outlier detection citation:6 ncitation:2 pid95817
+title1:Efficient Semi-supervised Spectral Co-clustering with Constraints. title2:Efficient semi-supervised spectral co-clustering with constraints citation:12 ncitation:8 pid473712
+title1:Vote-Based LELC for Positive and Unlabeled Textual Data Streams. title2:Vote-Based LELC for Positive and Unlabeled Textual Data Streams citation:1 ncitation:1 pid533832
+title1:A Comparison of Objective Functions in Network Community Detection. title2:A comparison of objective functions in network community detection citation:2 ncitation:1 pid297508
+title1:Pocket Data Mining: Towards Collaborative Data Mining in Mobile Computing Environments. title2:Pocket data mining: Towards collaborative data mining in mobile computing environments citation:12 ncitation:7 pid1279398
+title1:Leadership discovery when data correlatively evolve. title2:Leadership discovery when data correlatively evolve citation:9 ncitation:6 pid178477
+title1:ECODE: Event-Based Community Detection from Social Networks. title2:ECODE: event-based community detection from social networks citation:2 ncitation:1 pid1721082
+title1:Efficient Topological OLAP on Information Networks. title2:Efficient topological OLAP on information networks citation:7 ncitation:3 pid473693
+title1:Outlier detection in graph streams. title2:Outlier detection in graph streams citation:25 ncitation:10 pid296661
+title1:On data dependencies in dataspaces. title2:On data dependencies in dataspaces citation:6 ncitation:4 pid343603
+title1:Evidence-based medicine, the essential role of systematic reviews, and the need for automated text mining tools. title2:Evidence-based medicine, the essential role of systematic reviews, and the need for automated text mining tools citation:11 ncitation:6 pid343602
+title1:Limitations of matrix completion via trace norm minimization. title2:Limitations of matrix completion via trace norm minimization citation:5 ncitation:3 pid121288
+title1:Efficient Relevance Feedback for Content-Based Image Retrieval by Mining User Navigation Patterns. title2:Efficient relevance feedback for content-based image retrieval by mining user navigation patterns citation:39 ncitation:20 pid1615216
+title1:Mining Cluster-Based Temporal Mobile Sequential Patterns in Location-Based Service Environments. title2:Mining cluster-based temporal mobile sequential patterns in location-based service environments citation:17 ncitation:14 pid302969
+title1:WF-MSB: A weighted fuzzy-based biclustering method for gene expression data. title2:WF-MSB: A weighted fuzzy-based biclustering method for gene expression data citation:7 ncitation:5 pid2780049
+title1:Hiding Sensitive Frequent Itemsets by a Border-Based Approach. title2:Hiding Sensitive Frequent Itemsets by a Border-Based Approach. citation:19 ncitation:12 pid2782738
+title1:Graph Pattern Matching: A Join/Semijoin Approach. title2:Graph Pattern Matching: A Join/Semijoin Approach citation:9 ncitation:6 pid2782821
+title1:Behavior Informatics: An Informatics Perspective for Behavior Studies. title2:Behavior Informatics: An Informatics Perspective for Behavior Studies. citation:4 ncitation:1 pid2784170
+title1:One-class learning and concept summarization for data streams. title2:One-class learning and concept summarization for data streams citation:9 ncitation:8 pid2793542
+title1:Can the Utility of Anonymized Data be Used for Privacy Breaches? title2:Can the utility of anonymized data be used for privacy breaches? citation:19 ncitation:10 pid2793722
+title1:Maximizing bichromatic reverse nearest neighbor for L p -norm in two- and three-dimensional spaces. title2:Maximizing bichromatic reverse nearest neighbor for lp-norm in two-and three-dimensional spaces citation:7 ncitation:3 pid2793723
+title1:PathSim: Meta Path-Based Top-K Similarity Search in Heterogeneous Information Networks. title2:Pathsim: Meta path-based top-k similarity search in heterogeneous information networks citation:56 ncitation:22 pid2805335
+title1:Mining Top-K Large Structural Patterns in a Massive Network. title2:Mining top-k large structural patterns in a massive network citation:11 ncitation:2 pid2805401
+title1:Privacy-Preserving Data Mining: A Survey. title2:Privacy-Preserving Data Mining: A Survey citation:9 ncitation:9 pid2805408
+title1:A Survey of Randomization Methods for Privacy-Preserving Data Mining. title2:A survey of randomization methods for privacy-preserving data mining citation:6 ncitation:3 pid2805460
+title1:A Survey of Synopsis Construction in Data Streams. title2:A survey of synopsis construction in data streams citation:44 ncitation:32 pid2809230
+title1:A General Survey of Privacy-Preserving Data Mining Models and Algorithms. title2:A general survey of privacy-preserving data mining models and algorithms citation:304 ncitation:189 pid2809332
+title1:An Introduction to Privacy-Preserving Data Mining. title2:An introduction to privacy-preserving data mining citation:2 ncitation:2 pid2811908
+title1:On Clustering Massive Data Streams: A Summarization Paradigm. title2:On clustering massive data streams: A summarization paradigm citation:12 ncitation:8 pid2812882
+title1:Privacy-Preserving Data Mining - Models and Algorithms title2:A general survey of privacy-preserving data mining models and algorithms citation:304 ncitation:3 pid2812933
+title1:Multi-label Ensemble Learning. title2:Multi-label ensemble learning citation:5 ncitation:2 pid2812951
+title1:Structural Diversity for Privacy in Publishing Social Networks. title2:Structural Diversity for Privacy in Publishing Social Networks. citation:5 ncitation:5 pid2814732
+title1:Multi-Label Collective Classification. title2:Multi-Label Collective Classification. citation:8 ncitation:1 pid2835105
+title1:Extracting Interpretable Features for Early Classification on Time Series. title2:Extracting Interpretable Features for Early Classification on Time Series. citation:21 ncitation:12 pid2856949
+title1:On selection of objective functions in multi-objective community detection. title2:On selection of objective functions in multi-objective community detection citation:2 ncitation:-1 pid2871843
+title1:CP-index: on the efficient indexing of large graphs. title2:CP-index: on the efficient indexing of large graphs citation:1 ncitation:-1 pid2876121
+title1:Collective prediction with latent graphs. title2:Collective prediction with latent graphs citation:8 ncitation:3 pid2881980
+title1:ADANA: Active Name Disambiguation. title2:Adana: Active name disambiguation citation:4 ncitation:3 pid2898428
+title1:Efficient Mining of a Concise and Lossless Representation of High Utility Itemsets. title2:Efficient mining of a concise and lossless representation of high utility itemsets citation:2 ncitation:1 pid2898610
+title1:Review Graph Based Online Store Review Spammer Detection. title2:Review graph based online store review spammer detection citation:21 ncitation:6 pid2925677
+title1:On the Hardness of Graph Anonymization. title2:On the hardness of graph anonymization citation:1 ncitation:1 pid2925705
+title1:Positive and Unlabeled Learning for Graph Classification. title2:Positive and Unlabeled Learning for Graph Classification citation:2 ncitation:1 pid2935429
+title1:Identities Anonymization in Dynamic Social Networks. title2:Identities anonymization in dynamic social networks citation:1 ncitation:0 pid2936950
+title1:Transportation mode detection using mobile phones and GIS information. title2:Transportation mode detection using mobile phones and GIS information citation:20 ncitation:9 pid2945039
+title1:Homogeneous and Heterogeneous Distributed Classification for Pocket Data Mining. title2:Homogeneous and heterogeneous distributed classification for pocket data mining citation:5 ncitation:2 pid2945041
+title1:Discovering Valuable User Behavior Patterns in Mobile Commerce Environments. title2:Discovering valuable user behavior patterns in mobile commerce environments citation:3 ncitation:2 pid2945053
+title1:Mining Community Structure of Named Entities from Web Pages and Blogs. title2:Mining Community Structure of Named Entities from Web Pages and Blogs. citation:23 ncitation:24 pid2945074
+title1:Dual active feature and sample selection for graph classification. title2:Dual active feature and sample selection for graph classification citation:10 ncitation:7 pid2945287
+title1:Privacy-preserving social network publication against friendship attacks. title2:Privacy-preserving social network publication against friendship attacks citation:11 ncitation:6 pid2945307
+title1:Discovering shakers from evolving entities via cascading graph inference. title2:Discovering shakers from evolving entities via cascading graph inference citation:2 ncitation:-1 pid2947710
+title1:On dynamic data-driven selection of sensor streams. title2:On dynamic data-driven selection of sensor streams. citation:7 ncitation:3 pid2959952
+title1:Differentially private data release for data mining. title2:Differentially private data release for data mining citation:50 ncitation:29 pid2974268
+title1:On the network effect in Web 2.0 applications. title2:On the network effect in Web 2.0 applications citation:3 ncitation:2 pid2979315
+title1:Modeling blogger influence in a community. title2:Modeling blogger influence in a community citation:9 ncitation:6 pid2986935
+title1:An approximation technique for central server queueing models with a priority dispatching rule. title2:An Approximation technique for central server queueing models with a priority dispatching rule citation:6 ncitation:6 pid2999816
+title1:gMLC: a multi-label feature selection framework for graph classification. title2:gMLC: a multi-label feature selection framework for graph classification citation:4 ncitation:2 pid3012317
+title1:A brief introduction to agent mining. title2:A brief introduction to agent mining citation:13 ncitation:2 pid3018187
+title1:Review spam detection via time series pattern discovery. title2:Review spam detection via time series pattern discovery citation:3 ncitation:0 pid3023530
+title1:Community detection in incomplete information networks. title2:Community detection in incomplete information networks citation:13 ncitation:2 pid3039356
+title1:Searching by corpus with fingerprints. title2:Searching by corpus with fingerprints citation:1 ncitation:1 pid3078812
+title1:Relevance search in heterogeneous networks. title2:Relevance search in heterogeneous networks citation:10 ncitation:1 pid3081468
+title1:Limiting link disclosure in social network analysis through subgraph-wise perturbation. title2:Limiting link disclosure in social network analysis through subgraph-wise perturbation citation:2 ncitation:0 pid3081492
+title1:Epi-SPIRE: a system for environmental and public health activity monitoring. title2:Epi-spire: A system for environmental and public health activity monitoring citation:11 ncitation:7 pid3081506
+title1:Coupled Behavior Analysis with Applications. title2:Coupled behavior analysis with applications citation:14 ncitation:8 pid3085756
+title1:Efficient algorithms for mining maximal high utility itemsets from data streams with different models. title2:Efficient algorithms for mining maximal high utility itemsets from data streams with different models citation:4 ncitation:0 pid3114662
+title1:Exploring latent browsing graph for question answering recommendation. title2:Exploring latent browsing graph for question answering recommendation citation:2 ncitation:2 pid3126117
+title1:Generative Models for Evolutionary Clustering. title2:Generative Models for Evolutionary Clustering citation:1 ncitation:0 pid3134107
+title1:Mining Frequent Itemsets over Uncertain Databases title2:Mining frequent itemsets over uncertain databases citation:14 ncitation:1 pid3151005
+title1:Mining Frequent Itemsets over Uncertain Databases. title2:Mining frequent itemsets over uncertain databases citation:14 ncitation:1 pid3158434
+title1:Attribute-Based Subsequence Matching and Mining. title2:Attribute-Based Subsequence Matching and Mining citation:1 ncitation:1 pid3170074
+title1:On Text Clustering with Side Information. title2:On text clustering with side information citation:2 ncitation:1 pid3170187
+title1:Magnet community identification on social networks. title2:Magnet community identification on social networks citation:1 ncitation:0 pid3187992
+title1:Review spam detection via temporal pattern discovery. title2:Review spam detection via temporal pattern discovery citation:9 ncitation:-1 pid3188009
+title1:Mining top-K high utility itemsets. title2:Mining top-K high utility itemsets citation:4 ncitation:1 pid3223098
+title1:UFIMT: an uncertain frequent itemset mining toolbox. title2:UFIMT: an uncertain frequent itemset mining toolbox citation:1 ncitation:0 pid3232211
+title1:Integrating meta-path selection with user-guided object clustering in heterogeneous information networks. title2:Integrating meta-path selection with user-guided object clustering in heterogeneous information networks citation:15 ncitation:3 pid3240830
+title1:Identify Online Store Review Spammers via Social Review Graph. title2:Identify Online Store Review Spammers via Social Review Graph citation:7 ncitation:0 pid3274008
+title1:Behavior Computing - Modeling, Analysis, Mining and Decision. title2:Behavior computing: modeling, analysis, mining and decision citation:4 ncitation:-1 pid3274091
+title1:Mining interesting user behavior patterns in mobile commerce environments. title2:Mining interesting user behavior patterns in mobile commerce environments citation:6 ncitation:-1 pid3346040

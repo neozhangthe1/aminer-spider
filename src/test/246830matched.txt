@@ -1,0 +1,209 @@
+title1:Synthesis of fully testable circuits from BDDs. title2:Synthesis of fully testable circuits from BDDs citation:42 ncitation:35 pid1511490
+title1:Decision Diagram Method for Calculation of Pruned Walsh Transform. title2:Decision diagram method for calculation of pruned Walsh transform citation:14 ncitation:14 pid2627578
+title1:ETDD-Based Synthesis of Term-Based FPGAs for Incompletely Specified Boolean Functions. title2:ETDD-based synthesis of term-based FPGAs for incompletely specified Boolean functions citation:15 ncitation:15 pid1084065
+title1:Learning Heuristics for OBDD Minimization by Evolutionary Algorithms. title2:Learning heuristics for OBDD minimization by evolutionary algorithms citation:36 ncitation:33 pid1358740
+title1:On the sensitivity of BDDs with respect to path-related objective functions. title2:On the sensitivity of BDDs with respect to path-related objective functions citation:1 ncitation:1 pid52548
+title1:Analyzing Functional Coverage in Bounded Model Checking. title2:Analyzing functional coverage in bounded model checking citation:15 ncitation:12 pid732208
+title1:Combining ordered best-first search with branch and bound for exact BDD minimization. title2:Combining ordered best-first search with branch and bound for exact BDD minimization citation:31 ncitation:26 pid1084081
+title1:An improved branch and bound algorithm for exact BDD minimization. title2:An improved branch and bound algorithm for exact BDD minimization citation:20 ncitation:19 pid1086834
+title1:On the Relation between BDDs and FDDs. title2:On the relation between BDDs and FDDs citation:71 ncitation:70 pid991014
+title1:Minimization of BDDs using linear transformations based on evolutionary techniques. title2:Minimization of BDDs using linear transformations based on evolutionary techniques citation:10 ncitation:8 pid1084083
+title1:Reduction of Sizes of Multi-Valued Decision Diagrams by Copy Propertie. title2:Reduction of sizes of multi-valued decision diagrams by copy properties citation:1 ncitation:1 pid1084082
+title1:Logic Minimization and Testability of 2-SPP Networks. title2:Logic minimization and testability of 2-SPP networks citation:8 ncitation:8 pid887109
+title1:Minimization of free BDDs. title2:Minimization of free BDDs citation:28 ncitation:26 pid426337
+title1:Functional simulation using binary decision diagrams. title2:Functional simulation using binary decision diagrams citation:40 ncitation:40 pid1086841
+title1:Experimental Studies on SAT-Based ATPG for Gate Delay Faults. title2:Experimental studies on SAT-based ATPG for gate delay faults citation:8 ncitation:8 pid441005
+title1:Minimization of Transitions by Complementation and Resequencing using Evolutionary Algorithms. title2:Minimization of Transitions by Complementation and Resequencing using Evolutionary Algorithms. citation:1 ncitation:2 pid283097
+title1:ACTion: Combining logic synthesis and technology mapping for MUX-based FPGAs. title2:ACTion: Combining logic synthesis and technology mapping for MUX-based FPGAs citation:19 ncitation:18 pid448634
+title1:On Acceleration of SAT-Based ATPG for Industrial Designs. title2:On acceleration of SAT-based ATPG for industrial designs citation:59 ncitation:55 pid441596
+title1:The K*BMD: A Verification Data Structure. title2:The K* BMD: A verification data structure citation:53 ncitation:51 pid46091
+title1:Synthesizing checkers for on-line verification of System-on-Chip designs. title2:Synthesizing checkers for on-line verification of system-on-chip designs citation:25 ncitation:24 pid1277953
+title1:Automatic Fault Localization for Property Checking. title2:Automatic fault localization for property checking citation:19 ncitation:40 pid1086798
+title1:HW/SW Co-Verification of a RISC CPU using Bounded Model Checking. title2:HW/SW Co-Verification of a RISC CPU using Bounded Model Checking citation:1 ncitation:1 pid2571189
+title1:SAT-based ATPG for Path Delay Faults in Sequential Circuits. title2:SAT-based ATPG for path delay faults in sequential circuits citation:9 ncitation:8 pid234617
+title1:RevLib: An Online Resource for Reversible Functions and Reversible Circuits. title2:RevLib: An online resource for reversible functions and reversible circuits citation:103 ncitation:86 pid420944
+title1:Using lower bounds during dynamic BDD minimization. title2:Using lower bounds during dynamic BDD minimization citation:70 ncitation:64 pid1086807
+title1:Fast exact minimization of BDD's. title2:Fast exact minimization of BDDs citation:83 ncitation:80 pid426317
+title1:Ordered Kronecker functional decision diagrams-a data structure for representation and manipulation of Boolean functions. title2:Ordered Kronecker functional decision diagrams-a data structure for representation and manipulation of Boolean functions citation:26 ncitation:24 pid441583
+title1:Sympathy: fast exact minimization of fixed polarity Reed-Muller expressions for symmetric functions. title2:Sympathy: fast exact minimization of fixed polarity Reed-Muller expressions for symmetric functions citation:46 ncitation:44 pid648990
+title1:Exact Synthesis of Elementary Quantum Gate Circuits for Reversible Functions with Don't Cares. title2:Exact synthesis of elementary quantum gate circuits for reversible functions with don't cares citation:23 ncitation:19 pid1084062
+title1:An Integrated SystemC Debugging Environment. title2:An integrated SystemC debugging environment citation:11 ncitation:12 pid645268
+title1:Binary decision diagrams in theory and practice. title2:Binary decision diagrams in theory and practice citation:100 ncitation:98 pid1084060
+title1:On the Construction of Multiple-Valued Decision Diagrams. title2:On the construction of multiple-valued decision diagrams citation:36 ncitation:35 pid2108558
+title1:Debugging Sequential Circuits Using Boolean Satisfiability. title2:Debugging sequential circuits using Boolean satisfiability citation:11 ncitation:53 pid1084059
+title1:Post-verification debugging of hierarchical designs. title2:Post-verification debugging of hierarchical designs citation:72 ncitation:68 pid441575
+title1:Automatic Fault Localization for Property Checking. title2:Automatic fault localization for property checking citation:19 ncitation:41 pid645266
+title1:Debugging sequential circuits using Boolean satisfiability. title2:Debugging sequential circuits using Boolean satisfiability citation:11 ncitation:53 pid441503
+title1:A Basis for Formal Robustness Checking. title2:A basis for formal robustness checking citation:29 ncitation:27 pid1076574
+title1:Post-Verification Debugging of Hierarchical Designs. title2:Post-verification debugging of hierarchical designs citation:72 ncitation:68 pid510257
+title1:Robust Multi-Objective Optimization in High Dimensional Spaces. title2:Robust multi-objective optimization in high dimensional spaces citation:42 ncitation:34 pid257405
+title1:Minimizing the number of paths in BDDs: Theory and algorithm. title2:Minimizing the number of paths in BDDs: Theory and algorithm citation:19 ncitation:17 pid281683
+title1:Look-up Table FPGA Synthesis from Minimized Multi-Valued Pseudo Kronecker Expressions. title2:Look-up table FPGA synthesis from minimized multi-valued pseudo Kronecker expressions citation:19 ncitation:19 pid448522
+title1:Controlling the Memory During Manipulation of Word-Level Decision Diagrams. title2:Controlling the memory during manipulation of word-level decision diagrams citation:0 ncitation:0 pid441487
+title1:Efficient manipulation algorithms for linearly transformed BDDs. title2:Efficient manipulation algorithms for linearly transformed BDDs citation:15 ncitation:15 pid510255
+title1:Improving the Quality of Bounded Model Checking by Means of Coverage Estimation. title2:Improving the quality of bounded model checking by means of coverage estimation citation:1 ncitation:2 pid649081
+title1:Exact BDD Minimization for Path-Related Objective Functions. title2:Exact BDD minimization for path-related objective functions citation:1 ncitation:1 pid2246334
+title1:BDD minimization using symmetries. title2:BDD minimization using symmetries citation:55 ncitation:55 pid181199
+title1:Dynamic minimization of OKFDDs. title2:Dynamic minimization of OKFDDs citation:39 ncitation:35 pid1084157
+title1:Fast OFFD-Based Minimization of Fixed Polarity Reed-Muller Expressions. title2:Fast OFDD-based minimization of fixed polarity Reed-Muller expressions citation:96 ncitation:91 pid441066
+title1:On Variable Ordering and Decomposition Type Choice in OKFDDs. title2:On variable ordering and decomposition type choice in OKFDDs citation:20 ncitation:19 pid2391315
+title1:Preudo-Kronecker Expressions for Symmetric Functions. title2:Pseudo-kronecker expressions for symmetric functions citation:21 ncitation:25 pid141478
+title1:Combining Multi-Valued Logics in SAT-based ATPG for Path Delay Faults. title2:Combining multi-valued logics in SAT-based ATPG for path delay faults citation:10 ncitation:10 pid441046
+title1:AND/EXOR based Synthesis of Testable KFDD-Circuits with Small Depth. title2:AND/EXOR-based synthesis of testable KFDD-circuits with small depth citation:12 ncitation:14 pid644657
+title1:On the Expressive Power of OKFDDs. title2:On the expressive power of OKFDDs citation:15 ncitation:14 pid147654
+title1:BDD Based Synthesis of Symmetric Functions with Full Path-Delay Fault Testability. title2:BDD based synthesis of symmetric functions with full path-delay fault testability citation:8 ncitation:10 pid286016
+title1:Algorithms for Taylor Expansion Diagrams. title2:Algorithms for Taylor expansion diagrams [IC design/verification applications] citation:7 ncitation:-1 pid1079010
+title1:Debugging of Toffoli networks. title2:Debugging of Toffoli networks citation:21 ncitation:18 pid1079009
+title1:Functional Decomposition of MVL Functions Using Multi-Valued Decision Diagrams. title2:Functional decomposition of MVL functions using multi-valued decision diagrams citation:28 ncitation:28 pid1079008
+title1:Efficiency of Multi-Valued Encoding in SAT-based ATPG. title2:Efficiency of multi-valued encoding in SAT-based ATPG citation:17 ncitation:15 pid441036
+title1:On local transformations and path delay fault testability. title2:On local transformations and path delay fault testability citation:12 ncitation:13 pid2707125
+title1:Decision Diagrams in Synthesis - Algorithms, Applications and Extensions. title2:Decision diagrams in synthesis-algorithms, applications and extensions citation:10 ncitation:10 pid161258
+title1:(Quasi-) Linear Path Delay Fault Tests for Adders. title2:(Quasi-) linear path delay fault tests for adders citation:0 ncitation:-1 pid58252
+title1:WoLFram- A Word Level Framework for Formal Verification. title2:WoLFram-a word level framework for formal verification citation:20 ncitation:15 pid2386585
+title1:Efficient Minimization and Manipulation of Linearly Transformed Binary Decision Diagrams. title2:Efficient minimization and manipulation of linearly transformed binary decision diagrams citation:15 ncitation:14 pid440887
+title1:CheckSyC: an efficient property checker for RTL SystemC designs. title2:CheckSyC: An efficient property checker for RTL SystemC designs citation:35 ncitation:34 pid440884
+title1:Testability of 2-Level AND/EXOR Circuits. title2:Testability of 2-level AND/EXOR circuits citation:32 ncitation:29 pid440885
+title1:Low power optimization technique for BDD mapped circuits. title2:Low power optimization technique for BDD mapped circuits citation:28 ncitation:28 pid1556350
+title1:Testability Properties of Local Circuit Transformations with Respect to the Robust Path-Delay-Fault Model. title2:Testability properties of local circuit transformations with respect to the robust path-delay-fault model citation:16 ncitation:17 pid222247
+title1:Heuristic Learning Based on Genetic Programming. title2:Heuristic learning based on genetic programming citation:23 ncitation:22 pid644808
+title1:Efficient Evolutionary Approaches for the Data Ordering Problem with Inversion. title2:Efficient evolutionary approaches for the data ordering problem with inversion citation:10 ncitation:10 pid2483581
+title1:Managing Don't Cares in Boolean Satisfiability. title2:Managing don't cares in boolean satisfiability citation:30 ncitation:29 pid1321744
+title1:PASSAT: Efficient SAT-Based Test Pattern Generation for Industrial Circuits. title2:PASSAT: efficient SAT-based test pattern generation for industrial circuits citation:35 ncitation:31 pid378627
+title1:On the Relation Betwen BDDs and FDDs. title2:On the relation between BDDs and FDDs citation:71 ncitation:70 pid286085
+title1:Efficient Automatic Visualization of SystemC Designs. title2:Efficient Automatic Visualization of SystemC Designs. citation:21 ncitation:20 pid1307961
+title1:On the relation between simulation-based and SAT-based diagnosis. title2:On the relation between simulation-based and SAT-based diagnosis citation:12 ncitation:10 pid427939
+title1:Circuit Design from Kronecker Galois Field Decision Diagrams for Multiple-Valued Functions. title2:Circuit design from Kronecker Galois field decision diagrams for multiple-valued functions citation:33 ncitation:30 pid1167042
+title1:System Exploration of SystemC Designs. title2:System exploration of SystemC designs citation:19 ncitation:19 pid2472012
+title1:Slack Allocation Based Co-Synthesis and Optimization of Bus and Memory Architectures for MPSoCs. title2:Slack allocation based co-synthesis and optimization of bus and memory architectures for MPSoCs citation:1 ncitation:1 pid452373
+title1:Utilizing don't care states in SAT-based bounded sequential problems. title2:Utilizing don't care states in SAT-based bounded sequential problems citation:12 ncitation:13 pid645222
+title1:On the generation of area-time optimal testable adders. title2:On the generation of area-time optimal testable adders citation:12 ncitation:12 pid194146
+title1:Automatic Test Pattern Generation. title2:Using a two-dimensional fault list for compact automatic test pattern generation citation:1 ncitation:6 pid2472009
+title1:Multi-objective Optimisation Based on Relation . title2:Multi-objective optimisation based on relation favour citation:54 ncitation:-1 pid199242
+title1:SyCE: An Integrated Environment for System Design in SystemC. title2:SyCE: An integrated environment for system design in SystemC citation:24 ncitation:24 pid53155
+title1:Minimization of Free BDDs. title2:Minimization of free BDDs citation:28 ncitation:27 pid2679700
+title1:Disjoint Sum of Product Minimization by Evolutionary Algorithms. title2:Disjoint sum of product minimization by evolutionary algorithms citation:11 ncitation:9 pid229876
+title1:GAME-HDL: Implementation of Evolutionary Algorithms Using Hardware Description Languages. title2:GAME-HDL: implementation of evolutionary algorithms using hardware description languages citation:1 ncitation:1 pid2338659
+title1:Property analysis and design understanding. title2:Property Analysis and Design Understanding in a Quality-Driven Bounded Model Checking Flow citation:1 ncitation:6 pid142927
+title1:Manipulation Algorithms for K*BMDs. title2:Manipulation algorithms for K* BMDs citation:10 ncitation:11 pid2495971
+title1:RTL-Datapath Verification using Integer Linear Programming. title2:RTL-datapath verification using integer linear programming citation:116 ncitation:112 pid452353
+title1:Fast Heuristics for the Edge Coloring of Large Graphs. title2:Fast heuristics for the edge coloring of large graphs citation:8 ncitation:9 pid481137
+title1:Improving EAs for Sequencing Problems. title2:Improving EAs for sequencing problems citation:10 ncitation:9 pid1307982
+title1:ACTion: Combining Logic Synthesis and Technology Mapping for MUX Based FPGAs. title2:ACTion: Combining logic synthesis and technology mapping for MUX-based FPGAs citation:19 ncitation:18 pid1301445
+title1:Decision Diagram Optimization Using Copy Properties. title2:Decision diagram optimization using copy properties citation:1 ncitation:2 pid141876
+title1:Exact Multiple-Control Toffoli Network Synthesis With SAT Techniques. title2:Exact multiple-control toffoli network synthesis with SAT techniques citation:68 ncitation:44 pid141875
+title1:Verification of Designs Containing Black Boxes. title2:Verification of designs containing black boxes citation:15 ncitation:14 pid441394
+title1:Reversible Logic Synthesis with Output Permutation. title2:Reversible logic synthesis with output permutation citation:19 ncitation:15 pid2496774
+title1:Computing walsh, arithmetic, and reed-muller spectral decision diagrams using graph transformations. title2:Computing walsh, arithmetic, and reed-muller spectral decision diagrams using graph transformations citation:10 ncitation:9 pid2267222
+title1:BiTeS: a BDD based test pattern generator for strong robust path delay faults. title2:BiTeS: a BDD based test pattern generator for strong robust path delay faults citation:24 ncitation:23 pid2370150
+title1:Minimization of OPKFDDs Using Genetic Algorithms. title2:Minimization of OPKFDDs using genetic algorithms citation:0 ncitation:-1 pid2149790
+title1:Heuristic Learning Based on Genetic Programming. title2:Heuristic learning based on genetic programming citation:23 ncitation:22 pid234187
+title1:OFDD Based Minimization of Fixed Polarity Reed-Muller Expressions Using Hybrid Genetic Algorithms. title2:OFDD based minimization of fixed polarity Reed-Muller expressions using hybrid genetic algorithms citation:25 ncitation:25 pid1519856
+title1:Estimating functional coverage in bounded model checking. title2:Estimating functional coverage in bounded model checking citation:18 ncitation:17 pid1083509
+title1:Automatic Generation of Complex Properties for Hardware Designs. title2:Automatic generation of complex properties for hardware designs citation:18 ncitation:16 pid586418
+title1:Testability of Circuits Derived from Lattice Diagrams. title2:Testability of circuits derived from lattice diagrams citation:1 ncitation:1 pid562677
+title1:Generation of Optimal Universal Logic Modules. title2:Generation of optimal universal logic modules citation:1 ncitation:1 pid1356912
+title1:Checking Integrity During Dynamic Reordering in Decision Diagrams. title2:Checking integrity during dynamic reordering in decision diagrams citation:1 ncitation:1 pid427047
+title1:Acceleration of SAT-Based Iterative Property Checking. title2:Acceleration of SAT-Based iterative property checking citation:7 ncitation:7 pid199103
+title1:Testability of SPP Three-Level Logic Networks. title2:Testability of SPP Three-Level Logic Networks citation:0 ncitation:3 pid1972141
+title1:Exploiting Don't Caers During Data Sequencing using Genetic Algorithms. title2:Exploiting don't cares during data sequencing using genetic algorithms citation:15 ncitation:-1 pid199102
+title1:Manipulation of *BMDs. title2:Manipulation of* BMDs citation:8 ncitation:8 pid1241300
+title1:On the computational power of linearly transformed BDDs. title2:On the computational power of linearly transformed BDDs citation:13 ncitation:13 pid644936
+title1:Exploration of Sequential Depth by Evolutionary Algorithms. title2:Exploration of Sequential Depth by Evolutionary Algorithms citation:1 ncitation:1 pid160909
+title1:Learning heuristics by genetic algorithms. title2:Learning heuristics by genetic algorithms citation:21 ncitation:20 pid2627603
+title1:Minimization of the expected path length in BDDs based on local changes. title2:Minimization of the expected path length in BDDs based on local changes citation:25 ncitation:25 pid141821
+title1:Combining ordered best-first search with branch and bound for exact BDD minimization. title2:Combining ordered best-first search with branch and bound for exact BDD minimization citation:31 ncitation:26 pid226026
+title1:Combining GAs and Symbolic Methods for High Quality Tests of Sequential Circuits. title2:Combining GAs and symbolic methods for high quality tests of sequential circuits citation:24 ncitation:22 pid2120227
+title1:OKFDDs versus OBDDs and OFDDs. title2:OKFDDs versus OBDDs and OFDDs citation:24 ncitation:25 pid1762150
+title1:Improving simulation-based verification by means of formal methods. title2:Improving simulation-based verification by means of formal methods citation:17 ncitation:15 pid194921
+title1:Dynamic Re-Encoding During MDD Minimization. title2:Dynamic re-encoding during MDD minimization citation:9 ncitation:9 pid1342812
+title1:Verification of Multi-Valued Logic Networks. title2:Verification of multi-valued logic networks citation:18 ncitation:19 pid2484225
+title1:Random Pattern Fault Simulation in Multi-Valued Circuits. title2:Random pattern fault simulation in multi-valued circuits citation:9 ncitation:10 pid233787
+title1:Computation of Spectral Information from Logic Netlists. citation:0 ncitation:2 pid441235
+title1:Fault Simulation in Sequential Multi-Valued Logic Networks. title2:Fault simulation in sequential multi-valued logic networks citation:9 ncitation:9 pid1417992
+title1:Design of experiments in CAD: context and new data sets for ISCAS'99. title2:Design of experiments in CAD: Context and new data sets for ISCAS'99 citation:25 ncitation:24 pid234264
+title1:MDD-Based Synthesis of Multi-Valued Logic Networks. title2:MDD-based synthesis of multi-valued logic networks citation:10 ncitation:10 pid1076766
+title1:HW/SW co-verification of embedded systems using bounded model checking. title2:HW/SW co-verification of embedded systems using bounded model checking citation:35 ncitation:25 pid160945
+title1:Weighted A search - unifying view and application. citation:12 ncitation:9 pid884972
+title1:SWORD: A SAT like prover using word level information. title2:SWORD: A SAT like prover using word level information citation:32 ncitation:28 pid285696
+title1:Linear Transformations and Exact Minimization of BDDs. title2:Linear transformations and exact minimization of BDDs citation:16 ncitation:16 pid143484
+title1:BDD-based synthesis of reversible logic for large functions. title2:BDD-based synthesis of reversible logic for large functions citation:107 ncitation:88 pid1559909
+title1:Verifying Integrity of Decision Diagrams. title2:Verifying integrity of decision diagrams citation:0 ncitation:2 pid143909
+title1:Reachability Analysis for Formal Verification of SystemC. title2:Reachability analysis for formal verification of SystemC citation:41 ncitation:39 pid465037
+title1:On the Relation between SAT and BDDs for Equivalence Checking. title2:On the relation between SAT and BDDs for equivalence checking citation:30 ncitation:31 pid194825
+title1:Formal verification of LTL formulas for SystemC designs. title2:Formal verification of LTL formulas for SystemC designs citation:43 ncitation:43 pid194823
+title1:Pseudo Kronecker Expressions for Symmetric Functions. title2:Pseudo-kronecker expressions for symmetric functions citation:21 ncitation:25 pid194822
+title1:Variable Reordering for Shared Binary Decision Diagrams Using Output Probabilities. title2:Variable reordering for shared binary decision diagrams using output probabilities citation:1 ncitation:1 pid2356708
+title1:Augmented Sifting of Multiple-Valued Decision Diagrams. title2:Augmented sifting of multiple-valued decision diagrams citation:11 ncitation:11 pid644387
+title1:Level Assignment for Displaying Combinational Logic. title2:Level assignment for displaying combinational logic citation:8 ncitation:7 pid52229
+title1:Implementing a Multiple-Valued Decision Diagram Package. title2:Implementing a multiple-valued decision diagram package citation:66 ncitation:64 pid1302948
+title1:Checkers for SystemC designs. title2:Checkers for SystemC designs citation:27 ncitation:26 pid931513
+title1:Improvements for constraint solving in the systemc verification library. title2:Improvements for constraint solving in the SystemC verification library citation:13 ncitation:11 pid644409
+title1:Testability of 2-level AND/EXOR circuits. title2:Testability of 2-level AND/EXOR circuits citation:32 ncitation:29 pid52227
+title1:Synthesis of Pseudo Kronecker Lattice Diagrams. title2:Synthesis of pseudo kronecker lattice diagrams citation:12 ncitation:13 pid52236
+title1:Exact sat-based toffoli network synthesis. title2:Exact SAT-based Toffoli network synthesis citation:33 ncitation:29 pid2309851
+title1:Robust on-chip bus architecture synthesis for MPSoCs under random tasks arrival. title2:Robust on-chip bus architecture synthesis for MPSoCs under random tasks arrival citation:1 ncitation:1 pid1167166
+title1:Efficient Representation and Manipulation of Switching Functions Based on Ordered Kronecker Functional Decision Diagrams. title2:Efficient representation and manipulation of switching functions based on ordered Kronecker functional decision diagrams citation:220 ncitation:213 pid1655833
+title1:Using Lower Bounds During Dynamic BDD Minimization. title2:Using lower bounds during dynamic BDD minimization citation:70 ncitation:68 pid452268
+title1:Fast Exact Minimization of BDDs. title2:Fast exact minimization of BDDs citation:83 ncitation:80 pid52262
+title1:Exact Routing with Search Space Reduction. title2:Exact routing with search space reduction citation:16 ncitation:16 pid1083875
+title1:Formal Verification of Word-Level Specifications. title2:Formal verification of word-level specifications citation:45 ncitation:41 pid440825
+title1:Dynamic Minimization of Word-Level Decision Diagrams. title2:Dynamic minimization of word-level decision diagrams citation:23 ncitation:22 pid427098
+title1:BDD Circuit Optimization for Path Delay Fault Testability. title2:BDD circuit optimization for path delay fault testability citation:17 ncitation:16 pid440824
+title1:Integrating observability don't cares in all-solution SAT solvers. title2:Integrating observability don't cares in all-solution SAT solvers citation:11 ncitation:11 pid440829
+title1:Using unsatisfiable cores to debug multiple design errors. title2:Using unsatisfiable cores to debug multiple design errors citation:35 ncitation:28 pid440828
+title1:Multi-objected Optimization in Evolutionary Algorithms Using Satisfiability Classes. title2:Multi-objective optimization in evolutionary algorithms using satisfiability classes citation:13 ncitation:13 pid427102
+title1:Computing bounds for fault tolerance using formal techniques. title2:Computing bounds for fault tolerance using formal techniques citation:23 ncitation:22 pid440830
+title1:Fast OFDD based minimization of fixed polarity Reed-Muller expressions. title2:Fast OFDD-based minimization of fixed polarity Reed-Muller expressions citation:96 ncitation:-1 pid1266484
+title1:Fast and efficient construction of BDDs by reordering based synthesis. title2:Fast and efficient construction of BDDs by reordering based synthesis citation:12 ncitation:12 pid644582
+title1:Evolutionary Algorithms for VLSI CAD [book Review]. title2:Evolutionary Algorithms for VLSI CAD [Book Review] citation:1 ncitation:1 pid233862
+title1:Verifying integrity of decision diagrams. title2:Verifying integrity of decision diagrams citation:0 ncitation:2 pid2270339
+title1:Efficient Graph Based Representation of Multi-Valued Functions with an Application to Genetic Algorithms. title2:Efficient graph based representation of multi-valued functions with an application to genetic algorithms citation:24 ncitation:25 pid732125
+title1:Reducing the number of lines in reversible circuits. title2:Reducing the number of lines in reversible circuits citation:26 ncitation:22 pid1424964
+title1:Verifying UML/OCL models using Boolean satisfiability. title2:Verifying UML/OCL models using Boolean satisfiability citation:36 ncitation:28 pid1240969
+title1:Reducing Reversible Circuit Cost by Adding Lines. title2:Reducing reversible circuit cost by adding lines citation:25 ncitation:15 pid421373
+title1:Improving CNF representations in SAT-based ATPG for industrial circuits using BDDs. title2:Improving CNF representations in SAT-based ATPG for industrial circuits using BDDs citation:2 ncitation:0 pid2362636
+title1:Increasing Robustness of SAT-based Delay Test Generation Using Efficient Dynamic Learning Techniques. title2:Increasing robustness of SAT-based delay test generation using efficient dynamic learning techniques citation:7 ncitation:7 pid143144
+title1:MONSOON: SAT-Based ATPG for Path Delay Faults Using Multiple-Valued Logics. title2:MONSOON: SAT-based ATPG for path delay faults using multiple-valued logics citation:8 ncitation:8 pid143146
+title1:Proving transaction and system-level properties of untimed SystemC TLM designs. title2:Proving transaction and system-level properties of untimed SystemC TLM designs citation:30 ncitation:24 pid441093
+title1:Effect of BDD Optimization on Synthesis of Reversible and Quantum Logic. title2:Effect of BDD optimization on synthesis of reversible and quantum logic citation:15 ncitation:11 pid492262
+title1:Improved SAT-based Reachability Analysis with Observability Don't Cares. title2:Improved SAT-based Reachability Analysis with Observability Don't Cares. citation:9 ncitation:9 pid286382
+title1:Towards a Design Flow for Reversible Logic. title2:Towards a design flow for reversible logic citation:26 ncitation:19 pid1305599
+title1:Advanced BDD optimization. title2:Advanced BDD optimization citation:29 ncitation:20 pid234397
+title1:Spectral techniques in VLSI CAD. title2:Spectral techniques in VLSI CAD citation:74 ncitation:72 pid1705577
+title1:Improving ESOP-Based Synthesis of Reversible Logic Using Evolutionary Algorithms. title2:Improving ESOP-based synthesis of reversible logic using evolutionary algorithms citation:7 ncitation:3 pid1242153
+title1:SyReC: A Programming Language for Synthesis of Reversible Circuits. title2:SyReC: A programming language for synthesis of reversible circuits citation:29 ncitation:17 pid286376
+title1:SMT-based stimuli generation in the SystemC Verification library. title2:SMT-based stimuli generation in the SystemC verification library citation:12 ncitation:6 pid944405
+title1:Effective Robustness Analysis Using Bounded Model Checking Techniques. title2:Effective robustness analysis using bounded model checking techniques citation:9 ncitation:5 pid2374260
+title1:RevKit: A Toolkit for Reversible Circuit Design. title2:RevKit: A Toolkit for Reversible Circuit Design. citation:26 ncitation:20 pid1571996
+title1:Exact Synthesis of Elementary Quantum Gate Circuits. title2:Exact synthesis of elementary quantum gate circuits for reversible functions with don't cares citation:23 ncitation:1 pid142094
+title1:Quality-Driven SystemC Design title2:Quality-Driven SystemC Design citation:15 ncitation:12 pid2675156
+title1:Test Pattern Generation using Boolean Proof Engines. title2:Test pattern generation using Boolean proof engines citation:25 ncitation:21 pid142093
+title1:Encoding OCL Data Types for SAT-Based Verification of UML/OCL Models. title2:Encoding OCL data types for SAT-based verification of UML/OCL models citation:12 ncitation:6 pid2675154
+title1:Determining the minimal number of lines for large reversible circuits. title2:Determining the minimal number of lines for large reversible circuits citation:14 ncitation:11 pid869846
+title1:Verifying dynamic aspects of UML models. title2:Verifying dynamic aspects of UML models citation:14 ncitation:10 pid429642
+title1:Property Analysis and Design Understanding in a Quality-Driven Bounded Model Checking Flow. title2:Property Analysis and Design Understanding in a Quality-Driven Bounded Model Checking Flow citation:1 ncitation:1 pid2340340
+title1:Induction-Based Formal Verification of SystemC TLM Designs. title2:Induction-based formal verification of SystemC TLM designs citation:1 ncitation:1 pid2675138
+title1:Improved Fault Diagnosis for Reversible Circuits. title2:Improved Fault Diagnosis for Reversible Circuits citation:1 ncitation:0 pid926995
+title1:Towards Unifying Localization and Explanation for Automated Debugging. title2:Towards unifying localization and explanation for automated debugging citation:1 ncitation:1 pid221991
+title1:Assisted Behavior Driven Development Using Natural Language Processing. title2:Assisted behavior driven development using natural language processing citation:9 ncitation:4 pid2360798
+title1:RevKit: An Open Source Toolkit for the Design of Reversible Circuits. title2:RevKit: an open source toolkit for the design of reversible circuits citation:14 ncitation:6 pid2379755
+title1:Synthesis of reversible circuits with minimal lines for large functions. title2:Synthesis of reversible circuits with minimal lines for large functions citation:18 ncitation:8 pid1762227
+title1:A guiding coverage metric for formal verification. title2:A guiding coverage metric for formal verification citation:1 ncitation:1 pid926989
+title1:Eliminating invariants in UML/OCL models. title2:Eliminating invariants in UML/OCL models citation:2 ncitation:1 pid1423972
+title1:Automatic Fault Localization for Programmable Logic Controllers. citation:1 ncitation:1 pid2783070
+title1:Formal verification meets robustness checking - Techniques and challenges. citation:1 ncitation:1 pid2786864
+title1:TLM protocol compliance checking at the Electronic System Level. title2:TLM protocol compliance checking at the electronic system level citation:1 ncitation:1 pid2786866
+title1:Automatic property generation for the formal verification of bus bridges. title2:Automatic property generation for the formal verification of bus bridges citation:1 ncitation:1 pid2786870
+title1:Window optimization of reversible and quantum circuits. title2:Window optimization of reversible and quantum circuits citation:13 ncitation:10 pid2789997
+title1:Reducing Reversible Circuit Cost by Adding Lines. title2:Reducing reversible circuit cost by adding lines citation:25 ncitation:15 pid2802941
+title1:High Quality Test Pattern Generation and Boolean Satisfiability. title2:High Quality Test Pattern Generation and Boolean Satisfiability citation:1 ncitation:-1 pid2823679
+title1:Binary Decision Diagrams - Theory and Implementation. title2:Binary decision diagrams: theory and implementation citation:192 ncitation:177 pid2823725
+title1:Efficient (Non-)Reachability Analysis of Counterexamples. title2:Efficient (Non-) Reachability Analysis of Counterexamples. citation:1 ncitation:1 pid2949547
+title1:Verification of Designs Containing Black Boxes. title2:Verification of designs containing black boxes citation:15 ncitation:14 pid2976415
+title1:Verifying UML/OCL Models Using Boolean Satisfiability. title2:Verifying UML/OCL models using Boolean satisfiability citation:36 ncitation:28 pid3002578
+title1:SyReC: A Programming Language for Synthesis of Reversible Circuits. title2:SyReC: A programming language for synthesis of reversible circuits citation:29 ncitation:17 pid3014958
+title1:BDD-based verification of scalable designs. title2:BDD-based verification of scalable designs citation:0 ncitation:0 pid3158896
+title1:Formal Specification Level: Towards verification-driven design based on natural language processing. title2:Keynote: Formal specification level: Towards verification-driven design based on natural language processing citation:0 ncitation:1 pid3158942
+title1:Localizing features of ESL models for design understanding. title2:Localizing features of ESL models for design understanding citation:0 ncitation:0 pid3168910
+title1:Using DDs in the Design of Reversible Circuits. citation:2 ncitation:None pid3186856
+title1:Property Checking of Quantum Circuits Using Quantum Multiple-Valued Decision Diagrams. title2:Property checking of quantum circuits using quantum multiple-valued decision diagrams citation:2 ncitation:None pid3191223

@@ -1,0 +1,393 @@
+title1:Algorithmic Techniques for Geometric Optimization. title2:Algorithmic techniques for geometric optimization citation:12 ncitation:12 pid2681
+title1:On the Zone Theorem for Hyperplane Arrangements. title2:On the zone theorem for hyperplane arrangements citation:23 ncitation:81 pid65808
+title1:On the Number of Views of Polyhedral Terrains. title2:On the number of views of polyhedral terrains citation:33 ncitation:36 pid81705
+title1:On the Union of Fat Wedges and Separating a Collection of Segments By a Line. title2:On the union of fat wedges and separating a collection of segments by a line citation:60 ncitation:58 pid81965
+title1:On Vertical Decomposition of Arrangements of Hyperplanes in Four Dimensions. title2:Vertical decomposition of arrangements of hyperplanes in four dimensions citation:12 ncitation:12 pid82044
+title1:Optimal Slope Selection Via Expanders. title2:Optimal slope selection via expanders citation:42 ncitation:43 pid82118
+title1:Approximation and Exact Algorithms for Minimum-Width Annuli and Shells. title2:Approximation and exact algorithms for minimum-width annuli and shells citation:40 ncitation:44 pid110533
+title1:On lines avoiding unit balls in three dimensions. title2:On lines avoiding unit balls in three dimensions citation:16 ncitation:17 pid110535
+title1:Computing Envelopes in Four Dimensions with Applications. title2:Computing envelopes in four dimensions with applications citation:77 ncitation:79 pid110537
+title1:On Levels in Arrangements of Lines, Segments, Planes, and Triangles. title2:On Levels in Arrangements of Lines, Segments, Planes, and Triangles% citation:79 ncitation:75 pid110541
+title1:Selecting Distances in the Plane. title2:Selecting distances in the plane citation:74 ncitation:76 pid110543
+title1:Vertical Decomposition of Shallow Levels in 3-Dimensional Arrangements and Its Applications. title2:Vertical decomposition of shallow levels in 3-dimensional arrangements and its applications citation:109 ncitation:103 pid110561
+title1:Hausdorff distance under translation for points and balls. title2:Hausdorff distance under translation for points and balls citation:3 ncitation:24 pid110569
+title1:On the number of congruent simplices in a point. title2:On the number of congruent simplices in a point citation:9 ncitation:9 pid110577
+title1:Red-Blue Intersection Detection Algorithms, with Applications to Motion Planning and Collision Detection. title2:Red-blue intersection detection algorithms, with applications to motion planning and collision detection citation:53 ncitation:53 pid110579
+title1:Counting Circular Arc Intersections. title2:Counting circular arc intersections citation:22 ncitation:23 pid110581
+title1:Efficient Randomized Algorithms for Some Geometric Optimization Problems. title2:Efficient randomized algorithms for some geometric optimization problems citation:95 ncitation:92 pid110583
+title1:Pipes, Cigars, and Kreplach: The Union of Minkowski Sums in Three Dimensions. title2:Pipes, cigars, and kreplach: The union of Minkowski sums in three dimensions citation:49 ncitation:33 pid110585
+title1:The Overlay of Lower Envelopes in Three Dimensions and Its Applications. title2:The overlay of lower envelopes in three dimensions and its applications citation:16 ncitation:16 pid110587
+title1:Algorithms for center and Tverberg points. title2:Algorithms for center and Tverberg points citation:7 ncitation:9 pid110589
+title1:The Discrete 2-Center Problem. title2:The discrete 2-center problem citation:55 ncitation:53 pid110591
+title1:Points and Triangles in the Plane and Halving Planes in Space. title2:Points and triangles in the plane and halving planes in space citation:69 ncitation:68 pid110592
+title1:Incidences between points and circles in three and higher dimensions. title2:Incidences between points and circles in three and higher dimensions citation:17 ncitation:16 pid110634
+title1:On the Sum of Squares of Cell Complexities in Hyperplane Arrangements. title2:On the sum of squares of cell complexities in hyperplane arrangements citation:19 ncitation:21 pid110637
+title1:Triangles in Space or Building (and Analyzing) Castles in the Air. title2:Triangles in space or building (and analyzing) castles in the air citation:88 ncitation:89 pid110641
+title1:Castles in the Air Revisited. title2:Castles in the air revisited citation:63 ncitation:67 pid110643
+title1:On Translational Motion Planning in 3-Space. title2:On translational motion planning in 3-space citation:23 ncitation:22 pid110645
+title1:Piecewise-Linear Interpolation Between Polygonal Slices. title2:Piecewise-linear interpolation between polygonal slices citation:61 ncitation:188 pid110694
+title1:Partial Surface Matching by Using Directed Footprints. title2:Partial surface matching by using directed footprints citation:34 ncitation:31 pid110695
+title1:Voronoi Diagrams in Higher Dimensions under Certain Polyhedral Distance Functions. title2:Voronoi diagrams in higher dimensions under certain polyhedral distance functions citation:101 ncitation:97 pid110765
+title1:The Combinatorial Complexity of Hyperplane Transversals. title2:The combinatorial complexity of hyperplane transversals citation:9 ncitation:8 pid110799
+title1:Slimming Down by Adding: Selecting Heavily Covered Points. title2:Slimming down by adding; selecting heavily covered points citation:14 ncitation:12 pid110827
+title1:Diameter, Width, Closest Line Pair, and Parametric Searching. title2:Diameter, width, closest line pair, and parametric searching citation:124 ncitation:120 pid110828
+title1:Quasi-Optimal Upper Bounds for Simplex Range Searching and New Zone Theorems. title2:Quasi-optimal upper bounds for simplex range searching and new zone theorems citation:122 ncitation:115 pid110834
+title1:Binary space partitions for axis-parallel segments, rectangles, and hyperrectangles. title2:Binary space partitions for axis-parallel segments, rectangles, and hyperrectangles citation:26 ncitation:25 pid110953
+title1:On Arrangements of Jordan Arcs with Three Intersections per Pair. title2:On arrangements of Jordan arcs with three intersections per pair citation:22 ncitation:22 pid110970
+title1:Implicitly Representing Arrangements of Lines or Segments. title2:Implicitly representing arrangements of lines or segments citation:63 ncitation:55 pid110971
+title1:The Complexity of Many Faces in Arrangements of Lines of Segments. title2:The complexity of many faces in arrangements of lines of segments citation:40 ncitation:35 pid110972
+title1:Counting and representing intersections among triangles in three dimensions. title2:Counting and representing intersections among triangles in three dimensions citation:15 ncitation:13 pid111019
+title1:On the ICP algorithm. title2:On the ICP algorithm citation:11 ncitation:11 pid111020
+title1:On the General Motion Planning Problem with Two Degrees of Freedom. title2:On the general motion-planning problem with two degrees of freedom citation:126 ncitation:121 pid111109
+title1:New Bounds for Lower Envelopes in Three Dimensions, with Applications to Visibility in Terrains. title2:New bounds for lower envelopes in three dimensions, with applications to visibility in terrains citation:93 ncitation:94 pid111123
+title1:Approximating Shortest Paths on a Convex Polytope in Three Dimensions. title2:Approximating shortest paths on a convex polytope in three dimensions citation:12 ncitation:71 pid111141
+title1:The Upper Envelope of Voronoi Surfaces and Its Applications. title2:The upper envelope of Voronoi surfaces and its applications citation:177 ncitation:174 pid111175
+title1:Colored intersection searching via sparse rectangular matrix multiplication. title2:Colored intersection searching via sparse rectangular matrix multiplication citation:12 ncitation:13 pid111204
+title1:The Power of Geometric Duality and Minkowski Sums in Optical Computational Geometry. title2:The power of geometric duality and Minkowski sums in optical computational geometry citation:4 ncitation:3 pid111210
+title1:Efficient Hidden Surface Removal for Objects with small Union Size. title2:Efficient hidden surface removal for objects with small union size citation:96 ncitation:93 pid111216
+title1:An Expander-Based Approach to Geometric Optimization. title2:An expander-based approach to geometric optimization citation:32 ncitation:40 pid111217
+title1:An Automatic Motion Planning System for a Convex Polygonal Mobile Robot in 2-Dimensional Polygonal Space. title2:An automatic motion planning system for a convex polygonal mobile robot in 2-dimensional polygonal space citation:28 ncitation:28 pid111219
+title1:Three dimensional euclidean Voronoi diagrams of lines with a fixed number of orientations. title2:3-dimensional Euclidean Voronoi diagrams of lines with a fixed number of orientations citation:34 ncitation:32 pid111241
+title1:Polyhedral Voronoi diagrams of polyhedra in three dimensions. title2:Polyhedral Voronoi diagrams of polyhedra in three dimensions citation:18 ncitation:17 pid111242
+title1:Curve-sensitive cuttings. title2:Curve-sensitive cuttings citation:6 ncitation:7 pid111243
+title1:On overlays and minimization diagrams. title2:On overlays and minimization diagrams citation:5 ncitation:5 pid111244
+title1:Efficient Algorithms for Maximum Regression Depth. title2:Efficient algorithms for maximum regression depth citation:3 ncitation:26 pid111249
+title1:Computing the Link Center of a Simple Polygon. title2:Computing the link center of a simple polygon citation:74 ncitation:73 pid111274
+title1:A Subexponential Bound for Linear Programming. title2:A subexponential bound for linear programming citation:303 ncitation:277 pid111308
+title1:New results on shortest paths in three dimensions. title2:New results on shortest paths in three dimensions citation:51 ncitation:45 pid111331
+title1:Merging Visibility Maps. title2:Merging visibility maps citation:11 ncitation:11 pid111377
+title1:A tight bound for the number of different directions in three dimensions. title2:A tight bound for the number of different directions in three dimensions citation:6 ncitation:6 pid111379
+title1:Solution of Scott's problem on the number of directions determined by a point set in 3-space. title2:Solution of Scott's problem on the number of directions determined by a point set in 3-space citation:12 ncitation:10 pid111380
+title1:The union of congruent cubes in three dimensions. title2:The union of congruent cubes in three dimensions citation:28 ncitation:25 pid111382
+title1:On empty convex polygons in a planar point set. title2:On empty convex polygons in a planar point set citation:18 ncitation:14 pid111399
+title1:An optimal-time algorithm for shortest paths on a convex polytope in three dimensions. title2:An optimal-time algorithm for shortest paths on a convex polytope in three dimensions citation:36 ncitation:30 pid111453
+title1:The Clarkson-Shor technique revisited and extended. title2:The Clarkson-Shor technique revisited and extended citation:20 ncitation:18 pid111464
+title1:A Near-Linear Algorithm for the Planar 2-Center Problem. title2:A near-linear algorithm for the planar 2-center problem citation:89 ncitation:84 pid111465
+title1:Coordinated Motion Planning for Two Independent Robots. title2:Coordinated motion planning for two independent robots citation:37 ncitation:38 pid111467
+title1:An improved bound for -sets in three dimensions. title2:An improved bound for k-sets in three dimensions citation:66 ncitation:61 pid111468
+title1:Balanced lines, halving triangles, and the generalized lower bound theorem. title2:Balanced lines, halving triangles, and the generalized lower bound theorem citation:7 ncitation:6 pid111469
+title1:Point-line incidences in space. title2:Point-line incidences in space citation:17 ncitation:18 pid111470
+title1:Random triangulations of planar point sets. title2:Random triangulations of planar point sets citation:47 ncitation:43 pid111471
+title1:Rectilinear and Polygonal -Piercing and -Center Problems. title2:Rectilinear and polygonal p-piercing and p-center problems citation:60 ncitation:58 pid111472
+title1:A New Efficient Motion-Planning Algorithm for a Rod in Polygonal Space. title2:A new efficient motion-planning algorithm for a rod in polygonal space citation:8 ncitation:7 pid111485
+title1:Sharp Bounds on Geometric Permutations of Pairwise Disjoint Balls inR. title2:Sharp bounds on geometric permutations of pairwise disjoint balls in R d citation:35 ncitation:36 pid111488
+title1:Similar simplices in a d-dimensional point set. title2:Similar simplices in a d-dimensional point set citation:5 ncitation:3 pid111514
+title1:Computing the volume of the union of cubes. title2:Computing the volume of the union of cubes citation:16 ncitation:15 pid111518
+title1:Bi-criteria linear-time approximations for generalized k-mean/median/center. title2:Bi-criteria linear-time approximations for generalized k-mean/median/center citation:9 ncitation:7 pid111530
+title1:The complexity of the outer face in arrangements of random segments. title2:The complexity of the outer face in arrangements of random segments citation:4 ncitation:3 pid111610
+title1:On approximate halfspace range counting and relative epsilon-approximations. title2:On approximate halfspace range counting and relative epsilon-approximations citation:20 ncitation:19 pid111616
+title1:Extremal problems on triangle areas in two and three dimensions. title2:Extremal problems on triangle areas in two and three dimensions citation:6 ncitation:6 pid111647
+title1:Translating a Planar Object to Maximize Point Containment. title2:Translating a planar object to maximize point containment citation:17 ncitation:15 pid185865
+title1:Speeding Up the Incremental Construction of the Union of Geometric Objects in Practice. title2:Speeding up the incremental construction of the union of geometric objects in practice citation:3 ncitation:8 pid186142
+title1:Linear Data Structures for Fast Ray-Shooting Amidst Convex Polyhedra. title2:Linear data structures for fast ray-shooting amidst convex polyhedra citation:5 ncitation:5 pid186566
+title1:Arrangements in Geometry: Recent Advances and Challenges. title2:Arrangements in geometry: recent advances and challenges citation:0 ncitation:0 pid186568
+title1:Stabbing Convex Polygons with a Segment or a Polygon. title2:Stabbing convex polygons with a segment or a polygon citation:11 ncitation:9 pid186652
+title1:An Improved Bound for k-Sets in Three Dimensions. title2:An improved bound for k-sets in three dimensions citation:66 ncitation:61 pid200321
+title1:On the Complexity of Many Faces in Arrangements of Circles. title2:On the complexity of many faces in arrangements of circles citation:6 ncitation:7 pid209820
+title1:The Union of Convex Polyhedra in Three Dimensions title2:The union of convex polyhedra in three dimensions citation:18 ncitation:65 pid209935
+title1:Counting and Cutting Cycles of Lines and Rods in Space title2:Counting and cutting cycles of lines and rods in space citation:54 ncitation:49 pid210263
+title1:Combinatorial Complexity Bounds for Arrangements of Curves and Surfaces title2:Combinatorial complexity bounds for arrangements of curves and spheres citation:318 ncitation:313 pid210357
+title1:On the Lower Envelope of Bivariate Functions and its Applications title2:On the lower envelope of bivariate functions and its applications citation:11 ncitation:12 pid210512
+title1:Near-Quadratic Bounds for the Motion Planning Problem for a Polygon in a Polygonal Environment title2:Near-quadratic bounds for the motion planning problem for a polygon in a polygonal environment citation:19 ncitation:20 pid210895
+title1:Nonlinearity of Davenport-Schinzel Sequences and of a Generalized Path Compression Scheme citation:300 ncitation:273 pid210930
+title1:The Partition Technique for Overlays of Envelopes. title2:The partition technique for overlays of envelopes citation:33 ncitation:28 pid211218
+title1:Fat Triangles Determine Linearly Many Holes title2:Fat triangles determine linearly many holes citation:150 ncitation:147 pid211374
+title1:Motion Planning in the Presence of Moving Obstacles title2:Motion planning in the presence of moving obstacles citation:323 ncitation:309 pid211734
+title1:Almost Tight Upper Bounds for Lower Envelopes in Higher Dimensions title2:Almost tight upper bounds for lower envelopes in higher dimensions citation:144 ncitation:142 pid211775
+title1:Geometric Applications of Davenport-Schinzel Sequences title2:Geometric applications of Davenport-Schinzel sequences citation:31 ncitation:27 pid211776
+title1:On Minima of Functions, Intersection Patterns of Curves, and Davenport-Schinzel Sequences title2:On minima of function, intersection patterns of curves, and davenport-schinzel sequences citation:19 ncitation:16 pid211777
+title1:Coresets forWeighted Facilities and Their Applications. title2:Coresets forweighted facilities and their applications citation:22 ncitation:22 pid212123
+title1:Recent Developments in the Theory of Arrangements of Surfaces. title2:Recent developments in the theory of arrangements of surfaces citation:9 ncitation:7 pid219976
+title1:Quasi-Planar Graphs Have a Linear Number of Edges. title2:Quasi-planar graphs have a linear number of edges citation:13 ncitation:46 pid224642
+title1:Ray Shooting in Polygons Using Geodesic Triangulations. title2:Ray shooting in polygons using geodesic triangulations citation:53 ncitation:121 pid267619
+title1:Arrangements of Curves in the Plane - Topology, Combinatorics, and Algorithms. citation:106 ncitation:106 pid267851
+title1:Randomized Incremental Construction of Delaunay and Voronoi Diagrams. title2:Randomized incremental construction of Delaunay and Voronoi diagrams citation:126 ncitation:408 pid268143
+title1:Concurrent Probabilistic Program, or: How to Schedule if You Must. title2:Concurrent probabilistic programs, or: How to schedule if you must citation:14 ncitation:13 pid268188
+title1:Data Flow Analysis of Applicative Programs. title2:Data flow analysis of applicative programs citation:3 ncitation:2 pid269046
+title1:Reaching a Goal with Directional Uncertainty. title2:Reaching a goal with directional uncertainty citation:9 ncitation:10 pid415227
+title1:Geometrically aware communication in random wireless networks. title2:Geometrically aware communication in random wireless networks citation:19 ncitation:19 pid544182
+title1:Termination of Probabilistic Concurrent Programs. title2:Termination of probabilistic concurrent program citation:185 ncitation:167 pid546289
+title1:Automatic Data Structure Selection in SETL. title2:Automatic data structure selection in SETL citation:33 ncitation:30 pid546737
+title1:A Hyperplane Incidence Problem with Applications to Counting Distances. title2:A hyperplane incidence problem with applications to counting distances citation:25 ncitation:21 pid588314
+title1:The design of a global optimizer. title2:The design of a global optimizer citation:8 ncitation:8 pid600840
+title1:Exact and approximation algorithms for minimum-width cylindrical shells. title2:Exact and approximation algorithms for minimum-width cylindrical shells citation:20 ncitation:17 pid609767
+title1:Line Traversals of Balls and Smallest Enclosing Cylinders in Three Dimensions. title2:Line transversals of balls and smallest enclosing cylinders in three dimensions citation:74 ncitation:76 pid609769
+title1:Pseudo-line arrangements: duality, algorithms, and applications. title2:Pseudo-line arrangements: Duality, algorithms, and applications citation:26 ncitation:24 pid609797
+title1:Planar Geometric Location Problems and Maintaining the Width of a Planar Set. title2:Planar geometric location problems and maintaining the width of a planar set citation:33 ncitation:31 pid609799
+title1:Ray Shooting Amidst Convex Polytopes in Three Dimensions. title2:Ray shooting amidst convex polytopes in three dimensions citation:9 ncitation:9 pid609801
+title1:Motion Planning of a Ball Amid Segments in Three Dimensions. title2:Motion planning of a ball amid segments in three dimensions citation:5 ncitation:8 pid609805
+title1:Applications of Parametric Searching in Geometric Optimization. title2:Applications of parametric searching in geometric optimization citation:181 ncitation:181 pid609807
+title1:Voronoi Diagrams of Lines in 3-Space Under Polyhedral Convex Distance Functions. title2:Voronoi diagrams of lines in 3-space under polyhedral convex distance functions citation:56 ncitation:53 pid610234
+title1:A Near-Linear Algorithm for the Planar Segment Center Problem. title2:A near-linear algorithm for the planar segment-center problem citation:31 ncitation:32 pid610427
+title1:Output-sensitive construction of the union of triangles. title2:Output-sensitive construction of the union of triangles citation:9 ncitation:9 pid610480
+title1:Online conflict-free coloring for intervals. title2:Online conflict-free coloring for intervals citation:47 ncitation:46 pid610506
+title1:Randomized incremental constructions of three-dimensional convex hulls and planar voronoi diagrams, and approximate range counting. title2:Randomized incremental constructions of three-dimensional convex hulls and planar voronoi diagrams, and approximate range counting citation:20 ncitation:20 pid610840
+title1:On the overlay of envelopes in four dimensions. title2:On the overlay of envelopes in four dimensions citation:3 ncitation:4 pid610962
+title1:Tail Estimates for the Space Complexity of Randomized Incremental Algorithms. title2:Tail estimates for the space complexity of randomized incremental algorithms citation:5 ncitation:5 pid611135
+title1:Ray shooting amid balls, farthest point from a line, and range emptiness searching. title2:Ray shooting amid balls, farthest point from a line, and range emptiness searching citation:11 ncitation:10 pid611239
+title1:On the number of crossing-free matchings, (cycles, and partitions). title2:On the number of crossing-free matchings, cycles, and partitions citation:55 ncitation:51 pid611241
+title1:Counting colors in boxes. title2:Counting colors in boxes citation:22 ncitation:17 pid611420
+title1:Weak &epsilon;-nets and interval chains. citation:14 ncitation:13 pid611646
+title1:Line transversals of convex polyhedra in . title2:Line Transversals of Convex Polyhedra in R^3 citation:6 ncitation:7 pid611757
+title1:A Combinatorial Bound for Linear Programming and Related Problems. title2:A combinatorial bound for linear programming and related problems citation:147 ncitation:146 pid620810
+title1:Cutting triangular cycles of lines in space. title2:Cutting triangular cycles of lines in space citation:2 ncitation:2 pid621286
+title1:Distinct distances in three and higher dimensions. title2:Distinct distances in three and higher dimensions citation:19 ncitation:17 pid621287
+title1:Lines in Space-Combinatorics, Algorithms and Applications title2:Lines in space-combinators, algorithms and applications citation:69 ncitation:68 pid621691
+title1:On k-hulls and Related Problems title2:On k-hulls and related problems citation:164 ncitation:167 pid621766
+title1:On Shortest Paths in Polyhedral Spaces title2:On shortest paths in polyhedral spaces citation:354 ncitation:325 pid623139
+title1:Computing the Penetration Depth of Two Convex Polytopes in 3D. title2:Computing the penetration depth of two convex polytopes in 3d citation:5 ncitation:5 pid623981
+title1:Computing Depth Orders and Related Problems. title2:Computing depth orders and related problems citation:21 ncitation:21 pid623983
+title1:On the Number of Regular Vertices of the Union of Jordan Regions. title2:On the number of regular vertices of the union of Jordan regions citation:4 ncitation:7 pid624049
+title1:Intersecting Line Segments, Ray Shooting, and Other Applications of Geometric Partitioning Techniques. title2:Intersecting line segments, ray shooting, and other applications of geometric partitioning techniques citation:29 ncitation:29 pid624222
+title1:On Neighbors in Geometric Permutations. title2:On neighbors in geometric permutations citation:6 ncitation:7 pid624313
+title1:Reporting Intersecting Pairs of Polytopes in Two and Three Dimensions. title2:Reporting intersecting pairs of convex polytopes in two and three dimensions citation:6 ncitation:-1 pid651096
+title1:Kinetic and Dynamic Data Structures for Convex Hulls and Upper Envelopes. title2:Kinetic and dynamic data structures for convex hulls and upper envelopes citation:6 ncitation:9 pid651122
+title1:On the Zone of a Surface in a Hyperplane Arrangement. title2:On the zone of a surface in a hyperplane arrangement citation:18 ncitation:75 pid651174
+title1:Dynamic Data Structures for Fat Objects and Their Applications. title2:Dynamic data structures for fat objects and their applications citation:31 ncitation:30 pid651263
+title1:Computing the Smallest k-Enclosing Circle and Related Problems. title2:Computing the smallest< i> k</i>-enclosing circle and related problems citation:57 ncitation:56 pid651264
+title1:Arrangements in Higher Dimensions: Voronoi Diagrams, Motion Planning, and Other Applications. title2:Arrangements in higher dimensions: Voronoi diagrams, motion planning, and other applications citation:9 ncitation:7 pid651499
+title1:Extremal Configurations and Levels in Pseudoline Arrangements. title2:Extremal configurations and levels in pseudoline arrangements citation:6 ncitation:5 pid651501
+title1:Some Modified Algorithms for Dijkstra's Longest Upsequence Problem. title2:Some modified algorithms for Dijkstra's longest upsequence problem citation:17 ncitation:17 pid740764
+title1:Selecting Distances in the Plane. title2:Selecting distances in the plane citation:74 ncitation:76 pid749585
+title1:Ray Shooting in Polygons Using Geodesic Triangulations. title2:Ray shooting in polygons using geodesic triangulations citation:53 ncitation:121 pid749863
+title1:Algorithms for Bichromatic Line-Segment Problems Polyhedral Terrains. title2:Algorithms for bichromatic line-segment problems and polyhedral terrains citation:111 ncitation:106 pid749864
+title1:Lines in Space: Combinatorics and Algorithms. title2:Lines in space: Combinatorics and algorithms citation:60 ncitation:58 pid749865
+title1:Quasi-Optimal Upper Bounds for Simplex Range Searching and New Zone Theorems. title2:Quasi-optimal upper bounds for simplex range searching and new zone theorems citation:122 ncitation:115 pid749869
+title1:Linear-Time Algorithms for Visibility and Shortest Path Problems Inside Triangulated Simple Polygons. title2:Linear-time algorithms for visibility and shortest path problems inside triangulated simple polygons citation:511 ncitation:498 pid750120
+title1:Randomized Incremental Construction of Delaunay and Voronoi Diagrams. title2:Randomized incremental construction of Delaunay and Voronoi diagrams citation:126 ncitation:408 pid750122
+title1:A Subexponential Bound for Linear Programming. title2:A subexponential bound for linear programming citation:303 ncitation:277 pid750430
+title1:On the Existence and Synthesis of Multifinger Positive Grips. title2:On the existence and synthesis of multifinger positive grips citation:413 ncitation:394 pid750458
+title1:Generalized Voronoi Diagrams for a Ladder: II. Efficient Construction of the Diagram. title2:Generalized Voronoi diagrams for a ladder: II. Efficient construction of the diagram citation:49 ncitation:39 pid750503
+title1:An Improved Technique for Output-Sensitive Hidden Surface Removal. title2:An improved technique for output-sensitive hidden surface removal citation:2 ncitation:8 pid750507
+title1:Finding Effective ``Force Targets'' for Two-Dimensional Multifinger Frictional Grips. citation:4 ncitation:5 pid750569
+title1:A New Efficient Motion-Planning Algorithm for a Rod in Two-Dimensional Polygonal Space. title2:A new efficient motion-planning algorithm for a rod in two-dimensional polygonal space citation:64 ncitation:63 pid750596
+title1:Coordinated Motion Planning for Two Independent Robots. title2:Coordinated motion planning for two independent robots citation:37 ncitation:38 pid751942
+title1:Storing Line Segments in Partition Trees. title2:Storing line segments in partition trees citation:19 ncitation:19 pid768259
+title1:Filling gaps in the boundary of a polyhedron. title2:Filling gaps in the boundary of a polyhedron citation:176 ncitation:157 pid780056
+title1:Structural Analysis: A New Approch to Flow Analysis in Optimizing Compilers. title2:Structural analysis: a new approach to flow analysis in optimizing compilers citation:75 ncitation:71 pid792657
+title1:Formal Integration: A Program Transformation Technique. title2:Formal integration: A program transformation technique citation:7 ncitation:6 pid792659
+title1:Quasi-Planar Graphs Have a Linear Number of Edges. title2:Quasi-planar graphs have a linear number of edges citation:13 ncitation:46 pid797773
+title1:The number of edges of many faces in a line segment arrangement. title2:The number of edges of many faces in a line segment arrangement citation:27 ncitation:11 pid797887
+title1:Triangles in space or building (and analyzing) castles in the air. title2:Triangles in space or building (and analyzing) castles in the air citation:88 ncitation:89 pid797889
+title1:Nonlinearity of Davenport - Schinzel sequences and of generalized path compression schemes. citation:300 ncitation:273 pid798247
+title1:Almost linear upper bounds on the length of general Davenport-Schinzel sequences. citation:70 ncitation:58 pid798621
+title1:Improved lower bounds on the length of Davenport - Schinzel sequences. title2:Improved lower bounds on the length of Davenport-Schinzel sequences citation:34 ncitation:30 pid798623
+title1:k-sets and random hulls. title2:k-Sets and random hulls citation:8 ncitation:6 pid798628
+title1:Reporting intersecting pairs of convex polytopes in two and three dimensions. title2:Reporting intersecting pairs of convex polytopes in two and three dimensions citation:6 ncitation:8 pid803432
+title1:Computing Depth Orders for Fat Objects and Related Problems. title2:Computing depth orders for fat objects and related problems citation:46 ncitation:49 pid803440
+title1:Off-line Dynamic Maintenance of the Width of a Planar Point Set. title2:Off-line dynamic maintenance of the width of a planar point set citation:15 ncitation:14 pid803452
+title1:The Common Exterior of Convex Polygons in the Plane. title2:The common exterior of convex polygons in the plane citation:33 ncitation:32 pid803524
+title1:Partial surface matching by using directed footprints. title2:Partial surface matching by using directed footprints citation:34 ncitation:31 pid803561
+title1:Counting and Cutting Cycles of Lines and Rods in Space. title2:Counting and cutting cycles of lines and rods in space citation:54 ncitation:49 pid803592
+title1:Speeding up the incremental construction of the union of geometric objects in practice. title2:Speeding up the incremental construction of the union of geometric objects in practice citation:3 ncitation:8 pid803665
+title1:Counting and representing intersections among triangles in three dimensions. title2:Counting and representing intersections among triangles in three dimensions citation:15 ncitation:13 pid803667
+title1:Dynamic data structures for fat objects and their applications. title2:Dynamic data structures for fat objects and their applications citation:31 ncitation:30 pid803693
+title1:On the Union of Fat Wedges and Separating a Collection of Segments By a Line. title2:On the union of fat wedges and separating a collection of segments by a line citation:60 ncitation:58 pid803695
+title1:Computing the Smallest K-enclosing Circle and Related Problems. title2:Computing the smallest< i> k</i>-enclosing circle and related problems citation:57 ncitation:56 pid803697
+title1:Improved Combinatorial Bounds and Efficient Techniques for Certain Motion Planning Problems with Three Degrees of Freedom. title2:Improved combinatorial bounds and efficient techniques for certain motion planning problems with three degrees of freedom citation:11 ncitation:10 pid803778
+title1:Efficient Hidden Surface Removal for Objects with Small Union Size. title2:Efficient hidden surface removal for objects with small union size citation:96 ncitation:93 pid803779
+title1:Ray shooting and stone throwing with near-linear storage. title2:Ray shooting and stone throwing with near-linear storage citation:8 ncitation:8 pid803872
+title1:External Polygon Containment Problems. title2:External polygon containment problems citation:37 ncitation:39 pid803874
+title1:Tail Estimates for the Efficiency of Randomized Incremental Algorithms for Line Segment Intersection. title2:Tail estimates for the efficiency of randomized incremental algorithms for line segment intersection citation:5 ncitation:6 pid803875
+title1:Merging Visibility Maps. title2:Merging visibility maps citation:11 ncitation:11 pid803935
+title1:Kinetic and dynamic data structures for convex hulls and upper envelopes. title2:Kinetic and dynamic data structures for convex hulls and upper envelopes citation:6 ncitation:9 pid804000
+title1:On the performance of the ICP algorithm. title2:On the performance of the ICP algorithm citation:16 ncitation:10 pid804085
+title1:Eppstein's bound on intersecting triangles revisited title2:Eppstein's bound on intersecting triangles revisited citation:6 ncitation:5 pid827037
+title1:Line Transversals of Convex Polyhedra in R title2:Line Transversals of Convex Polyhedra in R^3 citation:6 ncitation:7 pid827831
+title1:Distinct Distances in Three and Higher Dimensions. title2:Distinct distances in three and higher dimensions citation:19 ncitation:17 pid830812
+title1:On the Number of Incidences Between Points and Curves. title2:On the number of incidences between points and curves citation:78 ncitation:66 pid831141
+title1:The Clarkson-Shor Technique Revisited And Extended. title2:The Clarkson-Shor technique revisited and extended citation:20 ncitation:18 pid831193
+title1:Point-Line Incidences in Space. title2:Point-line incidences in space citation:17 ncitation:18 pid831194
+title1:Selecting Points that are Heavily Covered by Pseudo-Circles, Spheres or Rectangles. title2:Selecting points that are heavily covered by pseudo-circles, spheres or rectangles citation:8 ncitation:6 pid831206
+title1:Efficient Algorithms for Geometric Optimization. title2:Efficient algorithms for geometric optimization citation:225 ncitation:222 pid832216
+title1:Piecewise-Linear Interpolation between Polygonal Slices. title2:Piecewise-linear interpolation between polygonal slices citation:61 ncitation:188 pid834792
+title1:On the Number of Regular Vertices of the Union of Jordan Regions. title2:On the number of regular vertices of the union of Jordan regions citation:4 ncitation:7 pid842865
+title1:On Levels in Arrangements of Lines, Segments, Planes, and Triangles%. title2:On Levels in Arrangements of Lines, Segments, Planes, and Triangles% citation:79 ncitation:75 pid842874
+title1:Lines Avoiding Unit Balls in Three Dimensions. title2:On lines avoiding unit balls in three dimensions citation:16 ncitation:17 pid842878
+title1:Incidences between Points and Circles in Three and Higher Dimensions. title2:Incidences between points and circles in three and higher dimensions citation:17 ncitation:16 pid842879
+title1:Exact and Approximation Algorithms for Minimum-Width Cylindrical Shells. title2:Exact and approximation algorithms for minimum-width cylindrical shells citation:20 ncitation:17 pid842880
+title1:Cutting Triangular Cycles of Lines in Space. title2:Cutting triangular cycles of lines in space citation:2 ncitation:2 pid842881
+title1:Largest Placement of One Convex Polygon Inside Another. title2:Largest placement of one convex polygon inside another citation:21 ncitation:18 pid842882
+title1:Motion Planning for a Convex Polygon in a Polygonal Environment. title2:Motion planning for a convex polygon in a polygonal environment citation:23 ncitation:24 pid842884
+title1:Line Transversals of Balls and Smallest Enclosing Cylinders in Three Dimensions. title2:Line transversals of balls and smallest enclosing cylinders in three dimensions citation:74 ncitation:76 pid842886
+title1:On the Zone of a Surface in a Hyperplane Arrangement. title2:On the zone of a surface in a hyperplane arrangement citation:18 ncitation:75 pid842887
+title1:Castles in the Air Revisited. title2:Castles in the air revisited citation:63 ncitation:67 pid842895
+title1:Pipes, Cigars, and Kreplach: the Union of Minkowski Sums in Three Dimensions. title2:Pipes, cigars, and kreplach: The union of Minkowski sums in three dimensions citation:49 ncitation:33 pid842904
+title1:On the Number of Views of Polyhedral Terrains. title2:On the number of views of polyhedral terrains citation:33 ncitation:36 pid842908
+title1:Efficient Randomized Algorithms for Some Geometric. Optimization Problems. title2:Efficient randomized algorithms for some geometric optimization problems citation:95 ncitation:92 pid842910
+title1:The Discrete 2-Center Problem. title2:The discrete 2-center problem citation:55 ncitation:53 pid842914
+title1:On the Complexity of Arrangements of Circles in the Plane. title2:On the complexity of arrangements of circles in the plane citation:25 ncitation:21 pid842958
+title1:Voronoi Diagrams in Higher Dimensions under Certain Polyhedral Distance Functions. title2:Voronoi diagrams in higher dimensions under certain polyhedral distance functions citation:101 ncitation:97 pid843014
+title1:Diameter, Width, Closest Line Pair, and Parametric Searching. title2:Diameter, width, closest line pair, and parametric searching citation:124 ncitation:120 pid843176
+title1:An Elementary Approach to Lower Bounds in Geometric Discrepancy. title2:An elementary approach to lower bounds in geometric discrepancy citation:11 ncitation:11 pid843180
+title1:Combinatorial Complexity Bounds for Arrangement of Curves and Spheres. title2:Combinatorial complexity bounds for arrangements of curves and spheres citation:318 ncitation:313 pid843206
+title1:Binary Space Partitions for Axis-Parallel Segments, Rectangles, and Hyperrectangles. title2:Binary space partitions for axis-parallel segments, rectangles, and hyperrectangles citation:26 ncitation:25 pid843278
+title1:On Arrangement of Jordan Arcs with Three Intersection per Pair. title2:On arrangements of Jordan arcs with three intersections per pair citation:22 ncitation:22 pid843293
+title1:Implicitly Representing Arrangements of Lines or Segments. title2:Implicitly representing arrangements of lines or segments citation:63 ncitation:55 pid843294
+title1:The Upper Envelope of Piecewise Linear Functions: Algorithms and Applications. title2:The upper envelope of piecewise linear functions: algorithms and applications citation:106 ncitation:99 pid843295
+title1:The Complexity and Construction of Many Faces in Arrangement of Lines and of Segments. title2:The complexity and construction of many faces in arrangements of lines and of segments citation:107 ncitation:99 pid843296
+title1:The Complexity of Many Cells in Arrangements of Planes and Related Problems. title2:The complexity of many cells in arrangements of planes and related problems citation:49 ncitation:44 pid843298
+title1:The Maximum Number of Ways To Stab n Convex Nonintersecting Sets in the Plane Is 2n-2. citation:74 ncitation:71 pid843303
+title1:On the Complexity of the Union of Fat Convex Objects in the Plane. title2:On the complexity of the union of fat convex objects in the plane citation:82 ncitation:77 pid843306
+title1:A Near-Linear Algorithm for the Planar Segment-Center Problem. title2:A near-linear algorithm for the planar segment-center problem citation:31 ncitation:32 pid843307
+title1:An Improved Bound for Joints in Arrangements of Lines in Space. title2:An improved bound for joints in arrangements of lines in space citation:19 ncitation:21 pid843345
+title1:Vertical Decomposition of Arrangements of Hyperplanes in Four Dimensions. title2:Vertical decomposition of arrangements of hyperplanes in four dimensions citation:12 ncitation:12 pid843434
+title1:On the General Motion-Planning Problem with Two Degrees of Freedom. title2:On the general motion-planning problem with two degrees of freedom citation:126 ncitation:121 pid843438
+title1:New Bounds for Lower Envelopes in Three Dimensions, with Applications to Visbility in Terrains. title2:New bounds for lower envelopes in three dimensions, with applications to visibility in terrains citation:93 ncitation:94 pid843458
+title1:A Near-Quadratic Algorithm for Planning the Motion of a Polygon in a Polygonal Environment. title2:A near-quadratic algorithm for planning the motion of a polygon in a polygonal environment citation:28 ncitation:29 pid843460
+title1:The Upper Envelope of voronoi Surfaces and Its Applications. title2:The upper envelope of Voronoi surfaces and its applications citation:177 ncitation:174 pid843508
+title1:On the Union of Jordan Regions and Collision-Free Translational Motion Amidst Polygonal Obstacles. title2:On the union of Jordan regions and collision-free translational motion amidst polygonal obstacles citation:325 ncitation:308 pid843564
+title1:An Efficient Motion-planning Algorithm for a Convex Polygonal Object in Two Dimensional Polygonal Space. title2:An efficient motion-planning algorithm for a convex polygonal object in two-dimensional polygonal space citation:79 ncitation:69 pid843565
+title1:On Critical Orientations in the Kedem-Sharir Motion Planning Algorithm. title2:On critical orientations in the Kedem-Sharir motion planning algorithm citation:15 ncitation:15 pid843566
+title1:Polyhedral Voronoi Diagrams of Polyhedra in Three Dimensions. title2:Polyhedral Voronoi diagrams of polyhedra in three dimensions citation:18 ncitation:17 pid843594
+title1:Computing the Link Center of a Simple Polygon. title2:Computing the link center of a simple polygon citation:74 ncitation:73 pid843647
+title1:Planning a Purely Translational Motion for a Convex Object in Two-Dimensional Space Using Generalized Voronoi Diagrams. title2:Planning a purely translational motion for a convex object in two-dimensional space using generalized Voronoi diagrams citation:138 ncitation:127 pid843653
+title1:On the Number of Critical Free Contacts of a Convex Polygonal Object Moving in Two-Dimensional Polygonal Space. title2:On the number of critical free contacts of a convex polygonal object moving in two-dimensional polygonal space citation:52 ncitation:45 pid843655
+title1:Minkowski Sums of Monotone and General Simple Polygons. title2:Minkowski sums of monotone and general simple polygons citation:7 ncitation:5 pid843751
+title1:On the Boundary of the Union of Planar Convex Sets. title2:On the boundary of the union of planar convex sets citation:22 ncitation:19 pid843780
+title1:The Union of Congruent Cubes in Three Dimensions. title2:The union of congruent cubes in three dimensions citation:28 ncitation:25 pid843781
+title1:Computing the Geodesic Center of a Simple Polygon. title2:Computing the geodesic center of a simple polygon citation:40 ncitation:39 pid843805
+title1:Separating Two Simple Polygons by a Sequence of Translations. title2:Separating two simple polygons by a sequence of translations citation:103 ncitation:95 pid843806
+title1:Vertical Decomposition of a Single Cell in a Three-Dimensional Arrangement of Surfaces. title2:Vertical decomposition of a single cell in a three-dimensional arrangement of surfaces citation:21 ncitation:22 pid843845
+title1:On k-Sets in Arrangement of Curves and Surfaces. title2:Onk-sets in arrangements of curves and surfaces citation:116 ncitation:113 pid843863
+title1:Almost Tight Upper Bounds for Lower Envelopes in Higher Dimensions. title2:Almost tight upper bounds for lower envelopes in higher dimensions citation:144 ncitation:142 pid843865
+title1:A Near-Linear Algorithm for the Planar 2-Center Problem. title2:A near-linear algorithm for the planar 2-center problem citation:89 ncitation:84 pid843867
+title1:An Improved Bound for -Sets in Three Dimensions. title2:An improved bound for k-sets in three dimensions citation:66 ncitation:61 pid843869
+title1:Sharp Bounds on Geometric Permutations of Pairwise Disjoint Balls in Rd. title2:Sharp bounds on geometric permutations of pairwise disjoint balls in R d citation:35 ncitation:36 pid843899
+title1:Planar Realizations of Nonlinear Davenport-Schnitzel Sequences by Segments. title2:Planar realizations of nonlinear Davenport-Schinzel sequences by segments citation:150 ncitation:138 pid844018
+title1:A Single Cell in an Arrangement of Convex Polyhedra in \Bbb . title2:A Single Cell in an Arrangement of Convex Polyhedra in {\ Bbb R}^ 3 citation:9 ncitation:6 pid844080
+title1:Solution of Scott's Problem on the Number of Directions Determined by a Point Set in 3-Space. title2:Solution of Scott's problem on the number of directions determined by a point set in 3-space citation:12 ncitation:10 pid844115
+title1:An Optimal-Time Algorithm for Shortest Paths on a Convex Polytope in Three Dimensions. title2:An optimal-time algorithm for shortest paths on a convex polytope in three dimensions citation:36 ncitation:30 pid844143
+title1:Computing the Detour and Spanning Ratio of Paths, Trees, and Cycles in 2D and 3D. title2:Computing the detour and spanning ratio of paths, trees, and cycles in 2D and 3D citation:24 ncitation:27 pid844163
+title1:Efficient Algorithms for Maximum Regression Depth. title2:Efficient algorithms for maximum regression depth citation:3 ncitation:26 pid844171
+title1:On Regular Vertices of the Union of Planar Convex Objects. title2:On regular vertices of the union of planar convex objects citation:7 ncitation:6 pid844231
+title1:On neighbors in geometric permutations. title2:On neighbors in geometric permutations citation:6 ncitation:7 pid848878
+title1:Tight bounds on a problem of lines and intersections. title2:Tight bounds on a problem of lines and intersections citation:0 ncitation:0 pid852909
+title1:Radial Points in the Plane. title2:Radial points in the plane citation:2 ncitation:2 pid864922
+title1:Topological Graphs with No Large Grids. title2:Topological graphs with no large grids citation:19 ncitation:19 pid883489
+title1:Probabilistic Propositional Temporal Logics title2:Probabilistic propositional temporal logics citation:40 ncitation:39 pid888160
+title1:On Disjoint Concave Chains in Arrangements of (Pseudo) Lines. title2:On disjoint concave chains in arrangements of (pseudo) lines citation:10 ncitation:18 pid931567
+title1:On Disjoint Concave Chains in Arrangements of (Pseudo) Lines. title2:On disjoint concave chains in arrangements of (pseudo) lines citation:10 ncitation:18 pid931568
+title1:Optimal Slope Selection via Expanders. title2:Optimal slope selection via expanders citation:42 ncitation:43 pid932092
+title1:The Minkowski sum of a simple polygon and a segment. title2:The Minkowski sum of a simple polygon and a segment citation:4 ncitation:5 pid933408
+title1:The Shortest Watchtower and Related Problems for Polyhedral Terrains. title2:The shortest watchtower and related problems for polyhedral terrains citation:32 ncitation:28 pid933810
+title1:A Note on the Papadimitriou-Silverberg Algorithm for Planning Optimal Piecewise-Linear Motion of a Ladder. title2:A note on the Papadimitriou-Silverberg algorithm for planning optimal piecewise-linear motion of a ladder citation:7 ncitation:8 pid933811
+title1:Approximating shortest paths on a convex polytope in three dimensions. title2:Approximating shortest paths on a convex polytope in three dimensions citation:12 ncitation:71 pid949582
+title1:On the shortest paths between two convex polyhedra. title2:On the shortest paths between two convex polyhedra citation:42 ncitation:36 pid949701
+title1:Motion Planning in the Presence of Moving Obstacles. title2:Motion planning in the presence of moving obstacles citation:323 ncitation:309 pid951425
+title1:Weak &epsis;-nets and interval chains. citation:14 ncitation:13 pid952001
+title1:Computing a Segment Center for a Planar Point Set. title2:Computing a segment center for a planar point set citation:31 ncitation:33 pid952508
+title1:Circle Shooting in a Simple Polygon. title2:Circle shooting in a simple polygon citation:27 ncitation:27 pid952514
+title1:Ray Shooting Amidst Convex Polygons in 2D. title2:Ray shooting amidst convex polygons in 2D citation:29 ncitation:24 pid952518
+title1:Applications of Parametric Searching in Geometric Optimization. title2:Applications of parametric searching in geometric optimization citation:181 ncitation:181 pid952520
+title1:Voronoi Diagrams of Lines in 3-Space Under Polyhedral Convex Distance Functions. title2:Voronoi diagrams of lines in 3-space under polyhedral convex distance functions citation:56 ncitation:53 pid952789
+title1:An Efficient and Simple Motion Planning Algorithm for a Ladder Amidst Polygonal Barriers. title2:An efficient and simple motion planning algorithm for a ladder amidst polygonal barriers citation:58 ncitation:57 pid953307
+title1:Sharp upper and lower bounds on the length of general Davenport-Schinzel sequences. title2:Sharp upper and lower bounds on the length of general Davenport-Schinzel sequences citation:175 ncitation:176 pid974273
+title1:Crossing patterns of semi-algebraic sets. title2:Crossing patterns of semi-algebraic sets citation:34 ncitation:33 pid974278
+title1:On the Sum of Squares of Cell Complexities in Hyperplane Arrangements. title2:On the sum of squares of cell complexities in hyperplane arrangements citation:19 ncitation:23 pid974417
+title1:On the number of directions determined by a three-dimensional points set. title2:On the number of directions determined by a three-dimensional points set citation:14 ncitation:15 pid977464
+title1:Repeated Angles in the Plane and Related Problems. title2:Repeated angles in the plane and related problems citation:52 ncitation:48 pid977468
+title1:On empty convex polygons in a planar point set. title2:On empty convex polygons in a planar point set citation:18 ncitation:14 pid977475
+title1:On Joints in Arrangements of Lines in Space and Related Problems. title2:On joints in arrangements of lines in space and related problems citation:20 ncitation:22 pid977933
+title1:Eppstein's bound on intersecting triangles revisited. title2:Eppstein's bound on intersecting triangles revisited citation:6 ncitation:5 pid979377
+title1:An Algorithm for Generalized Point Location and its Applications. title2:An algorithm for generalized point location and its applications citation:34 ncitation:32 pid993622
+title1:Visibility Problems for Polyhedral Terrains. title2:Visibility problems for polyhedral terrains citation:191 ncitation:186 pid993658
+title1:On the Two-Dimensional Davenport Schinzel Problem. title2:On the two-dimensional Davenport-Schinzel problem citation:37 ncitation:38 pid994575
+title1:Computing Envelopes in Four Dimensions with Applications. title2:Computing envelopes in four dimensions with applications citation:77 ncitation:79 pid1058346
+title1:Vertical Decomposition of Shallow Levels in 3-Dimensional Arrangements and Its Applications. title2:Vertical decomposition of shallow levels in 3-dimensional arrangements and its applications citation:109 ncitation:103 pid1058353
+title1:Counting Circular Arc Intersections. title2:Counting circular arc intersections citation:22 ncitation:23 pid1058363
+title1:Pseudo-Line Arrangements: Duality, Algorithms, and Applications. title2:Pseudo-line arrangements: Duality, algorithms, and applications citation:26 ncitation:24 pid1058365
+title1:Red-Blue Intersection Detection Algorithms, with Applications to Motion Planning and Collision Detection. title2:Red-blue intersection detection algorithms, with applications to motion planning and collision detection citation:53 ncitation:53 pid1058367
+title1:Ray Shooting amidst Convex Polyhedra and Polyhedral Terrains in Three Dimensions. title2:Ray shooting amidst convex polyhedra and polyhedral terrains in three dimensions citation:33 ncitation:31 pid1058369
+title1:On Translational Motion Planning of a Convex Polyhedron in 3-Space. title2:On translational motion planning of a convex polyhedron in 3-space citation:55 ncitation:55 pid1058416
+title1:The Union of Convex Polyhedra in Three Dimensions. title2:The union of convex polyhedra in three dimensions citation:18 ncitation:65 pid1058418
+title1:Computing a Face in an Arrangement of Line Segments and Related Problems. title2:Computing a face in an arrangement of line segments and related problems citation:52 ncitation:51 pid1058873
+title1:On k-Hulls and Related Problems. title2:On k-hulls and related problems citation:164 ncitation:167 pid1058945
+title1:On the Zone Theorem for Hyperplane Arrangements. title2:On the zone theorem for hyperplane arrangements citation:23 ncitation:81 pid1059096
+title1:Output-Sensitive Construction of the Union of Triangles. title2:Output-sensitive construction of the union of triangles citation:9 ncitation:9 pid1059144
+title1:Efficient Motion Planning for an L-Shaped Object. title2:Efficient motion planning for an L-shaped object citation:24 ncitation:24 pid1059442
+title1:Concurrent Probabilistic Programs, Or: How to Schedule if You Must. title2:Concurrent probabilistic programs, or: How to schedule if you must citation:14 ncitation:13 pid1059464
+title1:The Simplex Algorithm in Dimension Three. title2:The simplex algorithm in dimension three citation:9 ncitation:9 pid1059687
+title1:An Expander-Based Approach to Geometric Optimization. title2:An expander-based approach to geometric optimization citation:32 ncitation:40 pid1059738
+title1:3-Dimensional Euclidean Voronoi Diagrams of Lines with a Fixed Number of Orientations. title2:3-dimensional Euclidean Voronoi diagrams of lines with a fixed number of orientations citation:34 ncitation:32 pid1059810
+title1:The Partition Technique for Overlays of Envelopes. title2:The partition technique for overlays of envelopes citation:33 ncitation:28 pid1059812
+title1:Curve-Sensitive Cuttings. title2:Curve-sensitive cuttings citation:6 ncitation:7 pid1059814
+title1:Fat Triangles Determine Linearly Many Holes. title2:Fat triangles determine linearly many holes citation:150 ncitation:147 pid1059967
+title1:Ray Shooting Amidst Spheres in Three Dimensions and Related Problems. title2:Ray shooting amidst spheres in three dimensions and related problems citation:25 ncitation:22 pid1060085
+title1:On Vertical Visibility in Arrangements of Segments and the Queue Size in the Bentley-Ottmann Line Sweeping Algorithm. title2:On vertical visibility in arrangements of segments and the queue size in the Bentley-Ottmann line sweeping algorithm citation:31 ncitation:29 pid1060197
+title1:Top-Down Analysis of Path Compression. title2:Top-down analysis of path compression citation:14 ncitation:15 pid1060413
+title1:Intersection and Closest-Pair Problems for a Set of Planar Discs. title2:Intersection and closest-pair problems for a set of planar discs citation:101 ncitation:96 pid1060432
+title1:Verification of Probabilistic Programs. title2:Verification of probabilistic programs citation:51 ncitation:49 pid1060434
+title1:On Shortest Paths in Polyhedral Spaces. title2:On shortest paths in polyhedral spaces citation:354 ncitation:325 pid1060435
+title1:On the Number of Crossing-Free Matchings, Cycles, and Partitions. title2:On the number of crossing-free matchings, cycles, and partitions citation:55 ncitation:51 pid1060695
+title1:Online Conflict-Free Coloring for Intervals. title2:Online conflict-free coloring for intervals citation:47 ncitation:46 pid1060746
+title1:Efficient Colored Orthogonal Range Counting. title2:Efficient colored orthogonal range counting citation:11 ncitation:9 pid1060878
+title1:Repeated Angles in Three and Four Dimensions. title2:Repeated angles in three and four dimensions citation:7 ncitation:6 pid1061033
+title1:Large Complete Bipartite Subgraphs In Incidence Graphs Of Points And Hyperplanes. title2:Large complete bipartite subgraphs in incidence graphs of points and hyperplanes citation:4 ncitation:1 pid1061981
+title1:Kinetic and dynamic data structures for closest pair and all nearest neighbors. title2:Kinetic and dynamic data structures for closest pair and all nearest neighbors citation:9 ncitation:5 pid1077398
+title1:Algorithms for center and Tverberg points. title2:Algorithms for center and Tverberg points citation:7 ncitation:9 pid1077400
+title1:Online conflict-free coloring for halfplanes, congruent disks, and axis-parallel rectangles. title2:Online conflict-free coloring for halfplanes, congruent disks, and axis-parallel rectangles citation:24 ncitation:24 pid1077417
+title1:Reaching a Goal with Directional Uncertainty. title2:Reaching a goal with directional uncertainty citation:9 ncitation:10 pid1089286
+title1:Arrangements of Curves in the Plane - Topology, Combinatorics and Algorithms. citation:106 ncitation:106 pid1090769
+title1:A Simple Output-Sensitive Algorithm for Hidden Surface Removal. title2:A simple output-sensitive algorithm for hidden surface removal citation:52 ncitation:48 pid1119533
+title1:Experience with the SETL Optimizer. title2:Experience with the SETL optimizer citation:64 ncitation:57 pid1123514
+title1:Termination of Probabilistic Concurrent Program. title2:Termination of probabilistic concurrent program citation:185 ncitation:167 pid1123583
+title1:Some Observations Concerning Formal Differentiation of Set Theoretic Expressions. title2:Some observations concerning formal differentiation of set theoretic expressions citation:44 ncitation:40 pid1123900
+title1:On planar intersection graphs with forbidden subgraphs. title2:On planar intersection graphs with forbidden subgraphs citation:6 ncitation:5 pid1144681
+title1:Small-size epsilon-nets for axis-parallel rectangles and boxes. title2:Small-Size \eps-Nets for Axis-Parallel Rectangles and Boxes citation:51 ncitation:43 pid1214566
+title1:Linear Data Structures for Fast Ray-Shooting amidst Convex Polyhedra. title2:Linear data structures for fast ray-shooting amidst convex polyhedra citation:5 ncitation:5 pid1219476
+title1:On Lines, Joints, and Incidences in Three Dimensions title2:On lines, joints, and incidences in three dimensions citation:22 ncitation:15 pid1222433
+title1:On lines and Joints title2:On lines and joints citation:19 ncitation:12 pid1222742
+title1:On Overlays and Minimization Diagrams. title2:On overlays and minimization diagrams citation:5 ncitation:5 pid1223195
+title1:Near-linear approximation algorithms for geometric hitting sets. title2:Near-linear approximation algorithms for geometric hitting sets citation:5 ncitation:1 pid1239931
+title1:Semi-algebraic Range Reporting and Emptiness Searching with Applications title2:Semialgebraic Range Reporting and Emptiness Searching with Applications citation:7 ncitation:7 pid1268889
+title1:Counting Triangulations of Planar Point Sets title2:Counting triangulations of planar point sets citation:22 ncitation:15 pid1334463
+title1:On the union of fat tetrahedra in three dimensions. title2:On the union of fat tetrahedra in three dimensions citation:16 ncitation:13 pid1338437
+title1:Extremal problems on triangle areas in two and three dimensions. title2:Extremal problems on triangle areas in two and three dimensions citation:6 ncitation:6 pid1338693
+title1:On degrees in random triangulations of point sets. title2:On degrees in random triangulations of point sets citation:4 ncitation:5 pid1406449
+title1:Incidences in three dimensions and distinct distances in the plane. title2:Incidences in three dimensions and distinct distances in the plane citation:28 ncitation:15 pid1415968
+title1:A kinetic triangulation scheme for moving points in the plane. title2:A kinetic triangulation scheme for moving points in the plane citation:6 ncitation:7 pid1417525
+title1:Kinetic stable Delaunay graphs. title2:Kinetic stable Delaunay graphs citation:12 ncitation:9 pid1417533
+title1:An efficient algorithm for planning collision-free translational motion of a convex polygonal object in 2-dimensional space amidst polygonal obstacles. title2:An efficient algorithm for planning collision-free translational motion of a convex polygonal object in 2-dimensional space amidst polygonal obstacles citation:49 ncitation:43 pid1420072
+title1:Optimal Cover of Points by Disks in a Simple Polygon. title2:Optimal cover of points by disks in a simple polygon citation:5 ncitation:4 pid1420203
+title1:Constructing Two-Dimensional Voronoi Diagrams via Divide-and-Conquer of Envelopes in Space. title2:Constructing two-dimensional Voronoi diagrams via divide-and-conquer of envelopes in space citation:2 ncitation:11 pid1420618
+title1:A Kinetic Triangulation Scheme for Moving Points in The Plane title2:A kinetic triangulation scheme for moving points in the plane citation:6 ncitation:7 pid1420791
+title1:Incidences in Three Dimensions and Distinct Distances in the Plane title2:Incidences in three dimensions and distinct distances in the plane citation:28 ncitation:15 pid1420952
+title1:Improved Bounds for Geometric Permutations title2:Improved bounds for geometric permutations citation:3 ncitation:3 pid1421801
+title1:Hausdorff distance under translation for points and balls. title2:Hausdorff distance under translation for points and balls citation:3 ncitation:24 pid1424544
+title1:On Lines and Joints. title2:On lines and joints citation:19 ncitation:12 pid1425850
+title1:Constructing Two-Dimensional Voronoi Diagrams via Divide-and-Conquer of Envelopes in Space. title2:Constructing two-dimensional Voronoi diagrams via divide-and-conquer of envelopes in space citation:2 ncitation:11 pid1426897
+title1:Improved Bounds for Geometric Permutations. title2:Improved bounds for geometric permutations citation:3 ncitation:3 pid1442924
+title1:Counting Plane Graphs: Flippability and its Applications title2:Counting plane graphs: Flippability and its applications citation:12 ncitation:10 pid1458528
+title1:An Improved Bound for -Sets in Four Dimensions. title2:An improved bound for k-sets in four dimensions citation:2 ncitation:2 pid1468225
+title1:On lines, joints, and incidences in three dimensions. title2:On lines, joints, and incidences in three dimensions citation:22 ncitation:15 pid1475653
+title1:Line Transversals of Convex Polyhedra in R. title2:Line Transversals of Convex Polyhedra in R^3 citation:6 ncitation:7 pid1503587
+title1:Small-Size $\eps$-Nets for Axis-Parallel Rectangles and Boxes. title2:Small-Size \eps-Nets for Axis-Parallel Rectangles and Boxes citation:51 ncitation:43 pid1505829
+title1:Improved Bound for the Union of Fat Triangles. title2:Improved bound for the union of fat triangles citation:17 ncitation:15 pid1571623
+title1:A kinetic triangulation scheme for moving points in the plane. title2:A kinetic triangulation scheme for moving points in the plane citation:6 ncitation:7 pid1592718
+title1:Kinetic Stable Delaunay Graphs title2:Kinetic stable Delaunay graphs citation:12 ncitation:9 pid1610658
+title1:Incidences in Three Dimensions and Distinct Distances in the Plane. title2:Incidences in three dimensions and distinct distances in the plane citation:28 ncitation:15 pid1613246
+title1:Non-Degenerate Spheres in Three Dimensions. title2:Non-degenerate spheres in three dimensions citation:3 ncitation:1 pid1624741
+title1:Relative (, )-Approximations in Geometry. citation:29 ncitation:23 pid1626904
+title1:Range Minima Queries with Respect to a Random Permutation, and Approximate Range Counting. title2:Range minima queries with respect to a random permutation, and approximate range counting citation:9 ncitation:8 pid1628820
+title1:The Overlay of Minimization Diagrams in a Randomized Incremental Construction. citation:5 ncitation:5 pid1642966
+title1:On degrees in random triangulations of point sets. title2:On degrees in random triangulations of point sets citation:4 ncitation:5 pid1660851
+title1:Counting Plane Graphs: Perfect Matchings, Spanning Cycles, and Kasteleyn's Technique citation:11 ncitation:6 pid1665193
+title1:Finding the Maximal Empty Rectangle Containing a Query Point title2:Finding the maximal empty rectangle containing a query point citation:2 ncitation:3 pid1674667
+title1:Semialgebraic Range Reporting and Emptiness Searching with Applications. title2:Semialgebraic Range Reporting and Emptiness Searching with Applications citation:7 ncitation:7 pid1674830
+title1:Counting Plane Graphs: Flippability and Its Applications. title2:Counting plane graphs: Flippability and its applications citation:12 ncitation:10 pid1682044
+title1:Near-Linear Approximation Algorithms for Geometric Hitting Sets. title2:Near-linear approximation algorithms for geometric hitting sets citation:5 ncitation:1 pid1683736
+title1:Counting Triangulations of Planar Point Sets. title2:Counting triangulations of planar point sets citation:22 ncitation:15 pid1685651
+title1:Submatrix maximum queries in Monge matrices and Monge partial matrices, and their applications. title2:Submatrix maximum queries in Monge matrices and Monge partial matrices, and their applications citation:11 ncitation:3 pid1697026
+title1:Optimal Cover of Points by Disks in a Simple Polygon. title2:Optimal cover of points by disks in a simple polygon citation:5 ncitation:4 pid1706979
+title1:Computing the Discrete Fréchet Distance in Subquadratic Time citation:13 ncitation:3 pid1709465
+title1:Improved Bounds for Geometric Permutations. title2:Improved bounds for geometric permutations citation:3 ncitation:3 pid1713402
+title1:Unit Distances in Three Dimensions. title2:Unit distances in three dimensions citation:12 ncitation:-1 pid1752131
+title1:Simple Proofs of Classical Theorems in Discrete Geometry via the Guth-Katz Polynomial Partitioning Technique. citation:30 ncitation:16 pid1752878
+title1:Counting Plane Graphs: Cross-Graph Charging Schemes title2:Counting plane graphs: Cross-graph charging schemes citation:5 ncitation:2 pid2173253
+title1:On Range Searching with Semialgebraic Sets II title2:On range searching with semialgebraic sets II citation:9 ncitation:156 pid2213896
+title1:Finding the maximal empty disk containing a query point. title2:Finding the maximal empty disk containing a query point citation:5 ncitation:0 pid2218790
+title1:Counting plane graphs: perfect matchings, spanning cycles, and Kasteleyn's technique. citation:11 ncitation:6 pid2264284
+title1:On Range Searching with Semialgebraic Sets II. title2:On range searching with semialgebraic sets II citation:9 ncitation:156 pid2279636
+title1:Counting plane graphs: Perfect matchings, spanning cycles, and Kasteleyn's technique. citation:11 ncitation:None pid2321895
+title1:Counting Plane Graphs: Cross-Graph Charging Schemes. title2:Counting plane graphs: Cross-graph charging schemes citation:5 ncitation:None pid2380817

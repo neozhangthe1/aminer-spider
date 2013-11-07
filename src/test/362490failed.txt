@@ -1,0 +1,274 @@
+title:Low bit-rate video streaming for face-to-face teleconference. citation:-1
+title:Training combination strategy of multi-stream fused hidden Markov model for audio-visual affect recognition. citation:-1
+title:Integrating Discriminant and Descriptive Information for Dimension Reduction and Classification. citation:-1
+title:Self-Supervised Learning for Visual Tracking and Recognition of Human Hand. citation:-1
+title:A Bayesian Predictive Method for Automatic Speech Segmentation. citation:-1
+title:Wavelet-based texture features can be extracted efficiently from compressed-domain for JPEG2000 coded images. citation:-1
+title:MV-MAP: Multiresolution Video Visualization and Summarization on MAPs. citation:-1
+title:Gaussian Process Based Dual Latent Function Approach to Ordinal Regression. citation:-1
+title:Gender recognition from body. citation:-1
+title:One-Class Classification for Spontaneous Facial Expression Analysis. citation:-1
+title:Finding Human Faces in a Picture. citation:-1
+title:Robust Multi-View Multi-Camera Face Detection inside Smart Rooms Using Spatio-Temporal Dynamic Programming. citation:-1
+title:Information Retrieval Beyond the Text Document. citation:-1
+title:Dynamic Scene Analysis and Motion Estimation. citation:-1
+title:Event-Coupled Hidden Markov Models. citation:-1
+title:Estimation of the joint probability of multisensory signals. citation:-1
+title:Computer Modeling, Analysis and Synthesis of Dressed Humans. citation:-1
+title:Estimating 3-0 Movement of a Rigid Object: Experimental Results. citation:-1
+title:Accurate Head Pose Tracking in Low Resolution Video. citation:-1
+title:Effective and efficient sports highlights extraction using the minimum description length criterion in selecting GMM structures. citation:-1
+title:Searching Human Behaviors using Spatial-Temporalwords. citation:-1
+title:Image Blurring Effects Due to Depth Discontinuities: Blurring that Creates Emergent Image Details. citation:-1
+title:Feature analysis and selection for acoustic event detection. citation:-1
+title:Guest Editorial. citation:-1
+title:Categorizing bi-object video activities using bag of segments and causality features. citation:-1
+title:Visual Estimation and Compression of Facial Motion Parameters-Elements of a 3D Model-Based Video Coding System. citation:-1
+title:Query Driven Localized Linear Discriminant Models for Head Pose Estimation. citation:-1
+title:Multi-view facial expression recognition. citation:-1
+title:Reconstruction and Recognition of Tensor-Based Objects With Concurrent Subspaces Analysis. citation:-1
+title:A subgraph isomorphism algorithm using resolution. citation:-1
+title:Incorporate Discriminant Analysis with EM Algorithm in Image Retrieval. citation:-1
+title:Real-Time Multimodal Human-Avatar Interaction. citation:-1
+title:Multi-Modal Person-Profiles from Broadcast News Video. citation:-1
+title:Probabilistic Semantic Video Indexing. citation:-1
+title:A Convengent Solution to Tensor Subspace Learning. citation:-1
+title:Detecting Anomaly in Videos from Trajectory Similarity Analysis. citation:-1
+title:Matching 3-D Line Segments with Applications to Multiple-Object Motion Estimation. citation:-1
+title:Algebraic methods for image processing and computer vision. citation:-1
+title:Multicue HMM-UKF for Real-Time Contour Tracking. citation:-1
+title:Fusion of Global and Local Information for Object Detection. citation:-1
+title:Spatial pattern discovering by learning the isomorphic subgraph from multiple attributed relation graphs. citation:-1
+title:Bayesian Networks as Ensemble of Classifiers. citation:-1
+title:Learning 3D Face Animation Model. citation:-1
+title:Special issue on vision for human-computer interaction. citation:-1
+title:Audio-visual affect recognition in activation-evaluation space. citation:-1
+title:Face age estimation using patch-based hidden Markov model supervectors. citation:-1
+title:special issue on event detection in video. citation:-1
+title:Special Issue on Image Understanding for Digital Photographs. citation:-1
+title:Object Recognition by a Self-Organizing Neural Network which Grows Adaptively. citation:-1
+title:Similarity Matching in Computer Vision and Multimedia. citation:-1
+title:Spatial Visualization For Content-Based Image Retrieval. citation:-1
+title:Pair-activity classification by bi-trajectories analysis. citation:-1
+title:Relevance Feedback in Content-Based Image Retrieval: Some Recent Advances. citation:-1
+title:Synchronized Submanifold Embedding for Person-Independent Pose Estimation and Beyond. citation:-1
+title:Misalignment-robust face recognition. citation:-1
+title:Report on Workshop on High Performance Computing and Communications for Grand Challenge Applications: Computer Vision, Speech and Natural Language Processing, and Artificial Intelligence. citation:-1
+title:The State-of-the-Art in Human-Computer Interaction. citation:-1
+title:Model-based face image coding using spherical harmonics. citation:-1
+title:Optimal radial contour tracking by dynamic programming. citation:-1
+title:Segmentation of Road Scenes Using Color and Fractal-Based Texture Classification. citation:-1
+title:Anthropometric Human Hand Models for Tracking. citation:-1
+title:A Visual Computing Environment for Very Large Scale Biomolecular Modeling. citation:-1
+title:Framework for digital video watermarking with dual watermarks. citation:-1
+title:Classifiers for Motion. citation:-1
+title:Highlights extraction from sports video based on an audio-visual marker detection framework. citation:-1
+title:Audio-Visual Affect Recognition. citation:-1
+title:Evaluating group-based relevance feedback for content-based image retrieval. citation:-1
+title:Real-Time Speech-Driven 3D Face Animation. citation:-1
+title:Speaker Independent Audio-Visual Speech Recognition. citation:-1
+title:Motion stereo for navigation of autonomous vehicles in man-made environments. citation:-1
+title:Virtual Gun, A Vision Based Human Computer Interface Using the Human Hand. citation:-1
+title:Indicisive classifier. citation:-1
+title:Image blurring effects due to depth discontinuities: blurring that creates emergent image details. citation:-1
+title:Animated Talking Head with Personalized 3D Head Model. citation:-1
+title:Model-Based Human Body Tracking. citation:-1
+title:A New Coarse-to-Fine Framework for 3D Brain MR Image Registration. citation:-1
+title:Discovering recurrent events in video using unsupervised methods. citation:-1
+title:Multimodal Temporal Pattern Mining. citation:-1
+title:Recognizing high-level audio-visual concepts using context. citation:-1
+title:A Region-Based Representation of Images in MARS. citation:-1
+title:A Study on Sampling Strategies in Space-Time Domain for Recognition Applications. citation:-1
+title:Embedded Face and Facial Expression Recognition. citation:-1
+title:Bregman distance to L1 regularized logistic regression. citation:-1
+title:Variational Learning in Mixed-State Dynamic Graphical Models. citation:-1
+title:Maximum Likelihood Face Detection. citation:-1
+title:Real-time human action recognition by luminance field trajectory analysis. citation:-1
+title:Mode-based Multi-Hypothesis Head Tracking Using Parametric Contours. citation:-1
+title:ImageGrouper: Search, Annotate and Organize Images by Groups. citation:-1
+title:Motion Analysis of Articulated Objects from Monocular Images. citation:-1
+title:The age of human computer interaction. citation:-1
+title:A New Approach to Integrate Audio and Visual Features of Speech. citation:-1
+title:Audio-Visual Spontaneous Emotion Recognition. citation:-1
+title:A Probabilistic Framework for Embedded Face and Facial Expression Recognition. citation:-1
+title:Guest editorial introduction to the special issue on image and video processing for digital libraries. citation:-1
+title:Discriminative estimation of 3D human pose using Gaussian processes. citation:-1
+title:Building Large Scale 3D Face Database for Face Analysis. citation:-1
+title:Da Vinci's Mona Lisa. citation:-1
+title:Interactive Boosting for Image Classification. citation:-1
+title:Recovering Articulated Motion with a Hierarchical Factorization Method. citation:-1
+title:A New Tracking Technique: Object Tracking and Identification from Motion. citation:-1
+title:Visual Human Face Tracking and its Application to Lip-Reading and Emotion Recognition. citation:-1
+title:Optimum detection of robust perceptual-model-based image-adaptive watermarks. citation:-1
+title:Classification Approach towards Banking and Sorting Problems. citation:-1
+title:Natural Mouse; A Novel Human Computer Interface. citation:-1
+title:Matching and motion estimation of three-dimensional point and line sets using eigenstructure without correspondences. citation:-1
+title:Uniqueness of 3D Pose Under Weak Perspective: A Geometrical Proof. citation:-1
+title:Robust estimation of foreground in surveillance videos by sparse error estimation. citation:-1
+title:Ranking with uncertain labels and its applications. citation:-1
+title:Duration Dependent Input Output Markov Models For Audio-Visual Event Detection. citation:-1
+title:Latent Pose Estimator for Continuous Action Recognition. citation:-1
+title:Relevance feedback in content-based image retrieval: some recent advances. citation:-1
+title:Supporting audiovisual query using dynamic programming. citation:-1
+title:Leveraging Active Learning for Relevance Feedback Using an Information Theoretic Diversity Measure. citation:-1
+title:Recognizing Faces in Recorded Meetings via MRC-Boosting. citation:-1
+title:Locally Adjusted Robust Regression for Human Age Estimation. citation:-1
+title:Spatial pattern discovery by learning a probabilistic parametric model from multiple attributed relational graphs. citation:-1
+title:An installation for interactive transfer of information from oblique aerial photos to maps. citation:-1
+title:Tracking Facial Features Using Probabilistic Network. citation:-1
+title:Restoration and Recognition in a Loop. citation:-1
+title:Extracting age information from local spatially flexible patches. citation:-1
+title:Overview: An Integrated Framework for Performance Engineering and Resource-Aware Compilation. citation:-1
+title:3D face analysis for distinct features using statistical randomization. citation:-1
+title:Face hallucination VIA sparse coding. citation:-1
+title:Interactive Boosting for Image Classification. citation:-1
+title:A factorization method in stereo motion for non-rigid objects. citation:-1
+title:Human-Computer Intelligent Interaction: A Survey. citation:-1
+title:Motion Segmentation and Tracking by Embedding Global Model Within a Contextual Relaxation Scheme. citation:-1
+title:Towards Self-Exploring Discriminating Features. citation:-1
+title:Color Image Edge Detection Using Cluster Analysis. citation:-1
+title:Convergence of Model Based Shape from Shading. citation:-1
+title:Analysis-Based Facial Expression Synthesis. citation:-1
+title:Invited Speech: "Gestural Interface to a visual computing Environment for Molecular biologists". citation:-1
+title:Okapi-Chamfer Matching for Articulated Object Recognition. citation:-1
+title:Bézier Volume Deformation Model for Facial Animation and Video Tracking. citation:-1
+title:A Multimodality Framework for Creating Speaker/Non-Speaker Profile Databases for Real-World Video. citation:-1
+title:Vision-Based Overhead View Person Recognition. citation:-1
+title:Boosting Speech/Non-speech Classification Using Averaged Mel-Frequency Cepstrum Coefficients Features. citation:-1
+title:Display Optimization for Image Browsing. citation:-1
+title:Conformal Embedding Analysis with Local Graph Modeling on the Unit Hypersphere. citation:-1
+title:Variational Transform Invariant Mixture of Probabilistic PCA. citation:-1
+title:Facial tracking with head pose estimation in stereo vision. citation:-1
+title:Dirichlet Aspect Weighting: A Generalized EM Algorithm for Integrating External Data Fields with Semantically Structured Queries by Using Gradient Projection Method. citation:-1
+title:Exploiting the Dependencies in Information Fusion. citation:-1
+title:Detecting Semantic Concepts Using Context and Audiovisual Features. citation:-1
+title:Object Detection Using Hierarchical MRF and MAP Estimation. citation:-1
+title:Towards authentic emotion recognition. citation:-1
+title:Efficient Access to Video Content in a Unified Framework. citation:-1
+title:Semi-supervised learning for facial expression recognition. citation:-1
+title:3D head pose computation from 2D images: templates versus features. citation:-1
+title:Introduction to the special issue on image enhancement. citation:-1
+title:Computer Vision. citation:-1
+title:Detection of Documentary Scene Changes by Audio-Visual Fusion. citation:-1
+title:Head Pose Estimation in Seminar Room Using Multi View Face Detectors. citation:-1
+title:Evaluation of Head Pose Estimation for Studio Data. citation:-1
+title:A Framework for Grid-Based Image Retrieval. citation:-1
+title:Trifocal tensors for weak perspective and paraperspective projections. citation:-1
+title:A study of non-frontal-view facial expressions recognition. citation:-1
+title:hMouse: Head Tracking Driven Virtual Computer Mouse. citation:-1
+title:HMM-Based Acoustic Event Detection with AdaBoost Feature Selection. citation:-1
+title:Incremental spectral clustering by efficiently updating the eigen-system. citation:-1
+title:Integrating Unlabeled Images for Image Retrieval Based on Relevance Feedback. citation:-1
+title:Vehicle-Type Motion Estimation From Multi-Frame Images. citation:-1
+title:Element Rearrangement for Tensor-Based Subspace Learning. citation:-1
+title:Audio-Visual Speech Fusion Using Coupled Hidden Markov Models. citation:-1
+title:ICA-based probabilistic local appearance models. citation:-1
+title:Future directions in multimedia retrieval: : impact of new technology. citation:-1
+title:Image and Video Retrieval, Second International Conference, CIVR 2003, Urbana-Champaign, IL, USA, July 24-25, 2003, Proceedings citation:-1
+title:Computer Vision in Human-Computer Interaction, ECCV 2006 Workshop on HCI, Graz, Austria, May 13, 2006, Proceedings citation:-1
+title:Computer Vision in Human-Computer Interaction, ICCV 2005 Workshop on HCI, Beijing, China, October 21, 2005, Proceedings citation:-1
+title:Human-Computer Interaction, IEEE International Workshop, HCI 2007, Rio de Janeiro, Brazil, October 20, 2007, Proceedings citation:-1
+title:Spatial Gaussian Mixture Model for gender recognition. citation:-1
+title:Content-based image retrieval using wavelet-based salient points. citation:-1
+title:Multi-Image Analysis, 10th International Workshop on Theoretical Foundations of Computer Vision Dagstuhl Castle, Germany, March 12-17, 2000, Revised Papers citation:-1
+title:Multimedia Content Analysis and Mining, International Workshop, MCAM 2007, Weihai, China, June 30 - July 1, 2007, Proceedings citation:-1
+title:Artifical Intelligence for Human Computing, ICMI 2006 and IJCAI 2007 International Workshops, Banff, Canada, November 3, 2006, Hyderabad, India, January 6, 2007, Revised Seleced and Invited Papers citation:-1
+title:Fishervoice and semi-supervised speaker clustering. citation:-1
+title:Exploring Feature Descritors for Face Recognition. citation:-1
+title:An Unsupervised Algorithm to Extract Face Texture from Video. citation:-1
+title:Bregman Distance to L1 Regularized Logistic Regression citation:-1
+title:Best of Automatic Face and Gesture Recognition 2008. citation:-1
+title:Real-world acoustic event detection. citation:-1
+title:Misalignment-Robust Face Recognition. citation:-1
+title:Learning With $\ell$-Graph for Image Analysis. citation:-1
+title:Human-Centered Face Computing in Multimedia Interaction and Communication. citation:-1
+title:Non-Local Kernel Regression for Image and Video Restoration. citation:-1
+title:Improving Classification Accuracy by Comparing Local Features through Canonical Correlations. citation:-1
+title:A worldwide tourism recommendation system based on geotaggedweb photos. citation:-1
+title:Emotion Recognition from Arbitrary View Facial Images. citation:-1
+title:A novel approach to expression recognition from non-frontal face images. citation:-1
+title:Hierarchical density estimation for image classification. citation:-1
+title:Extended Hierarchical Gaussianization for scene classification. citation:-1
+title:Hierarchical Space-Time Model Enabling Efficient Search for Human Actions. citation:-1
+title:Humanoid Audio-Visual Avatar With Emotive Text-to-Speech Synthesis. citation:-1
+title:Special Issue on Multimodal Affective Interaction. citation:-1
+title:Image Annotation Within the Context of Personal Photo Collections Using Hierarchical Event and Scene Models. citation:-1
+title:Pedestrian Recognition with a Learned Metric. citation:-1
+title:Expression recognition from 3D dynamic faces using robust spatio-temporal shape features. citation:-1
+title:Dysarthric speech database for universal access research. citation:-1
+title:GMM kernel by Taylor series for speaker verification. citation:-1
+title:A novel framework of text-independent speaker verification based on utterance transform and iterative cohort modeling. citation:-1
+title:Unsupervised learning of HMM topology for text-dependent speaker verification. citation:-1
+title:A spectral clustering approach to speaker diarization. citation:-1
+title:Automatic head gesture learning and synthesis from prosodic cues. citation:-1
+title:Bimodal speech recognition using coupled hidden Markov models. citation:-1
+title:Special issue on feature-oriented image and video computing for extracting contexts and semantics. citation:-1
+title:Error Analysis in Stereo Determination of 3-D Point Positions. citation:-1
+title:Connected Line Drawing Extraction from a Perspective View of a Polyhedron. citation:-1
+title:Text From Corners: A Novel Approach to Detect Text and Caption in Videos. citation:-1
+title:Ordinal Regression Based Subpixel Shift Estimation for Video Super-Resolution. citation:-1
+title:Event Detection Using "Variable Module Graphs" for Home Care Applications. citation:-1
+title:Learning-Based Nonparametric Image Super-Resolution. citation:-1
+title:Editorial. citation:-1
+title:Diversified Trajectory Pattern Ranking in Geo-tagged Social Media. citation:-1
+title:Proceedings of the 13th International Conference on Multimodal Interfaces, ICMI 2011, Alicante, Spain, November 14-18, 2011 citation:-1
+title:Compression of MPEG-4 facial animation parameters for transmission of talking heads. citation:-1
+title:Computer modeling, analysis, and synthesis of dressed humans. citation:-1
+title:Close the loop: Joint blind image restoration and recognition with sparse representation prior. citation:-1
+title:Learning semantic embedding at a large scale. citation:-1
+title:Multi-scale Non-Local Kernel Regression for super resolution. citation:-1
+title:Multi-view face recognition via joint dynamic sparse representation. citation:-1
+title:Sparse representation based blind image deblurring. citation:-1
+title:Regularized Maximum Likelihood for Intrinsic Dimension Estimation. citation:-1
+title:Compositional object pattern: a new model for album event recognition. citation:-1
+title:Multimedia Information Networks in Social Media. citation:-1
+title:Efficient Object Localization with Variation-Normalized Gaussianized Vectors. citation:-1
+title:Videos Semantic Indexing using Image Classification. citation:-1
+title:On clustering heterogeneous social media objects with outlier links. citation:-1
+title:Measuring 3D left ventricular strain from unwrapped harmonic phase. citation:-1
+title:Human-Centred Intelligent Human-Computer Interaction (HCI): how far are we from attaining it? citation:-1
+title:Partially Supervised Speaker Clustering. citation:-1
+title:Constrained Nonnegative Matrix Factorization for Image Representation. citation:-1
+title:Substructure and Boundary Modeling for Continuous Action Recognition citation:-1
+title:Regularized Maximum Likelihood for Intrinsic Dimension Estimation citation:-1
+title:Special Issue on Subspace and Manifold Learning for Image and Video Indexing and Search. citation:-1
+title:A scene adaptive and signal adaptive quantization for subband image and video compression using wavelets. citation:-1
+title:Human-Computer Interaction. citation:-1
+title:Optimum detection and decoding of multiplicative watermarks in DFT domain. citation:-1
+title:Audio-visual speech modeling using coupled hidden Markov models. citation:-1
+title:Speeding up relevance feedback in image retrieval with triangle-inequality based algorithms. citation:-1
+title:Kernel metric learning for phonetic classification. citation:-1
+title:Facial expression recognition from video sequences. citation:-1
+title:Extending image retrieval with group-oriented interface. citation:-1
+title:Optimal temporal sampling of video under channel and buffer constraints. citation:-1
+title:Detection of slide transition for topic indexing. citation:-1
+title:Robust face recognition based on motion pursuit. citation:-1
+title:On recovering detailed face deformation under general lighting using height from shading. citation:-1
+title:Frame-dependent multi-stream reliability indicators for audio-visual speech recognition. citation:-1
+title:Web-Scale Multimedia Processing and Applications [Scanning the Issue]. citation:-1
+title:Web-Scale Multimedia Information Networks. citation:-1
+title:RankCompete: Simultaneous ranking and clustering of information networks. citation:-1
+title:Simultaneous discriminative projection and dictionary learning for sparse representation based classification. citation:-1
+title:Can the World-Wide Web Bridge the Semantic Gap? citation:-1
+title:Transfer Learning of Distance Metrics by Cross-Domain Metric Sampling across Heterogeneous Spaces. citation:-1
+title:Exploiting Structured Sparsity for Image Deblurring. citation:-1
+title:Ontological Inference Framework with Joint Ontology Construction and Learning for Image Understanding. citation:-1
+title:Interactive Facial Feature Localization. citation:-1
+title:Multi-view Facial Expression Recognition Analysis with Generic Sparse Coding Feature. citation:-1
+title:Features and fusion for expression recognition - A comparative analysis. citation:-1
+title:Substructure and boundary modeling for continuous action recognition. citation:-1
+title:Beyond Mahalanobis distance: Learning second-order discriminant function for people verification. citation:-1
+title:Pairwise Exemplar Clustering. citation:-1
+title:Generalization Analysis for Classification citation:-1
+title:Learning from Collective Intelligence in Groups citation:-1
+title:Epitome for Automatic Image Colorization citation:-1
+title:Photo Stream Alignment and Summarization for Collaborative Photo Collection and Sharing. citation:-1
+title:Kernel multi-metric learning for multi-channel transient acoustic signal classification. citation:-1
+title:Variational Learning in Mixed-State Dynamic Graphical Models citation:-1
+title:Pose-robust face recognition via sparse representation. citation:-1
+title:Pooling Robust Shift-Invariant Sparse Representations of Acoustic Signals. citation:-1
+title:Online community detection in social sensing. citation:-1
+title:Collaborative and compressive high-resolution imaging. citation:-1
+title:Gait-based gender classification in unconstrained environments. citation:-1
+title:Joint dynamic sparse learning and its application to multi-view face recognition. citation:-1
+title:Fractal video coding by matching pursuit. citation:-1

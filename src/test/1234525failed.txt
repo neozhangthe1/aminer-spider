@@ -1,0 +1,316 @@
+title:Channel Code Division Multiple Access and its Multilevel Structured LDPC Based Instantiation. citation:-1
+title:Reduced-Complexity Maximum-Likelihood Detection in Downlink SDMA Systems. citation:-1
+title:Multilevel Structured Low-Density Parity-Check Codes. citation:-1
+title:Soft-Bit Assisted Iterative AMR-WB Source-Decoding and Turbo-Detection of Channel-Coded Differential Space-Time Spreading Using Sphere Packing Modulation. citation:-1
+title:EXIT-Chart Aided Hybrid Multiuser Detector Design for Frequency-Domain-Spread Chip-Interleaved MC-CDMA. citation:-1
+title:Initial and Post-Initial Acquisition in the Serial Search Based Noncoherent Multiple Transmit/Receive Antenna Aided DS-CDMA Downlink. citation:-1
+title:Impact of the Line-of-Sight Propagation Component on the Orthogonality Factor of the Synchronous DS-CDMA Uplink. citation:-1
+title:Accurate BER Analysis of QPSK Modulated Asynchronous DS-CDMA Systems Communicating over Rayleigh Channels. citation:-1
+title:Connectivity-Related Properties of Mobile Nodes Obeying the Random Walk and Random Waypoint Mobility Models. citation:-1
+title:Particle Swarm Optimisation Aided Minimum Bit Error Rate Multiuser Transmission. citation:-1
+title:Combined Serially Concatenated Codes and MMSE Equalization: An EXIT Chart Aided Perspective. citation:-1
+title:SVD-Aided, Iteratively Detected Spatial Division Multiplexing Using Long-Range Channel Prediction. citation:-1
+title:Equivalent-Capacity-Based Design of Space-Time Block-Coded Sphere-Packing-Aided Multilevel Coding. citation:-1
+title:Mellin Transform Based Performance Analysis of FFH M-ary FSK Using Product Combining Against Partial Band Noise Jamming. citation:-1
+title:Joint Source Coding, Unity Rate Precoding and FFH-MFSK Modulation Using Iteratively Decoded Irregular Variable Length Coding. citation:-1
+title:Coded modulation assisted radial basis function aided turbo equalization for dispersive Rayleigh-fading channels. citation:-1
+title:Non-Coherent Code Acquisition in the Multiple Transmit/Multiple Receive Antenna Aided Single- and Multi-Carrier DS-CDMA Downlink. citation:-1
+title:Unequal Error Protection Irregular Over-Complete Mapping for Wavelet Coded Wireless Video Telephony Using Iterative Source and Channel Decoding. citation:-1
+title:Symmetric Complex-Valued RBF Receiver for Multiple-Antenna-Aided Wireless Systems. citation:-1
+title:Near-Capacity Turbo Trellis Coded Modulation Design. citation:-1
+title:An Optimized-Hierarchy-Aided Maximum Likelihood Detector for MIMO-OFDM. citation:-1
+title:Recurrent Neural Network Based Narrowband Channel Prediction. citation:-1
+title:Channel Prediction Aided Coded Modulation Assisted Eigen-Beamforming. citation:-1
+title:Successive Interference Cancellation in Clipped and Product Combining aided FFH Multi-User Systems. citation:-1
+title:Performance Analysis of Iteratively Decoded Variable-Length Space-Time Coded Modulation. citation:-1
+title:Iteratively Decoded Irregular Variable Length Coding and Trellis Coded Modulation. citation:-1
+title:A Differential Turbo Detection Aided Sphere Packing Modulaled Space-Time Coding Scheme. citation:-1
+title:Symmetric Radial Basis Function Assisted Space-Time Equalisation for Multiple Receive-Antenna Aided Systems. citation:-1
+title:Iteratively Detected Generalised MC DS-CDMA Using Layered Steeered Space-Time Spreading. citation:-1
+title:Interleave Division Multiplexing Aided Space-Time Coding for High-Throughput Uplink Cooperative Communications. citation:-1
+title:Acquisition of$m$-Sequences Using Recursive Soft Sequential Estimation. citation:-1
+title:Sphere-Packing Modulated Space-Time Coding Using Non-Binary LDPC-Coded Iterative-Detection. citation:-1
+title:Turbo detection of space-time trellis-coded constant bit rate vector-quantised videophone system using reversible variable-length codes, convolutional codes and turbo codes. citation:-1
+title:Adaptive antenna array assisted dynamic channel allocation techniques. citation:-1
+title:Initial acquisition performance of the multiple receive antenna assisted DS-UWB downlink using Search Space Reduction and iterative code phase estimation. citation:-1
+title:Near-Capacity Irregular Bit-Interleaved Coded Modulation. citation:-1
+title:MMSE Soft-Interference-Cancellation Aided Iterative Center-Shifting K-Best Sphere Detection for MIMO Channels. citation:-1
+title:Unveiling Near-Capacity Code Design: The Realization of Shannon's Communication Theory for MIMO Channels. citation:-1
+title:Iterative Soft Interference Cancellation Aided Minimum Bit Error Rate Uplink Receiver Beamforming. citation:-1
+title:Three-Stage Concatenated Ultra-Wide Bandwidth Time-Hopping Spread-Spectrum Impulse Radio Using Iterative Detection. citation:-1
+title:Exact BER Analysis of OFDM Systems Communicating over Frequency-Selective Fading Channels Subjected to Carrier Frequency Offset. citation:-1
+title:EXIT-Chart Optimized Block Codes for Wireless Video Telephony. citation:-1
+title:Adaptive minimum error-rate filtering design: A review. citation:-1
+title:Markov Chain Minimum Bit Error Rate Detection for Multi-Functional MIMO Uplink. citation:-1
+title:EXIT Chart Aided Design of DS-CDMA UltraWideBand Systems Using Iterative Decoding. citation:-1
+title:Iteratively Detected Sphere Packing Modulated OFDM: An Exit Chart Perspective. citation:-1
+title:Accurate BER Analysis of Asynchronous DS-CDMA Systems in Ricean Channels. citation:-1
+title:Semi-Blind Adaptive Spatial Equalization for MIMO Systems with High-Order QAM Signalling. citation:-1
+title:Joint Design of Twin-Antenna Assisted Space-Time Multilevel Sphere Packing Aided Coded Modulation. citation:-1
+title:Complex-valued symmetric radial basis function classifier for quadrature phase shift keying beamforming systems. citation:-1
+title:Semi-Blind Spatial Equalisation for MIMO Channels with Quadrature Amplitude Modulation. citation:-1
+title:Near-Optimum Soft-Output Ant-Colony-Optimization Based Multiuser Detection for the DS-CDMA Uplink. citation:-1
+title:Soft Decoding Assisted Interference Cancellation in a Non-Binary LDPC Coded Fast Frequency Hopping Multiuser System Using Product Combining. citation:-1
+title:Exact BER Performance of Asynchronous MC-DS-CDMA over Nakagami-m Fading Channels. citation:-1
+title:Near-Capacity Irregular Precoded Linear Dispersion Codes. citation:-1
+title:On Multi-User EXIT Chart Analysis Aided Turbo-Detected MBER Beamformer Designs. citation:-1
+title:A New Chain Coding Scheme for Cursive Script and Line Drawings. citation:-1
+title:Adaptive minimum bit-error rate beamforming. citation:-1
+title:Iterative detection of diagonal block space time trellis codes, TCM and reversible variable length codes for transmission over Rayleigh fading channels. citation:-1
+title:Adaptive beamforming for binary phase shift keying communication systems. citation:-1
+title:Serial Search Based Code Acquisition in the Cooperative MIMO Aided DS-CDMA Downlink. citation:-1
+title:Over-Complete Mapping Aided, Soft-Bit Assisted Iterative Unequal Error Protection H.264 Joint Source and Channel Decoding. citation:-1
+title:Joint Optimization of Iterative Source and Channel Decoding Using Over-Complete Source-Mapping. citation:-1
+title:Block-run run-length coding of handwriting and bilevel graphics based on quadtree segmentation. citation:-1
+title:Near-Capacity Iteratively Decoded Binary Self-Concatenated Code Design Using EXIT Charts. citation:-1
+title:Minimum Symbol Error Rate Turbo Multiuser Beamforming Aided QAM Receiver. citation:-1
+title:Iterative Detection of Three-Stage Concatenated FFH-MFSK. citation:-1
+title:EXIT Chart Aided Design of Near-Capacity Self-Concatenated Trellis Coded Modulation Using Iterative Decoding. citation:-1
+title:Adaptive Radial Basis Function Detector for Beamforming. citation:-1
+title:Adaptive minimum bit error rate beamforming assisted receiver for QPSK wireless communication. citation:-1
+title:Adaptive Minimum Symbol Error Rate Beamforming Assisted Receiver for Quadrature Amplitude Modulated Systems. citation:-1
+title:Global system for mobile communications (GSM). citation:-1
+title:Parallel interference cancellation based turbo space-time equalization in the SDMA uplink. citation:-1
+title:Performance of DS-CDMA downlink using transmitter preprocessing and relay diversity over Nakagami-m fading channels. citation:-1
+title:A Novel Method for Partially Adaptive Broadband Beamforming. citation:-1
+title:Performance of SDMA Systems Using Transmitter Preprocessing Based on Noisy Feedback of Vector-Quantized Channel Impulse Responses. citation:-1
+title:On the Design of Turbo Trellis Coded Modulation Schemes Using Symbol-Based Exit Charts. citation:-1
+title:Near-Capacity Three-Stage Downlink Iteratively Decoded Generalized Layered Space-Time Coding with Low Complexity. citation:-1
+title:Differentially Coherent Code Acquisition in the Multiple Transmit/Receive Antenna Assisted Multi-Carrier DS-CDMA Downlink. citation:-1
+title:Luby Transform Coding Aided Bit-Interleaved Coded Modulation for the Wireless Internet. citation:-1
+title:Fading Performance Evaluation of Adaptive MSER Beamforming Receiver for QAM Systems. citation:-1
+title:Downlink Steered Space-Time Spreading For Multi-Carrier Transmission Over Frequency Selective Channels. citation:-1
+title:Three-Stage Serially Concatenated Codes and Iterative Center-Shifting K-Best Sphere Detection for SDM-OFDM: An EXIT Chart Aided Perspective. citation:-1
+title:Systematic redundant residue number system codes: analytical upper bound and iterative decoding performance over AWGN and Rayleigh channels. citation:-1
+title:Performance of Relay-Aided DS-CDMA Experiencing Propagation Pathloss and Nakagami Fading. citation:-1
+title:EXIT Chart Analysis of Low-Complexity Bayesian Turbo Multiuser Detection for Rank-Deficient Multiple Antenna Aided OFDM. citation:-1
+title:Iterative Detection and Decoding for Hard-Decision Forwarding Aided Cooperative Spatial Multiplexing. citation:-1
+title:Non-coherent and differentially coherent code acquisition in MIMO assisted DS-CDMA multi-path downlink scenarios. citation:-1
+title:Burst-by-burst adaptive decision feedback equalized TCM, TTCM, and BICM for H.263-assisted wireless video telephony. citation:-1
+title:SVD Aided Joint Transmitter and Receiver Design for the Uplink of Multiuser Detection Assisted MIMO Systems. citation:-1
+title:Genetic Algorithm Aided Design of Near-Capacity Irregular Variable Length Codes. citation:-1
+title:Iterative Eualization and Source Decoding for Vector Quantized Sources. citation:-1
+title:Coherent and Differential Downlink Space-Time Steering Aided Generalised Multicarrier DS-CDMA. citation:-1
+title:Iterative Decoding for Redistributing Energy Consumption in Wireless Sensor Networks. citation:-1
+title:On the performance of band-limited asynchronous DS-CDMA over nakagami-m channels. citation:-1
+title:Symmetric Kernel Detector for Multiple-Antenna Aided Beamforming Systems. citation:-1
+title:Three-Dimensional EXIT Chart Analys'is of Iteraltive Detecltion Aided Coded Modulaltion Schemes. citation:-1
+title:Near-capacity turbo trellis coded modulation design based on EXIT charts and union bounds - [transactions papers]. citation:-1
+title:High-Throughput Non-Orthogonal Interleaved Random Space-Time Coding for Multi-Source Cooperation. citation:-1
+title:Burst-by-burst adaptive joint detection CDMA/H.263 based video telephony. citation:-1
+title:Downlink Steered Space-Time Spreading Assisted Generalised Multicarrier DS-CDMA Using Sphere-Packing-Aided Multilevel Coding. citation:-1
+title:Near-Instantaneously Adaptive Cooperative Uplink Schemes Based on Space-Time Block Codes and V-Blast. citation:-1
+title:Channel Prediction Aided Multiuser Transmission in SDMA. citation:-1
+title:Channel Coded Iterative Center-Shifting K-Best Sphere Detection for Rank-Deficient Systems. citation:-1
+title:Irregular Generic Detection Aided Iterative Downlink SDMA Systems. citation:-1
+title:Generalized Low-Density Parity-Check Coding Aided Multilevel Codes. citation:-1
+title:Near-Capacity Iteratively Decoded Space-Time Block Coding. citation:-1
+title:Soft Metrics and EXIT Chart Analysis of Noncoherent MFSK with Diversity Reception. citation:-1
+title:Physical-Layer Algebraic Network Coding and Superposition Coding for the Multi-Source Cooperation Aided Uplink. citation:-1
+title:Multicell Cooperation Based SVD Assisted Multi-User MIMO Transmission. citation:-1
+title:Iterative Detection Aided DL SDMA Systems Using Quantized Channel Impulse Response. citation:-1
+title:SVD-Aided Unequal-Protection Spatial Multiplexing for Wireless Video Telephony. citation:-1
+title:Optimized Irregular Variable Length Coding Design for Iteratively Decoded UltraWideBand Time-Hopping Spread-Spectrum Impulse Radio. citation:-1
+title:Convergence Behaviour of Iteratively Decoded Short Block-Codes in H.264 Joint Source and Channel Decoding. citation:-1
+title:Closed-Form Approximation of the Coding-Rate Versus Free Distance Trade-Off. citation:-1
+title:Iterative Detection Aided H.264 Wireless Video Telephony Using Irregular Convolutional Codes. citation:-1
+title:Multiple-Symbol Differential Sphere Detection for Amplifyand-Forward Cooperative Transmissions. citation:-1
+title:Imperfect Channel Knowledge Based Ergodic Channel Capacity of Transmit Beamforming. citation:-1
+title:Three-Stage Iterative Detection of a MIMO-aided Precoded AMR-WB Speech Transceiver. citation:-1
+title:Effect of Array Geometry on the Capacity of the Turbo-Coded Beamforming Aided Uplink. citation:-1
+title:Multi-User Performance of the Amplify-and-Forward Single-Relay Assisted SC-FDMA Uplink. citation:-1
+title:Constrained Capacity of Delay-Limited Wireless Transceivers. citation:-1
+title:Near-Capacity UWB Impulse Radio Using EXIT Chart Aided Self-Concatenated Codes. citation:-1
+title:Distributed Turbo Coding in the Presence of Inter-User Channel Impairment. citation:-1
+title:Distributed Self-Concatenated Codes for Low-Complexity Power-Efficient Cooperative Communication. citation:-1
+title:Amplify-and-Forward Relaying Aided Reed-Solomon Coded Hybrid-ARQ Relying on Realistic Channel Estimation. citation:-1
+title:H.264 Wireless Video Telephony Using Iteratively-Detected Binary Self-Concatenated Coding. citation:-1
+title:Exploiting Redundancy in Iterative H.264 Joint Source and Channel Decoding For Robust Video Transmission. citation:-1
+title:To Cooperate or Not: A Capacity Perspective. citation:-1
+title:Multiple-Relay Aided Distributed Turbo Coding Assisted Differential Unitary Space-Time Spreading for Asynchronous Cooperative Networks. citation:-1
+title:Joint Channel, Carrier-Frequency-Offset and Noise-Variance Estimation for OFDM Systems Based on Expectation Maximization. citation:-1
+title:Ant-Colony Based Near-ML Space-Time Multiuser Detection for the STBC Assisted DS-CDMA Uplink. citation:-1
+title:Optimum Physical-Layer Frame Size for Maximising the Application-Layer Rateless Code's Effective Throughput. citation:-1
+title:Over-Complete Source-Mapping Aided AMR-WB Using Iteratively Detected Differential Space-Time Spreading. citation:-1
+title:Cross-Layer Solutions for Cooperative Medium Access Control Protocols. citation:-1
+title:Performance of the Space-Time Block Coded DS-CDMA Uplink Employing Soft-Output ACO-Aided Multiuser Space-Time Detection and Iterative Decoding. citation:-1
+title:Distributed Convolutional-Coded Differential Space-Time Block Coding. citation:-1
+title:Power-Efficient Opportunistic Amplify-and-Forward Single-Relay Aided Multi-User SC-FDMA Uplink. citation:-1
+title:Iteratively Detected Three-Stage Multi-Dimensional Sphere Packing Modulation Aided Multi-Functional MIMO. citation:-1
+title:Semi-Blind Gradient-Newton CMA and SDD Algorithm for MIMO Space-Time Equalisation. citation:-1
+title:Near-Capacity Iteratively Decoded Markov-Chain Monte-Carlo Aided BLAST System. citation:-1
+title:Robust Transmission of H.264 Coded Video Using Three-Stage Iterative Joint Source and Channel Decoding. citation:-1
+title:The Resource-Optimized Differentially Modulated Hybrid AF/DF Cooperative Cellular Uplink. citation:-1
+title:Single-User Performance of Uplink DS-CDMA using Relay-Assisted Diversity. citation:-1
+title:Minimum bit error rate multiuser transmission designs using particle swarm optimisation. citation:-1
+title:Optimal decoding for hard-decision forwarding aided cooperative spatial multiplexing systems. citation:-1
+title:Fast Converging Semi-Blind Space-Time Equalisation for Dispersive QAM MIMO Systems. citation:-1
+title:Near-capacity irregular variable length coding and irregular unity rate coding. citation:-1
+title:Speech spectral quantizers for wideband speech coding. citation:-1
+title:Distributed Three-Stage Concatenated Irregular Convolutional, Unity-Rate and Space-Time Trellis Coding for Single-Antenna Aided Cooperative Communications. citation:-1
+title:Joint and Distributed Linear Precoding for Centralised and Decentralised Multicell Processing. citation:-1
+title:HARQ Aided Systematic LT Coding for Amplify-Forward and Decode-Forward Cooperation. citation:-1
+title:Co-Channel Interference Mitigation Capability of Fixed Relays Connected by Optical Fibre. citation:-1
+title:A Unified MIMO Architecture Subsuming Space Shift Keying, OSTBC, BLAST and LDC. citation:-1
+title:Harmony Search Aided Iterative Channel Estimation, Multiuser Detection and Channel Decoding for DS-CDMA. citation:-1
+title:Near-Capacity Three-Stage Turbo Detection of Irregular Convolutional Coded Joint Sphere-Packing Modulation and Space-Time Coding. citation:-1
+title:Genetic Algorithm Aided Design of Component Codes for Irregular Variable Length Coding. citation:-1
+title:Adaptive Bayesian space-time equalisation for multiple receive-antenna assisted single-input multiple-output systems. citation:-1
+title:Fuzzy-logic tuned constant modulus algorithm and soft decision-directed scheme for blind equalisation. citation:-1
+title:Relay-Induced Error Propagation Reduction for Decode-and-Forward Cooperative Communications. citation:-1
+title:A Cluster-Head Selection and Update Algorithm for Ad Hoc Networks. citation:-1
+title:Channel Code Aided Decision-Directed Channel Estimation for MIMO OFDM/SDMA Systems Based on the "Expectation-Conditional Maximization Either" Algorithm. citation:-1
+title:Space-Time Shift Keying: A Unified MIMO Architecture. citation:-1
+title:Packet-Reliability-Based Decode-and-Forward Distributed Space-Time Shift Keying. citation:-1
+title:Exact BER performance of asynchronous MC-DS-CDMA over fading channels. citation:-1
+title:Reduced-complexity near-capacity downlink iteratively decoded generalized multi-layer space-time coding using irregular convolutional codes. citation:-1
+title:Near-capacity iterative decoding of binary self-concatenated codes using soft decision demapping and 3-D EXIT charts. citation:-1
+title:Wireless video communications - second to third generation systems and beyond. citation:-1
+title:Particle Swarm Optimisation Aided Multiuser Transmission Schemes for MIMO Communication. citation:-1
+title:Proceedings of the 5th International Conference on Ubiquitous Information Management and Communication, ICUIMC 2011, Seoul, Republic of Korea, February 21 - 23, 2011 citation:-1
+title:The effects of shadow-fading on QoS-aware routing and admission control protocols designed for multi-hop MANETs. citation:-1
+title:Nonlinear Multiantenna Detection Methods. citation:-1
+title:Adaptive Space-Time-Spreading-Assisted Wideband CDMA Systems Communicating over Dispersive Nakagami-m Fading Channels. citation:-1
+title:Coherent Versus Non-Coherent Decode-and-Forward Relaying Aided Cooperative Space-Time Shift Keying. citation:-1
+title:Online Buffer Fullness Estimation Aided Adaptive Media Playout for Video Streaming. citation:-1
+title:An Energy-Efficient Error Correction Scheme for IEEE 802.15.4 Wireless Sensor Networks. citation:-1
+title:Quality of Service Routing and Admission Control for Mobile Ad-hoc Networks with a Contention-based MAC Layer. citation:-1
+title:Multiple-Symbol Differential Sphere Detection aided successive relaying in the cooperative DS-CDMA uplink. citation:-1
+title:Network Coded Modulation for two-way relaying. citation:-1
+title:Reduced-complexity noncoherently detected Differential Space-Time Shift Keying. citation:-1
+title:Variable-rate Network Coding for Multi-Source Cooperation. citation:-1
+title:Unified Bit-based Probabilistic Data Association aided MIMO detection for high-order QAM. citation:-1
+title:Relay switching aided turbo coded Hybrid-ARQ for correlated fading channel. citation:-1
+title:Distributed downlink Multi-Cell Processing requiring reduced-rate back-haul data exchange. citation:-1
+title:Joint channel-and-network coding using EXIT chart aided relay activation. citation:-1
+title:Energy-efficient relay aided ad hoc networks using iteratively detected irregular convolutional coded, unity-rate coded and Space-Time Trellis Coded transceivers. citation:-1
+title:On Multidimensional BICM-ID Constellation Labelling. citation:-1
+title:Multiplexed Hybrid ARQ for Energy Efficient Transmissions under Delay Constraints. citation:-1
+title:Distributed Differential Space-Time Spreading for the Asynchronous Relay Aided Interference-Free Cooperative CDMA Uplink. citation:-1
+title:Impact of Imperfect Channel State Information on RS Coding Aided Hybrid-ARQ in Rayleigh Fading Channels. citation:-1
+title:DFT-Based Beamforming Weight-Vector Codebook Design for Spatially Correlated Channels in the Unitary Precoding Aided Multiuser Downlink. citation:-1
+title:Iterative H.264 Source and Channel Decoding Using Sphere Packing Modulation Aided Layered Steered Space-Time Codes. citation:-1
+title:A wide-band radial basis function decision feedback equalizer-assisted burst-by-burst adaptive modem. citation:-1
+title:Crest factors of complementary-sequence-based multicode MC-CDMA signals. citation:-1
+title:Reduced complexity in-phase/quadrature-phase M-QAM turbo equalization using iterative channel estimation. citation:-1
+title:Multifunctional MIMO systems: A combined diversity and multiplexing design perspective. citation:-1
+title:Resource-efficient wireless relaying protocols. citation:-1
+title:A Unified Treatment of Superposition Coding Aided Communications: Theory and Practice. citation:-1
+title:Admission control schemes for 802.11-based multi-hop mobile ad hoc networks: a survey. citation:-1
+title:Optimum time resource allocation for TDMA-based differential decode-and-forward cooperative systems: a capacity perspective. citation:-1
+title:Sub-Carrier-Multiplexed Duplex 64-QAM Radio-over-Fiber Transmission for Distributed Antennas. citation:-1
+title:Near-Capacity Irregular Convolutional Coded Cooperative Differential Linear Dispersion Codes Using Multiple-Symbol Differential Decoding Aided Non-Coherent Detection. citation:-1
+title:Base Station Cooperation in MIMO-Aided Multi-User Multi-Cell Systems Employing Distributed Probabilistic Data Association Based Soft Reception. citation:-1
+title:A Novel Preamble Design for OFDM Transmission Parameter Signalling. citation:-1
+title:Reduced Dispersion Duplex DQPSK Radio-Over-Fiber Communications Using Single-Laser-Based Multiple Side-Bands. citation:-1
+title:Joint Channel Estimation and Multi-User Detection for SDMA OFDM Based on Dual Repeated Weighted Boosting Search. citation:-1
+title:Deferred-Iteration Aided Low-Complexity Turbo Hybrid ARQ Relying on a Look-Up Table. citation:-1
+title:Multihop Diversity - A Precious Source of Fading Mitigation in Multihop Wireless Networks. citation:-1
+title:Over-Booking Approach for Dynamic Spectrum Management. citation:-1
+title:Semidefinite Programming Relaxation Based Virtually Antipodal Detection for Gray Coded 16-QAM MIMO Signalling. citation:-1
+title:Turbo Coded and Cooperative Network Coded Non-Coherent Soft-Decision Star-QAM Dispensing with Channel Estimation. citation:-1
+title:Multiple-Symbol Differential Sphere Decoding Aided Cooperative Differential Space-Time Spreading for the Asynchronous CDMA Uplink. citation:-1
+title:Multihop Diversity for Fading Mitigation in Multihop Wireless Networks. citation:-1
+title:Multiple-Symbol Differential Sphere Decoding Aided Amplify-and-Forward Differential Space-Time Modulation. citation:-1
+title:Tree-Structured Multiple Description Coding for Multiview Mobile TV and Camera-Phone Networks. citation:-1
+title:On-Demand Decode and Forward Cooperative MAC for VoIP in Wireless Mesh Networks. citation:-1
+title:Design of Fixed-Point Processing Based LDPC Codes Using EXIT Charts. citation:-1
+title:Near-Capacity Network Coding for Cooperative Multi-User Communications. citation:-1
+title:TTCM-Aided SDMA-Based Two-Way Relaying. citation:-1
+title:Self-Concatenated Coding and Multi-Functional MIMO Aided H.264 Video Telephony. citation:-1
+title:Partial Soft Decode and Forward. citation:-1
+title:Uplink Channel Estimation for Bandlimited MC-DS-CDMA Systems Relying on Long Spreading Codes. citation:-1
+title:Erasure Insertion in Reed-Solomon Coded SFH M-ary FSK with Partial-Band Interference and Rayleigh Fading for Non-Coherent Cooperative Communications. citation:-1
+title:Digital RoF Aided Cooperative Distributed Antennas with FFR in Multicell Multiuser Networks. citation:-1
+title:Energy-Efficient Routing in Ad Hoc Networks Relying on Channel State Information and Limited MAC Retransmissions. citation:-1
+title:Decision-feedback equalization using multiple-hyperplane partitioning for detecting ISI-corrupted M-ary PAM signals. citation:-1
+title:The probability of multiple correct packet reception in coded synchronous frequency-hopped spread-spectrum networks. citation:-1
+title:Burst-by-burst adaptive turbo-coded radial basis function-assisted decision feedback equalization. citation:-1
+title:Near-Capacity Irregular Convolutional Coded Cooperative Differential Linear Dispersion Codes Using Multiple-Symbol Differential Detection. citation:-1
+title:Reduced-Complexity Noncoherently Detected Differential Space-Time Shift Keying. citation:-1
+title:Space-Time-Frequency Shift Keying for Dispersive Channels. citation:-1
+title:Soft-Decision Star-QAM Aided BICM-ID. citation:-1
+title:Timing Acquisition for Bandlimited Long-Code DS-CDMA in Doubly-Selective Fading Channels. citation:-1
+title:Multiple-Symbol Differential Sphere Detection Aided Differential Space-Time Block Codes Using QAM Constellations. citation:-1
+title:Myths and realities of rateless coding. citation:-1
+title:Initial Synchronisation of Wideband and UWB Direct Sequence Systems: Single- and Multiple-Antenna Aided Solutions. citation:-1
+title:Block-based precoding for serially concatenated codes. citation:-1
+title:A turbo-coded burst-by-burst adaptive wide-band speech transceiver. citation:-1
+title:A Reed-Solomon coded DS-CDMA system using noncoherent M-ary orthogonal modulation over multipath fading channels. citation:-1
+title:EXIT Chart Based Joint Code-Rate and Spreading-Factor Optimisation of Single-Carrier Interleave Division Multiple Access. citation:-1
+title:Exact BER of Rectangular-Constellation Quadrature Amplitude Modulation Subjected to Asynchronous Co-Channel Interference and Nakagami-m Fading. citation:-1
+title:Iterative Decoding and Soft Interference Cancellation in Fast Frequency Hopping Multiuser System Using Clipped Combining. citation:-1
+title:Near-Capacity H.264 Multimedia Communications Using Iterative Joint Source-Channel Decoding. citation:-1
+title:MIMO-Aided Near-Capacity Turbo Transceivers: Taxonomy and Performance versus Complexity. citation:-1
+title:Prolog to the Section on Wireless Communications Technology. citation:-1
+title:The 6th International Conference on Ubiquitous Information Management and Communication, ICUIMC '12, Kuala Lumpur, Malaysia, February 20-22, 2012 citation:-1
+title:Non-Coherent Cooperative Communications Dispensing with Channel Estimation Relying on Erasure Insertion Aided Reed-Solomon Coded SFH M-ary FSK Subjected to Partial-Band Interference and Rayleigh Fading. citation:-1
+title:Differential Interference Suppression Aided Three-Stage Concatenated Successive Relaying. citation:-1
+title:Effects of Channel Estimation on Spatial Modulation. citation:-1
+title:Duplex Digitized Transmission of 64-QAM Signals over a Single Fiber Using a Single Pulsed Laser Source. citation:-1
+title:An Approximate Coding-Rate Versus Minimum Distance Formula for Binary Codes citation:-1
+title:Adaptive Turbo Trellis Coded Modulation aided cooperative Cognitive Radio. citation:-1
+title:Frequency-swapping aided femtocells in twin-layer cellular networks relying on fractional frequency reuse. citation:-1
+title:Minimum bit error rate beamforming receiver for space-division multiple-access based quadrature amplitude modulation systems. citation:-1
+title:Effects of practical impairments on cooperative distributed antennas combined with fractional frequency reuse. citation:-1
+title:Capacity analysis of the successive AF relaying aided cooperative DS-CDMA uplink. citation:-1
+title:Multi-objective routing optimization using evolutionary algorithms. citation:-1
+title:Near-Capacity FEC Codes for Non-Regenerative MIMO-Aided Relays. citation:-1
+title:Area Spectral Efficiency of Soft-Decision Space-Time-Frequency Shift Keying Aided Slow Frequency Hopping Multiple Access. citation:-1
+title:Differential Evolution Algorithm Aided Minimum Symbol Error Rate Multi-User Detection for Multi-User OFDM/SDMA Systems. citation:-1
+title:Non-Coherent Near-Capacity Network Coding for Cooperative Multi-User Communications. citation:-1
+title:Near-Capacity Wireless Transceivers and Cooperative Communications in the MIMO Era: Evolution of Standards, Waveform Design, and Future Perspectives. citation:-1
+title:Heterogeneous Networking: An Enabling Paradigm for Ubiquitous Wireless Communications [Point of View]. citation:-1
+title:Structured Dispersion Matrices from Space-Time Block Codes for Space-Time Shift Keying citation:-1
+title:Symbol-flipping based decoding of generalized low-density parity-check codes over GF(q). citation:-1
+title:Precoder-aided iterative detection assisted multilevel coding and three-dimensional EXIT-chart analysis. citation:-1
+title:Near-optimum nonlinear soft detection for multiple-antenna assisted OFDM. citation:-1
+title:RLS-adaptive parallel interference cancellation assisted decision-directed channel estimation for OFDM. citation:-1
+title:M-ary coded modulation assisted genetic algorithm based multiuser detection for CDMA systems. citation:-1
+title:Acquisition of m-sequences using recursive soft sequential estimation. citation:-1
+title:Iterative minimum bit error rate multiuser detection in multiple antenna aided OFDM. citation:-1
+title:Exact BER performance of asynchronous DS-CDMA systems using quadriphase spreading and QPSK modulation over rayleigh channels. citation:-1
+title:A sphere-packing modulated space-frequency diversity aided FFH-assisted DSTBC system. citation:-1
+title:Linear beamforming assisted receiver for binary phase shift keying modulation systems. citation:-1
+title:Differential space-time modulation schemes for smart antenna aided generalized multicarrier DS-CDMA systems. citation:-1
+title:Iterative soft-detection of Space-Time-Frequency Shift Keying. citation:-1
+title:First-hop-quality-aware dynamic resource allocation for amplify-and-forward opportunistic relaying assisted SC-FDMA. citation:-1
+title:Iterative amplitude/phase multiple-symbol differential sphere detection for DAPSK modulated transmissions. citation:-1
+title:Relay selection schemes relying on adaptive modulation and imperfect channel knowledge for cooperative networks. citation:-1
+title:Successive DF relaying: MS-DIS aided interference suppression and three-stage concatenated architecture design. citation:-1
+title:Space-time spreading assisted broadband MC DS-CDMA. citation:-1
+title:Comparative study of turbo coded wideband adaptive modulation and space-time trellis codes. citation:-1
+title:Crest factors of Shapiro-Rudin sequence based multi-code MC-CDMA signals. citation:-1
+title:Performance of wideband CDMA using adaptive space-time spreading over multipath Nakagami fading channels. citation:-1
+title:Receiver-Driven Adaptive Enhancement Layer Switching Algorithm for Scalable Video Transmission Over Link-adaptive Networks. citation:-1
+title:Superposition Coded Modulation for Cooperative Communications. citation:-1
+title:Stochastic Optimization Assisted Joint Channel Estimation and Multi-User Detection for OFDM/SDMA. citation:-1
+title:Ergodic Capacity of Multi-User MIMO Systems Using Pilot-Based Channel Estimation, Quantized Feedback and Outdated Feedback as Well as User Selection. citation:-1
+title:Frequency-Domain Turbo Equalisation in Coded SC-FDMA Systems: EXIT Chart Analysis and Performance. citation:-1
+title:Power-Efficient Radio Resource Allocation for Low-Medium-Altitude Aerial Platform Based TD-LTE Networks. citation:-1
+title:OFDM Aided Space-Time Shift Keying for Dispersive Downlink Channels. citation:-1
+title:Reduced-Complexity Soft-Decision Aided PSK Detection. citation:-1
+title:Coalition Network Elements for Base Station Cooperation. citation:-1
+title:OFDMA/SC-FDMA Aided Space-Time Shift Keying for Dispersive Multiuser Scenarios. citation:-1
+title:Energy-Efficient Dynamic Resource Allocation for Opportunistic-Relaying-Assisted SC-FDMA Using Turbo-Equalizer-Aided Soft Decode-and-Forward. citation:-1
+title:A Spectrum Leasing Cooperative Medium Access Protocol and its Stability Analysis. citation:-1
+title:Reduced-Complexity Iterative-Detection-Aided Generalized Space-Time Shift Keying. citation:-1
+title:Performance Analysis of Multihop-Diversity-Aided Multihop Links. citation:-1
+title:Maximum-SNR Optimal Weighting Matrix for Multiple Relay-Antenna-Assisted Orthogonal Space Time Block Codes. citation:-1
+title:Area Spectral Efficiency of Soft-Decision Space-Time-Frequency Shift-Keying-Aided Slow-Frequency-Hopping Multiple Access. citation:-1
+title:Remote Coalition Network Elements for Base Station Cooperation Aided Multicell Processing. citation:-1
+title:Low-Complexity Near-Optimum Multiple-Symbol Differential Detection of DAPSK Based on Iterative Amplitude/Phase Processing. citation:-1
+title:Spatial Modulation and Space-Time Shift Keying: Optimal Performance at a Reduced Detection Complexity. citation:-1
+title:On the Joint Optimization of Dispersion Matrices and Constellations for Near-Capacity Irregular Precoded Space-Time Shift Keying. citation:-1
+title:Successive AF/DF Relaying in the Cooperative DS-CDMA Uplink: Capacity Analysis and Its System Architecture. citation:-1
+title:Structured dispersion matrices from division algebra codes for space-time shift keying. citation:-1
+title:A Full-Duplex Diversity-Assisted Hybrid Analogue/Digitized Radio Over Fibre for Optical/Wireless Integration. citation:-1
+title:Multistage frequency-hopping assisted ultra-wideband multiple-access communications. citation:-1
+title:Minimum mean square error single-user detection of SDMA signals transmitted over Nakagami fading channels. citation:-1
+title:Multiple hyperplane detector for implementing the asymptotic Bayesian decision feedback equalizer. citation:-1
+title:Turbo-equalised H.263-based video telephony for GSM/GPRS. citation:-1
+title:Minimum-distance decoding of redundant residue number system codes. citation:-1
+title:Block-adaptive kernel-based CDMA multiuser detection. citation:-1
+title:Constant modulus algorithm assisted soft decision-feedback equalization. citation:-1
+title:Reduced complexity in-phase/quadrature-phase turbo equalisation using iterative channel estimation. citation:-1
+title:Performance of wideband CDMA using space-time spreading over multipath Nakagami fading channels. citation:-1

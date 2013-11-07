@@ -1,0 +1,26 @@
+title1:Syntactic Combination of Uncertain Information: A Possibilistic Approach. title2:Syntactic combination of uncertain information: A possibilistic approach citation:9 ncitation:8 pid55354
+title1:The correlation problem in sensor fusion in a possibilistic framework. title2:The correlation problem in sensor fusion in a possibilistic framework citation:10 ncitation:11 pid910667
+title1:A Set-Theoretic View of Belief Functions. citation:349 ncitation:318 pid632274
+title1:A Possibility Theory-based Approach for Handling of Uncertain Relations Between Temporal Points. title2:A possibility theory-based approach to the handling of uncertain relations between temporal points citation:10 ncitation:10 pid1203254
+title1:Analogy, Paralogy and Reverse Analogy: Postulates and Inferences. title2:Analogy, paralogy and reverse analogy: Postulates and inferences citation:10 ncitation:9 pid388559
+title1:Inconsistency Management and Prioritized Syntax-Based Entailment. title2:Inconsistency management and prioritized syntax-based entailment citation:357 ncitation:353 pid1251967
+title1:Probability-Possibility Transformations, Triangular Fuzzy Sets, and Probabilistic Inequalities. title2:Probability-possibility transformations, triangular fuzzy sets, and probabilistic inequalities citation:303 ncitation:255 pid11884
+title1:A review of fuzzy set aggregation connectives. title2:A review of fuzzy set aggregation connectives citation:832 ncitation:800 pid879645
+title1:Ranking fuzzy numbers in the setting of possibility theory. title2:Ranking fuzzy numbers in the setting of possibility theory citation:721 ncitation:690 pid879649
+title1:Representation and combination of uncertainty with belief functions and possibility measures. title2:Representation and combination of uncertainty with belief functions and possibility measures citation:488 ncitation:429 pid387557
+title1:Possibility Theory as a Basis for Qualitative Decision Theory. title2:Possibility theory as a basis for qualitative decision theory citation:274 ncitation:253 pid385232
+title1:The Possibilistic Handling of Irrelevance in Exception-Tolerant Reasoning. title2:The possibilistic handling of irrelevance in exception-tolerant reasoning citation:9 ncitation:9 pid1550620
+title1:Epistemic Entrenchment and Possibilistic Logic. title2:Epistemic entrenchment and possibilistic logic citation:242 ncitation:219 pid388242
+title1:Possibility Theory, Probability Theory and Multiple-Valued Logics: A Clarification. title2:Possibility theory, probability theory and multiple-valued logics: A clarification citation:235 ncitation:207 pid164995
+title1:A possibility theory-based approach to the handling of uncertain relations between temporal points. title2:A possibility theory-based approach to the handling of uncertain relations between temporal points citation:10 ncitation:10 pid1542313
+title1:Flexible querying of semistructured data: A fuzzy-set-based approach. citation:9 ncitation:10 pid1089590
+title1:Beyond Counter-Examples to Nonmonotonic Formalisms: A Possibility-Theoretic Analysis. title2:Beyond Counter-Examples to Nonmonotonic Formalisms: A Possibility-Theoretic Analysis' citation:10 ncitation:10 pid479667
+title1:Possibility Theory in Constraint Satisfaction Problems: Handling Priority, Preference and Uncertainty. title2:Possibility theory in constraint satisfaction problems: Handling priority, preference and uncertainty citation:282 ncitation:254 pid2219744
+title1:Expressing Preferences from Generic Rules and Examples - A Possibilistic Approach Without Aggregation Function. citation:9 ncitation:8 pid720944
+title1:Generalizing Database Relational Algebra for the Treatment of Incomplete/Uncertain Information and Vague Queries. title2:Generalizing database relational algebra for the treatment of incomplete or uncertain information and vague queries citation:499 ncitation:434 pid182124
+title1:Interval-Valued Fuzzy Galois Connections: Algebraic Requirements and Concept Lattice Construction. title2:Interval-valued fuzzy Galois connections: Algebraic requirements and concept lattice construction citation:9 ncitation:7 pid479544
+title1:Decision-theoretic foundations of qualitative possibility theory. title2:Decision-theoretic foundations of qualitative possibility theory citation:220 ncitation:192 pid1259230
+title1:A Computational Approach to Approximate and Plausible Reasoning with Applications to Expert Systems. title2:A computational approach to approximate and plausible reasoning with applications to expert systems citation:229 ncitation:205 pid1920185
+title1:Possibility-theoretic extension of derivation operators in formal concept analysis over fuzzy lattices. title2:Possibility-theoretic extension of derivation operators in formal concept analysis over fuzzy lattices citation:12 ncitation:8 pid440749
+title1:Analogy-Making for Solving IQ Tests: A Logical View. title2:Analogy-making for solving IQ tests: A logical view citation:9 ncitation:8 pid1923500
+title1:Interpolation of fuzzy data: Analytical approach and overview. title2:Interpolation of fuzzy data: Analytical approach and overview citation:15 ncitation:9 pid982416

@@ -1,0 +1,19 @@
+title1:Business Process Management. title2:Business process management: A survey citation:955 ncitation:-1 pid45176
+title1:The ProM Framework: A New Era in Process Mining Tool Support. title2:The ProM framework: A new era in process mining tool support citation:406 ncitation:390 pid1296910
+title1:Advanced Workflow Patterns. title2:Advanced workflow patterns citation:381 ncitation:363 pid1056507
+title1:Verification of Workflow Nets. title2:Verification of workflow nets citation:796 ncitation:761 pid857599
+title1:The Application of Petri Nets to Workflow Management. title2:The application of Petri nets to workflow management citation:2462 ncitation:2373 pid1297022
+title1:Business Process Management: A Survey. title2:Business process management: A survey citation:955 ncitation:808 pid663014
+title1:The P2P Approach to Interorganizational Workflows. title2:The P2P approach to interorganizational workflows citation:323 ncitation:315 pid156773
+title1:Workflow Verification: Finding Control-Flow Errors Using Petri-Net-Based Techniques. title2:Workflow verification: Finding control-flow errors using petri-net-based techniques citation:410 ncitation:384 pid523958
+title1:Workflow Data Patterns: Identification, Representation and Tool Support. title2:Workflow data patterns: Identification, representation and tool support citation:429 ncitation:408 pid1076712
+title1:Petri Nets. title2:The application of Petri nets to workflow management citation:2462 ncitation:-1 pid523587
+title1:Formal semantics and analysis of control flow in WS-BPEL. title2:Formal semantics and analysis of control flow in WS-BPEL citation:369 ncitation:355 pid1298612
+title1:Inheritance of workflows: an approach to tackling problems related to change. title2:Inheritance of workflows: an approach to tackling problems related to change citation:521 ncitation:492 pid118309
+title1:YAWL: yet another workflow language. title2:YAWL: yet another workflow language citation:1288 ncitation:1214 pid1238471
+title1:A configurable reference modelling language. title2:A configurable reference modelling language citation:394 ncitation:370 pid1565456
+title1:Case handling: a new paradigm for business process support. title2:Case handling: a new paradigm for business process support citation:451 ncitation:410 pid846382
+title1:Business process mining: An industrial application. title2:Business process mining: An industrial application citation:410 ncitation:380 pid938200
+title1:Workflow mining: A survey of issues and approaches. title2:Workflow mining: a survey of issues and approaches citation:940 ncitation:903 pid1171137
+title1:Formalization and verification of event-driven process chains. title2:Formalization and verification of event-driven process chains citation:553 ncitation:526 pid792102
+title1:Conformance checking of processes based on monitoring real behavior. title2:Conformance checking of processes based on monitoring real behavior citation:377 ncitation:329 pid855954

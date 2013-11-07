@@ -1,0 +1,303 @@
+title:A heuristic bidding strategy for multiple heterogeneous auctions. citation:-1
+title:Optimal clearing algorithms for multi-unit single-item and multi-unit combinatorial auctions with demand/supply function bidding. citation:-1
+title:Reasoning about commitments in multiple concurrent negotiations. citation:-1
+title:Knowledge-based acquisition of tradeoff preferences for negotiating agents. citation:-1
+title:Distributing Coalitional Value Calculations among Cooperative Agents. citation:-1
+title:A Multi-Dimensional Trust Model for Heterogeneous Contract Observations. citation:-1
+title:Provisioning Heterogeneous and Unreliable Providers for Service Workflows. citation:-1
+title:Coalition Structure Generation: Dynamic Programming Meets Anytime Optimization. citation:-1
+title:Bidding Strategies for Realistic Multi-Unit Sealed-Bid Auctions. citation:-1
+title:Reasoning about commitments and penalties for coordination between autonomous agents. citation:-1
+title:A Mechanism for Multiple Goods and Interdependent Valuations. citation:-1
+title:The Influence of Information on Negotiation Equilibrium. citation:-1
+title:Acquiring Tradeoff Preferences for Automated Negotiations: A Case Study. citation:-1
+title:Market-Based Recommender Systems: Learning Users' Interests by Quality Classification. citation:-1
+title:On the Identification of Agents in the Design of Production Control Systems. citation:-1
+title:Re-use of Interaction Protocols for Agent-Based Control Applications. citation:-1
+title:Is It Worth Arguing? citation:-1
+title:Argument-Based Negotiation in a Social Context. citation:-1
+title:Managing Social Influences Through Argumentation-Based Negotiation. citation:-1
+title:Negotiating Using Rewards. citation:-1
+title:Trusted kernel-based coalition formation. citation:-1
+title:Sharing information for Q-learning-based network bandwidth estimation and network failure detection. citation:-1
+title:Adaptive distributed resource allocation and diagnostics using cooperative information-sharing strategies. citation:-1
+title:Learning to select a coordination mechanism. citation:-1
+title:Revenue Maximising Agendas for Sequential English Auctions. citation:-1
+title:Sequential auctions for objects with common and private values. citation:-1
+title:An analysis of the shapley value and its uncertainty for the voting game. citation:-1
+title:Competing sellers in online markets: reserve prices, shill bidding, and auction fees. citation:-1
+title:Variable Sociability in Agent-Based Decision Making. citation:-1
+title:Argument-based negotiation in a social context. citation:-1
+title:Managing social influences through argumentation-based negotiation. citation:-1
+title:Forming efficient agent groups for completing complex tasks. citation:-1
+title:Designing and Implementing a Multi-Agent Architecture for Business Process Management. citation:-1
+title:CONOISE-G: agent-based virtual organisations. citation:-1
+title:Ensuring consistency in the joint beliefs of interacting agents. citation:-1
+title:A formal framework for agent interaction semantics. citation:-1
+title:Negotiating using rewards. citation:-1
+title:Selfish Sensors in Wireless Micro-Sensor Networks. citation:-1
+title:Computational mechanism design for multi-sensor information fusion. citation:-1
+title:Using Multi-context Systems to Engineer Executable Agents. citation:-1
+title:A Framework for Argumentation-Based Negotiation. citation:-1
+title:Recommender systems: a market-based design. citation:-1
+title:On Efficient Procedures for Multi-issue Negotiation. citation:-1
+title:Evolutionary Stability of Behavioural Types in the Continuous Double Auction. citation:-1
+title:Competing Sellers in Online Markets: Reserve Prices, Shill Bidding, and Auction Fees. citation:-1
+title:Rumours and reputation: evaluating multi-dimensional trust within a decentralised reputation system. citation:-1
+title:A randomized method for the shapley value for the voting game. citation:-1
+title:Bidding optimally in concurrent second-price auctions of perfectly substitutable goods. citation:-1
+title:Flexible service provisioning with advance agreements. citation:-1
+title:An advanced bidding agent for advertisement selection on public displays. citation:-1
+title:Provisioning heterogeneous and unreliable providers for service workflows. citation:-1
+title:Approximate and online multi-issue negotiation. citation:-1
+title:Outperforming the competition in multi-unit sealed bid auctions. citation:-1
+title:An anytime approximation method for the inverse Shapley value problem. citation:-1
+title:Sequential decision making with untrustworthy service providers. citation:-1
+title:Towards agents participating in realistic multi-unit sealed-bid auctions. citation:-1
+title:Approximating mixed Nash equilibria using smooth fictitious play in simultaneous auctions. citation:-1
+title:An improved dynamic programming algorithm for coalition structure generation. citation:-1
+title:Max-sum decentralised coordination for sensor systems. citation:-1
+title:Agent-based coordination technologies in disaster management. citation:-1
+title:Analysing Buyers' and Sellers' Strategic Interactions in Marketplaces: An Evolutionary Game Theoretic Approach. citation:-1
+title:Sequential Auctions in Uncertain Information Settings. citation:-1
+title:Generating States of Joint Commitment between Autonomous Agents. citation:-1
+title:Co-ordination in Multi-Agent Systems. citation:-1
+title:Arguing and Negotiating in the Presence of Social Influences. citation:-1
+title:Learning to Negotiate Optimally in Non-stationary Environments. citation:-1
+title:Risk-Bounded Formation of Fuzzy Coalitions Among Service Agents. citation:-1
+title:A Service-Oriented Negotiation Model between Autonomous Agents. citation:-1
+title:Cooperation in Distributed Medcal Care. citation:-1
+title:Negotiating Agents for Corporate-Wide Business Process Management (Abstract). citation:-1
+title:Sellers Competing for Buyers in Online Markets. citation:-1
+title:Optimal Bidding Strategies for Simultaneous Vickrey Auctions with Perfect Substitutes. citation:-1
+title:Optimal Financially Constrained Bidding in Multiple Simultaneous Auctions. citation:-1
+title:Sellers Competing for Buyers in Online Markets. citation:-1
+title:Market Engineering: A Research Agenda. citation:-1
+title:Concurrent bi-lateral negotiation in agent systems. citation:-1
+title:SouthamptonTAC: Designing a Successful Trading Agent. citation:-1
+title:Run-Time Selection of Coordination Mechanisms in Multi-Agent Systems. citation:-1
+title:Polynomial algorithms for clearing multi-unit single-item and multi-unit combinatorial reverse auctions. citation:-1
+title:Coalition Structure Generation in Task-Based Settings. citation:-1
+title:Belief Revision in Multi-Agent Systems. citation:-1
+title:Flexible Provisioning of Service Workflows. citation:-1
+title:A Risk-Based Bidding Strategy for Continuous Double Auctions. citation:-1
+title:Heuristic Bidding Strategies for Multiple Heterogeneous Auctions. citation:-1
+title:Coalition Structures in Weighted Voting Games. citation:-1
+title:A Truthful Two-Stage Mechanism for Eliciting Probabilistic Estimates with Unknown Costs. citation:-1
+title:IAMwildCAT: The Winning Strategy for the TAC Market Design Competition. citation:-1
+title:Learning When to Coordinate. citation:-1
+title:Dynamic Evaluation of Coordination Mechanisms for Autonomous Agents. citation:-1
+title:Distributing coalitional value calculations among cooperative agents. citation:-1
+title:Flexible Provisioning of Service Workflows. citation:-1
+title:An analysis of the Shapley Value and its Uncertainty for the Voting Game. citation:-1
+title:Evolutionary Stability of Behavioural Types in the Continuous Double Auction. citation:-1
+title:Sellers Competing for Buyers in Online Markets: Reserve Prices, Shill Bids, and Auction Fees. citation:-1
+title:Combinatorial Markets for Efficient Energy Management. citation:-1
+title:Dynamic Resource Allocation by Market-Based Routing in Telecommunications Networks. citation:-1
+title:Market-Based Call Routing in Telecommunications Networks Using Adaptive Pricing and Real Bidding. citation:-1
+title:Rights and Commitment in Multi-Agent Agreements. citation:-1
+title:Learning Users' Interests in a Market-Based Recommender System. citation:-1
+title:Agent-Oriented Software Engineering. citation:-1
+title:A Model for Multi-issue Negotiation. citation:-1
+title:Sellers Competing for Buyers in Online Markets: Reserve Prices, Shill Bids, and Auction Fees. citation:-1
+title:Generating Bayes-Nash Equilibria to Design Autonomous Trading Agents. citation:-1
+title:Communicating Effectively in Resource-Constrained Multi-Agent Systems. citation:-1
+title:Building Automated Negotiators. citation:-1
+title:A Service-Oriented Negotiation Model between Autonomous Agents. citation:-1
+title:Agent-Oriented Software Engineering. citation:-1
+title:Minimising Intrusiveness in Pervasive Computing Environments Using Multi-Agent Negotiation. citation:-1
+title:Information Agents for Pervasive Sensor Networks. citation:-1
+title:Automated Haggling: Building Artificial Negotiators. citation:-1
+title:Developing Agent Interaction Protocols Using Graphical and Logical Methodologies. citation:-1
+title:A Software Framework for Automated Negotiation. citation:-1
+title:Optimal design of English auctions with discrete bid levels. citation:-1
+title:Agreement Technologies. citation:-1
+title:Agent Specification Using Multi-context Systems. citation:-1
+title:Developing Agent Web Service Agreements. citation:-1
+title:An Adaptive Bilateral Negotiation Model for E-Commerce Settings. citation:-1
+title:Decentralised Control of Complex Systems. citation:-1
+title:An Optimal Distributed Constraint Optimisation Algorithm for Efficient Energy Management. citation:-1
+title:An Effective Strategy for the Flexible Provisioning of Service Workflows. citation:-1
+title:Building Agents that Plan and Argue in a Social Context. citation:-1
+title:Deliberative automated negotiators using fuzzy similarities. citation:-1
+title:Practical Applications of Intelligent Agents and Multiagent Technology - Introduction to the Special Issue. citation:-1
+title:STRATUM: A Methodology for Designing Heuristic Agent Negotiation Strategies. citation:-1
+title:Editorial. citation:-1
+title:An integrated trust and reputation model for open multi-agent systems. citation:-1
+title:User evaluation of a market-based recommender system. citation:-1
+title:Negociación mediante argumentación en sistemas multiagente. citation:-1
+title:Negotiating using rewards. citation:-1
+title:A spectrum of compromise aggregation operators for multi-attribute decision making. citation:-1
+title:An algorithm for distributing coalitional value calculations among cooperating agents. citation:-1
+title:Strategic bidding in continuous double auctions. citation:-1
+title:A linear approximation method for the Shapley value. citation:-1
+title:Dialogue games that agents play within a society. citation:-1
+title:Coordination through Joint Intentions in Industrial Multiagent Systems. citation:-1
+title:A Comparative Study of Game Theoretic and Evolutionary Models of Bargaining for Software Agents. citation:-1
+title:Negotiating the Semantics of Agent Communication Languages. citation:-1
+title:Hyperion - Next-Generation Battlespace Information Services. citation:-1
+title:Efficient mechanisms for the supply of services in multi-agent environments. citation:-1
+title:Using Archon, Part 2: Electricity Transportation Management. citation:-1
+title:Using Archon to Develop Real-World DAI Applications, Part 1. citation:-1
+title:Using Archon, Part 3: Particle Acceleration Control. citation:-1
+title:Agent Technologies for Sensor Networks. citation:-1
+title:Towards a social level characterisation of socially responsible agents. citation:-1
+title:Specification and Implementation of a Belief Desire-Joint_intention Architecture for Cooperative Problem Solving. citation:-1
+title:Special Issue on Tackling Complex Applications Using Multi-Agent Systems. citation:-1
+title:Acquiring user tradeoff strategies and preferences for negotiating agents: A default-then-adjust method. citation:-1
+title:A Hybrid Model for Sharing Information Between Fuzzy, Uncertain and Default Reasoning Models in Multi-agent Systems. citation:-1
+title:Research Directions for Service-Oriented Multiagent Systems. citation:-1
+title:Cooperative Information Sharing to Improve Distributed Learning in Multi-Agent Systems. citation:-1
+title:Resource allocation in communication networks using market-based agents. citation:-1
+title:Agent-based formation of virtual organisations. citation:-1
+title:On the Application and Future of Agents and Multi-agent Systems. citation:-1
+title:Editorial. citation:-1
+title:Agents That Reason and Negotiate by Arguing. citation:-1
+title:Engineering Executable Agents using Multi-context Systems. citation:-1
+title:The Cooperative Problem-solving Process. citation:-1
+title:Negotiation decision functions for autonomous agents. citation:-1
+title:Phase transitions and symmetry breaking in genetic algorithms with crossover. citation:-1
+title:Coordinating team players within a noisy Iterated Prisoner's Dilemma tournament. citation:-1
+title:Designing a successful trading agent: A fuzzy set approach. citation:-1
+title:Learning Users' Interests by Quality Classification in Market-Based Recommender Systems. citation:-1
+title:Optimal design of english auctions with discrete bid levels. citation:-1
+title:Flexible provisioning of web service workflows. citation:-1
+title:A heuristic bidding strategy for buying multiple goods in multiple english auctions. citation:-1
+title:Cooperating agents for 3-D scientific data interpretation. citation:-1
+title:Automating negotiation for M-services. citation:-1
+title:Learning when and how to coordinate. citation:-1
+title:Optimal combinatorial electricity markets. citation:-1
+title:The effects of proxy bidding and minimum bid increments within eBay auctions. citation:-1
+title:The price of democracy in coalition formation. citation:-1
+title:Reward shaping for valuing communications during multi-agent coordination. citation:-1
+title:Self-organising agent organisations. citation:-1
+title:An analysis of feasible solutions for multi-issue negotiation involving nonlinear utility functions. citation:-1
+title:Decentralised dynamic task allocation: a practical game: theoretic approach. citation:-1
+title:Pick-a-bundle: a novel bundling strategy for selling multiple items within online auctions. citation:-1
+title:On representing coalitional games with externalities. citation:-1
+title:On Similarities between Inference in Game Theory and Machine Learning. citation:-1
+title:Optimal Strategies for Simultaneous Vickrey Auctions with Perfect Substitutes. citation:-1
+title:Generalised Fictitious Play for a Continuum of Anonymous Players. citation:-1
+title:Simple Coalitional Games with Beliefs. citation:-1
+title:Flexible Procurement of Services with Uncertain Durations using Redundancy. citation:-1
+title:Coalition Structure Generation in Multi-Agent Systems with Positive and Negative Externalities. citation:-1
+title:Mechanism Design for Task Procurement with Flexible Quality of Service. citation:-1
+title:Games with Congestion-Averse Utilities. citation:-1
+title:A Market-Based Approach to Multi-factory Scheduling. citation:-1
+title:Decentralised Structural Adaptation in Agent Organisations. citation:-1
+title:On the Impact of Strategy and Utility Structures on Congestion-Averse Games. citation:-1
+title:Resource Allocation in Communication Networks Using Market-Based Agents. citation:-1
+title:Using Reinforcement Learning to Coordinate Better. citation:-1
+title:Stability of overlapping coalitions. citation:-1
+title:A Distributed Algorithm for Optimising over Pure Strategy Nash Equilibria. citation:-1
+title:Convergence to Equilibria in Plurality Voting. citation:-1
+title:Epsilon-First Policies for Budget-Limited Multi-Armed Bandits. citation:-1
+title:A Decentralised Coordination Algorithm for Mobile Sensors. citation:-1
+title:Intelligent Agents III, Agent Theories, Architectures, and Languages, ECAI '96 Workshop (ATAL), Budapest, Hungary, August 12-13, 1996, Proceedings citation:-1
+title:Intelligent Agents VI, Agent Theories, Architectures, and Languages (ATAL), 6th International Workshop, ATAL '99, Orlando, Florida, USA, July 15-17, 1999, Proceedings citation:-1
+title:Negotiation, Auctions, and Market Engineering, International Seminar, Dagstuhl Castle, Germany, November 12-17, 2006, Revised Selected Papers citation:-1
+title:A Hybrid Continuous Max-Sum Algorithm for Decentralised Coordination. citation:-1
+title:EA: The Winning Strategy for the Inaugural Lemonade Stand Game Tournament. citation:-1
+title:Computational Aspects of Extending the Shapley Value to Coalitional Games with Externalities. citation:-1
+title:Optimal Task Migration in Service-Oriented Systems: Algorithms and Mechanisms. citation:-1
+title:A Network Flow Approach to Coalitional Games. citation:-1
+title:Addressing the Exposure Problem of Bidding Agents Using Flexibly Priced Options. citation:-1
+title:An Equilibrium Analysis of Competing Double Auction Marketplaces Using Fictitious Play. citation:-1
+title:Intelligent Agents, ECAI-94 Workshop on Agent Theories, Architectures, and Languages, Amsterdam, The Netherlands, August 8-9, 1994, Proceedings citation:-1
+title:Designing Trading Agents for Real-World Auctions. citation:-1
+title:Self-organising Sensors for Wide Area Surveillance Using the Max-sum Algorithm. citation:-1
+title:A Generic Agent Organisation Framework for Autonomic Systems. citation:-1
+title:Computational Service Economies: Design and Applications. citation:-1
+title:Bidding strategies for realistic multi-unit sealed-bid auctions. citation:-1
+title:Trust-Based Mechanisms for Robust and Efficient Task Allocation in the Presence of Execution Uncertainty. citation:-1
+title:A utility-based adaptive sensing and multihop communication protocol for wireless sensor networks. citation:-1
+title:Protocol engineering for web services conversations. citation:-1
+title:A distributed algorithm for anytime coalition structure generation. citation:-1
+title:Scalable mechanism design for the procurement of services with uncertain durations. citation:-1
+title:Planning against fictitious players in repeated normal form games. citation:-1
+title:A decentralised coordination algorithm for minimising conflict and maximising coverage in sensor networks. citation:-1
+title:A game-theoretic analysis of market selection strategies for competing double auction marketplaces. citation:-1
+title:Cultivating desired behaviour: policy teaching via environment-dynamics tweaks. citation:-1
+title:Intelligent agents for the smart grid. citation:-1
+title:Trading agents for the smart electricity grid. citation:-1
+title:Flexibly priced options: a new mechanism for sequential auction markets with complementary goods. citation:-1
+title:Coalition formation with spatial and temporal constraints. citation:-1
+title:Distributed multiagent learning with a broadcast adaptive subgradient method. citation:-1
+title:A logic-based representation for coalitional games with externalities. citation:-1
+title:A hybrid controller based on the egocentric perceptual principle. citation:-1
+title:Collaborative Learning of Ontology Fragments by Co-operating Agents. citation:-1
+title:On-Line Adaptation of Exploration in the One-Armed Bandit with Covariates Problem. citation:-1
+title:Forgetting Fragments from Evolving Ontologies. citation:-1
+title:Efficient Computation of the Shapley Value for Centrality in Networks. citation:-1
+title:Mechanism design for the truthful elicitation of costly probabilistic estimates in distributed information systems. citation:-1
+title:Bounded approximate decentralised coordination via the max-sum algorithm. citation:-1
+title:Decentralized Coordination in RoboCup Rescue. citation:-1
+title:Decentralized Dynamic Task Allocation Using Overlapping Potential Games. citation:-1
+title:An Agent-Based Distributed Coordination Mechanism for Wireless Visual Sensor Nodes Using Dynamic Programming. citation:-1
+title:Social influence, negotiation and cognition. citation:-1
+title:Sequential auctions for common value objects with budget constrained bidders. citation:-1
+title:Foundations of distributed artificial intelligence. citation:-1
+title:Benchmarking hybrid algorithms for distributed constraint optimisation games. citation:-1
+title:Graph Coalition Structure Generation citation:-1
+title:Robust Execution of Service Workflows Using Redundancy and Advance Reservations. citation:-1
+title:Distributed Asymptotic Minimization of Sequences of Convex Functions by a Broadcast Adaptive Subgradient Method. citation:-1
+title:Agent-based homeostatic control for green energy in the smart grid. citation:-1
+title:Minimum Search to Establish Worst-Case Guarantees in Coalition Structure Generation. citation:-1
+title:Using Gaussian Processes to Optimise Concession in Complex Negotiations against Unknown Opponents. citation:-1
+title:An On-Line Algorithm for Semantic Forgetting. citation:-1
+title:On the Existence of Pure Strategy Nash Equilibria in Integer-Splittable Weighted Congestion Games. citation:-1
+title:Using coalitions of wind generators and electric vehicles for effective energy market participation. citation:-1
+title:Bounded decentralised coordination over multiple objectives. citation:-1
+title:Online mechanism design for electric vehicle charging. citation:-1
+title:Representation of coalitional games with algebraic decision diagrams. citation:-1
+title:Resource-aware junction trees for efficient multi-agent coordination. citation:-1
+title:Cooperatives of distributed energy resources for efficient virtual power plants. citation:-1
+title:Constrained Coalition Formation. citation:-1
+title:Decentralised Control of Micro-Storage in the Smart Grid. citation:-1
+title:A Distributed Anytime Algorithm for Dynamic Task Allocation in Multi-Agent Systems. citation:-1
+title:A unifying framework for iterative approximate best-response algorithms for distributed constraint optimization problems. citation:-1
+title:Theoretical and Practical Foundations of Large-Scale Agent-Based Micro-Storage in the Smart Grid. citation:-1
+title:Algorithms and mechanisms for procuring services with uncertain durations using redundancy. citation:-1
+title:Budget-Balanced and Nearly Efficient Randomized Mechanisms: Public Goods and beyond. citation:-1
+title:Automated Planning in Repeated Adversarial Games. citation:-1
+title:Filtered Fictitious Play for Perturbed Observation Potential Games and Decentralised POMDPs. citation:-1
+title:CollabMap: Augmenting Maps Using the Wisdom of Crowds. citation:-1
+title:Putting the 'smarts' into the smart grid: a grand challenge for artificial intelligence. citation:-1
+title:Automated Planning in Repeated Adversarial Games citation:-1
+title:Filtered Fictitious Play for Perturbed Observation Potential Games and Decentralised POMDPs citation:-1
+title:Knapsack based Optimal Policies for Budget-Limited Multi-Armed Bandits citation:-1
+title:Decentralized approaches for self-adaptation in agent organizations. citation:-1
+title:Kemnad: a Knowledge Engineering Methodology for Negotiating Agent Development. citation:-1
+title:Anytime coalition structure generation in multi-agent systems with positive or negative externalities. citation:-1
+title:Long-term information collection with energy harvesting wireless sensors: a multi-armed bandit based approach. citation:-1
+title:Matching Games with Additive Externalities citation:-1
+title:Cooperatives for Demand Side Management. citation:-1
+title:Efficient Crowdsourcing of Unknown Experts using Multi-Armed Bandits. citation:-1
+title:Sample-Based Policy Iteration for Constrained DEC-POMDPs. citation:-1
+title:Negotiating Concurrently with Unknown Opponents in omplex, Real-Time Domains. citation:-1
+title:Deploying the max-sum algorithm for decentralised coordination and task allocation of unmanned aerial vehicles for live aerial imagery collection. citation:-1
+title:A Hybrid Algorithm for Coalition Structure Generation. citation:-1
+title:Cooperative Virtual Power Plant Formation Using Scoring Rules. citation:-1
+title:Knapsack Based Optimal Policies for Budget-Limited Multi-Armed Bandits. citation:-1
+title:Optimizing Payments in Dominant-Strategy Mechanisms for Multi-Parameter Domains. citation:-1
+title:Delivering the Smart Grid: Challenges for Autonomous Agents and Multi-Agent Systems Research. citation:-1
+title:On coalition formation with sparse synergies. citation:-1
+title:Efficient opinion sharing in large decentralised teams. citation:-1
+title:Coalitional stability in structured environments. citation:-1
+title:A model-based online mechanism with pre-commitment and its application to electric vehicle charging. citation:-1
+title:Cooperative virtual power plant formation using scoring rules. citation:-1
+title:An intelligent agent for home heating management (demonstration). citation:-1
+title:Real-time information processing of environmental sensor network data using bayesian gaussian processes. citation:-1
+title:Coalition Structure Generation over Graphs. citation:-1
+title:An efficient and versatile approach to trust and reputation using hierarchical Bayesian modelling. citation:-1
+title:Redistribution of VCG Payments in Public Project Problems. citation:-1
+title:An Online Mechanism for Multi-speed Electric Vehicle Charging. citation:-1
+title:Computing pure Bayesian-Nash equilibria in games with finite actions and continuous types. citation:-1
+title:An equilibrium analysis of market selection strategies and fee strategies in competing double auction marketplaces. citation:-1
+title:Continuous Double Auctions with Execution Uncertainty. citation:-1
+title:Mechanism Design for Eliciting Probabilistic Estimates from Multiple Suppliers with Unknown Costs and Limited Precision. citation:-1
+title:Eliciting Expert Advice in Service-Oriented Computing. citation:-1
+title:Sequential Auctions with Partially Substitutable Goods. citation:-1
+title:Flexibly Priced Options: A New Mechanism for Sequential Auctions with Complementary Goods. citation:-1
+title:Argumentation-based negotiation. citation:-1
+title:Optimal payments in dominant-strategy mechanisms for single-parameter domains. citation:-1

@@ -1,0 +1,166 @@
+title:Markerless Human Motion Transfer. citation:-1
+title:Image Segmentation Using Iterated Graph Cuts Based on Multi-scale Smoothing. citation:-1
+title:Autonomous land vehicle project at CMU. citation:-1
+title:Facial Expression Analysis. citation:-1
+title:Detection, Recognition, and Expression Analysis of Human Faces. citation:-1
+title:Reconstructing Specimens using DIC Microscope Images. citation:-1
+title:Content-Based 3D Neuroradiologic Image Retrieval: Preliminary Results. citation:-1
+title:Anomaly Detection through Registration. citation:-1
+title:A Subspace Approach to Layer Extraction. citation:-1
+title:Robust Subspace Clustering by Combined Use of kNND Metric and SVD Algorithm. citation:-1
+title:Uncertainty Models in Quasiconvex Optimization for Geometric Reconstruction. citation:-1
+title:Object Detection Using 2D Spatial Ordering Constraints. citation:-1
+title:Object Detection Using 2D Spatial Ordering Constraints. citation:-1
+title:Gauge Fixing for Accurate 3D Estimation. citation:-1
+title:Neural Network-Based Face Detection. citation:-1
+title:Recognizing Upper Face Action Units for Facial Expression Analysis. citation:-1
+title:A Correlation-Based Model Prior for Stereo. citation:-1
+title:Shape and Motion Carving in 6D. citation:-1
+title:Simultaneous Registration and Modeling of Deformable Shapes. citation:-1
+title:Non-Rigid Shape and Motion Recovery: Degenerate Deformations. citation:-1
+title:Projector Calibration using Arbitrary Planes and Calibrated Camera. citation:-1
+title:Learning GMRF Structures for Spatial Priors. citation:-1
+title:Filtered Component Analysis to Increase Robustness to Local Minima in Appearance Models. citation:-1
+title:Linear motion estimation for systems of articulated planes. citation:-1
+title:Development and validation of a navigational guidance system for acetabular implant placement. citation:-1
+title:Geometric constraint analysis and synthesis: methods for improving shape-based registration accuracy. citation:-1
+title:Resolution-Aware Fitting of Active Appearance Models to Low Resolution Images. citation:-1
+title:Virtualized Reality: Being Mobile in a Visual Scene. citation:-1
+title:A Hierarchical Markov Random Field Model for Figure-Ground Segregation. citation:-1
+title:Recognizing Lower Face Action Units for Facial Expression Analysis. citation:-1
+title:A Characterization of Inherent Stereo Ambiguities. citation:-1
+title:Coplanar Shadowgrams for Acquiring Visual Hulls of Intricate Objects. citation:-1
+title:3D Voxel Construction Based on Epipolar Geometry. citation:-1
+title:A Histogram-Based Method for Detection of Faces and Cars. citation:-1
+title:Automatic Clustering of Faces in Meetings. citation:-1
+title:Eye-State Action Unit Detection by Gabor Wavelets. citation:-1
+title:Multimodal oriented discriminant analysis. citation:-1
+title:Layered Detection for Multiple Overlapping Objects. citation:-1
+title:Denighting: Enhancement of nighttime images for a surveillance camera. citation:-1
+title:People detection based on co-occurrence of appearance and spatiotemporal features. citation:-1
+title:Integrated modeling and robust control for full-envelope flight of robotic helicopters. citation:-1
+title:Uncertainty in Object Pose Determination with Three Light-Stripe Range Measurements. citation:-1
+title:Sensor Placement Desigu for Object Pose Determination with Three Light-Stripe Range Finders. citation:-1
+title:Efficient Two-phase 3D Motion Planning for Small Fixed-wing UAVs. citation:-1
+title:Online Environment Reconstruction for Biped Navigation. citation:-1
+title:Factorization-based calibration method for MEMS inertial measurement unit. citation:-1
+title:Motion estimation using multiple non-overlapping cameras for small unmanned aerial vehicles. citation:-1
+title:Picture Processing Laboratory and Its Application. citation:-1
+title:Inhouse Computer Network Kuipnet. citation:-1
+title:Design Concept of Direct-Drive Manipulators Using Rare-Earth DC Torque Motors. citation:-1
+title:Model Representations and Control Structures in Image Understanding. citation:-1
+title:Optical Navigation by the Method of Differences. citation:-1
+title:Stereo by Two-Level Dynamic Programming. citation:-1
+title:Name-It: Naming and Detecting Faces in Video by the Integration of Image and Natural Language Processing. citation:-1
+title:Computer vision tracking of stemness. citation:-1
+title:Event Archival - Digitalizing and Reproducing a Three-Dimensional Dynamic Event. citation:-1
+title:Calibration Method for Determining the Physical Location of the Ultrasound Image Plane. citation:-1
+title:Fast Streaking Artifact Reduction in CT Using Constrained Optimization in Metal Masks. citation:-1
+title:Precision Freehand Sculpting of Bone. citation:-1
+title:3-D Deformable Registration of Medical Images Using a Statistical Atlas. citation:-1
+title:Post-Operative Measurement of Acetabular Cup Position Using X-Ray/CT Registration. citation:-1
+title:Classification-Driven Pathological Neuroimage Retrieval Using Statistical Asymmetry Measures. citation:-1
+title:An MR-Compatible Optical Force Sensor for Human Function Modeling. citation:-1
+title:Sensor Guided Ablation Procedure of Left Atrial Endocardium. citation:-1
+title:"Virtual Touch": An Efficient Registration Method for Catheter Navigation in Left Atrium. citation:-1
+title:Image Thickness Correction for Navigation with 3D Intra-cardiac Ultrasound Catheter. citation:-1
+title:Quick Realization of Function for Detecting Human Activity Events by Ultrasonic 3D Tag and Stereo Visio. citation:-1
+title:3D map building for a humanoid robot by using visual odometry. citation:-1
+title:Distributed Quadtree Processing. citation:-1
+title:Maximum Entropy for Collaborative Filtering. citation:-1
+title:Robust appearance matching with filtered component analysis. citation:-1
+title:Simultaneous registration and clustering for temporal segmentation of facial gestures from video. citation:-1
+title:A Vision System that Recognizes Objects on General Streets. citation:-1
+title:Session Summary. citation:-1
+title:Locomotion among dynamic obstacles for the honda ASIMO. citation:-1
+title:Introducing Carnegie-Mellon University's Robotics Institute. citation:-1
+title:New Technologies and Applications in Robotics. citation:-1
+title:Virtualized Reality: Perspectives on 4D Digitization of Dynamic Events. citation:-1
+title:Gradient space under orthography and perspective. citation:-1
+title:Autonomous scene description with range imagery. citation:-1
+title:Immersion into Visual Media: New Applications of Image Understanding. citation:-1
+title:Toward autonomous driving: the CMU Navlab. Part II - Architecture and Systems. citation:-1
+title:Human Foot Reconstruction from Multiple Camera Images with Foot Shape Database. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:A Unified Gradient-Based Approach for Combining ASM into AAM. citation:-1
+title:Multi-View AAM Fitting and Construction. citation:-1
+title:Modeling and Representations of Large-Scale 3D Scenes. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Kalman filter-based algorithms for estimating depth from image sequences. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Pose Robust Face Tracking by Combining Active Appearance Models and Cylinder Head Models. citation:-1
+title:Ambiguities in Visual Tracking of Articulated Objects Using Two- and Three-Dimensional Models. citation:-1
+title:A perspective factorization method for Euclidean reconstruction with uncalibrated cameras. citation:-1
+title:Type classification, color estimation, and specific target detection of moving targets on public streets. citation:-1
+title:Temporal photoreception for adaptive dynamic range image sensing and encoding. citation:-1
+title:When Is the Shape of a Scene Unique Given Its Light-Field: A Fundamental Theorem of 3D Vision? citation:-1
+title:Introduction to the Special Section on Video Surveillance. citation:-1
+title:Multiple Motion Scene Reconstruction with Uncalibrated Cameras. citation:-1
+title:Introduction to the Special Issue on Physical Modeling in Computer Vision. citation:-1
+title:A Multiple-Baseline Stereo. citation:-1
+title:Neural Network-Based Face Detection. citation:-1
+title:The Asymmetry of Image Registration and Its Application to Face Tracking. citation:-1
+title:Anomaly detection through registration. citation:-1
+title:Measurement and comparison of humanoid H7 walking with human being. citation:-1
+title:Intelligent Autonomous Systems. citation:-1
+title:Mobility and manipulation of a light-weight space robot. citation:-1
+title:Area extraction of license plates using an artificial neural network. citation:-1
+title:A tracker for broken and closely spaced lines. citation:-1
+title:Multi-subregion-based probabilistic approach to pose-invariant face recognition. citation:-1
+title:Optimal approximation of uniformly rotated images: relationship between Karhunen-Loeve expansion and discrete cosine transform. citation:-1
+title:Reconstructing specimens using DIC microscope images. citation:-1
+title:Nonnegative Mixed-Norm Preconditioning for Microscopy Image Segmentation. citation:-1
+title:The Theory and Practice of Coplanar Shadowgram Imaging for Acquiring Visual Hulls of Intricate Objects. citation:-1
+title:Motion Planning Using predicted Perceptive Capability. citation:-1
+title:Face Alignment. citation:-1
+title:A robust shape model for multi-view car alignment. citation:-1
+title:Dynamic seethroughs: Synthesizing hidden views of moving objects. citation:-1
+title:Inertial-aided KLT feature tracking for a moving camera. citation:-1
+title:Flexible Edge Arrangement Templates for Object Detection. citation:-1
+title:Audio- and Video-Based Biometric Person Authentication, 5th International Conference, AVBPA 2005, Hilton Rye Town, NY, USA, July 20-22, 2005, Proceedings citation:-1
+title:Modelling and Planning for Sensor Based Intelligent Robot Systems [Dagstuhl Workshop, October 24-28, 1994] citation:-1
+title:Intelligent Autonomous Systems 2, An International Conference, Amsterdam, The Netherlands, 11-14 December 1989 citation:-1
+title:Analysis of Rain and Snow in Frequency Space. citation:-1
+title:A multi-layered display with water drops. citation:-1
+title:Spatiotemporal mitosis event detection in time-lapse phase contrast microscopy image sequences. citation:-1
+title:Understanding the Optics to Aid Microscopy Image Segmentation. citation:-1
+title:Statistical Shape Models for Object Recognition and Part Localization. citation:-1
+title:Restoring DIC Microscopy Images from Multiple Shear Directions. citation:-1
+title:Detection of hematopoietic stem cells in microscopy images using a bank of ring filters. citation:-1
+title:Cell segmentation in microscopy imagery using a bag of local Bayesian classifiers. citation:-1
+title:Reliable cell tracking by global data association. citation:-1
+title:3D measurement of feature cross-sections of foot while walking. citation:-1
+title:Trajectory Space: A Dual Representation for Nonrigid Structure from Motion. citation:-1
+title:Automated Mitosis Detection of Stem Cell Populations in Phase-Contrast Microscopy Images. citation:-1
+title:Layered Detection for Multiple Overlapping Objects. citation:-1
+title:Cell image analysis: Algorithms, system and applications. citation:-1
+title:Analysis of task feasibility for a home robot using prismatic joints. citation:-1
+title:Efficient pulling motion of a two-link robot arm near singular configuration. citation:-1
+title:Singularity-based mechanism with high responsiveness. citation:-1
+title:Estimating Spatial Layout of Rooms using Volumetric Reasoning about Objects and Surfaces. citation:-1
+title:Distributed cosegmentation via submodular optimization on anisotropic diffusion. citation:-1
+title:Discovering object instances from scenes of Daily Living. citation:-1
+title:Applying Sensor Models To Automatic Generation Of Object Recognition Programs. citation:-1
+title:Color Image Analysis With An Intrinsic Reflection Model. citation:-1
+title:Reference consistent reconstruction of 3D cloth surface. citation:-1
+title:Facial Expression Recognition. citation:-1
+title:Automatic acquisition of a 3D eye model for a wearable first-person vision device. citation:-1
+title:Online dense local 3D world reconstruction from stereo image sequences. citation:-1
+title:Design of an MR-compatible three-axis force sensor. citation:-1
+title:Visual topometric localization. citation:-1
+title:First-Person Vision. citation:-1
+title:Quality of Life Technology. citation:-1
+title:Maximum Entropy for Collaborative Filtering citation:-1
+title:Connecting Missing Links: Object Discovery from Sparse Observations Using 5 Million Product Images. citation:-1
+title:Apoptosis Detection for Adherent Cell Populations in Time-Lapse Phase-Contrast Microscopy Images. citation:-1
+title:Mitosis detection of hematopoietic stem cell populations in time-lapse phase-contrast microscopy images. citation:-1
+title:6D pose estimation of textureless shiny objects using random ferns for bin-picking. citation:-1
+title:A Production System for Region Analysis. citation:-1
+title:A Theory of the Origami World. citation:-1
+title:An autonomous blimp for a surveillance system. citation:-1
+title:People detection and tracking in high resolution panoramic video mosaic. citation:-1

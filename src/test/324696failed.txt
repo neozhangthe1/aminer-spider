@@ -1,0 +1,337 @@
+title:Integrating Faces and Fingerprints for Personal Identification. citation:-1
+title:Integration of Multiple Feature Groups and Multiple Views into a 3D Object Recognition System. citation:-1
+title:Statistical Models for Assessing the Individuality of Fingerprints. citation:-1
+title:Resampling for Face Recognition. citation:-1
+title:Fingerprint Quality Indices for Predicting Authentication Performance. citation:-1
+title:Identity Authentication Using Fingerprints. citation:-1
+title:Dental Biometrics: Human Identification Using Dental Radiographs. citation:-1
+title:Twin Test: On Discriminability of Fingerprints. citation:-1
+title:Recent Advances in Fingerprint Verification. citation:-1
+title:Biometric Template Selection: A Case Study in Fingerprints. citation:-1
+title:A Principled Approach to Score Level Fusion in Multimodal Biometric Systems. citation:-1
+title:Synthetic Eyes. citation:-1
+title:Information Fusion in Biometrics. citation:-1
+title:Combining Face and Iris Biometrics for Identity Verification. citation:-1
+title:FPGA-Based Coprocessor for Text String Extraction. citation:-1
+title:Learning-based pulmonary nodule detection from multislice CT data. citation:-1
+title:3D Face Reconstruction from Stereo Video. citation:-1
+title:3D Model-Assisted Face Recognition in Video. citation:-1
+title:Robust Data Clustering. citation:-1
+title:Learning 2D Shape Models. citation:-1
+title:Bayesian Learning of Sparse Classifiers. citation:-1
+title:Occupant Classification System for Automotive Airbag Suppression. citation:-1
+title:Learning Similarity Measure for Natural Image Retrieval with Relevance Feedback. citation:-1
+title:Adaptive B-Splines and Boundary Estimation. citation:-1
+title:FingerCode: A Filterbank for Fingerprint Representation and Matching. citation:-1
+title:/spl lambda//spl tau/-space representation of images and generalized edge detector. citation:-1
+title:Multiobjective Data Clustering. citation:-1
+title:Deformation Modeling for Robust 3D Face Matching. citation:-1
+title:Automatic Aircraft Recognition: Toward Using Human Similarity Measure in a Recognition System. citation:-1
+title:Learning with Constrained and Unlabelled Data. citation:-1
+title:Face Recognition in Video: Adaptive Fusion of Multiple Matchers. citation:-1
+title:Rank-based distance metric learning: An application to image retrieval. citation:-1
+title:Model-Guided Segmentation of Corpus Callosum in MR Images. citation:-1
+title:Automated dental identification system (ADIS). citation:-1
+title:Automated Dental Identification System (ADIS). citation:-1
+title:Automated dental identification system (ADIS). citation:-1
+title:Automated dental identification system (ADIS). citation:-1
+title:Integrating Faces, Fingerprints, and Soft Biometric Traits for User Recognition. citation:-1
+title:Automated Dental Identification System (ADIS). citation:-1
+title:A Web Based Tool for an Automated Dental Identification System (ADIS). citation:-1
+title:On Fitting Mixture Models. citation:-1
+title:Adaptive Parametrically Deformable Contours. citation:-1
+title:Fingerprint Matching Using Feature Space Correlation. citation:-1
+title:Biometric Sensor Interoperability: A Case Study in Fingerprints. citation:-1
+title:Face recognition with temporal invariance: A 3D aging model. citation:-1
+title:Automatic Feature Extraction for Multiview 3D Face Recognition. citation:-1
+title:Convolution on Splash 2. citation:-1
+title:Object Localization Using Color, Texture and Shape. citation:-1
+title:Face Verification Based on Bagging RBF Networks. citation:-1
+title:Learning-Based Detection, Segmentation, and Matching of Objects. citation:-1
+title:A Feature Selection Wrapper for Mixtures. citation:-1
+title:FPGA-based high performance page layout segmentation. citation:-1
+title:Multimodal Facial Gender and Ethnicity Identification. citation:-1
+title:3D Model-Based Face Recognition in Video. citation:-1
+title:Incorporating Image Quality in Multi-algorithm Fingerprint Verification. citation:-1
+title:Localized Iris Image Quality Using 2-D Wavelets. citation:-1
+title:FVC2004: Third Fingerprint Verification Competition. citation:-1
+title:Estimating Fingerprint Deformation. citation:-1
+title:Skilled Forgery Detection in On-Line Signatures: A Multimodal Approach. citation:-1
+title:Hardening Fingerprint Fuzzy Vault Using Password. citation:-1
+title:Towards an Automated Dental Identification System (ADIS). citation:-1
+title:Soft Biometric Traits for Personal Recognition Systems. citation:-1
+title:Matching 2.5D Scans for Face Recognition. citation:-1
+title:Object Tracking Using Deformable Templates. citation:-1
+title:Writer Adaptation of Online Handwriting Models. citation:-1
+title:Indexing and Retrieval of On-line Handwritten Documents. citation:-1
+title:Structure in On-line Documents. citation:-1
+title:Markov Face Models. citation:-1
+title:COSMOS-A Representation Scheme for Free-Form Surfaces. citation:-1
+title:Learning-based Object Detection in Cardiac MR Images. citation:-1
+title:Analysis of Consensus Partition in Cluster Ensemble. citation:-1
+title:Texture Analysis: Representation and Matching. citation:-1
+title:Data capture from maps based on gray scale topographic analysis. citation:-1
+title:Page Segmentation Using Document Model. citation:-1
+title:Combining Multiple Weak Clusterings. citation:-1
+title:Local Weight Selection for Two-Dimensional Phase Unwrapping. citation:-1
+title:Deformable Matching of Hand Shapes for User Verification. citation:-1
+title:Face modeling for recognition. citation:-1
+title:Fusing Color and Edge Information for Object Matching. citation:-1
+title:Image Compression Based on Centipede Model. citation:-1
+title:Robust motion-based image segmentation using fusion. citation:-1
+title:Integrated segmentation and classification for automotive airbag suppression. citation:-1
+title:Automatic Image Orientation Detection. citation:-1
+title:Lane Boundary Detection Using a Multiresolution Hough Transform. citation:-1
+title:Detecting straight edges in millimeter-wave images. citation:-1
+title:Incremental Learning for Bayesian Classification of Images. citation:-1
+title:A Case Study in Using Human Similarity Measure for Automated Object Recognition. citation:-1
+title:Multi-resolution Image Representation using Markov Random Fields. citation:-1
+title:Learning user-specific parameters in a multibiometric system. citation:-1
+title:Fingerprint matching using minutiae and texture features. citation:-1
+title:Unsupervised Selection and Estimation of Finite Mixture Models. citation:-1
+title:Large Scale Feature Selection Using Modified Random Mutation Hill Climbing. citation:-1
+title:Recognition of Unconstrained On-Line Devanagari Characters. citation:-1
+title:Face Detection and Synthesis Using Markov Random Field Models. citation:-1
+title:Multimodal user interfaces: who's the user? citation:-1
+title:Tooth Contour Extraction for Matching Dental Radiographs. citation:-1
+title:Content-Based Hierarchical Classification of Vacation Images. citation:-1
+title:Hiding a Face in a Fingerprint Image. citation:-1
+title:Landscape of Clustering Algorithms. citation:-1
+title:Biometrics: A Grand Challenge. citation:-1
+title:Bayesian Feedback in Data Clustering. citation:-1
+title:Learning Pairwise Similarity for Data Clustering. citation:-1
+title:A Wrapper-Based Approach to Image Segmentation and Classification. citation:-1
+title:Interacting Multiple Model (IMM) Kalman Filters for Robust High Speed Human Motion Tracking. citation:-1
+title:Quality-based Score Level Fusion in Multibiometric Systems. citation:-1
+title:Retrieval of On-line Hand-Drawn Sketches. citation:-1
+title:On-Line Script Recognition. citation:-1
+title:Three-Dimensional Model Based Face Recognition. citation:-1
+title:Hierarchical Kernel Fitting for Fingerprint Classification and Alignment. citation:-1
+title:Pores and Ridges: Fingerprint Matching Using Level 3 Features. citation:-1
+title:Filtering large fingerprint database for latent matching. citation:-1
+title:Active query selection for semi-supervised clustering. citation:-1
+title:Cluster validation using a probabilistic attributed graph. citation:-1
+title:Robust Segmentation of Unconstrained Online Handwritten Documents. citation:-1
+title:Learning Shape Models from Examples Using Automatic Shape Clustering and Procrustes Analysis. citation:-1
+title:Minutia Verification and Classification for Fingerprint Matching. citation:-1
+title:ViSE: Visual Search Engine Using Multiple Networked Cameras. citation:-1
+title:A Hybrid Fingerprint Matcher. citation:-1
+title:Reject Option for VQ-Based Bayesian Classification. citation:-1
+title:Adaptive Clustering Ensembles. citation:-1
+title:Securing fingerprint template: Fuzzy vault with minutiae descriptors. citation:-1
+title:Compound Stochastic Models For Fingerprint Individuality. citation:-1
+title:Performance Evaluation of Large-Scale Parallel Clustering in NOW Environments. citation:-1
+title:Model-based Clustering With Probabilistic Constraints. citation:-1
+title:Nonlinear Manifold Learning for Data Stream. citation:-1
+title:A Mixture Model for Clustering Ensembles. citation:-1
+title:Biometrics: When Identity Matters. citation:-1
+title:Fusion of Local and Regional Approaches for On-Line Signature Verification. citation:-1
+title:BoostCluster: boosting clustering by pairwise constraints. citation:-1
+title:Feature Selection in Mixture-Based Clustering. citation:-1
+title:Tattoo-ID: Automatic Tattoo Image Retrieval for Suspect and Victim Identification. citation:-1
+title:Semi-Supervised Boosting for Multi-Class Classification. citation:-1
+title:Clustering Methodologies in Exploratory Data Analysis. citation:-1
+title:Automatic Classification of Fingerprint Images. citation:-1
+title:Text location in color documents. citation:-1
+title:Dental Biometrics: Alignment and Matching of Dental Radiographs. citation:-1
+title:Multimedia document authentication using on-line signatures as watermarks. citation:-1
+title:Clustering with Soft and Group Constraints. citation:-1
+title:Evidence Accumulation Clustering Based on the K-Means Algorithm. citation:-1
+title:Fingerprint Deformation Models Using Minutiae Locations and Orientations. citation:-1
+title:Integrating Range and Texture Information for 3D Face Recognition. citation:-1
+title:Deformation Analysis for 3D Face Matching. citation:-1
+title:Attacks on biometric systems: a case study in fingerprints. citation:-1
+title:Query by Video Clip. citation:-1
+title:Panel report: the potential of geons for generic 3-D object recognition. citation:-1
+title:Recognizing geons from superquadrics fitted to range data. citation:-1
+title:Performance evaluation of shape matching via chord length distribution. citation:-1
+title:Biometrics: The Future of Identification - Guest Editors' Introduction. citation:-1
+title:Integration of Multiple Feature Groups and Multiple Views into a 3D Object Recognition System. citation:-1
+title:BONSAI: 3D Object Recognition Using Constrained Search. citation:-1
+title:Integrating Faces and Fingerprints for Personal Identification. citation:-1
+title:lamda-tau-Space Representation of Images and Generalized Edge Detector. citation:-1
+title:Automatic Construction of 2D Shape Models. citation:-1
+title:Vehicle Segmentation and Classification Using Deformable Templates. citation:-1
+title:CAD-Based Computer Vision: From CAD Models to Relational Graphs. citation:-1
+title:Shape Spectrum Based View Grouping and Matching of 3D Free-Form Objects. citation:-1
+title:Registration and Integration of Multiple Object Views for 3D Model Construction. citation:-1
+title:Optimal Registration of Object Views Using Range Data. citation:-1
+title:Dental Biometrics: Alignment and Matching of Dental Radiographs. citation:-1
+title:Performance Evaluation of Fingerprint Verification Systems. citation:-1
+title:Writer Adaptation for Online Handwriting Recognition. citation:-1
+title:Evidence-Based Recognition of 3-D Objects. citation:-1
+title:On-Line Fingerprint Verification. citation:-1
+title:Learning Texture Discrimination Masks. citation:-1
+title:Fingerprint Image Enhancement: Algorithm and Performance Evaluation. citation:-1
+title:Generating Discriminating Cartoon Faces Using Interacting Snakes. citation:-1
+title:Integrating Vision Modules: Stereo, Shading, Grouping, and Line Labeling. citation:-1
+title:Online Handwritten Script Recognition. citation:-1
+title:Matching 2.5D Face Scans to 3D Models. citation:-1
+title:Incremental Nonlinear Dimensionality Reduction by Manifold Learning. citation:-1
+title:Obituary: Pierre Devijver. citation:-1
+title:Aircraft Detection: A Case Study in Using Human Similarity Measure. citation:-1
+title:Large-Scale Parallel Data Clustering. citation:-1
+title:Feature Selection: Evaluation, Application, and Small Sample Performance. citation:-1
+title:Representation and Recognition of Handwritten Digits Using Deformable Templates. citation:-1
+title:Document Representation and Its Application to Page Decomposition. citation:-1
+title:Hiding Biometric Data. citation:-1
+title:Pores and Ridges: High-Resolution Fingerprint Matching Using Level 3 Features. citation:-1
+title:Validating a Biometric Authentication System: Sample Size Requirements. citation:-1
+title:Object Tracking Using Deformable Templates. citation:-1
+title:A Generic System for Form Dropout. citation:-1
+title:Recognition of Digits in Hydrographic Maps: Binary Versus Topographic Analysis. citation:-1
+title:Segmentation of Document Images. citation:-1
+title:Large-Scale Evaluation of Multimodal Biometric Authentication Using State-of-the-Art Systems. citation:-1
+title:Fingerprint Warping Using Ridge Curve Correspondences. citation:-1
+title:Practicing vision: Integration, evaluation and applications. citation:-1
+title:Object detection using gabor filters. citation:-1
+title:On the similarity of identical twin fingerprints. citation:-1
+title:Score normalization in multimodal biometric systems. citation:-1
+title:Page segmentation using tecture analysis. citation:-1
+title:Is there any texture in the image? citation:-1
+title:Fingerprint classification. citation:-1
+title:Comments on an ensemble average classifier for pattern recognition machines. citation:-1
+title:From Template to Image: Reconstructing Fingerprints from Minutiae Points. citation:-1
+title:Likelihood Ratio-Based Biometric Score Fusion. citation:-1
+title:Validity studies in clustering methodologies. citation:-1
+title:Template-based online character recognition. citation:-1
+title:Pattern recognition in information systems. citation:-1
+title:Segmentation of X-ray and C-scan images of fiber reinforced composite materials. citation:-1
+title:Address block location on envelopes using Gabor filters. citation:-1
+title:Matching of dental X-ray images for human identification. citation:-1
+title:Object localization using color, texture and shape. citation:-1
+title:A robust and fast skew detection algorithm for generic documents. citation:-1
+title:Combining multiple matchers for a high security fingerprint verification system. citation:-1
+title:Range-intensity histogram for segmenting LADAR images. citation:-1
+title:Personal authentication using hand images. citation:-1
+title:Information fusion in biometrics. citation:-1
+title:Biometrics for Human Identification. citation:-1
+title:Unsupervised contour representation and estimation using B-splines and a minimum description length criterion. citation:-1
+title:A system for 3D CAD-based inspection using range images. citation:-1
+title:Learning fingerprint minutiae location and type. citation:-1
+title:A deformable model for fingerprint matching. citation:-1
+title:A hybrid fingerprint matcher. citation:-1
+title:Single-link characteristics of a mode-seeking clustering algorithm. citation:-1
+title:Biometric template selection and update: a case study in fingerprints. citation:-1
+title:On image classification: city images vs. landscapes. citation:-1
+title:Soft Biometrics. citation:-1
+title:Dental Biometrics. citation:-1
+title:SemiBoost: Boosting for Semi-Supervised Learning. citation:-1
+title:A co-classification framework for detecting web spam and spammers in social media web sites. citation:-1
+title:Fingerprint-Based Fuzzy Vault: Implementation and Performance. citation:-1
+title:Statistical Models for Assessing the Individuality of Fingerprints. citation:-1
+title:Automatic image orientation detection. citation:-1
+title:Computer Vision Algorithms on Reconfigurable Logic Arrays. citation:-1
+title:Two-dimensional phase unwrapping using a block least-squares method. citation:-1
+title:Deformation Modeling for Robust 3D Face Matching. citation:-1
+title:Latent Palmprint Matching. citation:-1
+title:Beyond Minutiae: A Fingerprint Individuality Model with Pattern, Ridge and Pore Features. citation:-1
+title:Latent Fingerprint Matching: Fusion of Rolled and Plain Fingerprints. citation:-1
+title:FM Model Based Fingerprint Reconstruction from Minutiae Template. citation:-1
+title:Biometrics. citation:-1
+title:A wrapper-based approach to image segmentation and classification. citation:-1
+title:Audio- and Video-Based Biometric Person Authentication, 5th International Conference, AVBPA 2005, Hilton Rye Town, NY, USA, July 20-22, 2005, Proceedings citation:-1
+title:Biometric Authentication, ECCV 2004 International Workshop, BioAW 2004, Prague, Czech Republic, May 15, 2004, Proceedings citation:-1
+title:Facial marks: Soft biometric for face recognition. citation:-1
+title:Content-based image retrieval: An application to tattoo images. citation:-1
+title:Learning from Noisy Side Information by Generalized Maximum Entropy Model. citation:-1
+title:Unsupervised transfer classification: application to text categorization. citation:-1
+title:Pattern Recognition in Information Systems, Proceedings of the 1st International Workshop on Pattern Recognition in Information Systems, PRIS 2001, In conjunction with ICEIS 2001, Setúbal, Portugal, July 6-7, 2001 citation:-1
+title:Pattern Recognition in Information Systems, Proceedings of the 7th International Workshop on Pattern Recognition in Information Systems, PRIS 2007, In conjunction with ICEIS 2007, Funchal, Madeira, Portugal, June 2007 citation:-1
+title:Detecting sky and vegetation in outdoor images. citation:-1
+title:Non-parametric Mixture Models for Clustering. citation:-1
+title:Biometric template transformation: a security analysis. citation:-1
+title:Fingerprint Matching. citation:-1
+title:Age-Invariant Face Recognition. citation:-1
+title:A hybrid biometric cryptosystem for securing fingerprint minutiae templates. citation:-1
+title:Toward an automated dental identification system. citation:-1
+title:Online visual vocabulary pruning using pairwise constraints. citation:-1
+title:Unsupervised Ensemble Ranking: Application to Large-Scale Image Retrieval. citation:-1
+title:Detecting Altered Fingerprints. citation:-1
+title:Clustering Face Carvings: Exploring the Devatas of Angkor Wat. citation:-1
+title:PILL-ID: Matching and Retrieval of Drug Pill Imprint Images. citation:-1
+title:On the Scalability of Evidence Accumulation Clustering. citation:-1
+title:Face matching and retrieval using soft biometrics. citation:-1
+title:Efficient multi-label ranking for multi-class learning: Application to object recognition. citation:-1
+title:Soft Biometric Traits for Continuous User Authentication. citation:-1
+title:Face recognition: Some challenges in forensics. citation:-1
+title:Matching Forensic Sketches and Mug Shots to Apprehend Criminals. citation:-1
+title:Report on Range Image Understanding Workshop, East Lansing, Michigan, March 21-23, 1988. citation:-1
+title:Sparse Decompositions for Exploratory Pattern Analysis. citation:-1
+title:Bootstrap Techniques for Error Estimation. citation:-1
+title:A VLSI Systolic Architecture for Pattern Clustering. citation:-1
+title:Fingerprint Reconstruction: From Minutiae to Phase. citation:-1
+title:Latent Fingerprint Matching. citation:-1
+title:Matching Forensic Sketches to Mug Shot Photos. citation:-1
+title:Testing for Uniformity in Multidimensional Data. citation:-1
+title:Periocular Biometrics in the Visible Spectrum. citation:-1
+title:Restoring Degraded Face Images: A Case Study in Matching Faxed, Printed, and Scanned Photos. citation:-1
+title:Separating Overlapped Fingerprints. citation:-1
+title:A Discriminative Model for Age Invariant Face Recognition. citation:-1
+title:Erratum to "Soft Biometric Traits for Continuous User Authentication". citation:-1
+title:A Network of Dynamic Probabilistic Models for Human Interaction Analysis. citation:-1
+title:A kernel density based approach for large scale image retrieval. citation:-1
+title:Latent Fingerprint Matching: Fusion of Manually Marked and Derived Minutiae. citation:-1
+title:Speedup of fuzzy and possibilistic kernel c-means for large-scale clustering. citation:-1
+title:Multi-label learning with incomplete class assignments. citation:-1
+title:Multi-label Multiple Kernel Learning by Stochastic Approximation: Application to Visual Object Recognition. citation:-1
+title:Multibiometric Cryptosystems Based on Feature-Level Fusion. citation:-1
+title:Altered Fingerprints: Analysis and Detection. citation:-1
+title:Deformable template models: A review. citation:-1
+title:Automatic Detection of Altered Fingerprints. citation:-1
+title:A framework for joint community detection across multiple related networks. citation:-1
+title:Face Matching and Retrieval in Forensics Applications. citation:-1
+title:Image Retrieval in Forensics: Tattoo Image Database Application. citation:-1
+title:LinkBoost: A Novel Cost-Sensitive Boosting Framework for Community-Level Network Link Prediction. citation:-1
+title:BONSAI: 3D object recognition using constrained search. citation:-1
+title:A VLSI processor for parallel contour tracing. citation:-1
+title:Approximate kernel k-means: solution to large scale kernel clustering. citation:-1
+title:Model Based Separation of Overlapping Latent Fingerprints. citation:-1
+title:Learning similarity measure for natural image retrieval with relevance feedback. citation:-1
+title:Tattoo Image Matching and Retrieval. citation:-1
+title:Human recognition using biometrics: an overview. citation:-1
+title:Large-scale near-duplicate image retrieval by kernel density estimation. citation:-1
+title:Special Issue on Awards from ICPR 2010. citation:-1
+title:Pill-ID: Matching and retrieval of drug pill images. citation:-1
+title:Prostate cancer grading: Gland segmentation and structural features. citation:-1
+title:Face Aging Modeling. citation:-1
+title:Fingerprint mosaicking. citation:-1
+title:Semantic face matching. citation:-1
+title:Multimedia content protection via biometrics-based encryption. citation:-1
+title:Combining classifiers for face recognition. citation:-1
+title:SPG-GMKL: Generalized Multiple Kernel Learning with a Million Kernels citation:-1
+title:Comments on "A self-organizing network for hyperellipsoidal clustering (HEC)" [and reply]. citation:-1
+title:A self-organizing network for hyperellipsoidal clustering (HEC). citation:-1
+title:A nonlinear projection method based on Kohonen's topology preserving maps. citation:-1
+title:Authors' Reply. citation:-1
+title:Guest Editorial Special Issue on Artificial Neural Networks and Statistical Pattern Recognition. citation:-1
+title:Simultaneous classification and community detection on heterogeneous network data. citation:-1
+title:Keystroke dynamics for user authentication. citation:-1
+title:5th IAPR International Conference on Biometrics, ICB 2012, New Delhi, India, March 29 - April 1, 2012 citation:-1
+title:Towards automated caricature recognition. citation:-1
+title:On matching altered fingerprints. citation:-1
+title:Structure and Context in Prostatic Gland Segmentation and Classification. citation:-1
+title:Face Recognition Performance: Role of Demographic Information. citation:-1
+title:Evidential Value of Automated Latent Fingerprint Comparison: An Empirical Approach. citation:-1
+title:Biometric Authentication: System Security and User Privacy. citation:-1
+title:Patient characteristics associated with venous thromboembolic events: a cohort study using pooled electronic health record data. citation:-1
+title:Latent fingerprint enhancement via robust orientation field estimation. citation:-1
+title:Latent fingerprint matching using descriptor-based hough transform. citation:-1
+title:Biometric recognition of newborns: Identification using palmprints. citation:-1
+title:On the evidential value of fingerprints. citation:-1
+title:NFRAD: Near-Infrared Face Recognition at a Distance. citation:-1
+title:Analysis of facial features in identical twins. citation:-1
+title:3D to 2D fingerprints: Unrolling and distortion correction. citation:-1
+title:Face recognition across time lapse: On learning feature subspaces. citation:-1
+title:Component-Based Representation in Automated Face Recognition. citation:-1
+title:Latent Fingerprint Matching Using Descriptor-Based Hough Transform. citation:-1
+title:Matching Composite Sketches to Face Photos: A Component-Based Approach. citation:-1
+title:Efficient Kernel Clustering Using Random Fourier Features. citation:-1
+title:Robust Ensemble Clustering by Matrix Completion. citation:-1
+title:Face Recognition in the Virtual World: Recognizing Avatar Faces. citation:-1
+title:Orientation Field Estimation for Latent Fingerprint Enhancement. citation:-1
+title:Tag Completion for Image Retrieval. citation:-1
+title:Page segmentation using texture discrimination masks. citation:-1
+title:Shape spectra based view grouping for free-form objects. citation:-1
+title:Compression of fingerprint images using hybrid image model. citation:-1
+title:Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning. citation:-1

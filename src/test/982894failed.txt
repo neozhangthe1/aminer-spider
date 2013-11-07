@@ -1,0 +1,412 @@
+title:A robust technique for latent fingerprint image segmentation and enhancement. citation:-1
+title:Video Streaming over 3G Networks with GOP-Based Priority Scheduling. citation:-1
+title:Performance of linear reduced-rank multistage receivers for DS-CDMA in frequency-selective fading channels. citation:-1
+title:Quality-of-service mapping mechanism for packet video in differentiated services network. citation:-1
+title:Rate Control for H.264 Video With Enhanced Rate and Distortion Models. citation:-1
+title:Real-time H.263+ frame rate control for low bit rate VBR video. citation:-1
+title:Multicast video synchronization via MPEG-4 FGS/XML representation. citation:-1
+title:Joint temporal-spatial bit allocation for video coding with dependency. citation:-1
+title:Decoder-Friendly Adaptive Deblocking Filter (DF-ADF) Mode Decision in H.264/AVC. citation:-1
+title:A region-based H.263+ codec and its rate control for low VBR video. citation:-1
+title:R-D Optimized Frame-Layer Bit Allocation for H.264. citation:-1
+title:Reduced-rank multistage receivers for DS-CDMA in frequency-selective fading channels. citation:-1
+title:Low-overhead error-resilient bit-plane image coding. citation:-1
+title:A fluid model for error propagation characterization in video coding. citation:-1
+title:Progressive geometry encoder using octree-based space partitioning. citation:-1
+title:Robust video segmentation employing variable bandwidth object boundary. citation:-1
+title:Progressive lossless 3D mesh encoder with octree-based space partitioning. citation:-1
+title:Fast inter-prediction mode decision and motion search for H.264. citation:-1
+title:Generalized surface flows for mesh processing. citation:-1
+title:Cross-layer QoS Analysis of Opportunistic OFDM-TDMA and OFDMA Networks. citation:-1
+title:Codeword Length Optimization for CPPUWB Systems. citation:-1
+title:An Improved Technique for Blind Audio Source Separation. citation:-1
+title:Cumulus Cloud Synthesis with Similarity Solution and Particle/Voxel Modeling. citation:-1
+title:Iterative Equalization and Decoding for Unsynchronized OFDMA Uplink Transmissions. citation:-1
+title:Fast linearized energy allocation for multimedia loading on multicarrier systems. citation:-1
+title:Packet video transmission over wireless channels with adaptive channel rate allocation. citation:-1
+title:A Semantic Classification and Composite Indexing Approach to Robust Image Retrieval. citation:-1
+title:Analysis of asynchronous long-code multicarrier CDMA systems with correlated fading. citation:-1
+title:Performance analysis of multicarrier CDMA systems with frequency offsets and random spreading under optimum combining. citation:-1
+title:Dynamic Quality of Service Mapping Framework for Relative Service Differentiation-Aware Media Streaming. citation:-1
+title:Feature-Based Intra-/InterCoding Mode Selection for H.264/AVC. citation:-1
+title:Constant quality rate control for streaming MPEG-4 FGS video. citation:-1
+title:GA-Based Internet Traffic Classification Technique for QoS Provisioning. citation:-1
+title:Scheduling design for distributed video-on-demand servers. citation:-1
+title:Video-on-demand server system design with random early migration. citation:-1
+title:Fast predictive integer- and half-pel motion search for interlaced video coding. citation:-1
+title:An Interactive Object Segmentation System for Mpeg Video. citation:-1
+title:Video server scheduling using random early request migration. citation:-1
+title:Automatic Real-Time Moving Target Detection from Infrared Video. citation:-1
+title:Anonymous Peer-to-peer Communication Protocol over Mobile Ad-hoc Networks. citation:-1
+title:Motion-compensated frame interpolation scheme for H.263 codec. citation:-1
+title:Design of Collusion-Free Codes Based on MAI-Free Principle. citation:-1
+title:Robust Coding of 3D Graphic Models Using Mesh Segmentation and Data Partitioning. citation:-1
+title:Optimal Codeword Design for Precoded UWB (PUWB) Systems. citation:-1
+title:Bit Allocation for Video Coding with Temporal-Spatial Tradeoff. citation:-1
+title:A Novel Two-Stage Rate Control Scheme for H.264. citation:-1
+title:Object-oriented harmonization of multimedia XML applications. citation:-1
+title:Robust encoding of 3D mesh using data partitioning. citation:-1
+title:An efficient anonymous communication protocol for peer-to-peer applications over mobile ad-hoc networks. citation:-1
+title:An Approximately MAI-Free Multiaccess OFDM System in Fast Time-Varying Channels. citation:-1
+title:Motion Compensated Video Compression and Dense Motion Field Coding. citation:-1
+title:Joint temporal-spatial rate control with approximating rate-distortion models. citation:-1
+title:Robust traffic event extraction via content understanding for highway surveillance system. citation:-1
+title:Beyond Self-Similarity for Landscale Modeling. citation:-1
+title:A Graph Approach to Dynamic Fractional Frequency Reuse (FFR) in Multi-Cell OFDMA Networks. citation:-1
+title:Decoder-Friendly Subpel MV Selection for H.264/AVC Video Encoding. citation:-1
+title:TCP-friendly Internet video with smooth and fast rate adaptation and network-aware error control. citation:-1
+title:Robust MMSE video decoding: theory and practical implementations. citation:-1
+title:TCP-friendly Internet video streaming employing variable frame-rate encoding and interpolation. citation:-1
+title:Learning image similarities and categories from content analysis and relevance feedback. citation:-1
+title:Fast H.264/AVC Inter-Mode Decision with RDC Optimization. citation:-1
+title:Design of integrated multimedia compression and encryption systems. citation:-1
+title:Generalized Surface Flows for Deformable Registration and Cortical Matching. citation:-1
+title:Texture analysis and classification with tree-structured wavelet transform. citation:-1
+title:Multimedia data encryption via random rotation in partitioned bit streams. citation:-1
+title:Improved Linear Prediction Technique for Musical Onset Detection. citation:-1
+title:Recursive patching for video-on-demand (VOD) systems with limited client buffer constraint. citation:-1
+title:Robust Streaming of Offline Coded H.264/AVC Video Via Alternative Macroblock Coding. citation:-1
+title:Design and performance evaluation of TCP-friendly thin-layered video multicast scheme. citation:-1
+title:Complexity modeling of spatial and temporal compensations in H.264/AVC decoding. citation:-1
+title:Efficient and Realistic Cumulus Cloud Simulation Based on Similarity Approach. citation:-1
+title:Fast motion search with efficient inter-prediction mode decision for H.264. citation:-1
+title:Robust and Flexible Wireless Video Multicast with Network Coding. citation:-1
+title:Recovery of Multiband Signals Using Finite Samples. citation:-1
+title:Low-variance TCP-friendly throughput estimation for congestion control of layered video multicast. citation:-1
+title:Design of optimal FIR prefilters for wavelet coefficient computation. citation:-1
+title:Signal extrapolation based on wavelet transform. citation:-1
+title:Orthogonal Codes for MAI-Free MC-CDMA with Carrier Frequency Offsets (CFO). citation:-1
+title:Performance Comparison of Unstructured Content Discovery Techniques over Ad Hoc Networks. citation:-1
+title:MPEG video markup language and its applications to robust video transmission. citation:-1
+title:Design issues on request migration for video-on-demand services. citation:-1
+title:Enhanced service differentiation for layered video multicast in differentiated service networks. citation:-1
+title:Feature-based intra-prediction mode decision for H.264. citation:-1
+title:Moving Cast Shadow Elimination for Robust Vehicle Extraction Based on 2D Joint Vehicle/Shadow Models. citation:-1
+title:Analysis of multihypothesis motion compensated prediction (MHMCP) for robust visual communication. citation:-1
+title:An Interactive Approach to Image Retrieval using Multiple Seed Images. citation:-1
+title:Spatial and Temporal Error Concealment Techniques for Video Transmission Over Noisy Channels. citation:-1
+title:Coding Artifact Removal with Multiscale Postprocessing. citation:-1
+title:Embedded Coding of 3D Graphic Models. citation:-1
+title:A Dual Graph Approach to 3D Triangular Mesh Compression. citation:-1
+title:Environmental Sound Recognition With Time-Frequency Audio Features. citation:-1
+title:Complexity Modeling for Motion Compensation in H.264/AVC Decoder. citation:-1
+title:Cross-Layer Interaction of TCP and Ad Hoc Routing Protocols in Multihop IEEE 802.11 Networks. citation:-1
+title:Adaptive Motion Estimation in Video Coding with a Stochastic Model. citation:-1
+title:Cartoon Animation and Morphing by Using the Wavelet Curve Descriptor. citation:-1
+title:Efficient implementation of elliptic curve cryptography (ECC) on VLIW-micro-architecture media processor. citation:-1
+title:Adaptive Resource Allocation For Multimedia Services In Wireless Communication Networks. citation:-1
+title:Priority Ordering Algorithm for Scalable Video Coding Transmission over Heterogeneous Network. citation:-1
+title:Enhanced multiple Huffman table (MHT) encryption scheme using key hopping. citation:-1
+title:Run-Time Power Consumption Modeling for Embedded Multimedia Systems. citation:-1
+title:Progressive Image Indexing and Retrieval Based on Embedded Wavelet Coding. citation:-1
+title:Rate-Distortion (RD) Analysis of Subpel Motion Vector Resolution Selection for Video Coding. citation:-1
+title:Compression of time varying isosurfaces. citation:-1
+title:Musical Onset Detection with Joint Phase and Energy Features. citation:-1
+title:Advanced colluder detection techniques for OSIFT-based hiding codes. citation:-1
+title:Analysis of multi-hypothesis motion compensated prediction for robust video transmission. citation:-1
+title:TCP-friendly assured forwarding (AF) video service in DiffServ networks. citation:-1
+title:Separation of Professional and Amateur Video in Large Video Collections. citation:-1
+title:Performance Enhancement of Channel-Phase Precoded Ultra-Wideband (CPP-UWB) Systems by Rake Receivers. citation:-1
+title:Joint connection-level and packet-level quality-of-service support for VBR traffic in wireless multimedia networks. citation:-1
+title:MPEG-4 video codec IP design with a configurable embedded processor. citation:-1
+title:A feature-based approach to fast H.264 intra/inter mode decision. citation:-1
+title:Efficient Rotation Invariant Retrieval of Shapes with Applications in Medical Databases. citation:-1
+title:Differentiated Multiclass QoS in Wireless Multicarrier Environments. citation:-1
+title:Iterative Signal Extrapolation Algorithms with Wavelets. citation:-1
+title:MAI-Free MC-CDMA Systems Based on Hadamard-Walsh Codes. citation:-1
+title:Scalable Internet video streaming with differential JPEG-2000 video codec and content-aware rate control. citation:-1
+title:A Generic Scheme for Progressive Point Cloud Coding. citation:-1
+title:A Dictionary Approach To Repetitive Pattern Finding In Music. citation:-1
+title:Joint Rate-Distortion-Complexity Optimization for H.264 Motion Search. citation:-1
+title:Direct Shape from Texture Using a Parametric Surface Model and an Adaptive Filtering Technique. citation:-1
+title:Robust video multicast with joint network coding and AL-FEC. citation:-1
+title:View-Dependent Visibility Estimation for Tree Models. citation:-1
+title:A robust H.264 video streaming scheme for portable devices. citation:-1
+title:Image compression with a hybrid wavelet-fractal coder. citation:-1
+title:Call admission control for CDMA systems with Interference Guard Margin (IGM). citation:-1
+title:Blind Recursive Tracking of Carrier Frequency Offset (CFO) Vector in MC-CDMA Systems. citation:-1
+title:V-BLAST Receiver for MIMO Relay Networks with Imperfect CSI. citation:-1
+title:Fast H.264 Motion Estimation with Block-Size Adaptive Referencing (BAR). citation:-1
+title:Lifetime maximization for amplify-and-forward cooperative networks. citation:-1
+title:An Improved DC Recovery Method from AC Coefficients of DCT-Transformed Images citation:-1
+title:Wavelet descriptor of planar curves: theory and applications. citation:-1
+title:Relay-Assisted Decorrelating Multiuser Detector (RAD-MUD) for Cooperative CDMA Networks. citation:-1
+title:Stereo Matching via Disparity Estimation and Surface Modeling. citation:-1
+title:Complexity modeling of H.264/AVC CAVLC/UVLC entropy decoders. citation:-1
+title:Musical Onset Detection Based on Adaptive Linear Prediction. citation:-1
+title:Video classification in user profile generation for personalized broadcast services. citation:-1
+title:Fast tree-structured nearest neighbor encoding for vector quantization. citation:-1
+title:Information embedding in JPEG-2000 compressed images. citation:-1
+title:Texture Roughness Analysis and Synthesis via Extended Self-Similar (ESS) Model. citation:-1
+title:Genomic Sequence Analysis Using Gap Sequences and Pattern Filtering. citation:-1
+title:Normal mesh compression based on rate-distortion optimization. citation:-1
+title:Speech Content Authentication Integrated With Celp Speech Coders. citation:-1
+title:View-dependent progressive mesh coding based on partitioning. citation:-1
+title:Relative Priority Based QoS Interaction Between Video Applications and Differentiated Service Networks. citation:-1
+title:Precoded Multiuser OFDM Transceiver in Timing Asynchronous Environment. citation:-1
+title:On Robustness of Ultra-Wideband (UWB) Precoding Against Timing Jitter. citation:-1
+title:A Graph-Based Approach to Multi-Cell OFDMA Downlink Resource Allocation. citation:-1
+title:An improved method for 2-D self-similar image synthesis. citation:-1
+title:Joint Reconstruction and Registration Using Level Sets: Application to the Computer-Aided Ablation of Atrial Fibrillation. citation:-1
+title:Dynamic throughput estimation for wireless multimedia transmission. citation:-1
+title:Disparity Estimation and Virtual View Synthesis from Stereo Video. citation:-1
+title:Movie Event Detection by Using Audio Visual Information. citation:-1
+title:Shape from Shading with a Linear Triangular Element Surface Model. citation:-1
+title:Complexity Reduction of Maximum-Likelihood Multiuser Detection (ML-MUD) Receivers with Carrier Interferometry Codes in MC-CDMA. citation:-1
+title:Enlarged Block Sizes and Motion Search Ranges for High Definition Video Coding. citation:-1
+title:Where am I? Scene Recognition for Mobile Robots using Audio Features. citation:-1
+title:Robust video transmission using MPEG Markup Language and adaptive error correction codes. citation:-1
+title:Complexity reduction of joint temporal-spatial bit allocation using R-D models for video streaming. citation:-1
+title:Performance Analysis of Single-User Ultra-Wide Band Impulse Radio (UWB-IR) with Super-Orthogonal Turbo Codes (SOTC). citation:-1
+title:Frequency-Domain Pre-Equalization for Single-Carrier Space-Division Multiple-Access Downlink Transmissions. citation:-1
+title:Similar Segment Detection for Music Structure Analysis via Viterbi Algorithm. citation:-1
+title:Digital Image Watermarking in Regions of Interest. citation:-1
+title:Mesh segmentation schemes for error resilient coding of 3-D graphic models. citation:-1
+title:Error-resilient coding of 3-D graphic models via adaptive mesh segmentation. citation:-1
+title:V-BLAST Receiver and Performance In MIMO Relay Networks with Imperfect CSI. citation:-1
+title:Internet Traffic Classification for Scalable QOS Provision. citation:-1
+title:Iterative Joint Channel Estimation and Multiuser Detection for DS-CDMA in Frequency-Selective Fading Channels. citation:-1
+title:Maximum-likelihood synchronization and channel estimation for OFDMA uplink transmissions. citation:-1
+title:Motion-compensated coding of 3D animation models. citation:-1
+title:Musical beat tracking via Kalman filtering and noisy measurements selection. citation:-1
+title:A progressive view-dependent technique for interactive 3-D mesh transmission. citation:-1
+title:High-fidelity multichannel audio coding with Karhunen-Loeve transform. citation:-1
+title:Optimized Opportunistic Multicast Scheduling over Cellular Networks. citation:-1
+title:Decode-and-Forward Cooperative Relay with Multi-User Detection in Uplink CDMA Networks. citation:-1
+title:A Hybrid BMC/OBMC Motion Compensation Scheme. citation:-1
+title:Enhanced Adaptive Frequency Hopping for Wireless Personal Area Networks in a Coexistence Environment. citation:-1
+title:Design of wavelet-based image codec in memory-constrained environment. citation:-1
+title:SIVOG: smart interactive video object generation system. citation:-1
+title:Data hiding domain classification for blind image steganalysis. citation:-1
+title:Error resilience analysis of multi-hypothesis motion compensated prediction for video coding. citation:-1
+title:Fast and Flexible Tree Rendering with Enhanced Visibility Estimation. citation:-1
+title:View-dependent transmission of 3-D normal meshes. citation:-1
+title:Embedded space-time coding for wireless broadcast. citation:-1
+title:Speech Content Integrity Verification Integrated with ITU G.723.1 Speech Coding. citation:-1
+title:Scheduling and bandwidth allocation for integrated services over DOCSIS cable networks. citation:-1
+title:Robust video transmission using adaptive bit allocation. citation:-1
+title:Dynamic throughput estimation for wireless video communications. citation:-1
+title:Discrete Power Allocation for Lifetime Maximization in Cooperative Networks. citation:-1
+title:Opportunistic Access with Random Subchannel Backoff (OARSB) for OFDMA Uplink. citation:-1
+title:Reliable video transmission over fading wireless channel using joint source-channel adaptation. citation:-1
+title:Priority Ordering and Packetization for Scalable Video Multicast with Network Coding. citation:-1
+title:Design of a Memory-Scalable Wavelet-based Image Codec. citation:-1
+title:DCT-domain image registration techniques for compressed video. citation:-1
+title:WaveGuide: a joint wavelet-based image representation and description system. citation:-1
+title:Model-Based Frame-Layer Bit Allocation for Non-Conversational H.264 Video. citation:-1
+title:Reducing memory bank conflict for embedded multimedia systems. citation:-1
+title:Statistical Edge Detection with Distributed Sensors under the Neynan-Pearson (NP) Optimality. citation:-1
+title:Progressive Compression of 3D Graphic Models. citation:-1
+title:Receiver-based congestion control mechanism for Internet video transmission. citation:-1
+title:Bit allocation for spatial scalability in H.264/SVC. citation:-1
+title:Synthesis-based texture coding for video compression with sideinformation. citation:-1
+title:Efficient music representation with content adaptive dictionaries. citation:-1
+title:CSMA/CA MAC Protocol Design for Topology Controlled Ad Hoc Networks: A Cross Layer Approach. citation:-1
+title:SIMD - efficient loop unrolling design for embedded multimedia applications. citation:-1
+title:Design of Collusion-Resistant Fingerprinting Systems: Review and New Results. citation:-1
+title:Video skimming based on story units via general tempo analysis. citation:-1
+title:Optimal Sink Deployment for Distributed Sensing of Spatially Nonstationary Phenomena. citation:-1
+title:Internet video packet categorization with enhanced end-to-end QoS performance. citation:-1
+title:Performance Analysis of Ultra-Wide Band Impulse Radio (UWB-IR) with Super-Orthogonal Turbo Codes (SOTC). citation:-1
+title:TCP-friendly layered video for Internet multicast. citation:-1
+title:Reversible Variable Length Codes (RVLC) for Robust Coding of 3D Topological Mesh Data. citation:-1
+title:Coordinated packet-level protection with a corruption model for robust video transmission. citation:-1
+title:Secure Lempel-Ziv compression with embedded encryption. citation:-1
+title:Color matching techniques for video mosaic applications. citation:-1
+title:Performance Comparison of OFDM-TDMA and OFDMA with Cross-Layer Consideration. citation:-1
+title:Delay Analysis and Comparison of OFDM-TDMA and OFDMA under IEEE 802.16 QoS Framework. citation:-1
+title:Rate-distortion optimized compression and view-dependent transmission of 3-D normal meshes. citation:-1
+title:Rate control for low-bit-rate video via variable-encoding frame rates. citation:-1
+title:Efficient multimedia data encryption based on flexible QM coder. citation:-1
+title:A Progressive Approach for Perceptual Audio Coding. citation:-1
+title:Refinement of 3D Meshes by Selective Subdivision. citation:-1
+title:Fast Mesh Simplification for Progressive Transmission. citation:-1
+title:Fast sub-pel motion vector prediction via block classification. citation:-1
+title:Detecting duplicate video based on camera transitional behavior. citation:-1
+title:Fast 2D intra prediction (2DIP) mode decision for image and video coding. citation:-1
+title:Wireless Multi-party video conferencing with network coding. citation:-1
+title:New PAR/NL scheme for stochastic texture interpolation. citation:-1
+title:Understanding benford's law and its vulnerability in image forensics. citation:-1
+title:Fundamental frequency estimation for music signals with modified Hilbert-Huang transform (HHT). citation:-1
+title:Enhanced 3d tree model simplification and perceptual analysis. citation:-1
+title:Automated Multi-Modality Registration of 64-Slice Coronary CT Angiography with Myocardial Perfusion Spect. citation:-1
+title:Feature-Preserving 3D Thumbnail Creation via Mesh Decomposition and Approximation. citation:-1
+title:Advances in Multimedia Information Processing - PCM 2010 - 11th Pacific Rim Conference on Multimedia, Shanghai, China, September 21-24, 2010, Proceedings, Part I citation:-1
+title:Advances in Multimedia Information Processing - PCM 2010 - 11th Pacific Rim Conference on Multimedia, Shanghai, China, September 2010, Proceedings, Part II citation:-1
+title:Coding of Motion Capture Data via Temporal-Domain Sampling and Spatial-domain Vector Quantization Techniques. citation:-1
+title:Extracting movie scenes based on multimodal information. citation:-1
+title:Comparison of dictionary-based approaches to automatic repeating melody extraction. citation:-1
+title:Hierarchical video classification with mixed media cues. citation:-1
+title:Integrated approach to multimodal media content analysis. citation:-1
+title:Music genre classification via likelihood fusion from multiple feature models. citation:-1
+title:Home-video content analysis for MTV-style video generation. citation:-1
+title:An object-oriented approach for harmonization of multimedia markup languages. citation:-1
+title:Automatic movie skimming with story units via general tempo analysis. citation:-1
+title:Visual Communications and Image Processing 2002 citation:-1
+title:Cross-Layer Design for Wireless Video Streaming. citation:-1
+title:Optimized opportunistic multicast scheduling (OMS) over heterogeneous cellular networks. citation:-1
+title:A suffix array approach to video copy detection in video sharing social networks. citation:-1
+title:Underdetermined audio source separation from anechoic mixtures with long time delay. citation:-1
+title:A semi-supervised learning approach to online audio background detection. citation:-1
+title:H.264/SVC temporal bit allocation with dependent distortion model. citation:-1
+title:Anti-collusion fingerprinting with scalar Costa scheme (SCS) and colluder weight recovery. citation:-1
+title:Collusion-Resistant Fingerprinting Systems: Review and Recent Results. citation:-1
+title:Technologies and the development of the Automated Metadata Indexing and Analysis (AMIA) system. citation:-1
+title:Robust video multicast with joint network coding and video interleaving. citation:-1
+title:Robust stereo matching with improved graph and surface models and occlusion handling. citation:-1
+title:Dynamic QoS mapping control for streaming video in relative service differentiation networks. citation:-1
+title:Block-based image steganalysis for a multi-classifier. citation:-1
+title:Tree model simplification with hybrid polygon/billboard approach and human-centered quality evaluation. citation:-1
+title:Feature-Preserving 3D Thumbnail Creation with Voxel-Based Two-Phase Decomposition. citation:-1
+title:Adaptive search range selection in motion estimation. citation:-1
+title:Feature Oriented Progressive Lossless Mesh Coding. citation:-1
+title:A practical bit stream organization algorithm for robust H.264/SVC transmission. citation:-1
+title:Robust MC-CDMA-based fingerprinting against time-varying collusion attacks. citation:-1
+title:An improved DC recovery method from AC coefficients of DCT-transformed images. citation:-1
+title:Multi-Antenna Multicasting with Opportunistic Multicast Scheduling and Space-Time Transmission. citation:-1
+title:Robust and Secure Secret Sharing in Wireless Networks with Convolutional Network Coding. citation:-1
+title:Maximizing Lifetime Sensing Coverage in Heterogeneous Sensors Deployments. citation:-1
+title:Advanced Film Grain Noise Extraction and Synthesis for High-Definition Video Coding. citation:-1
+title:Sparse Music Representation With Source-Specific Dictionaries and Its Application to Signal Separation. citation:-1
+title:Optimal Two-Pass Frame-Layer Bit Allocation for H.264 Video. citation:-1
+title:Codeword design for ultra-wideband (UWB) precoding. citation:-1
+title:Optimized opportunistic multicast scheduling (OMS) over wireless cellular networks. citation:-1
+title:Quantification of self-diffusion process in brain white matter tracts via numerical PDE simulation. citation:-1
+title:WiiStick: Enhancing Motion Recognition Capability for Wii Systems. citation:-1
+title:Joint Quality-temporal (Q-T) Bit Allocation for H.264/SVC. citation:-1
+title:On-line Lossless Mocap Data Compression. citation:-1
+title:2D Enhanced Intra Prediction (2DEIP) for High Definition Image/Video Coding. citation:-1
+title:Analysis of Time-varying Collusion Attacks in Fingerprinting Systems: Capacity and Throughput. citation:-1
+title:Lossless Video Compression with Residual Image prediction and Coding (RIPC). citation:-1
+title:Octree-Based Progressive Geometry Coding of Point Clouds. citation:-1
+title:Adaptive Motion Search Range Prediction for Video Encoding. citation:-1
+title:Direct Techniques for Optimal Sub-Pixel Motion Accuracy Estimation and Position Prediction. citation:-1
+title:Complexity Modeling of Spatial and Temporal Compensations in H.264/AVC Decoding. citation:-1
+title:Bit Allocation for Spatial Scalability Coding of H.264/SVC With Dependent Rate-Distortion Analysis. citation:-1
+title:Fast Mode Decision Based on Mode Adaptation. citation:-1
+title:Synthesis-Based Texture Video Coding With Side Information. citation:-1
+title:Spatial error concealment with sequence-aligned texture modeling and adaptive directional recovery. citation:-1
+title:H.264/AVC entropy decoder complexity analysis and its applications. citation:-1
+title:Random linear network coding with ladder-shaped global coding matrix for robust video transmission. citation:-1
+title:Progressive Syntax-Rich Coding of Multichannel Audio Sources. citation:-1
+title:Robust Vehicle and Traffic Information Extraction for Highway Surveillance. citation:-1
+title:Editorial. citation:-1
+title:Determining Localized Tree Construction Schemes Based on Sensor Network Lifetime. citation:-1
+title:Voxel-based shape decomposition for feature-preserving 3D thumbnail creation. citation:-1
+title:Hierarchical B-picture mode decision in H.264/SVC. citation:-1
+title:Media-Oriented Service Composition with Service Overlay Networks: Challenges, Approaches and Future Trends (Invited Paper). citation:-1
+title:Improved H.264/AVC Lossless Intra Coding With Two-Layered Residual Coding (TRC). citation:-1
+title:Rate Control Optimization for Temporal-Layer Scalable Video Coding. citation:-1
+title:FOR/SOR video coding with super macroblock and inter-frame stripe prediction. citation:-1
+title:A game theoretic approach to eavesdropper cooperation in MISO wireless networks. citation:-1
+title:Energy efficiency in data centers and cloud-based multimedia services: An overview and future directions. citation:-1
+title:Efficient dictionary based video coding with reduced side information. citation:-1
+title:Performance study on block-based image steganalysis. citation:-1
+title:GOP-based Rate Control for H.264/SVC with Hierarchical B-pictures. citation:-1
+title:Design of Multiuser Collusion-Free Hiding Codes with Delayed Embedding. citation:-1
+title:A Content-Adaptive Up-Sampling Technique for Image Resolution Enhancement. citation:-1
+title:A graphic approach to performance analysis of multistage linear interference canceller in long-code CDMA systems. citation:-1
+title:Fast overlapped block motion compensation with checkerboard block partitioning. citation:-1
+title:A new approach to image retrieval with hierarchical color clustering. citation:-1
+title:Current Developments and Future Trends in Audio Authentication. citation:-1
+title:Video Genre Inference Based on Camera Capturing Models. citation:-1
+title:A multi-metric fusion approach to visual quality assessment. citation:-1
+title:Improved FOR/SOR-based video coding and its performance analysis. citation:-1
+title:Recovering missing coefficients in DCT-transformed images. citation:-1
+title:Security and privacy in online social networks: A survey. citation:-1
+title:Multimedia storage security in cloud computing: An overview. citation:-1
+title:Opportunistic Multicast Scheduling with Multiple Multicast Groups. citation:-1
+title:Dynamic spectrum access MAC for multi-channel ad-hoc networks. citation:-1
+title:Farewell Editorial. citation:-1
+title:Design and analysis of Toeplitz preconditioners. citation:-1
+title:A cross-Layer quality-of-service mapping architecture for video delivery in wireless networks. citation:-1
+title:Performance Analysis and Transceiver Design for Adaptive BIC-MIMO-OFDM Systems. citation:-1
+title:A Cross-Layer Approach to Contour Nodes Inference with Data Fusion in Wireless Sensor Networks. citation:-1
+title:Throughput Analysis of Feedback-Directed Adaptive MIMO-OFDM Systems. citation:-1
+title:A Cognitive MAC Protocol Using Statistical Channel Allocation for Wireless Ad-Hoc Networks. citation:-1
+title:Lifetime Maximization for Amplify-and-Forward Cooperative Networks. citation:-1
+title:Editorial. citation:-1
+title:Classification of quadrature amplitude modulated (QAM) signals via sequential probability ratio test (SPRT). citation:-1
+title:Fractal estimation from noisy data via discrete fractional Gaussian noise (DFGN) and the Haar basis. citation:-1
+title:Extending self-similarity for fractional Brownian motion. citation:-1
+title:Wavelet coefficient computation with optimal prefiltering. citation:-1
+title:H.264/SVC Mode Decision Based on Optimal Stopping Theory. citation:-1
+title:Layered DCT still image compression. citation:-1
+title:Fast motion vector estimation using multiresolution-spatio-temporal correlations. citation:-1
+title:Internet voice playout scheduling for integrated delay and error concealment with time-scale modification. citation:-1
+title:A statistical approach to humming recognition. citation:-1
+title:Progressive multichannel audio codec (PMAC) with rich features. citation:-1
+title:On the rate constraint of transmitting multiple priority classes with QoS. citation:-1
+title:Buffer-constrained R-D optimized rate control for video coding. citation:-1
+title:Audiovisual-based adaptive speaker identification. citation:-1
+title:Joint temporal-spatial rate control for adaptive video transcoding. citation:-1
+title:An HMM-based approach to humming transcription. citation:-1
+title:Layered video multicast with ECN over Differentiated Service networks. citation:-1
+title:A statistical multidimensional humming transcription using phone level hidden Markov models for query by humming systems. citation:-1
+title:Graph representation for joint channel estimation and symbol detection. citation:-1
+title:Joint maximum likelihood estimation of carrier frequency offset and channel in uplink OFDMA systems. citation:-1
+title:Optimal code assignment and call admission control for OVSF-CDMA systems constrained by blocking probabilities. citation:-1
+title:Blind recursive tracking of carrier frequency offsets in MC-CDMA systems. citation:-1
+title:Joint MIMO channel tracking and symbol detection with EM algorithm and soft decoding. citation:-1
+title:Channel diagonalization using a full-rate space-time block code. citation:-1
+title:A novel iterative receiver for uplink OFDMA. citation:-1
+title:Distributed edge detection with composite hypothesis test in wireless sensor networks. citation:-1
+title:Space-time blind delay and DOA estimation in chip-asynchronous DS-CDMA systems. citation:-1
+title:A precoded multiuser OFDM (PMU-OFDM) transceiver for time asynchronous systems. citation:-1
+title:Contour line extraction in a multi-modal field with sensor networks. citation:-1
+title:Extension of Non-Local Means (NLM) algorithm with Gaussian filtering for highly noisy images. citation:-1
+title:Super-resolution texture synthesis using stochastic PAR/NL model. citation:-1
+title:Collaborative Topic Regression with Social Matrix Factorization for Recommendation Systems citation:-1
+title:Recovering Missing Coefficients in DCT-Transformed Images citation:-1
+title:Content-dependent feature selection for block-based image steganalysis. citation:-1
+title:Latent fingerprint segmentation with adaptive total variation model. citation:-1
+title:Efficient HD video coding with joint first-order-residual (FOR) and second-order-residual (SOR) coding technique. citation:-1
+title:Region-adaptive texture-aware image resizing. citation:-1
+title:Perceptual image quality assessment using block-based multi-metric fusion (BMMF). citation:-1
+title:Receiver design for bit-interleaved MIMO-OFDM systems over time-varying channels. citation:-1
+title:Performance analysis of multistage linear groupwise successive interference cancellation via graphical approach. citation:-1
+title:Design and analysis of channel-phase-precoded ultra wideband (CPPUWB) systems. citation:-1
+title:Power control for packet-based wireless communication systems. citation:-1
+title:A repetitively coded multicarrier CDMA (RCMC-CDMA) transceiver for multiuser communications. citation:-1
+title:Multicarrier energy allocation for differentiated QoS provision and dynamic range reduction. citation:-1
+title:Power-aware topology control for wireless ad-hoc networks. citation:-1
+title:Cyberspace Safety and Security - 4th International Symposium, CSS 2012, Melbourne, Australia, December 12-13, 2012. Proceedings citation:-1
+title:Downlink SINR analysis for multi-rate W-CDMA systems. citation:-1
+title:VERSE: A Varying Effect Regression for Splicing Elements Discovery. citation:-1
+title:Novel Rate-Quantization Model-Based Rate Control With Adaptive Initialization for Spatial Scalable Video Coding. citation:-1
+title:Fast near-optimal energy allocation for multimedia loading on multicarrier systems. citation:-1
+title:Delay and DOA estimation for chip-asynchronous DS-CDMA systems using reduced rank space-time processing. citation:-1
+title:A common framework for blind multistage multiuser receivers of DS-CDMA in frequency-selective fading channels. citation:-1
+title:Dynamic collision resolution and traffic scheduling for DOCSIS systems with QoS support. citation:-1
+title:Equation-based layered video multicast with explicit congestion notification. citation:-1
+title:Performance of asynchronous long-code multicarrier CDMA systems in the presence of frequency offsets and correlated fading. citation:-1
+title:Design of detection system against the denial of service attack in 3G1x system. citation:-1
+title:Robust graphics streaming in walkthrough virtual environments via wireless channels. citation:-1
+title:Low-complexity video error concealment for mobile applications using OBMA. citation:-1
+title:Robust on-line beat tracking with kalman filtering and probabilistic data association (KF-PDA). citation:-1
+title:Enhanced speech separation in room acoustic environments with selected binaural cues. citation:-1
+title:Low complexity algorithm for robust video frame rate up-conversion (FRUC) technique. citation:-1
+title:Dynamic fractional frequency reuse (D-FFR) for multicell OFDMA networks using a graph framework. citation:-1
+title:An Embedded Space-Time Coding (STC) Scheme for Broadcasting. citation:-1
+title:Rate-Distortion Optimized Rate Control for Depth Map-Based 3-D Video Coding. citation:-1
+title:Distributed parameter estimation for monitoring diffusion phenomena using physical models. citation:-1
+title:Impact of heterogeneous deployment on lifetime sensing coverage in sensor networks. citation:-1
+title:Design of Energy-Efficient Video Sharing Servers with Delay Constraints. citation:-1
+title:Multi-stage MMSE/MOE receivers for frequency selective fading channels in DS-CDMA systems. citation:-1
+title:Analysis of multistage linear successive interference cancellation in long-code CDMA systems using graphical representation. citation:-1
+title:Embedded space-time coding for wireless broadcast with heterogeneous receivers. citation:-1
+title:Adaptive variable length Markov chain for non-stationary fading channel modeling. citation:-1
+title:Bandwidth allocation and traffic scheduling for DOCSIS systems with QoS support. citation:-1
+title:Improved image denoising with adaptive nonlocal means (ANL-means) algorithm. citation:-1
+title:Multiview Coding Mode Decision With Hybrid Optimal Stopping Model. citation:-1
+title:An embedded DCT approach to progressive image compression. citation:-1
+title:A gradient-based rate control algorithm with applications to MPEG video. citation:-1
+title:Latent fingerprint detection and segmentation with a directional total variation model. citation:-1
+title:JPEG-based perceptual image coding with block-based image quality metric. citation:-1
+title:Joint spatial-spectral indexing for image retrieval. citation:-1
+title:Focus of attention (FOA) identification from compressed video for automatic target recognition (ATR). citation:-1
+title:Noncoherent multiuser detection of DS-CDMA over multipath fading channels. citation:-1
+title:Adaptive packet forwarding for relative differentiated services and categorized packet video. citation:-1
+title:Optimal Variable Length Markov Chain (VLMC) Modeling of Fading Channels. citation:-1
+title:Contour line extraction with wireless sensor networks. citation:-1
+title:Analysis of multistage linear parallel interference cancellation in CDMA systems using graphical representation. citation:-1

@@ -1,0 +1,195 @@
+title:On Camera Calibration for Scene Model Acquisition and Maintenance Using an Active Vision System. citation:-1
+title:Detection and Description of Human Running Behaviour in Sports Video Multimedia Database. citation:-1
+title:JPEG Compression Effects on a Smart Card Face Verification System. citation:-1
+title:Hierarchical Decision Making Scheme for Sports Video Categorisation with Temporal Post-Processing. citation:-1
+title:Tracking the Evolution of a Tennis Match Using Hidden Markov Models. citation:-1
+title:Approximate Gradient Direction Metric for Face Authentication. citation:-1
+title:Face Detection by Learned Affine Correspondences. citation:-1
+title:Using Gradient Information to Enhance the Progressive Probabilistic Hough Transform. citation:-1
+title:The Role Of Relational Constraints In Region Matching. citation:-1
+title:The Multimodal Neighborhood Signature for Modeling Object Color Appearance and Applications in Object Recognition and Image Retrieval. citation:-1
+title:Framework for Dynamically Reconfigurable Video Codec Using Multiple Coding Tools. citation:-1
+title:A Comparative Study of Face Representations in the Frequency Domain. citation:-1
+title:Combining Classifier for Face Identification at Unknown Views with a Single Model Image. citation:-1
+title:Subsurface scattering deconvolution for improved NIR-visible facial image correlation. citation:-1
+title:Using Graph Search Techniques for Contextual Colour Retrieval. citation:-1
+title:Ambient Illumination Variation Removal by Active Near-IR Imaging. citation:-1
+title:An active mesh based tracker for improved feature correspondences. citation:-1
+title:Shape representation and recognition based on invariant unary and binary relations. citation:-1
+title:Moderating k-NN Classifiers. citation:-1
+title:Model Selection by Predictive Validation. citation:-1
+title:Prototype selection based on sequential search. citation:-1
+title:Advances in Statistical Feature Selection. citation:-1
+title:Face Verification Using Colour Kernels. citation:-1
+title:Model Validation for Model Selection. citation:-1
+title:Region-Based Object Recognition: Pruning Multiple Representations and Hypotheses. citation:-1
+title:An Illumination Insensitive Representation for Face Verification in the Frequency Domain. citation:-1
+title:Coping with 3D Artifacts in Video Sequences. citation:-1
+title:Information Fusion for Local Gabor Features Based Frontal Face Verification. citation:-1
+title:Real Time Segmentation of Lip Pixels for Lip Tracker Initialization. citation:-1
+title:Face Verification via ECOC. citation:-1
+title:Fusion of multiple classifiers. citation:-1
+title:Decision Level Fusion of Intramodal Personal Identity Verification Experts. citation:-1
+title:Serial Multiple Classifier Systems Exploiting a Coarse to Fine Output Coding. citation:-1
+title:Mosaics from Arbitrary Stereo Video Sequences. citation:-1
+title:Robust Player Gesture Spotting and Recognition in Low-Resolution Sports Video. citation:-1
+title:Mathematics Methods of Feature Selection in Pattern Recognition. citation:-1
+title:Design and Fusion of Pose-Invariant Face-Identification Experts. citation:-1
+title:Adaptive Automatic Target Recognition with SVM Boosting for Outlier Detection. citation:-1
+title:Information Analysis of Multiple Classifier Fusion. citation:-1
+title:Combining Multiple Classifiers in Probabilistic Neural Networks. citation:-1
+title:Editorial. citation:-1
+title:The magnitude accuracy of the template edge detector. citation:-1
+title:A Non-Iterative Probabilistic Method For Contextual Correspondence Matching. citation:-1
+title:Optimality of reassignment rules in dynamic clustering. citation:-1
+title:An extreme case of the generalized optimal discriminant transformation and its application to face recognition. citation:-1
+title:Face description based on decomposition and combining of a facial space with LDA. citation:-1
+title:A Multiple Expert Approach to the Class Imbalance Problem Using Inverse Random under Sampling. citation:-1
+title:A Method for Estimating Authentication Performance over Time, with Applications to Face Biometrics. citation:-1
+title:"Foundations of the Theory of Learning Systems, " by Ya. Z. Tsypkin (Book Review). citation:-1
+title:Probabilistic feature-labelling schemes: modelling compatibility coefficient distributions. citation:-1
+title:Segmentation of lip pixels for lip tracker initialisation. citation:-1
+title:Progressive Probabilistic Hough Transform. citation:-1
+title:Hypothesis Testing: A Framework for Analyzing and Optimizing Hough Transform Performance. citation:-1
+title:Junction detection using probabilistic relaxation. citation:-1
+title:Colour-based object recognition under spectrally non-uniform illumination. citation:-1
+title:Non-sparse Multiple Kernel Learning for Fisher Discriminant Analysis. citation:-1
+title:A Memory Architecture and Contextual Reasoning Framework for Cognitive Vision. citation:-1
+title:Cognitive learning with automatic goal acquisition. citation:-1
+title:On Matching Algorithms for the Recognition of Objects in Cluttered Background. citation:-1
+title:Asymptotic Complexity of an RBF NN for Correlated Data Representation. citation:-1
+title:Elastic Transformation of the Image Pixel Grid for Similarity Based Face Identification. citation:-1
+title:Obituary. citation:-1
+title:On the Use of Log-Likelihood Ratio Based Model-Specific Score Normalisation in Biometric Authentication. citation:-1
+title:Predicting Biometric Authentication System Performance Across Different Application Conditions: A Bootstrap Enhanced Parametric Approach. citation:-1
+title:Analysis of Multichannel Texture Representations from Video Mosaics. citation:-1
+title:A family of methods for quality-based multimodal biometric fusion using generative classifiers. citation:-1
+title:SVM-Based Selection of Colour Space Experts for Face Authentication. citation:-1
+title:Intentional control of camera look direction and viewpoint in an active vision system. citation:-1
+title:Object recognition by symmetrised graph matching using relaxation labelling with an inhibitory mechanism. citation:-1
+title:Probabilistic PCA and ICA Subspace Mixture Models for Image Segmentation. citation:-1
+title:Using relaxation technique for region-based object recognition. citation:-1
+title:Similarity Measures Fusion Using SVM Classifier for Face Authentication. citation:-1
+title:Motion Compensation for Face Recognition Based on Active Differential Imaging. citation:-1
+title:Face Verification Using Error Correcting Output Codes. citation:-1
+title:Using a pictorial dictionary as a high level user interface for visual information retrieval. citation:-1
+title:A unified approach to the generation of semantic cues for sports video annotation. citation:-1
+title:A Morphological Approach to the Generalised 2-stage Stock-Cutting Problem. citation:-1
+title:Lip-shape Dependent Face Verification. citation:-1
+title:Line Postprocessing Using Probabilistic Relaxation and Relative Measurements. citation:-1
+title:Discrete relaxation. citation:-1
+title:Face Verification System Architecture Using Smart Cards. citation:-1
+title:Multi Modal Verification for Teleservices and Security Applications (M2VTS). citation:-1
+title:Object Localisation Using Generative Probability Model for Spatial Constellation and Local Image Features. citation:-1
+title:On the Divergence and the Joshi Dependence Measure in Feature Selection. citation:-1
+title:A Method for Determining Class Subspaces. citation:-1
+title:Photometric Normalisation for Face Verification. citation:-1
+title:Face verification via error correcting output codes. citation:-1
+title:Contextual decision rule for region analysis. citation:-1
+title:On the Foundations of Probabilistic Relaxation with Product Support. citation:-1
+title:Optimising the Complete Image Feature Extraction Chain. citation:-1
+title:A note on an extreme case of the generalized optimal discriminant transformation. citation:-1
+title:Designing a smart-card-based face verification system: empirical investigation. citation:-1
+title:Recognising Human Running Behaviour in Sports Video Sequences. citation:-1
+title:The Adaptive Subspace Map for Texture Segmentation. citation:-1
+title:Multiple Classifier Fusion for Biometric Authentication. citation:-1
+title:06311 Abstracts Collection -- Sensor Data and Information Fusion in Computer Vision and Medicine. citation:-1
+title:Combining the Hough Transform and Multiresolution MRF's for the Robust Motion Estimation. citation:-1
+title:Robust Statistical Estimation Applied to Automatic Lip Segmentation. citation:-1
+title:Edge postprocessing using probabilistic relaxation. citation:-1
+title:06311 Executive Summary -- Sensor Data and Information Fusion in Computer Vision and Medicine. citation:-1
+title:Modified Predictive Validation Test for Gaussian Mixture Modelling. citation:-1
+title:Confidence Based Gating of Colour Features for Face Authentication. citation:-1
+title:The Adaptive Subspace Map for Image Description and Image Database Retrieval. citation:-1
+title:A New Approach to Computation of Curvature Scale Space Image for Shape Similarity Retrieval. citation:-1
+title:The Discriminant Function Approach to Classification of Incomplete Pattern Vectors. citation:-1
+title:A New Feature Selection Procedure for Pattern Recognition Based on Supervised Learning. citation:-1
+title:Object Recognition Using a Tag. citation:-1
+title:A comparison of colour texture attributes selected by statistical feature selection and neural network methods. citation:-1
+title:Face Recognition with LWIR Imagery Using Local Binary Patterns. citation:-1
+title:An analytical algorithm for determining the generalized optimal set of discriminant vectors. citation:-1
+title:A New Direct LDA (D-LDA) Algorithm for Feature Extraction in Face Recognition. citation:-1
+title:The Relationship between Classifier Factorisation and Performance in Stochastic Vector Quantisation. citation:-1
+title:The Practical Performance Characteristics of Tomographically Filtered Multiple Classifier Fusion. citation:-1
+title:On the General Application of the Tomographic Classifier Fusion Methodology. citation:-1
+title:Classifier Combination as a Tomographic Process. citation:-1
+title:Complexity analysis of RBF networks for Pattern Recognition. citation:-1
+title:Multiple Classifier System Approach to Model Pruning in Object Recognition. citation:-1
+title:Recognition of polyhedral objects using triplets of projected spatial edges based on a single perspective image. citation:-1
+title:Recognizing polyhedral objects from a single perspective view. citation:-1
+title:Using Contextual Information for Image Retrieva. citation:-1
+title:Selection and Fusion of Similarity Measure Based Classifiers Using Support Vector Machines. citation:-1
+title:Photometric Normalisation for Component-based Face Verification. citation:-1
+title:Hypotheses-Driven Affine Invariant Localization of Faces in Verification Systems. citation:-1
+title:Defining Quantization Strategies and a Perceptual Similarity Measure for Texture-Based Annotation and Retrieval. citation:-1
+title:On using error bounds to optimize cost-sensitive multimodal biometric authentication. citation:-1
+title:An Entropy-Based Approach to the Hierarchical Acquisition of Perception-Action Capabilities. citation:-1
+title:Invariant Gabor Features for Face Evidence Extraction. citation:-1
+title:General Pose Face Recognition Using Frontal Face Model. citation:-1
+title:Face Video Competition. citation:-1
+title:Editorial. citation:-1
+title:Nonlinear Motion Estimation Using the Supercoupling Approach. citation:-1
+title:Obituary: Pierre Devijver. citation:-1
+title:A Biometric Menagerie Index for Characterising Template/Model-Specific Variation. citation:-1
+title:A General Strategy for Hidden Markov Chain Parameterisation in Composite Feature-Spaces. citation:-1
+title:Combined Classifier Optimisation via Feature Selection. citation:-1
+title:Improving human activity detection by combining multi-dimensional motion descriptors with boosting. citation:-1
+title:Audio-and Video-Based Biometrie Person Authentication, 4th International Conference, AVBPA 2003, Guildford, UK, June 9-11, 2003 Proceedings citation:-1
+title:Progress in Pattern Recognition, Image Analysis and Applications, 11th Iberoamerican Congress in Pattern Recognition, CIARP 2006, Cancun, Mexico, November 14-17, 2006, Proceedings citation:-1
+title:Progress in Pattern Recognition, Image Analysis and Applications, 12th Iberoamericann Congress on Pattern Recognition, CIARP 2007, Valparaiso, Chile, November 13-16, 2007, Proceedings citation:-1
+title:Sensor Data and Information Fusion in Computer Vision and Medicine, 30.07. - 04.08.2006 citation:-1
+title:Multiple kernel learning and feature space denoising. citation:-1
+title:Multiple Classifier Systems, First International Workshop, MCS 2000, Cagliari, Italy, June 21-23, 2000, Proceedings citation:-1
+title:Multiple Classifier Systems, Third International Workshop, MCS 2002, Cagliari, Italy, June 24-26, 2002, Proceedings citation:-1
+title:Multiple Classifier Systems, 6th International Workshop, MCS 2005, Seaside, CA, USA, June 13-15, 2005, Proceedings citation:-1
+title:Multiple Classifier Systems, 7th International Workshop, MCS 2007, Prague, Czech Republic, May 23-25, 2007, Proceedings citation:-1
+title:Multiple Classifier Systems, 9th International Workshop, MCS 2010, Cairo, Egypt, April 7-9, 2010. Proceedings citation:-1
+title:Combining Multiple Kernels by Augmenting the Kernel Matrix. citation:-1
+title:Improving Multilabel Classification Performance by Using Ensemble of Multi-label Classifiers. citation:-1
+title:OVID: toward object-based video retrieval. citation:-1
+title:Caricaturing to Improve Face Matching. citation:-1
+title:On design and optimization of face verification systems that are smart-card based. citation:-1
+title:On-line Learning of Mutually Orthogonal Subspaces for Face Recognition by Image Sets. citation:-1
+title:Accurate Recovery of Dense Depth Map for 3D Motion Based Coding. citation:-1
+title:On Combining Local DCT with Preprocessing Sequence for Face Recognition under Varying Lighting Conditions. citation:-1
+title:Lattice-Based Anomaly Rectification for Sport Video Annotation. citation:-1
+title:Model and Score Adaptation for Biometric Systems: Coping With Device Interoperability and Changing Acquisition Conditions. citation:-1
+title:Sparse representation of (Multiscale) histograms for face recognition robust to registration and illumination problems. citation:-1
+title:Incremental Linear Discriminant Analysis Using Sufficient Spanning Sets and Its Applications. citation:-1
+title:An Evaluation of Video-to-Video Face Verification. citation:-1
+title:Hierarchical Image Matching for Pose-invariant Face Recognition. citation:-1
+title:Incremental Learning of Locally Orthogonal Subspaces for Set-based Object Recognition. citation:-1
+title:Pose-invariant face recognition by matching on multi-resolution MRFs linked by supercoupling transform. citation:-1
+title:Welcome message from the IAPR President. citation:-1
+title:Fusion of PCA-Based and LDA-Based Similarity Measures for Face Verification. citation:-1
+title:A Unified Framework for Biometric Expert Fusion Incorporating Quality Measures. citation:-1
+title:Novel Fusion Methods for Pattern Recognition. citation:-1
+title:Speaker authentication using video-based lip information. citation:-1
+title:Advances in Pattern Recognition - Second Mexican Conference on Pattern Recognition, MCPR 2010, Puebla, Mexico, September 27-29, 2010. Proceedings citation:-1
+title:An evaluation of bags-of-words and spatio-temporal shapes for action recognition. citation:-1
+title:Two-Stage Augmented Kernel Matrix for Object Recognition. citation:-1
+title:Multiple Classifier Systems - 10th International Workshop, MCS 2011, Naples, Italy, June 15-17, 2011. Proceedings citation:-1
+title:Cohort Based Approach to Multiexpert Class Verification. citation:-1
+title:Hypothesis testing: a framework for analysing and optimising Hough transform performance. citation:-1
+title:Accurate line parameters from an optimising Hough Transform for vanishing point detection. citation:-1
+title:Face recognition using multi-scale local phase quantisation and Linear Regression Classifier. citation:-1
+title:A Comparative Study of Different Classifier Selection and Fusion Algorithms in a Multimodal Identity Verification System. citation:-1
+title:Transductive transfer learning for action recognition in tennis games. citation:-1
+title:Non-Sparse Multiple Kernel Fisher Discriminant Analysis. citation:-1
+title:Differential Edit Distance: A Metric for Scene Segmentation Evaluation. citation:-1
+title:Enhancing the performance of personal identity authentication systems by fusion of face verification experts. citation:-1
+title:A Comparison of L Norm and L Norm Multiple Kernel SVMs in Image and Video Classification. citation:-1
+title:Bi-Modal Person Recognition on a Mobile Phone: Using Mobile Phone Data. citation:-1
+title:Multi-modal region selection approach for training object detectors. citation:-1
+title:3D morphable model fitting for low-resolution facial images. citation:-1
+title:A dictionary learning approach to tracking. citation:-1
+title:Heterogeneous information fusion: A novel fusion paradigm for biometric systems. citation:-1
+title:Automatic face annotation by multilinear AAM with Missing Values. citation:-1
+title:Texture and shape in fluorescence pattern identification for auto-immune disease diagnosis. citation:-1
+title:A discriminative parametric approach to video-based score-level fusion for biometric authentication. citation:-1
+title:Automatic annotation of court games with structured output learning. citation:-1
+title:An intrinsic coordinate system for 3D face registration. citation:-1
+title:Recognition of two dimensional objects based on a novel generalized Hough transform method. citation:-1
+title:Motion based image segmentation for video coding. citation:-1
+title:Error propagation analysis for edge postprocessing. citation:-1
+title:Blur kernel estimation to improve recognition of blurred faces. citation:-1

@@ -1,0 +1,417 @@
+title:Modeling and performance evaluation of transmission control protocol over cognitive radio ad hoc networks. citation:-1
+title:Attribute allocation in large scale sensor networks. citation:-1
+title:Channel allocation and medium access control for wireless sensor networks. citation:-1
+title:Using polynomial regression for data representation in wireless sensor networks. citation:-1
+title:Attribute Allocation and Retrieval Scheme for Large-Scale Sensor Networks. citation:-1
+title:Interferer Classification, Channel Selection and Transmission Adaptation for Wireless Sensor Networks. citation:-1
+title:Compact thermal models for estimation of temperature-dependent power/performance in FinFET technology. citation:-1
+title:Priority assignment optimization for minimization of current surge in high performance power efficient clock-gated microprocessor. citation:-1
+title:Adaptive supply voltage technique for low swing interconnects. citation:-1
+title:Low-overhead design of soft-error-tolerant scan flip-flops with enhanced-scan capability. citation:-1
+title:Power Consumption in XOR-Based Circuits. citation:-1
+title:SAVS: a self-adaptive variable supply-voltage technique for process- tolerant and power-efficient multi-issue superscalar processor design. citation:-1
+title:Exploring high-speed low-power hybrid arithmetic units at scaled supply and adaptive clock-stretching. citation:-1
+title:A High Performance IDDQ Testable Cache for Scaled CMOS Technologies. citation:-1
+title:A Statistical Approach to Area-Constrained Yield Enhancement for Pipelined Circuits under Parameter Variations. citation:-1
+title:Leakage Current Based Stabilization Scheme for Robust Sense-Amplifier Design for Yield Enhancement in Nano-scale SRAM. citation:-1
+title:Shannon Expansion Based Supply-Gated Logic for Improved Power and Testability. citation:-1
+title:A fully physical model for leakage distribution under process variations in Nanoscale double-gate CMOS. citation:-1
+title:Leakage in nano-scale technologies: mechanisms, impact and design considerations. citation:-1
+title:Design Verification and Robust Design Technique for Cross-Talk Faults. citation:-1
+title:Efficient Communication Channel Utilization for Mapping FFT onto Mesh Array. citation:-1
+title:A novel wavelet transform based transient current analysis for fault detection and localization. citation:-1
+title:A high density, carbon nanotube capacitor for decoupling applications. citation:-1
+title:Test challenges for deep sub-micron technologies. citation:-1
+title:A Power Macromodeling Technique Based on Power Sensitivity. citation:-1
+title:Timed pattern generation for noise-on-delay calculation. citation:-1
+title:Iterative Wirability and Performance Improvement for FPGAs. citation:-1
+title:Self-calibration technique for reduction of hold failures in low-power nano-scaled SRAM. citation:-1
+title:Dynamic noise analysis in precharge-evaluate circuits. citation:-1
+title:A Novel Approach to Accurate Timing Verification Using RTL Descriptions. citation:-1
+title:A Graph-Based Synthesis Algorithm for AND/XOR Networks. citation:-1
+title:Variation Resilient Low-Power Circuit Design Methodology using On-Chip Phase Locked Loop. citation:-1
+title:An adaptive window-based susceptance extraction and its efficient implementation. citation:-1
+title:Exploring SOI Device Structures and Interconnect Architectures for 3-Dimensional Integration. citation:-1
+title:Mixed- (MVT) CMOS Circuit Design Methodology for Low Power Applications. citation:-1
+title:Process variation tolerant SRAM array for ultra low voltage applications. citation:-1
+title:Modeling of failure probability and statistical design of spin-torque transfer magnetic random access memory (STT MRAM) array for yield enhancement. citation:-1
+title:High Performance and Low Power Electronics on Flexible Substrate. citation:-1
+title:Minimizing ohmic loss and supply voltage variation using a novel distributed power supply network. citation:-1
+title:A Novel Low-overhead Delay Testing Technique for Arbitrary Two-Pattern Test Application. citation:-1
+title:Low power synthesis of dynamic logic circuits using fine-grained clock gating. citation:-1
+title:Exploring High Bandwidth Pipelined Cache Architecture for Scaled Technology. citation:-1
+title:MRPF: An Architectural Transformation for Synthesis of High-Performance and Low-Power Digital Filters. citation:-1
+title:Model Reduction in the Time-Domain Using Laguerre Polynomials and Krylov Methods. citation:-1
+title:Circuit-aware device design methodology for nanometer technologies: a case study for low power SRAM design. citation:-1
+title:Statistical Modeling of Pipeline Delay and Design of Pipeline under Process Variation to Enhance Yield in sub-100nm Technologies. citation:-1
+title:Fault Detection and Diagnosis Using Wavelet Based Transient Current Analysis. citation:-1
+title:Trim Bit Setting of Analog Filters Using Wavelet-Based Supply Current Analysis. citation:-1
+title:Synthesis of Application-Specific Highly-Efficient Multi-Mode Systems for Low-Power Applications. citation:-1
+title:A New Crosstalk Noise Model for DOMINO Logic Circuits. citation:-1
+title:Dynamic bit-width adaptation in DCT: image quality versus computation energy trade-off. citation:-1
+title:Ultralow power computing with sub-threshold leakage: a comparative study of bulk and SOI technologies. citation:-1
+title:Selectively Clocked CMOS Logic Style for Low-Power Noise-Immune Operations in Scaled Technologies. citation:-1
+title:Modeling and Analysis of Loading Effect in Leakage of Nano-Scaled Bulk-CMOS Logic Circuits. citation:-1
+title:Low complexity FIR filters using factorization of perturbed coefficients. citation:-1
+title:Noise Analysis under Capacitive and Inductive Coupling for High Speed Circuits. citation:-1
+title:Memories in Scaled Technologies: A Review of Process Induced Failures, Test Methodologies, and Fault Tolerance. citation:-1
+title:Low-overhead circuit synthesis for temperature adaptation using dynamic voltage scheduling. citation:-1
+title:A Novel Low Overhead Fault Tolerant Kogge-Stone Adder Using Adaptive Clocking. citation:-1
+title:Interactive presentation: Process tolerant beta-ratio modulation for ultra-dynamic voltage scaling. citation:-1
+title:Logic synthesis for reliability&mdash;an early start to controlling electromigration and hot carrier effects. citation:-1
+title:On Channel Architecture and Routability for FPGAs Under Faulty Conditions. citation:-1
+title:Multiple Scan Chain Design Technique for Power Reduction during Test Application in BIST. citation:-1
+title:First Level Hold: A Novel Low-Overhead Delay Fault Testing Technique. citation:-1
+title:Fault-Tolerance with Graceful Degradation in Quality: A Design Methodology and Its Application to Digital Signal Processing Systems. citation:-1
+title:Deterministic Clock Gating for Microprocessor Power Reduction. citation:-1
+title:IDD Waveforms Analysis for Testing of Domino and Low Voltage Static CMOS Circuits. citation:-1
+title:Power Dissipation Driven FPGA Place and Route Under Delay Constraints. citation:-1
+title:Energy recovery clocked dynamic logic. citation:-1
+title:A novel design methodology for high performance and low power digital filters. citation:-1
+title:Statistical design and optimization of SRAM cell for yield enhancement. citation:-1
+title:Estimation of circuit activity considering signal correlations and simultaneous switching. citation:-1
+title:CASh: A Novel "Clock as Shield" Design Methodology for Noise Immune Precharge-Evaluate Logic. citation:-1
+title:Estimation of power sensitivity in sequential circuits with power macromodeling application. citation:-1
+title:Statistical estimation of sequential circuit activity. citation:-1
+title:Accurate estimation and modeling of total chip leakage considering inter- & intra-die process variations. citation:-1
+title:Power sensitivity - a new method to estimate power dissipation considering uncertain specifications of primary inputs. citation:-1
+title:A Twisted Bundle Layout Structure for Minimizing Inductive Coupling Noise. citation:-1
+title:Frequency Domain Analysis of Switching Noise on Power Supply Network. citation:-1
+title:Stochastic Wire-Length and Delay Distribution of 3-Dimensional Circuits. citation:-1
+title:COSMOS: a continuous optimization approach for maximum power estimation of CMOS circuits. citation:-1
+title:Optimizing computations in a transposed direct form realization of floating-point LTI-FIR systems. citation:-1
+title:A circuit model for carbon nanotube interconnects: comparative study with Cu interconnects for scaled technologies. citation:-1
+title:Modeling of Ballistic Carbon Nanotube Field Effect Transistors for Efficient Circuit Simulation. citation:-1
+title:A Novel Low-Power Scan Design Technique Using Supply Gating. citation:-1
+title:Novel Low-Overhead Operand Isolation Techniques for Low-Power Datapath Synthesis. citation:-1
+title:Design methodology to trade off power, output quality and error resiliency: application to color interpolation filtering. citation:-1
+title:The effect of process variation on device temperature in FinFET circuits. citation:-1
+title:Estimation of statistical variation in temporal NBTI degradation and its impact on lifetime circuit performance. citation:-1
+title:Leakage power dependent temperature estimation to predict thermal runaway in FinFET circuits. citation:-1
+title:A new paradigm for low-power, variation-tolerant circuit synthesis using critical path isolation. citation:-1
+title:On-chip interconnect modeling by wire duplication. citation:-1
+title:Channel Architecture Optimization for Performance and Routability of Row-Based FPGAs. citation:-1
+title:Skewed CMOS: Noise-Immune High-Performance Low-Power Static Circuit Family. citation:-1
+title:High-Performance Low-Power CMOS Circuits Using Multiple Channel Length and Multiple Oxide Thickness. citation:-1
+title:Control unit synthesis targeting low-power processors. citation:-1
+title:Low Power Adder with Adaptive Supply Voltage. citation:-1
+title:Estimation of Maximum Power for Sequential Circuits Considering Spurious Transitions. citation:-1
+title:Optimal Selection of Supply Voltages and Level Conversions During Data Path Scheduling Under Resource Constraints. citation:-1
+title:Estimation of sequential circuit activity considering spatial and temporal correlations. citation:-1
+title:Multiple-Vdd Scheduling/Allocation for Partitioned Floorplan. citation:-1
+title:Floorplan-Aware Low-Complexity Digital Filter Synthesis for Low-Power & High-Speed. citation:-1
+title:Switching Characteristics of Generalized Array Multiplier Architectures and their Applications to Low Power Design. citation:-1
+title:On Complexity Reduction of FIR Digital Filters Using Constrained Least Squares Solution. citation:-1
+title:A Feasibility Study of Subthreshold SRAM Across Technology Generations. citation:-1
+title:A Soft Error Monitor Using Switching Current Detection. citation:-1
+title:A Technique to Reduce Power and Test Application Time in BIST. citation:-1
+title:Process Variation Tolerant Online Current Monitor for Robust Systems. citation:-1
+title:A Novel On-Chip Delay Measurement Hardware for Efficient Speed-Binning. citation:-1
+title:Yield Prediction of High Performance Pipelined Circuit with Respect to Delay Failures in Sub-100nm Technology. citation:-1
+title:Tolerance to Small Delay Defects by Adaptive Clock Stretching. citation:-1
+title:A Novel Fault Tolerant Cache to Improve Yield in Nanometer Technologies. citation:-1
+title:Data-retention flip-flops for power-down applications. citation:-1
+title:Multiple-Vdd multiple-Vth CMOS (MVCMOS) for low power applications. citation:-1
+title:Short-circuit power analysis of an inverter driving an RLC load. citation:-1
+title:Power trends and performance characterization of 3-dimensional integration. citation:-1
+title:Integrated architectural/physical planning approach for minimization of current surge in high performance clock-gated microprocessors. citation:-1
+title:Cascaded carry-select adder (CSA): a new structure for low-power CSA design. citation:-1
+title:Dual-edge triggered level converting flip-flops. citation:-1
+title:ASAP: A Transistor Sizing Tool for Speed Area and Power Optimization of Static CMOS Circuits. citation:-1
+title:A logic-aware layout methodology to enhance the noise immunity of domino circuits. citation:-1
+title:Delay Fault Localization in Test-Per-Scan BIST Using Built-In Delay Sensor. citation:-1
+title:A new reduced-complexity sphere decoder with true lattice-boundary-awareness for multi-antenna systems. citation:-1
+title:A novel low-complexity method for parallel multiplierless implementation of digital FIR filters. citation:-1
+title:Effectiveness of energy recovery techniques in reducing on-chip power density in molecular nano-technologies. citation:-1
+title:Modeling and analysis of total leakage currents in nanoscale double gate devices and circuits. citation:-1
+title:Selectively clocked skewed logic (SCSL): low-power logic style for high-performance applications. citation:-1
+title:High performance and low power FIR filter design based on sharing multiplication. citation:-1
+title:Device optimization for ultra-low power digital sub-threshold operation. citation:-1
+title:Larger-than-vdd forward body bias in sub-0.5V nanoscale CMOS. citation:-1
+title:Energy recovery clocking scheme and flip-flops for ultra low-energy applications. citation:-1
+title:Effectiveness of low power dual-V designs in nano-scale technologies under process parameter variations. citation:-1
+title:A forward body-biased low-leakage SRAM cache: device and architecture considerations. citation:-1
+title:An 8.3GHz dual supply/threshold optimized 32b integer ALU-register file loop in 90nm CMOS. citation:-1
+title:Technology scaling behavior of optimum reverse body bias for standby leakage power reduction in CMOS IC's. citation:-1
+title:Thermal analysis of 8-T SRAM for nano-scaled technologies. citation:-1
+title:Slope interconnect effort: gate-interconnect interdependentdelay model for CMOS logic gates. citation:-1
+title:A Novel Multiple-Valued Logic Design Using Ballistic Carbon Nanotube FETs. citation:-1
+title:OC: occasional two-cycle operations for dynamic thermal management in high performance in-order microprocessors. citation:-1
+title:A low-power SRAM using bit-line charge-recycling technique. citation:-1
+title:Analysis of super cut-off transistors for ultralow power digital logic circuits. citation:-1
+title:A process variation aware low power synthesis methodology for fixed-point FIR filters. citation:-1
+title:Low power design under parameter variations. citation:-1
+title:Low-power process-variation tolerant arithmetic units using input-based elastic clocking. citation:-1
+title:Double-gate fully-depleted SOI transistors for low-power high-performance nano-scale circuit design. citation:-1
+title:Robust level converter design for sub-threshold logic. citation:-1
+title:A 160 mV, fully differential, robust schmitt trigger based sub-threshold SRAM. citation:-1
+title:LVDCSL: low voltage differential current switch logic, a robust low power DCSL family. citation:-1
+title:Quasi-static energy recovery logic and supply-clock generation circuits. citation:-1
+title:Low-power carry-select adder using adaptive supply voltage based on input vector patterns. citation:-1
+title:TFT-LCD Application Specific Low Power SRAM Using Charge-Recycling Technique. citation:-1
+title:Modeling and Analysis of Gate Leakage in Ultra-thin Oxide Sub-50nm Double Gate Devices and Circuits. citation:-1
+title:Design and Test of Low Voltage CMOS Circuits. citation:-1
+title:A Power-Aware GALS Architecture for Real-Time Algorithm-Specific Tasks. citation:-1
+title:Power Supply Noise-Aware Scheduling and Allocation for DSP Synthesis. citation:-1
+title:Simultaneous Multiple-Vdd Scheduling and Allocation for Partitioned Floorplan. citation:-1
+title:A CMOS Thermal Sensor and Its Applications in Temperature Adaptive Design. citation:-1
+title:On Effective IDDQ Testing of Low Voltage CMOS Circuits Using Leakage Control Techniques. citation:-1
+title:Power Reduction in Test-Per-Scan BIST with Supply Gating and Efficient Scan Partitioning. citation:-1
+title:Decoupling capacitance allocation for power supply noise suppression. citation:-1
+title:Minimizing Ohmic Loss in Future Processor IR Events. citation:-1
+title:Synthesis of Selectively Clocked Skewed Logic Circuits. citation:-1
+title:Frequency Specification Testing of Analog Filters Using Wavelet Transform of Dynamic Supply Current. citation:-1
+title:VSV: L2-Miss-Driven Variable Supply-Voltage Scaling for Low Power. citation:-1
+title:Testing CrossTalk Induced Delay Faults in Static CMOS Circuits Through Dynamic Timing Analysis. citation:-1
+title:Impact of Body Bias on Delay Fault Testing of Nanoscale CMOS Circuits. citation:-1
+title:Integrated Test Solutions and Test Economics for MCMs. citation:-1
+title:Multiple-parameter CMOS IC testing with increased sensitivity for I_DDQ. citation:-1
+title:LALM: A Logic-Aware Layout Methodology to Enhance the Noise Immunity of Domino Circuits. citation:-1
+title:A Graph Theoretic Approach for Design and Synthesis of Multiplierless FIR Filters. citation:-1
+title:PETE: A device/circuit analysis framework for evaluation and comparison of charge based emerging devices. citation:-1
+title:Impact of SoC power management techniques on verification and testing. citation:-1
+title:A High Performance, Scalable Multiplexed Keeper Technique. citation:-1
+title:FinFET Based SRAM Design for Low Standby Power Applications. citation:-1
+title:Fine-Grained Redundancy in Adders. citation:-1
+title:Power Trends and Performance Characterization of 3-Dimensional Integration for Future Technology Generations. citation:-1
+title:Estimation of Switching Noise on Power Supply Lines in Deep Sub-micron CMOS Circuits. citation:-1
+title:Algorithms for Low Power FIR Filter Realization Using Differential Coefficients. citation:-1
+title:Sub-Domino Logic: Ultra-Low Power Dynamic Sub-Threshold Digital Logic. citation:-1
+title:Low Power Design Methodologies for Systems-on-Chips. citation:-1
+title:Low Power VLSI Signal Processing. citation:-1
+title:Modeling and Estimation of Leakage in Sub-90nm Devices. citation:-1
+title:VLSI Signal Processing in FPGAs. citation:-1
+title:Low-Power Driven Logic Synthesis Using Accurate Power Estimation Technique. citation:-1
+title:Design of Deep Sub-Micron CMOS Circuits. citation:-1
+title:Dynamic Noise Analysis with Capacitive and Inductive Coupling. citation:-1
+title:Test Consideration for Nanometer-Scale CMOS Circuits. citation:-1
+title:Fault Detection and Location Using IDD Waveform Analysis. citation:-1
+title:Leakage and Process Variation Effects in Current Testing on Future CMOS Circuits. citation:-1
+title:Adaptive Supply Voltage for Low-Power Ripple-Carry and Carry-Select Adders. citation:-1
+title:Estimating Circuit Activity in Combinational CMOS Digital Circuits. citation:-1
+title:Enhancing Yield at the End of the Technology Roadmap. citation:-1
+title:An alternate design paradigm for low-power, low-cost, testable hybrid systems using scaled LTPS TFTs. citation:-1
+title:Leakage Current in Deep-Submicron CMOS Circuits. citation:-1
+title:Low-power design techniques for scaled technologies. citation:-1
+title:Guest Editorial. citation:-1
+title:GAARP: A Power-Aware GALS Architecture for Real-Time Algorithm-Specific Tasks. citation:-1
+title:Leakage Power Analysis and Reduction for Nanoscale Circuits. citation:-1
+title:Low Voltage Low Power CMOS Design Techniques for Deep Submicron ICs. citation:-1
+title:Process Variations and Process-Tolerant Design. citation:-1
+title:Power Supply Noise Aware Floorplanning and Decoupling Capacitance Placement. citation:-1
+title:Coping with Variations through System-Level Design. citation:-1
+title:Dynamic Supply Current Testing of Analog Circuits Using Wavelet Transform. citation:-1
+title:An Accurate Analytical SNM Modeling Technique for SRAMs Based on Butterworth Filter Function. citation:-1
+title:Optimal Dual-VT Design in Sub-100 Nanometer PDSOI and Double-Gate Technologies. citation:-1
+title:Design and Analysis of a Self-Repairing SRAM with On-Chip Monitor and Compensation Circuitry. citation:-1
+title:Embedded Tutorial: Test Consideration for Nanometer Scale CMOS Circuits. citation:-1
+title:Modeling and Analysis of Loading Effect in Leakage of Nano-Scaled Bulk-CMOS Logic Circuits citation:-1
+title:IDDQ Testing for Deep-Submicron ICs: Challenges and Solutions. citation:-1
+title:Low power design under parameter variations. citation:-1
+title:Statistical Modeling of Pipeline Delay and Design of Pipeline under Process Variation to Enhance Yield in sub-100nm Technologies citation:-1
+title:On-chip interconnect modeling by wire duplication. citation:-1
+title:CRISTA: A New Paradigm for Low-Power, Variation-Tolerant, and Adaptive Circuit Synthesis Using Critical Path Isolation. citation:-1
+title:A Novel Delay Fault Testing Methodology Using Low-Overhead Built-In Delay Sensor. citation:-1
+title:Modeling and Circuit Synthesis for Independently Controlled Double Gate FinFET Devices. citation:-1
+title:Impact of Negative-Bias Temperature Instability in Nanoscale SRAM Array: Modeling and Analysis. citation:-1
+title:Self-Consistent Approach to Leakage Power and Temperature Estimation to Predict Thermal Runaway in FinFET Circuits. citation:-1
+title:Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications. citation:-1
+title:Reduction of Parametric Failures in Sub-100-nm SRAM Array Using Body Bias. citation:-1
+title:Synthesis of application-specific highly efficient multi-mode cores for embedded systems. citation:-1
+title:Variation-Aware Low-Power Synthesis Methodology for Fixed-Point FIR Filters. citation:-1
+title:Synthesis of skewed logic circuits. citation:-1
+title:Statistical timing analysis using levelized covariance propagation considering systematic and random variations of process parameters. citation:-1
+title:Transistor reordering for power minimization under delay constraint. citation:-1
+title:Within-Die Variation-Aware Scheduling in Superscalar Processors for Improved Throughput. citation:-1
+title:Estimation of power dissipation using a novel power macromodelingtechnique. citation:-1
+title:Estimation of activity for static and domino CMOS circuits considering signal correlations and simultaneous switching. citation:-1
+title:Delay Modeling and Statistical Design of Pipelined Circuit Under Process Variation. citation:-1
+title:Modeling and analysis of loading effect on leakage of nanoscaled bulk-CMOS logic circuits. citation:-1
+title:Modeling and Analysis of Leakage Currents in Double-Gate Technologies. citation:-1
+title:Accurate estimation of total leakage in nanometer-scale bulk CMOS circuits based on device geometry and doping profile. citation:-1
+title:Efficient modeling of 1/f/ noise using multirate process. citation:-1
+title:LVDCSL: a high fan-in, high-performance, low-voltage differential current switch logic family. citation:-1
+title:Efficient statistical approach to estimate power considering uncertain properties of primary inputs. citation:-1
+title:Accurate power estimation of CMOS sequential circuits. citation:-1
+title:Automatic synthesis of FPGA channel architecture for routability and performance. citation:-1
+title:BiCMOS logic testing. citation:-1
+title:OABA: a novel high-performance predictable circuit architecture for the deep submicron era. citation:-1
+title:Vertically integrated SOI circuits for low-power and high-performance applications. citation:-1
+title:Skewed CMOS: noise-tolerant high-performance low-power static circuit family. citation:-1
+title:Reducing leakage in a high-performance deep-submicron instruction cache. citation:-1
+title:On effective I testing of low-voltage CMOS circuits using leakage control techniques. citation:-1
+title:Intrinsic leakage in deep submicron CMOS ICs-measurement-based test solutions. citation:-1
+title:Layout-driven architecture synthesis for high-speed digital filters. citation:-1
+title:A forward body-biased low-leakage SRAM cache: device, circuit and architecture considerations. citation:-1
+title:Efficient testing of SRAM with optimized march sequences and a novel DFT technique for emerging failures due to process variations. citation:-1
+title:Current demand balancing: a technique for minimization of current surge in high performance clock-gated microprocessors. citation:-1
+title:Low-power scan design using first-level supply gating. citation:-1
+title:A novel wavelet transform-based transient current analysis for fault detection and localization. citation:-1
+title:Low-Power and testable circuit synthesis using Shannon decomposition. citation:-1
+title:A process variation compensating technique with an on-die leakage current sensor for nanometer scale dynamic circuits. citation:-1
+title:Device-Aware Yield-Centric Dual-V Design Under Parameter Variations in Nanoscale Technologies. citation:-1
+title:A Power Delivery and Decoupling Network Minimizing Ohmic Loss and Supply Voltage Variation in Silicon Nanoscale Technologies. citation:-1
+title:Novel Low-Overhead Operand Isolation Techniques for Low-Power Datapath Synthesis. citation:-1
+title:Combined circuit and architectural level variable supply-voltage scaling for low power. citation:-1
+title:A novel high-performance and robust sense amplifier using independent gate control in sub-50-nm double-gate MOSFET. citation:-1
+title:Significance driven computation: a voltage-scalable, variation-aware, quality-tuning motion estimator. citation:-1
+title:Ultra low voltage CMOS. citation:-1
+title:A voltage-scalable & process variation resilient hybrid SRAM architecture for MPEG-4 video processors. citation:-1
+title:Device/circuit interactions at 22nm technology node. citation:-1
+title:Energy-efficient Hardware Architecture and VLSI Implementation of a Polyphase Channelizer with Applications to Subband Adaptive Filtering. citation:-1
+title:Reliability Implications of Bias-Temperature Instability in Digital ICs. citation:-1
+title:Analysis of SRAM and eDRAM Cache Memories Under Spatial Temperature Variations. citation:-1
+title:Design Methodology for Low Power and Parametric Robustness Through Output-Quality Modulation: Application to Color-Interpolation Filtering. citation:-1
+title:Multiple-parameter CMOS IC testing with increased sensitivity for I. citation:-1
+title:Profit Aware Circuit Design Under Process Variations Considering Speed Binning. citation:-1
+title:Estimation of gate-to-channel tunneling current in ultra-thin oxide sub-50nm double gate devices. citation:-1
+title:A Low Complexity Reconfigurable DCT Architecture to Trade off Image Quality for Power Consumption. citation:-1
+title:Reduced computational redundancy implementation of DSP algorithms using computation sharing vector scaling. citation:-1
+title:High-performance FIR filter design based on sharing multiplication. citation:-1
+title:Design of Sigma-Delta Modulators With Arbitrary Transfer Functions. citation:-1
+title:An alternate design paradigm for robust spin-torque transfer magnetic RAM (STT MRAM) from circuit/architecture perspective. citation:-1
+title:A design methodology and device/circuit/architecture compatible simulation framework for low-power magnetic quantum cellular automata systems. citation:-1
+title:Design for burn-in test: a technique for burn-in thermal stability under die-to-die parameter variations. citation:-1
+title:Frequency Specification Testing of Analog Filters Using Wavelet Transform of Dynamic Supply Current. citation:-1
+title:Defect Oriented Testing of Analog Circuits Using Wavelet Analysis of Dynamic Supply Current. citation:-1
+title:Impact of Body Bias on Delay Fault Testing of Sub-100 nm CMOS Circuits. citation:-1
+title:Arbitrary Two-Pattern Delay Testing Using a Low-Overhead Supply Gating Technique. citation:-1
+title:Guest editorial: low-power electronics and design. citation:-1
+title:T5: Low-Power Design. citation:-1
+title:Scalable effort hardware design: exploiting algorithmic resilience for energy efficiency. citation:-1
+title:Efficient power conversion for ultra low voltage micro scale energy transducers. citation:-1
+title:Proceedings of the 10th ACM Great Lakes Symposium on VLSI 2000, Chicago, Illinois, USA, March 2-4, 2000 citation:-1
+title:Proceedings of the 11th ACM Great Lakes Symposium on VLSI 2001, West Lafayette, Indiana, USA, 2001 citation:-1
+title:TP-CRAHN: a Transport Protocol for Cognitive Radio Ad-Hoc Networks. citation:-1
+title:Proceedings of the 2004 International Symposium on Low Power Electronics and Design, 2004, Newport Beach, California, USA, August 9-11, 2004 citation:-1
+title:Low-power DWT-based quasi-averaging algorithm and architecture for epileptic seizure detection. citation:-1
+title:HERQULES: system level cross-layer design exploration for efficient energy-quality trade-offs. citation:-1
+title:Analysis and design of ultra low power thermoelectric energy harvesting systems. citation:-1
+title:A fading and interference aware routing protocol for multi-channel multi-radio wireless mesh networks. citation:-1
+title:An adaptive multiple rendezvous control channel for Cognitive Radio wireless ad hoc networks. citation:-1
+title:Integrated Systems in the More-than-Moore Era: Designing Low-Cost Energy-Efficient Systems Using Heterogeneous Components. citation:-1
+title:Learning-Based Spectrum Selection in Cognitive Radio Ad Hoc Networks. citation:-1
+title:Parametric failure analysis of embedded SRAMs using fast & accurate dynamic analysis. citation:-1
+title:System level DSP synthesis using voltage overscaling, unequal error protection & adaptive quality tuning. citation:-1
+title:Search: A routing protocol for mobile cognitive radio ad-hoc networks. citation:-1
+title:Computation Partitioning and Reuse for Power Efficient High Performance Digital Signal Processing. citation:-1
+title:Spectrum management of cognitive radio using multi-agent reinforcement learning. citation:-1
+title:Ultra Low-Power Clocking Scheme Using Energy Recovery and Clock Gating. citation:-1
+title:Gated Decap: Gate Leakage Control of On-Chip Decoupling Capacitors in Scaled Technologies. citation:-1
+title:Micro-scale energy harvesting: a system design perspective. citation:-1
+title:Improved clock-gating control scheme for transparent pipeline. citation:-1
+title:CORAL: Spectrum Aware Admission Policy in Cognitive Radio Mesh Networks. citation:-1
+title:Routing and Link Layer Protocol Design for Sensor Networks with Wireless Energy Transfer. citation:-1
+title:Analyzing the potential of cooperative Cognitive Radio technology on inter-vehicle communication. citation:-1
+title:Spectrum management in cognitive radio ad hoc networks. citation:-1
+title:Timed Input Pattern Generation for an Accurate Delay Calculation Under Multiple Input Switching. citation:-1
+title:Variable-Latency Adder (VL-Adder) Designs for Low Power and NBTI Tolerance. citation:-1
+title:Dynamic Bit-Width Adaptation in DCT: An Approach to Trade Off Image Quality and Computation Energy. citation:-1
+title:Self-Repairing SRAM Using On-Chip Detection and Compensation. citation:-1
+title:A Scalable Circuit-Architecture Co-Design to Improve Memory Yield for High-Performance Processors. citation:-1
+title:On-Chip Variability Sensor Using Phase-Locked Loop for Detecting and Correcting Parametric Timing Failures. citation:-1
+title:ABRM: Adaptive Beta -Ratio Modulation for Process-Tolerant Ultradynamic Voltage Scaling. citation:-1
+title:Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective. citation:-1
+title:Voltage Scalable High-Speed Robust Hybrid Arithmetic Units Using Adaptive Clocking. citation:-1
+title:Trifecta: A Nonspeculative Scheme to Exploit Common, Data-Dependent Subcritical Paths. citation:-1
+title:Process-Variation Resilient and Voltage-Scalable DCT Architecture for Robust Low-Power Computing. citation:-1
+title:Variation-tolerant and self-repair design methodology for low temperature polycrystalline silicon liquid crystal and organic light emitting diode displays. citation:-1
+title:VEDA: Variation-aware energy-efficient Discrete Wavelet Transform architecture. citation:-1
+title:Maximum power point considerations in micro-scale solar energy harvesting systems. citation:-1
+title:Scaled LTPS TFTs for low-cost low-power applications. citation:-1
+title:Memory-based embedded digital ATE. citation:-1
+title:Multiple-Parameter Side-Channel Analysis: A Non-invasive Hardware Trojan Detection Approach. citation:-1
+title:A Priority-Based 6T/8T Hybrid SRAM Architecture for Aggressive Voltage Scaling in Video Applications. citation:-1
+title:OFDM-Based Common Control Channel Design for Cognitive Radio Ad Hoc Networks. citation:-1
+title:End-to-end protocols for Cognitive Radio Ad Hoc Networks: An evaluation study. citation:-1
+title:Robust Level Converter for Sub-Threshold/Super-Threshold Operation: 100 mV to 2.5 V. citation:-1
+title:Novel Low Overhead Post-Silicon Self-Correction Technique for Parallel Prefix Adders Using Selective Redundancy and Adaptive Clocking. citation:-1
+title:A Read-Disturb-Free, Differential Sensing 1R/1W Port, 8T Bitcell Array. citation:-1
+title:Characterization of Random Process Variations Using Ultralow-Power, High-Sensitivity, Bias-Free Sub-Threshold Process Sensor. citation:-1
+title:Voltage over-scaling: A cross-layer design perspective for energy efficient systems. citation:-1
+title:Distributed data aggregation in sensor networks by regression based compression. citation:-1
+title:Data-centric attribute allocation and retrieval (DCAAR) scheme for wireless sensor networks. citation:-1
+title:Column-selection-enabled 8T SRAM array with ~1R/1W multi-port operation for DVFS-enabled processors. citation:-1
+title:IMPACT: imprecise adders for low-power approximate computing. citation:-1
+title:Data-dependant sense-amplifier flip-flop for low power applications. citation:-1
+title:REad/access-preferred (REAP) SRAM - architecture-aware bit cell design for improved yield and lower VMIN. citation:-1
+title:Dynamic effort scaling: managing the quality-efficiency tradeoff. citation:-1
+title:Significance driven computation on next-generation unreliable platforms. citation:-1
+title:Accurate characterization of random process variations using a robust low-voltage high-sensitivity sensor featuring replica-bias circuit. citation:-1
+title:Viterbi-Based Efficient Test Data Compression. citation:-1
+title:Design of voltage-scalable meta-functions for approximate computing. citation:-1
+title:Stage number optimization for switched capacitor power converters in micro-scale energy harvesting. citation:-1
+title:Tutorial: SoC Power Management Verification and Testing Issues. citation:-1
+title:Achieving Fairness in Wireless LANs by Enhanced IEEE 802.11 DCF. citation:-1
+title:A self-consistent model to estimate NBTI degradation and a comprehensive on-line system lifetime enhancement technique. citation:-1
+title:Cooperation and communication in Cognitive radio networks based on TV spectrum experiments. citation:-1
+title:Design in the nano-scale Era: Low-power, reliability, and error resiliency. citation:-1
+title:Multi-level wordline driver for low power SRAMs in nano-scale CMOS technology. citation:-1
+title:A Spectrum Sharing Algorithm Based on Spectrum Heterogeneity for Centralized Cognitive Radio Networks. citation:-1
+title:Complexity reduction of digital filters using shift inclusive differential coefficients. citation:-1
+title:A novel approach to high-level switching activity modeling with applications to low-power DSP system synthesis. citation:-1
+title:Exploring Asynchronous Design Techniques for Process-Tolerant and Energy-Efficient Subthreshold Operation. citation:-1
+title:Ultralow-Voltage Process-Variation-Tolerant Schmitt-Trigger-Based SRAM Design. citation:-1
+title:Soft-Error-Resilient FPGAs Using Built-In 2-D Hamming Product Code. citation:-1
+title:Integrated Design & Test: Conquering the Conflicting Requirements of Low-Power, Variation-Tolerance and Test Cost. citation:-1
+title:Learning with the Bandit: A Cooperative Spectrum Selection Scheme for Cognitive Radio Networks. citation:-1
+title:Cooperative spectrum management in cognitive Vehicular Ad Hoc Networks. citation:-1
+title:MACACO: Modeling and analysis of circuits for approximate computing. citation:-1
+title:Platforms and testbeds for experimental evaluation of cognitive ad hoc networks. citation:-1
+title:Two's complement computation sharing multiplier and its applications to high performance DFE. citation:-1
+title:Power dissipation, variations and nanoscale CMOS design: Test challenges and self-calibration/self-repair solutions. citation:-1
+title:A leakage control system for thermal stability during burn-in test. citation:-1
+title:Characterization of NBTI induced temporal performance degradation in nano-scale SRAM array using IDDQ. citation:-1
+title:A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs. citation:-1
+title:Reliable and self-repairing SRAM in nano-scale technologies using leakage and delay monitoring. citation:-1
+title:Viterbi-Based Efficient Test Data Compression. citation:-1
+title:CLIP: Circuit Level IC Protection Through Direct Injection of Process Variations. citation:-1
+title:Logic and Memory Design Based on Unequal Error Protection for Voltage-scalable, Robust and Adaptive DSP Systems. citation:-1
+title:Slope Interconnect Effort: Gate-Interconnect Interdependent Delay Modeling for Early CMOS Circuit Simulation. citation:-1
+title:Editorial for special issue on "Cognitive radio ad hoc networks". citation:-1
+title:Low power reconfigurable DCT design based on sharing multiplication. citation:-1
+title:Cognitive computing with spin-based neural networks. citation:-1
+title:Future cache design using STT MRAMs for improved energy efficiency: devices, circuits and architecture. citation:-1
+title:SALSA: systematic logic synthesis of approximate circuits. citation:-1
+title:Adaptive Sensing Scheduling and Spectrum Selection in Cognitive Wireless Mesh Networks. citation:-1
+title:Low-Overhead Maximum Power Point Tracking for Micro-Scale Solar Energy Harvesting Systems. citation:-1
+title:A framework for simulating hybrid MTJ/CMOS circuits: Atoms to system approach. citation:-1
+title:Layout-aware optimization of stt mrams. citation:-1
+title:Low-Power and Process Variation Tolerant Memories in sub-90nm Technologies. citation:-1
+title:Transforming healthcare and medical telemetry through cognitive radio networks. citation:-1
+title:Modeling and Simulation of Smart and Green Computing Systems. citation:-1
+title:Proposal For Neuromorphic Hardware Using Spin Devices citation:-1
+title:Low-Power CMOS VLSI Circuit Design. citation:-1
+title:TapeCache: a high density, energy efficient cache based on domain wall memory. citation:-1
+title:A low-power "near-threshold" epileptic seizure detection processor with multiple algorithm programmability. citation:-1
+title:High-performance low-energy STT MRAM based on balanced write scheme. citation:-1
+title:Modeling, design and cross-layer optimization of polysilicon solar cell based micro-scale energy harvesting systems. citation:-1
+title:Write-optimized reliable design of STT MRAM. citation:-1
+title:Spin as state variable for computation: prospects and perspectives. citation:-1
+title:Facial Expression Recognition Using Game Theory and Particle Swarm Optimization. citation:-1
+title:Multibiometric System Using Distance Regularized Level Set Method and Particle Swarm Optimization. citation:-1
+title:Functional analysis of circuits under timing variations. citation:-1
+title:A metric for analyzing effective on-chip inductive coupling. citation:-1
+title:Robust high-performance low-power carry select adder. citation:-1
+title:Integer linear programming-based synthesis of skewed logic circuits. citation:-1
+title:HBIST: An approach towards zero external test cost. citation:-1
+title:Multibiometric System Using Level Set Method and Particle Swarm Optimization. citation:-1
+title:Spin based neuron-synapse module for ultra low power programmable computational networks. citation:-1
+title:Welcome message from the CORAL 2012 chairs. citation:-1
+title:Facial Expression Recognition Using Game Theory. citation:-1
+title:Low-Power Architecture for Epileptic Seizure Detection Based on Reduced Complexity DWT. citation:-1
+title:Parameter Variation Tolerance and Error Resiliency: New Design Paradigm for the Nanoscale Era. citation:-1
+title:Digital Computation in Subthreshold Region for Ultralow-Power Operation: A Device-Circuit-Architecture Codesign Perspective. citation:-1
+title:Panel: SoC power management implications on validation and testing. citation:-1
+title:Enhancing wireless medical telemetry through dynamic spectrum access. citation:-1
+title:Low-Power Digital Signal Processing Using Approximate Adders. citation:-1
+title:Verifying Reliability (Dagstuhl Seminar 12341). citation:-1
+title:On Modeling and Evaluation of Logic Circuits under Timing Variations. citation:-1
+title:A leakage-tolerant low-leakage register file with conditional sleep transistor. citation:-1
+title:Device characterization and cross-layer protocol design for RF energy harvesting sensors. citation:-1
+title:Self-Healing Design in Deep Scaled CMOS Technologies. citation:-1
+title:Individuality of Bangla numerals. citation:-1
+title:Guest Editorial Advances in Design of Energy-Efficient Circuits and Systems (Second Issue). citation:-1
+title:Design Optimization and Implementation for RF Energy Harvesting Circuits. citation:-1
+title:Efficient Design of Micro-Scale Energy Harvesting Systems. citation:-1
+title:TCP CRAHN: A Transport Control Protocol for Cognitive Radio Ad Hoc Networks. citation:-1

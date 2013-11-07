@@ -1,0 +1,131 @@
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension title2:Matrix eigensystem routines: EISPACK guide extension citation:583 ncitation:523 pid2400552
+title1:The Impact of Multicore on Math Software. title2:The Impact of Multicore on Math Software and Exploiting Single Precision Computing to Obtain Double Precision Results. citation:3 ncitation:82 pid574798
+title1:Developing an Architecture to Support the Implementation and Development of Scientific computing Applications. title2:Developing an Architecture to Support the Implementation and Development of Scientific Computing Applications citation:5 ncitation:4 pid2330053
+title1:Management of the Nationale HPCC Software Exchange - A Virtual Distributed Digital Library. title2:Management of the Nationale HPCC Software Exchange-A Virtual Distributed Digital Library. citation:1 ncitation:1 pid1037837
+title1:Solving Systems of Linear Equations on the CELL Processor Using Cholesky Factorization. citation:6 ncitation:77 pid1037835
+title1:Distributed Information Management in the National HPCC Software Exchange. title2:Distributed information management in the National HPCC Software Exchange citation:1 ncitation:1 pid555904
+title1:Performance analysis of MPI collective operations. title2:Performance Analysis of MPI Collective Operations citation:2 ncitation:133 pid196206
+title1:Revisiting Matrix Product on Master-Worker Platforms. title2:Revisiting matrix product on master-worker platforms citation:5 ncitation:8 pid877583
+title1:Block-Cyclic Array Redistribution on Networks of Workstations. title2:Block-cyclic array redistribution on networks of workstations citation:2 ncitation:2 pid1538165
+title1:High Performance Computing, Computational Grid, and Numerical Libraries. title2:High performance computing, computational grid, and numerical libraries citation:1 ncitation:-1 pid1417192
+title1:Fault Tolerance in Message Passing and in Action. title2:Fault Tolerance in Message Passing and in Action citation:1 ncitation:1 pid1434797
+title1:A Parallel Algorithm for the Reduction of a Nonsymmetric Matrix to Block Upper-Hessenberg Form. title2:LAPACK Working Note 68: A Parallel Algorithm for the Reduction of a Nonsymmetric Matrix to Block Upper-Hessenberg Form citation:2 ncitation:38 pid27156
+title1:Self-Adapting Software for Numerical Linear Algebra Library Routines on Clusters. title2:Self-adapting software for numerical linear algebra library routines on clusters citation:2 ncitation:2 pid1126415
+title1:The Impact of Multicore on Math Software and Exploiting Single Precision Computing to Obtain Double Precision Results. title2:The Impact of Multicore on Math Software and Exploiting Single Precision Computing to Obtain Double Precision Results. citation:3 ncitation:3 pid574756
+title1:Present and Future Supercomputer Architectures. title2:Present and Future Supercomputer Architectures. citation:1 ncitation:1 pid1034098
+title1:Open MPI: Goals, Concept, and Design of a Next Generation MPI Implementation. title2:Open MPI: Goals, concept, and design of a next generation MPI implementation citation:725 ncitation:663 pid534062
+title1:High Performance Computing and Trends: Connecting Computational Requirements with Computing Resources. title2:High performance computing and trends: connecting computational requirements with computing resources citation:1 ncitation:1 pid555843
+title1:The LINPACK Benchmark: past, present and future. title2:The LINPACK benchmark: past, present and future citation:379 ncitation:333 pid555867
+title1:Optimal Routing in Binomial Graph Networks. title2:Optimal routing in binomial graph networks citation:4 ncitation:4 pid444925
+title1:A Holistic Approach for Performance Measurement and Analysis for Petascale Applications. title2:A holistic approach for performance measurement and analysis for petascale applications citation:7 ncitation:5 pid1452813
+title1:High Performance Linear Algebra Package for FORTRAN 90. title2:High performance linear algebra package for FORTRAN 90 citation:1 ncitation:1 pid444923
+title1:Revisiting Matrix Product on Master-Worker Platforms. title2:Revisiting matrix product on master-worker platforms citation:5 ncitation:8 pid555902
+title1:The Problem With the Linpack Benchmark 1.0 Matrix Generator. title2:The problem with the Linpack benchmark 1.0 matrix generator citation:2 ncitation:2 pid810340
+title1:High Performance Computing Trends, Supercomputers, Clusters and Grids. title2:High Performance Computing Trends, Supercomputers, Clusters and Grids citation:1 ncitation:1 pid1591640
+title1:The GrADS Project: Software Support for High-Level Grid Application Development. title2:The GrADS project: Software support for high-level grid application development citation:387 ncitation:381 pid1450947
+title1:Deploying Fault-Tolerance and Task Migration with NetSolve. title2:Deploying fault-tolerance and task migration with NetSolve citation:2 ncitation:19 pid1357726
+title1:A set of level 3 basic linear algebra subprograms. title2:A set of level 3 basic linear algebra subprograms citation:2137 ncitation:2085 pid2189979
+title1:Automatically Tuned Linear Algebra Software. title2:Automatically tuned linear algebra software citation:773 ncitation:753 pid2401698
+title1:Automated empirical optimizations of software and the ATLAS project. title2:Automated empirical optimizations of software and the ATLAS project citation:1140 ncitation:1082 pid278561
+title1:LAPACK: a portable linear algebra library for high-performance computers. title2:LAPACK: A portable linear algebra library for high-performance computers citation:402 ncitation:343 pid1209937
+title1:Preface to the special issue on the basic linear algebra subprograms (BLAS). title2:Preface to the special issue on the Basic Linear Algebra Subprograms (BLAS) citation:0 ncitation:0 pid2278228
+title1:Improved Runtime and Transfer Time Prediction Mechanisms in a Network Enabled Servers Middleware. title2:Improved runtime and transfer time prediction mechanisms in a network enabled servers middleware citation:1 ncitation:3 pid876773
+title1:DARPA's HPCS Program- History, Models, Tools, Languages. title2:DARPA's HPCS Program-History, Models, Tools, Languages citation:3 ncitation:14 pid1428108
+title1:Changing Technologies of HPC. title2:Changing technologies of HPC citation:1 ncitation:7 pid466759
+title1:Lapack for Fortran90 Compiler. title2:LAPACK for Fortran90 compiler citation:0 ncitation:-1 pid2324116
+title1:PARKBENCH: Methodology, Relations and Results. title2:ParkBench: Methodology, relations and results citation:5 ncitation:4 pid2400297
+title1:Constructing Numerical Software Libraries for HPCC Environments. title2:Constructing numerical software libraries for hpcc environments citation:1 ncitation:1 pid2344960
+title1:Self adaptivity in Grid computing. title2:Self adaptivity in grid computing citation:5 ncitation:147 pid242970
+title1:LAPACK for Distributed Memory Architectures: The Next Generation. title2:LAPACK for Distributed Memory Architectures: The Next Generation. citation:7 ncitation:8 pid1355749
+title1:A Distributed Memory Implementation of the Nonsymmetric QR Algorithm. title2:A Distributed Memory Implementation of the Nonsymmetric QR Algorithm. citation:1 ncitation:1 pid1035959
+title1:SCHEDULE: An Environment for Developing Transportable Explicitly Parallel Codes in Fortran-Abstract. title2:SCHEDULE: An Environment for Developing Transportable Explicitly Parallel Codes in Fortran-Abstract citation:0 ncitation:0 pid1501993
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface: (Selected Papers from the EuroPVMMPI 2002 Conference). title2:Recent Advances in Parallel Virtual Machine and Message Passing Interface (Selected Papers from the EuroPVMMPI 2002 Conference) citation:1 ncitation:3 pid1707096
+title1:Comparison of Nonlinear Conjugate-Gradient Methods for Computing the Electronic Properties of Nanostructure Architectures. title2:Comparison of nonlinear conjugate-gradient methods for computing the electronic properties of nanostructure architectures citation:3 ncitation:3 pid1295318
+title1:Performance Analysis of MPI Collective Operations. title2:Performance Analysis of MPI Collective Operations citation:2 ncitation:133 pid1295316
+title1:Proposal of MPI Operation Level Checkpoint/Rollback and One Implementation. title2:Proposal of MPI operation level checkpoint/rollback and one implementation citation:3 ncitation:3 pid1295317
+title1:Distribution of Mathematical Software via Electronic Mail. title2:Distribution of mathematical software via electronic mail citation:396 ncitation:389 pid1121245
+title1:Pumma: Parallel universal matrix multiplication algorithms on distributed memory concurrent computers. title2:LAPACK working note 57: PUMMA: parallel universal matrix multiplication algorithms on distributed memory concurrent computers citation:3 ncitation:134 pid1121244
+title1:Scheduling Block-Cyclic Array Redistribution. title2:Scheduling Block-Cyclic Array Redistribution citation:2 ncitation:112 pid823723
+title1:1990 Gordon Bell Prize Winners. title2:1990 Gordon Bell Prize Winners citation:2 ncitation:13 pid2230055
+title1:Active Netlib: An Active Mathematical Software Collection for Inquiry-based Computational Science and Engineering Education. title2:Active netlib: an active mathematical software collection for inquiry-based computational science & engineering education citation:6 ncitation:6 pid549658
+title1:High Performance Computing and Trends: Connected Computational Requirements with Computing Resources. title2:High performance computing and trends: connecting computational requirements with computing resources citation:1 ncitation:1 pid2455190
+title1:Evaluating Block Algorithm Variants in LAPACK. title2:Lapack working note 19: Evaluating block algorithm variants in LAPACK citation:3 ncitation:62 pid1614748
+title1:Stochastic Performance Prediction for Iterative Algorithms in Distributed Environments. title2:Stochastic performance prediction for iterative algorithms in distributed environments citation:6 ncitation:6 pid1614742
+title1:The PVM Concurrent Computing System: Evolution, Experiences, and Trends. title2:The PVM concurrent computing system: Evolution, experiences, and trends citation:443 ncitation:424 pid2401526
+title1:Trends in High Performance Computing. title2:Trends in High-Performance Computing citation:1 ncitation:14 pid1121066
+title1:Special Issue on Tools in the ACTS Collection 2004. title2:Special issue on tools in the ACTS Collection 2004 citation:2 ncitation:2 pid2357047
+title1:Design of Interactive Environment for Numerically Intensive Parallel Linear Algebra Calculations. title2:Design of interactive environment for numerically intensive parallel linear algebra calculations citation:7 ncitation:7 pid547919
+title1:Active netlib: an active mathematical software collection for inquiry-based computational science & engineering education. title2:Active netlib: an active mathematical software collection for inquiry-based computational science & engineering education citation:6 ncitation:6 pid1038304
+title1:Active netlib: an active mathematical software collection for inquiry-based computational science & engineering education. title2:Active netlib: an active mathematical software collection for inquiry-based computational science & engineering education citation:6 ncitation:6 pid2463178
+title1:Reduction to condensed form for the eigenvalue problem on distributed memory architectures. title2:LAPACK Working Note 30: Reduction to Condensed Form for the Eigenvalue Problem on Distributed Memory Architectures citation:4 ncitation:88 pid2227090
+title1:A Scalable Non-blocking Multicast Scheme for Distributed DAG Scheduling. title2:A scalable non-blocking multicast scheme for distributed dag scheduling citation:1 ncitation:1 pid2401415
+title1:Paravirtualization effect on single- and multi-threaded memory-intensive linear algebra software. title2:Paravirtualization effect on single-and multi-threaded memory-intensive linear algebra software citation:7 ncitation:4 pid810890
+title1:The Impact of Multicore on Math Software and Exploiting Single Precision Computing to Obtain Double Precision Results. title2:The Impact of Multicore on Math Software and Exploiting Single Precision Computing to Obtain Double Precision Results. citation:3 ncitation:3 pid575337
+title1:Revisiting Matrix Product on Master-Worker Platforms title2:Revisiting matrix product on master-worker platforms citation:5 ncitation:8 pid1423171
+title1:Deploying fault tolerance and taks migration with NetSolve. title2:Deploying fault-tolerance and task migration with NetSolve citation:2 ncitation:19 pid1164511
+title1:Industrial Application Areas of High-Performance Computing. title2:Industrial application areas of high-performance computing citation:1 ncitation:1 pid811042
+title1:High Performance Computing, Computational Grid, and Numerical Libraries. title2:High performance computing, computational grid, and numerical libraries citation:1 ncitation:-1 pid877073
+title1:An iterative solver benchmark. title2:An iterative solver benchmark citation:8 ncitation:5 pid548985
+title1:Hash Functions for Datatype Signatures in MPI. title2:Hash functions for datatype signatures in MPI citation:6 ncitation:6 pid2467154
+title1:Design and Implementation of the ScaLAPACK LU, QR, and Cholesky Factorization Routines. title2:Lapack working note 80: The design and implementation of the scalapack lu, qr, and cholesky factorization routines citation:2 ncitation:217 pid548989
+title1:Biographies. title2:Biographies citation:2 ncitation:2 pid548991
+title1:Constructing Numerical Software Libraries for High-Performance Computing Environments. title2:Constructing numerical software libraries for high-performance computing environments citation:0 ncitation:-1 pid239418
+title1:Scheduling Block-Cyclic Array Redistribution. title2:Scheduling Block-Cyclic Array Redistribution citation:2 ncitation:112 pid2443792
+title1:Using Agent-Based Software for Scientific Computing in the NetSolve System. title2:Using Agent-based Software for Scientific Computing in the NetSolve System citation:1 ncitation:22 pid2142768
+title1:A Grid Computing Environment for Enabling Large Scale Quantum Mechanical Simulations. title2:A grid computing environment for enabling large scale quantum mechanical simulations citation:2 ncitation:2 pid410260
+title1:Reliability Analysis of Self-Healing Network using Discrete-Event Simulation. title2:Reliability analysis of self-healing network using discrete-event simulation citation:4 ncitation:4 pid1420955
+title1:Analytical modeling and optimization for affinity based thread scheduling on multicore systems. title2:Analytical modeling and optimization for affinity based thread scheduling on multicore systems citation:7 ncitation:5 pid220460
+title1:Parallel and Distributed Processing and Applications, Third International Symposium, ISPA 2005, Nanjing, China, November 2-5, 2005, Proceedings title2:Parallel and Distributed Processing and Applications: Third International Symposium, ISPA 2005, Nanjing, China, November 2-5, 2005: Proceedings citation:1 ncitation:1 pid1598901
+title1:Applied Parallel Computing. State of the Art in Scientific Computing, 8th International Workshop, PARA 2006, Umeå, Sweden, June 18-21, 2006, Revised Selected Papers citation:2 ncitation:2 pid619395
+title1:Vector and Parallel Processing - VECPAR '98, Third International Conference, Porto, Portugal, June 21-23, 1998, Selected Papers and Invited Talks title2:Vector and Parallel Processing-VECPAR'98: Third International Conference Porto, Portugal, June 21-23, 1998 Selected Papers and Invited Talks citation:1 ncitation:2 pid1425208
+title1:Parallel Two-Sided Matrix Reduction to Band Bidiagonal Form on Multicore Architectures. title2:Parallel two-sided matrix reduction to band bidiagonal form on multicore architectures citation:7 ncitation:5 pid467732
+title1:Dodging the Cost of Unavoidable Memory Copies in Message Logging Protocols. title2:Dodging the cost of unavoidable memory copies in message logging protocols citation:5 ncitation:5 pid918502
+title1:Scheduling for Numerical Linear Algebra Library at Scale. title2:Scheduling for Numerical Linear Algebra Library at Scale. citation:3 ncitation:-1 pid1350392
+title1:QCG-OMPI: MPI applications on grids. title2:QCG-OMPI: MPI applications on grids citation:4 ncitation:4 pid1569510
+title1:Fully Empirical Autotuned QR Factorization For Multicore Architectures title2:Fully Empirical Autotuned QR Factorization For Multicore Architectures citation:1 ncitation:5 pid810699
+title1:High-performance high-resolution semi-Lagrangian tracer transport on a sphere. title2:High-performance high-resolution semi-Lagrangian tracer transport on a sphere citation:1 ncitation:-1 pid1503436
+title1:Selected papers of the Workshop on Clusters, Clouds and Grids for Scientific Computing (CCGSC). title2:Selected papers of the Workshop on Clusters, Clouds and Grids for Scientific Computing (CCGSC) citation:2 ncitation:2 pid1034420
+title1:Hierarchical QR factorization algorithms for multi-core cluster systems title2:Hierarchical QR factorization algorithms for multi-core cluster systems citation:2 ncitation:1 pid1034422
+title1:Solving linear systems on vector and shared memory computers. title2:Solving linear systems on vector and shared memory computers citation:629 ncitation:625 pid1209823
+title1:Engineering the grid - status and perspective. title2:Engineering the Grid: Status and Perspective citation:7 ncitation:7 pid1254996
+title1:A Fully Empirical Autotuned Dense QR Factorization for Multicore Architectures. title2:Fully Empirical Autotuned QR Factorization For Multicore Architectures citation:1 ncitation:5 pid488152
+title1:Correlated Set Coordination in Fault Tolerant Message Logging Protocols. citation:1 ncitation:9 pid918454
+title1:EZTrace: A Generic Framework for Performance Analysis. title2:EZTrace: a generic framework for performance analysis citation:8 ncitation:4 pid1334064
+title1:Architecture-aware Algorithms and Software for Peta and Exascale Computing. title2:Architecture-aware Algorithms and Software for Peta and Exascale Computing citation:0 ncitation:-1 pid342772
+title1:Kernel Assisted Collective Intra-node MPI Communication among Multi-Core and Many-Core CPUs. title2:Kernel assisted collective intra-node communication among multicore and manycore CPUs citation:4 ncitation:7 pid877487
+title1:On Scalability for MPI Runtime Systems. title2:On scalability for mpi runtime systems citation:5 ncitation:5 pid435425
+title1:OMPIO: A Modular Software Architecture for MPI I/O. title2:OMPIO: a modular software architecture for MPI I/O citation:6 ncitation:4 pid1073246
+title1:Impact of Kernel-Assisted MPI Communication over Scientific Applications: CPMD and FFTW. title2:Impact of Kernel-assisted MPI communication over scientific applications: CPMD and FFTW citation:2 ncitation:2 pid360140
+title1:Mixed-Tool Performance Analysis on Hybrid Multicore Architectures. title2:Mixed-tool performance analysis on hybrid multicore architectures citation:1 ncitation:1 pid344406
+title1:Trace-based performance analysis for the petascale simulation code FLASH. title2:Trace-based performance analysis for the petascale simulation code FLASH citation:2 ncitation:2 pid1420092
+title1:PLASMA. title2:Distributed dense numerical linear algebra algorithms on massively parallel architectures: DPLASMA citation:6 ncitation:-1 pid1073100
+title1:An Implementation of the Tile QR Factorization for a GPU and Multiple CPUs. title2:An implementation of the tile QR factorization for a GPU and multiple CPUs citation:7 ncitation:6 pid1420033
+title1:Experiences with Windows NT as a Cluster Computing Platform for Parallel Computing. title2:Experiences with Windows NT as a cluster computing platform for parallel computing citation:6 ncitation:6 pid753172
+title1:Conjugate-gradient eigenvalue solvers in computing electronic properties of nanostructure architectures. title2:Conjugate-gradient eigenvalue solvers in computing electronic properties of nanostructure architectures citation:5 ncitation:5 pid1281375
+title1:Profiling high performance dense linear algebra algorithms on multicore architectures for power and energy efficiency. title2:Profiling high performance dense linear algebra algorithms on multicore architectures for power and energy efficiency citation:8 ncitation:6 pid576008
+title1:National HPCC Software Exchange (NHSE): Uniting the High Performance Computing and Communications Community. title2:National HPCC Software Exchange (NHSE): Uniting the High PerformanceComputing and Communications Community citation:1 ncitation:1 pid877466
+title1:Evaluation of the HPC Challenge Benchmarks in Virtualized Environments. title2:Evaluation of the HPC challenge benchmarks in virtualized environments citation:6 ncitation:3 pid255573
+title1:A fast algorithm for the symmetric eigenvalue problem. title2:A fast algorithm for the symmetric eigenvalue problem citation:3 ncitation:-1 pid2133047
+title1:High Performance Dense Linear System Solver with Resilience to Multiple Soft Errors. title2:High Performance Dense Linear System Solver with Resilience to Multiple Soft Errors citation:6 ncitation:2 pid1124912
+title1:A Class of Communication-avoiding Algorithms for Solving General Dense Linear Systems on CPU/GPU Parallel Machines. title2:A class of communication-avoiding algorithms for solving general dense linear systems on CPU/GPU parallel machines citation:2 ncitation:0 pid2198084
+title1:Block-asynchronous Multigrid Smoothers for GPU-accelerated Systems. title2:Block-asynchronous multigrid smoothers for GPU-accelerated systems citation:6 ncitation:3 pid279358
+title1:Multi-GPU Implementation of LU Factorization. title2:Multi-GPU Implementation of LU Factorization citation:2 ncitation:0 pid434025
+title1:BlackjackBench: portable hardware characterization. title2:BlackjackBench: portable hardware characterization citation:3 ncitation:0 pid1034288
+title1:Reducing the Amount of Pivoting in Symmetric Indefinite Systems. title2:Reducing the amount of pivoting in symmetric indefinite systems citation:6 ncitation:4 pid1034293
+title1:Enhancing Parallelism of Tile Bidiagonal Transformation on Multicore Architectures Using Tree Reduction. title2:Enhancing parallelism of tile bidiagonal transformation on multicore architectures using tree reduction citation:1 ncitation:1 pid1533459
+title1:GPU-Accelerated Asynchronous Error Correction for Mixed Precision Iterative Refinement. title2:GPU-accelerated asynchronous error correction for mixed precision iterative refinement citation:2 ncitation:0 pid1616262
+title1:A Checkpoint-on-Failure Protocol for Algorithm-Based Recovery in Standard MPI. title2:A Checkpoint-on-Failure protocol for algorithm-based recovery in standard MPI citation:6 ncitation:2 pid737789
+title1:From Serial Loops to Parallel Execution on Distributed Systems. title2:From serial loops to parallel execution on distributed systems citation:0 ncitation:0 pid410423
+title1:Automatically Tuned Linear Algebra Software. title2:Automatically tuned linear algebra software citation:773 ncitation:753 pid877505
+title1:A Block-Asynchronous Relaxation Method for Graphics Processing Units. title2:A block-asynchronous relaxation method for graphics processing units citation:6 ncitation:3 pid2257447
+title1:HierKNEM: An Adaptive Framework for Kernel-Assisted and Topology-Aware Collective Communications on Many-core Clusters. title2:HierKNEM: an adaptive framework for kernel-assisted and topology-aware collective communications on many-core clusters citation:7 ncitation:6 pid1423996
+title1:Hierarchical QR Factorization Algorithms for Multi-core Cluster Systems. title2:Hierarchical QR factorization algorithms for multi-core cluster systems citation:2 ncitation:1 pid2382014
+title1:A Parallel Tiled Solver for Dense Symmetric Indefinite Systems on Multicore Architectures. title2:A parallel tiled solver for dense symmetric indefinite systems on multicore architectures citation:4 ncitation:3 pid556119
+title1:A Comprehensive Study of Task Coalescing for Selecting Parallelism Granularity in a Two-Stage Bidiagonal Reduction. title2:A comprehensive study of task coalescing for selecting parallelism granularity in a two-stage bidiagonal reduction citation:2 ncitation:1 pid556118
+title1:A scalable framework for heterogeneous GPU-based clusters. title2:A scalable framework for heterogeneous GPU-based clusters citation:9 ncitation:0 pid83242
+title1:An Evaluation of User-Level Failure Mitigation Support in MPI. title2:An evaluation of user-level failure mitigation support in MPI citation:9 ncitation:1 pid408630
+title1:Profiling high performance dense linear algebra algorithms on multicore architectures for power and energy efficiency. title2:Profiling high performance dense linear algebra algorithms on multicore architectures for power and energy efficiency citation:8 ncitation:6 pid1455536
+title1:Anatomy of a globally recursive embedded LINPACK benchmark. title2:Anatomy of a globally recursive embedded LINPACK benchmark citation:3 ncitation:None pid1037819
+title1:Correlated set coordination in fault tolerant message logging protocols for many-core clusters. citation:1 ncitation:None pid2780467
+title1:Weighted Block-Asynchronous Iteration on GPU-Accelerated Systems. title2:Weighted block-asynchronous iteration on GPU-Accelerated systems citation:1 ncitation:None pid2780495
+title1:Energy Footprint of Advanced Dense Numerical Linear Algebra Using Tile Algorithms on Multicore Architectures. title2:Energy Footprint of Advanced Dense Numerical Linear Algebra Using Tile Algorithms on Multicore Architectures citation:4 ncitation:None pid2791280

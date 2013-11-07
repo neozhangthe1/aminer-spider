@@ -1,0 +1,416 @@
+title:Deadlock-Free Prefix Multicasting in Irregular Networks. citation:-1
+title:A dynamic range resource reservation protocol for QoS support in wireless networks. citation:-1
+title:A Class-Based Search System in Unstructured P2P Networks. citation:-1
+title:Broadcasting in Faulty Cube-Connected-Cycles with Minimum Recovery Time. citation:-1
+title:DRBTS: Distributed Reputation-based Beacon Trust System. citation:-1
+title:User Group Structures in Object-Oriented Database Authorization. citation:-1
+title:Topic 15: Mobile Computing. citation:-1
+title:A Race-Free Bandwidth Reservation Protocol for QoS Routing in Mobile Ad Hoc Networks. citation:-1
+title:A Novel k-Parent Flooding Tree for Secure and Reliable Broadcasting in Sensor Networks. citation:-1
+title:Unicast, Multicast, and Broadcast on Enhanced Fibonacci Cubes. citation:-1
+title:Hierarchical Multicast Tree Algorithms for Application Layer Mesh Networks. citation:-1
+title:Utility-Based Routing in Communication Networks with Unstable Links. citation:-1
+title:Energy-Efficient Connected Coverage of Discrete Targets in Wireless Sensor Networks. citation:-1
+title:Dynamic Snooping in a Fault-Tolerant Distributed Shared Memory. citation:-1
+title:A Distributed Formation of a Virtual Backbone in MANETs Using Adjustable Transmission Ranges. citation:-1
+title:Efficient Backbone Construction Methods in MANETs Using Directional Antennas. citation:-1
+title:A Generic Distributed Broadcast Scheme in Ad Hoc Wireless Networks. citation:-1
+title:Cluster-Based Intelligent Searching in Unstructured Peer-to-Peer Networks. citation:-1
+title:Computation of Minimal Uniform Transmission Power in Ad Hoc Wireless Networks. citation:-1
+title:Utility-Based Opportunistic Routing in Multi-Hop Wireless Networks. citation:-1
+title:A Nonblocking Approach for Reaching an Agreement on Request Total Orders. citation:-1
+title:Available Bandwidth Detection with Improved Transport Control Algorithm for Heterogeneous Networks. citation:-1
+title:Construction of Power Efficient Routing Tree for Ad Hoc Wireless Networks Using Directional Antenna. citation:-1
+title:Improve Searching by Reinforcement Learning in Unstructured P2Ps. citation:-1
+title:Survivable Multi-Level Ad-Hoc Group Operations. citation:-1
+title:Quorum Based IP Address Autoconfiguration in Mobile Ad Hoc Networks. citation:-1
+title:A Practical Method to Form Energy Efficient Connected -Coverage in Wireless Sensor Networks. citation:-1
+title:Extended Minimal Routing in 2-D Meshes with Faulty Blocks. citation:-1
+title:Mobility Control for Complete Coverage in Wireless Sensor Networks. citation:-1
+title:A Novel CDS-Based Reputation Monitoring System for Wireless Sensor Networks. citation:-1
+title:Internal Node and Shortcut Based Routing with Guaranteed Delivery in Wireless Networks. citation:-1
+title:Energy Efficient Fractional Coverage Schemes for Low Cost Wireless Sensor Networks. citation:-1
+title:A combined functional and object-oriented approach to software design. citation:-1
+title:Understanding the Tolerance of Dynamic Networks: A Routing-Oriented Approach. citation:-1
+title:Incentive Compatible Cost- and Stability-Based Routing in Ad Hoc Networks. citation:-1
+title:On-Demand Location-Aided QoS Routing in Ad Hoc Networks. citation:-1
+title:Balanced Hypercubes. citation:-1
+title:A New Fault Information Model for Fault-Tolerant Adaptive and Minimal Routing in 3-D Meshes. citation:-1
+title:An Extended Fault-Tolerant Link-State Routing Protocol in the Internet. citation:-1
+title:Fault-Tolerant Broadcasting in Hypercubes via Local Safety Information. citation:-1
+title:Optimal Movement-Assisted Sensor Deployment and Its Extensions in Wireless Sensor Networks. citation:-1
+title:Dimension-Exchange-Based Load Balancing on Injured Hypercubes. citation:-1
+title:A Hybrid Searching Scheme in Unstructured P2P Networks. citation:-1
+title:Social Welfare Based Routing in Ad hoc Networks. citation:-1
+title:The Postal Network: A Versatile Interconnection Topology. citation:-1
+title:Fault-Tolerant and Deadlock-Free Routing in 2-D Meshes Using Rectilinear-Monotone Polygonal Fault Blocks. citation:-1
+title:Connected k-Hop Clustering in Ad Hoc Networks. citation:-1
+title:Fault-Tolerant Routing in Meshes/Tori Using Planarly Constructed Fault Blocks. citation:-1
+title:Achieving Bounded Delay on Message Delivery in Publish/Subscribe Systems. citation:-1
+title:Domination and Its Applications in Ad Hoc Wireless Networks with Unidirectional Links. citation:-1
+title:Embedding of binomial trees in hypercubes with link faults. citation:-1
+title:Modeling Analysis and Improvement for Free-Riding on BitTorrent-like File Sharing Systems. citation:-1
+title:Coverage Issue in Sensor Networks with Adjustable Ranges. citation:-1
+title:Improve Peer Cooperation Using Social Networks. citation:-1
+title:Achieving Reliability through Replication in a Wide-Area Network DHT Storage System. citation:-1
+title:Deadlock-Free Adaptive Routing in Meshes Based on Cost-Effective Deadlock Avoidance Schemes. citation:-1
+title:Achieving Replication Consistency Using Cooperating Mobile Agents. citation:-1
+title:MHH: A Novel Protocol for Mobility Management in Publish/Subscribe Systems. citation:-1
+title:A deterministic fault-tolerant and deadlock-free routing protocol in 2-D meshes based on odd-even turn model. citation:-1
+title:Moore: An Extendable Peer-to-Peer Network Based on Incomplete Kautz Digraph with Constant Degree. citation:-1
+title:Mobility Management and Its Applications in Efficient Broadcasting in Mobile Ad Hoc Networks. citation:-1
+title:SMART: a scan-based movement-assisted sensor deployment method in wireless sensor networks. citation:-1
+title:Double-Covered Broadcast (DCB): A Simple Reliable Broadcast Algorithm in MANETs. citation:-1
+title:Energy Efficient Broadcast in Wireless Ad hoc Networks with Hitch-hiking. citation:-1
+title:An Efficient Distributed Mutual Exclusion Algorithm Based on Relative Consensus Voting. citation:-1
+title:DRIP: A Dynamic VoRonoi RegIons-Based Publish/Subscribe Protocol in Mobile Networks. citation:-1
+title:Efficient Broadcast in MANETs Using Network Coding and Directional Antennas. citation:-1
+title:On Maintaining Sensor-Actor Connectivity in Wireless Sensor and Actor Networks. citation:-1
+title:An Information Model for Geographic Greedy Forwarding in Wireless Ad-Hoc Sensor Networks. citation:-1
+title:Theory and Network Applications of Dynamic Bloom Filters. citation:-1
+title:Mobility Reduces Uncertainty in MANETs. citation:-1
+title:A Cluster-Based Backbone Infrastructure for Broadcasting in MANET. citation:-1
+title:A Limited-Global Fault Information Model for Dynamic Routing in n-D Meshes. citation:-1
+title:A Limited-Global Information Model for Fault-Tolerant Routing in Dual-Cube. citation:-1
+title:A Limited-Global Fault Information Model for Dynamic Routing in 2-D Meshes. citation:-1
+title:Workshop Introduction. citation:-1
+title:A Generalized Forward Recovery Checkpointing Scheme. citation:-1
+title:Chain-Based Protocols for Data Broadcasting and Gathering in Sensor Networks. citation:-1
+title:On Constructing k-Connected k-Dominating Set in Wireless Networks. citation:-1
+title:An Extended Link Reversal Protocol in Dynamic Networks. citation:-1
+title:A Novel QoS Multicast Model in Mobile Ad Hoc Networks. citation:-1
+title:On Achieving the Shortest-Path Routing in 2-D Meshes. citation:-1
+title:Secure and Efficient Key Management in Mobile Ad Hoc Networks. citation:-1
+title:Mobility control schemes with quick convergence in wireless sensor networks. citation:-1
+title:An Enhanced Message Exchange Mechanism in Cluster-Based Mobile Ad Hoc Networks. citation:-1
+title:A Distributed Formation of Orthogonal Convex Polygons in Mesh-Connected Multicomputers. citation:-1
+title:Mobility-Sensitive Topology Control in Mobile Ad Hoc Networks. citation:-1
+title:A Generic Broadcast Protocol in Ad Hoc Networks Based on Self-Pruning. citation:-1
+title:On Cost-Optimal Merge of Two Intransitive Sorted Sequences. citation:-1
+title:On Constructing the Minimum Orthogonal Convex Polygon in 2-D Faulty Meshes. citation:-1
+title:k-anycast routing schemes for mobile ad hoc networks. citation:-1
+title:Routing in a cyclic mobispace. citation:-1
+title:A Limited-Global Information Model for Dynamic Fault-Tolerant Routing in Cube-Based Multicomputers. citation:-1
+title:Efficient Broadcasting in Ad Hoc Networks Using Directional Antennas. citation:-1
+title:Extended Dominating Set in Ad Hoc Networks Using Cooperative Communication. citation:-1
+title:A Greedy Algorithm for Capacity-Constrained Surrogate Placement in CDNs. citation:-1
+title:The Extended G-Network, a Fault-Tolerant Interconnection Network for the Multiprocessors. citation:-1
+title:On Independently Finding Converging Paths in Internet. citation:-1
+title:On Two Allocation Methods for Web Services. citation:-1
+title:On Locality of Dominating Set in Ad Hoc Networks with Switch-On/Off Operations. citation:-1
+title:Enhancing semi-supervised clustering: a feature projection perspective. citation:-1
+title:New Metrics for Dominating Set Based Energy Efficient Activity Scheduling in Ad Hoc Networks. citation:-1
+title:A Mobile Agent Enabled Fully Distributed Mutual Exclusion Algorithm. citation:-1
+title:Poster abstract: force-based geometric routing. citation:-1
+title:Scalable routing in delay tolerant networks. citation:-1
+title:Non-uniform sensor deployment in mobile wireless sensor networks. citation:-1
+title:Reliable Broadcasting in Faulty Hypercube Computers. citation:-1
+title:Utility-Based Data-Gathering in Wireless Sensor Networks with Unstable Links. citation:-1
+title:Hint-based Routing in WSNs using Scope Decay Bloom Filters. citation:-1
+title:Mobility Control with Local Views of Neighborhood in Mobile Networks. citation:-1
+title:DTN Routing with Probabilistic Trajectory Prediction. citation:-1
+title:Dynamic Carrier-Assisted Routing in Mobile Networks. citation:-1
+title:Resource Allocation in Wireless Networks Using Directional Antennas. citation:-1
+title:Asymptotic Analysis on an Unbounded Zero-One Knapsack with Discrete-Sized Objects. citation:-1
+title:Multicasting in Injured Hypercubes Using Limited Global Information. citation:-1
+title:Adaptive Routing in Dynamic Ad Hoc Networks. citation:-1
+title:Power efficient routing trees for ad hoc wireless networks using directional antenna. citation:-1
+title:Position-based Routing using Virtual Small World in MANETs. citation:-1
+title:A probabilistic voting-based filtering scheme in wireless sensor networks. citation:-1
+title:Hit and Run: A Bayesian Game Between Malicious and Regular Nodes in MANETs. citation:-1
+title:Uncertainty Mitigation for Utility-Oriented Routing in Wireless Ad Hoc Networks. citation:-1
+title:Distributed Hierarchical Multicast Tree Algorithms for Application Layer Mesh Networks. citation:-1
+title:On Cost-Optimal Merge of Two Intransitive Sorted Sequences. citation:-1
+title:Guest Editors' Introduction: Ad Hoc Networks. citation:-1
+title:Analysis and Design of an Agent Searching Algorithm for e-Marketplaces. citation:-1
+title:Internal Node and Shortcut Based Routing with Guaranteed Delivery in Wireless Networks. citation:-1
+title:Some extensions to the lattice model for computer security. citation:-1
+title:Enhanced Fibonacci Cubes. citation:-1
+title:Computation of Minimal Uniform Transmission Range in Ad Hoc Wireless Networks. citation:-1
+title:Optimal Fault-Secure Scheduling. citation:-1
+title:Local-Safety-Information-Based Fault-Tolerant Broadcasting in Hypercubes. citation:-1
+title:Analysis on a Localized Pruning Method for Connected Dominating Sets. citation:-1
+title:On Locality of Dominating Set in ad hoc Networks with Switch-On/Off Operations. citation:-1
+title:Local-Safety-Information-Based Broadcasting in Hypercube Multicomputers with Node and Link Faults. citation:-1
+title:QoS Support in TDMA-Based Mobile Ad Hoc Networks. citation:-1
+title:SmallWorld Model-Based Polylogarithmic Routing Using Mobile Nodes. citation:-1
+title:An Optical Interconnection Structure Based on the Dual of a Hypercube. citation:-1
+title:Reliability Optimization of Concurrent Software with Redundancy. citation:-1
+title:An efficient sorting algorithm for a sequence of kings in a tournament. citation:-1
+title:Fault-Tolerant Resource Placement in Balanced Hypercubes. citation:-1
+title:Multitriangle: A Constant Node Degree Interconnection Network. citation:-1
+title:Preface. citation:-1
+title:Energy-Efficient Node Scheduling Models In Sensor Networks With Adjustable Ranges. citation:-1
+title:On Achieving the Shortest-Path Routing in 2-d Meshes. citation:-1
+title:Energy Efficient Broadcast in Wireless Ad hoc Networks with Hitch-hiking. citation:-1
+title:A uniform approach to software and hardware fault tolerance. citation:-1
+title:Snooping fault-tolerant distributed shared memories. citation:-1
+title:On constructing k-connected k-dominating set in wireless ad hoc and sensor networks. citation:-1
+title:Dual of a Complete Graph as an Interconnection Network. citation:-1
+title:Embedding of Binomial Treas in Hypercubes with Link Faults. citation:-1
+title:Guest editors' introduction. citation:-1
+title:Optimal broadcasting in injured hypercubes using directed safety levels. citation:-1
+title:Guest Editors' Introduction. citation:-1
+title:Searching for Sorted Sequences of Kings in Tournaments. citation:-1
+title:QoS Routing in Hypercube Multicomputers. citation:-1
+title:Deadlock-Free Routing In Irregular Networks Using Prefix Routing. citation:-1
+title:Isrl: Intelligent Search by Reinforcement Learning in Unstructured Peer-to-peer Networks. citation:-1
+title:SMRS: A scalable multi-path routing scheme. citation:-1
+title:A hybrid searching scheme in unstructured P2P networks. citation:-1
+title:On the session lifetime distribution of Gnutella. citation:-1
+title:A limited-global information model for fault-tolerant routing in dual-cube. citation:-1
+title:A highly reliable multi-path routing scheme for wireless networks. citation:-1
+title:Mobility control and its applications in mobile ad hoc networks. citation:-1
+title:Fault-tolerant and deadlock-free routing in 2-D meshes using rectilinear-monotone polygonal fault blocks. citation:-1
+title:Virtual Backbone Construction in MANETs Using Adjustable Transmission Ranges. citation:-1
+title:Efficient Broadcasting with Guaranteed Coverage in Mobile Ad Hoc Networks. citation:-1
+title:Analysis on Extended Ant Routing Algorithms for Network Routing and Management. citation:-1
+title:The Postal Network: A Recursive Network for Parameterized Communication Model. citation:-1
+title:Toward Broadcast Reliability in Mobile Ad Hoc Networks with Double Coverage. citation:-1
+title:Topology Control in Ad Hoc Wireless Networks Using Cooperative Communication. citation:-1
+title:Fault-Tolerant Adaptive and Minimal Routing in Mesh-Connected Multicomputers Using Extended Safety Levels. citation:-1
+title:Efficient Broadcasting in Ad Hoc Wireless Networks Using Directional Antennas. citation:-1
+title:Performance Analysis of Broadcast Protocols in Ad Hoc Networks Based on. citation:-1
+title:Extended Dominating Set and Its Applications in Ad Hoc Networks Using Cooperative Communication. citation:-1
+title:Guest Editors' Introduction: Challenges in Designing Fault-Tolerant Routing in Networks. citation:-1
+title:Adaptive Fault-Tolerant Routing in Cube-Based Multicomputers Using Safety Vectors. citation:-1
+title:Extended Fibonacci Cubes. citation:-1
+title:A Note on 'A Tight Lower Bound on the Number of Channels Required for Deadlock-Free Wormhole Routing'. citation:-1
+title:An Extended Fault-Tolerant Link-State Routing Protocol in the Internet. citation:-1
+title:Optimal movement-assisted sensor deployment and its extensions in wireless sensor networks. citation:-1
+title:A Generic Distributed Broadcast Scheme in Ad Hoc Wireless Networks. citation:-1
+title:Fault Tolerance Measures for m-Ary n-Dimensional Hypercubes Based on Forbidden Faulty Sets. citation:-1
+title:A Limited-Global-Informatin-Based Multicasting Scheme for Faulty Hypercubes. citation:-1
+title:Iterative Local Solutions for Connected Dominating Set in Ad Hoc Wireless Networks. citation:-1
+title:The Balanced Hypercube: A Cube-Based System for Fault-Tolerant Applications. citation:-1
+title:Extended Multipoint Relays to Determine Connected Dominating Sets in MANETs. citation:-1
+title:Fault-Tolerant Broadcasting in 2-D Wormhole-Routed Meshes. citation:-1
+title:Deadlock-Free Multicasting in Irregular Networks Using Prefix Routing. citation:-1
+title:Clique-based group key assignment in Wireless Sensor Networks. citation:-1
+title:Secure and efficient key management in mobile ad hoc networks. citation:-1
+title:Extended minimal routing in 2-D meshes with faulty blocks. citation:-1
+title:PVFS: A Probabilistic Voting-based Filtering Scheme in Wireless Sensor Networks. citation:-1
+title:Improving network lifetime using sensors with adjustable sensing ranges. citation:-1
+title:Energy-efficient connected coverage of discrete targets in wireless sensor networks. citation:-1
+title:Race-Free Resource Allocation for QoS Support in Wireless Networks. citation:-1
+title:On Connected Multiple Point Coverage in Wireless Sensor Networks. citation:-1
+title:Control Frame Shaping in Power Controlled and Directional MAC Protocols? citation:-1
+title:Predict and relay: an efficient routing in disruption-tolerant networks. citation:-1
+title:A hierarchical structure based coverage repair in wireless sensor networks. citation:-1
+title:An optimal probabilistic forwarding protocolin delay tolerant networks. citation:-1
+title:Mobility-Sensitive Topology Control in Mobile Ad Hoc Networks. citation:-1
+title:Using Petri Nets for the Design of Conversation Boundaries in Fault-Tolerant Software. citation:-1
+title:Logarithmic Store-Carry-Forward Routing in Mobile Ad Hoc Networks. citation:-1
+title:Scan-Based Movement-Assisted Sensor Deployment Methods in Wireless Sensor Networks. citation:-1
+title:Free-Riding on BitTorrent-Like Peer-to-Peer File Sharing Systems: Modeling Analysis and Improvement. citation:-1
+title:Algorithms for Fault-Tolerant Topology in Heterogeneous Wireless Sensor Networks. citation:-1
+title:Efficient Directional Network Backbone Construction in Mobile Ad Hoc Networks. citation:-1
+title:On constructing the minimum orthogonal convex polygon for the fault-tolerant routing in 2-D faulty meshes. citation:-1
+title:Reliable broadcasting in wormhole-routed hypercube-connected networks using local safety information. citation:-1
+title:Maximum-shortest-path (MSP) is not optimal for a general N×N torus. citation:-1
+title:A New Fault-Information Model for Adaptive & Minimal Routing in 3-D Meshes. citation:-1
+title:A Simplification of a Conversation Design Scheme Using Petri Nets. citation:-1
+title:Forward-node-set-based broadcast in clustered mobile ad hoc networks. citation:-1
+title:Power-aware broadcasting and activity scheduling in ad hoc wireless networks using connected dominating sets. citation:-1
+title:Virtual-Force-Based Geometric Routing Protocol in MANETs. citation:-1
+title:Scalable Routing in Cyclic Mobile Networks. citation:-1
+title:The Dynamic Bloom Filters. citation:-1
+title:Broadcasting in faulty hypercubes. citation:-1
+title:Achieving Efficiency and Fairness for Association Control in Vehicular Networks. citation:-1
+title:Sink-Anonymity Mobility Control in Wireless Sensor Networks. citation:-1
+title:Secure and reliable broadcasting in wireless sensor networks using multi-parent trees. citation:-1
+title:Resource allocation for real-time and multimedia communications in TDMA-based wireless networks. citation:-1
+title:An unequal cluster-based routing protocol in wireless sensor networks. citation:-1
+title:Localized Access Point Association in Wireless LANs with Bounded Approximation Ratio. citation:-1
+title:MOPS: Providing Content-Based Service in Disruption-Tolerant Networks. citation:-1
+title:TRACK: A Novel Connected Dominating Set based Sink Mobility Model for WSNs. citation:-1
+title:An efficient group key management scheme for mobile ad hoc networks. citation:-1
+title:An Efficient Privacy Preserving Keyword Search Scheme in Cloud Computing. citation:-1
+title:Herd-Based Target Tracking Protocol in Wireless Sensor Networks. citation:-1
+title:A novel information model for efficient routing protocols in delay tolerant networks. citation:-1
+title:A Straightforward Path Routing in Wireless Ad Hoc Sensor Networks. citation:-1
+title:Mobility control for achieving optimal configuration in wireless sensor networks. citation:-1
+title:On Maximum Stability with Enhanced Scalability in High-Churn DHT Deployment. citation:-1
+title:Efficient Adaptive Routing in Delay Tolerant Networks. citation:-1
+title:Efficient Resource Discovery in Mobile Ad Hoc Networks. citation:-1
+title:FRAME: An Innovative Incentive Scheme in Vehicular Networks. citation:-1
+title:Efficient Sharing of Secure Cloud Storage Services. citation:-1
+title:Fuzzy Location Service for Mobile Ad Hoc Networks. citation:-1
+title:Efficient Geometric Routing in Three Dimensional Ad Hoc Networks. citation:-1
+title:Opportunistic Routing Algebra and its Applications. citation:-1
+title:Thwarting Blackhole Attacks in Disruption-Tolerant Networks using Encounter Tickets. citation:-1
+title:CPMC: An Efficient Proximity Malware Coping Scheme in Smartphone-based Mobile Networks. citation:-1
+title:VBS: Maximum Lifetime Sleep Scheduling for Wireless Sensor Networks Using Virtual Backbones. citation:-1
+title:Distance Estimation by Constructing The Virtual Ruler in Anisotropic Sensor Networks. citation:-1
+title:Designing a Practical Access Point Association Protocol. citation:-1
+title:Mobile Ad-hoc and Sensor Networks, First International Conference, MSN 2005, Wuhan, China, December 13-15, 2005, Proceedings citation:-1
+title:Square region-based coverage and connectivity probability model in wireless sensor networks. citation:-1
+title:Hole Reshaping Routing in Large-Scale Mobile Ad-Hoc Networks. citation:-1
+title:Socially-Aware Publish/Subscribe System for Human Networks. citation:-1
+title:A Distributed Approach for Hidden Wormhole Detection with Neighborhood Information. citation:-1
+title:A Probabilistic Routing Protocol for Heterogeneous Sensor Networks. citation:-1
+title:CR: Capability Information for Routing of Wireless Ad Hoc Networks in the Real Environment. citation:-1
+title:Node-Disjoint Multipath Routing with Group Mobility in MANETs. citation:-1
+title:Fuzzy Closeness-Based Delegation Forwarding in Delay Tolerant Networks. citation:-1
+title:Improving routing protocol performance in delay tolerant networks using extended information. citation:-1
+title:Uncertainty Modeling and Reduction in MANETs. citation:-1
+title:Efficient Broadcasting Using Network Coding and Directional Antennas in MANETs. citation:-1
+title:Hierarchical attribute-based encryption for fine-grained access control in cloud storage services. citation:-1
+title:Improve peer cooperation using social networks. citation:-1
+title:Resource Scheduling in Wireless Networks Using Directional Antennas. citation:-1
+title:Quantitative analysis of the effect of transmitting power on the capacity of wireless ad hoc networks. citation:-1
+title:Multicasting in Delay Tolerant Networks: Delegation Forwarding. citation:-1
+title:CFP: Integration of Fountain Codes and Optimal Probabilistic Forwarding in DTNs. citation:-1
+title:A non-replication multicasting scheme in delay tolerant networks. citation:-1
+title:A metric for routing in delay-sensitive wireless sensor networks. citation:-1
+title:Channel on demand: Optimal capacity for cooperative multi-channel multi-interface wireless mesh networks. citation:-1
+title:Trusted Routing Based on Dynamic Trust Mechanism in Mobile Ad-Hoc Networks. citation:-1
+title:Efficient Opportunistic Routing in Utility-Based Ad Hoc Networks. citation:-1
+title:HR-SDBF: an approach to data-centric routing in WSNs. citation:-1
+title:Target Tracking with Monitor and Backup Sensors in Wireless Sensor Networks. citation:-1
+title:Probability Delegation Forwarding in Delay Tolerant Networks. citation:-1
+title:Polygon-Based Tracking Framework in Surveillance Wireless Sensor Networks. citation:-1
+title:cooperative anonymity authentication in vehicular networks. citation:-1
+title:QoS-aware Optimization Strategy for Security Ranking in SSL Protocol. citation:-1
+title:Message Forwarding in Cyclic MobiSpace: the Multi-copy Case. citation:-1
+title:Erasure-Coding Based Utility Routing in Multi-hop Wireless Networks. citation:-1
+title:Chaotic time series method combined with particle swarm optimization and trend adjustment for electricity demand forecasting. citation:-1
+title:Multi-dimensional evidence-based trust management with multi-trusted paths. citation:-1
+title:Reliable communication on cube-based multicomputers. citation:-1
+title:Capability information: A cost-effective information model for multi-hop routing of wireless ad hoc networks in the real environment. citation:-1
+title:Attack and Flee: Game-Theory-Based Analysis on Interactions Among Nodes in MANETs. citation:-1
+title:Fast mobility control protocols with sink location protection in wireless sensor networks. citation:-1
+title:FlowTrust: trust inference with network flows. citation:-1
+title:SSL-enabled trusted communication: Spoofing and protecting the non-cautious users. citation:-1
+title:Label Routing Protocol: A New Cross-Layer Protocol for Multi-Hop Ad Hoc Wireless Networks. citation:-1
+title:Localized access point selection in infrastructure wireless LANs with performance guarantee. citation:-1
+title:Achieving fine-grained access control for secure data sharing on cloud servers. citation:-1
+title:SpliceTrap: a method to quantify alternative splicing under single cellular conditions. citation:-1
+title:Quasi-Kautz Digraphs for Peer-to-Peer Networks. citation:-1
+title:Association Control for Vehicular WiFi Access: Pursuing Efficiency and Fairness. citation:-1
+title:Stability-Optimal Grouping Strategy of Peer-to-Peer Systems. citation:-1
+title:Impacts of sensor node distributions on coverage in sensor networks. citation:-1
+title:A case study on a hybrid wind speed forecasting method using BP neural network. citation:-1
+title:Guest Editorial. citation:-1
+title:Practical routing in a cyclic MobiSpace. citation:-1
+title:Delegation Forwarding in Delay Tolerant Networks Multicasting (Invited Paper). citation:-1
+title:Enhanced delegation forwarding in delay tolerant networks. citation:-1
+title:Hierarchical attribute-based encryption and scalable user revocation for sharing data in cloud servers. citation:-1
+title:Polynomial Time and Provably Efficient Network Coding Scheme for Lossy Wireless Networks. citation:-1
+title:Localized Movement-Assisted Sensor Deployment in Wireless Sensor Networks. citation:-1
+title:Iterative local solutions for connected dominating set in ad hoc wireless networks. citation:-1
+title:Efficient Channel Assignment under Dynamic Source Routing in Cognitive Radio Networks. citation:-1
+title:On multiple point coverage in wireless sensor networks. citation:-1
+title:Topology Control for Secured Coverage in Wireless Sensor Networks. citation:-1
+title:Label routing protocol: a new cross-layer protocol for multi-hop ad hoc wireless networks. citation:-1
+title:Fault-Tolerant Topology Control for Heterogeneous Wireless Sensor Networks. citation:-1
+title:Behavioral Detection and Containment of Proximity Malware in Delay Tolerant Networks. citation:-1
+title:Polylogarithmic Store-Carry-Forward Routing using Mobile Nodes. citation:-1
+title:Destination-Region-Based Local Minimum Aware Geometric Routing. citation:-1
+title:Sustainable GPU Computing at Scale. citation:-1
+title:Duplicate File Names-A Novel Steganographic Data Hiding Technique. citation:-1
+title:Fine-Grained Localization with Pairwise Nodes Coverage. citation:-1
+title:Cooperative File Sharing in Hybrid Delay Tolerant Networks. citation:-1
+title:Connected Point Coverage in Wireless Sensor Networks Using Robust Spanning Trees. citation:-1
+title:On the construction of the minimum cost content-based publish/subscribe overlays. citation:-1
+title:LocalCom: A Community-based Epidemic Forwarding Scheme in Disruption-tolerant Networks. citation:-1
+title:A DFA with Extended Character-Set for Fast Deep Packet Inspection. citation:-1
+title:A Quantitative Study of Accountability in Wireless Multi-hop Networks. citation:-1
+title:Making Many People Happy: Greedy Solutions for Content Distribution. citation:-1
+title:The design and simulation of communication channel equalization module for monitoring system of offshore dumping areas. citation:-1
+title:A Novel Test and Evaluation Scheme for WS-Management Protocol and Its Implementation. citation:-1
+title:Removing Unrelated Features Based on Linear Dynamical System for Motor-Imagery-Based Brain-Computer Interface. citation:-1
+title:Target Trajectory Querying in Wireless Sensor Networks. citation:-1
+title:Stochastic Sleep Scheduling for Large Scale Wireless Sensor Networks. citation:-1
+title:Secure Locking for Untrusted Clouds. citation:-1
+title:Towards Approximate Event Processing in a Large-Scale Content-Based Network. citation:-1
+title:Maximum network lifetime in wireless sensor networks with adjustable sensing ranges. citation:-1
+title:Loop Strategies and Application of Rough Set Theory in Robot Soccer Game. citation:-1
+title:PCAR: A power controlled routing protocol for wireless ad hoc networks. citation:-1
+title:Apply WS-Management to Manage Real Resources: MAPE Use Case Study. citation:-1
+title:Uncertainty Mitigation for Trustworthiness-Oriented Applications in Wireless Ad Hoc Networks. citation:-1
+title:An Efficient Prediction-Based Routing in Disruption-Tolerant Networks. citation:-1
+title:A Semantic Searching Scheme in Heterogeneous Unstructured P2P Networks. citation:-1
+title:Construction of SeIRA QC-LDPC codes with low error floor. citation:-1
+title:Fracture detection and quantitative measure of displacement in pelvic CT images. citation:-1
+title:A hybrid approach for hemorrhage segmentation in pelvic CT scans. citation:-1
+title:Flow Based XOR Network Coding for Lossy Wireless Networks. citation:-1
+title:Reliable Re-Encryption in Unreliable Clouds. citation:-1
+title:Opportunistic Bandwidth Sharing for Virtual Network Mapping. citation:-1
+title:Enhancing Mobile Social Network Privacy. citation:-1
+title:Statistical-Based Density Evolution Algorithm for Nonbinary Low-Density Parity-Check Codes. citation:-1
+title:A dynamic multicast tree based routing scheme without replication in delay tolerant networks. citation:-1
+title:Fracture Detection in Traumatic Pelvic CT Images. citation:-1
+title:Generation of Offensive Strategies in Robot Soccer Game. citation:-1
+title:The 'realism' of algorithmic human figures: a study of selected examples 1964 to 2001. citation:-1
+title:Friendship-based location privacy in Mobile Social Networks. citation:-1
+title:Secure and privacy preserving keyword searching for cloud storage services. citation:-1
+title:On Multicopy Opportunistic Forwarding Protocols in Nondeterministic Delay Tolerant Networks. citation:-1
+title:Cooperative private searching in clouds. citation:-1
+title:Improving the localization accuracy of targets by using their spatial-temporal relationships in wireless sensor networks. citation:-1
+title:New Approaches for Resource Allocation via DEA Models. citation:-1
+title:Simulation of Thermal Flow Problems via a Hybrid Immersed Boundary-Lattice Boltzmann Method. citation:-1
+title:Application of Binocular Vision and Diamond Search Technology in Computer Vision Navigation. citation:-1
+title:Encounter-based noise cancelation for cooperative trajectory mapping. citation:-1
+title:Efficient SINR Estimating with Accuracy Control in Large Scale Cognitive Radio Networks. citation:-1
+title:ZigZag: A Content-Based Publish/Subscribe Architecture for Human Networks. citation:-1
+title:Local Channel Assignments in Cognitive Radio Networks. citation:-1
+title:Social feature-based multi-path routing in delay tolerant networks. citation:-1
+title:Efficient information retrieval for ranked queries in cost-effective cloud environments. citation:-1
+title:An Opportunistic Resource Sharing and Topology-Aware mapping framework for virtual networks. citation:-1
+title:A K-hop zone-based broadcast protocol in mobile ad hoc networks. citation:-1
+title:View consistency for reliable topology control in mobile ad hoc networks. citation:-1
+title:Improvement of hub strategy in robot soccer game. citation:-1
+title:NSF/IEEE-TCPP curriculum initiative on parallel and distributed computing: core topics for undergraduates. citation:-1
+title:Distributed network coding-based opportunistic routing for multicast. citation:-1
+title:Flow-based XOR Network Coding for Lossy Wireless Networks. citation:-1
+title:On Maximizing the Lifetime of Wireless Sensor Networks Using Virtual Backbone Scheduling. citation:-1
+title:Tuple switching network - When slower may be better. citation:-1
+title:Channel switching control policy for wireless mesh networks. citation:-1
+title:Hemorrhage Detection and Segmentation in Traumatic Pelvic Injuries. citation:-1
+title:Trajectory tracking for an autonomous airship using fuzzy adaptive sliding mode control. citation:-1
+title:DQSB: A Reliable Broadcast citation:-1
+title:Wormhole defense for cooperative trajectory mapping. citation:-1
+title:Energy-Efficient Routing and Rate Allocation for Delay Tolerant Networks. citation:-1
+title:A privacy-preserving social-aware incentive system for word-of-mouth advertisement dissemination on smart mobile devices. citation:-1
+title:Seed and Grow: An attack against anonymized social networks. citation:-1
+title:Universal opportunistic routing scheme using network coding. citation:-1
+title:Distributed Rerouting for Multiple Sessions in Cognitive Radio Networks. citation:-1
+title:Cooperative Trajectory-Based Map Construction. citation:-1
+title:A Self-tuning Failure Detection Scheme for Cloud Computing Service. citation:-1
+title:RPPS: A Novel Resource Prediction and Provisioning Scheme in Cloud Data Center. citation:-1
+title:TopCluster: A hybrid cluster model to support dynamic deployment in Grid. citation:-1
+title:Performance analysis of broadcast protocols in ad hoc networks based on self-pruning. citation:-1
+title:Energy-Aware Scheduling for Frame-Based Tasks on Heterogeneous Multiprocessor Platforms. citation:-1
+title:Minimum Latency Broadcasting with Conflict Awareness in Wireless Sensor Networks. citation:-1
+title:A connectivity-based popularity prediction approach for social networks. citation:-1
+title:A joint replication-migration-based routing in delay tolerant networks. citation:-1
+title:A novel wireless electrical muscle simulator for female urinary incontinence. citation:-1
+title:SafeCode - Safeguarding Security and Privacy of User Data on Stolen iOS Devices. citation:-1
+title:Sensor Distribution on Coverage in Sensor Networks. citation:-1
+title:Clock-Based Proxy Re-encryption Scheme in Unreliable Clouds. citation:-1
+title:Estimation of timing error and frequency offset for M-DPSK and FSK. citation:-1
+title:A universal algorithm of signal detection for M-DPSK and FSK. citation:-1
+title:Fast Deep Packet Inspection with a Dual Finite Automata. citation:-1
+title:The Charité Grid Portal: User-friendly and Secure Access to Grid-based Resources and Services. citation:-1
+title:A Cloud Computing Resource Scheduling Policy Based on Genetic Algorithm with Multiple Fitness. citation:-1
+title:A reliable broadcast algorithm with selected acknowledgements in mobile ad hoc networks. citation:-1
+title:Effective channel assignments in cognitive radio networks. citation:-1
+title:Building a reliable and high-performance content-based publish/subscribe system. citation:-1
+title:Extended multipoint relays to determine connected dominating sets in MANETs. citation:-1
+title:Topology control in ad hoc wireless networks with hitch-hiking. citation:-1
+title:CPDID: A Novel CDN-P2P Dynamic Interactive Delivery Scheme for Live Streaming. citation:-1
+title:Analysis of loop strategies in robot soccer game. citation:-1
+title:On building secure SCADA systems using security patterns. citation:-1
+title:Geocommunity-Based Broadcasting for Data Dissemination in Mobile Social Networks. citation:-1
+title:Slacks-based measurement models for estimating returns to scale. citation:-1
+title:A unified DEA approach for evaluating congestion: a case of hotels in Taipei. citation:-1
+title:A Fully Integrated 900-MHz Passive RFID Transponder Front End With Novel Zero-Threshold RF-DC Rectifier. citation:-1
+title:Optimal planning of robot calibration experiments by genetic algorithms. citation:-1
+title:A spatio-temporal database prototype for managing moving objects in GIS. citation:-1
+title:Time-Sensitive Utility-Based Routing in Duty-Cycle Wireless Sensor Networks with Unreliable Links. citation:-1
+title:A Quick and Reliable Routing for Infrastructure Surveillance with Wireless Sensor Networks. citation:-1
+title:On minimum delay duty-cycling protocol in sustainable sensor network. citation:-1
+title:Optimal planning of robot calibration experiments by genetic algorithms. citation:-1
+title:Proactive route maintenance in wireless ad hoc networks. citation:-1
+title:Dynamic Grouping Strategy in Cloud Computing. citation:-1

@@ -1,0 +1,4 @@
+title1:Composition and Decomposition of DPO Transformations with Borrowed Context. title2:Composition and decomposition of DPO transformations with borrowed context citation:18 ncitation:18 pid228638
+title1:From Graph Grammars to High Level Replacement Systems. title2:From graph grammars to high level replacement systems citation:90 ncitation:86 pid228637
+title1:Algebraic Approaches to Graph Transformation - Part II: Single Pushout Approach and Comparison with Double Pushout Approach. title2:Algebraic Approaches to Graph Transformation-Part II: Single Pushout Approach and Comparison with Double Pushout Approach. citation:269 ncitation:245 pid2265065
+title1:Correctness, Completeness and Termination of Pattern-Based Model-to-Model Transformation. title2:Correctness, completeness and termination of pattern-based model-to-model transformation citation:18 ncitation:12 pid228631

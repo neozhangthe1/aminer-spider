@@ -1,0 +1,132 @@
+title:Content-Based Retrieval Concept. citation:-1
+title:Huffman Tree Decomposition and Its Coding Applications. citation:-1
+title:Supervising Secret-Key Agreements in a Level-Based Hierarchy. citation:-1
+title:A Parallel Modular Exponentiation Scheme for Transformed Exponents. citation:-1
+title:Recoverable Tamper Proofing Technique for Image Authentication Using Irregular Sampling Coding. citation:-1
+title:Improvement on an Optimized Protocol for Mobile Network Authentication and Security. citation:-1
+title:Adaptive Hiding Scheme Based on VQ-Indices Using Commutable Codewords. citation:-1
+title:Enhancement of an Authenticated Multiple-Key Agreement Protocol Without Using Conventional One-Way Function. citation:-1
+title:Security Enhancement of a Flexible Payment Scheme and Its Role-Based Access Control. citation:-1
+title:A Temporal Join Mechanism Based on Trie-Ranking Data Structure. citation:-1
+title:Optimal Bit Lengths of Direction Signatures for Spatial Match Accessing Using Basic Linear Hashing Scheme. citation:-1
+title:A Hybrid Method for Estimating the Euclidean Distance between Two Vectors. citation:-1
+title:Multikey Sorting as a File Organization Scheme When Queries Are Not Equally Likely. citation:-1
+title:Database Research and Development in Taiwan. citation:-1
+title:Significance-Preserving Codebook Using Generic Algorithm. citation:-1
+title:De-Clustering Image Databases. citation:-1
+title:Image Retrieval Based on Tolerable Difference of Direction. citation:-1
+title:An Image Refining Method Using Digital Watermark via Vector Quantization. citation:-1
+title:A Signature Scheme with (t, n) Shared Verification and Message Recovery. citation:-1
+title:A Scheme for (t, n)-Threshold Secret Image Sharing. citation:-1
+title:Comments on Distributed Sign-and-Encryption Schemes. citation:-1
+title:Yet Another Attack on Mutual Authentication and Key Exchange Protocols for Low Power Wireless Communications. citation:-1
+title:An Untraceable Forward-Secure Blind Signature Scheme. citation:-1
+title:A Method for Sending Confidential Messages to a Group without Trusted Parties. citation:-1
+title:A High Payload VQ Steganographic Method for Binary Images. citation:-1
+title:An Efficient Edge Detection Technique for Chinese Calligraphy. citation:-1
+title:An Algorithm for Color Image Compression Base on Common Bit Map Block Truncation Coding. citation:-1
+title:A Bandwidth Efficiency of the Locally Adaptive Compression Method for Hiding Secret Messages. citation:-1
+title:A DCT-based Recoverable Image Authentication. citation:-1
+title:Method for Searching Similar Images Using Quality Index Measurement. citation:-1
+title:VQ Image Steganographic Method with High Embedding Capacity Using Multi-way Search Approach. citation:-1
+title:A Bandwidth Efficiency of Lempel-Ziv Scheme for Data Authentication. citation:-1
+title:A Perspective on the Development of Digital Libraries in Taiwan. citation:-1
+title:An Efficient Block-based Scheme for Progressively Transmitting Lossless Images. citation:-1
+title:Density-Based Image Vector Quantization Using a Genetic Algorithm. citation:-1
+title:An Improved Prediction Method for Quadtree Image Coding. citation:-1
+title:A Cross-Type Peak-and-Valley Filter for Error Prevention and Resilience in Image Communications. citation:-1
+title:A Novel Image Compression Algorithm Based on Sixteen Most Lately Used Encoded Codewords. citation:-1
+title:A Conference Key Distribution Scheme Using Interpolating Polynomials. citation:-1
+title:A New (t, n)-Threshold Scheme Based on Difference Equations. citation:-1
+title:An e-mail signature protocol for anti-spam work-in-progress. citation:-1
+title:An adaptive EMD embedding method by condensing secret messages based on consecutive ones transformation and token substitution. citation:-1
+title:The design of e-traveler's check with efficiency and mutual authentication. citation:-1
+title:A Letter-Oriented Minimal Perfect Hashing Scheme. citation:-1
+title:A Record-Oriented Cryptosystem for Database Sharing (Short Note). citation:-1
+title:Conference key distribution schemes for portable communication systems. citation:-1
+title:Attacks on an ID-based signature scheme based on Rabin's public key cryptosystem. citation:-1
+title:Proper interval graphs and the guard problem. citation:-1
+title:Tolerant Key Assignment for Enforcing Complicated Access Control Policies in a Hierarchy. citation:-1
+title:Bi-level Lossless Calligraphy Compression Using Location Propagation and Width Inheritance. citation:-1
+title:Feature alignment approach for hand posture recognition based on curvature scale space. citation:-1
+title:Cryptanalysis of the Modified Remote Login Authentication Scheme Based on a Geometric Approach. citation:-1
+title:A Technique of Watermarking for Digital Images Using (t, n)-Threshold Scheme. citation:-1
+title:A Technique for Computing Watermarks from Digital Images. citation:-1
+title:A Very Low Bit Rate Image Compressor Using Transformed Classified Vector Quantization. citation:-1
+title:On GDM allocation for partial range queries. citation:-1
+title:Some Properties of Optimal Cartesian Product Files for Orthogonal Range Queries. citation:-1
+title:Some Properties of Cartesian Product Files for Disk Modulo Allocation Method in a Two-disk System. citation:-1
+title:Gray Code as a De-clustering Scheme for Concurrent Disk Retrieval. citation:-1
+title:A New Two-Path Search Algorithm for Block Motion Estimation of Video Data. citation:-1
+title:A Fast Search Algorithm for Vector Quantization. citation:-1
+title:Optimal Two-Attribute Cartesian Product Files for Orthogonal Range Queries. citation:-1
+title:On Key Changeable ID-Based Digital Signature Scheme. citation:-1
+title:(t, n) Threshold Digital Signature With Traceability Property. citation:-1
+title:A new encryption algorithm for image cryptosystems. citation:-1
+title:A novel progressive modelling algorithm for 3D models. citation:-1
+title:A momentum-based deformation system for granular material. citation:-1
+title:A secure one-time password authentication scheme using smart cards without limiting login times. citation:-1
+title:An improvement of delegated multisignature scheme with document decomposition. citation:-1
+title:Remarks on fingerprint-based remote user authentication scheme using smart cards. citation:-1
+title:An Efficient Graph-Based Method for Parallel Mining Problems. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:An Information-Hiding Scheme Based on Quantization-Based Embedding Technique. citation:-1
+title:A Secure Multicast Framework in Large and High-Mobility Network Groups. citation:-1
+title:Authors reply 'Sharing secrets in stego images with authentication'. citation:-1
+title:An Access Control System with Time-constraint Using Support Vector Machines. citation:-1
+title:Security Enhancement of Ku-Wang Authenticated Key Agreement Protocol. citation:-1
+title:Eighth International Conference on Intelligent Systems Design and Applications, ISDA 2008, 26-28 November 2008, Kaohsiung, Taiwan, 3 Volumes citation:-1
+title:An Image Authentication Based on Discrete Fourier Transform. citation:-1
+title:Editorial. citation:-1
+title:Guest Editorial. citation:-1
+title:The Design of E-Traveler's Check with Efficiency and Mutual Authentication. citation:-1
+title:Editorial. citation:-1
+title:Guest Editorial. citation:-1
+title:Guest Editorial. citation:-1
+title:Guest Editorial. citation:-1
+title:A Sudoku-based Secret Image Sharing Scheme with Reversibility (Invited Paper). citation:-1
+title:Editorial. citation:-1
+title:GPU-based Collision Detection and Response for Particles on 3D Models. citation:-1
+title:Reversible Data Embedding for Color Images. citation:-1
+title:An Image Copyright Protection Scheme Using DCT and a Table Look-up Technique. citation:-1
+title:An Improved Biometrics-based User Authentication Scheme without Concurrency System. citation:-1
+title:A Grayscale Image Steganography Based upon Discrete Cosine Transformation. citation:-1
+title:A New Repeating Color Watermarking Scheme Based on Human Visual Model. citation:-1
+title:Efficient residue number system iterative modular multiplication algorithm for fast modular exponentiation. citation:-1
+title:Protecting the content integrity of digital imagery with fidelity preservation. citation:-1
+title:Secure Key Transfer Protocol Based on Secret Sharing for Group Communications. citation:-1
+title:Guest Editorial. citation:-1
+title:Guest Editorial. citation:-1
+title:Lossless Secret Sharing Scheme with High Quality Shares Based on VQ-Compressed Images. citation:-1
+title:Guest Editorial. citation:-1
+title:Guest Editorial. citation:-1
+title:A Simple Image Encoding Method with Data Lossless Information Hiding. citation:-1
+title:Guest Editorial. citation:-1
+title:Guest Editorial. citation:-1
+title:Guest Editorial. citation:-1
+title:Reversible Steganography for BTC-compressed Images. citation:-1
+title:Guest Editorial. citation:-1
+title:Assigning Keys in a Hierarchy. citation:-1
+title:Novel Efficient Electronic Voting Mechanism Based upon Elliptic Curve. citation:-1
+title:Cryptanalysis and Improvement of a Secure Authentication Scheme with Anonymity for Wireless Communications. citation:-1
+title:An Efficient Mutual Authentication with Key Agreement Protocol for Mobile Devices. citation:-1
+title:An Efficient Proxy Signature Scheme for Realizing Generalized Proxy Signing Policy. citation:-1
+title:Reversible Steganography for VQ Indices Using the Modified State Codebook. citation:-1
+title:Low Computational Color Secret Sharing Schemes with High Shares Quality Color Secret Sharing. citation:-1
+title:A Simple and Efficient Data Hiding Scheme Suitable for Low Power Computation Environments. citation:-1
+title:A simple image encoding method with data lossless information hiding. citation:-1
+title:Efficient illumination compensation techniques for text images. citation:-1
+title:Graph structure analysis based on complex network. citation:-1
+title:Guest Editors' Introduction: Special Section on ISIP 2011. citation:-1
+title:Image Tamper Detection and Recovery Based on Dual Watermarks Sharing Strategy. citation:-1
+title:Authenticated RFID security mechanism based on chaotic maps. citation:-1
+title:A novel VQ-based reversible data hiding scheme by using hybrid encoding strategies. citation:-1
+title:Reversible data-embedding scheme using differences between original and predicted pixel values. citation:-1
+title:Cheating resistance and reversibility-oriented secret sharing mechanism. citation:-1
+title:Non-iterative privacy preservation for online lotteries. citation:-1
+title:An Efficient and Flexible Mobile Payment Protocol. citation:-1

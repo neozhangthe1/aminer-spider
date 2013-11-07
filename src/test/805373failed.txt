@@ -1,0 +1,383 @@
+title:A Universal Construction for Concurrent Objects. citation:-1
+title:Recognition of Patterns on Control Flows for Debugging Distributed Executions. citation:-1
+title:Replaying Distributed Executions. citation:-1
+title:Ordering vs Timeliness: Two Facets of Consistency? citation:-1
+title:Using Error-Correcting Codes to Solve Distributed Agreement Problems: A Future Direction in Distributed Computing? citation:-1
+title:Consensus in Asynchronous Distributed Systems: A Concise Guided Tour. citation:-1
+title:Time in Distributed System Models and Algorithms. citation:-1
+title:From Failure Detectors with Limited Scope Accuracy to System-wide Leadership. citation:-1
+title:Token-Based Sequential Consistency in Asynchronous Distributed Systems. citation:-1
+title:A Simple Protocol Offering Both Atomic Consistent Read Operations and Sequentially Consistent Read Operations. citation:-1
+title:Synchronization is Coming Back, But is it the Same? citation:-1
+title:Consistent State Restoration in Shared Memory Systems. citation:-1
+title:An Efficient Implementation of Sequentially Consistent Distributed Shared Memories. citation:-1
+title:Definition and Implementation of a Flexible Communication Primitive for Distributed Programming. citation:-1
+title:The Iterated Restricted Immediate Snapshot Model. citation:-1
+title:Sequential Consistency in Distributed Systems. citation:-1
+title:From Crash Fault-Tolerance to Arbitrary-Fault Tolerance: Towards a Modular Approach. citation:-1
+title:Eventual Leader Election with Weak Assumptions on Initial Knowledge, Communication Reliability, and Synchrony. citation:-1
+title:A Hybrid and Adaptive Model for Fault-Tolerant Distributed Computing. citation:-1
+title:Evaluating the Condition-Based Approach to Solve Consensus. citation:-1
+title:Asynchronous Implementation of Failure Detectors. citation:-1
+title:A Versatile and Modular Consensus Protoco. citation:-1
+title:The Best of Both Worlds: A Hybrid Approach to Solve Consensus. citation:-1
+title:Workshop on Dependable Application Support for Self-Organizing Networks (DASSON 2007). citation:-1
+title:Electing an Eventual Leader in an Asynchronous Shared Memory System. citation:-1
+title:Efficient Message Logging for Uncoordinated Checkpointing Protocols. citation:-1
+title:Building and Using Quorums Despite any Number of Process of Crashes. citation:-1
+title:Implementation and Evaluation of Distributed Synchronization on a Distributed Memory Parallel Machine. citation:-1
+title:Sequential Consistency as Lazy Linearizability. citation:-1
+title:Broadcast with Time and Causality Constraints for Multimedia Applications. citation:-1
+title:From serializable to causal transactions for collaborative applications. citation:-1
+title:Distributed Database Checkpointing. citation:-1
+title:Building TMR-Based Reliable Servers Despite Bounded Input Lifetimes. citation:-1
+title:Logical Instantaneity and Causal Order: Two ``First Class'' Communication Modes for Parallel Computing. citation:-1
+title:Illustrating the Use of Vector Clocks in Property Detection: An Example and a Counter-Example. citation:-1
+title:Quorum-Based Replication in Asynchronous Crash-Recovery Distributed Systems (Research Note). citation:-1
+title:Unreliable Failure Detectors with Limited Scope Accuracy and an Application to Consensus. citation:-1
+title:From Causal Consistency to Sequential Consistency in Shared Memory Systems. citation:-1
+title:A Communication-Induced Checkpointing Protocol that Ensures Rollback-Dependency Trackability. citation:-1
+title:Communication-Induced Determination of Consistent Snapshots. citation:-1
+title:Characterization of Consistent Global Checkpoints in Large-Scale Distributed Systems. citation:-1
+title:Looking for a Common View for Mobile Worlds. citation:-1
+title:Deadlocks in Distributed Systems: Request Models and Definitions. citation:-1
+title:Challenges of Future Distributed Computing Systems. citation:-1
+title:Synchronization and Protection Features for Data Abstraction. citation:-1
+title:A Case Study of Agreement Problems in Distributed Systems: Non-Blocking Atomic Commitment. citation:-1
+title:Static and Dynamic Adaptation of Transactional Consistency. citation:-1
+title:Efficient Causally Ordered Communications for Multimedia Real-Time Applications. citation:-1
+title:A Distributed Kernel for Virtual Time Driven Applications. citation:-1
+title:A Distributed Solution to the k-out of-M Resources Allocation Problem. citation:-1
+title:An Adaptive Protocol for Implementing Causally Consistent Distributed Services. citation:-1
+title:Termination Detection in a Very General Distributed Computing Model. citation:-1
+title:Elastic Vector Time. citation:-1
+title:Characterizing and Detecting The Set of Global States Seen by all Observers of a Distributed Computation. citation:-1
+title:On Classes of Problems in Asynchronous Distributed Systems with Process Crashes. citation:-1
+title:A Generic Framework for Indulgent Consensus. citation:-1
+title:Computing Global Functions in Asynchronous Distributed Systems Prone to Process Crashes. citation:-1
+title:Shared State Consistency for Time-Sensitive Distributed Applications. citation:-1
+title:A General Method to Define Quorums. citation:-1
+title:An Efficient Causal Ordering Algorithm for Mobile Computing Environments. citation:-1
+title:Synchronization and Concurrency Measures for Distributed Computations. citation:-1
+title:A Distributed Implementation of Sequential Consistency with Multi-Object Operations. citation:-1
+title:Atomic Broadcast in Asynchronous Crash-Recovery Distributed Systems. citation:-1
+title:Mixed Consistency Model: Meeting Data Sharing Needs of Heterogeneous Users. citation:-1
+title:Distributed Slicing in Dynamic Systems. citation:-1
+title:Conditions for Set Agreement with an Application to Synchronous Systems. citation:-1
+title:From static distributed systems to dynamic systems: an approach for a first step. citation:-1
+title:Debugging Distributed Executions by Using Language Recognition. citation:-1
+title:The Power and Limit of Adding Synchronization Messages for Synchronous Agreement. citation:-1
+title:On the Fly Testing of Regular Patterns in Distributed Computations. citation:-1
+title:On Modeling Fault Tolerance of Gossip-Based Reliable Multicast Protocols. citation:-1
+title:Anonymous Publish/Subscribe in P2P Networks. citation:-1
+title:Consensus Based on Strong Failure Detectors: A Time and Message-Efficient Protocol. citation:-1
+title:Consensus Based on Failure Detectors with a Perpetual Accuracy Property. citation:-1
+title:A Condition for k-Set Agreement in Asynchronous Distributed Systems. citation:-1
+title:Uniform Agreement Despite Process Omission Failures. citation:-1
+title:Primary Component Asynchronous Group Membership as an Instance of a Generic Agreement Framework. citation:-1
+title:Building Responsive TMR-Based Servers in Presence of Timing Constraints. citation:-1
+title:Randomized Multivalued Consensus. citation:-1
+title:Approximate Real-Time Clocks for Scheduled Events. citation:-1
+title:Nested Invocation Protocol for Object-Based Systems. citation:-1
+title:Asynchronous Protocols to Meet Real-Time Constraints: Is It Really Sensible? How to Proceed? citation:-1
+title:Wait-Free Objects for Real-Time Systems? (position paper). citation:-1
+title:Deadline-Constrained Causal Order. citation:-1
+title:A Timing Assumption and a t-Resilient Protocol for Implementing an Eventual Leader Service in Asynchronous Shared Memory Systems. citation:-1
+title:Distributed Evaluation: A Tool for Constructing Distributed Detection Programs. citation:-1
+title:The Notion of Veto Number for Distributed Agreement Problems. citation:-1
+title:Fault-Tolerant Techniques for Concurrent Objects. citation:-1
+title:The Committee Decision Problem. citation:-1
+title:A Dual-Token-Based Fault Tolerant Mutual Exclusion Algorithm for MANETs. citation:-1
+title:A Methodological Construction of an Efficient Sequential Consistency Protocol. citation:-1
+title:Eventual Leader Service in Unreliable Asynchronous Systems: Why? How? citation:-1
+title:Direct Dependency-Based Determination of Consistent GlobalCheckpoints. citation:-1
+title:Cycle Prevention in Distributed Checkpointing. citation:-1
+title:From an Intermittent Rotating Star to a Leader. citation:-1
+title:Small-World Networks: From Theoretical Bounds to Practical Systems. citation:-1
+title:Simple Vector Clocks are limited to Solve some Causallity Related Problems. citation:-1
+title:In Search of the Holy Grail: Looking for the Weakest Failure Detector for Wait-Free Set Agreement. citation:-1
+title:Timed Quorum Systems for Large-Scale and Dynamic Environments. citation:-1
+title:Two Abstractions for Implementing Atomic Objects in Dynamic Systems. citation:-1
+title:On the Solvability of Anonymous Partial Grids Exploration by Mobile Robots. citation:-1
+title:A Lock-Based STM Protocol That Satisfies Opacity and Progressiveness. citation:-1
+title:Core Persistence in Peer-to-Peer Systems: Relating Size to Lifetime. citation:-1
+title:Consensus in One Communication Step. citation:-1
+title:Quiescent Uniform Reliable Broadcast as an Introduction to Failure Detector Oracles. citation:-1
+title:The Renaming Problem as an Introduction to Structures for Wait-Free Computing. citation:-1
+title:Allowing Atomic Objects to Coexist with Sequentially Consistent Objects. citation:-1
+title:Early-Stopping -Set Agreement in Synchronous Systems Prone to Any Number of Process Crashes. citation:-1
+title:A Hierarchy of Conditions for Asynchronous Interactive Consistency. citation:-1
+title:Consistent Lamport Clocks for Asynchronous Groups with Process Crashes. citation:-1
+title:Logically Instantaneous Communication on Top of Distributed Memory Parallel Machines. citation:-1
+title:Looking for a Definition of Dynamic Distributed Systems. citation:-1
+title:From Unreliable Objects to Reliable Objects: The Case of Atomic Registers and Consensus. citation:-1
+title:Detecting Atomic Sequences of Predicates in Distributed Computations. citation:-1
+title:A Hierarchical Consensus Protocol for Mobile Ad Hoc Networks. citation:-1
+title:Logical Clocks for Unreliable Process Groups. citation:-1
+title:About State Recording in Asynchronous Computations (Abstract). citation:-1
+title:Rollback-Dependency Trackability: Visible Characterizations. citation:-1
+title:Efficient Delta-Causal Broadcasting of Multimedia Applications (Abstract). citation:-1
+title:Early stopping in aglobal data computation. citation:-1
+title:Brief announcement: early decision despite general process omission failures. citation:-1
+title:Brief announcement: veto number and the respective power of eventual failure detectors. citation:-1
+title:Brief announcement: abstractions for implementing atomic objects in dynamic systems. citation:-1
+title:Building responseive TMR-based servers in presence of timing constraints. citation:-1
+title:Detection of Stable Properties in Distributed Applications. citation:-1
+title:k-set agreement with limited accuracy failure detectors. citation:-1
+title:Asynchronous interactive consistency and its relation with error-correcting codes. citation:-1
+title:Brief announcement: the synchronous condition-based consensus hierarchy. citation:-1
+title:The combined power of conditions and failure detectors to solve asynchronous set agreement. citation:-1
+title:Towards a formal model for view maintenance in data warehouses. citation:-1
+title:A hierarchy of conditions for consensus solvability. citation:-1
+title:Irreducibility and additivity of set agreement-oriented failure detector classes. citation:-1
+title:From Serializable to Causal Transactions (Abstract). citation:-1
+title:Timed Consistency for Shared Distributed Objects. citation:-1
+title:From an intermittent rotating star to a leader. citation:-1
+title:Time and message-efficient S-based consensus (brief announcement). citation:-1
+title:Failure detectors are schedulers. citation:-1
+title:Looking for the optimal conditions for solving set agreement. citation:-1
+title:From anarchy to geometric structuring: the power of virtual coordinates. citation:-1
+title:A Hybrid Approach for Building Eventually Accurate Failure Detectors. citation:-1
+title:Low cost consensus-based Atomic Broadcast. citation:-1
+title:An Adaptive Failure Detection Protocol. citation:-1
+title:An Introduction to the Renaming Problem. citation:-1
+title:Consensus in Synchronous Systems: A Concise Guided Tour. citation:-1
+title:Synchronous Set Agreement: a Concise Guided Tour (including a new algorithm and a list of open problems). citation:-1
+title:Intersecting Sets: a Basic Abstraction for Asynchronous Agreement Problems. citation:-1
+title:Decision Optimal Early-Stopping k-set Agreement in Synchronous Systems Prone to Send Omission Failures. citation:-1
+title:A Note on a Simple Equivalence between Round-based Synchronous and Asynchronous Models. citation:-1
+title:On the fly estimation of the processes that are alive/crashed in an asynchronous message-passing system. citation:-1
+title:The Eventual Leadership in Dynamic Mobile Networking Environments. citation:-1
+title:Locks Considered Harmful: A Look at Non-traditional Synchronization. citation:-1
+title:Consensus in byzantine asynchronous systems. citation:-1
+title:Tracking causality in distributed systems: a suite of efficient protocols. citation:-1
+title:Efficient Condition-Based Consensus. citation:-1
+title:Strongly Terminating Early-Stopping -Set Agreement in Synchronous Systems with General Omission Failures. citation:-1
+title:From Renaming to Set Agreement. citation:-1
+title:Tracking immediate predecessors in distributed computations. citation:-1
+title:Randomized k-set agreement. citation:-1
+title:Sequential consistency as lazy linearizability. citation:-1
+title:Optimal early stopping uniform consensus in synchronous systems with process omission failures. citation:-1
+title:The notion of a timed register and its application to indulgent synchronization. citation:-1
+title:On-The-Fly Detection Of Conjunctions Of Local Predicates In Distributed Computations. citation:-1
+title:Simple and Efficient Oracle-Based Consensus Protocols for Asynchronous Byzantine Systems. citation:-1
+title:Fault-Tolerant Total Order Multicast to Asynchronous Groups. citation:-1
+title:Preventing Useless Checkpoints in Distributed Computations. citation:-1
+title:Consensus in Asynchronous Systems Where Processes Can Crash and Recover. citation:-1
+title:A Consensus Protocol Based on a Weak FailureDetector and a Sliding Round Window. citation:-1
+title:A General Framework to Solve Agreement Problems. citation:-1
+title:Crash-Resilient Time-Free Eventual Leadership. citation:-1
+title:From Static Distributed Systems to Dynamic Systems. citation:-1
+title:Test & Set, Adaptive Renaming and Set Agreement: a Guided Visit to Asynchronous Computability. citation:-1
+title:The Eventual Clusterer Oracle and Its Application to Consensus in MANETs. citation:-1
+title:Conditions on input vectors for consensus solvability in asynchronous distributed systems. citation:-1
+title:The Lord of the Rings: Efficient Maintenance of Views at Data Warehouses. citation:-1
+title:General and Efficient Decentralized Consensus Protocols. citation:-1
+title:The Notion of Veto Number and the Respective Power of OP and OS to Solve One-Shot Agreement Problems. citation:-1
+title:Distributed Agreement and Its Relation with Error-Correcting Codes. citation:-1
+title:Virtual Precedence in Asynchronous Systems: Cencept and Applications. citation:-1
+title:Solving Consensus Using Chandra-Toueg's Unreliable Failure Detectors: A General Quorum-Based Approach. citation:-1
+title:The Synchronous Condition-Based Consensus Hierarchy. citation:-1
+title:Using Conditions to Expedite Consensus in Synchronous Distributed Systems. citation:-1
+title:Condition-Based Protocols for Set Agreement Problems. citation:-1
+title:Exploring Gafni's Reduction Land: From to Wait-Free Adaptive (2p-[p/k])-Renaming Via k-Set Agreement. citation:-1
+title:Lifetime Based Consistency Protocols for Distributed Objects. citation:-1
+title:A Subjective Visit to Selected Topics in Distributed Computing. citation:-1
+title:DISC at Its 20th Anniversary (Stockholm, 2006). citation:-1
+title:Brief Announcement: On the Solvability of Anonymous Partial Grids Exploration by Mobile Robots. citation:-1
+title:No Double Discount: Condition-Based Simultaneity Yields Limited Gain. citation:-1
+title:Detecting Diamond Necklaces in Labeled Dags (A Problem from Distributed Debugging). citation:-1
+title:An Optimal Atomic Broadcast Protocol and an Implementation Framework. citation:-1
+title:Reliable Compare & Swap for Fault-Tolerant Synchronization. citation:-1
+title:Real-Time Based Strong Consistency for Distributed Objects. citation:-1
+title:Provable STM Properties: Leveraging Clock and Locks to Favor Commit and Early Abort. citation:-1
+title:Simultaneous Consensus Tasks: A Tighter Characterization of Set-Consensus. citation:-1
+title:Narrowing Power vs. Efficiency in Synchronous Set Agreement. citation:-1
+title:Large-Scale Networked Systems: From Anarchy to Geometric Self-structuring. citation:-1
+title:Consistent Records in Asynchronous Computations. citation:-1
+title:Types in a Mixed Language System. citation:-1
+title:From Group Communication to Transactions in Distributed Systems. citation:-1
+title:Consistent Checkpointing for Transaction Systems. citation:-1
+title:A Distributed Algorithm for Mutual Exclusion in an Arbitrary Network. citation:-1
+title:The Alpha of Indulgent Consensus. citation:-1
+title:Debugging tool for distributed Estelle programs. citation:-1
+title:Logical Time: Capturing Causality in Distributed Systems. citation:-1
+title:Consistent Checkpointing in Distributed Databases: Towards a Formal Approach citation:-1
+title:Distributed Slicing in Dynamic Systems citation:-1
+title:Distributed Slicing in Dynamic Systems citation:-1
+title:Core Persistence in Peer-to-Peer Systems: Relating Size to Lifetime citation:-1
+title:Timed Quorum System for Large-Scale and Dynamic Environments citation:-1
+title:Direct dependency-based determination of consistent global checkpoints. citation:-1
+title:Token-based sequential consistency. citation:-1
+title:Real-time based strong consistency for distributed objects. citation:-1
+title:Communication-Based Prevention of Useless Checkpoints in Fistributed Computations. citation:-1
+title:Towards the Construction of Distributed Detection Programs, with an Application to Distributed Termination. citation:-1
+title:A Simple and Fast Asynchronous Consensus Protocol Based on a Weak Failure Detector. citation:-1
+title:Synchronous condition-based consensus. citation:-1
+title:Condition-based consensus solvability: a hierarchy of conditions and efficient protocols. citation:-1
+title:On the computability power and the robustness of set agreement-oriented failure detector classes. citation:-1
+title:Consensus-Based Management of Distributed and Replicated Data. citation:-1
+title:An adaptive architecture for causally consistent distributed services. citation:-1
+title:An introduction to snapshot algorithms in distributed computing. citation:-1
+title:Group membership failure detection: a simple protocol and its probabilistic analysis. citation:-1
+title:Fundamentals of Distributed Computing: A Practical Tour of Vector Clock Systems. citation:-1
+title:Wait-free computing: an introductory lecture. citation:-1
+title:An introduction to oracles for asynchronous distributed systems. citation:-1
+title:The logically instantaneous communication mode: a communication abstraction. citation:-1
+title:Rollback-Dependency Trackability: A Minimal Characterization and Its Protocol. citation:-1
+title:A Note on the Determination of the Immediate Predecessors in a Distributed Computation. citation:-1
+title:Impossibility of scalar clock-based communication-induced checkpointing protocols ensuring the RDT property. citation:-1
+title:Stabilizing mobile philosophers. citation:-1
+title:A weakest failure detector-based asynchronous consensus protocol for f<n. citation:-1
+title:Asynchronous bounded lifetime failure detectors. citation:-1
+title:On-The-Fly Analysis of Distributed Computations. citation:-1
+title:From Binary Consensus to Multivalued Consensus in asynchronous message-passing systems. citation:-1
+title:A Distributed Algorithm to Prevent Mutual Drift Between n Logical Clocks. citation:-1
+title:Prime Numbers as a Tool to Design Distributed Algorithms. citation:-1
+title:The Causal Ordering Abstraction and a Simple Way to Implement it. citation:-1
+title:Restricted failure detectors: Definition and reduction protocols. citation:-1
+title:An impossibility about failure detectors in the iterated immediate snapshot model. citation:-1
+title:Anonymous graph exploration without collision by mobile robots. citation:-1
+title:Calcul Réparti D'un Extrémum Et Du Routage Associé Dans Un Réseau Quelconque. citation:-1
+title:Conditions on input vectors for consensus solvability in asynchronous distributed systems. citation:-1
+title:A necessary and sufficient condition for transforming limited accuracy failure detectors. citation:-1
+title:Shared Global States in Distributed Computations. citation:-1
+title:Interval Consistency of Asynchronous Distributed Computations. citation:-1
+title:Consensus in Byzantine asynchronous systems. citation:-1
+title:Specification and Verification of Dynamic Properties in Distributed Computations. citation:-1
+title:Deadlock Models and a General Algorithm for Distributed Deadlock Detection. citation:-1
+title:Erratum: Deadlock Models and a General Algorithm for Distributed Deadlock Detection. citation:-1
+title:An Adaptive Causal Ordering Algorithm Suited to Mobile Computing Environments. citation:-1
+title:From omega to Omega: A simple bounded quiescent reliable broadcast-based transformation. citation:-1
+title:Using asynchrony and zero degradation to speed up indulgent consensus protocols. citation:-1
+title:A unified framework for the specification and run-time detection of dynamic properties in distributed computations. citation:-1
+title:An Implementation of Global Flush Primitives Using Counters. citation:-1
+title:Normality: A Consistency Condition for Concurrent Objects. citation:-1
+title:$\diamondsuit {\mathcal P}_{mute}$-based Consensus for Asynchronous Byzantine Systems. citation:-1
+title:Leader-Based Consensus. citation:-1
+title:A Time-free Assumption to Implement Eventual Leadership. citation:-1
+title:Causal Delivery of Messages with Real-Time Data in Unreliable Networks. citation:-1
+title:The Combined Power of Conditions and Information on Failures to Solve Asynchronous Set Agreement. citation:-1
+title:Modularity: a first class concept to address distributed systems. citation:-1
+title:Local States in Distributed Computations: A Few Relations and Formulas. citation:-1
+title:A Simple Taxonomy for Distributed Mutual Exclusion Algorithms. citation:-1
+title:About Logical Clocks for Distributed Systems. citation:-1
+title:Mastering Agreement Problems in Distributed Systems. citation:-1
+title:An Experience in Implementing Abstract Data Types. citation:-1
+title:Structured Specification of Communicating Systems. citation:-1
+title:The Information Structure of Indulgent Consensus. citation:-1
+title:A Versatile Family of Consensus Protocols Based on Chandra-Toueg's Unreliable Failure Detectors. citation:-1
+title:Asynchronous Agreement and Its Relation with Error-Correcting Codes. citation:-1
+title:Design and Performance Evaluation of Efficient Consensus Protocols for Mobile Ad Hoc Networks. citation:-1
+title:k-Arbiter: A Safe and General Scheme for h-out of-k Mutual Exclusion. citation:-1
+title:Preface. citation:-1
+title:From adaptive renaming to set agreement. citation:-1
+title:Simple and Efficient Oracle-Based Consensus Protocols for Asynchronous Byzantine Systems. citation:-1
+title:An Adaptive Programming Model for Fault-Tolerant Distributed Computing. citation:-1
+title:Efficient Causality-Tracking Timestamping. citation:-1
+title:Atomic Broadcast in Asynchronous Crash-Recovery Distributed Systems and Its Use in Quorum-Based Replication. citation:-1
+title:Early Stopping in Global Data Computation. citation:-1
+title:Consensus-Based Fault-Tolerant Total Order Multicast. citation:-1
+title:Computing Global Functions in Asynchronous Distributed Systems with Perfect Failure Detectors. citation:-1
+title:A General Scheme for Token- and Tree-Based Distributed Mutual Exclusion Algorithms. citation:-1
+title:Communication-Induced Determination of Consistent Snapshots. citation:-1
+title:Time-Free and Timer-Based Assumptions Can Be Combined to Obtain Eventual Leadership. citation:-1
+title:On the Respective Power of *P and *S to Solve One-Shot Agreement Problems. citation:-1
+title:Consistency Issues in Distributed Checkpoints. citation:-1
+title:Efficient Distributed Detection of Conjunctions of Local Predicates. citation:-1
+title:Adaptive checkpointing in message passing distributed systems. citation:-1
+title:Set Agreement. citation:-1
+title:Conditions for Set Agreement with an Application to Synchronous Systems. citation:-1
+title:Revisiting simultaneous consensus with crash failures. citation:-1
+title:An Optimistic Protocol for a Linearizable Distributed Shared Memory System. citation:-1
+title:Quorum-Based Multi-Invocation Model for Replicated Objects. citation:-1
+title:Implementing a Register in a Dynamic Distributed System. citation:-1
+title:Software Transactional Memories: An Approach for Multicore Programming. citation:-1
+title:Brief announcement: virtual world consistency: a new condition for STM systems. citation:-1
+title:Brief announcement: the price of anonymity: optimal consensus despite asynchrony, crash and anonymity. citation:-1
+title:Joining a Distributed Shared Memory Computation in a Dynamic Distributed System. citation:-1
+title:Visiting Gafni's Reduction Land: From the BG Simulation to the Extended BG Simulation. citation:-1
+title:Looking for the Weakest Failure Detector for -Set Agreement in Message-Passing Systems: Is ${\it \Pi}_k${\it \Pi}_k the End of the Road? citation:-1
+title:Help When Needed, But No More: Efficient Read/Write Partial Snapshot. citation:-1
+title:The Price of Anonymity: Optimal Consensus Despite Asynchrony, Crash and Anonymity. citation:-1
+title:A note on atomicity: Boosting Test&Set to solve consensus. citation:-1
+title:Eventual Clusterer: A Modular Approach to Designing Hierarchical Consensus Protocols in MANETs. citation:-1
+title:On the Fly Estimation of the Processes that Are Alive in an Asynchronous Message-Passing System. citation:-1
+title:Shared Memory Synchronization in Presence of Failures: An Exercise-Based. citation:-1
+title:A Timing Assumption and Two -Resilient Protocols for Implementing an Eventual Leader Service in Asynchronous Shared Memory Systems. citation:-1
+title:Narrowing power vs efficiency in synchronous set agreement: Relationship, algorithms and lower bound. citation:-1
+title:Consensus in Anonymous Distributed Systems: Is There a Weakest Failure Detector?. citation:-1
+title:Early Consensus in Message-Passing Systems Enriched with a Perfect Failure Detector and Its Application in the Theta Model. citation:-1
+title:D2HT: The Best of Both Worlds, Integrating RPS and DHT. citation:-1
+title:The -Wait-Freedom Progress Condition. citation:-1
+title:Value-Based Sequential Consistency for Set Objects in Dynamic Distributed Systems. citation:-1
+title:Principles of Distributed Systems, 13th International Conference, OPODIS 2009, Nîmes, France, December 15-18, 2009. Proceedings citation:-1
+title:The multiplicative power of consensus numbers. citation:-1
+title:On asymmetric progress conditions. citation:-1
+title:Structural Information and Communication Complexity, 12th International Colloquium, SIROCCO 2005, Mont Saint-Michel, France, May 24-26, 2005, Proceedings citation:-1
+title:Regular Register: An Implementation in a Churn Prone Environment. citation:-1
+title:A Versatile STM Protocol with Invisible Read Operations That Satisfies the Virtual World Consistency Condition. citation:-1
+title:On Adaptive Renaming under Eventually Limited Contention. citation:-1
+title:Distributed Algorithms, 3rd International Workshop, Nice, France, September 26-28, 1989, Proceedings citation:-1
+title:Distributed Algorithms, 9th International Workshop, WDAG '95, Le Mont-Saint-Michel, France, September 13-15, 1995, Proceedings citation:-1
+title:The 2010 Edsger W. Dijkstra Prize in Distributed Computing. citation:-1
+title:Anonymous Asynchronous Systems: The Case of Failure Detectors. citation:-1
+title:A simple proof of the necessity of the failure detector Sigma to implement an atomic register in asynchronous message-passing systems. citation:-1
+title:Strongly Terminating Early-Stopping -Set Agreement in Synchronous Systems with General Omission Failures. citation:-1
+title:The -simultaneous consensus problem. citation:-1
+title:From an Asynchronous Intermittent Rotating Star to an Eventual Leader. citation:-1
+title:Signature-Free Broadcast-Based Intrusion Tolerance: Never Decide a Byzantine Value. citation:-1
+title:A Necessary and Sufficient Synchrony Condition for Solving Byzantine Consensus in Symmetric Networks. citation:-1
+title:A Methodological Construction of an Efficient Sequentially Consistent Distributed Shared Memory. citation:-1
+title:Eventual Leader Election with Weak Assumptions on Initial Knowledge, Communication Reliability, and Synchrony. citation:-1
+title:Synchronization and control of distributed systems and programs. citation:-1
+title:Distributed algorithms and protocols. citation:-1
+title:A Theory-Oriented Introduction to Wait-Free Synchronization Based on the Adaptive Renaming Problem. citation:-1
+title:A Simple Snapshot Algorithm for Multicore Systems. citation:-1
+title:The universe of symmetry breaking tasks. citation:-1
+title:Brief announcement: read invisibility, virtual world consistency and permissiveness are compatible. citation:-1
+title:The renaming problem in shared memory systems: An introduction. citation:-1
+title:A liveness condition for concurrent objects: -wait-freedom. citation:-1
+title:On the road to the weakest failure detector for k-set agreement in message-passing systems. citation:-1
+title:Software transactional memories: an approach for multicore programming. citation:-1
+title:Help when needed, but no more: Efficient read/write partial snapshot. citation:-1
+title:Failure Detectors in Homonymous Distributed Systems (with an Application to Consensus) citation:-1
+title:The Price of Anonymity: Optimal Consensus Despite Asynchrony, Crash, and Anonymity. citation:-1
+title:Specifying and Implementing an Eventual Leader Service for Dynamic Systems. citation:-1
+title:Distributed Computing with Mobile Robots: An Introductory Survey. citation:-1
+title:Looking for Efficient Implementations of Concurrent Objects. citation:-1
+title:A Survey on Some Recent Advances in Shared Memory Models. citation:-1
+title:The Universe of Symmetry Breaking Tasks. citation:-1
+title:Brief Announcement: ??: Specifying an Eventual Leader Service for Dynamic Systems. citation:-1
+title:Read Invisibility, Virtual World Consistency and Probabilistic Permissiveness are Compatible. citation:-1
+title:Relations Linking Failure Detectors Associated with k-Set Agreement in Message-Passing Systems. citation:-1
+title:The Weakest Failure Detector to Implement a Register in Asynchronous Systems with Hybrid Communication. citation:-1
+title:Implementing a Regular Register in an Eventually Synchronous Distributed System Prone to Continuous Churn. citation:-1
+title:Towards a Universal Construction for Transaction-Based Multiprocess Programs. citation:-1
+title:On the Implementation of Concurrent Objects. citation:-1
+title:Fault-tolerant Agreement in Synchronous Message-passing Systems citation:-1
+title:Communication and Agreement Abstractions for Fault-Tolerant Asynchronous Distributed Systems citation:-1
+title:A speculation-friendly binary search tree. citation:-1
+title:No double discount: Condition-based simultaneity yields limited gain. citation:-1
+title:Failure Detectors to Solve Asynchronous k-Set Agreement: a Glimpse of Recent Results. citation:-1
+title:Renaming Is Weaker Than Set Agreement But for Perfect Renaming: A Map of Sub-consensus Tasks. citation:-1
+title:Trying to Unify the LL/SC Synchronization Primitive and the Notion of a Timed Register. citation:-1
+title:From a Store-Collect Object and ? to Efficient Asynchronous Consensus. citation:-1
+title:Chasing the Weakest Failure Detector for k-Set Agreement in Message-Passing Systems. citation:-1
+title:Increasing the Power of the Iterated Immediate Snapshot Model with Failure Detectors. citation:-1
+title:Brief Announcement: A Contention-Friendly, Non-blocking Skip List. citation:-1
+title:STM Systems: Enforcing Strong Isolation between Transactions and Non-transactional Code. citation:-1
+title:Leader Election: From Higham-Przytycka's Algorithm to a Gracefully Degrading Algorithm. citation:-1
+title:A Simple Asynchronous Shared Memory Consensus Algorithm Based on Omega and Closing Sets. citation:-1
+title:Brief announcement: increasing the power of the iterated immediate snapshot model with failure detectors. citation:-1
+title:Brief announcement: there are plenty of tasks weaker than perfect renaming and stronger than set agreement. citation:-1
+title:Failure Detectors in Homonymous Distributed Systems (with an Application to Consensus). citation:-1
+title:Virtual world consistency: A condition for STM systems (with a versatile protocol with invisible read operations). citation:-1
+title:Specifying and implementing an eventual leader service for dynamic systems. citation:-1
+title:A suite of definitions for consistency criteria in distributed shared memories. citation:-1
+title:Probabilistic analysis of a group failure detection protocol. citation:-1
+title:Computability in distributed computing: a Tutorial. citation:-1
+title:Distributed Computing and Networking, 14th International Conference, ICDCN 2013, Mumbai, India, January 3-6, 2013. Proceedings citation:-1
+title:When and How Process Groups Can Be Used to Reduce the Renaming Space. citation:-1
+title:Concurrent Programming - Algorithms, Principles, and Foundations. citation:-1
+title:Exploiting write semantics in implementing partially replicated causal objects. citation:-1

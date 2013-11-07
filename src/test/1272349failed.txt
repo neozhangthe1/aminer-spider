@@ -1,0 +1,399 @@
+title:Process Mining and Security: Detecting Anomalous Process Executions and Checking Process Conformance. citation:-1
+title:Flexible Workflow Management Systems: An Approach Based on Generic Process Models. citation:-1
+title:Woflan 2.0: A Petri-Net-Based Workflow Diagnosis Tool. citation:-1
+title:Getting Rid of the OR-Join in Business Process Models. citation:-1
+title:Web Service Mining and Verification of Properties: An Approach Based on Event Calculus. citation:-1
+title:Cycle Time Prediction: When Will This Case Finally Be Finished?. citation:-1
+title:Fundamentals of control flow in workflows. citation:-1
+title:Advances in business process management. citation:-1
+title:Configurable Workflow Models. citation:-1
+title:Web Service Composition Languages: Old Wine in New Bottles?. citation:-1
+title:EMiT: A Process Mining Tool. citation:-1
+title:Supporting Flexible Processes with Adaptive Workflow and Case Handling. citation:-1
+title:Patterns-based evaluation of open source BPM systems: The cases of jBPM, OpenWFE, and Enhydra Shark. citation:-1
+title:A Generic Import Framework for Process Event Logs. citation:-1
+title:Analysis of Web Services Composition Languages: The Case of BPEL4WS. citation:-1
+title:An Outlook on Semantic Business Process Mining and Monitoring. citation:-1
+title:Pattern-Based Analysis of the Control-Flow Perspective of UML Activity Diagrams. citation:-1
+title:Interoperability in the ProM Framework. citation:-1
+title:Achieving a General, Formal and Decidable Approach to the OR-Join in Workflow Using Reset Nets. citation:-1
+title:Business alignment: using process mining as a tool for Delta analysis and conformance testing. citation:-1
+title:Business Process Execution Language. citation:-1
+title:Context Aware Trace Clustering: Towards Improving Process Mining Results. citation:-1
+title:ProM 4.0: Comprehensive Support for Process Analysis. citation:-1
+title:Towards comprehensive support for organizational mining. citation:-1
+title:Workflow Management: Models, Methods, and Systems citation:-1
+title:Component-based software architectures: a framework based on inheritance of behavior. citation:-1
+title:"Compositionality of projection inheritance" [Sci. Comput. Programming 42 (2-3) (2002) 129-171]. citation:-1
+title:Complexity metrics for Workflow nets. citation:-1
+title:Making Work Flow: On the Application of Petri Nets to Business Process Management. citation:-1
+title:Worklets: A Service-Oriented Implementation of Dynamic Flexibility in Workflows. citation:-1
+title:Discovering Workflow Performance Models from Timed Logs. citation:-1
+title:Genetic Process Mining. citation:-1
+title:Ex Spect 6.4: An Executable Specification Tool for Hierarchical Colored Petri Nets. citation:-1
+title:Specifying and Monitoring Service Flows: Making Web Services Process-Aware. citation:-1
+title:Deadline-based escalation in process-aware information systems. citation:-1
+title:Choreography. citation:-1
+title:Soundness-preserving reduction rules for reset workflow nets. citation:-1
+title:Inheritance of behavior. citation:-1
+title:Interval Timed Coloured Petri Nets and their Analysis. citation:-1
+title:Multi-phase Process Mining: Building Instance Graphs. citation:-1
+title:Life-Cycle Inheritance: A Petri-Net-Based Approach. citation:-1
+title:Adaptive Workflow-On the Interplay between Flexibility and Support. citation:-1
+title:Re-engineering knock-out processes. citation:-1
+title:Liveness, Fairness, and Recurrence in Petri Nets. citation:-1
+title:Identifying Commonalities and Differences in Object Life Cycles Using Behavioral Inheritance. citation:-1
+title:A Rule-Based Approach for Process Discovery: Dealing with Noise and Imbalance in Process Logs. citation:-1
+title:Composition. citation:-1
+title:Discovering Distributed Processes in Supply Chains. citation:-1
+title:An Evolutionary Approach for Business Process Redesign - Towards an Intelligent System. citation:-1
+title:Web Services: Been There, Done That? citation:-1
+title:Communication Abstractions for Distributed Business Processes. citation:-1
+title:A Reference Model for Grid Architectures and Its Analysis. citation:-1
+title:Challenges in Business Process Management: Verification of Business Processing Using Petri Nets. citation:-1
+title:Synchronization and Cancelation in Workflows Based on Reset Nets. citation:-1
+title:Process mining in CSCW systems. citation:-1
+title:Reduction rules for YAWL workflows with cancellation regions and OR-joins. citation:-1
+title:Genetic process mining: an experimental evaluation. citation:-1
+title:PC Co-chairs' Message. citation:-1
+title:Workflow Modeling Using Proclets. citation:-1
+title:Generic Workflow Models: How to Handle Dynamic Change and Capture Management Information? citation:-1
+title:Mining process models with non-free-choice constructs. citation:-1
+title:Exterminating the Dynamic Change Bug: A Concrete Approach to Support Workflow Change. citation:-1
+title:Process-Aware Information Systems: Design, Enactment, and Analysis. citation:-1
+title:Process Mining in Web Services: The WebSphere Case. citation:-1
+title:Workflow Mining: Current Status and Future Directions. citation:-1
+title:Discovering Social Networks from Event Logs. citation:-1
+title:Ad-hoc Workflow: Problems and Solutions. citation:-1
+title:Process mining: a two-step approach to balance between underfitting and overfitting. citation:-1
+title:Evaluating workflow process designs using cohesion and coupling metrics. citation:-1
+title:Challenges in Business Process Analysis. citation:-1
+title:XML - Based Schema Definition for Support of Interorganizational Workflow. citation:-1
+title:On the suitability of UML 2.0 activity diagrams for business process modelling. citation:-1
+title:Performing Business Process Redesign with Best Practices: An Evolutionary Approach. citation:-1
+title:Matching observed behavior and modeled behavior: An approach based on Petri nets and integer programming. citation:-1
+title:Formalization and Verification of EPCs with OR-Joins Based on State and Context. citation:-1
+title:Improving Product Usage Monitoring and Analysis with Semantic Concepts. citation:-1
+title:Application of Process Mining in Healthcare - A Case Study in a Dutch Hospital. citation:-1
+title:Interacting agents through a web-based health serviceflow management system. citation:-1
+title:Configurable Process Models: Experiences from a Municipality Case Study. citation:-1
+title:Soundness of Workflow Nets with Reset Arcs. citation:-1
+title:Model-Driven Process Configuration of Enterprise Systems. citation:-1
+title:From conceptual process models to running systems: A holistic approach for the configuration of enterprise system processes. citation:-1
+title:On the Correlation between Process Model Metrics and Errors. citation:-1
+title:Data-Flow Anti-patterns: Discovering Data-Flow Errors in Workflows. citation:-1
+title:Designing a Workflow System Using Coloured Petri Nets. citation:-1
+title:From Requirements via Colored Workflow Nets to an Implementation in Several Workflow Systems. citation:-1
+title:DECLARE: Full Support for Loosely-Structured Processes. citation:-1
+title:Process Equivalence: Comparing Two Process Models Based on Observed Behavior. citation:-1
+title:Implementation of a YAWL Work-List Handler based on the Resource Patterns. citation:-1
+title:Beyond workflow management: product-driven case handling. citation:-1
+title:Process Mining for Ubiquitous Mobile Systems: An Overview and a Concrete Algorithm. citation:-1
+title:Analysis of Railway Stations by Means of Interval Timed Coloured Petri Nets. citation:-1
+title:Mining Social Networks: Uncovering Interaction Patterns in Business Processes. citation:-1
+title:Change Mining in Adaptive Process Management Systems. citation:-1
+title:TomTom for Business Process Management (TomTom4BPM). citation:-1
+title:Let's Go All the Way: From Requirements Via Colored Workflow Nets to a BPEL Implementation of a New Bank System. citation:-1
+title:Working with the Past: Integrating History in Petri Nets. citation:-1
+title:Process Mining and Verification of Properties: An Approach Based on Temporal Logic. citation:-1
+title:Mining of ad-hoc business processes with TeamLog. citation:-1
+title:Product Based Workflow Support: Dynamic Workflow Execution. citation:-1
+title:Process Mining: Discovering Direct Successors in Process Logs. citation:-1
+title:Using Process Mining to Analyze and Improve Process Flexibility. citation:-1
+title:Workflow Support Using Proclets: Divide, Interact, and Conquer. citation:-1
+title:WorkflowNet2BPEL4WS: A Tool for Translating Unstructured Workflow Processes to Readable BPEL. citation:-1
+title:Workflow simulation for operational decision support. citation:-1
+title:History-Dependent Petri Nets. citation:-1
+title:Process Mining Framework for Software Processes. citation:-1
+title:Coordination. citation:-1
+title:On the Notion of Coupling in Communication Middleware. citation:-1
+title:Inheritance of Interorganizational Workflows to Enable Business-to-Business. citation:-1
+title:A novel approach for process mining based on event types. citation:-1
+title:Facilitating Flexibility and Dynamic Exception Handling in Workflows through Worklets. citation:-1
+title:Process Mining in Healthcare - A Case Study. citation:-1
+title:An Alternative Way to Analyze Workflow Graphs. citation:-1
+title:Inter-enterprise System and Application Integration: A Reality Check. citation:-1
+title:Getting rid of OR-joins and multiple start events in business process models. citation:-1
+title:Modelling work distribution mechanisms using Colored Petri Nets. citation:-1
+title:On a Quest for Good Process Models: The Cross-Connectivity Metric. citation:-1
+title:DecSerFlow: Towards a Truly Declarative Service Flow Language. citation:-1
+title:Open Source Workflow: A Viable Direction for BPM?. citation:-1
+title:Business Alignment: Using Process Mining as a Tool for Delta Analysis. citation:-1
+title:WofBPEL: A Tool for Automated Analysis of BPEL Processes. citation:-1
+title:Design and Implementation of the YAWL System. citation:-1
+title:Configurable Process Models as a Basis for Reference Modeling. citation:-1
+title:Workflow Patterns. citation:-1
+title:Workflow Simulation for Operational Decision Support Using Design, Historic and State Information. citation:-1
+title:06291 Abstracts Collection -- The Role of Business Processes in Service-Oriented Architectures. citation:-1
+title:Soft reliability: an interdisciplinary approach with a user-system focus. citation:-1
+title:Towards a Taxonomy of Process Flexibility. citation:-1
+title:Business Process Modeling Notation. citation:-1
+title:A Meta Model for Process Mining Data. citation:-1
+title:Evaluating a Data Removal Strategy for Grid Environments Using Colored Petri Nets. citation:-1
+title:Verification of EPCs: Using Reduction Rules and Petri Nets. citation:-1
+title:Supporting Flexible Processes through Recommendations Based on History. citation:-1
+title:Discovery, Verification and Conformance of Workflows with Cancellation. citation:-1
+title:How to handle dynamic change and capture management information? An approach based on generic workflow models. citation:-1
+title:Inheritance of Business Processes: A Journey Visiting Four Notorious Problems. citation:-1
+title:Visual Support for Work Assignment in Process-Aware Information Systems. citation:-1
+title:Process Mining Techniques: an Application to Stroke Care. citation:-1
+title:Questionnaire-based variability modeling for system configuration. citation:-1
+title:Quantifying process equivalence based on observed behavior. citation:-1
+title:From task descriptions via colored Petri nets towards an implementation of a new electronic patient record workflow system. citation:-1
+title:Modelling and Analysis of Complex Logistic Systems. citation:-1
+title:Model-Driven Enterprise Systems Configuration. citation:-1
+title:Discovering colored Petri nets from event logs. citation:-1
+title:Dynamic, Extensible and Context-Aware Exception Handling for Workflows. citation:-1
+title:Working group report on process [production process workflow in cooperative virtual enterprises]. citation:-1
+title:Process Mining Based on Clustering: A Quest for Precision. citation:-1
+title:Correctness-Preserving Configuration of Business Process Models. citation:-1
+title:Protos2CPN: using colored Petri nets for configuring and testing business processes. citation:-1
+title:Product-driven Workflow Design. citation:-1
+title:Business Process Simulation for Operational Decision Support. citation:-1
+title:Finding Structure in Unstructured Processes: The Case for Process Mining. citation:-1
+title:Life After BPEL? citation:-1
+title:Detection and prediction of errors in EPCs of the SAP reference model. citation:-1
+title:The Conceptualization of a Configurable Multi-party Multi-message Request-Reply Conversation. citation:-1
+title:Mining Reference Process Models and Their Configurations. citation:-1
+title:Business Process Management Demystified: A Tutorial on Models, Systems and Standards for Workflow Management. citation:-1
+title:Process Mining. citation:-1
+title:Verification of the SAP reference models using EPC reduction, state-space analysis, and invariants. citation:-1
+title:On the Formal Generation of Process Redesigns. citation:-1
+title:Work Distribution and Resource Management in BPEL4People: Capabilities and Opportunities. citation:-1
+title:Linking Domain Models and Process Models for Reference Model Configuration. citation:-1
+title:Service Interaction: Patterns, Formalization, and Analysis. citation:-1
+title:The Need for a Process Mining Evaluation Framework in Research and Practice. citation:-1
+title:Proclets: A Framework for Lightweight Interacting Workflow Processes. citation:-1
+title:Process Flexibility: A Survey of Contemporary Approaches. citation:-1
+title:Using Interval Timed Coloured Petri Nets to Calculate Performance Bounds. citation:-1
+title:Abstractions in Process Mining: A Taxonomy of Patterns. citation:-1
+title:Assessing State Spaces Using Petri-Net Synthesis and Attribute-Based Visualization. citation:-1
+title:From BPMN Process Models to BPEL Web Services. citation:-1
+title:Diagnosing Workflow Processes using Woflan. citation:-1
+title:Verification of XRL: An XML-based Workflow Language. citation:-1
+title:Business Process Compliance Checking: Current State and Future Challenges. citation:-1
+title:Process-Aware Information Systems: Lessons to Be Learned from Process Mining. citation:-1
+title:Workflow Model Analysis. citation:-1
+title:Flexibility Schemes for Workflow Management Systems. citation:-1
+title:Understanding the Occurrence of Errors in Process Models Based on Metrics. citation:-1
+title:06291 Workshop Report: Process Mining, Monitoring Processes and Services. citation:-1
+title:Choreography Conformance Checking: An Approach based on BPEL and Petri Nets. citation:-1
+title:Trace Clustering in Process Mining. citation:-1
+title:Combining workflow and PDM based on the workflow management coalition and STEP standards: the case of . citation:-1
+title:Case Handling Systems as Product Based Workflow Design Support. citation:-1
+title:Processes Driving the Networked Economy. citation:-1
+title:From business process models to process-oriented software systems. citation:-1
+title:Constraint-Based Workflow Models: Change Made Easy. citation:-1
+title:A SOA-Based Architecture Framework. citation:-1
+title:Discovering simulation models. citation:-1
+title:Flexibility as a Service. citation:-1
+title:SAP WebFlow Made Configurable: Unifying Workflow Templates into a Configurable Model. citation:-1
+title:Fuzzy Mining - Adaptive Process Simplification Based on Multi-perspective Metrics. citation:-1
+title:Seven process modeling guidelines (7PMG). citation:-1
+title:A Declarative Approach for Flexible Business Processes Management. citation:-1
+title:Exploring the CSCW spectrum using process mining. citation:-1
+title:Merging Event-Driven Process Chains. citation:-1
+title:Declarative workflows: Balancing between flexibility and support. citation:-1
+title:Mining configurable enterprise information systems. citation:-1
+title:Workflow Mining: Discovering Process Models from Event Logs. citation:-1
+title:XRL/Flower: Supporting Inter-organizational Workflows Using XML/Petri-Net Technology. citation:-1
+title:Towards the Interchange of Configurable EPCs. citation:-1
+title:Business process management: Where business processes and web services meet. citation:-1
+title:Verification Of Workflow Task Structures: A Petri-net-baset Approach. citation:-1
+title:A survey of patterns for Service-Oriented Architectures. citation:-1
+title:Conformance checking of service behavior. citation:-1
+title:From Public Views to Private Views - Correctness-by-Design for Services. citation:-1
+title:Advanced Reduction Rules for the Verification of EPC Business Process Models. citation:-1
+title:Verifying Workflows with Cancellation Regions and OR-joins: An Approach Based on Relaxed Soundness and Invariants. citation:-1
+title:Verifying Workflows with Cancellation Regions and OR-Joins: An Approach Based on Reset Nets and Reachability Analysis. citation:-1
+title:When are two Workflows the Same? citation:-1
+title:Workflow Patterns. citation:-1
+title:Framework for business process redesign. citation:-1
+title:Reduction rules for reset/inhibitor nets. citation:-1
+title:On the Suitability of BPMN for Business Process Modelling. citation:-1
+title:Genetic Process Mining: A Basic Approach and Its Challenges. citation:-1
+title:Trends in business process analysis - from verification to process mining. citation:-1
+title:Compositional Service Trees. citation:-1
+title:Orchestration. citation:-1
+title:Faulty EPCs in the SAP Reference Model. citation:-1
+title:DecSerFlow: Towards a Truly Declarative Service Flow Language. citation:-1
+title:Bridging The Gap Between Business Models And Workflow Specifications. citation:-1
+title:An Analysis of Windows Workflow's Control-Flow Expressiveness. citation:-1
+title:Declarative and Procedural Approaches for Modelling Clinical Guidelines: Addressing Flexibility Issues. citation:-1
+title:A reference model for team-enabled workflow management systems. citation:-1
+title:Integration of EPC-related Tools with ProM. citation:-1
+title:On the Degree of Behavioral Similarity between Business Process Models. citation:-1
+title:Using Process Mining to Generate Accurate and Interactive Business Process Maps. citation:-1
+title:On the semantics of EPCs: A vicious circle. citation:-1
+title:A formal modeling approach for supply chain event management. citation:-1
+title:Conformance Testing: Measuring the Fit and Appropriateness of Event Logs and Process Models. citation:-1
+title:Towards EPC Semantics based on State and Context. citation:-1
+title:Workflow Exception Patterns. citation:-1
+title:Workflow Resource Patterns: Identification, Representation and Tool Support. citation:-1
+title:Decision Mining in ProM. citation:-1
+title:An Evaluation of Case Handling Systems for Product Based Workflow Design. citation:-1
+title:Translating unstructured workflow processes to readable BPEL: Theory and implementation. citation:-1
+title:Inheritance of Dynamic Behavior: Development of a Groupware Editor. citation:-1
+title:The Case Handling Case. citation:-1
+title:Generating correct EPCs from configured C-EPCs. citation:-1
+title:On the Syntax of Reference Model Configuration - Transforming the C-EPC into Lawful EPC Models. citation:-1
+title:Organizational Modeling in UML and XML in the Context of Workflow Systems. citation:-1
+title:Modeling and Analyzing Interorganizational Workflows. citation:-1
+title:Structural Patterns for Soundness of Business Process Models. citation:-1
+title:Applications and Theory of Petri Nets 2003, 24th International Conference, ICATPN 2003, Eindhoven, The Netherlands, June 23-27, 2003, Proceedings citation:-1
+title:Business Process Management, Models, Techniques, and Empirical Studies citation:-1
+title:Business Process Management, International Conference, BPM 2003, Eindhoven, The Netherlands, June 26-27, 2003, Proceedings citation:-1
+title:Business Process Management, 3rd International Conference, BPM 2005, Nancy, France, September 5-8, 2005, Proceedings citation:-1
+title:BPR Best Practices for the Healthcare Domain. citation:-1
+title:Trace Clustering Based on Conserved Patterns: Towards Achieving Better Process Models. citation:-1
+title:Process-Aware Information System Development for the Healthcare Domain - Consistency, Reliability, and Effectiveness. citation:-1
+title:Activity Mining by Global Trace Segmentation. citation:-1
+title:Analyzing Resource Behavior Using Process Mining. citation:-1
+title:Visual Support for Work Assignment in YAWL. citation:-1
+title:DECLARE Demo: A Constraint-based Workflow Management System. citation:-1
+title:ProM: The Process Mining Toolkit. citation:-1
+title:Trace Alignment in Process Mining: Opportunities for Process Diagnostics. citation:-1
+title:Correctness Ensuring Process Configuration: An Approach Based on Partner Synthesis. citation:-1
+title:Business Trend Analysis by Simulation. citation:-1
+title:Beyond Process Mining: From the Past to Present and Future. citation:-1
+title:Anomaly Detection Using Process Mining. citation:-1
+title:The Role of Business Processes in Service Oriented Architectures, 16.07. - 21.07.2006 citation:-1
+title:History-Dependent Stochastic Petri Nets. citation:-1
+title:Multiparty Contracts: Agreeing and Implementing Interorganizational Processes. citation:-1
+title:Auditing 2.0: Using Process Mining to Support Tomorrow's Auditor. citation:-1
+title:Dimensions of coupling in middleware. citation:-1
+title:Mining process models with prime invisible tasks. citation:-1
+title:Preserving correctness during business process model configuration. citation:-1
+title:Proclets in healthcare. citation:-1
+title:Declarative specification and verification of service choreographiess. citation:-1
+title:Transactions on Petri Nets and Other Models of Concurrency I citation:-1
+title:Transactions on Petri Nets and Other Models of Concurrency II, Special Issue on Concurrency in Process-Aware Information Systems citation:-1
+title:Workflow Management Systems for Grid Computing. citation:-1
+title:Model-based software configuration: patterns and languages. citation:-1
+title:Managing Process Model Collections with AProMoRe. citation:-1
+title:Automatic Support for Product Based Workflow Design: Generation of Process Models from a Product Data Model. citation:-1
+title:Configurable Services in the Cloud: Supporting Variability While Enabling Cross-Organizational Process Mining. citation:-1
+title:COOPIS'10 Keynote. citation:-1
+title:Enacting Declarative Languages Using LTL: Avoiding Errors and Improving Performance. citation:-1
+title:Distributed genetic process mining. citation:-1
+title:Process Mining Online Assessment Data. citation:-1
+title:A reference model for grid architectures and its validation. citation:-1
+title:An adaptive work distribution mechanism based on reinforcement learning. citation:-1
+title:Discovering Process Models with Genetic Algorithms Using Sampling. citation:-1
+title:Reinforcement learning based resource allocation in business process management. citation:-1
+title:Product-based workflow support. citation:-1
+title:Time prediction based on process mining. citation:-1
+title:Schedule-Aware Workflow Management Systems. citation:-1
+title:Mining E-Mail Messages: Uncovering Interaction Patterns and Processes using E-Mail Logs. citation:-1
+title:Loosely coupled interorganizational workflows: : modeling and analyzing workflows crossing organizational boundaries. citation:-1
+title:Product- Based Workflow Design. citation:-1
+title:Dynamic Work Distribution in Workflow Management Systems: How to Balance Quality and Performance. citation:-1
+title:Path Mining and Process Mining for Workflow Management Systems. citation:-1
+title:Towards Robust Conformance Checking. citation:-1
+title:Mining Context-Dependent and Interactive Business Process Maps Using Execution Patterns. citation:-1
+title:Business Process Simulation Revisited. citation:-1
+title:Conceptual model for online auditing. citation:-1
+title:APROMORE: An advanced process model repository. citation:-1
+title:Soundness of workflow nets: classification, decidability, and analysis. citation:-1
+title:Simulation to Analyze the Impact of a Schedule-aware Workflow Management System. citation:-1
+title:Verifying workflow processes: a transformation-based approach. citation:-1
+title:Process Mining Applied to the Test Process of Wafer Scanners in ASML. citation:-1
+title:Managing Process Model Complexity via Concrete Syntax Modifications. citation:-1
+title:Research Paper: A Pattern-based Analysis of Clinical Computer-interpretable Guideline Modeling Languages. citation:-1
+title:'s Multi-Party Negotiation Protocol: Implementation Using YAWL. citation:-1
+title:Managing Process Model Complexity Via Abstract Syntax Modifications. citation:-1
+title:Process Discovery: Capturing the Invisible. citation:-1
+title:Process diagnostics using trace alignment: Opportunities, issues, and challenges. citation:-1
+title:Modern Business Process Automation - YAWL and its Support Environment citation:-1
+title:Advanced Synchronization. citation:-1
+title:Introduction. citation:-1
+title:Process Mining and Simulation. citation:-1
+title:YAWL4Healthcare. citation:-1
+title:Epilogue. citation:-1
+title:Declarative Workflow. citation:-1
+title:The Declare Service. citation:-1
+title:Process Mining - Discovery, Conformance and Enhancement of Business Processes. citation:-1
+title:Causal Nets: A Modeling Language Tailored towards Process Discovery. citation:-1
+title:Business Process Configuration in the Cloud: How to Support and Analyze Multi-tenant Processes? citation:-1
+title:Many-to-Many: Some Observations on Interactions in Artifact Choreographies. citation:-1
+title:XES, XESame, and ProM 6. citation:-1
+title:Discovering Hierarchical Process Models Using ProM. citation:-1
+title:When Process Mining Meets Bioinformatics. citation:-1
+title:Handling Concept Drift in Process Mining. citation:-1
+title:A Method to Mine Workflows from Provenance for Assisting Scientific Workflow Composition. citation:-1
+title:On the Representational Bias in Process Mining. citation:-1
+title:Process Mining for Electronic Data Interchange. citation:-1
+title:Conformance Checking Using Cost-Based Fitness Analysis. citation:-1
+title:Distributed Genetic Process Mining Using Sampling. citation:-1
+title:Soundness and Niceness as Correctness Criteria for Grid Workflows. citation:-1
+title:Workflow completion patterns. citation:-1
+title:Behavioral Conformance of Artifact-Centric Process Models. citation:-1
+title:User-guided discovery of declarative process models. citation:-1
+title:Semantic Process Mining for the Verification of Medical Recommendations. citation:-1
+title:Semantic Process Mining Tools: Core Building Blocks. citation:-1
+title:Intra- and Inter-Organizational Process Mining: Discovering Processes within and between Organizations. citation:-1
+title:Simplifying Mined Process Models: An Approach Based on Unfoldings. citation:-1
+title:Monitoring Business Constraints with Linear Temporal Logic: An Approach Based on Colored Automata. citation:-1
+title:Conformance Checking of Interacting Processes with Overlapping Instances. citation:-1
+title:Pattern-based analysis of computer-interpretable guidelines: Don't forget the context. citation:-1
+title:Using Process Mining to Bridge the Gap between BI and BPM. citation:-1
+title:Gesch‰ftsprozessmanagement im Groﬂen. citation:-1
+title:Business Process Management in the Large. citation:-1
+title:Towards an Understanding of Model Driven Process Configuration and its Support at Large. citation:-1
+title:Comparing Business Processes to Determine the Feasibility of Configurable Models: A Case Study. citation:-1
+title:Process Mining Manifesto. citation:-1
+title:Analysis of Patient Treatment Procedures. citation:-1
+title:Reusing a Declarative Specification to Check the Conformance of Different CIGs. citation:-1
+title:Definition and Validation of Process Mining Use Cases. citation:-1
+title:Towards Cross-Organizational Process Mining in Collections of Process Models and Their Executions. citation:-1
+title:Managing Supply Chain Events to Build Sense-and-Respond Capability. citation:-1
+title:Radiology information system: a workflow-based approach. citation:-1
+title:Erratum: Web Service Mining and Verification of Properties: An Approach Based on Event Calculus. citation:-1
+title:Supporting Healthcare Processes with YAWL4Healthcare. citation:-1
+title:Replaying history on process models for conformance checking and performance analysis. citation:-1
+title:XRL/Woflan: Verification and Extensibility of an XML/Petri-Net-Based Language for Inter-Organizational Workflows. citation:-1
+title:Inheritance of Interorganizational Workflows: How to Agree to Disagree Without Loosing Control? citation:-1
+title:Ensuring correctness during process configuration via partner synthesis. citation:-1
+title:Process mining: making knowledge discovery process centric. citation:-1
+title:Process-Aware Information Systems: Bridging People and Software Through Process Technology citation:-1
+title:Patterns of Process Modeling. citation:-1
+title:Process Mining. citation:-1
+title:Introduction. citation:-1
+title:Runtime Verification of LTL-Based Declarative Process Models. citation:-1
+title:An Infrastructure for Cost-Effective Testing of Operational Support Algorithms Based on Colored Petri Nets. citation:-1
+title:Decomposing Process Mining Problems Using Passages. citation:-1
+title:Discovering Hierarchical Process Models Using ProM. citation:-1
+title:When Process Mining Meets Bioinformatics. citation:-1
+title:An Operational Decision Support Framework for Monitoring Business Constraints. citation:-1
+title:Distributed Process Discovery and Conformance Checking. citation:-1
+title:From Conceptual Process Models to Running Workflows: A Holistic Approach for the Configuration of Enterprise Systems. citation:-1
+title:Creating Sound and Reversible Configurable Process Models Using CoSeNets. citation:-1
+title:Data- and Resource-Aware Conformance Checking of Business Processes. citation:-1
+title:What makes a good process model? - Lessons learned from process mining. citation:-1
+title:Workflow patterns put into context. citation:-1
+title:Process Mining. citation:-1
+title:Process mining. citation:-1
+title:Process Mining: Overview and Opportunities. citation:-1
+title:Efficient Discovery of Understandable Declarative Process Models from Event Logs. citation:-1
+title:Mining Inter-organizational Business Process Models from EDI Messages: A Case Study from the Automotive Sector. citation:-1
+title:Generating Event Logs with Workload-Dependent Speeds from Simulation Models. citation:-1
+title:A genetic algorithm for discovering process trees. citation:-1
+title:Repairing Process Models to Reflect Reality. citation:-1
+title:Where Did I Misbehave? Diagnostic Information in Compliance Checking. citation:-1
+title:Context-Aware Compliance Checking. citation:-1
+title:Aligning Event Logs and Declarative Process Models for Conformance Checking. citation:-1
+title:A Decade of Business Process Management Conferences: Personal Reflections on a Developing Discipline. citation:-1
+title:Visual support for work assignment in process-aware information systems: Framework formalisation and implementation. citation:-1
+title:Aggregating Causal Runs into Workflow Nets. citation:-1
+title:Transactions on Petri Nets and Other Models of Concurrency VI citation:-1
+title:Techniques for a Posteriori Analysis of Declarative Processes. citation:-1
+title:Heuristics Miners for Streaming Event Data citation:-1
+title:Configurable Declare: Designing Customisable Flexible Process Models. citation:-1
+title:On the Role of Fitness, Precision, Generalization and Simplicity in Process Discovery. citation:-1
+title:Process Mining in Healthcare: Data Challenges When Answering Frequently Posed Questions. citation:-1
+title:Alignment Based Precision Checking. citation:-1
+title:Process Mining Applied to the BPI Challenge 2012: Divide and Conquer While Discerning Resources. citation:-1
+title:An Experimental Evaluation of Passage-Based Process Discovery. citation:-1
+title:Root Cause Analysis with Enriched Process Logs. citation:-1
+title:Predicting Deadline Transgressions Using Event Logs. citation:-1
+title:Simplifying discovered process models in a controlled manner. citation:-1

@@ -1,0 +1,390 @@
+title:A Metascheduler For The Grid. citation:-1
+title:Processes Distribution of Homogeneous Parallel Linear Algebra Routines on Heterogeneous Clusters. citation:-1
+title:Fault tolerant high performance computing by a coding approach. citation:-1
+title:Vectorizing compilers: a test suite and results. citation:-1
+title:Editorial introduction to the special issue on computational linear algebra and sparse matrix computations. citation:-1
+title:A comparison of search heuristics for empirical code optimization. citation:-1
+title:More on Scheduling Block-Cyclic Array Redistribution. citation:-1
+title:Tools and techniques for performance - Exploiting the performance of 32 bit floating point arithmetic in obtaining 64 bit accuracy (revisiting iterative refinement for linear systems). citation:-1
+title:Providing Access to High Performance Computing Technologies. citation:-1
+title:Towards Efficient MapReduce Using MPI. citation:-1
+title:Preface. citation:-1
+title:Preface: Clusters and Computational Grids for Scientific Computing. citation:-1
+title:Implementation and Usage of the PERUSE-Interface in Open MPI. citation:-1
+title:Telescoping Languages: A Strategy for Automatic Generation of Scientific Problem-Solving Systems from Annotated Libraries. citation:-1
+title:Evaluating the Performance of MPI-2 Dynamic Communicators and One-Sided Communication. citation:-1
+title:Adaptive Scheduling for Task Farming with Grid Middleware. citation:-1
+title:Special section: Cluster and computational grids for scientific computing. citation:-1
+title:End-user Tools for Application Performance Analysis Using Hardware Counters. citation:-1
+title:Special section: Applications of distributed and grid computing. citation:-1
+title:Digital Software and Data Repositories for Support of Scientific Computing. citation:-1
+title:The Design of Scalable Software Libraries for Distributed Memory Concurrent Computers. citation:-1
+title:Technologies for Repository Interoperation and Access Control. citation:-1
+title:Special section: Grid computing and the message passing interface. citation:-1
+title:Algorithm-Based Fault Tolerance for Fail-Stop Failures. citation:-1
+title:Prospectus for the Next LAPACK and ScaLAPACK Libraries. citation:-1
+title:Middleware for the use of storage in communication. citation:-1
+title:A Scalable Cross-Platform Infrastructure for Application Performance Tuning Using Hardware Counters. citation:-1
+title:Tiling on systems with communication/computation overlap. citation:-1
+title:Automatic Optimisation of Parallel Linear Algebra Routines in Systems with Variable Load. citation:-1
+title:Java Access to Numerical Libraries. citation:-1
+title:Taskers and General Resource Managers: PVM Supporting DCE Process Management. citation:-1
+title:A comparative study of automatic vectorizing compilers. citation:-1
+title:Parallel IO Support for Meta-computing Applications: MPI_Connect IO Applied to PACX-MPI. citation:-1
+title:ACCT: Automatic Collective Communications Tuning. citation:-1
+title:MPI_Connect Managing Heterogeneous MPI Applications Ineroperation and Process Control. citation:-1
+title:Scalable Fault Tolerant MPI: Extending the Recovery Algorithm. citation:-1
+title:Poster reception - Targeting multi-core architectures for linear algebra applications. citation:-1
+title:Heterogeneous MPI Application Interoperation and Process Management under PVMPI. citation:-1
+title:Numerically Stable Real Number Codes Based on Random Matrices. citation:-1
+title:FT-MPI: Fault Tolerant MPI, Supporting Dynamic Applications in a Dynamic World. citation:-1
+title:Optimizing matrix multiplication for a short-vector SIMD architecture - CELL processor. citation:-1
+title:PB-BLAS: a set of parallel block basic linear algebra subprograms. citation:-1
+title:Static tiling for heterogeneous computing platforms. citation:-1
+title:A class of parallel tiled linear algebra algorithms for multicore architectures. citation:-1
+title:Foreword. citation:-1
+title:Tools to aid in the analysis of memory access patterns for FORTRAN programs. citation:-1
+title:Fault Tolerant MPI for the HARNESS Meta-computing System. citation:-1
+title:The design and implementation of the parallel out-of-core ScaLAPACK LU, QR, and Cholesky factorization routines. citation:-1
+title:Selected Results from the ParkBench Benchmark. citation:-1
+title:Using Mixed Precision for Sparse Matrix Computations to Enhance the Performance while Achieving 64-bit Accuracy. citation:-1
+title:Algorithm-based checkpoint-free fault tolerance for parallel matrix computations on volatile resources. citation:-1
+title:Automatic Experimental Analysis of Communication Patterns in Virtual Topologies. citation:-1
+title:S12 - The HPC Challenge (HPCC) benchmark suite. citation:-1
+title:Towards an Efficient Tile Matrix Inversion of Symmetric Positive Definite Matrices on Multicore Architectures citation:-1
+title:Implementing Linear Algebra Routines on Multi-core Processors with Pipelining and a Look Ahead. citation:-1
+title:Message-Passing Performance of Various Computers. citation:-1
+title:LAPACK++: a design overview of object-oriented extensions for high performance linear algebra. citation:-1
+title:Accurate Cache and TLB Characterization Using Hardware Counters. citation:-1
+title:Self-Adapting Numerical Software and Automatic Tuning of Heuristics. citation:-1
+title:Performance Instrumentation and Measurement for Terascale Systems. citation:-1
+title:Gordon Bell prize lectures. citation:-1
+title:Toward a Framework for Preparing and Executing Adaptive Grid Programs. citation:-1
+title:HARNESS fault tolerant MPI design, usage and performance issues. citation:-1
+title:Selected numerical algorithms. citation:-1
+title:An asynchronous algorithm on the NetSolve global computing system. citation:-1
+title:Automatic translation of Fortran to JVM bytecode. citation:-1
+title:Unrolling Loops in FORTRAN. citation:-1
+title:Developing numerical libraries in Java. citation:-1
+title:Robust task scheduling in non-deterministic heterogeneous computing systems. citation:-1
+title:An Overview of High Performance Computing and Challenges for the Future. citation:-1
+title:Automatic blocking of QR and LU factorizations for locality. citation:-1
+title:NetSolve: A Network-Enabled Solver; Examples and Users. citation:-1
+title:Matrix Eigensystem Routines - EISPACK Guide, Second Edition citation:-1
+title:Scalable Fault Tolerant Protocol for Parallel Runtime Environments. citation:-1
+title:The PlayStation 3 for High-Performance Scientific Computing. citation:-1
+title:Matrix Market: a web resource for test matrix collections. citation:-1
+title:MPI collective algorithm selection and quadtree encoding. citation:-1
+title:Scalable linear algebra software libraries for distributed memory concurrent computers. citation:-1
+title:Case studies on the development of ScaLAPACK and the NAG Numerical PVM Library. citation:-1
+title:Editorial. citation:-1
+title:Numerical Libraries and Tools for Scalable Parallel Cluster Computing. citation:-1
+title:Binomial Graph: A Scalable and Fault-Tolerant Logical Network Topology. citation:-1
+title:The International Exascale Software Project: a Call To Cooperative Action By the Global High-Performance Community. citation:-1
+title:Accelerating Scientific Computations with Mixed Precision Algorithms citation:-1
+title:Software Distribution using XNETLIB. citation:-1
+title:Algorithm 679; a set of level 3 basic linear algebra subprograms: model implementation and test programs. citation:-1
+title:A Class of Parallel Tiled Linear Algebra Algorithms for Multicore Architectures citation:-1
+title:SRS: A Framework for Developing Malleable and Migratable Parallel Applications for Distributed Systems. citation:-1
+title:Bi-objective scheduling algorithms for optimizing makespan and reliability on heterogeneous systems. citation:-1
+title:Innovations of the NetSolve Grid Computing System. citation:-1
+title:Algorithmic Redistribution Methods for Block-Cyclic Decompositions. citation:-1
+title:1988 Gordon Bell Prize. citation:-1
+title:Numerical Libraries and the Grid. citation:-1
+title:Preface. citation:-1
+title:Three Tools to Help with Cluster and Grid Computing: SANS-Effort, PAPI, and NetSolve. citation:-1
+title:A Proposal for a Fortran 90 Interface for LAPACK. citation:-1
+title:ScaLAPACK Tutorial. citation:-1
+title:Practical Experience in the Numerical Dangers of Heterogeneous Computing. citation:-1
+title:Scalability Issues Affecting the Design of a Dense Linear Algebra Library. citation:-1
+title:GrADSolve a grid-based RPC system for parallel computing with application-level scheduling. citation:-1
+title:GrADSolve - RPC for High Performance Computing on the Grid. citation:-1
+title:Parallel Tiled QR Factorization for Multicore Architectures. citation:-1
+title:HARNESS: Heterogeneous Adaptable Reconfigurable NEtworked SystemS. citation:-1
+title:L2 Cache Modeling for Scientific Applications on Chip Multi-Processors. citation:-1
+title:Automatically Tuned Collective Communications. citation:-1
+title:The LAPACK for Clusters Project: An Example of Self Adapting Numerical Software. citation:-1
+title:Graphical development tools for network-based concurrent supercomputing. citation:-1
+title:NetSolve/D: A Massively Parallel Grid Execution System for Scalable Data Intensive Collaboration. citation:-1
+title:Efficient Pattern Search in Large Traces Through Successive Refinement. citation:-1
+title:Automatic analysis of inefficiency patterns in parallel applications. citation:-1
+title:Automatic translation of Fortran to JVM bytecode. citation:-1
+title:Packed Storage Extension for ScaLAPACK. citation:-1
+title:Numerical libraries and the grid: the GrADS experiments with ScaLAPACK. citation:-1
+title:Developing numerical libraries in Java citation:-1
+title:Recovery Patterns for Iterative Methods in a Parallel Unstable Environment. citation:-1
+title:A Performance Oriented Migration Framework For The Grid. citation:-1
+title:Fault-Tolerant Matrix Operations for Networks of Workstations Using Diskless Checkpointing. citation:-1
+title:Implementation of mixed precision in solving systems of linear equations on the Cell processor. citation:-1
+title:Scheduling workflow applications on processors with different capabilities. citation:-1
+title:Position Paper. citation:-1
+title:The Future of the BLAS. citation:-1
+title:Basic Linear Algebra Subprograms Technical (Blast) Forum Standard (2). citation:-1
+title:A Proposal for a Set of Level 3 Basic Linear Algebra Subprograms. citation:-1
+title:Determining the Idle Time of a Tiling: New Results. citation:-1
+title:Using PVM 3.0 to Run Grand Challenge Applications on a Heterogeneous Network of Parallel Computers. citation:-1
+title:Two Dimensional Basic Linear Algebra Communication Subprograms. citation:-1
+title:A fully parallel algorithm for the symmetric eigenvalue problem. citation:-1
+title:Tiling with limited resources. citation:-1
+title:QR factorization for the Cell Broadband Engine. citation:-1
+title:A Scalable Checkpoint Encoding Algorithm for Diskless Checkpointing. citation:-1
+title:Towards an Accurate Model for Collective Communications. citation:-1
+title:The Virtual Instrument: Support for Grid-Enabled Mcell Simulations. citation:-1
+title:Self-healing in Binomial Graph Networks. citation:-1
+title:Self-Adapting Numerical Software for Next Generation Applications. citation:-1
+title:Biological sequence alignment on the computational grid using the GrADS framework. citation:-1
+title:A Further Proposal for a Fortran 90 Interface for LAPACK. citation:-1
+title:Algorithm-Based Diskless Checkpointing for Fault Tolerant Matrix Operations. citation:-1
+title:Self Adaptive Application Level Fault Tolerance for Parallel and Distributed Computing. citation:-1
+title:A Tool to Aid in the Design, Implementation, and Understanding of Matrix Algorithms for Parallel Processors. citation:-1
+title:Building and Using a Fault-Tolerant MPI Implementation. citation:-1
+title:QR Factorization of Tall and Skinny Matrices in a Grid Computing Environment citation:-1
+title:A Message Passing Standard for MPP and Workstations. citation:-1
+title:Process Fault Tolerance: Semantics, Design and Applications for High Performance Computing. citation:-1
+title:1989 Gordon Bell Prize. citation:-1
+title:Open MPI's TEG Point-to-Point Communications Methodology: Comparison to Existing Implementations. citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:-1
+title:Trends in High Performance Computing and Using Numerical Libraries on Cluster. citation:-1
+title:Evaluating Dynamic Communicators and One-Sided Operations for Current MPI Libraries. citation:-1
+title:TEG: A High-Performance, Scalable, Multi-network Point-to-Point Communications Methodology. citation:-1
+title:Recent Developments in Gridsolve. citation:-1
+title:ScaLAPACK: A Linear Algebra Library for Message-Passing Computers. citation:-1
+title:LAPACK for Distributed Memory Architectures: Progress Report. citation:-1
+title:Solving Computational Grand Challenges Using a Network of Heterogeneous Supercomputers. citation:-1
+title:Tools for Heterogeneous Network Computing. citation:-1
+title:HARNESS and fault tolerant MPI. citation:-1
+title:Basic Linear Algebra Subprograms Technical (Blast) Forum Standard (1). citation:-1
+title:NetSolve and Its Applications. citation:-1
+title:Logistical Computing and Internetworking: Middleware for the Use of Storage in Communication. citation:-1
+title:Location-Independent Naming for Virtual Distributed Software Repositories. citation:-1
+title:High Performance Development for High End Computing With Python Language Wrapper (PLW). citation:-1
+title:Scalability Analysis of the SPEC OpenMP Benchmarks on Large-Scale Shared Memory Multiprocessors. citation:-1
+title:Preface. citation:-1
+title:Decision Trees and MPI Collective Algorithm Selection Problem. citation:-1
+title:Distributed Probabilistic Model-Building Genetic Algorithm. citation:-1
+title:Templates for Linear Algebra Problems. citation:-1
+title:Mixed Precision Iterative Refinement Techniques for the Solution of Dense Linear Systems. citation:-1
+title:Retrospect: Deterministic Replay of MPI Applications for Interactive Distributed Debugging. citation:-1
+title:The marketplace of high-performance computing. citation:-1
+title:Recent trends in the marketplace of high performance computing. citation:-1
+title:PVMPI Provides Interoperability Between MPI Implementations. citation:-1
+title:On Using Incremental Profiling for the Performance Analysis of Shared Memory Parallel Applications. citation:-1
+title:CIFTS: A Coordinated Infrastructure for Fault-Tolerant Systems. citation:-1
+title:Invited Talk: The NetSolve Environment: Progressing Towards the Seamless Grid. citation:-1
+title:High Performance Linear Algebra Package LAPACK90. citation:-1
+title:Rectangular Full Packed Format for Cholesky's Algorithm: Factorization, Solution and Inversion citation:-1
+title:A Comparison of Parallel Solvers for Diagonally Dominant and General Narrow-Banded Linear Systems II. citation:-1
+title:Condition Numbers of Gaussian Random Matrices citation:-1
+title:Request Sequencing: Optimizing Communication for the Grid. citation:-1
+title:Experiences and Lessons Learned with a Portable Interface to Hardware Performance Counters. citation:-1
+title:Logistical quality of service in NetSolve. citation:-1
+title:Improvements in the Efficient Composition of Applications Built Using a Component-Based Programming Environment. citation:-1
+title:Applying Aspect-Orient Programming Concepts to a Component-Based Programming Model. citation:-1
+title:NetBuild: transparent cross-platform access to computational software libraries. citation:-1
+title:Fast and Small Short Vector SIMD Matrix Multiplication Kernels for the Synergistic Processing Element of the CELL Processor. citation:-1
+title:The Component Structure of a Self-Adapting Numerical Software System. citation:-1
+title:MPI Collective Algorithm Selection and Quadtree Encoding. citation:-1
+title:Matrix product on heterogeneous master-worker platforms. citation:-1
+title:Key Concepts for Parallel Out-of-Core LU Factorization. citation:-1
+title:Parallel loops - a test suite for parallelizing compilers: description and example results. citation:-1
+title:Clusters and computational grids for scientific computing - introduction. citation:-1
+title:Algorithmic Issues on Heterogeneous Computing Platforms. citation:-1
+title:Enabling interactive and collaborative oil reservoir simulations on the Grid. citation:-1
+title:Workshop on Environments and Tools for Parallel Scientific Computing. citation:-1
+title:Solving banded systems on a parallel processor. citation:-1
+title:A portable environment for developing parallel FORTRAN programs. citation:-1
+title:Self-adapting numerical software (SANS) effort. citation:-1
+title:Programming methodology and performance issues for advanced computer architectures. citation:-1
+title:Implementation of some concurrent algorithms for matrix factorization. citation:-1
+title:A Note on Auto-tuning GEMM for GPUs. citation:-1
+title:Dynamic task scheduling for linear algebra algorithms on distributed-memory multicore systems. citation:-1
+title:Eigenvalue Computation with NetSolve Global Computing System. citation:-1
+title:New Grid Scheduling and Rescheduling Methods in the GrADS Project. citation:-1
+title:Algorithmic Based Fault Tolerance Applied to High Performance Computing citation:-1
+title:Visualization and Debugging in a Heterogeneous Environment. citation:-1
+title:Self-adapting software for numerical linear algebra and LAPACK for clusters. citation:-1
+title:Parallel tiled QR factorization for multicore architectures. citation:-1
+title:Netlib and NA-Net: Building a Scientific Computing Community. citation:-1
+title:High Performance Computing Trends and Self Adapting Numerical Software. citation:-1
+title:Experiments with Scheduling Using Simulated Annealing in a Grid Environment. citation:-1
+title:Practical Experience in the Dangers of Heterogeneous Computing. citation:-1
+title:PDS: A Performance Database Server. citation:-1
+title:The LINPACK Benchmark: An Explanation. citation:-1
+title:On the Convergence of Computational and Data Grids. citation:-1
+title:An Algebra for Cross-Experiment Performance Analysis. citation:-1
+title:ScaLAPACK Tutorial. citation:-1
+title:Feedback-directed thread scheduling with memory considerations. citation:-1
+title:JLAPACK-compiling LAPACK Fortran to Java. citation:-1
+title:Towards an Accurate Model for Collective Communications. citation:-1
+title:Recursive approach in sparse matrix LU factorization . citation:-1
+title:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:-1
+title:Programming Tools and Environments. citation:-1
+title:HeNCE: A Heterogeneous Network Computing Environment. citation:-1
+title:A Proposal for a Set of Parallel Basic Linear Algebra Subprograms. citation:-1
+title:Highly Scalable Self-Healing Algorithms for High Performance Scientific Computing. citation:-1
+title:HPC challenge - The 2006 HPC challenge awards. citation:-1
+title:Scalable networked information processing environment (SNIPE). citation:-1
+title:Comparative study of one-sided factorizations with multiple software packages on multi-core hardware. citation:-1
+title:The impact of paravirtualized memory hierarchy on linear algebra computational kernels and software. citation:-1
+title:visPerf: Monitoring Tool for Grid Computing. citation:-1
+title:Dynamic Reconfiguration and Virtual Machine Management in the Harness Metacomputing System. citation:-1
+title:Parallel Matrix Transpose Algorithms on Distributed Memory Concurrent Computers. citation:-1
+title:Editorial introduction to the special issue on computational linear algebra and sparse matrix computations. citation:-1
+title:Optimizing Performance and Reliability in Distributed Computing Systems through Wide Spectrum Storage. citation:-1
+title:Providing Access to High Performance Computing Technologies. citation:-1
+title:HARNESS: a next generation distributed virtual machine. citation:-1
+title:Algorithm-based fault tolerance applied to high performance computing. citation:-1
+title:A Scalable Approach to MPI Application Performance Analysis. citation:-1
+title:Review of Performance Analysis Tools for MPI Parallel Programs. citation:-1
+title:New Grid Scheduling and Rescheduling Methods in the GrADS Project. citation:-1
+title:Overview of GridRPC: A Remote Procedure Call API for Grid Computing. citation:-1
+title:Determining the Idle Time of Tiling: New Results. citation:-1
+title:Performance Study of LU Factorization with Low Communication Overhead on Multiprocessors. citation:-1
+title:Reasons for a pessimistic or optimistic message logging protocol in MPI uncoordinated failure, recovery. citation:-1
+title:High Performance Computing and Communications, First International Conference, HPCC 2005, Sorrento, Italy, September 21-23, 2005, Proceedings citation:-1
+title:Proceedings of the 16th International Symposium on High-Performance Distributed Computing (HPDC-16 2007), 25-29 June 2007, Monterey, California, USA citation:-1
+title:Computational Science - ICCS 2001, International Conference, San Francisco, CA, USA, May 28-30, 2001. Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2001, International Conference, San Francisco, CA, USA, May 28-30, 2001. Proceedings, Part II citation:-1
+title:Computational Science - ICCS 2002, International Conference, Amsterdam, The Netherlands, April 21-24, 2002. Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2002, International Conference, Amsterdam, The Netherlands, April 21-24, 2002. Proceedings, Part II citation:-1
+title:Computational Science - ICCS 2002, International Conference, Amsterdam, The Netherlands, April 21-24, 2002. Proceedings, Part III citation:-1
+title:Computational Science - ICCS 2003, International Conference, Melbourne, Australia and St. Petersburg, Russia, June 2-4, 2003. Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2003, International Conference, Melbourne, Australia and St. Petersburg, Russia, June 2-4, 2003. Proceedings, Part II citation:-1
+title:Computational Science - ICCS 2003, International Conference, Melbourne, Australia and St. Petersburg, Russia, June 2-4, 2003. Proceedings, Part III citation:-1
+title:Computational Science - ICCS 2003, International Conference, Melbourne, Australia and St. Petersburg, Russia, June 2-4, 2003. Proceedings, Part IV citation:-1
+title:Computational Science - ICCS 2004, 4th International Conference, Kraków, Poland, June 6-9, 2004, Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2004, 4th International Conference, Kraków, Poland, June 6-9, 2004, Proceedings, Part II citation:-1
+title:Computational Science - ICCS 2004, 4th International Conference, Kraków, Poland, June 6-9, 2004, Proceedings, Part III citation:-1
+title:Computational Science - ICCS 2004, 4th International Conference, Kraków, Poland, June 6-9, 2004, Proceedings, Part IV citation:-1
+title:Computational Science - ICCS 2005, 5th International Conference, Atlanta, GA, USA, May 22-25, 2005, Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2005, 5th International Conference, Atlanta, GA, USA, May 22-25, 2005, Proceedings, Part II citation:-1
+title:Computational Science - ICCS 2005, 5th International Conference, Atlanta, GA, USA, May 22-25, 2005, Proceedings, Part III citation:-1
+title:Computational Science - ICCS 2006, 6th International Conference, Reading, UK, May 28-31, 2006, Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2006, 6th International Conference, Reading, UK, May 28-31, 2006, Proceedings, Part II citation:-1
+title:Computational Science - ICCS 2006, 6th International Conference, Reading, UK, May 28-31, 2006, Proceedings, Part III citation:-1
+title:Computational Science - ICCS 2006, 6th International Conference, Reading, UK, May 28-31, 2006, Proceedings, Part IV citation:-1
+title:Computational Science - ICCS 2007, 7th International Conference, Beijing, China, May 27 - 30, 2007, Proceedings, Part IV citation:-1
+title:Computational Science - ICCS 2007, 7th International Conference, Beijing, China, May 27 - 30, 2007, Proceedings, Part III citation:-1
+title:Computational Science - ICCS 2007, 7th International Conference Beijing, China, May 27-30, 2007, Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2007, 7th International Conference, Beijing, China, May 27 - 30, 2007, Proceedings, Part II citation:-1
+title:Computational Science - ICCS 2008, 8th International Conference, Kraków, Poland, June 23-25, 2008, Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2008, 8th International Conference, Kraków, Poland, June 23-25, 2008, Proceedings, Part II citation:-1
+title:Computational Science - ICCS 2008, 8th International Conference, Kraków, Poland, June 23-25, 2008, Proceedings, Part III citation:-1
+title:Computational Science - ICCS 2009, 9th International Conference, Baton Rouge, LA, USA, May 25-27, 2009, Proceedings, Part I citation:-1
+title:Computational Science - ICCS 2009, 9th International Conference, Baton Rouge, LA, USA, May 25-27, 2009, Proceedings, Part II citation:-1
+title:Interdisciplinary and Multidisciplinary Research in Computer Science, IEEE CS Proceeding of the First International Multi-Symposium of Computer and Computational Sciences (IMSCCS|06), June 20-24, 2006, Zhejiang University, Hangzhou, China, Vol. 1 citation:-1
+title:Interdisciplinary and Multidisciplinary Research in Computer Science, IEEE CS Proceeding of the First International Multi-Symposium of Computer and Computational Sciences (IMSCCS|06), June 20-24, 2006, Zhejiang University, Hangzhou, China, Vol. 2 citation:-1
+title:Parallel and Distributed Processing and Applications, 4th International Symposium, ISPA 2006, Sorrento, Italy, December 4-6, 2006, Proceedings citation:-1
+title:Parallel Scientific Computing, First International Workshop, PARA '94, Lyngby, Denmark, June 20-23, 1994, Proceedings citation:-1
+title:Applied Parallel Computing, Computations in Physics, Chemistry and Engineering Science, Second International Workshop, PARA '95, Lyngby, Denmark, August 21-24, 1995, Proceedings citation:-1
+title:Applied Parallel Computing, Industrial Computation and Optimization, Third International Workshop, PARA 96, Lyngby, Denmark, August 18-21, 1996, Proceedings citation:-1
+title:Applied Parallel Computing, Large Scale Scientific and Industrial Problems, 4th International Workshop, PARA '98, Umeå, Sweden, June 14-17, 1998, Proceedings citation:-1
+title:Applied Parallel Computing, State of the Art in Scientific Computing, 7th International Workshop, PARA 2004, Lyngby, Denmark, June 20-23, 2004, Revised Selected Papers citation:-1
+title:Parallel Processing and Applied Mathematics, 4th International Conference, PPAM 2001 Naleczow, Poland, September 9-12, 2001, Revised Papers citation:-1
+title:Parallel Processing and Applied Mathematics, 5th International Conference, PPAM 2003, Czestochowa, Poland, September 7-10, 2003. Revised Papers citation:-1
+title:Parallel Processing and Applied Mathematics, 6th International Conference, PPAM 2005, Poznan, Poland, September 11-14, 2005, Revised Selected Papers citation:-1
+title:Parallel Processing and Applied Mathematics, 7th International Conference, PPAM 2007, Gdansk, Poland, September 9-12, 2007, Revised Selected Papers citation:-1
+title:Parallel Processing and Applied Mathematics, 8th International Conference, PPAM 2009, Wroclaw, Poland, September 13-16, 2009. Revised Selected Papers, Part I citation:-1
+title:Parallel Processing and Applied Mathematics, 8th International Conference, PPAM 2009, Wroclaw, Poland, September 13-16, 2009, Revised Selected Papers, Part II citation:-1
+title:Proceedings of the Fourth SIAM Conference on Parallel Processing for Scientific Computing, Chicago, Illinois, USA, December 11-13, 1989 citation:-1
+title:Proceedings of the Fifth SIAM Conference on Parallel Processing for Scientific Computing, Houston, Texas, USA, March 25-27, 1991 citation:-1
+title:Parallel Virtual Machine - EuroPVM'96, Third European PVM Conference, München, Germany, October 7-9, 1996, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 4th European PVM/MPI Users' Group Meeting, Crakow, Poland, November 3-5, 1997, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 5th European PVM/MPI Users' Group Meeting, Liverpool, UK, September 7-9, 1998, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 6th European PVM/MPI Users' Group Meeting, Barcelona, Spain, September 26-29, 1999, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 7th European PVM/MPI Users' Group Meeting, Balatonfüred, Hungary, September 2000, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 8th European PVM/MPI Users' Group Meeting, Santorini/Thera, Greece, September 23-26, 2001, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 9th European PVM/MPI Users' Group Meeting, Linz, Austria, September 29 - October 2, 2002, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface,10th European PVM/MPI Users' Group Meeting, Venice, Italy, September 29 - October 2, 2003, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 11th European PVM/MPI Users' Group Meeting, Budapest, Hungary, September 19-22, 2004, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 12th European PVM/MPI Users' Group Meeting, Sorrento, Italy, September 18-21, 2005, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 13th European PVM/MPI User's Group Meeting, Bonn, Germany, September 17-20, 2006, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 14th European PVM/MPI User's Group Meeting, Paris, France, September 30 - October 3, 2007, Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 15th European PVM/MPI Users' Group Meeting, Dublin, Ireland, September 7-10, 2008. Proceedings citation:-1
+title:Recent Advances in Parallel Virtual Machine and Message Passing Interface, 16th European PVM/MPI Users' Group Meeting, Espoo, Finland, September 7-10, 2009. Proceedings citation:-1
+title:Vector and Parallel Processing - VECPAR'96, Second International Conference, Porto, Portugal, September 25-27, Selected Papers citation:-1
+title:Vector and Parallel Processing - VECPAR 2000, 4th International Conference, Porto, Portugal, June 21-23, 2000, Selected Papers and Invited Talks citation:-1
+title:igh Performance Computing for Computational Science - VECPAR 2002, 5th International Conference, Porto, Portugal, June 26-28, 2002, Selected Papers and Invited Talks citation:-1
+title:High Performance Computing for Computational Science - VECPAR 2004, 6th International Conference, Valencia, Spain, June 28-30, 2004, Revised Selected and Invited Papers citation:-1
+title:Scheduling dense linear algebra operations on multicore processors. citation:-1
+title:Self-healing network for scalable fault-tolerant runtime environments. citation:-1
+title:Towards dense linear algebra for hybrid GPU accelerated manycore systems. citation:-1
+title:Scheduling two-sided transformations using tile algorithms on multicore architectures. citation:-1
+title:Algorithm 710: FORTRAN subroutines for computing the eigenvalues and eigenvectors of a general matrix by reduction to general tridiagonal form. citation:-1
+title:Rectangular full packed format for cholesky's algorithm: factorization, solution, and inversion. citation:-1
+title:Squeezing the most out of an algorithm in CRAY FORTRAN. citation:-1
+title:Corrigenda: "An Extended Set of FORTRAN Basic Linear Algebra Subprograms". citation:-1
+title:An extended set of FORTRAN basic linear algebra subprograms. citation:-1
+title:Algorithm 656: an extended set of basic linear algebra subprograms: model implementation and test programs. citation:-1
+title:Algorithm 589: SICEDR: A FORTRAN Subroutine for Improving the Accuracy of Computed Matrix Eigenvalues. citation:-1
+title:Accelerating scientific computations with mixed precision algorithms. citation:-1
+title:Redesigning the message logging model for high performance. citation:-1
+title:Accelerating the reduction to upper Hessenberg, tridiagonal, and bidiagonal forms through hybrid GPU-based computing. citation:-1
+title:Improvement of parallelization efficiency of batch pattern BP training algorithm using Open MPI. citation:-1
+title:Preface. citation:-1
+title:Dense linear algebra solvers for multicore with GPU accelerators. citation:-1
+title:QR factorization of tall and skinny matrices in a grid computing environment. citation:-1
+title:Tile QR factorization with parallel panel processing for multicore architectures. citation:-1
+title:Recent Advances in the Message Passing Interface - 17th European MPI Users' Group Meeting, EuroMPI 2010, Stuttgart, Germany, September 12-15, 2010. Proceedings citation:-1
+title:Locality and Topology Aware Intra-node Communication among Multicore CPUs. citation:-1
+title:NetSolve: Grid enabling scientific computing environments. citation:-1
+title:Interactive grid-access using GridSolve and Giggle. citation:-1
+title:SmartGridRPC: The new RPC model for high performance Grid computing. citation:-1
+title:An Improved Magma Gemm For Fermi Graphics Processing Units. citation:-1
+title:Scalable Tile Communication-Avoiding QR Factorization on Multicore Cluster Systems. citation:-1
+title:Accelerating GPU Kernels for Dense Linear Algebra. citation:-1
+title:A Scalable High Performant Cholesky Factorization for Multicore with GPU Accelerators. citation:-1
+title:Towards an Efficient Tile Matrix Inversion of Symmetric Positive Definite Matrices on Multicore Architectures. citation:-1
+title:Performance Instrumentation and Compiler Optimizations for MPI/OpenMP Applications. citation:-1
+title:Guest Editors Note. citation:-1
+title:Linear algebra - software issues. citation:-1
+title:The International Exascale Software Project roadmap. citation:-1
+title:Preface. citation:-1
+title:Condition Numbers of Gaussian Random Matrices. citation:-1
+title:Keeneland: Bringing Heterogeneous GPU Computing to the Computational Science Community. citation:-1
+title:Optimizing symmetric dense matrix-vector multiplication on GPUs. citation:-1
+title:Parallel reduction to condensed forms for symmetric eigenvalue problems using aggregated fine-grained and memory-aware kernels. citation:-1
+title:QR Factorization on a Multicore Node Enhanced with Multiple GPU Accelerators. citation:-1
+title:Flexible Development of Dense Linear Algebra Algorithms on Massively Parallel Architectures with DPLASMA. citation:-1
+title:Panel Statement. citation:-1
+title:Two-Stage Tridiagonal Reduction for Dense Symmetric Matrices Using Tile Algorithms on Multicore Architectures. citation:-1
+title:DAGuE: A Generic Distributed DAG Engine for High Performance Computing. citation:-1
+title:Overlapping Computation and Communication for Advection on Hybrid Parallel Computers. citation:-1
+title:High Performance Dense Linear System Solver with Soft Error Resilience. citation:-1
+title:Process Distance-Aware Adaptive MPI Collective Communications. citation:-1
+title:Performance Portability of a GPU Enabled Factorization with the DAGuE Framework. citation:-1
+title:Scalable Runtime for MPI: Efficiently Building the Communication Infrastructure. citation:-1
+title:Recent Advances in the Message Passing Interface - 18th European MPI Users' Group Meeting, EuroMPI 2011, Santorini, Greece, September 18-21, 2011. Proceedings citation:-1
+title:DAGuE: A generic distributed DAG engine for High Performance Computing. citation:-1
+title:Preface. citation:-1
+title:Livermore Loops. citation:-1
+title:LINPACK Benchmark. citation:-1
+title:ScaLAPACK. citation:-1
+title:Linear Algebra Software. citation:-1
+title:HPC Challenge Benchmark. citation:-1
+title:Benchmarks. citation:-1
+title:LAPACK. citation:-1
+title:TOP500. citation:-1
+title:LU factorization for accelerator-based systems. citation:-1
+title:Analysis of dynamically scheduled tile algorithms for dense linear algebra on multicore architectures. citation:-1
+title:Poster: new features of the PAPI hardware counter library. citation:-1
+title:Collecting Performance Data with PAPI-C. citation:-1
+title:Algorithm-based fault tolerance for dense matrix factorizations. citation:-1
+title:A Comparison of Parallel Solvers for Diagonally Dominant and General Narrow-Banded Linear Systems. citation:-1
+title:Parallel Numerical Linear Algebra. citation:-1
+title:The Netlib Mathematical Software Repository. citation:-1
+title:Divide and Conquer on Hybrid GPU-Accelerated Multicore Systems. citation:-1
+title:From CUDA to OpenCL: Towards a performance-portable solution for multi-platform GPU programming. citation:-1
+title:Autotuning GEMM Kernels for the Fermi GPU. citation:-1
+title:Empowering Science through Computing, Preface for ICCS 2012. citation:-1
+title:A hybrid Hermitian general eigenvalue solver citation:-1
+title:Reducing the Time to Tune Parallel Dense Linear Algebra Routines with Partial Execution and Performance Modeling. citation:-1
+title:Parallel Processing and Applied Mathematics - 9th International Conference, PPAM 2011, Torun, Poland, September 11-14, 2011. Revised Selected Papers, Part I citation:-1
+title:Parallel Processing and Applied Mathematics - 9th International Conference, PPAM 2011, Torun, Poland, September 11-14, 2011. Revised Selected Papers, Part II citation:-1
+title:Scalable Networked Information Processing Environment (SNIPE). citation:-1
+title:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:-1
+title:NetSovle: A Network Server for Solving Computational Science Problems. citation:-1
+title:Enabling and scaling matrix computations on heterogeneous multi-core and multi-GPU systems. citation:-1
+title:Recent Advances in the Message Passing Interface - 19th European MPI Users' Group Meeting, EuroMPI 2012, Vienna, Austria, September 23-26, 2012. Proceedings citation:-1
+title:Introduction to the Special Issue. citation:-1
+title:Toward a High Performance Tile Divide and Conquer Algorithm for the Dense Symmetric Eigenvalue Problem. citation:-1

@@ -1,0 +1,253 @@
+title1:Privacy against Piracy: Protecting Two-Level Revocable P-K Traitor Tracing. title2:Privacy against piracy: Protecting two-level revocable PK traitor tracing citation:8 ncitation:7 pid19121
+title1:Unconditionally Secure Encryption Under Strong Attacks. title2:Unconditionally secure encryption under strong attacks citation:13 ncitation:12 pid19215
+title1:Backdoor Attacks on Black-Box Ciphers Exploiting Low-Entropy Plaintexts. title2:Backdoor attacks on black-box ciphers exploiting low-entropy plaintexts citation:4 ncitation:4 pid19276
+title1:Efficient Robust Private Set Intersection. title2:Efficient robust private set intersection citation:69 ncitation:56 pid23507
+title1:Finding Length-3 Positive Cunningham Chains. title2:Finding length-3 positive cunningham chains and their cryptographic significance citation:6 ncitation:-1 pid42804
+title1:Indifferentiable Security Analysis of Popular Hash Functions with Prefix-Free Padding. title2:Indifferentiable security analysis of popular hash functions with prefix-free padding citation:55 ncitation:51 pid50816
+title1:Adaptively-Secure Optimal-Resilience Proactive RSA. title2:Adaptively-secure optimal-resilience proactive RSA citation:34 ncitation:34 pid50889
+title1:"Indirect Discourse Proof": Achieving Efficient Fair Off-Line E-cash. citation:248 ncitation:245 pid50890
+title1:Threshold Cryptosystems Based on Factoring. title2:Threshold cryptosystems based on factoring citation:20 ncitation:18 pid50932
+title1:Cryptanalyzing the Polynomial-Reconstruction Based Public-Key System Under Optimal Parameter Choice. title2:Cryptanalyzing the polynomial-reconstruction based public-key system under optimal parameter choice citation:4 ncitation:4 pid50934
+title1:Two-Party Computing with Encrypted Data. title2:Two-party computing with encrypted data citation:13 ncitation:11 pid51170
+title1:Anonymity 2.0 - X.509 Extensions Supporting Privacy-Friendly Authentication. citation:18 ncitation:20 pid75464
+title1:Accountable Ring Signatures: A Smart Card Approach. title2:Accountable ring signatures: A smart card approach citation:4 ncitation:4 pid75591
+title1:The dual receiver cryptosystem and its applications. title2:The dual receiver cryptosystem and its applications citation:19 ncitation:15 pid83726
+title1:Proactive Public Key and Signature Systems. title2:Proactive public key and signature systems citation:315 ncitation:301 pid83918
+title1:Breaking and Repairing Asymmetric Public-Key Traitor Tracing. title2:Breaking and repairing asymmetric public-key traitor tracing citation:80 ncitation:74 pid83956
+title1:Secure Protocol Transformation via "Expansion": From Two-Party to Groups. citation:39 ncitation:36 pid83987
+title1:k-anonymous secret handshakes with reusable credentials. title2:K-anonymous secret handshakes with reusable credentials citation:42 ncitation:39 pid84108
+title1:Fourth-factor authentication: somebody you know. title2:Fourth-factor authentication: somebody you know citation:121 ncitation:86 pid84243
+title1:Forward-secure signatures in untrusted update environments: efficient and generic constructions. title2:Forward-secure signatures in untrusted update environments: efficient and generic constructions citation:22 ncitation:20 pid84245
+title1:Elastic block ciphers: the basic design. title2:Elastic block ciphers: the basic design citation:10 ncitation:9 pid84290
+title1:A block cipher based pseudo random number generator secure against side-channel key recovery. title2:A block cipher based pseudo random number generator secure against side-channel key recovery citation:60 ncitation:54 pid84366
+title1:Universal forgery of the identity-based sequential aggregate signature scheme. title2:Universal forgery of the identity-based sequential aggregate signature scheme citation:21 ncitation:15 pid84557
+title1:Efficient Intrusion-Resilient Signatures Without Random Oracles. title2:Efficient intrusion-resilient signatures without random oracles citation:8 ncitation:8 pid97517
+title1:Space Lower-Bounds for Pseudorandom-Generators. title2:Space lower-bounds for pseudorandom-generators citation:11 ncitation:11 pid104843
+title1:Scheduling Task-Tree with Additive Scales on Parallel / Distributed Machines. title2:Scheduling task-trees with additive scales on parallel/distributed machines citation:0 ncitation:-1 pid105440
+title1:Electronic Payments: Where Do We Go from Here?. title2:Electronic Payments: where do we go from here? citation:20 ncitation:19 pid118950
+title1:Certifying Cryptographic Tools: The Case of Trapdoor Permutations. title2:Certifying cryptographic tools: The case of trapdoor permutations citation:23 ncitation:22 pid119690
+title1:Keeping the SZK-Verifier Honest Unconditionally. title2:Keeping the SZK-verifier honest unconditionally citation:8 ncitation:9 pid119923
+title1:Escrow Encryption Systems Visited: Attacks, Analysis and Designs. title2:Escrow encryption systems visited: attacks, analysis and designs citation:70 ncitation:68 pid120024
+title1:Cryptoanalysis of the Immunized LL Public Key Systems. title2:Cryptanalysis of the immunized LL public key systems citation:18 ncitation:18 pid120025
+title1:Symmetric Public-Key Encryption. title2:Symmetric public-key encryption citation:27 ncitation:27 pid120034
+title1:Cryptographic Computation: Secure Faut-Tolerant Protocols and the Public-Key Model. title2:Cryptographic computation: Secure fault-tolerant protocols and the public-key model citation:125 ncitation:123 pid120035
+title1:Proactive Secret Sharing Or: How to Cope With Perpetual Leakage. title2:Proactive secret sharing or: How to cope with perpetual leakage citation:620 ncitation:596 pid120116
+title1:Self Protecting Pirates and Black-Box Traitor Tracing. title2:Self protecting pirates and black-box traitor tracing citation:58 ncitation:58 pid120132
+title1:Direct Minimum-Knowledge Computations. title2:Direct minimum-knowledge computations citation:169 ncitation:162 pid120144
+title1:Proving Without Knowing: On Oblivious, Agnostic and Blindolded Provers. title2:Proving without knowing: On oblivious, agnostic and blindfolded provers citation:46 ncitation:43 pid120166
+title1:Scalable Protocols for Authenticated Group Key Exchange. title2:Scalable protocols for authenticated group key exchange citation:68 ncitation:289 pid120218
+title1:Crptograpic Applications of the Non-Interactive Metaproof and Many-Prover Systems. title2:Cryptographic applications of the non-interactive metaproof and many-prover systems citation:29 ncitation:20 pid120438
+title1:The Dark Side of "Black-Box" Cryptography, or: Should We Trust Capstone? citation:101 ncitation:96 pid120563
+title1:The Prevalence of Kleptographic Attacks on Discrete-Log Based Cryptosystems. title2:The prevalence of kleptographic attacks on discrete-log based cryptosystems citation:32 ncitation:31 pid120564
+title1:On the Power of Misbehaving Adversaries and Security Analysis of the Original EPOC. title2:On the power of misbehaving adversaries and security analysis of the original EPOC citation:40 ncitation:37 pid127058
+title1:Observability Analysis - Detecting When Improved Cryptosystems Fail. title2:Observability analysis-detecting when improved cryptosystems fail citation:27 ncitation:-1 pid127060
+title1:A Generic Construction for Intrusion-Resilient Public-Key Encryption. title2:A generic construction for intrusion-resilient public-key encryption citation:49 ncitation:47 pid127125
+title1:Malicious Cryptography: Kleptographic Aspects. title2:Malicious cryptography: Kleptographic aspects citation:10 ncitation:10 pid127193
+title1:Idiosyncratic Signatures for Authenticated Execution of Management Code. title2:Idiosyncratic signatures for authenticated execution of management code citation:11 ncitation:10 pid162159
+title1:Efficient Dynamic-Resharing "Verifiable Secret Sharing" Against Mobile Adversary. citation:37 ncitation:38 pid185899
+title1:Non-Exploratory Self-Stabilization for Constant-Space Symmetry-Breaking. title2:Non-exploratory self-stabilization for constant-space symmetry-breaking citation:18 ncitation:19 pid186437
+title1:Round-Optimal Zero-Knowledge Arguments Based on any One-Way Function. title2:Round-optimal zero-knowledge arguments based on any one-way function citation:51 ncitation:51 pid192761
+title1:Multi-Autority Secret-Ballot Elections with Linear Work. title2:Multi-authority secret-ballot elections with linear work citation:16 ncitation:302 pid192888
+title1:Key-Insulated Public Key Cryptosystems. title2:Key-insulated public key cryptosystems citation:291 ncitation:279 pid192988
+title1:Efficient Password-Authenticated Key Exchange Using Human-Memorable Passwords. title2:Efficient password-authenticated key exchange using human-memorable passwords citation:314 ncitation:304 pid193143
+title1:Traitor Tracing with Constant Transmission Rate. title2:Traitor tracing with constant transmission rate citation:97 ncitation:90 pid193169
+title1:Extracting Group Signatures from Traitor Tracing Schemes. title2:Extracting group signatures from traitor tracing schemes citation:41 ncitation:41 pid193171
+title1:Group Signatures with Efficient Concurrent Join. title2:Group signatures with efficient concurrent join citation:73 ncitation:69 pid193173
+title1:The Hierarchy of Key Evolving Signatures and a Characterization of Proxy Signatures. title2:The hierarchy of key evolving signatures and a characterization of proxy signatures citation:52 ncitation:46 pid193283
+title1:Interactive Hashing Simplifies Zero-Knowledge Protocol Design. title2:Interactive hashing simplifies zero-knowledge protocol design citation:39 ncitation:38 pid193366
+title1:On the Design of Provably Secure Cryptographic Hash Functions. title2:On the design of provably-secure cryptographic hash functions citation:28 ncitation:28 pid193497
+title1:Auto-Recoverable Auto-Certifiable Cryptosystems. title2:Auto-recoverable auto-certifiable cryptosystems citation:62 ncitation:60 pid193598
+title1:Generic and Practical Resettable Zero-Knowledge in the Bare Public-Key Model. title2:Generic and practical resettable zero-knowledge in the bare public-key model citation:16 ncitation:16 pid193633
+title1:A New Randomness Extraction Paradigm for Hybrid Encryption. title2:A new randomness extraction paradigm for hybrid encryption citation:43 ncitation:35 pid193652
+title1:On the Portability of Generalized Schnorr Proofs. title2:On the portability of generalized schnorr proofs citation:38 ncitation:33 pid193654
+title1:A Unified Framework for the Analysis of Side-Channel Key Recovery Attacks. title2:A unified framework for the analysis of side-channel key recovery attacks citation:228 ncitation:197 pid193668
+title1:Split-and-Delegate: Threshold Cryptography for the Masses. title2:Split-and-delegate: Threshold cryptography for the masses citation:6 ncitation:-1 pid202746
+title1:The Business of Electronic Voting. title2:The business of electronic voting citation:6 ncitation:6 pid202750
+title1:The Dark Side of Threshold Cryptography. title2:The dark side of threshold cryptography citation:6 ncitation:6 pid202799
+title1:Applying Anti-Trust Policies to Increase Trust in a Versatile E-Money System. title2:Applying anti-trust policies to increase trust in a versatile e-money system citation:25 ncitation:27 pid202803
+title1:Anonymity Control in E-Cash Systems. title2:Anonymity control in e-cash systems citation:130 ncitation:128 pid202815
+title1:Non-interactive Zero-Sharing with Applications to Private Distributed Decision Making. title2:Non-interactive zero-sharing with applications to private distributed decision making citation:15 ncitation:14 pid202826
+title1:The Vector-Ballot e-Voting Approach. title2:The vector-ballot e-voting approach citation:52 ncitation:49 pid202828
+title1:Electronic National Lotteries. title2:Electronic national lotteries citation:6 ncitation:6 pid202842
+title1:Trusted Computing Platforms: The Good, the Bad, and the Ugly. title2:Trusted computing platforms: the good, the bad, and the ugly citation:9 ncitation:8 pid202890
+title1:Efficient Cryptographic Protocols Realizing E-Markets with Price Discrimination. title2:Efficient cryptographic protocols realizing e-markets with price discrimination citation:4 ncitation:4 pid202916
+title1:Blind, Auditable Membership Proofs. title2:Blind, auditable membership proofs citation:26 ncitation:24 pid202967
+title1:Fair Traceable Multi-Group Signatures. title2:Fair traceable multi-group signatures citation:8 ncitation:7 pid203052
+title1:A Comparative Cost/Security Analysis of Fault Attack Countermeasures. title2:A comparative cost/security analysis of fault attack countermeasures citation:58 ncitation:50 pid204706
+title1:Perfectly Secure Message Transmission title2:Perfectly secure message transmission citation:310 ncitation:260 pid210477
+title1:Optimal Resilience Proactive Public-Key Cryptosystems. title2:Optimal-resilience proactive public-key cryptosystems citation:241 ncitation:234 pid210627
+title1:Resolving Message Complexity of Byzantine Agreement and beyond. title2:Resolving message complexity of byzantine agreement and beyond citation:66 ncitation:64 pid210711
+title1:Lower Bounds for Pseudorandom Number Generators title2:Lower bounds for pseudorandom number generators citation:17 ncitation:17 pid211139
+title1:Non-Interactive CryptoComputing For NC. title2:Non-interactive cryptocomputing for NC< sup> 1</sup> citation:211 ncitation:201 pid211733
+title1:On Monotone Formula Closure of SZK title2:On monotone formula closure of SZK citation:149 ncitation:147 pid211741
+title1:Incremental Unforgeable Encryption. title2:Incremental unforgeable encryption citation:11 ncitation:9 pid217042
+title1:Scramble All, Encrypt Small. title2:Scramble all, encrypt small citation:38 ncitation:37 pid217176
+title1:Unforgeable Encryption and Chosen Ciphertext Secure Modes of Operation. title2:Unforgeable encryption and chosen ciphertext secure modes of operation citation:128 ncitation:124 pid217187
+title1:Sliding Encryption: A Cryptographic Tool for Mobile Agents. title2:Sliding encryption: a cryptographic tool for mobile agents citation:64 ncitation:62 pid217306
+title1:Monkey: Black-Box Symmetric Ciphers Designed for MONopolizing KEYs. title2:Monkey: Black-box symmetric ciphers designed for MONopolizing KEYs citation:5 ncitation:5 pid217308
+title1:Decoding of Interleaved Reed Solomon Codes over Noisy Data. title2:Decoding of interleaved Reed Solomon codes over noisy data citation:59 ncitation:57 pid267405
+title1:Everything in NP can be Argued in Perfect Zero-Knowledge in a Bounded Number of Rounds. title2:Everything in NP can be argued in perfect zero-knowledge in a bounded number of rounds citation:21 ncitation:65 pid267555
+title1:Secure Games with Polynomial Expressions. title2:Secure games with polynomial expressions citation:40 ncitation:42 pid268437
+title1:Short Vertex Disjoint Paths and Multiconnectivity in Random Graphs: Reliable Network Computing. title2:Short vertex disjoint paths and multiconnectivity in random graphs: Reliable network computing citation:34 ncitation:34 pid268760
+title1:Stocastic Graphs Have Short Memory: Fully Dynamic Connectivity in Poly-Log Expected Time. title2:Stochastic graphs have short memory: fully dynamic connectivity in poly-log expected time citation:12 ncitation:12 pid268767
+title1:One-Message Statistical Zero-Knowledge Proofs and Space-Bounded Verifier. title2:One-message statistical Zero-Knowledge Proofs and space-bounded verifier citation:11 ncitation:11 pid268980
+title1:Agent Rendezvous: A Dynamic Symmetry-Breaking Problem. title2:Agent rendezvous: A dynamic symmetry-breaking problem citation:67 ncitation:65 pid269175
+title1:Zero-knowledge proofs of decision power: new protocols and optimal round-complexity. title2:Zero-knowledge proofs of decision power: new protocols and optimal round-complexity citation:7 ncitation:7 pid314815
+title1:On Threshold RSA-Signing with no Dealer. title2:On Threshold RSA-signing with no dealer citation:11 ncitation:11 pid327314
+title1:Self-Escrowed Public-Key Infrastructures. title2:Self-escrowed public-key infrastructures citation:12 ncitation:12 pid327335
+title1:A Progress Report on Subliminal-Free Channels. title2:A progress report on subliminal-free channels citation:25 ncitation:23 pid385544
+title1:Software DisEngineering: Program Hiding Architecture and Experiments. title2:Software DisEngineering: Program Hiding Architecture and Experiments citation:12 ncitation:12 pid385658
+title1:An Elliptic Curve Backdoor Algorithm for RSASSA. title2:An elliptic curve backdoor algorithm for RSASSA citation:5 ncitation:5 pid385701
+title1:Symmetric Authentication Codes with Secrecy and Unconditionally Secure Authenticated Encryption. title2:Symmetric authentication codes with secrecy and unconditionally secure authenticated encryption citation:4 ncitation:4 pid399402
+title1:Secret Swarm UnitReactive k-Secret Sharing. citation:19 ncitation:19 pid399453
+title1:Multi-Receiver/Multi-Sender Network Security: Efficient Authenticated Multicast/Feedback. title2:Multi-receiver/multi-sender network security: efficient authenticated multicast/feedback citation:130 ncitation:123 pid400620
+title1:Scalability and Flexibility in Authentication Services: The KryptoKnight Approach. title2:Scalability and flexibility in authentication services: the KryptoKnight approach citation:46 ncitation:45 pid401181
+title1:"Time-Driven Priority" Flow Control for Real-Time Heterogeneous Internetworking. citation:58 ncitation:59 pid401605
+title1:Local Fairness in General-Topology Networks with Convergence Routing. title2:Local fairness in general-topology networks with convergence routing citation:10 ncitation:11 pid401823
+title1:Approximating Max-Min Fair Rates via Distributed Local Scheduling with Partial Information. title2:Approximating max-min fair rates via distributed local scheduling with partial information citation:35 ncitation:32 pid401824
+title1:Lossless Asynchronous Broadcast-with-Feedback on the MetaNet Architecture. title2:Lossless asynchronous broadcast-with-feedback on the MetaNet architecture citation:7 ncitation:9 pid402034
+title1:The Integrated MetaNet Architecture: A Switch-Based Multimedia LAN for Parallel Computing and Real-Time Traffic. title2:The integrated MetaNet architecture: A switch-based multimedia LAN for parallel computing and real-time traffic citation:18 ncitation:22 pid402036
+title1:Topological Design of Loss-Free Switch-Based LANs. title2:Topological design of loss-free switch-based LANs citation:10 ncitation:10 pid403001
+title1:Efficient On-Line Call Control Algorithms. title2:Efficient on-line call control algorithms citation:126 ncitation:131 pid451495
+title1:"Trust Engineering: " From Requirements to System Design and Maintenance - A Working National Lottery System Experience. citation:4 ncitation:4 pid452815
+title1:Money Conservation via Atomicity in Fair Off-Line E-Cash. title2:Money conservation via atomicity in fair off-line e-cash citation:17 ncitation:17 pid452931
+title1:Short Traceable Signatures Based on Bilinear Pairings. title2:Short traceable signatures based on bilinear pairings citation:10 ncitation:11 pid466135
+title1:Efficient Secure Group Signatures with Dynamic Joins and Keeping Anonymity Against Group Managers. title2:Efficient secure group signatures with dynamic joins and keeping anonymity against group managers citation:14 ncitation:13 pid510572
+title1:Self-tallying Elections and Perfect Ballot Secrecy. title2:Self-tallying elections and perfect ballot secrecy citation:79 ncitation:74 pid541107
+title1:Strong Key-Insulated Signature Schemes. title2:Strong key-insulated signature schemes citation:212 ncitation:203 pid541132
+title1:"Psyeudorandom Intermixing": A Tool for Shared Cryptography. citation:4 ncitation:4 pid541146
+title1:Distributed Public Key Cryptosystems. title2:Distributed public key cryptosystems citation:26 ncitation:25 pid541150
+title1:Decision Oracles are Equivalent to Matching Oracles. title2:Decision oracles are equivalent to matching oracles citation:13 ncitation:13 pid541193
+title1:Design Validations for Discrete Logarithm Based Signature Schemes. title2:Design validations for discrete logarithm based signature schemes citation:63 ncitation:60 pid541194
+title1:General Group Authentication Codes and Their Relation to "Unconditionally-Secure Signatures". citation:14 ncitation:12 pid541316
+title1:On the Security of ElGamal Based Encryption. title2:On the security of ElGamal based encryption citation:320 ncitation:302 pid541335
+title1:RSA-Based Auto-recoverable Cryptosystems. title2:RSA-based auto-recoverable cryptosystems citation:5 ncitation:5 pid541356
+title1:Auto-Recoverable Cryptosystems with Faster Initialization and the Escrow Hierarchy. title2:Auto-recoverable cryptosystems with faster initialization and the escrow hierarchy citation:10 ncitation:9 pid541357
+title1:Recovering NTRU Secret Key from Inversion Oracles. title2:Recovering NTRU secret key from inversion oracles citation:10 ncitation:9 pid541378
+title1:Parallel Key-Insulated Public Key Encryption Without Random Oracles. title2:Parallel key-insulated public key encryption without random oracles citation:17 ncitation:15 pid541380
+title1:The Power of Multimedia: Combining Point-to Point and Multi-Access Networks. title2:The power of multimedia: combining point-to-point and multiaccess networks citation:15 ncitation:14 pid543599
+title1:Coins, Weights and Contention in Balancing Networks. title2:Coins, weights and contention in balancing networks citation:42 ncitation:46 pid543638
+title1:Scalable public-key tracing and revoking. title2:Scalable public-key tracing and revoking citation:48 ncitation:32 pid543871
+title1:Robust Efficient Distributed RSA-Key Generation. title2:Robust efficient distributed RSA-key generation citation:183 ncitation:181 pid543918
+title1:Principle for High Speed Network Control: Congestion- and Deadlock-Freeness, Self-Routing, and a Single Buffer per Link. title2:Principle for high speed network control: congestion-and deadlock-freeness, self-routing, and a single buffer per link citation:44 ncitation:45 pid544354
+title1:A Subliminal Channel in Secret Block Ciphers. title2:A subliminal channel in secret block ciphers citation:8 ncitation:8 pid570504
+title1:A Space Efficient Backdoor in RSA and Its Applications. title2:A space efficient backdoor in RSA and its applications citation:17 ncitation:17 pid570505
+title1:Forward Secrecy in Password-Only Key Exchange Protocols. title2:Forward secrecy in password-only key exchange protocols citation:60 ncitation:57 pid578463
+title1:Relationships Between Diffie-Hellman and "Index Oracles". citation:0 ncitation:-1 pid578490
+title1:Exposure-Resilience for Free: The Hierarchical ID-based Encryption Case. title2:Exposure-resilience for free: the hierarchical ID-based encryption case citation:32 ncitation:32 pid604987
+title1:Efficient Sequential and Parallel Algorithms for Computing Recovery Points in Trees and Paths. title2:Efficient sequential and parallel algorithms for computing recovery points in trees and paths citation:5 ncitation:5 pid610252
+title1:Maintenance of a Minimum Spanning Forest in a Dynamic Planar Graph. title2:Maintenance of a minimum spanning forest in a dynamic plane graph citation:173 ncitation:166 pid610457
+title1:Self-Stabilizing Algorithms for Synchronous Unidirectional Rings. title2:Self-stabilizing algorithms for synchronous unidirectional rings citation:17 ncitation:17 pid611103
+title1:Cryptovirology: Extortion-Based Security Threats and Countermeasures. title2:Cryptovirology: Extortion-based security threats and countermeasures citation:62 ncitation:61 pid613886
+title1:Deniable Password Snatching: On the Possibility of Evasive Electronic Espionage. title2:Deniable password snatching: On the possibility of evasive electronic espionage citation:21 ncitation:21 pid613887
+title1:``Dynamic-Fault-Prone BSP'': A Paradigm for Robust Computations in Changing Environments. citation:4 ncitation:4 pid614394
+title1:Result-Indistinguishable Zero-Knowledge Proofs: Increased Power and Constant-Round Protocols. title2:Result-indistinguishable zero-knowledge proofs: Increased power and constant-round protocols citation:4 ncitation:5 pid620095
+title1:Secure Commitment Against A Powerful Adversary. title2:Secure commitment against a powerful adversary citation:29 ncitation:29 pid620698
+title1:On zero-knowledge proofs (extended abstract): ``from membership to decision''. citation:13 ncitation:14 pid621805
+title1:Witness-Based Cryptographic Program Checking and Robust Function Sharing. title2:Witness-based cryptographic program checking and robust function sharing citation:84 ncitation:83 pid622036
+title1:Robust Efficient Distributed RSA-Key Generation. title2:Robust efficient distributed RSA-key generation citation:183 ncitation:181 pid622037
+title1:Complete characterization of security notions for probabilistic private-key encryption. title2:Complete characterization of security notions for probabilistic private-key encryption citation:108 ncitation:105 pid622458
+title1:Universal One-Way Hash Functions and their Cryptographic Applications title2:Universal one-way hash functions and their cryptographic applications citation:853 ncitation:840 pid622804
+title1:Public-key Cryptosystems Provably Secure against Chosen Ciphertext Attacks title2:Public-key cryptosystems provably secure against chosen ciphertext attacks citation:697 ncitation:677 pid622805
+title1:How to share a function securely. title2:How to share a function securely citation:282 ncitation:279 pid623060
+title1:Interactive Zero-Knowledge with Restricted Random Oracles. title2:Interactive zero-knowledge with restricted random oracles citation:8 ncitation:9 pid627272
+title1:Threshold and Proactive Pseudo-Random Permutations. title2:Threshold and proactive pseudo-random permutations citation:6 ncitation:6 pid627299
+title1:Memory-Efficient Self Stabilizing Protocols for General Networks. title2:Memory-efficient self stabilizing protocols for general networks citation:162 ncitation:170 pid653612
+title1:Efficient Mechanism for Fairness and Deadlock-Avoidance in High-Speed Networks. title2:Efficient mechanism for fairness and deadlock-avoidance in high-speed networks citation:10 ncitation:12 pid653936
+title1:High-Speed Implementations of Block Cipher ARIA Using Graphics Processing Units. title2:High-speed implementations of block cipher ARIA using graphics processing units citation:13 ncitation:13 pid692015
+title1:Does Physical Security of Cryptographic Devices Need a Formal Study? (Invited Talk). title2:Does Physical Security of Cryptographic Devices Need a Formal Study?(Invited Talk) citation:0 ncitation:-1 pid719832
+title1:E-commerce applications of smart cards. title2:E-commerce applications of smart cards citation:23 ncitation:22 pid794771
+title1:Routing and Flow Control on the MetaNet: An Overview. title2:Routing and flow control on the MetaNet: an overview citation:14 ncitation:17 pid795036
+title1:Scalable public-key tracing and revoking. title2:Scalable public-key tracing and revoking citation:48 ncitation:32 pid841316
+title1:Cryptanalyzing the polynomial-reconstruction based public-key system under optimal parameter choice. title2:Cryptanalyzing the polynomial-reconstruction based public-key system under optimal parameter choice citation:4 ncitation:4 pid842599
+title1:Concurrent Knowledge-Extraction in the Public-Key Model. title2:Concurrent knowledge extraction in the public-key model citation:7 ncitation:7 pid862206
+title1:The Power of Multimedia: Combining Point-to-Point and Multiaccess Networks title2:The power of multimedia: combining point-to-point and multiaccess networks citation:15 ncitation:14 pid889861
+title1:Connectivity Properties in Random Regular Graphs with Edge Faults. title2:Connectivity properties in random regular graphs with edge faults citation:10 ncitation:11 pid909349
+title1:Partitioned Encryption and Achieving Simultaneity by Partitioning. title2:Partitioned encryption and achieving simultaneity by partitioning citation:21 ncitation:20 pid931284
+title1:Criticizing solutions to relaxed models yields powerful admissible heuristics. title2:Criticizing solutions to relaxed models yields powerful admissible heuristics citation:60 ncitation:57 pid940510
+title1:Perfectly Secure Message Transmission. title2:Perfectly secure message transmission citation:310 ncitation:260 pid950170
+title1:Fast Algorithms for Edge-Coloring Planar Graphs. title2:Fast algorithms for edge-coloring planar graphs citation:22 ncitation:20 pid952800
+title1:Maintenance of a Minimum Spanning Forest in a Dynamic Plane Graph. title2:Maintenance of a minimum spanning forest in a dynamic plane graph citation:173 ncitation:166 pid952895
+title1:Efficient On-Line Call Control Algorithms. title2:Efficient on-line call control algorithms citation:126 ncitation:131 pid952978
+title1:Certifying Permutations: Noninteractive Zero-Knowledge Based on Any Trapdoor Permutation. title2:Certifying permutations: Noninteractive zero-knowledge based on any trapdoor permutation citation:55 ncitation:53 pid985869
+title1:Perfect Zero-Knowledge Arguments for Using Any One-Way Permutation. title2:Perfect zero-knowledge arguments for NP using any one-way permutation citation:122 ncitation:121 pid986036
+title1:Scalable Protocols for Authenticated Group Key Exchange. title2:Scalable protocols for authenticated group key exchange citation:68 ncitation:289 pid986109
+title1:Divide and Conquer under Global Constraints: A Solution to the N-Queens Problem. title2:Divide and conquer under global constraints: A solution to the< i> N</i>-queens problem citation:51 ncitation:49 pid988147
+title1:Fault-Tolerant Convergence Routing. title2:Fault-tolerant convergence routing citation:17 ncitation:16 pid990058
+title1:Systematic Design of a Family of Attack-Resistant Authentication Protocols. title2:Systematic design of a family of attack-resistant authentication protocols citation:169 ncitation:176 pid991249
+title1:Robust Parallel Computations through Randomization. title2:Robust parallel computations through randomization citation:6 ncitation:6 pid1015701
+title1:Minimum-Knowledge Interactive Proofs for Decision Problems. title2:Minimum-knowledge interactive proofs for decision problems citation:54 ncitation:58 pid1059263
+title1:Self-Stabilizing Symmetry Breaking in Constant Space. title2:Self-stabilizing symmetry breaking in constant-space citation:47 ncitation:46 pid1059979
+title1:Concurrent Asynchronous Broadcast on the MetaNet. title2:Concurrent asynchronous broadcast on the MetaNet citation:9 ncitation:10 pid1081149
+title1:The Local Detection Paradigm and Its Application to Self-Stabilization. title2:The local detection paradigm and its applications to self-stabilization citation:72 ncitation:67 pid1088749
+title1:Constant-Round Perfect Zero-Knowledge Computationally Convincing Protocols. title2:Constant-round perfect zero-knowledge computationally convincing protocols citation:76 ncitation:74 pid1089663
+title1:Scheduling Task-Trees with Additive Scales on Parallel/Distributed Machines. title2:Scheduling task-trees with additive scales on parallel/distributed machines citation:0 ncitation:-1 pid1095271
+title1:Decoding interleaved Reed-Solomon codes over noisy channels. citation:18 ncitation:17 pid1095688
+title1:The KryptoKnight family of light-weight protocols for authentication and key distribution. title2:The kryptoknight family of light-weight protocols for authentication and key distribution citation:101 ncitation:96 pid1121908
+title1:METANET principles of an arbitrary topology LAN. title2:METANET: principles of an arbitrary topology LAN citation:22 ncitation:23 pid1122577
+title1:Combinatorial design of congestion-free networks. title2:Combinatorial design of congestion-free networks citation:23 ncitation:20 pid1122846
+title1:Secure scalable group signature with dynamic joins and separable authorities. title2:Secure scalable group signature with dynamic joins and separable authorities citation:28 ncitation:23 pid1169137
+title1:Expecting the Unexpected: Towards Robust Credential Infrastructure. title2:Expecting the unexpected: Towards robust credential infrastructure citation:6 ncitation:5 pid1207372
+title1:Efficient Traceable Signatures in the Standard Model. title2:Efficient traceable signatures in the standard model citation:10 ncitation:9 pid1259202
+title1:Concurrent Knowledge-Extraction in the Public-Key Model title2:Concurrent knowledge extraction in the public-key model citation:7 ncitation:7 pid1268786
+title1:Adaptive Concurrent Non-Malleability with Bare Public-Keys title2:Adaptive concurrent non-malleability with bare public-keys citation:5 ncitation:6 pid1269651
+title1:Elastic block ciphers: method, security and instantiations. title2:Elastic block ciphers: method, security and instantiations citation:5 ncitation:5 pid1273770
+title1:The Kurosawa-Desmedt key encapsulation is not chosen-ciphertext secure. citation:5 ncitation:23 pid1276175
+title1:Secure Multi-party Computation Minimizing Online Rounds. title2:Secure multi-party computation minimizing online rounds citation:4 ncitation:5 pid1302842
+title1:Group Encryption: Non-interactive Realization in the Standard Model. title2:Group encryption: Non-interactive realization in the standard model citation:24 ncitation:21 pid1302853
+title1:Concise Mercurial Vector Commitments and Independent Zero-Knowledge Sets with Short Proofs. title2:Concise mercurial vector commitments and independent zero-knowledge sets with short proofs citation:14 ncitation:13 pid1325371
+title1:Efficient and secure authenticated key exchange using weak passwords. title2:Efficient and secure authenticated key exchange using weak passwords citation:28 ncitation:21 pid1338439
+title1:Applied Cryptography and Network Security, Third International Conference, ACNS 2005, New York, NY, USA, June 7-10, 2005, Proceedings title2:Applied Cryptography and Network Security: Third International Conference, ACNS 2005, New York, NY, USA, June 7-10, 2005, Proceedings citation:5 ncitation:9 pid1353232
+title1:Applied Cryptography and Network Security, 6th International Conference, ACNS 2008, New York, NY, USA, June 3-6, 2008. Proceedings title2:Applied Cryptography and Network Security: Third International Conference, ACNS 2005, New York, NY, USA, June 7-10, 2005, Proceedings citation:5 ncitation:9 pid1359853
+title1:Dynamic fully forward-secure group signatures. title2:Dynamic fully forward-secure group signatures citation:5 ncitation:3 pid1419027
+title1:Advances in Cryptology - CRYPTO 2002, 22nd Annual International Cryptology Conference, Santa Barbara, California, USA, August 18-22, 2002, Proceedings title2:Advances in Cryptology-CRYPTO 2002: 22nd Annual International Cryptology Conference Santa Barbara, California, USA, August 18-22, 2002. Proceedings citation:33 ncitation:32 pid1547638
+title1:A New Framework for RFID Privacy. title2:A new framework for RFID privacy citation:48 ncitation:35 pid1653963
+title1:Tree-Homomorphic Encryption and Scalable Hierarchical Secret-Ballot Elections. title2:Tree-homomorphic encryption and scalable hierarchical secret-ballot elections citation:5 ncitation:4 pid1675045
+title1:Concurrent Knowledge Extraction in the Public-Key Model. title2:Concurrent knowledge extraction in the public-key model citation:7 ncitation:7 pid1683651
+title1:Efficient Completely Non-malleable Public Key Encryption. title2:Efficient completely non-malleable public key encryption citation:7 ncitation:6 pid1699391
+title1:Information Security, 12th International Conference, ISC 2009, Pisa, Italy, September 7-9, 2009. Proceedings title2:Information Security: 12th International Conference, ISC 2009 Pisa, Italy, September 7-9, 2009 Proceedings citation:0 ncitation:-1 pid1829954
+title1:SocialClouds: Concept, Security Architecture and Some Mechanisms. title2:Socialclouds: Concept, security architecture and some mechanisms citation:7 ncitation:5 pid2331397
+title1:Practical leakage-resilient pseudorandom generators. title2:Practical leakage-resilient pseudorandom generators citation:28 ncitation:19 pid2338612
+title1:Malicious cryptography - exposing cryptovirology. title2:Malicious cryptography: Exposing cryptovirology citation:84 ncitation:79 pid2396756
+title1:Secure Efficient Multiparty Computing of Multivariate Polynomials and Applications. title2:Secure efficient multiparty computing of multivariate polynomials and applications citation:6 ncitation:6 pid2431429
+title1:Efficient Circuit-Size Independent Public Key Encryption with KDM Security. title2:Efficient circuit-size independent public key encryption with KDM security citation:15 ncitation:8 pid2438724
+title1:On the Security of Hash Functions Employing Blockcipher Postprocessing. title2:On the security of hash functions employing blockcipher postprocessing citation:0 ncitation:-1 pid2445899
+title1:Adaptively Secure Non-interactive Threshold Cryptosystems. title2:Adaptively secure non-interactive threshold cryptosystems citation:11 ncitation:8 pid2452379
+title1:Signatures Resilient to Continual Leakage on Memory and Computation. title2:Signatures resilient to continual leakage on memory and computation citation:23 ncitation:19 pid2460426
+title1:Efficient traceable signatures in the standard model. title2:Efficient traceable signatures in the standard model citation:10 ncitation:9 pid2774631
+title1:Adaptive Concurrent Non-Malleability with Bare Public-Keys. title2:Adaptive concurrent non-malleability with bare public-keys citation:5 ncitation:6 pid2774632
+title1:A New Randomness Extraction Paradigm for Hybrid Encryption. title2:A new randomness extraction paradigm for hybrid encryption citation:43 ncitation:35 pid2774633
+title1:Signatures Resilient to Continual Leakage on Memory and Computation. title2:Signatures resilient to continual leakage on memory and computation citation:23 ncitation:19 pid2774637
+title1:On the Portability of Generalized Schnorr Proofs. title2:On the portability of generalized schnorr proofs citation:38 ncitation:33 pid2778820
+title1:Resettable Cryptography in Constant Rounds - the Case of Zero Knowledge. citation:7 ncitation:5 pid2778821
+title1:Concurrent Knowledge Extraction in the Public-Key Model. title2:Concurrent knowledge extraction in the public-key model citation:7 ncitation:7 pid2778862
+title1:A New Framework for RFID Privacy. title2:A new framework for RFID privacy citation:48 ncitation:35 pid2781682
+title1:Threshold and Proactive Pseudo-Random Permutations. title2:Threshold and proactive pseudo-random permutations citation:6 ncitation:6 pid2784238
+title1:Leakage Resilient Cryptography in Practice. title2:Leakage resilient cryptography in practice citation:47 ncitation:36 pid2784239
+title1:On the Security of Hash Functions Employing Blockcipher Postprocessing. title2:On the security of hash functions employing blockcipher postprocessing citation:0 ncitation:-1 pid2784240
+title1:Fair Traceable Multi-Group Signatures. title2:Fair traceable multi-group signatures citation:8 ncitation:7 pid2784241
+title1:Information Security and Cryptology - 6th International Conference, Inscrypt 2010, Shanghai, China, October 20-24, 2010, Revised Selected Papers title2:Information security and cryptology: 6th international conference, inscrypt 2010, shanghai, china, october 20-24, 2010, revised selected papers citation:0 ncitation:-1 pid2784242
+title1:Leakage Resilient Strong Key-Insulated Signatures in Public Channel. title2:Leakage resilient strong key-insulated signatures in public channel citation:0 ncitation:-1 pid2786251
+title1:The Hierarchy of Key Evolving Signatures and a Characterization of Proxy Signatures. title2:The hierarchy of key evolving signatures and a characterization of proxy signatures citation:52 ncitation:46 pid2787213
+title1:Elastic AES. title2:Elastic AES citation:5 ncitation:5 pid2787256
+title1:Indifferentiability of the Hash Algorithm BLAKE. title2:Indifferentiability of the Hash Algorithm BLAKE. citation:15 ncitation:12 pid2792045
+title1:Key-Insulated Public-Key Cryptosystems. title2:Key-insulated public key cryptosystems citation:291 ncitation:279 pid2792072
+title1:Group Signatures with Efficient Concurrent Join. title2:Group signatures with efficient concurrent join citation:73 ncitation:69 pid2792124
+title1:Scalable Protocols for Authenticated Group Key Exchange. title2:Scalable protocols for authenticated group key exchange citation:68 ncitation:289 pid2800397
+title1:Scalable Public-Key Tracing and Revoking. title2:Scalable public-key tracing and revoking citation:48 ncitation:32 pid2810295
+title1:Threshold Cryptosystems Based on Factoring. title2:Threshold cryptosystems based on factoring citation:20 ncitation:18 pid2812834
+title1:Group Signatures: Provable Security, Efficient Constructions and Anonymity from Trapdoor-Holders. title2:Group Signatures: Provable Security, Efficient Constructions and Anonymity from Trapdoor-Holders. citation:61 ncitation:56 pid2816990
+title1:Efficient Password-Authenticated Key Exchange Using Human-Memorable Passwords. title2:Efficient password-authenticated key exchange using human-memorable passwords citation:314 ncitation:304 pid2819321
+title1:Cryptanalyzing the Polynomial-Reconstruction based Public-Key System Under Optimal Parameter Choice. title2:Cryptanalyzing the polynomial-reconstruction based public-key system under optimal parameter choice citation:4 ncitation:4 pid2819322
+title1:Resettable Cryptography in Constant Rounds - The Case of Zero Knowledge. citation:7 ncitation:5 pid2819323
+title1:PayTree: "Amortized Signature" for Flexible Micro-Payments. title2:PayTree:" Amortized Signature" for Flexible Micro-Payments. citation:90 ncitation:85 pid2819325
+title1:Fully Forward-Secure Group Signatures. title2:Dynamic fully forward-secure group signatures citation:5 ncitation:-1 pid2842275
+title1:Scalable Group Signatures with Revocation. title2:Scalable group signatures with revocation citation:6 ncitation:2 pid2898171
+title1:Non-interactive CCA-Secure Threshold Cryptosystems with Adaptive Security: New Framework and Constructions. title2:Non-interactive cca-secure threshold cryptosystems with adaptive security: New framework and constructions citation:10 ncitation:2 pid2898655
+title1:Scalable Group Signatures with Revocation. title2:Scalable group signatures with revocation citation:6 ncitation:2 pid3013733
+title1:Secret swarm unit: Reactive k-secret sharing. citation:19 ncitation:19 pid3014668
+title1:Strictly-Black-Box Zero-Knowledge and Efficient Validation of Financial Transactions. title2:Strictly-black-box zero-knowledge and efficient validation of financial transactions citation:1 ncitation:-1 pid3017381
+title1:On the Centrality of Off-Line E-Cash to Concrete Partial Information Games. title2:On the centrality of off-line e-cash to concrete partial information games citation:0 ncitation:-1 pid3028510
+title1:Information Security Applications - 13th International Workshop, WISA 2012, Jeju Island, Korea, August 16-18, 2012, Revised Selected Papers title2:Information Security Applications: 11th International Workshop, WISA 2010, Jeju Island, Korea, August 24-26, 2010, Revised Selected Papers citation:0 ncitation:-1 pid3141668
+title1:Efficient robust private set intersection. title2:Efficient robust private set intersection citation:69 ncitation:-1 pid3141835
+title1:Expander Graph based Key Distribution Mechanisms in Wireless Sensor Networks. title2:Expander graph based key distribution mechanisms in wireless sensor networks citation:29 ncitation:-1 pid3142717

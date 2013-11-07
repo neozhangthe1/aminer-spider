@@ -1,0 +1,149 @@
+title:Mon-Song Chen, Dilip D. Kandlur: Design and Analysis of a Grouped Sweeping Scheme for Multimedia Storage Management. citation:-1
+title:Resource-adaptive real-time new event detection. citation:-1
+title:Online Generation of Profile Association Rules. citation:-1
+title:Analysis of Parallel Processing Architectures for Database Systems. citation:-1
+title:Data Stream Mining and Resource Adaptive Computation. citation:-1
+title:Asymtotic Performance of a Buffer Model in a Data Sharing Environment. citation:-1
+title:On Clustering Techniques for Change Diagnosis in Data Streams. citation:-1
+title:BridgeNet: An Adaptive Multi-Source Stream Dissemination Overlay Network. citation:-1
+title:Toward Self-Managed Media Stream Processing Service Overlays. citation:-1
+title:Optimal crawling strategies for web search engines. citation:-1
+title:Outlier Detection for High Dimensional Data. citation:-1
+title:An Adaptive Optimization Model with Applications to Testing. citation:-1
+title:Thrashing control and avoidance for concurrent mergesorts using parallel prefetching. citation:-1
+title:Latency-sensitive hashing for collaborative Web caching. citation:-1
+title:Support for Fully Interactive Playout in Disk-Array-Based Video Server. citation:-1
+title:Robust Transaction-Routing Strategies in Distributed Database Systems. citation:-1
+title:Distributed Concurrency Control Analysis for Data Sharing. citation:-1
+title:A Framework for Scalable Cost-sensitive Learning Based on Combing Probabilities and Benefits. citation:-1
+title:Online Analysis of Community Evolution in Data Streams. citation:-1
+title:A Framework for Clustering Massive Text and Categorical Data Streams. citation:-1
+title:Performance comparisons of buffer coherency policies. citation:-1
+title:Online Generation of Association Rules. citation:-1
+title:Replication Issues on Proxy Cache Array. citation:-1
+title:RIVA: Indexing and Visualization of High-Dimensional Data Via Dimension Reorderings. citation:-1
+title:A Multi-metric Index for Euclidean and Periodic Matching. citation:-1
+title:Editorial. citation:-1
+title:Introducing the New AEs. citation:-1
+title:Editorial. citation:-1
+title:Editorial: Introducing the New AEs. citation:-1
+title:Performance Modeling For Designing Client/Server Systems. citation:-1
+title:Editorial: AE Introduction. citation:-1
+title:Loadstar: A Load Shedding Scheme for Classifying Data Streams. citation:-1
+title:Divergence Control for Epsilon-Serializability. citation:-1
+title:Indexing Weighted-Sequences in Large Databases. citation:-1
+title:VLSI Circuit Testing Using an Adaptive Optimization Model. citation:-1
+title:Efficient Incremental Mining of Qualified Web Traversal Patterns without Scanning Original Databases. citation:-1
+title:Building Decision Trees on Records Linked through Key References. citation:-1
+title:Efficient Filtering of Large DatasetA User-Centric Paradigm. citation:-1
+title:Domain-Driven, Actionable Knowledge Discovery. citation:-1
+title:Embedding and Retrieving Private Metadata in Electrocardiograms. citation:-1
+title:STAMP: On Discovery of Statistically Important Pattern Repeats in Long Sequential Data. citation:-1
+title:SAO: A Stream Index for Answering Linear Optimization Queries. citation:-1
+title:On Coupling Partitioned Database Systems. citation:-1
+title:GString: A Novel Approach for Efficient Search in Graph Databases. citation:-1
+title:Iterative Mining for Rules with Constrained Antecedents. citation:-1
+title:Mining Surprising Periodic Patterns. citation:-1
+title:Mining Relationship between Triggering and Consequential Events in a Short Transaction Database. citation:-1
+title:Adaptive Load Diffusion for Multiway Windowed Stream Joins. citation:-1
+title:Introduction to special issue on social computing, behavioral modeling, and prediction. citation:-1
+title:Near-Neighbor Search in Pattern Distance Spaces. citation:-1
+title:Object Distinction: Distinguishing Objects with Identical Names. citation:-1
+title:Using Content-Based Search to Download Digital Video into a Client Station. citation:-1
+title:Integration of Buffer Management and Query Optimization in Relational Database Environment. citation:-1
+title:Mining Evolving Streams with Resource Adaptive Computation. citation:-1
+title:On Parallel Transaction Processing in a Coupled System. citation:-1
+title:Reminiscences on Influential Papers. citation:-1
+title:On Index Selection Schemes for Nested Object Hierarchies. citation:-1
+title:Focused Community Discovery. citation:-1
+title:Optimizing Profits in the Broadcast Delivery of Multimedia Products. citation:-1
+title:Concurrency Control Using Locking with Deferred Blocking. citation:-1
+title:Finding "Who Is Talking to Whom" in VoIP Networks via Progressive Stream Clustering. citation:-1
+title:Discovering High-Order Periodic Patterns. citation:-1
+title:Run Placement Policies for Concurrent Mergesorts Using Parallel Prefetching. citation:-1
+title:Report on Second International Workshop on Advanced Issues of E-Commerce and Web-based Information Systems. citation:-1
+title:Buffer Management Based on Return on Consumption in a Multi-Query Environment citation:-1
+title:Performance Analysis of Optimistic Concurrency Control Schemes for Systems with Large Memory. citation:-1
+title:On-Demand Index for Efficient Structural Joins. citation:-1
+title:Monitoring Continual Range Queries. citation:-1
+title:Review - Mining Association Rules between Sets of Items in Large Databases. citation:-1
+title:Transaction Recovery in Distributed DB/DC Systems: A Progressive Approach. citation:-1
+title:Anonymization with Worst-Case Distribution-Based Background Knowledge citation:-1
+title:On Indexing High Demensional Data with Uncertainty. citation:-1
+title:LOCI: Load Shedding through Class-Preserving Data Acquisition. citation:-1
+title:Controlled replication for hash routing-based web caching. citation:-1
+title:Efficient Data Mining for Path Traversal Patterns in Distributed Systems. citation:-1
+title:On Range Query Indexing for Efficient Stream Processing. citation:-1
+title:Processing Continual Range Queries over Moving Objects Using VCR-Based Query Indexes. citation:-1
+title:Analysis of Recovery Protocols in Distributed On-Line Transaction Processing Systems. citation:-1
+title:Mining of Evolving Data Streams with Privacy Preservation. citation:-1
+title:Rights Protection of Trajectory Datasets. citation:-1
+title:Dynamic Load Balancing in Geographically Distributed Heterogeneous Web Servers. citation:-1
+title:Relation Assignment in Distributed Transaction Processing Environment. citation:-1
+title:On string classification in data streams. citation:-1
+title:Optimal All-to-All Broadcasting Schemes in Distributed Systems. citation:-1
+title:On Centralized versus Geographically Distributed Database Systems. citation:-1
+title:Dynamic Load Sharing in the Presence of Information Obsolescence in Distributed Database Environments. citation:-1
+title:Distributed Object Replication Strategies for a Remote Caching Architecture. citation:-1
+title:Proceedings of the 2006 ACM CIKM International Conference on Information and Knowledge Management, Arlington, Virginia, USA, November 6-11, 2006 citation:-1
+title:Proceedings of the 9th ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery, DMKD 2004, Paris, France, June 13, 2004 citation:-1
+title:Proceedings of the Eleventh International Conference on Data Engineering, March 6-10, 1995, Taipei, Taiwan citation:-1
+title:ICDM 2009, The Ninth IEEE International Conference on Data Mining, Miami, Florida, USA, 6-9 December 2009 citation:-1
+title:ICDM Workshops 2009, IEEE International Conference on Data Mining Workshops, Miami, Florida, USA, 6 December 2009 citation:-1
+title:Advances in Web Mining and Web Usage Analysis, 7th International Workshop on Knowledge Discovery on the Web, WebKDD 2005, Chicago, IL, USA, August 21, 2005. Revised Papers citation:-1
+title:Mining knowledge from databases: an information network analysis approach. citation:-1
+title:Agents and Data Mining Interaction, 4th International Workshop, ADMI 2009, Budapest, Hungary, May 10-15, 2009, Revised Selected Papers citation:-1
+title:Agents and Data Mining Interaction, 6th International Workshop on Agents and Data Mining Interaction, ADMI 2010, Toronto, ON, Canada, May 11, 2010, Revised Selected Papers citation:-1
+title:Proceedings of the 2010 Conference on Intelligent Data Understanding, CIDU 2010, October 5-6, 2010, Mountain View, California, USA citation:-1
+title:Processing high data rate streams in System S. citation:-1
+title:ACM TKDD Special Issue on Knowledge Discovery for Web Intelligence. citation:-1
+title:A framework for clustering massive graph streams. citation:-1
+title:Mining Concept-Drifting Data Streams. citation:-1
+title:Information Networks Mining and Analysis. citation:-1
+title:Mining High Utility Mobile Sequential Patterns in Mobile Commerce Environments. citation:-1
+title:Distributed Classification for Pocket Data Mining. citation:-1
+title:Load Shedding in Mobile Systems with MobiQual. citation:-1
+title:InfoNetOLAPer: Integrating InfoNetWarehouse and InfoNetCube with InfoNetOLAP. citation:-1
+title:Towards Community Detection in Locally Heterogeneous Networks. citation:-1
+title:One-Class-Based Uncertain Data Stream Learning. citation:-1
+title:Global privacy and transportation mode homogeneity anonymization in location based mobile systems with continuous queries. citation:-1
+title:Mobile systems location privacy: "MobiPriv" a robust k anonymous system. citation:-1
+title:Agents and Data Mining Interaction - 7th International Workshop on Agents and Data Mining Interation, ADMI 2011, Taipei, Taiwan, May 2-6, 2011, Revised Selected Papers citation:-1
+title:An ensemble-based approach to fast classification of multi-label data streams. citation:-1
+title:Mobile Systems Privacy: 'MobiPriv' A Robust System for Snapshot or Continuous Querying Location Based Mobile Systems. citation:-1
+title:An efficient selective-repeat ARQ scheme for satellite channels and its throughput analysis. citation:-1
+title:Early classification on time series. citation:-1
+title:Gateway finder in large graphs: problem definitions and fast solutions. citation:-1
+title:Effective Next-Items Recommendation via Personalized Sequential Pattern Mining. citation:-1
+title:A motion-aware safe period-based framework for spatial alarm processing. citation:-1
+title:Guest editorial: special issue on data mining technologies for computational social science. citation:-1
+title:Mining Knowledge from Interconnected Data: A Heterogeneous Information Network Analysis Approach. citation:-1
+title:Distributed hoeffding trees for pocket data mining. citation:-1
+title:Transfer Significant Subgraphs across Graph Databases. citation:-1
+title:Learning from Heterogeneous Sources via Gradient Boosting Consensus. citation:-1
+title:On Influential Node Discovery in Dynamic Social Networks. citation:-1
+title:On Dynamic Link Inference in Heterogeneous Networks. citation:-1
+title:Multi-Objective Multi-Label Classification. citation:-1
+title:An Iterative and Re-weighting Framework for Rejection and Uncertainty Resolution in Crowdsourcing. citation:-1
+title:Mining Knowledge from Data: An Information Network Analysis Approach. citation:-1
+title:RIDE-TQP '92, Second International Workshop on Research Issues on Data Engineering: Transaction and Query Processing, Tempe, Arizona, USA, February 2-3, 1992 citation:-1
+title:HeteRecom: a semantic-based recommendation systemin heterogeneous networks. citation:-1
+title:Overlapping community detection combining content and link. citation:-1
+title:Implementation of Privacy-preserving SimRank over Distributed Information Network citation:-1
+title:LRU-based replication strategies in a LAN remote caching architecture. citation:-1
+title:PhonePark: Street Parking Using Mobile Phones. citation:-1
+title:Discovering geometric patterns in genomic data. citation:-1
+title:Diversionary comments under political blog posts. citation:-1
+title:Meta path-based collective classification in heterogeneous information networks. citation:-1
+title:Influence and similarity on heterogeneous networks. citation:-1
+title:Latency Bounding by Trading off Consistency in NoSQL Store: A Staging and Stepwise Approach citation:-1
+title:Protecting Sensitive Labels in Social Network Data Anonymization. citation:-1
+title:On Graph Stream Clustering with Side Information citation:-1
+title:Discriminative Feature Selection for Uncertain Graph Classification citation:-1
+title:Dimensionality Reduction on Heterogeneous Feature Space. citation:-1
+title:Privacy-Preserving SimRank over Distributed Information Network. citation:-1
+title:Agents and Data Mining Interaction - 8th International Workshop, ADMI 2012, Valencia, Spain, June 4-5, 2012, Revised Selected Papers citation:-1
+title:LaFT-tree: perceiving the expansion trace of one's circle of friends in online social networks. citation:-1
+title:Transfer across Completely Different Feature Spaces via Spectral Embedding. citation:-1
+title:Structural Diversity for Resisting Community Identification in Published Social Networks citation:-1
+title:Efficient Direct Mining of Selective Discriminative Patterns for Classification. citation:-1

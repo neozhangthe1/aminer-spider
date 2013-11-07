@@ -1,0 +1,138 @@
+title1:Concurrency Control using Subject- and Purpose-Oriented (SPO) View. title2:Concurrency control using subject-and purpose-oriented (SPO) view citation:13 ncitation:13 pid7654
+title1:Purpose-Oriented Access Control Model in Object-Based Systems. title2:Purpose-oriented access control model in object-based systems citation:45 ncitation:47 pid19310
+title1:An Architecture for Work Flows Interoperability Supporting Electronic Commerce. title2:An architecture for workflows interoperability supporting electronic commerce citation:0 ncitation:-1 pid26293
+title1:Flexible Group Communication Protocol for Distributed Systems. title2:Flexible group communication protocol for distributed systems citation:0 ncitation:1 pid35232
+title1:Role-Based Concurrency Control for Distributed Systems. title2:Role-based concurrency control for distributed systems citation:22 ncitation:22 pid35238
+title1:Mobile Agent Model for Transaction Processing on Distributed Objects. title2:Mobile agent model for transaction processing on distributed objects citation:30 ncitation:29 pid35356
+title1:A Group Communication Protocol for Scalable Causal Ordering. title2:A group communication protocol for scalable causal ordering citation:17 ncitation:17 pid35380
+title1:A Scalable Group Communication Protocol with Global Clock. title2:A Scalable Group Communication Protocol with Global Clock citation:0 ncitation:4 pid35382
+title1:A High-Performance Multimedia Streaming Model on Multi-Source Streaming Approach in Peer-to-Peer Networks. title2:A high-performance multimedia streaming model on multi-source streaming approach in peer-to-peer networks citation:29 ncitation:26 pid35409
+title1:HAMS: Heterogeneous Asynchronous Multi-source Streaming Protocol to Realize Scalable Multimedia Communications. title2:HAMS: heterogeneous asynchronous multi-source streaming protocol to realize scalable multimedia communications citation:0 ncitation:-1 pid35440
+title1:A Fault-Tolerant Model forWireless Sensor-Actor System. title2:A fault-tolerant model for wireless sensor-actor system citation:14 ncitation:12 pid35666
+title1:A Distributed Coordination Protocol for a Heterogeneous Group of Peer Processes. title2:A distributed coordination protocol for a heterogeneous group of peer processes citation:29 ncitation:28 pid36182
+title1:Evaluation of Reliable Data Transmission Protocol in Wireless Sensor-Actuator Network. title2:Evaluation of the Reliable Data Transmission Protocol in Wireless Sensor-Actuator Networks citation:11 ncitation:9 pid36493
+title1:M-ary Commitment Protocol with Partially Ordered Domain. title2:M-ary commitment protocol with partially ordered domain citation:49 ncitation:48 pid150322
+title1:Moderate Concurrency Control in Distributed Object Systems. title2:Moderate concurrency control in distributed object systems citation:14 ncitation:14 pid150444
+title1:Protocol for Taking Object-Based Checkpoints. title2:Protocol for taking object-based checkpoints citation:0 ncitation:0 pid150465
+title1:Model of Mobile Objects. title2:Model of mobile objects citation:25 ncitation:26 pid150612
+title1:Group Communication Protocol for Atomic and Causal Delivery of Multimedia Messages. title2:Group communication protocol for atomic and causal delivery of multimedia messages citation:0 ncitation:0 pid151568
+title1:Quorum-based Locking Protocol for Replicated Objects. title2:Quorum-based locking protocol for replicated objects citation:0 ncitation:0 pid159523
+title1:Flexible Group Communication Protocol. title2:Flexible group communication protocol for distributed systems citation:0 ncitation:0 pid220795
+title1:Fault-Tolerant Mobile Agents in Distributed Objects Systems. title2:Fault-tolerant mobile agents in distributed objects systems citation:22 ncitation:23 pid220878
+title1:Multimedia Intra-Group Communication Protocol. title2:Multimedia intra-group communication protocol citation:28 ncitation:28 pid255372
+title1:Priority-Based Total and Semi-Total Ordering Broadcast Protocols. title2:Priority-based total and semi-total ordering broadcast protocols citation:78 ncitation:76 pid297441
+title1:Group Communication Protocol for Realtime Applications. title2:Group communication protocol for real-time applications citation:62 ncitation:64 pid297732
+title1:Notification-Based QoS Control Protocol for Multimedia Group Communication in High-Speed Networks. title2:Notification-based QoS control protocol for multimedia group communication in high-speed networks citation:31 ncitation:32 pid297784
+title1:Reliable broadcast protocol for selectively partially ordering PDUs (SPO protocol). title2:Reliable broadcast protocol for selectively partially ordering PDUs (SPO protocol) citation:82 ncitation:82 pid298111
+title1:Multimedia Wireless Interactive and Collaborative Telecom Services. title2:Multimedia wireless interactive and collaborative telecom services citation:0 ncitation:0 pid298397
+title1:Concurrency Control in Multi-Role Association. title2:Concurrency Control in Multi-Role Association citation:0 ncitation:0 pid298478
+title1:Performance Analysis of the Interrogation-based Failure Detector. title2:Performance Analysis of the Interrogation-based Failure Detector citation:0 ncitation:0 pid299116
+title1:Group Communication of Multimedia Objects. title2:Group communication of multimedia objects citation:0 ncitation:0 pid299189
+title1:A Protocol for Making an Agreement in a Peer-to-Peer (P2P) Society. title2:A Protocol for Making an Agreement in a Peer-to-Peer (P2P) Society citation:0 ncitation:-1 pid299210
+title1:A Multi-Source Streaming Model for Mobile Peer-to-Peer (P2P) Overlay Networks. title2:A multi-source streaming model for mobile peer-to-peer (P2P) overlay networks citation:11 ncitation:11 pid299219
+title1:Group communication protocol for flexible distributed systems. title2:Group Communication Protocol for Flexible Distributed Systems citation:0 ncitation:8 pid338201
+title1:Distributed protocol for selective intra-group communication. title2:Distributed protocol for selective intra-group communication citation:27 ncitation:29 pid338521
+title1:Object-Causally Ordered Group Protocol for Distributed Multimedia Systems. title2:Object-causally ordered group protocol for distributed multimedia systems citation:0 ncitation:0 pid339209
+title1:Group Protocol for Quorum-Based Replication. title2:Group protocol for quorum-based replication citation:12 ncitation:12 pid340803
+title1:Concurrency Control Based-on Significancy on Roles. title2:Concurrency control based on significancy on roles citation:19 ncitation:19 pid340971
+title1:A Scalable Multimedia Streaming Model Based-on Multi-source Streaming Concept. title2:A scalable multimedia streaming model based-on multi-source streaming concept citation:21 ncitation:20 pid341088
+title1:Information Flow Control in Role-Based Model for Distributed Objects. title2:Information flow control in role-based model for distributed objects citation:62 ncitation:62 pid341100
+title1:A Walkthrough from Smart Spaces to Smart Hyperspaces towards a Smart World with Ubiquitous Intelligence. title2:A walkthrough from smart spaces to smart hyperspaces towards a smart world with ubiquitous intelligence citation:17 ncitation:16 pid341370
+title1:Causally Ordered Delivery with Global Clock in Hierarchical Group. title2:Causally ordered delivery with global clock in hierarchical group citation:15 ncitation:15 pid341391
+title1:Causally Ordered Delivery for a Hierarchical Group. title2:Causally ordered delivery for a hierarchical group citation:15 ncitation:15 pid341613
+title1:Two-Layered Protocol for a Large-Scale Group of Processes. title2:Two-layered protocol for a large-scale group of processes citation:19 ncitation:19 pid341614
+title1:Checkpointing Protocol for Object-Based Systems. title2:Checkpointing protocol for object-based systems citation:0 ncitation:0 pid341628
+title1:Distributed checkpointing based on influential messages. title2:Distributed checkpointing based on influential messages citation:15 ncitation:17 pid341630
+title1:Group Protocol for Distributed Replicated Objects. title2:Group protocol for distributed replicated objects citation:21 ncitation:16 pid342864
+title1:Distributed Coordination Protocols to Realize Scalable Multimedia Streaming in Peer-to-Peer Overlay Networks. title2:Distributed coordination protocols to realize scalable Multimedia streaming in peer-to-peer overlay networks citation:0 ncitation:6 pid343261
+title1:Quality-Based Lock Modes of Multimedia Objects. title2:Quality-based lock modes of multimedia objects citation:0 ncitation:-1 pid345336
+title1:Making an Agreement in an Order-Heterogeneous Group by using a Distributed Coordination Protocol. title2:Making an agreement in an order-heterogeneous group by using a distributed coordination protocol citation:23 ncitation:22 pid345757
+title1:Checkpoint and Rollback in Asynchronous Distributed Systems. title2:Checkpoint and rollback in asynchronous distributed systems citation:28 ncitation:28 pid401078
+title1:Partially Ordering Broadcast (PO) Protocol. title2:Partially ordering broadcast (PO) protocol citation:34 ncitation:36 pid402578
+title1:Object-based Protocol for Replicated Objects. title2:Object-based protocol for replicated objects citation:0 ncitation:0 pid416318
+title1:Quorum-Based Locking Protocol for Replicas in Object-Based Systems. title2:Quorum-based locking protocol for replicas in object-based systems citation:14 ncitation:9 pid416364
+title1:Quality-Based Flexibility in Distributed Objects. title2:Quality-based flexibility in distributed objects citation:13 ncitation:14 pid444440
+title1:Group Protocol for Object-Based Systems. title2:Group protocol for object-based systems citation:0 ncitation:0 pid444598
+title1:A Purpose-Oriented Access Control Model for Object-Based Systems. title2:Purpose-oriented access control model in object-based systems citation:45 ncitation:44 pid444634
+title1:Mobile Agent Model for Manipulating Distributed Objects Systems. title2:Mobile Agent Model for Manipulating Distributed Objects Systems citation:0 ncitation:0 pid468320
+title1:Access Program to Minimize Redundant Refutations on the Network Database System. title2:Access program to minimize redundant refutations on the network database system citation:0 ncitation:0 pid486942
+title1:Checkpoint-Recovery Protocol for Reliable Mobile Systems. title2:Checkpoint-recovery protocol for reliable mobile systems citation:58 ncitation:54 pid617034
+title1:Ordered Delivery of Messages for Various Types of Invocations in Object-based Systems. title2:Ordered delivery of messages for various types of invocations in object-based systems citation:0 ncitation:-1 pid666360
+title1:Making an Agreement in an Order-Heterogeneous Group. title2:Making an agreement in an order-heterogeneous group by using a distributed coordination protocol citation:23 ncitation:-1 pid700406
+title1:A Multi-Source Streaming Model for Mobile Peer-to-Peer (P2P) Overlay Networks. title2:A multi-source streaming model for mobile peer-to-peer (P2P) overlay networks citation:11 ncitation:11 pid700411
+title1:Guidelines for Network Service Pricing: An Extended Model Considering Increase of Network Users. title2:Guidelines for network service pricing: an extended model considering increase of network users citation:0 ncitation:0 pid700428
+title1:Performance Evaluation of a Fuzzy-based Handover System for Wireless Cellular Networks. title2:Performance Evaluation of a Fuzzy-based Handover System for Wireless Cellular Networks. citation:0 ncitation:-1 pid709988
+title1:Making Societies in Peer-to-Peer (P2P) Overlay Networks. title2:Making Societies in Peer-to-Peer (P2P) Overlay Networks citation:0 ncitation:0 pid727324
+title1:Checkpointing in a Distributed Coordination Protocol for Multiple Peer Processes. title2:Checkpointing in a distributed coordination protocol for multiple peer processes citation:22 ncitation:21 pid727329
+title1:Evaluation of the Reliable Data Transmission Protocol in Wireless Sensor-Actuator Networks. title2:Evaluation of the Reliable Data Transmission Protocol in Wireless Sensor-Actuator Networks citation:11 ncitation:9 pid727385
+title1:An Inter-peer Trustworthiness Based on Access Control in Peer-to-Peer Overlay Networks. title2:An Inter-peer Trustworthiness Based on Access Control in Peer-to-Peer Overlay Networks citation:0 ncitation:0 pid727433
+title1:Causally ordered delivery of multimedia objects. title2:Causally ordered delivery of multimedia objects citation:15 ncitation:16 pid801813
+title1:Significantly ordered delivery of messages in group communication. title2:Significantly ordered delivery of messages in group communication citation:19 ncitation:20 pid801950
+title1:Mobile agent model for transaction processing on distributed objects. title2:Mobile agent model for transaction processing on distributed objects citation:30 ncitation:30 pid940852
+title1:Satisfiability and trustworthiness of acquaintances in peer-to-peer overlay networks. title2:Satisfiability and trustworthiness of acquaintances in peer-to-peer overlay networks citation:0 ncitation:0 pid943525
+title1:Two-Layered Protocol for a Large-Scale Group of Processes. title2:Two-layered protocol for a large-scale group of processes citation:19 ncitation:19 pid983671
+title1:Quorum-Based Replication in Object-Based Systems. title2:Quorum-based replication in object-based systems citation:21 ncitation:15 pid983674
+title1:Group Protocol for Distributed Object-Based Systems. title2:Group Protocol for Distributed Object-Based Systems citation:0 ncitation:0 pid983685
+title1:Cbf: Look-up Protocol for Distributed Multimedia Objects in Peer-to-peer Overlay Networks. title2:CBF: Look-up protocol for distributed multimedia objects in peer-to-peer overlay networks citation:14 ncitation:14 pid986730
+title1:Moderate Concurrency Control In Distributed Object Systems. title2:Moderate concurrency control in distributed object systems citation:14 ncitation:14 pid986731
+title1:A Protocol for Making an Agreement in a Peer-to-Peer (P2P) Society. title2:A Protocol for Making an Agreement in a Peer-to-Peer (P2P) Society citation:0 ncitation:-1 pid986798
+title1:Ranking factors in peer-to-peer overlay networks. title2:Ranking factors in peer-to-peer overlay networks citation:50 ncitation:42 pid1167728
+title1:A distributed coordination protocol in an order-heterogeneous group. title2:A distributed coordination protocol in an order-heterogeneous group citation:0 ncitation:0 pid1170393
+title1:A scalable anonymous protocol for heterogeneous wireless ad hoc networks. title2:A scalable anonymous protocol for heterogeneous wireless ad hoc networks citation:0 ncitation:0 pid1186932
+title1:Recoverable Cuts to Make Agreement among Peers. title2:Recoverable cuts to make agreement among peers citation:12 ncitation:11 pid1237395
+title1:Energy-Efficient Computation Models for Distributed Systems. title2:Energy-efficient computation models for distributed systems citation:25 ncitation:21 pid1311512
+title1:Consistency Based Approach for Agreement Achievement among Peers. title2:Consistency Based Approach for Agreement Achievement among Peers citation:0 ncitation:0 pid1311524
+title1:Reliable and Efficient Agreement Protocol in Fully Distributed Systems. title2:Reliable and Efficient Agreement Protocol in Fully Distributed Systems citation:0 ncitation:0 pid1320432
+title1:Distributed Cluster Architecture for Increasing Energy Efficiency in Cluster Systems. title2:Distributed Cluster Architecture for Increasing Energy Efficiency in Cluster Systems citation:0 ncitation:0 pid1320463
+title1:Performance Evaluation of an Optimized Load Allocation Approach for Web Server Clusters. title2:Performance Evaluation of an Optimized Load Allocation Approach for Web Server Clusters citation:0 ncitation:-1 pid1348925
+title1:Algorithms for Reducing the Total Power Consumption in Data Communication-Based Applications. title2:Algorithms for reducing the total power consumption in data communication-based applications citation:17 ncitation:15 pid1387905
+title1:A Hybrid Technique for Efficient Medium Access Control in Wireless Sensor Networks. title2:A Hybrid Technique for Efficient Medium Access Control in Wireless Sensor Networks citation:0 ncitation:0 pid1416547
+title1:A tradeoff analysis of delayed reconstruction for storage clusters. title2:A tradeoff analysis of delayed reconstruction for storage clusters citation:0 ncitation:-1 pid1453302
+title1:Laxity Based Algorithm for Reducing Power Consumption in Distributed Systems. title2:Laxity based algorithm for reducing power consumption in distributed systems citation:13 ncitation:13 pid2123466
+title1:Distributed Coordination Protocols to Realize Scalable MultimediaStreaming in Peer-to-Peer Overlay Networks. title2:Distributed coordination protocols to realize scalable Multimedia streaming in peer-to-peer overlay networks citation:0 ncitation:6 pid2303987
+title1:A Model for Reducing Power Consumption in Peer-to-Peer Systems. title2:A model for reducing power consumption in peer-to-peer systems citation:46 ncitation:38 pid2306337
+title1:Trustworthiness of acquaintances in Peer-to-Peer overlay networks. title2:Satisfiability and trustworthiness of acquaintances in peer-to-peer overlay networks citation:0 ncitation:2 pid2383616
+title1:A Survey on Clustering Algorithms for Wireless Sensor Networks. title2:A survey on clustering algorithms for wireless sensor networks citation:43 ncitation:22 pid2775450
+title1:Power Consumption-Based Server Selection Algorithms for Communication-Based Systems. title2:Power consumption-based server selection algorithms for communication-based systems citation:26 ncitation:20 pid2775586
+title1:TBB-Scheme for Reliably Broadcast Messages among Peer Processes. title2:TMPR-scheme for reliably broadcast messages among peer processes citation:0 ncitation:7 pid2775590
+title1:Video Frame Interpolation by Image Morphing Including Fully Automatic Correspondence Setting. title2:Video Frame Interpolation by Image Morphing Including Fully Automatic Correspondence Setting citation:0 ncitation:0 pid2775701
+title1:Adaptive and Efficient Data Dissemination in Mobile P2P Environments. title2:Adaptive and Efficient Data Dissemination Win Mobile P2P Environments citation:0 ncitation:6 pid2830376
+title1:A two-layered model for scalable, heterogeneous group communications. title2:A two-layered model for scalable, heterogeneous group communications citation:0 ncitation:-1 pid2860785
+title1:A Scalable Hybrid Time Protocol for a Heterogeneous Group. title2:A Scalable Hybrid Time Protocol for a Heterogeneous Group citation:0 ncitation:0 pid2864628
+title1:Ubiquitous QoS communications using scalable satellite networking. title2:Ubiquitous QoS communications using scalable satellite networking citation:0 ncitation:0 pid2912475
+title1:Design and Implementation of Hybrid Time (HT) Group Communication Protocol for Homogeneous Broadcast Groups. title2:Design and Implementation of Hybrid Time (HT) Group Communication Protocol for Homogeneous Broadcast Groups citation:0 ncitation:0 pid2953645
+title1:Application of Genetic Algorithms for QoS routing in mobile ad-hoc networks: approaches and solutions. title2:Application of Genetic Algorithms for QoS routing in mobile ad-hoc networks: approaches and solutions citation:0 ncitation:-1 pid2953652
+title1:A Multi-layered Communication Model with Hybrid Clocks in P2P Overlay Networks. title2:A Multi-layered Communication Model with Hybrid Clocks in P2P Overlay Networks citation:0 ncitation:0 pid2970472
+title1:A Scalable Communication Protocol for Multi-layered Groups. title2:A Scalable Communication Protocol for Multi-layered Groups citation:0 ncitation:0 pid3008204
+title1:A Power Consumption Model for Storage-based Applications. title2:A power consumption model for storage-based applications citation:12 ncitation:4 pid3055254
+title1:Trustworthiness-based Approach to Reliably Make Agreement among Peers in Scalable P2P Group. title2:Trustworthiness-based Approach to Reliably Make Agreement among Peers in Scalable P2P Group citation:0 ncitation:0 pid3055278
+title1:A Quorum-Based Synchronization Protocol. title2:Design and Evaluation of Multimedia Quorum-Based Synchronization Protocols citation:0 ncitation:0 pid3055312
+title1:Improving of EPCLB Algorithm for Reducing the Overhead of a Load Balancer. title2:Improving of EPCLB Algorithm for Reducing the Overhead of a Load Balancer citation:0 ncitation:0 pid3063454
+title1:A multimedia quorum-based (MQB) protocol in P2P overlay networks. title2:A multimedia quorum-based (MQB) protocol in P2P overlay networks citation:0 ncitation:0 pid3125586
+title1:R-MAC: A MAC Protocol for Power Reduction in Wireless Sensor Networks Based on Load Estimation and Its Performance Evaluation. title2:R-MAC: A MAC Protocol for Power Reduction in Wireless Sensor Networks Based on Load Estimation and Its Performance Evaluation citation:0 ncitation:0 pid3184680
+title1:On Exploitation vs Exploration of Solution Space for Grid Scheduling. title2:On Exploitation vs Exploration of Solution Space for Grid Scheduling citation:0 ncitation:-1 pid3188151
+title1:Evaluation of WMN-GA for Different Mutation and Crossover Rates Considering Giant Component parameter. title2:EVALUATION OF WMN-GA FOR DIFFERENT MUTATION AND CROSSOVER RATES CONSIDERING GIANT COMPONENT PARAMETER citation:0 ncitation:-1 pid3188181
+title1:TMPR-scheme for reliably broadcast messages among peer processes. title2:TMPR-scheme for reliably broadcast messages among peer processes citation:0 ncitation:7 pid3188202
+title1:A survey on clustering algorithms for wireless sensor networks. title2:A survey on clustering algorithms for wireless sensor networks citation:43 ncitation:22 pid3188230
+title1:Principle of Virtual Use Method in Common Gateway Interface Program on the DACS Scheme title2:Principle of Virtual Use Method in Common Gateway Interface Program on the DACS Scheme citation:0 ncitation:-1 pid3188232
+title1:Initialization of Masses by the Okm for the Belief Function Theory: Application to System Biology. title2:Initialization of Masses by the Okm for the Belief Function Theory: Application to System Biology citation:0 ncitation:-1 pid3216771
+title1:Concept of Policy-Based Wide Area Network Management System. title2:Concept of Policy-Based Wide Area Network Management System citation:1 ncitation:-1 pid3288032
+title1:Mission Operations Scheduling: Complexity and Resolution Methods. title2:Mission operations scheduling: complexity and resolution methods citation:0 ncitation:-1 pid3302498
+title1:Performance Analysis of DSR and DYMO Routing Protocols for VANETs. title2:Performance analysis of DSR and DYMO routing protocols for VANETs citation:0 ncitation:-1 pid3325438
+title1:Tuning of Operators in Memetic Algorithms for Independent Batch Scheduling in Computational Grids. title2:Tuning of Operators in Memetic Algorithms for Independent Batch Scheduling in Computational Grids citation:0 ncitation:-1 pid3325464
+title1:Experimental Evaluation of a Waste Management Robot System. title2:Experimental Evaluation of a Waste Management Robot System citation:0 ncitation:0 pid3325466
+title1:Performance Evaluation of WSNs for Different MAC Protocols Considering TwoRayGround Radio Model and AODV Routing Protocol. title2:Performance evaluation of WSNs for different MAC protocols considering TwoRayGround radio model and AODV Routing Protocol citation:0 ncitation:-1 pid3325502
+title1:Performance Evaluation of WMN-GA System for Dense Networks Considering Different Distributions. title2:Performance Evaluation of WMN-GA System for Dense Networks Considering Different Distributions citation:0 ncitation:-1 pid3344346
+title1:Theoretical Suggestion of Policy-Based Wide Area Network Management System (wDACS System Part-I). title2:Theoretical Suggestion of Policy-Based Wide Area Network Management System (wDACS System Part-I) citation:1 ncitation:-1 pid3424934
+title1:Ordered Delivery of Messages in Group Communication Protocols. title2:Ordered Delivery of Messages in Group Communication Protocols citation:0 ncitation:0 pid3424986
+title1:Trustworthiness of Peers in P2P Overlay Networks. title2:Trustworthiness of Peers in P2P Overlay Networks citation:0 ncitation:0 pid3425033
+title1:Design and Evaluation of Multimedia Quorum-Based Synchronization Protocols. title2:Design and Evaluation of Multimedia Quorum-Based Synchronization Protocols citation:0 ncitation:0 pid3425217
+title1:An Interface for Simulating Node Placement in Wireless Mesh Networks. title2:An Interface for Simulating Node Placement in Wireless Mesh Networks citation:0 ncitation:-1 pid3465802
+title1:Performance Evaluation of WSNs Considering MAC and Routing Protocols Using Goodput and Delay Metrics. title2:Performance Evaluation of WSNs Considering MAC and Routing Protocols Using Goodput and Delay Metrics citation:0 ncitation:-1 pid3465906
+title1:Group communication protocol for large group. title2:Group communication protocol for large group citation:30 ncitation:29 pid3503789
+title1:Object-based checkpoints in distributed systems. title2:Object-based checkpoints in distributed systems citation:23 ncitation:22 pid3515894
+title1:Visualization of Evolutionary Computation Process for Node Placement in WMNs Considering Weibull and Exponential Distribution of Mesh Clients. title2:Visualization of Evolutionary Computation Process for Node Placement in WMNs Considering Weibull and Exponential Distribution of Mesh Clients citation:0 ncitation:-1 pid3515980
+title1:Process Allocation Algorithms for Saving Power Consumption in Peer-to-Peer Systems. title2:Process allocation algorithms for saving power consumption in peer-to-peer systems citation:38 ncitation:None pid3515989
+title1:Multimedia Quorum-based Synchronization Protocols. title2:Design and Evaluation of Multimedia Quorum-Based Synchronization Protocols citation:0 ncitation:None pid3552143
+title1:Performance of OLSR and DSDV Protocols in a VANET Scenario: Evaluation Using CAVENET and NS3. title2:Performance of OLSR and DSDV Protocols in a VANET Scenario: Evaluation Using CAVENET and NS3 citation:0 ncitation:-1 pid3564250
+title1:Evaluation of multimedia quorum-based synchronization protocols. title2:Design and Evaluation of Multimedia Quorum-Based Synchronization Protocols citation:0 ncitation:None pid3564280

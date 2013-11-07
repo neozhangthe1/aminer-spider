@@ -1,0 +1,585 @@
+title:An Adaptive Dandelion Model for Reconstructing Spherical Terrain-Like Visual Hull Surfaces. citation:-1
+title:Randomized Parallel Scheduling Algorithm for Input Queued Crossbar Switches. citation:-1
+title:Self-calibration Based 3D Information Extraction and Application in Broadcast Soccer Video. citation:-1
+title:The Bunch-Active Shape Model. citation:-1
+title:Static Gesture Quantization and DCT Based Sign Language Generation. citation:-1
+title:Semantic Scoring Based on Small-World Phenomenon for Feature Selection in Text Mining. citation:-1
+title:Robust Collective Classification with Contextual Dependency Network Models. citation:-1
+title:CSLDS: Chinese Sign Language Dialog System. citation:-1
+title:How to Train a Classifier Based on the Huge Face Database? citation:-1
+title:Animating 3D Facial Models with MPEG-4 FaceDefTables. citation:-1
+title:Text-independent Speaker Identification Based on Spectral Weighting Functions. citation:-1
+title:Pose Invariant Face Recognition Under Arbitrary Illumination Based on 3D Face Reconstruction. citation:-1
+title:Face Detection Based on the Manifold. citation:-1
+title:Discriminant Analysis Based on Kernelized Decision Boundary for Face Recognition. citation:-1
+title:Visual Features Extracting & Selecting for Lipreading. citation:-1
+title:Multi-resolution Histograms of Local Variation Patterns (MHLVP) for Robust Face Recognition. citation:-1
+title:Constraint Shape Model Using Edge Constraint and Gabor Wavelet Based Search. citation:-1
+title:Sequence Decomposition Method for Computing a Gröbner Basis and Its Application to Bivariate Spline. citation:-1
+title:A Flexible Stem-Based Local Search Algorithm for Predicting RNA Secondary Structures Including Pseudoknots. citation:-1
+title:An Efficient VLSI Architecture for MC Interpolation in AVC Video Coding. citation:-1
+title:Compunication: From Concept to Practice. citation:-1
+title:Nonlinear Face Recognition Based on Maximum Average Margin Criterion. citation:-1
+title:Matrix-Structural Learning (MSL) of Cascaded Classifier from Enormous Training Set. citation:-1
+title:Classifiability-based Optimal Discriminatory Projection Pursuit. citation:-1
+title:Unified Principal Component Analysis with generalized Covariance Matrix for face recognition. citation:-1
+title:A robust descriptor based on Weber's Law. citation:-1
+title:Morphological Representation of DCT Data for Image Coding. citation:-1
+title:FACOLA - Face Coder Based on Location and Attention. citation:-1
+title:On-Line Sprite Encoding with Large Global Motion Estimation. citation:-1
+title:Bandwidth Adaptive Quality Smoothing for Unequal Error Protected Scalable Video Streaming. citation:-1
+title:Performance Analysis of Dual Frame Motion Compensation. citation:-1
+title:Discovering Sequence Association Rules with User Access Transaction Grammars. citation:-1
+title:Extending DACLIC for Near Lossless Compression with Postprocessing of Greyscale Images. citation:-1
+title:An Enhanced Robust Entropy Coder for Video Codecs Based on Context-Adaptive Reversible VLC. citation:-1
+title:Expand Training Set for Face Detection by GA Re-sampling. citation:-1
+title:Robust Multi-view Face Detection Using Error Correcting Output Codes. citation:-1
+title:Action Recognition in Broadcast Tennis Video Using Optical Flow and Support Vector Machine. citation:-1
+title:Eigen-Harmonics Faces: Face Recognition under Generic Lighting. citation:-1
+title:A SRN/HMM System for Signer-Independent Continuous Sign Language Recognition. citation:-1
+title:A Continuous Chinese Sign Language Recognition System. citation:-1
+title:Illumination transfer using homomorphic wavelet filtering and its application to light-insensitive face recognition. citation:-1
+title:Expanding Training Set for Chinese Sign Language Recognition. citation:-1
+title:Face reconstruction using fixation positions and foveated imaging. citation:-1
+title:Recovering 3D facial shape via coupled 2D/3D space learning. citation:-1
+title:Hierarchical Ensemble of Gabor Fisher Classifier for Face Recognition. citation:-1
+title:The Recognition of Finger-Spelling for Chinese Sign Language. citation:-1
+title:A Reconfigurable High Availability Infrastructure in Cluster for Grid. citation:-1
+title:Discriminant analysis for perceptionally comparable classes. citation:-1
+title:Design sparse features for age estimation using hierarchical face model. citation:-1
+title:A Real-Time Large Vocabulary Recognition System for Chinese Sign Language. citation:-1
+title:A Comparison Between Etymon- and Word-Based Chinese Sign Language Recognition Systems. citation:-1
+title:Re-sampling for Chinese Sign Language Recognition. citation:-1
+title:Signer-Independent Continuous Sign Language Recognition Based on SRN/HMM. citation:-1
+title:The Application of Extended Geodesic Distance in Head Poses Estimation. citation:-1
+title:Performance Characterisation of Face Recognition Algorithms and Their Sensitivity to Severe Illumination Changes. citation:-1
+title:Visual Sign Language Recognition Based on HMMs and Auto-regressive HMMs. citation:-1
+title:Generating Data for Signer Adaptation. citation:-1
+title:A Cache-Based Distributed Terabyte Text Retrieval System in CADAL. citation:-1
+title:Pose Estimation Based on Gaussian Error Models. citation:-1
+title:FaceTracker: A Human Face Tracking and Facial Organ Localizing System. citation:-1
+title:Minimizing the Distortion Spatial Data Hiding Based on Equivalence Class. citation:-1
+title:Inter-frame Differential Energy Video Watermarking Algorithm Based on Compressed Domain. citation:-1
+title:A Lattice Based General Blind Watermark Scheme. citation:-1
+title:A system for automatic Chinese seal imprint verification. citation:-1
+title:Fast Moving Region Detection Scheme in Ad Hoc Sensor Network. citation:-1
+title:Individual 3D Face Synthesis Based on Orthogonal Photos and Speech-Driven Facial Animation. citation:-1
+title:High efficient sprite coding with directional spatial prediction. citation:-1
+title:The improved SP frame coding technique for the JVT standard. citation:-1
+title:A novel compressed domain shot segmentation algorithm on H.264/AVC. citation:-1
+title:New scaling technique for direct mode coding in B pictures. citation:-1
+title:Sprite generation for frame-based video coding. citation:-1
+title:An active volumetric model for 3D reconstruction. citation:-1
+title:Improving particle filter with support vector regression for efficient visual tracking. citation:-1
+title:Mode mapping method for h.264/avc spatial downscaling transcoding. citation:-1
+title:Video indexing by motion activity maps. citation:-1
+title:Automatic text segmentation from complex background. citation:-1
+title:Macroblock-based progressive fine granularity scalable (PFGS) video coding with flexible temporal-SNR scalablilities. citation:-1
+title:A novel pupil localization method based on gaboreye model and radial symmetry operator. citation:-1
+title:Practical Wyner-Ziv Switching Scheme for Multiple Bit-Rate Video Streaming. citation:-1
+title:Visual Hull Embossment by Graph Cuts. citation:-1
+title:Viewpoint invariant sign language recognition. citation:-1
+title:An Efficient FGS Coding Scheme for Interlaced Scalable Video Coding. citation:-1
+title:Extended direct mode for hierarchical B picture coding. citation:-1
+title:Image matching based on a local invariant descriptor. citation:-1
+title:Motion vector prediction in multiview video coding. citation:-1
+title:Object Recognition Based on Dependent Pachinko Allocation Model. citation:-1
+title:Monocular Tracking 3D People By Gaussian Process Spatio-Temporal Variable Model. citation:-1
+title:A Novel Error Concealment Method for Stereoscopic Video Coding. citation:-1
+title:Software Pipelines Design for Variable Block-Size Motion Estimation with Large Search Range. citation:-1
+title:Mean-Shift Blob Tracking with Adaptive Feature Selection and Scale Adaptation. citation:-1
+title:A Fast Inter Frame Prediction Algorithm for Multi-View Video Coding. citation:-1
+title:Wyner-Ziv Video Coding Based on Set Partitioning in Hierarchical Tree. citation:-1
+title:Adaptive Block-Size Transform Based on Extended Integer 8×8/4×4 Transforms for H.264/AVC. citation:-1
+title:New bi-prediction techniques for B pictures coding. citation:-1
+title:Fast and effective text detection. citation:-1
+title:Multi-polarity text segmentation using graph theory. citation:-1
+title:Object tracking using incremental 2D-LDA learning and Bayes inference. citation:-1
+title:Pedestrian detection via logistic multiple instance boosting. citation:-1
+title:Shot classification for action movies based on motion characteristics. citation:-1
+title:People re-detection using Adaboost with sift and color correlogram. citation:-1
+title:DSP Implementation of Deblocking Filter for AVS. citation:-1
+title:Motion Aligned Spatial Scalable Video Coding. citation:-1
+title:Complexity-Distortion Optimized Motion Estimation Algorithm with Fine-Granular Scalable Complexity. citation:-1
+title:An Optimal Non-Uniform Scalar Quantizer for Distributed Video Coding. citation:-1
+title:A Fast Intra Mode Decision Algorithm for AVS to H.264 Transcoding. citation:-1
+title:Low-Complexity Adaptive Block-Size Transform Based on Extended Transforms. citation:-1
+title:Performance-Complexity Analysis of High Resolution Video Encoder and its Memory Organization for DSP Implementation. citation:-1
+title:Automatic Multi-Player Detection and Tracking in Broadcast Sports Video using Support Vector Machine and Particle Filter. citation:-1
+title:Macroblock-Based Progressive Fine Granularity Scalable Video Coding. citation:-1
+title:Secure watermark verification scheme. citation:-1
+title:Context-based 2D-VLC for video coding. citation:-1
+title:Improved error concealment algorithms based on H.264/AVC non-normative decoder. citation:-1
+title:Sign Language Recognition from Homography. citation:-1
+title:Multiple modes intra-prediction in intra coding. citation:-1
+title:An Adaptive De-Interlacing Algorithm Based on Texture and Motion Vector Analysis. citation:-1
+title:An Edge-Based Median Filtering Algorithm with Consideration of Motion Vector Reliability for Adaptive Video Deinterlacing. citation:-1
+title:The Demo: A Real-Time Score Detection and Recognition Approach in Broadcast Basketball Sports Video. citation:-1
+title:Highlight Ranking for Racquet Sports Video in User Attention Subspaces Based on Relevance Feedback. citation:-1
+title:An Effective Local Invariant Descriptor Combining Luminance and Color Information. citation:-1
+title:Mining Information of Attack-Defense Status from Soccer Video Based on Scene Analysis. citation:-1
+title:Adaptive Spatial and Transform Domain FGS Coding. citation:-1
+title:Mahalanobis distance based Polynomial Segment Model for Chinese Sign Language Recogniton. citation:-1
+title:Affective MTV analysis based on arousal and valence features. citation:-1
+title:Coarse-to-fine video text detection. citation:-1
+title:An Effective Mode Decision Scheme in Macroblock-Based PFGS. citation:-1
+title:A System for Automatic Generation of Music Sports-Video. citation:-1
+title:Hybrid Algorithm with Adaptive Complexity for Integer Pel Motion Estimation of H.264. citation:-1
+title:3D Haar-Like Features for Pedestrian Detection. citation:-1
+title:Statistical Analysis and Modeling of Rate-Distortion Function in SVC Fine-Granular SNR Scalable Videos. citation:-1
+title:Direct Mode Coding for B Pictures using Virtual Reference Picture. citation:-1
+title:Spatial Video Watermarking Based on Stability of DC Coefficients. citation:-1
+title:Combining Skin Color Model and Neural Network for Rotation Invariant Face Detection. citation:-1
+title:A vision-based sign language recognition system using tied-mixture density HMM. citation:-1
+title:Modification of the AdaBoost-based Detector for Partially Occluded Faces. citation:-1
+title:Resampling for Face Detection by Self-Adaptive Genetic Algorithm. citation:-1
+title:AppManager: A Powerful Service-Based Application Management System for Clusters. citation:-1
+title:Scheduling Algorithms for Input Queued Switches Using Local Search Technique. citation:-1
+title:Animating Arbitrary Topology 3D Facial Model Using the MPEG-4 FaceDefTables. citation:-1
+title:Large vocabulary sign language recognition based on hierarchical decision trees. citation:-1
+title:A Fast Sign Word Recognition Method for Chinese Sign Language. citation:-1
+title:A Multimodal Dialog System Using Sign Language and 3-D Virtual Human. citation:-1
+title:An Approach to Robust and Fast Locating Lip Motion. citation:-1
+title:Gravity-Center Template Based Human Face Feature Detection. citation:-1
+title:A Parallel Multistream Model for Integration of Sign Language Recognition and Lip Motion. citation:-1
+title:Face Recognition under Varying Lighting Based on the Probabilistic Model of Gabor Phase. citation:-1
+title:Unsupervised Texture Classification: Automatically Discover and Classify Texture Patterns. citation:-1
+title:Patch-Based Gabor Fisher Classifier for Face Recognition. citation:-1
+title:Enhancing Training Set for Face Detection. citation:-1
+title:A Riemannian Weighted Filter for Edge-sensitive Image Smoothing. citation:-1
+title:A Novel Approach to Automatically Extracting Basic Units from Chinese Sign Language. citation:-1
+title:Bagging Based Efficient Kernel Fisher Discriminant Analysis for Face Recognition. citation:-1
+title:Isomap Based on the Image Euclidean Distance. citation:-1
+title:Support Vector Machines for Face Recognition with Two-layer Generated Virtual Data. citation:-1
+title:Local Visual Primitives (LVP) for Face Modelling and Recognition. citation:-1
+title:Nonparametric Background Generation. citation:-1
+title:A Novel Volumetric Shape from Silhouette Algorithm Based on a Centripetal Pentahedron Model. citation:-1
+title:Effective scene matching with local feature representatives. citation:-1
+title:Hallucinating facial images and features. citation:-1
+title:Parzen Discriminant Analysis. citation:-1
+title:Human reappearance detection based on on-line learning. citation:-1
+title:V-LGBP: Volume based local Gabor binary patterns for face representation and recognition. citation:-1
+title:Hierarchical background subtraction using local pixel clustering. citation:-1
+title:Matching images more efficiently with local descriptors. citation:-1
+title:A Robust Split-and-Merge Text Segmentation Approach for Images. citation:-1
+title:Semantic Object Segmentation by a Spatio-Temporal MRF Model. citation:-1
+title:A covariance-based method for dynamic background subtraction. citation:-1
+title:Action Recognition in Broadcast Tennis Video. citation:-1
+title:Robust Frontal Face Detection in Complex Environment. citation:-1
+title:A Verification Method for Viewpoint Invariant Sign Language Recognition. citation:-1
+title:Information Fusion in Face Identification. citation:-1
+title:Recognition of Strong and Weak Connection Models in Continuous Sign Language. citation:-1
+title:Linear transform based motion compensated prediction for luminance intensity changes. citation:-1
+title:A regularized simultaneous autoregressive model for texture classification. citation:-1
+title:VBMAR: Virtual Network Load Balanced Minimal Adaptive Routing. citation:-1
+title:A proactive fault-detection mechanism in large-scale cluster systems. citation:-1
+title:Objectionable Image Recognition System in Compression Domain. citation:-1
+title:Learning and Memory of Spatial Relationship by a Neural Network with Sparse Features. citation:-1
+title:A Visual Perceiving and Eyeball-Motion Controlling Neural Network for Object Searching and Locating. citation:-1
+title:Visual context representation using a combination of feature-driven and object-driven mechanisms. citation:-1
+title:Context-Based Classification for Link Data. citation:-1
+title:Illumination Invariant Shot Boundary Detection. citation:-1
+title:News Content Highlight via Fast Caption Text Detection on Compressed Video. citation:-1
+title:Viewpoint switching in multiview video streaming. citation:-1
+title:Shot change detection on H.264/AVC compressed video. citation:-1
+title:Distributed video coding using wavelet. citation:-1
+title:An efficient SNR scalability coding framework hybrid open-close loop FGS coding. citation:-1
+title:Accurately weighting subbands in temporal wavelet transform. citation:-1
+title:Rate Control for Hierarchical B-picture Coding with Scaling-factors. citation:-1
+title:Context-based Arithmetic Coding Reexamined for DCT Video Compression. citation:-1
+title:Macroblock-level Reduced Resolution Video Coding Allowing Adaptive DCT Coefficients Selection. citation:-1
+title:Distributed Video Coding with Spatial Correlation Exploited Only at the Decoder. citation:-1
+title:Macroblock-Level Adaptive Scan Scheme for Discrete Cosine Transform Coefficients. citation:-1
+title:High-Accuracy and Low-Complexity Fixed-Point Inverse Discrete Cosine Transform Based on AAN's Fast Algortihm. citation:-1
+title:A robust watermarking method based on wavelet and Zernike transform. citation:-1
+title:Automatic moving object extraction in MPEG video. citation:-1
+title:Toward a distributed terabyte text retrieval system in China-US million book digital library. citation:-1
+title:Quantitatively evaluating the influence of online social interactions in the community-assisted digital library. citation:-1
+title:An Efficient VLSI Implementation of MC Interpolation for MPEG-4. citation:-1
+title:Enhance ASMs Based on AdaBoost-Based Salient Landmarks Localization and Confidence-Constraint Shape Modeling. citation:-1
+title:Steganalysis of Data Hiding Techniques in Wavelet Domain. citation:-1
+title:Enhanced Active Shape Models with Global Texture Constraints for Image Analysis. citation:-1
+title:Searching Eye Centers Using a Context-Based Neural Network. citation:-1
+title:Intelligent Protein 3D Structure Retrieval System. citation:-1
+title:An efficient VLSI architecture for rate disdortion optimization in AVS video encoder. citation:-1
+title:A novel algorithm of spatial scalability for scrambled video. citation:-1
+title:Low complexity RDO mode decision based on a fast coding-bits estimation model for H.264/AVC. citation:-1
+title:Open Issues on Intelligent Sensor Networks. citation:-1
+title:A New Multiple Kernel Approach for Visual Concept Learning. citation:-1
+title:Semi-supervised Learning of Caricature Pattern from Manifold Regularization. citation:-1
+title:An Efficient VLSI Implementation for MC Interpolation of AVS Standard. citation:-1
+title:Face Samples Re-lighting for Detection Based on the Harmonic Images. citation:-1
+title:Correlation Learning Method Based on Image Internal Semantic Model for CBIR. citation:-1
+title:A Real-Time Video Deinterlacing Scheme for MPEG-2 to AVS Transcoding. citation:-1
+title:Reducing Spatial Resolution for MPEG-2 to H.264/AVC Transcoding. citation:-1
+title:Fusion of Biometrics Based on D-S Theory. citation:-1
+title:Speech Driven MPEG-4 Based Face Animation via Neural Network. citation:-1
+title:A Robust Approach for Object Recognition. citation:-1
+title:A Broadcast Model for Web Image Annotation. citation:-1
+title:Adaptive Deinterlacing for Real-Time Applications. citation:-1
+title:Mouth-Shape Classification and Recognition for Lipreading. citation:-1
+title:Learning Prosodic Patterns for Mandarin Speech Synthesis. citation:-1
+title:System Identification for Nonlinear Control Using Lifted Wavelet. citation:-1
+title:Exciting event detection in broadcast soccer video with mid-level description and incremental learning. citation:-1
+title:Hierarchical voting classification scheme for improving visual sign language recognition. citation:-1
+title:A new method to segment playfield and its applications in match analysis in sports video. citation:-1
+title:Player action recognition in broadcast tennis video with applications to semantic analysis of sports game. citation:-1
+title:Mapping learning in eigenspace for harmonious caricature generation. citation:-1
+title:i.MTV: an integrated system for mtv affective analysis. citation:-1
+title:Approximating Inference on Complex Motion Models Using Multi-model Particle Filter. citation:-1
+title:High Efficient Context-Based Variable Length Coding with Parallel Orientation. citation:-1
+title:Key Techniques of Bit Rate Reduction for H.264 Streams. citation:-1
+title:Vision-Based Sign Language Recognition Using Sign-Wise Tied Mixture HMM. citation:-1
+title:Optimum End-to-End Distortion Estimation for Error Resilient Video Coding. citation:-1
+title:Adaptive Search Range Scaling for B Pictures Coding. citation:-1
+title:LLEC: An Image Coder with Low-Complexity and Low-Memory Requirement. citation:-1
+title:Video Coding by Texture Analysis and Synthesis Using Graph Cut. citation:-1
+title:A Motion Vector Predictor Architecture for AVS and MPEG-2 HDTV Decoder. citation:-1
+title:Fast Adaptive Skin Detection in JPEG Images. citation:-1
+title:Text Segmentation in Complex Background Based on Color and Scale Information of Character Strokes. citation:-1
+title:Secure Watermark Verification Scheme. citation:-1
+title:A Novel Pipeline Design for H.264 CABAC Decoding. citation:-1
+title:Personalized MTV Affective Analysis Using User Profile. citation:-1
+title:A No-Reference Blocking Artifacts Metric Using Selective Gradient and Plainness Measures. citation:-1
+title:Signer Adaptation Based on Etyma for Large Vocabulary Chinese Sign Language Recognition. citation:-1
+title:A Scheme for Ball Detection and Tracking in Broadcast Soccer Video. citation:-1
+title:Classification of Facial Images Using Gaussian Mixture Models. citation:-1
+title:Creative Cartoon Face Synthesis System for Mobile Entertainment. citation:-1
+title:Illumination Invariant Feature Selection for Face Recognition. citation:-1
+title:An Improved Motion Vector Prediction Scheme for Video Coding. citation:-1
+title:Fast and Robust Sprite Generation for MPEG-4 Video Coding. citation:-1
+title:A Framework for Background Detection in Video. citation:-1
+title:A Face-Unlock Screen Saver by Using Face Verification Based on Identity-Specific Subspaces. citation:-1
+title:Automatic Segmentation of News Items Based on Video and Audio Features. citation:-1
+title:A Fast Anchor Shot Detection Algorithm on Compressed Video. citation:-1
+title:An Index Model for MPEG-2 Streams. citation:-1
+title:A Real-Time Large Vocabulary Continuous Recognition System for Chinese Sign Language. citation:-1
+title:Flexible and Efficient Switching Techniques between Scalable Video Bitstreams. citation:-1
+title:Mapping Energy Video Watermarking Algorithm Based on Compressed Domain. citation:-1
+title:Adaptive Online Retail Web Site Based on Hidden Markov Model. citation:-1
+title:A Fast Globally Supervised Learning Algorithm for Gaussian Mixture Models. citation:-1
+title:Steganalysis of Images Created in Wavelet Domain Using Quantization Modulation. citation:-1
+title:A Rich Get Richer Strategy for Content-Based Image Retrieval. citation:-1
+title:Real-time scheduling and online resource allocation on scalable streaming media server. citation:-1
+title:An Overview of Streaming Video. citation:-1
+title:Face Recognition Under Varying Lighting Based on Derivates of Log Image. citation:-1
+title:Novel Face Detection Method Based on Gabor Features. citation:-1
+title:Challenges on Peer-to-Peer Live Media Streaming. citation:-1
+title:FBSA: A Self-adjustable Multi-source Data Scheduling Algorithm for P2P Media Streaming. citation:-1
+title:Parallelized scheduling algorithm for input queued switches using local search technique. citation:-1
+title:Motion Retargeting for the Hand Gesture. citation:-1
+title:Two-Phase Web Site Classification Based on Hidden Markov Tree Models. citation:-1
+title:An Ontology-based Approach to Retrieve Digitized Art Images. citation:-1
+title:IISM: An Image Internal Semantic Model for Image Database Based on Relevance Feedback. citation:-1
+title:Web Clustering and Association Rule Discovery for Web Broadcast. citation:-1
+title:Theoretic Analysis of Inter Frame Dependency in Video Coding. citation:-1
+title:NCPN: A Simulation Tool for Coloured Petri Nets. citation:-1
+title:Learning-Based Image Restoration for Compressed Image through Neighboring Embedding. citation:-1
+title:AAML Based Avatar Animation with Personalized Expression for Online Chatting System. citation:-1
+title:An End-to-End Application System of AVS: AVS-IPTV in China. citation:-1
+title:Detecting Violent Scenes in Movies by Auditory and Visual Cues. citation:-1
+title:Laplacian Distortion Model (LDM) for Rate Control in Video Coding. citation:-1
+title:Component-Based Cascade Linear Discriminant Analysis for Face Recognition. citation:-1
+title:Pose Normalization Using Generic 3D Face Model as a Priori for Pose-Insensitive Face Recognition. citation:-1
+title:Smooth switching problem in buffered crossbar switches. citation:-1
+title:Mining Tandem Mass Spectral Data to Develop a More Accurate Mass Error Model for Peptide Identification. citation:-1
+title:A Kernel-Based Case Retrieval Algorithm with Application to Bioinformatics. citation:-1
+title:An SVM Scorer for More Sensitive and Reliable Peptide Identification via Tandem Mass Spectrometry. citation:-1
+title:Face recognition under generic illumination based on harmonic relighting. citation:-1
+title:A System for Human Face and Facial Feature Location. citation:-1
+title:Spatial relationship representation for visual object searching. citation:-1
+title:Local Gabor Binary Patterns Based on Mutual Information for Face Recognition. citation:-1
+title:Incorporating Linguistic Structure into Maximum Entropy Language Models. citation:-1
+title:Visual Ontology Construction for Digitized Art Image Retrieval. citation:-1
+title:Extracting 3D information from broadcast soccer video. citation:-1
+title:An Admission Control Scheme for End-to-End Statistical QoS Provision in IP Networks. citation:-1
+title:Unsupervised texture classification: Automatically discover and classify texture patterns. citation:-1
+title:An Optimized Topology Maintenance Framework for P2P Media Streaming. citation:-1
+title:QoS Adaptive Data Organizing and Delivery Framework for P2P Media Streaming. citation:-1
+title:Practical Algorithms of Bandwidth Regulation for Rate-Based Switching. citation:-1
+title:Shape from silhouette outlines using an adaptive dandelion model. citation:-1
+title:Viewpoint invariant sign language recognition. citation:-1
+title:A framework for flexible summarization of racquet sports video using multiple modalities. citation:-1
+title:A Dynamic Recommendation System Based on Log Mining. citation:-1
+title:pFind: a novel database-searching software system for automated peptide and protein identification via tandem mass spectrometry. citation:-1
+title:IndexToolkit: an open source toolbox to index protein databases for high-throughput proteomics. citation:-1
+title:FlexStem: improving predictions of RNA secondary structures with pseudoknots by reducing the search space. citation:-1
+title:Drift-free switching of compressed video bitstreams at predictive frames. citation:-1
+title:Low-complexity and low-memory entropy coder for image compression. citation:-1
+title:Statistical model, analysis and approximation of rate-distortion function in MPEG-4 FGS videos. citation:-1
+title:Morphological representation of DCT coefficients for image compression. citation:-1
+title:Block-Wise Adaptive Motion Accuracy Based B-Picture Coding With Low-Complexity Motion Compensation. citation:-1
+title:Robust real-time transmission of scalable multimedia for heterogeneous client bandwidths. citation:-1
+title:Real-time scheduling based on imprecise computation for scalable streaming media system over the Internet. citation:-1
+title:Learning and synthesizing MPEG-4 compatible 3-D face animation from video sequence. citation:-1
+title:Efficient background video coding with static sprite generation and arbitrary-shape spatial prediction techniques. citation:-1
+title:A block-based support vector machine approach to the protein homology prediction task in KDD Cup 2004. citation:-1
+title:Predicting Molecular Formulas of Fragment Ions with Isotope Patterns in Tandem Mass Spectra. citation:-1
+title:Contour-motion feature (CMF): A space-time approach for robust pedestrian detection. citation:-1
+title:Synthetic data generation technique in Signer-independent sign language recognition. citation:-1
+title:An effective method to detect and categorize digitized traditional Chinese paintings. citation:-1
+title:Context-Based 2D-VLC Entropy Coder in AVS Video Coding Standard. citation:-1
+title:Low Complexity Integer Transform and Adaptive Quantization Optimization. citation:-1
+title:Study on Translating Chinese into Chinese Sign Language. citation:-1
+title:Effective algorithms for fast transcoding of AVS to H.264/AVC in the spatial domain. citation:-1
+title:Latent linkage semantic kernels for collective classification of link data. citation:-1
+title:Learning Prosodic Patterns for Mandarin Speech Synthesis. citation:-1
+title:On Rate-Distortion Modeling and Extraction of H.264/SVC Fine-Granular Scalable Video. citation:-1
+title:Large-Scale Cross-Media Retrieval of WikipediaMM Images with Textual and Visual Query Expansion. citation:-1
+title:Efficient discovery of abundant post-translational modifications and spectral pairs using peptide mass and retention time differences. citation:-1
+title:Shape from silhouettes based on a centripetal pentahedron model. citation:-1
+title:Optimization of a training set for more robust face detection. citation:-1
+title:Novel Secure Communication Protocol for Conditional Access System. citation:-1
+title:Elliptic Curve Cryptography Based Wireless Authentication Protocol. citation:-1
+title:Face Misalignment Problem. citation:-1
+title:Nonparametric background generation. citation:-1
+title:Adaptive relevance feedback based on Bayesian inference for image retrieval. citation:-1
+title:Two-phase Web site classification based on Hidden Markov Tree models. citation:-1
+title:Security on Aydos et al's Elliptic Curve Cryptography Based Wireless Authentication Protocol. citation:-1
+title:A High Efficient Architecture for Motion Estimation Based on AVC/AVS Coding Standard. citation:-1
+title:Compression-Induced Rendering Distortion Analysis for Texture/Depth Rate Allocation in 3D Video Compression. citation:-1
+title:Constructing visual phrases for effective and efficient object-based image retrieval. citation:-1
+title:Enhancing Human Face Detection by Resampling Examples Through Manifolds. citation:-1
+title:Real-time smoothing for network adaptive video streaming. citation:-1
+title:Head Yaw Estimation From Asymmetry of Facial Appearance. citation:-1
+title:FGS Coding Using Cycle-Based Leaky Prediction Through Multiple Leaky Factors. citation:-1
+title:Learning Contextual Dependency Network Models for Link-Based Classification. citation:-1
+title:Learned local Gabor patterns for face representation and recognition. citation:-1
+title:Semi-Supervised Learning in Reconstructed Manifold Space for 3D Caricature Generation. citation:-1
+title:2D to 3D convertion based on edge defocus and segmentation. citation:-1
+title:Visual-aural attention modeling for talk show video highlight detection. citation:-1
+title:Block Adaptive Super Resolution Video Coding. citation:-1
+title:A Novel Macro-Block Group Based AVS Coding Scheme for Many-Core Processor. citation:-1
+title:Nonlocal Edge-Directed Interpolation. citation:-1
+title:A Biologically Inspired Energy-Aware Routing Algorithm for Communications in Cyberworlds. citation:-1
+title:Sigma Set: A small second order statistical region descriptor. citation:-1
+title:Maximizing intra-individual correlations for face recognition across pose differences. citation:-1
+title:Granularity-tunable gradients partition (GGP) descriptors for human detection. citation:-1
+title:Performance Evaluation, Overview. citation:-1
+title:Auto Regressive Model and Weighted Least Squares Based Packet Video Error Concealment. citation:-1
+title:Fea-Accu cascade for face detection. citation:-1
+title:Utilizing affective analysis for efficient movie browsing. citation:-1
+title:A no-reference perceptual blur metric using histogram of gradient profile sharpness. citation:-1
+title:Joint learning for side information and correlation model based on linear regression model in distributed video coding. citation:-1
+title:A hybrid text segmentation approach. citation:-1
+title:Multiple kernel active learning for image classification. citation:-1
+title:Linking video ADS with product or service information by web search. citation:-1
+title:VLSI friendly me search window buffer structure optimization and algorithm verification for high definition H.264/AVS video encoder. citation:-1
+title:Video retargeting with multi-scale trajectory optimization. citation:-1
+title:Proceedings of the 17th International Conference on Multimedia 2009, Vancouver, British Columbia, Canada, October 19-24, 2009 citation:-1
+title:Low-Complexity and Sampling-Aided Multi-view Video Coding at Low Bitrate. citation:-1
+title:Fast Mode Decision Based on RDO for AVS High Definition Video Encoder. citation:-1
+title:Robust video fingerprinting based on visual attention regions. citation:-1
+title:Vlogging: A survey of videoblogging technology on the web. citation:-1
+title:Pornographic Image Detection Based on Multilevel Representation. citation:-1
+title:RD-optimized interactive streaming of multiview video with multiple encodings. citation:-1
+title:Towards semantic embedding in visual vocabulary. citation:-1
+title:Adaptive generic learning for face recognition from a single sample per person. citation:-1
+title:Novel observation model for probabilistic object tracking. citation:-1
+title:Visual tracking via weakly supervised learning from multiple imperfect oracles. citation:-1
+title:Spatial-Temporal Granularity-Tunable Gradients Partition (STGGP) Descriptors for Human Detection. citation:-1
+title:Lighting Aware Preprocessing for Face Recognition across Varying Illumination. citation:-1
+title:A steganography strategy based on equivalence partitions of hiding units. citation:-1
+title:Interactive viewpoint-space navigation for visual-audio exhibition of painting. citation:-1
+title:Fast weighted algorithms for bitstream extraction of SVC Medium-Grain scalable video coding. citation:-1
+title:Boosted Sigma Set for Pedestrian Detection. citation:-1
+title:Finding Multiple Object Instances with Occlusion. citation:-1
+title:Interactive Web Video Advertising with Context Analysis and Search. citation:-1
+title:Vicept: link visual features to concepts for large-scale image understanding. citation:-1
+title:Rate-distortion optimized transform for intra-frame coding. citation:-1
+title:Context-adaptive pixel based prediction for intra frame encoding. citation:-1
+title:Building pair-wise visual word tree for efficent image re-ranking. citation:-1
+title:Probabilistic Multi-Task Learning for Visual Saliency Estimation in Video. citation:-1
+title:Variable-Bin-Rate CABAC Engine for H.264/AVC High Definition Real-Time Decoding. citation:-1
+title:A joint encoder-decoder error control framework for stereoscopic video coding. citation:-1
+title:Error-resistance and Low-complexity Integer Inverse Discrete Cosine Transform. citation:-1
+title:Salient object extraction for user-targeted video content association. citation:-1
+title:Skin Color Weighted Disparity Competition for Hand Segmentation from Stereo Camera. citation:-1
+title:Manifold Alignment via Corresponding Projections. citation:-1
+title:Position dependent linear intra prediction for image coding. citation:-1
+title:An interactive method for curve extraction. citation:-1
+title:A practical algorithm for tanner graph based image interpolation. citation:-1
+title:A single-pass based adaptive interpolation filtering algorithm for video coding. citation:-1
+title:Gray-scale super-resolution for face recognition from low Gray-scale resolution face images. citation:-1
+title:Maximizing intra-individual correlations for illumination-insensitive face recognition. citation:-1
+title:Proceedings of the 12th International Conference on Multimodal Interfaces / 7. International Workshop on Machine Learning for Multimodal Interaction, ICMI-MLMI 2010, Beijing, China, November 8-12, 2010 citation:-1
+title:Grid-Based Retargeting with Transformation Consistency Smoothing. citation:-1
+title:Mediaprinting: Identifying Multimedia Content for Digital Rights Management. citation:-1
+title:A Spatio-Temporal Auto Regressive Model for Frame Rate Upconversion. citation:-1
+title:Concealment of Whole-Picture Loss in Hierarchical B-Picture Scalable Video Coding. citation:-1
+title:Event Tactic Analysis Based on Broadcast Sports Video. citation:-1
+title:Affective Visualization and Retrieval for Music Video. citation:-1
+title:Semi-Supervised Discriminant Analysis via Spectral Transduction. citation:-1
+title:Multiple Fisher Classifiers Combination for Face Recognition based on Grouping AdaBoosted Gabor Features. citation:-1
+title:Automatic video genre categorization and event detection techniques on large-scale sports data. citation:-1
+title:Transductive Regression with Local and Global Consistency for Image Super-Resolution. citation:-1
+title:Adaptive discriminant analysis for face recognition from single sample per person. citation:-1
+title:Efficient macroblock pipeline structure in high definition AVS video encoder VLSI architecture. citation:-1
+title:Modeling Correlation Noise Statistics at Decoder for Multi-view Distributed Video Coding. citation:-1
+title:A Proposed AVS Decoder Configuration in the Reconfigurable Video Coding Framework. citation:-1
+title:An Efficient Coding Method for Intra Prediction Mode Information. citation:-1
+title:Query-Adaptive Ranking with Support Vector Machines for Protein Homology Prediction. citation:-1
+title:Towards robust lipreading. citation:-1
+title:A new approach for modeling OOV words. citation:-1
+title:A parallel multi-stream model for sign language recognition. citation:-1
+title:Robust speaker recognition based on high order cumulant. citation:-1
+title:Modeling spatial and semantic cues for large-scale near-duplicated image retrieval. citation:-1
+title:Mining Layered Grammar Rules for Action Recognition. citation:-1
+title:The supervised learning Gaussian mixture model. citation:-1
+title:A stochastic approach for blurred image restoration and optical flow computation on field image sequence. citation:-1
+title:A Hardware-Efficient Multi-Resolution Block Matching Algorithm and its VLSI Architecture for High Definition MPEG-Like Video Encoders. citation:-1
+title:Novel Statistical Modeling, Analysis and Implementation of Rate-Distortion Estimation for H.264/AVC Coders. citation:-1
+title:Corrections to "A Spatio-Temporal Auto Regressive Model for Frame Rate Up-Conversion" [Sep 09 1289-1301]. citation:-1
+title:Dual Frame Motion Compensation With Optimal Long-Term Reference Frame Selection and Bit Allocation. citation:-1
+title:Deinterlacing Using Hierarchical Motion Analysis. citation:-1
+title:Multi-Task Rank Learning for Visual Saliency Estimation. citation:-1
+title:High-Resolution Face Fusion for Gender Conversion. citation:-1
+title:No-reference perceptual image quality metric using gradient profiles for JPEG2000. citation:-1
+title:Reconfigurable video coding framework and decoder reconfiguration instantiation of AVS. citation:-1
+title:A secure media streaming mechanism combining encryption, authentication, and transcoding. citation:-1
+title:Special issue on AVS and its applications: Guest editorial. citation:-1
+title:An efficient VLSI architecture for CBAC of AVS HDTV decoder. citation:-1
+title:B-picture coding in AVS video compression standard. citation:-1
+title:MOCC: A Fast and Robust Correlation-Based Method for Interest Point Matching under Large Scale Changes. citation:-1
+title:Spatial-Aided Low-Delay Wyner-Ziv Video Coding. citation:-1
+title:Top-Down Gaze Movement Control in Target Search Using Population Cell Coding of Visual Context. citation:-1
+title:Novel intra prediction via position-dependent filtering. citation:-1
+title:A Progressive Quality Hiding Strategy Based on Equivalence Partitions of Hiding Units. citation:-1
+title:Image Interpolation Via Regularized Local Linear Regression. citation:-1
+title:Interpolation-Dependent Image Downsampling. citation:-1
+title:A Novel Macro-Block Group Based AVS Coding Scheme for Many-Core Processor. citation:-1
+title:Witsenhausen-Wyner Video Coding. citation:-1
+title:A Low-Cost Very Large Scale Integration Architecture for Multistandard Inverse Transform. citation:-1
+title:Cross-pose face recognition based on partial least squares. citation:-1
+title:A lowbit rate vocabulary coding scheme for mobile landmark search. citation:-1
+title:Sorting local descriptors for lowbit rate mobile visual search. citation:-1
+title:Rate-SSIM optimization for video coding. citation:-1
+title:Auto-regressive model based error concealment scheme for stereoscopic video coding. citation:-1
+title:When codeword frequency meets geographical location. citation:-1
+title:Learning Compact Visual Descriptor for Low Bit Rate Mobile Landmark Search. citation:-1
+title:Saliency Detection Based on Scale Selectivity of Human Visual System. citation:-1
+title:Instantly telling what happens in a video sequence using simple features. citation:-1
+title:Fast disparity estimation utilizing depth information for multiview video coding. citation:-1
+title:Enhanced line-based intra prediction with fixed interpolation filtering. citation:-1
+title:Side information extrapolation with temporal and spatial consistency. citation:-1
+title:Stereoscopic learning for disparity estimation. citation:-1
+title:A visual search system based on multi-scale population cell coding. citation:-1
+title:Shape-Based Depth Map Coding. citation:-1
+title:A Real-Time Video Watermarking Using Adjacent Luminance Blocks Correlation Based on Compressed Domain. citation:-1
+title:Diversity combining for DS/SS systems with time-varying, correlated fading branches. citation:-1
+title:Chip waveform design for DS/SSMA systems with aperiodic random spreading sequences. citation:-1
+title:Side information generation with auto regressive model for low-delay distributed video coding. citation:-1
+title:Classifiability-Based Discriminatory Projection Pursuit. citation:-1
+title:Learning-based image restoration for compressed images. citation:-1
+title:A Single-Pass-Based Localized Adaptive Interpolation Filter for Video Coding. citation:-1
+title:Video Coding With Rate-Distortion Optimized Transform. citation:-1
+title:Packet Video Error Concealment With Auto Regressive Model. citation:-1
+title:Location Discriminative Vocabulary Coding for Mobile Landmark Search. citation:-1
+title:Face recognition based on non-corresponding region matching. citation:-1
+title:SSIM-inspired divisive normalization for perceptual video coding. citation:-1
+title:Generating vocabulary for global feature representation towards commerce image retrieval. citation:-1
+title:Learning the trip suggestion from landmark photos on the web. citation:-1
+title:A new image deblurring algorithm with less ringing artifacts via error variance estimation and soft decision. citation:-1
+title:Visual pertinent 2D-to-3D video conversion by multi-cue fusion. citation:-1
+title:Visual attention based image quality assessment. citation:-1
+title:PKUBench: A context rich mobile visual search benchmark. citation:-1
+title:Bayesian frame interpolation by fusing multiple motion-compensated prediction frames. citation:-1
+title:Fast retargeting with adaptive grid optimization. citation:-1
+title:ObjectBook construction for large-scale semantic-aware image retrieval. citation:-1
+title:Computing importance of 2D contour parts by reconstructability. citation:-1
+title:Towards low bit rate mobile visual search with multiple-channel coding. citation:-1
+title:Throughput analysis of a buffered crossbar switch with multiple input queues under burst traffic. citation:-1
+title:PKU@TRECVID2010: Pair-Wise Event Detection in Surveillance Video. citation:-1
+title:An epipolar resticted inter-mode selection for stereoscopic video encoding. citation:-1
+title:Improved autoregressive image model estimation for directional image interpolation. citation:-1
+title:A background model based method for transcoding surveillance videos captured by stationary camera. citation:-1
+title:Background aided surveillance-oriented distributed video coding. citation:-1
+title:Image interpolation via regularized local linear regression. citation:-1
+title:Image quality assessment based on local orientation distributions. citation:-1
+title:Fast rate-distortion optimized transform for Intra coding. citation:-1
+title:A robust video super-resolution algorithm. citation:-1
+title:Removing Label Ambiguity in Learning-Based Visual Saliency Estimation. citation:-1
+title:Group-Sensitive Multiple Kernel Learning for Object Recognition. citation:-1
+title:SSIM-Motivated Rate-Distortion Optimization for Video Coding. citation:-1
+title:A Universal Rate Control Scheme for Video Transcoding. citation:-1
+title:Binocular stereopsis of traditional Chinese paintings. citation:-1
+title:A flexible and high-performance hardware video encoder architecture. citation:-1
+title:Adaptive loop filter with temporal prediction. citation:-1
+title:Blind watermarking method based on DWT middle frequency pair. citation:-1
+title:Novel example-based shape learning for fast face alignment. citation:-1
+title:Neural network based steganalysis in still images. citation:-1
+title:Virtual face image generation for illumination and pose insensitive face recognition. citation:-1
+title:Localizing the iris center by region growing search. citation:-1
+title:Latest arrival time leaky bucket for HRD constrained video coding. citation:-1
+title:Rotated face detection in color images using radial template (RT). citation:-1
+title:Efficient and flexible drift-free video bitstream switching at predictive frames. citation:-1
+title:A novel coefficient scanning scheme for directional spatial prediction-based image compression. citation:-1
+title:Facial feature tracking combining model-based and model-free method. citation:-1
+title:Distributed load adaptive scheduling for high speed input queued switch. citation:-1
+title:Fast intra mode selection for stereo video coding using epipolar constraint. citation:-1
+title:Improved spatial aided low delay Wyner-Ziv video coding by wavelet shrinkage. citation:-1
+title:New image coding scheme with hierarchical representation and adaptive interpolation. citation:-1
+title:A parallel context model for level information in CABAC. citation:-1
+title:Advanced spatial and Temporal Direct Mode for B picture coding. citation:-1
+title:Multi-scale Spatial Error Concealment via Hybrid Bayesian Regression. citation:-1
+title:Compressed Sensing Recovery via Collaborative Sparsity. citation:-1
+title:Distributed Soft Video Broadcast (DCAST) with Explicit Motion. citation:-1
+title:A Compact Stereoscopic Video Representation for 3D Video Generation and Coding. citation:-1
+title:Recovering Missing Contours for Occluded Object Detection. citation:-1
+title:A Concatenational Graph Evolution Aging Model. citation:-1
+title:Annotating traditional Chinese paintings for immersive virtual exhibition. citation:-1
+title:Manifold-Manifold Distance and its Application to Face Recognition With Image Sets. citation:-1
+title:Multiview Metric Learning with Global Consistency and Local Smoothness. citation:-1
+title:A Generic Approach for Systematic Analysis of Sports Videos. citation:-1
+title:Multiple Hypotheses Bayesian Frame Rate Up-Conversion by Adaptive Fusion of Motion-Compensated Interpolations. citation:-1
+title:Novel Spatio-Temporal Structural Information Based Video Quality Metric. citation:-1
+title:The Meta-Ontology Model of the Fishdisease Diagnostic Knowledge Based on OWL. citation:-1
+title:Macro-Block-Level Selective Background Difference Coding for Surveillance Video. citation:-1
+title:Depth Template Based 2D-to-3D Video Conversion and Coding System. citation:-1
+title:An Optimized Hardware Video Encoder for AVS with Level C+ Data Reuse Scheme for Motion Estimation. citation:-1
+title:Reducing Blocking Artifacts in Compressed Images via Transform-Domain Non-local Coefficients Estimation. citation:-1
+title:Social Image Tagging by Mining Sparse Tag Patterns from Auxiliary Data. citation:-1
+title:Separability Oriented Preprocessing for Illumination-Insensitive Face Recognition. citation:-1
+title:Towards compact topical descriptors. citation:-1
+title:Content-aware layered compound video compression. citation:-1
+title:A Novel Framework for Web Video Thumbnail Generation. citation:-1
+title:A New Just-Noticeable-Distortion Model Combined with the Depth Information and its Application in Multi-view Video Coding. citation:-1
+title:Web image interpolation via weighted total least squares regression. citation:-1
+title:Predicting the effectiveness of queries for visual search. citation:-1
+title:Pruning tree-structured vector quantizer towards low bit rate mobile visual search. citation:-1
+title:Learning multiple codebooks for low bit rate mobile visual search. citation:-1
+title:PQ-WGLOH: A bit-rate scalable local feature descriptor. citation:-1
+title:Image Primitive Coding and Visual Quality Assessment. citation:-1
+title:Learning to Distribute Vocabulary Indexing for Scalable Visual Search. citation:-1
+title:An interactive system of stereoscopic video conversion. citation:-1
+title:An efficient VLSI architecture of VLD for AVS HDTV decoder. citation:-1
+title:A Real-Time Full Architecture for AVS Motion Estimation. citation:-1
+title:Reusable Architecture and Complexity-Controllable Algorithm for the Integer/Fractional Motion Estimation of H.264. citation:-1
+title:Video2Cartoon: A System for Converting Broadcast Soccer Video into 3D Cartoon Animation. citation:-1
+title:A novel VLSI architecture of motion compensation for multiple standards. citation:-1
+title:Deeply pipelined DSP solution to deblocking filter for H.264/AVC. citation:-1
+title:Hardware architecture for AVS entropy encoder. citation:-1
+title:A flexible VLSI architecture of transport processor for an AVS HDTV decoder SoC. citation:-1
+title:H.264 video encryption scheme adaptive to DRM. citation:-1
+title:An AVS HDTV video decoder architecture employing efficient HW/SW partitioning. citation:-1
+title:Algorithmic and architectural co-design for integer motion estimation of AVS. citation:-1
+title:A Novel Rate Control Technique for Multiview Video Plus Depth Based 3D Video Coding. citation:-1
+title:Rate control for consistent visual quality of H.264/AVC encoding. citation:-1
+title:HEVC Lossless Coding and Improvements. citation:-1
+title:A comparative study on illumination preprocessing in face recognition. citation:-1
+title:Adaptive rate control for High Efficiency Video Coding. citation:-1
+title:Viewpoint-independent hand gesture recognition system. citation:-1
+title:New distortion model for depth coding in 3DVC. citation:-1
+title:Optimizing JPEG quantization table for low bit rate mobile visual search. citation:-1
+title:An efficient foreground-based surveillance video coding scheme in low bit-rate compression. citation:-1
+title:Low bit-rate video coding via mode-dependent adaptive regression for wireless visual communications. citation:-1
+title:A comparison of fractional-pel interpolation filters in HEVC and H.264/AVC. citation:-1
+title:A fast multiview video transcoder for bitrate reduction. citation:-1
+title:Low-complexity and high-efficiency background modeling for surveillance video coding. citation:-1
+title:Spatio-temporal ssim index for video quality assessment. citation:-1
+title:Zero-synthesis view difference aware view synthesis optimization for HEVC based 3D video compression. citation:-1
+title:Image Compressive Sensing Recovery via Collaborative Sparsity. citation:-1
+title:Perceptual Video Coding Based on SSIM-Inspired Divisive Normalization. citation:-1
+title:Motion vector derivation of deformable block. citation:-1
+title:Pedestrian detection via part-based topology model. citation:-1
+title:Continuous-time equivalents of welch bound equality sequences. citation:-1

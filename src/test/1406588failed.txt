@@ -1,0 +1,221 @@
+title:Parameterized block-based non-gaussian statistical gate timing analysis. citation:-1
+title:Gate delay calculation considering the crosstalk capacitances. citation:-1
+title:Post-layout timing-driven cell placement using an accurate net length model with movable Steiner points. citation:-1
+title:Low power techniques for address encoding and memory allocation. citation:-1
+title:Balanced truncation with spectral shaping for RLC interconnects. citation:-1
+title:Interconnect design methods for memory design. citation:-1
+title:PMP: performance-driven multilevel partitioning by aggregating the preferred signal directions of I/O conduits. citation:-1
+title:Timing-driven placement based on monotone cell ordering constraints. citation:-1
+title:Technology mapping and packing for coarse-grained, anti-fuse based FPGAs. citation:-1
+title:Clustering techniques for coarse-grained, antifuse FPGAs. citation:-1
+title:An Integrated Flow for Technology Remapping and Placement of Sub-half-micron Circuits. citation:-1
+title:Power Reduction in Microprocessor Chips by Gated Clock Routing. citation:-1
+title:Timing-Driven Bipartitioning with Replication Using Iterative Quadratic Programming. citation:-1
+title:Analysis of power-clocked CMOS with application to the design of energy-recovery circuits. citation:-1
+title:An Integrated Battery-Hardware Model for Portable Electronics. citation:-1
+title:Model Order Reduction of Large Circuits Using Balanced Truncation. citation:-1
+title:Logical-Physical Co-design for Deep Submicron Circuits: Challenges and Solutions (Embedded Tutorial). citation:-1
+title:Low-power design of sequential circuits using a quasi-synchronous derived clock. citation:-1
+title:Flow-Through-Queue based Power Management for Gigabit Ethernet Controller. citation:-1
+title:A Current-based Method for Short Circuit Power Calculation under Noisy Input Waveforms. citation:-1
+title:A stochastic local hot spot alerting technique. citation:-1
+title:BSim: : a fast micro-architecture simulator based on basic block characterization. citation:-1
+title:Statistical Estimation of the Cumulative Distribution Function for Power Dissipation in VLSI Cirucits. citation:-1
+title:Technology Mapping Using Fuzzy Logic. citation:-1
+title:Backlight dimming in power-aware mobile displays. citation:-1
+title:DTM: dynamic tone mapping for backlight scaling. citation:-1
+title:A Fast State Assignment Procedure for Large FSMs. citation:-1
+title:Sequence Compaction for Probabilistic Analysis of Finite-State Machines. citation:-1
+title:Automatic Layout of Silicon-on-Silicon Hybrid Packages. citation:-1
+title:Maximum Power Estimation Using the Limiting Distributions of Extreme Order Statistics. citation:-1
+title:MERLIN: Semi-Order-Independent Hierarchical Buffered Routing Tree Generation Using Local Neighborhood Search. citation:-1
+title:A Power Estimation Framework for Designing Low Power Portable Video Applications. citation:-1
+title:Optimal Selection of Voltage Regulator Modules in a Power Delivery Network. citation:-1
+title:Stochastic modeling of a thermally-managed multi-core system. citation:-1
+title:Non-gaussian statistical interconnect timing analysis. citation:-1
+title:Analysis and synthesis of quantum circuits by using quantum decision diagrams. citation:-1
+title:EZ Encoding: A Class of Irredundant Low Power Codes for Data Address and Multiplexed Address Buses. citation:-1
+title:Gated Clock Routing Minimizing the Switched Capacitance. citation:-1
+title:Microprocessor power analysis by labeled simulation. citation:-1
+title:Architectural Power Optimization by Bus Splitting. citation:-1
+title:Trace-Driven Steady-State Probability Estimation in FSMs with Application to Power Estimation. citation:-1
+title:Distributed Multimedia System Design: A Holistic Perspective. citation:-1
+title:Cell delay analysis based on rate-of-current change. citation:-1
+title:Modeling and Propagation of Noisy Waveforms in Static Timing Analysis. citation:-1
+title:Determining the optimal timeout values for a power-managed system based on the theory of Markovian processes: offline and online algorithms. citation:-1
+title:Dynamic power management under uncertain information. citation:-1
+title:A Current Source Model for CMOS Logic Cells Considering Multiple Input Switching and Stack Effect. citation:-1
+title:Coarse-Grain MTCMOS Sleep Transistor Sizing Using Delay Budgeting. citation:-1
+title:Resilient Dynamic Power Management under Uncertainty. citation:-1
+title:Energy-Aware Wireless Video Streaming. citation:-1
+title:TFA: a threshold-based filtering algorithm for propagation delay and slew calculation of high-speed VLSI interconnects. citation:-1
+title:VITA: variation-aware interconnect timing analysis for symmetric and skewed sources of variation considering variational ramp input. citation:-1
+title:SACI: statistical static timing analysis of coupled interconnects. citation:-1
+title:Buffer sizing for minimum energy-delay product by using an approximating polynomial. citation:-1
+title:Low-power clustering with minimum logic replication for coarse-grained, antifuse based FPGAs. citation:-1
+title:Crosstalk analysis in nanometer technologies. citation:-1
+title:An empirical study of crosstalk in VDSM technologies. citation:-1
+title:Sleep transistor distribution in row-based MTCMOS designs. citation:-1
+title:Active bank switching for temperature control of the register file in a microprocessor. citation:-1
+title:Statistical timing analysis of flip-flops considering codependent setup and hold times. citation:-1
+title:In-order pulsed charge recycling in off-chip data buses. citation:-1
+title:NBTI-aware flip-flop characterization and design. citation:-1
+title:Simultaneous Gate Sizing and Fanout Optimization. citation:-1
+title:Fanout optimization under a submicron transistor-level delay model. citation:-1
+title:Two-level logic minimization for low power. citation:-1
+title:A Game Theoretic Approach to Dynamic Energy Minimization in Wireless Transceivers. citation:-1
+title:Merging multiple FSM controllers for DFT/BIST hardware. citation:-1
+title:Architecture and routability analysis for row-based FPGAs. citation:-1
+title:LEOPARD: a Logical Effort-based fanout OPtimizer for ARea and Delay. citation:-1
+title:A simultaneous routing tree construction and fanout optimization algorithm. citation:-1
+title:Delay optimal partitioning targeting low power VLSI circuits. citation:-1
+title:Dynamic voltage and frequency management based on variable update intervals for frequency setting. citation:-1
+title:Sizing and placement of charge recycling transistors in MTCMOS circuits. citation:-1
+title:Minimizing the energy cost of throughput in a linear pipeline by opportunistic time borrowing. citation:-1
+title:VGTA: Variation Aware Gate Timing Analysis. citation:-1
+title:Precomputation-based Guarding for Dynamic and Leakage Power Reduction. citation:-1
+title:An Energy-Aware Simulation Model and Transaction Protocol for Dynamic Workload Distribution in Mobile Ad Hoc Networks. citation:-1
+title:Analysis and Reduction of Capacitive Coupling Noise in High-Speed VLSI Circuits. citation:-1
+title:Jitter-Induced Power/ground Noise in CMOS PLLs: A Design Perspective. citation:-1
+title:Comparison between nMos Pass Transistor logic style vs. CMOS Complementary Cells. citation:-1
+title:I/O Pad Assignment Based on the Circuit Structure. citation:-1
+title:Post Layout Speed-up by Event Elimination. citation:-1
+title:Logic extraction based on normalized netlengths. citation:-1
+title:Stochastic Dynamic Thermal Management: A Markovian Decision-based Approach. citation:-1
+title:Probabilistic error propagation in logic circuits using the Boolean difference calculus. citation:-1
+title:Characterization and design of sequential circuit elements to combat soft error. citation:-1
+title:Lifetime-aware intrusion detection under safeguarding constraints. citation:-1
+title:PLATO P: PLA Timing Optimization by Partitioning. citation:-1
+title:Reducing transitions on memory buses using sector-based encoding technique. citation:-1
+title:Low-power fanout optimization using multiple threshold voltage inverters. citation:-1
+title:Low power sequential circuit design by using priority encoding and clock gating. citation:-1
+title:Power-optimal encoding for DRAM address bus (poster session). citation:-1
+title:Improving sampling efficiency for system level power estimation. citation:-1
+title:Composite sequence compaction for finite-state machines using block entropy and high-order Markov models. citation:-1
+title:Low-power fanout optimization using MTCMOS and multi-Vt techniques. citation:-1
+title:Power optimal MTCMOS repeater insertion for global buses. citation:-1
+title:Dynamic thermal management for MPEG-2 decoding. citation:-1
+title:Design of an efficient power delivery network in an soc to enable dynamic power management. citation:-1
+title:Minimizing power dissipation during write operation to register files. citation:-1
+title:A mathematical solution to power optimal pipeline design by utilizing soft edge flip-flops. citation:-1
+title:Propagation Algorithm of Behavior Probability in Power Estimation Based on Multiple-Valued Logic. citation:-1
+title:Design of Ternary CCD Circuits Referencing to Current-Mode CMOS Circuits. citation:-1
+title:Analysis and optimization of thermal issues in high-performance VLSI. citation:-1
+title:Calculation of ramp response of lossy transmission lines using two-port network functions. citation:-1
+title:Gate sizing with controlled displacement. citation:-1
+title:Leakage Current Reduction in Sequential Circuits by Modifying the Scan Chains. citation:-1
+title:Analysis and Optimization of Static Power Considering Transition Dependency of Leakage Current in VLSI Circuits. citation:-1
+title:ALBORZ: Address Level Bus Power Optimization. citation:-1
+title:Closing the Gap between Carry Select Adder and Ripple Carry Adder: A New Class Closing the Gap between Carry Select Adder and Ripple Carry Adder: A New Class of Low-Power High-Performance Adders. citation:-1
+title:Low-leakage SRAM Design with Dual V_t Transistors. citation:-1
+title:Gate Sizing and Replication to Minimize the Effects of Virtual Ground Parasitic Resistances in MTCMOS Designs. citation:-1
+title:Sensitivity-Based Gate Delay Propagation in Static Timing Analysis. citation:-1
+title:A Unified Framework for System-Level Design: Modeling and Performance Optimization of Scalable Networking Systems. citation:-1
+title:Improving the Efficiency of Power Management Techniques by Using Bayesian Classification. citation:-1
+title:Design and application of multimodal power gating structures. citation:-1
+title:Control Strategies for Chip-Based DFT/BIST Hardware. citation:-1
+title:Technology Mapping for Low Leakage Power with Hot-Carrier Effect Consideration. citation:-1
+title:A Flow-Oriented Approach to the Placement of Boolean Networks. citation:-1
+title:Buffered Routing Tree Construction under Buffer Placement Blockages. citation:-1
+title:Software-Only Bus Encoding Techniques for an Embedded System. citation:-1
+title:Interconnect Energy Dissipation in High-Speed ULSI Circuits. citation:-1
+title:Continuous Frequency Adjustment Technique Based on Dynamic Workload Prediction. citation:-1
+title:Forecasting-Based Dynamic Virtual Channels Allocation for Power Optimization of Network-on-Chips. citation:-1
+title:High-Level Modeling Approach for Analyzing the Effects of Traffic Models on Power and Throughput in Mesh-Based NoCs. citation:-1
+title:Heterogeneous modulation for trading-off energy balancing with bandwidth efficiency in hierarchical sensor networks. citation:-1
+title:Modeling and Propagation of Noisy Waveforms in Static Timing Analysis citation:-1
+title:State assignment based on two-dimensional placement and hypercube mapping. citation:-1
+title:Constructing minimal spanning/Steiner trees with bounded path length. citation:-1
+title:Accurate and efficient power simulation strategy by compacting the input vector set. citation:-1
+title:A Class of Irredundant Encoding Techniques for Reducing Bus Power. citation:-1
+title:Power-Aware Bus Encoding Techniques for I/O and Data Buses in an Embedded System. citation:-1
+title:Transition reduction in memory buses using sector-based encoding techniques. citation:-1
+title:Electronic design automation at the turn of the century: accomplishments and vision of the future. citation:-1
+title:Fanout optimization using bipolar LT-trees. citation:-1
+title:Correction to "An Approach for Multilevel Logic Optimization Targeting Low Power". citation:-1
+title:Interconnection analysis for standard cell layouts. citation:-1
+title:A fanout optimization algorithm based on the effort delay model. citation:-1
+title:An integrated logical and physical design flow for deep submicron circuits. citation:-1
+title:Hierarchical buffered routing tree generation. citation:-1
+title:Alphabetic trees-theory and applications in layout-driven logicsynthesis. citation:-1
+title:Delay-optimal clustering targeting low-power VLSI circuits. citation:-1
+title:Parameterized Non-Gaussian Variational Gate Timing Analysis. citation:-1
+title:A Synthesis Approach for Coarse-Grained Antifuse-Based FPGAs. citation:-1
+title:Symmetry Detection and Boolean Matching Utilizing a Signature-Based Canonical Form of Boolean Functions. citation:-1
+title:Low-Power Fanout Optimization Using Multi Threshold Voltages and Multi Channel Lengths. citation:-1
+title:Charge Recycling in Power-Gated CMOS Circuits. citation:-1
+title:Stochastic sequential machine synthesis with application to constrained sequence generation. citation:-1
+title:Introduction to special issue: Novel paradigms in system-level design. citation:-1
+title:Wavelet-based dynamic power management for nonstationary service requests. citation:-1
+title:Editorial. citation:-1
+title:Fast Interconnect and Gate Timing Analysis for Performance Optimization. citation:-1
+title:Correction to "Power Estimation Methods for Sequential Logic Circuits" [Correspondence]. citation:-1
+title:Improving the efficiency of Monte Carlo power estimation [VLSI]. citation:-1
+title:GOP-Level Dynamic Thermal Management in MPEG-2 Decoding. citation:-1
+title:A Leakage-aware Low Power Technology Mapping Algorithm Considering the Hot-Carrier Effect. citation:-1
+title:Frame-Based Dynamic Voltage and Frequency Scaling for an MPEG Player. citation:-1
+title:Power Optimization in VLSI Layout: A Survey. citation:-1
+title:Efficient compression and handling of current source model library waveforms. citation:-1
+title:Optimal Design of the Power-Delivery Network for Multiple Voltage-Island System-on-Chips. citation:-1
+title:Optimizing the power delivery network in dynamically voltage scaled systems with uncertain power mode transition times. citation:-1
+title:Efficient representation, stratification, and compression of variational CSM library waveforms using Robust Principle Component Analysis. citation:-1
+title:Proceedings of the 1995 International Symposium on Low Power Design 1995, Dana Point, California, USA, April 23-26, 1995 citation:-1
+title:Proceedings of the 1996 International Symposium on Low Power Electronics and Design, 1996, Monterey, California, USA, August 12-14, 1996 citation:-1
+title:Proceedings of the 1997 International Symposium on Low Power Electronics and Design, 1997, Monterey, California, USA, August 18-20, 1997 citation:-1
+title:Proceedings of the 2003 International Symposium on Physical Design, ISPD 2003, Monterey, CA, USA, April 6-9, 2003 citation:-1
+title:Minimizing the power consumption of a Chip Multiprocessor under an average throughput constraint. citation:-1
+title:Multi-corner, energy-delay optimized, NBTI-aware flip-flop design. citation:-1
+title:Energy-Aware Task Scheduling and Dynamic Voltage Scaling in a Real-Time System. citation:-1
+title:Forecasting-Based Dynamic Virtual Channel Management for Power Reduction in Network-on-Chips. citation:-1
+title:A Markovian Decision-Based Approach for Extending the Lifetime of a Network of Battery-Powered Mobile Devices by Remote Processing. citation:-1
+title:BZ-FAD: A Low-Power Low-Area Multiplier Based on Shift-and-Add Architecture. citation:-1
+title:Predictive-Flow-Queue-Based Energy Optimization for Gigabit Ethernet Controllers. citation:-1
+title:Uncertainty-Aware Dynamic Power Management in Partially Observable Domains. citation:-1
+title:Supervised Learning Based Power Management for Multicore Processors. citation:-1
+title:Accurate Timing and Noise Analysis of Combinational and Sequential Logic Cells Using Current Source Modeling. citation:-1
+title:Minimizing energy consumption of a chip multiprocessor through simultaneous core consolidation and DVFS. citation:-1
+title:Robust design of power-efficient VLSI circuits. citation:-1
+title:Multi-objective optimization techniques for VLSI circuits. citation:-1
+title:Bounded algebra and current-mode digital circuits. citation:-1
+title:Call for papers: Verification issue and challenges with multicore systems. citation:-1
+title:Fast INC-XOR codec for low-power address buses. citation:-1
+title:Optimizing the Power-Delay Product of a Linear Pipeline by Opportunistic Time Borrowing. citation:-1
+title:Dynamic Voltage and Frequency Scheduling for Embedded Processors Considering Power/Performance Tradeoffs. citation:-1
+title:Statistical Design Optimization of FinFET SRAM Using Back-Gate Voltage. citation:-1
+title:Charge migration efficiency optimization in hybrid electrical energy storage (HEES) systems. citation:-1
+title:Versatile high-fidelity photovoltaic module emulation system. citation:-1
+title:Maximizing Profit in Cloud Computing System via Resource Allocation. citation:-1
+title:Deriving a near-optimal power management policy using model-free reinforcement learning and Bayesian classification. citation:-1
+title:Post sign-off leakage power optimization. citation:-1
+title:Dynamic voltage scaling of OLED displays. citation:-1
+title:Battery-supercapacitor hybrid system for high-rate pulsed load applications. citation:-1
+title:Timing variation-aware custom instruction extension technique. citation:-1
+title:Power and Performance Modeling in a Virtualized Server System. citation:-1
+title:Prediction of Tropical Cyclogenesis Using Scatterometer Data. citation:-1
+title:An accurate analytical I-V model for sub-90-nm MOSFETs and its application to read static noise margin modeling. citation:-1
+title:Design of a Tri-Modal Multi-Threshold CMOS Switch With Application to Data Retentive Power Gating. citation:-1
+title:Balanced reconfiguration of storage banks in a hybrid electrical energy storage system. citation:-1
+title:Charge allocation for hybrid electrical energy storage systems. citation:-1
+title:Enhancing efficiency and robustness of a photovoltaic power system under partial shading. citation:-1
+title:Networked architecture for hybrid electrical energy storage systems. citation:-1
+title:Near-optimal, dynamic module reconfiguration in a photovoltaic system to combat partial shading effects. citation:-1
+title:Charge replacement in hybrid electrical energy storage systems. citation:-1
+title:An architecture-level approach for mitigating the impact of process variations on extensible processors. citation:-1
+title:Minimizing the latency of quantum circuits during mapping to the ion-trap circuit fabric. citation:-1
+title:Multiple-source and multiple-destination charge migration in hybrid electrical energy storage systems. citation:-1
+title:State of health aware charge management in hybrid electrical energy storage systems. citation:-1
+title:Deterministic clock gating to eliminate wasteful activity due to wrong-path instructions in out-of-order superscalar processors. citation:-1
+title:Energy-Efficient Datacenters. citation:-1
+title:Dynamic reconfiguration of photovoltaic energy harvesting system in hybrid electric vehicles. citation:-1
+title:Battery management for grid-connected PV systems with a battery. citation:-1
+title:Power conversion efficiency characterization and optimization for smartphones. citation:-1
+title:A study of the effectiveness of CPU consolidation in a virtualized multi-core server system. citation:-1
+title:SLA-based Optimization of Power and Migration Cost in Cloud Computing. citation:-1
+title:Low power synthesis of finite state machines with mixed D and T flip-flops. citation:-1
+title:Technology mapping for low leakage power and high speed with hot-carrier effect consideration. citation:-1
+title:BEAM: bus encoding based on instruction-set-aware memories. citation:-1
+title:Energy-Efficient Virtual Machine Replication and Placement in a Cloud Computing System. citation:-1
+title:Battery cell configuration for organic light emitting diode display in modern smartphones and tablet-PCs. citation:-1
+title:An efficient reliability simulation flow for evaluating the hot carrier injection effect in CMOS VLSI circuits. citation:-1
+title:Dynamic Power Management of a Computer with Self Power-Managed Components. citation:-1
+title:Reversible Logic Synthesis by Quantum Rotation Gates citation:-1

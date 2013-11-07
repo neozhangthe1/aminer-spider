@@ -1,0 +1,358 @@
+title:A Comparison of Affine Region Detectors. citation:-1
+title:Euclidean 3D Reconstruction from Stereo Sequences with Variable Focal Lengths. citation:-1
+title:Probabilistic Object Tracking Using Multiple Features. citation:-1
+title:Perceptive User Interface, a Generic Approach. citation:-1
+title:Privacy in video surveilled areas. citation:-1
+title:Grouping Based on Coupled Diffusion Maps. citation:-1
+title:Multi-spectral vision system for weed detection. citation:-1
+title:PDE-based Multi-view Depth Estimation. citation:-1
+title:Combined Depth and Outlier Estimation in Multi-View Stereo. citation:-1
+title:Wide-Baseline Stereo from Multiple Views: A Probabilistic Account. citation:-1
+title:Efficient, Simultaneous Detection of Multiple Object Classes. citation:-1
+title:Fast Compact City Modeling for Navigation Pre-Visualization. citation:-1
+title:Real-Time Connectivity Constrained Depth Map Computation Using Programmable Graphics Hardware. citation:-1
+title:Localization with Omnidirectional Images using the Radial Trifocal Tensor. citation:-1
+title:3D MURALE: a multimedia system for archaeology. citation:-1
+title:A Shape Based, Viewpoint Invariant Local Descriptor. citation:-1
+title:Simultaneous Object Recognition and Segmentation from Single or Multiple Model Views. citation:-1
+title:A Generalized EM Approach for 3D Model Based Face Recognition under Occlusions. citation:-1
+title:The Cascaded Hough Transforms. citation:-1
+title:Semi-local projective invariants for the recognition of smooth plane curves. citation:-1
+title:Depth-From-Recognition: Inferring Meta-data by Cognitive Feedback. citation:-1
+title:Space-Time-Scale Registration of Dynamic Scene Reconstructions. citation:-1
+title:Recognizing emotions expressed by body pose: A biologically inspired neural model. citation:-1
+title:As Time Flies By: Mixed Image and Model-Based Rendering of an Historical Landscape from Helicopter Images. citation:-1
+title:Learning Generative Models for Multi-Activity Body Pose Estimation. citation:-1
+title:Adaptive Real-Time 3D Acquisition and Contour Tracking within a Multiple Structured Light System. citation:-1
+title:Mining from large image sets. citation:-1
+title:Simultaneous Object Recognition and Segmentation by Image Exploration. citation:-1
+title:Privacy in video surveilled spaces. citation:-1
+title:Object Detection by Contour Segment Networks. citation:-1
+title:Invariants and Fixed Structures Lead the Way to Change. citation:-1
+title:One-shot 3D-shape and Texture Acquisition of Facial Data. citation:-1
+title:Real-Time Body Pose Recognition Using 2D or 3D Haarlets. citation:-1
+title:ATTEST: Advanced Three-dimensional Television System Technologies. citation:-1
+title:Composite Texture Descriptions. citation:-1
+title:Visual topological map building in self-similar environments. citation:-1
+title:Image-based procedural modeling of facades. citation:-1
+title:Comparing Intensity Transformations and Their Invariants in the Context of Color Pattern Recognition. citation:-1
+title:A guided tour to virtual Sagalassos. citation:-1
+title:Parametric Stereo for Multi-pose Face Recognition and 3D-Face Modeling. citation:-1
+title:Real-time face pose estimation from single range images. citation:-1
+title:Multi-object tracking driven event detection for evaluation. citation:-1
+title:Fast stochastic optimization for articulated structure tracking. citation:-1
+title:Image-based 3D acquisition of archaeological heritage and applications. citation:-1
+title:Content-Based Image Retrieval Based on Local Affinely Invariant Regions. citation:-1
+title:Range determination for mobile robots using one omnidirectional camera. citation:-1
+title:Affine Reconstruction from Perspective Image Pairs Obtained by a Translating Camera. citation:-1
+title:Symmetry From Shape and Shape From Symmetry. citation:-1
+title:Affine/ Photometric Invariants for Planar Intensity Patterns. citation:-1
+title:Matching Perspective Views of Parallel Plane Structures. citation:-1
+title:Automatic Modeling and 3D Reconstruction of Urban House Roofs from High Resolution Aerial Imagery. citation:-1
+title:Composite textures: emulating building materials and vegetation for 3D models. citation:-1
+title:Dense Matching of Multiple Wide-baseline Views. citation:-1
+title:Coarse Registration of Surface Patches with Local Symmetries. citation:-1
+title:Reconstructing 3D Independent Motions Using Non-Accidentalness. citation:-1
+title:Dynamic 3D Scene Analysis from a Moving Vehicle. citation:-1
+title:Background Recognition in Dynamic Scenes with Motion Constraints. citation:-1
+title:Composite Texture Synthesis. citation:-1
+title:First ACM international workshop on analysis and retrieval of events, actions and workflows in video streams. citation:-1
+title:Towards On-Line Digital Doubles. citation:-1
+title:Multiview Texture Models. citation:-1
+title:Multi-activity Tracking in LLE Body Pose Space. citation:-1
+title:Smart Particle Filtering for 3D Hand Tracking. citation:-1
+title:Affine Reconstruction from Perspective Image Pairs with a Relative Object-Camera Translation in Between. citation:-1
+title:Mirror and Point Symmetry under Perspective Skewing. citation:-1
+title:Spatio-temporal features for robust content-based video copy detection. citation:-1
+title:3D City Modeling Using Cognitive Loops. citation:-1
+title:3D from Line Segments in Two Poorly-Textured, Uncalibrated Images. citation:-1
+title:Real-Time Pointing Gesture Recognition for an Immersive Environment. citation:-1
+title:Calibration of Hand-Held Camera Sequences for Plenoptic Modeling. citation:-1
+title:The 2005 PASCAL Visual Object Classes Challenge. citation:-1
+title:Coupled Object Detection and Tracking from Static Cameras and Moving Vehicles. citation:-1
+title:An Efficient Dense and Scale-Invariant Spatio-Temporal Interest Point Detector. citation:-1
+title:Light Source Calibration for IBR and BTF Acquisition Setups. citation:-1
+title:Augmenting fast stereo with silhouette constraints for dynamic 3D capture. citation:-1
+title:Flexible 3D Acquisition with a Monocular Camera. citation:-1
+title:Fast Wide Baseline Matching for Visual Navigation. citation:-1
+title:Matching Widely Separated Views Based on Affine Invariant Regions. citation:-1
+title:Towards Multi-View Object Class Detection. citation:-1
+title:Coding of Dynamic Texture on 3D Scenes. citation:-1
+title:Noncombinatorial Detection of Regular Repetitions under Perspective Skew. citation:-1
+title:Drift Detection and Removal for Sequential Structure from Motion Algorithms. citation:-1
+title:A Cascaded Hough Transform as an Aid in Aerial Image Interpretation. citation:-1
+title:Matching of Affinely Invariant Regions for Visual Servoing. citation:-1
+title:Automatic Object Recognition as Part of an Integrated Supervisory Control System. citation:-1
+title:On Satellite Vision-Aided Robotics Experiment. citation:-1
+title:A Hierarchical System for Recognition, Tracking and Pose Estimation. citation:-1
+title:Efficient matching of space curves. citation:-1
+title:Calibration and 3D Measurement from Martian Terrain Images. citation:-1
+title:Visual Modeling with a Hand-Held Camera. citation:-1
+title:Reconstructing 3D trajectories of independently moving objects using generic constraints. citation:-1
+title:To FRAME or not to FRAME in Probabilistic Texture Modelling? citation:-1
+title:Surviving Dominant Planes in Uncalibrated Structure and Motion Recovery. citation:-1
+title:Articulated Multi-body Tracking under Egomotion. citation:-1
+title:Transductive object cutout. citation:-1
+title:Color-Based Object Tracking in Multi-camera Environments. citation:-1
+title:Object Tracking with an Adaptive Color-Based Particle Filter. citation:-1
+title:Plenoptic Modeling and Rendering from Image Sequences Taken by Hand-Held Camera. citation:-1
+title:Euclidean 3D Reconstruction from Image Sequences with Variable Focal Lenghts. citation:-1
+title:New Techniques for 3D Modelling...and for doing without. citation:-1
+title:Determination of Optical Flow and its Discontinuities using Non-Linear Diffusion. citation:-1
+title:SURF: Speeded Up Robust Features. citation:-1
+title:Depth and Appearance for Mobile Scene Analysis. citation:-1
+title:Procedural modeling of buildings. citation:-1
+title:Recognizing Color Patterns Irrespective of Viewpoint and Illumination. citation:-1
+title:From omnidirectional images to hierarchical localization. citation:-1
+title:Retina Mosaicing Using Local Features. citation:-1
+title:3D Recording for Archaeological Fieldwork. citation:-1
+title:Motion - Stereo Integration for Depth Estimation. citation:-1
+title:3D Challenges and a Non-In-Depth Overview of Recent Progress. citation:-1
+title:Hand-Held Acquisition of 3D Models with a Video Camera. citation:-1
+title:Real-time affine region tracking and coplanar grouping. citation:-1
+title:Learning Generative Models for Monocular Body Pose Estimation. citation:-1
+title:Wide-Baseline Stereo Matching with Line Segments. citation:-1
+title:Video shot characterization. citation:-1
+title:Photometric stereo with coherent outlier handling and confidence estimation. citation:-1
+title:Monocular Tracking with a Mixture of View-Dependent Learned Models. citation:-1
+title:A Hierarchical Symmetric Stereo Algorithm Using Dynamic Programming. citation:-1
+title:Integrating Multiple Model Views for Object Recognition. citation:-1
+title:Fast 3D Scanning with Automatic Motion Compensation. citation:-1
+title:Realistic 3-D Scene Modeling from Uncalibrated Image Sequences. citation:-1
+title:A Probabilistic Approach to Large Displacement Optical Flow and Occlusion Detection. citation:-1
+title:Web-based 3D Reconstruction Service. citation:-1
+title:Automatic 3D Model Acquisition from Uncalibrated Image Sequences. citation:-1
+title:Real-Time Image Based Rendering from Uncalibrated Images. citation:-1
+title:Using Multi-view Recognition and Meta-data Annotation to Guide a Robot's Attention. citation:-1
+title:Tracking based structure and motion recovery for augmented video productions. citation:-1
+title:Combining texture and shape for automatic crude patch registration. citation:-1
+title:Markerless Augmented Reality with a Real-Time Affine Region Tracker. citation:-1
+title:Multi Viewpoint Stereo from Uncalibrated Video Sequences. citation:-1
+title:Special issue on 3D acquisition technology for cultural heritage. citation:-1
+title:Stratified Self-Calibration with the Modulus Constraint. citation:-1
+title:Real-time Range Scanning of Deformable Surfaces by Adaptively Coded Structured Light. citation:-1
+title:A Geometric Approach to Lightfield Calibration. citation:-1
+title:Interactive Museum Guide: Accurate Retrieval of Object Descriptions. citation:-1
+title:Smart particle filtering for high-dimensional tracking. citation:-1
+title:Optical flow based super-resolution: A probabilistic approach. citation:-1
+title:Robust Calibration and 3D Geometric Modeling From Large Collections of Uncalibrated Images. citation:-1
+title:Local Features for Image Retrieval. citation:-1
+title:Driving 3D Geometric Modelling for Building Roof Reconstruction by Semantics. citation:-1
+title:Visual modelling: from images to images. citation:-1
+title:Online Calibration of Two Zoom-Pan-Tilt Units for Planar Dynamic Events. citation:-1
+title:Efficient, Active 3D Acquisition, Based on a Pattern-Specific Snake. citation:-1
+title:Do Ambiguous Reconstructions Always Give Ambiguous Images?. citation:-1
+title:Object Recognition for the Internet of Things. citation:-1
+title:Self-Calibration and Metric Reconstruction in Spite of Varying and Unknown Internal Camera Parameters. citation:-1
+title:Robust and Accurate Partial Surface Registration Based on Variational Implicit Surfaces for Automatic 3D Model Building. citation:-1
+title:Model Estimation for Photometric Changes of Outdoor Planar Color Surfaces Caused by Changes in Illumination and Viewpoint. citation:-1
+title:Combining Densely Sampled Form and Motion for Human Action Recognition. citation:-1
+title:A Simple and Efficient Rectification Method for General Motion. citation:-1
+title:Video Mining with Frequent Itemset Configurations. citation:-1
+title:Matching of 3D Curves Using Semi-Differential Invariants. citation:-1
+title:Fast Interpolated Cameras by Combining a GPU based Plane Sweep with a Max-Flow Regularisation Algorithm. citation:-1
+title:Invariant-based Registration of Surface Patches. citation:-1
+title:3D Urban Scene Modeling Integrating Recognition and Reconstruction. citation:-1
+title:Efficient Grouping under Perspective Skew. citation:-1
+title:Modeling shapes and textures from images: new frontiers. citation:-1
+title:Synchronizing Video Sequences. citation:-1
+title:blue-c: a spatially immersive display and 3D video portal for telepresence. citation:-1
+title:The DIRAC AWEAR audio-visual platform for detection of unexpected and incongruent events. citation:-1
+title:Special Lecture: 3D Modeling for Communications. citation:-1
+title:Full Body Tracking from Multiple Views Using Stochastic Sampling. citation:-1
+title:Multi-label image segmentation via point-wise repetition. citation:-1
+title:Reading between the lines: A method for extracting dynamic 3D with Texture. citation:-1
+title:Partial Surface Integration Based on Variational Implicit Functions and Surfaces for 3D Model Building. citation:-1
+title:Adventurous Tourism for Couch Potatoes. citation:-1
+title:HPAT Indexing for Fast Object/Scene Recognition Based on Local Appearance. citation:-1
+title:Efficient Non-Maximum Suppression. citation:-1
+title:Realistic surface reconstruction of 3D scenes from uncalibrated image sequences. citation:-1
+title:Lens Distortion Recovery for Accurate Sequential Structure and Motion Recovery. citation:-1
+title:Fast indexing for image retrieval based on local appearance with re-ranking. citation:-1
+title:A Probabilistic Formulation of Image Registration. citation:-1
+title:An adaptive color-based particle filter. citation:-1
+title:Biological Motion of Speech. citation:-1
+title:Realistic face animation for speech. citation:-1
+title:Planar homologies as a basis for grouping and recognition. citation:-1
+title:Monkeys -- A Software Architecture for ViRoom -- Low-Cost Multicamera System. citation:-1
+title:Vision and Lie's approach to invariance. citation:-1
+title:Action snippets: How many frames does human action recognition require? citation:-1
+title:A mobile vision system for robust multi-person tracking. citation:-1
+title:Robust Multiperson Tracking from a Mobile Platform. citation:-1
+title:Texture analysis Anno 1983. citation:-1
+title:Semi-Automatic Modelling of Urban Buildings from High Resolution Aerial Imagery. citation:-1
+title:ViRoom - Low Cost Synchronized Multicamera System and Its Self-calibration. citation:-1
+title:Reconstruction of Subjective Surfaces from Occlusion Cues. citation:-1
+title:A Mean Field EM-algorithm for Coherent Occlusion Handling in MAP-Estimation Prob. citation:-1
+title:Omnidirectional Vision Based Topological Navigation. citation:-1
+title:Modeling Scenes with Local Descriptors and Latent Aspects. citation:-1
+title:Accurate and robust registration for in-hand modeling. citation:-1
+title:Reading between the lines - a method for extracting dynamic 3D with texture. citation:-1
+title:Coupled Detection and Trajectory Estimation for Multi-Object Tracking. citation:-1
+title:Transformations of a 3D Image Reconstruction Algorithm for Data Transfer and Storage Optimization. citation:-1
+title:Real-Time Range Acquisition by Adaptive Structured Light. citation:-1
+title:Integrating Recognition and Reconstruction for Cognitive Traffic Scene Analysis from a Moving Vehicle. citation:-1
+title:Augmented Reality Using Uncalibrated Video Sequences. citation:-1
+title:On-Line Novel View Synthesis Capable of Handling Multiple Moving Objects. citation:-1
+title:World-scale mining of objects and events from community photo collections. citation:-1
+title:Grouping via the Matching of Repeated Patterns. citation:-1
+title:Efficient Mining of Frequent and Distinctive Feature Configurations. citation:-1
+title:A Systematic Approach to Geometric-Based Grouping and Non-accidentalness. citation:-1
+title:Hierarchical Coarse to Fine Depth Estimation for Realistic View Interpolation. citation:-1
+title:Viewpoint Consistent Texture Synthesis. citation:-1
+title:SVM-based Nonparametric Discriminant Analysis, An Application to Face Detection. citation:-1
+title:Virtual Post-its: Visual Label Extraction, Attachment, and Tracking for Teleconferencing. citation:-1
+title:Speeded-Up Robust Features (SURF). citation:-1
+title:A Stratified Approach to Metric Self-Calibration. citation:-1
+title:A Compact Model for Viewpoint Dependent Texture Synthesis. citation:-1
+title:Self-Calibration and Metric Reconstruction Inspite of Varying and Unknown Intrinsic Camera Parameters. citation:-1
+title:A Probabilistic Approach to Building Roof Reconstruction Using Semantic Labelling. citation:-1
+title:A Graph Cut based Adaptive Structured Light Approach for Real-Time Range Acquisition. citation:-1
+title:Simultaneous Segmentation and 3D Reconstruction of Monocular Image Sequences. citation:-1
+title:On benchmarking camera calibration and multi-view stereo for high resolution imagery. citation:-1
+title:CUMULI, PANORAMA, and VANGUARD Project Overview. citation:-1
+title:Head Pose Estimation from Passive Stereo Images. citation:-1
+title:Projective Invariants for Planar Contour Recognition. citation:-1
+title:A stereo-vision system for support of planetary surface exploration. citation:-1
+title:Moving obstacle detection in highly dynamic scenes. citation:-1
+title:Vision Based Intelligent Wheel Chair Control: The Role of Vision and Inertial Sensing in Topological Navigation. citation:-1
+title:The Cascaded Hough Transform as Support for Grouping and Finding Vanishing Points and Lines. citation:-1
+title:Metric 3D Surface Reconstruction from Uncalibrated Image Sequences. citation:-1
+title:A Stereo Vision System for Support of Planetary Surface Exploration. citation:-1
+title:Scene-Adapted Structured Light. citation:-1
+title:Simultaneous Object Recognition and Segmentation by Image Exploration. citation:-1
+title:Automatic Crude Patch Registration: Toward Automatic 3D Model Building. citation:-1
+title:Pattern Recognition, 24th DAGM Symposium, Zurich, Switzerland, September 16-18, 2002, Proceedings citation:-1
+title:Tracking People in Broadcast Sports. citation:-1
+title:Robust Workflow Recognition Using Holistic Features and Outlier-Tolerant Fused Hidden Markov Models. citation:-1
+title:Robust stereo matching with fast Normalized Cross-Correlation over shape-adaptive regions. citation:-1
+title:Accurate and efficient stereo matching with robust piecewise voting. citation:-1
+title:Proceedings of the 1st ACM Workshop on Analysis and Retrieval of Events/Actions and Workflows in Video Streams, AREA 2008, Vancouver, British Columbia, Canada, October 31, 2008 citation:-1
+title:3D Structure from Multiple Images of Large-Scale Environments, European Workshop, SMILE'98, Freiburg, Germany, June 6-7, 1998 citation:-1
+title:3D Structure from Images - SMILE 2000, Second European Workshop on 3D Structure from Multiple Images of Large-Scale Environments Dublin, Ireland, July 12, 2000, Revised Papers citation:-1
+title:Face/Off: live facial puppetry. citation:-1
+title:GPU-Accelerated Robotic Intra-operative Laparoscopic 3D Reconstruction. citation:-1
+title:Viewpoint invariant characteristics of articulated objects. citation:-1
+title:Multi-object tracking evaluated on sparse events. citation:-1
+title:Analysis and retrieval of events/actions and workflows in video streams. citation:-1
+title:Multibody Structure-from-Motion in Practice. citation:-1
+title:3D Reconstruction from Multiple Images: Part 1 - Principles. citation:-1
+title:Exploiting simple hierarchies for unsupervised human behavior analysis. citation:-1
+title:An object-dependent hand pose prior from sparse training data. citation:-1
+title:What's going on? Discovering spatio-temporal dependencies in dynamic scenes. citation:-1
+title:A Hough transform-based voting framework for action recognition. citation:-1
+title:Tracking the invisible: Learning where the object might be. citation:-1
+title:Finding nemo: Deformable object class modelling using curve matching. citation:-1
+title:2D Action Recognition Serves 3D Human Pose Estimation. citation:-1
+title:Size Does Matter: Improving Object Recognition and 3D Reconstruction with Cross-Media Analysis of Image Clusters. citation:-1
+title:Cascaded Confidence Filtering for Improved Tracking-by-Detection. citation:-1
+title:Backprojection Revisited: Scalable Multi-view Object Detection and Similarity Metrics for Detections. citation:-1
+title:Scene Carving: Scene Consistent Image Retargeting. citation:-1
+title:Improving Data Association by Joint Modeling of Pedestrian Trajectories and Groupings. citation:-1
+title:Integrating Object Detection with 3D Tracking Towards a Better Driver Assistance System. citation:-1
+title:Real-time detection of unusual regions in image streams. citation:-1
+title:Grammar-based Encoding of Facades. citation:-1
+title:Special issue on 3D representation for object and scene recognition. citation:-1
+title:The Pascal Visual Object Classes (VOC) Challenge. citation:-1
+title:Computational Symmetry in Computer Vision and Computer Graphics. citation:-1
+title:Automatic annotation of unique locations from video and text. citation:-1
+title:On-line Adaption of Class-specific Codebooks for Instance Tracking. citation:-1
+title:Hough Transform and 3D SURF for Robust Three Dimensional Classification. citation:-1
+title:Unsupervised face alignment by robust nonrigid mapping. citation:-1
+title:Robust tracking-by-detection using a detector confidence particle filter. citation:-1
+title:You'll never walk alone: Modeling social behavior for multi-target tracking. citation:-1
+title:Tracking a hand manipulating an object. citation:-1
+title:Feature-centric Efficient Subwindow Search. citation:-1
+title:Robust low complexity feature tracking. citation:-1
+title:Joint integral histograms and its application in stereo matching. citation:-1
+title:Object Detection and Tracking for Autonomous Navigation in Dynamic Environments. citation:-1
+title:A 3-D Audio-Visual Corpus of Affective Communication. citation:-1
+title:Optimal Regions for Linear Model-Based 3D Face Reconstruction. citation:-1
+title:Automatic Workflow Monitoring in Industrial Environments. citation:-1
+title:Four Color Theorem for Fast Early Vision. citation:-1
+title:Segmentation-Based Urban Traffic Scene Understanding. citation:-1
+title:Probabilistic Parameter Selection for Learning Scene Structure from Video. citation:-1
+title:Data-driven animation of hand-object interactions. citation:-1
+title:Variations of a Hough-Voting Action Recognition System. citation:-1
+title:Populating Ancient Pompeii with Crowds of Virtual Romans. citation:-1
+title:Providing Multimedia Tools for Recording, Reconstruction, Visualisation and Database Storage/Access of Archaeological Excavations. citation:-1
+title:Fast PRISM: Branch and Bound Hough Transform for Object Class Detection. citation:-1
+title:Robust Low Complexity Corner Detector. citation:-1
+title:On-line, interactive view synthesis and augmentation. citation:-1
+title:Combining image and model based rendering of an archaeological site. citation:-1
+title:Procedural Modeling for Digital Cultural Heritage. citation:-1
+title:Image and Video Processing for Cultural Heritage. citation:-1
+title:Hough Forests for Object Detection, Tracking, and Action Recognition. citation:-1
+title:Online Multiperson Tracking-by-Detection from a Single, Uncalibrated Camera. citation:-1
+title:Online classification of visual tasks for industrial workflow monitoring. citation:-1
+title:Real-Time and Accurate Stereo: A Scalable Approach With Bitwise Fast Voting on CUDA. citation:-1
+title:Object Flow: Learning Object Displacement. citation:-1
+title:Automatic Occlusion Removal from Facades for 3D Urban Reconstruction. citation:-1
+title:Action recognition: A region based approach. citation:-1
+title:Haarlet-based hand gesture recognition for 3D interaction. citation:-1
+title:A comparison of 3d model-based tracking approaches for human motion capture in uncontrolled environments. citation:-1
+title:Combining RGB and ToF cameras for real-time 3D hand gesture interaction. citation:-1
+title:Multi-view traffic sign detection, recognition, and 3D localisation. citation:-1
+title:VAST 2011: The 12th International Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage, Prato, Italy, 2011. Proceedings citation:-1
+title:Reconstructing and Exploring Massive Detailed Cityscapes. citation:-1
+title:A Public System for Image Based 3D Model Generation. citation:-1
+title:Real Time Head Pose Estimation from Consumer Depth Cameras. citation:-1
+title:Hello neighbor: Accurate object retrieval with k-reciprocal nearest neighbors. citation:-1
+title:Functional categorization of objects using real-time markerless motion capture. citation:-1
+title:Efficient multi-camera detection, tracking, and identification using a shared set of haar-features. citation:-1
+title:Real time head pose estimation with random regression forests. citation:-1
+title:What makes a chair a chair? citation:-1
+title:Scalable multi-class object detection. citation:-1
+title:Procedural 3D Building Reconstruction Using Shape Grammars and Detectors. citation:-1
+title:Transformations of a 3D Image Reconstruction Algorithm for Data Transfer and Storage Optimisation. citation:-1
+title:IEEE International Conference on Computer Vision, ICCV 2011, Barcelona, Spain, November 6-13, 2011 citation:-1
+title:Similarity extraction and modeling. citation:-1
+title:Using Recognition to Guide a Robot's Attention. citation:-1
+title:Transferring activities: Updating human behavior analysis. citation:-1
+title:Multi-view manhole detection, recognition, and 3D localisation. citation:-1
+title:Augmented faces. citation:-1
+title:Real-time sign language letter and word recognition from depth data. citation:-1
+title:Unsupervised workflow discovery in industrial environments. citation:-1
+title:Stixels estimation without depth map computation. citation:-1
+title:Efficient multi-camera vehicle detection, tracking, and identification in a tunnel surveillance application. citation:-1
+title:Predicting Pedestrian Trajectories. citation:-1
+title:Non-parametric motion-priors for flow understanding. citation:-1
+title:Real-time stereo and flow-based video segmentation with superpixels. citation:-1
+title:Feature based omnidirectional sparse visual path following. citation:-1
+title:Systematic evaluation of super-resolution using classification. citation:-1
+title:Beyond Novelty Detection: Incongruent Events, When General and Specific Classifiers Disagree. citation:-1
+title:In Memoriam: Mark Everingham. citation:-1
+title:Constant Time Joint Bilateral Filtering Using Joint Integral Histograms. citation:-1
+title:Coupled Action Recognition and Pose Estimation from Multiple Views. citation:-1
+title:An Introduction to Random Forests for Multi-class Object Detection. citation:-1
+title:Ensemble Partitioning for Unsupervised Image Categorization. citation:-1
+title:SEEDS: Superpixels Extracted via Energy-Driven Sampling. citation:-1
+title:Stixels Motion Estimation without Optical Flow Computation. citation:-1
+title:Motion Capture of Hands in Action Using Discriminative Salient Points. citation:-1
+title:TriCoS: A Tri-level Class-Discriminative Co-segmentation Method for Image Classification. citation:-1
+title:Optimal Templates for Nonrigid Surface Reconstruction. citation:-1
+title:Learning Domain Knowledge for Façade Labelling. citation:-1
+title:Nested Sparse Quantization for Efficient Feature Coding. citation:-1
+title:Fast Stixel Computation for Fast Pedestrian Detection. citation:-1
+title:A Three-Layered Approach to Facade Parsing. citation:-1
+title:Base Materials for Photometric Stereo. citation:-1
+title:Destination Flow for Crowd Simulation. citation:-1
+title:Latent Hough Transform for Object Detection. citation:-1
+title:Improved person detection in industrial environments using multiple self-calibrated cameras. citation:-1
+title:Parameter-free/Pareto-driven procedural 3D reconstruction of buildings from ground-level sequences. citation:-1
+title:Real-time facial feature detection using conditional regression forests. citation:-1
+title:Iterative Nearest Neighbors for classification and dimensionality reduction. citation:-1
+title:Pedestrian detection at 100 frames per second. citation:-1
+title:Interactive object detection. citation:-1
+title:Codebook-free exemplar models for object detection. citation:-1
+title:Hough Forest-Based Facial Expression Recognition from Video Sequences. citation:-1
+title:Visibility Maps for Improving Seam Carving. citation:-1
+title:Real-time 3D hand gesture interaction with a robot for understanding directions from humans. citation:-1
+title:Exploiting Physical Inconsistencies for 3D Scene Understanding. citation:-1
+title:Random Forests for Real Time 3D Face Analysis. citation:-1
+title:Motion Control of the CyberCarpet Platform. citation:-1
+title:Is structure needed for omnidirectional visual homing? citation:-1
+title:Weighted collaborative representation and classification of images. citation:-1
+title:Nonuniform image patch exemplars for low level vision. citation:-1
+title:Depth SEEDS: Recovering incomplete depth data using superpixels. citation:-1
+title:Groups, fixed sets, symmetries, and invariants. citation:-1

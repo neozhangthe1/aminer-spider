@@ -1,0 +1,363 @@
+title:A Model-Theoretic Analysis of Knowledge. citation:-1
+title:Knowledge-Based Programs. citation:-1
+title:What Can Machines Know? On the Properties of Knowledge in Distributed Systems. citation:-1
+title:When Ignorance is Bliss. citation:-1
+title:Knowledge and Probability in Distributed Systems (Abstract). citation:-1
+title:LICS 2001 special issue. citation:-1
+title:Belief Revision: A Critique citation:-1
+title:A Game-Theoretic Analysis of Updating Sets of Probabilities citation:-1
+title:Reasoning About Procedures as Parameters. citation:-1
+title:On Effective Axiomatizations of Hoare Logics. citation:-1
+title:Axiomatizing Causal Reasoning citation:-1
+title:A Counterexample to Theorems of Cox and Fine. citation:-1
+title:Using Multi-Agent Systems to Represent Uncertainty. citation:-1
+title:On the Knowledge Requirements of Tasks. citation:-1
+title:From statistical knowledge bases to degrees of belief: an overview. citation:-1
+title:Likelihood, Probability, and Knowledge. citation:-1
+title:A computer scientist looks at game theory citation:-1
+title:Evidence with Uncertain Likelihoods. citation:-1
+title:The Computing Research Repository: Promoting the Rapid Dissemination and Archiving of Computer Science Research. citation:-1
+title:Efficiency and Nash Equilibria in a Scrip System for P2P Networks citation:-1
+title:Lexicographic probability, conditional probability, and nonstandard probability citation:-1
+title:Optimizing Scrip Systems: Efficiency, Crashes, Hoarders, and Altruists citation:-1
+title:Performing Work Efficiently in the Presence of Faults. citation:-1
+title:Belief Revision with Unreliable Observations. citation:-1
+title:Beyond Nash Equilibrium: Solution Concepts for the 21st Century. citation:-1
+title:Dynamic Fault-Tolerant Clock Synchronization. citation:-1
+title:Reasoning about Noisy Sensors and Effectors in the Situation Calculus. citation:-1
+title:Reasoning about Noisy Sensors in the Situation Calculus. citation:-1
+title:Plausibility Measures: A User's Guide. citation:-1
+title:A Qualitative Markov Assumption and Its Implications for Belief Change. citation:-1
+title:Statistical Foundations for Default Reasoning. citation:-1
+title:A Model-Theoretic Analysis of Knowledge: Preliminary Report citation:-1
+title:From Qualitative to Quantitative Proofs of Security Properties Using First-Order Conditional Logic. citation:-1
+title:Causes and Explanations: A Structural-Model Approach. Part II: Explanations citation:-1
+title:Defaults and Normality in Causal Structures. citation:-1
+title:Multi-agent Only Knowing. citation:-1
+title:Axiomatic Definitions of Programming Languages, II. citation:-1
+title:Generating New Beliefs from Old. citation:-1
+title:A Good Hoare Axiom System for an Algol-like Language. citation:-1
+title:Denotational Semantics and Rewrite Rules for FP. citation:-1
+title:A New Look at Fault Tolerant Network Routing citation:-1
+title:The Semantics of Local Storage, or What Makes the Free-List Free? citation:-1
+title:Characterizing the NP-PSPACE Gap in the Satisfiability Problem for Modal Logic. citation:-1
+title:A Logic for SDSI's Linked Local Name Spaces citation:-1
+title:From Statistics to Beliefs. citation:-1
+title:A Theory of Knowledge and Ignorance for Many Agents. citation:-1
+title:Forming Beliefs about a Changing World. citation:-1
+title:Naming and Identity in Epistemic Logics Part I: The Propositional Case. citation:-1
+title:A Knowledge-Based Analysis of Global Function Computation citation:-1
+title:Completeness of Rewrite Rules and Rewrite Strategies for FP citation:-1
+title:A Little Knowledge Goes a Long Way: Knowledge-Based Derivations and Correctness Proofs for a Family of Protocols. citation:-1
+title:Defining Explanation in Probabilistic Systems. citation:-1
+title:A logic for reasoning about upper probabilities citation:-1
+title:Modeling Belief in Dynamic Systems, Part I: Foundations citation:-1
+title:Modeling Belief in Dynamic Systems, Part II: Revisions and Update citation:-1
+title:A response to the commentaries on CoRR. citation:-1
+title:CoRR: a computing research repository. citation:-1
+title:Knowledge, Probability, and Adversaries. citation:-1
+title:A logical characterization of iterated admissibility. citation:-1
+title:Reasoning about knowledge of unawareness revisited. citation:-1
+title:Time to Publication: A Progress Report. citation:-1
+title:On becoming editor-in-chief of JACM. citation:-1
+title:An epistemic characterization of zero knowledge. citation:-1
+title:JACM's 50th anniversary. citation:-1
+title:Update: Time to publication statistics. citation:-1
+title:Updating Probabilities citation:-1
+title:Editorial: a bill of rights and responsibilities. citation:-1
+title:Great Expectations. Part II: Generalized Expected Utility as a Universal Decision Rule citation:-1
+title:Great Expectations. Part I: On the Customizability of Generalized Expected Utility citation:-1
+title:Toward Expressive and Scalable Sponsored Search Auctions citation:-1
+title:A New Look at Fault-Tolerant Network Routing citation:-1
+title:Reasoning About Expectation citation:-1
+title:Belief Revision: A Critique. citation:-1
+title:Representation Dependence in Probabilistic Inference citation:-1
+title:Responsibility and blame: a structural-model approach citation:-1
+title:Generalized Solution Concepts in Games with Possibly Unaware Players citation:-1
+title:Effective Axiomatizations of Hoare Logics citation:-1
+title:A Game-Theoretic Analysis of Updating Sets of Probabilities. citation:-1
+title:A Formal Foundation for XrML citation:-1
+title:Characterizing the NP-PSPACE Gap in the Satisfiability Problem for Modal Logic. citation:-1
+title:Degrees of Belief, Random Worlds, and Maximum Entropy. citation:-1
+title:Extensive Games with Possibly Unaware Players citation:-1
+title:Probabilistic Algorithmic Knowledge citation:-1
+title:A response to the commentaries on CoRR citation:-1
+title:CoRR: A Computing Research Repository citation:-1
+title:A decision-theoretic approach to reliable message delivery citation:-1
+title:An Almost-Surely Terminating Polynomial Protocol for Asynchronous Byzantine Agreement with Optimal Resilience citation:-1
+title:A Response to "Believing on the Basis of the Evidence". citation:-1
+title:The Computing Research Repository: Promoting the Rapid Dissemination and Archiving of Computer Science Research citation:-1
+title:Characterizing Solution Concepts in Games Using Knowledge-Based Programs citation:-1
+title:Good Rewrite Strategies for FP citation:-1
+title:Conditional Logics of Belief Change. citation:-1
+title:A Logic for Reasoning about Evidence. citation:-1
+title:On the Power of Nondeterminism in Dynamic Logic. citation:-1
+title:First-Order Conditional Logic Revisited. citation:-1
+title:On the unusual effectiveness of logic in computer science. citation:-1
+title:A Decision-Theoretic Approach to Reliable Message Delivery. citation:-1
+title:Finite Models for Deterministic Propositional Dynamic Logic. citation:-1
+title:Reasoning about Noisy Sensors (and Effectors) in the Situation Calculus. citation:-1
+title:Random Worlds and Maximum Entropy citation:-1
+title:Plausibility Measures and Default Reasoning: An Overview. citation:-1
+title:Optimal precision in the presence of uncertainty. citation:-1
+title:Full Abstraction and Expressive Completenes for FP citation:-1
+title:Efficiency and nash equilibria in a scrip system for P2P networks. citation:-1
+title:Reasoning about Common Knowledge with Infinitely Many Agents. citation:-1
+title:Zero-One Laws for Modal Logic citation:-1
+title:True Relative Completeness of an Axiom System for the Language L4 (Abridged) citation:-1
+title:Complete Axiomatizations for Reasoning about Knowledge and Time. citation:-1
+title:Least Expected Cost Query Optimization: An Exercise in Utility. citation:-1
+title:Shared Winner Determination in Sponsored Search Auctions. citation:-1
+title:A Characterization of Eventual Byzantine Agreement. citation:-1
+title:Levesque's Axiomatization of only Knowing is Incomplete. citation:-1
+title:A Logical Reconstruction of SPKI. citation:-1
+title:The Effect of Bounding the Number of Primitive Propositions and the Depth of Nesting on the Complexity of Modal Logic. citation:-1
+title:A Logic for Approximate Reasoning. citation:-1
+title:Asymptotic Conditional Probabilities: The Unary Case. citation:-1
+title:Let many flowers bloom: a response to An inquiry into computer understanding e. citation:-1
+title:Rational Secret Sharing and Multiparty Computation: Extended Abstract citation:-1
+title:A Critical Reexamination of Default Logic, Autoepistemic Logic, and Only Knowing. citation:-1
+title:A Decision-Theoretic Approach to Resource Allocation in Wireless Multimedia Networks citation:-1
+title:A Knowledge-Theoretic Analysis of Uniform Distributed Coordination and Failure Detectors citation:-1
+title:Using Counterfactuals in Knowledge-Based Programming citation:-1
+title:Causality, Responsibility, and Blame: A Structural-Model Approach. citation:-1
+title:Modeling Adversaries in a Logic for Security Protocol Analysis. citation:-1
+title:A cone-based distributed topology-control algorithm for wireless multi-hop networks. citation:-1
+title:I'm OK if You're OK: On the Notion of Trusting Communication citation:-1
+title:Multiagent Learning in Large Anonymous Games citation:-1
+title:A Formal Model of Knowledge, Action, and Communication in Distributed Systems: Preliminary Report. citation:-1
+title:Manipulating Scrip Systems: Sybils and Collusion citation:-1
+title:A Knowledge-Theoretic Analysis of Uniform Distributed Coordination and Failure Detectors. citation:-1
+title:A Characterization of Eventual Byzantine Agreement. citation:-1
+title:Message-Optimal Protocols for Byzantine Agreement (Extended Abstract). citation:-1
+title:A Little Knowledge Goes a Long Way: Simple Knowledge-based Derivations and Correctness Proofs for a Family of Protocols. citation:-1
+title:On spectrum sharing games. citation:-1
+title:Knowledge, Probability, and Adversaries. citation:-1
+title:Manipulating Scrip Systems: Sybils and Collusion. citation:-1
+title:Multi-Agent Only Knowing citation:-1
+title:Reasoning about Knowledge of Unawareness. citation:-1
+title:Intransitivity and Vagueness. citation:-1
+title:Set-theoretic completeness for epistemic and conditional logic. citation:-1
+title:Errata: ``The relationship between knowledge, belief, and certainty''. citation:-1
+title:Equations between Regular Terms and an Application to Process Logic citation:-1
+title:The relationship between knowledge, belief and certainty. citation:-1
+title:Least expected cost query optimization: an exercise in utility citation:-1
+title:Generating Degrees of Belief from Statistical Information: An Overview. citation:-1
+title:A note on knowledge-based programs and specifications citation:-1
+title:Performing work efficiently in the presence of faults citation:-1
+title:Expressing Security Properties Using Selective Interleaving Functions citation:-1
+title:Characterizing Solution Concepts in Games Using Knowledge-Based Programs. citation:-1
+title:Belief Revision: A Critique. citation:-1
+title:A Knowledge-Based Analysis of Global Function Computation. citation:-1
+title:On the NP-completeness of Finding an Optimal Strategy in Games with Common Payoffs citation:-1
+title:A Knowledge-Based Framework for Belief Change, Part II: Revision and Update. citation:-1
+title:A Knowledge-Based Framework for Belief change, Part I: Foundations. citation:-1
+title:On the Complexity of Conditional Logics. citation:-1
+title:Common Knowledge Revisited. citation:-1
+title:A Nonstandard Approach to the Logical Omniscience Problem. citation:-1
+title:Reasoning About Common Knowledge with Infinitely Many Agents citation:-1
+title:The Expressive Power of the Kierarchical Approach to Modeling Knowledge and Common Knowledge. citation:-1
+title:Decidability and Expressiveness for First-Order Logics of Probability (Extended Abstract) citation:-1
+title:Asymptotic Conditional Probabilities: The Non-Unary Case. citation:-1
+title:Evidence with Uncertain Likelihoods citation:-1
+title:From Qualitative to Quantitative Proofs of Security Properties Using First-Order Conditional Logic citation:-1
+title:Modeling Adversaries in a Logic for Security Protocol Analysis citation:-1
+title:When Ignorance is Bliss citation:-1
+title:A minimum-energy path-preserving topology-control algorithm. citation:-1
+title:Naming and Identity in a Multi-Agent Epistemic Logic. citation:-1
+title:Secrecy in Multiagent Systems. citation:-1
+title:Great Expectations. Part II: Generalized Expected Utility as a Universal Decision Rule. citation:-1
+title:Common knowledge revisited citation:-1
+title:A Logic for SDSI's Linked Local Name Spaces. citation:-1
+title:Great Expectations. Part I: On the Customizability of Generalized Expected Utility. citation:-1
+title:Responsibility and Blame: A Structural-Model Approach. citation:-1
+title:A decision-theoretic approach to reliable message delivery. citation:-1
+title:A Formal Foundation for XrML. citation:-1
+title:Axiomatic Definitions of Programming Languages: A Theoretical Assessment. citation:-1
+title:Full Abstraction and Expressive Completeness for FP citation:-1
+title:Deterministic Process Logic is Elementary citation:-1
+title:Reasoning about common knowledge with infinitely many agents. citation:-1
+title:Modeling Belief in Dynamic Systems, Part I: Foundations. citation:-1
+title:Using Sets of Probability Measures to Represent Uncertainty citation:-1
+title:The Propositional Dynamic Logic of Deterministic, Well-Structured Programs. citation:-1
+title:Knowledge-Based Synthesis of Distributed Systems Using Event Structures. citation:-1
+title:Knowledge-Based Programs. citation:-1
+title:Optimizing scrip systems: efficiency, crashes, hoarders, and altruists. citation:-1
+title:Iterated Regret Minimization: A More Realistic Solution Concept citation:-1
+title:A decision-theoretic approach to resource allocation in wireless multimedia networks. citation:-1
+title:Responsibility and Blame: A Structural-Model Approach. citation:-1
+title:Multiagent learning in large anonymous games. citation:-1
+title:What Causes a System to Satisfy a Specification? citation:-1
+title:Deterministic Propositional Dynamic Logic: Finite Models, Complexity, and Completeness. citation:-1
+title:Secrecy in Multiagent Systems. citation:-1
+title:Extensive games with possibly unaware players. citation:-1
+title:A Nonstandard Approach to the Logical Omniscience Problem. citation:-1
+title:Cheating Husbands and Other Stories: A Case Study of Knowledge, Action, and Communication (Preliminary Version). citation:-1
+title:Redoing the Foundations of Decision Theory. citation:-1
+title:Iterated Regret Minimization: A New Solution Concept. citation:-1
+title:Belief, Awareness, and Limited Reasoning. . citation:-1
+title:Interactive Unawareness Revisited citation:-1
+title:Modeling Belief in Dynamic Systems, Part II: Revision and Update. citation:-1
+title:Cox's Theorem Revisited (technical addendum). citation:-1
+title:Representation Dependence in Probabilistic Inference. citation:-1
+title:Defining Relative Likelihood in Partially-Ordered Structures. citation:-1
+title:A Counterexample to Theorems of Cox and Fine. citation:-1
+title:Axiomatizing Causal Reasoning. citation:-1
+title:Updating Probabilities. citation:-1
+title:Random Worlds and Maximum Entropy. citation:-1
+title:Complete Axiomatizations for Reasoning About Knowledge and Time citation:-1
+title:Equations Between Regular Terms and an Application to Process Logic. citation:-1
+title:A note on knowledge-based programs and specifications. citation:-1
+title:Using Counterfactuals in Knowledge-Based Programming. citation:-1
+title:Using counterfactuals in knowledge-based programming. citation:-1
+title:Presburger Arithmetic with Unarr Predicates is Pi Complete. citation:-1
+title:Algorithmic Knowledge. citation:-1
+title:Characterizing the Common Prior Assumption. citation:-1
+title:Clock Synchronization and the Power of Broadcasting. citation:-1
+title:Multi-Agent Only Knowing. citation:-1
+title:A knowledge-theoretic analysis of uniform distributed coordination and failure detectors. citation:-1
+title:Probabilistic algorithmic knowledge. citation:-1
+title:Interactive unawareness revisited. citation:-1
+title:The Propositional Dynamic Logic of Deterministic, Well-Structured Programs (Extended Abstract) citation:-1
+title:Probabilistic Algorithmic Knowledge. citation:-1
+title:Deterministic Process Logic Is Elementary citation:-1
+title:A Critical Reexamination of Default Logic, Autoepistemic Logic, and Only Knowing. citation:-1
+title:Hypothetical Knowledge and Counterfactual Reasoning. citation:-1
+title:What Can Machines Know? On the Epistemic Properties of Machines. citation:-1
+title:An Operational Semantics for Knowledge Bases. citation:-1
+title:Reasoning About Knowledge: An Overview. citation:-1
+title:On Time versus Space III. citation:-1
+title:Reasoning About Knowledge: A Tutorial. citation:-1
+title:A Logic for Reasoning about Upper Probabilities. citation:-1
+title:Causes and Explanations: A Structural-Model Approach - Part II: Explanations. citation:-1
+title:Great expectations. Part II: generalized expected utility as a universal decision rule. citation:-1
+title:The Failure Discovery Problem. citation:-1
+title:Message-Optimal Protocols for Byzantine Agreement. citation:-1
+title:Rational secret sharing and multiparty computation: extended abstract. citation:-1
+title:Characterizing and reasoning about probabilistic and non-probabilistic expectation. citation:-1
+title:A Knowledge-Based Analysis of Zero Knowledge (Preliminary Report) citation:-1
+title:Optimal Precision in the Presence of Uncertainty (Preliminary Version) citation:-1
+title:Decidability and Expressiveness for First-Order Logics of Probability citation:-1
+title:Intransitivity and Vagueness citation:-1
+title:Using Multi-Agent Systems to Represent Uncertainty (invited talk). citation:-1
+title:The Complexity of Reasoning about Knowledge and Time: Extended Abstract citation:-1
+title:Reasoning about Knowledge and Time in Asynchronous Systems citation:-1
+title:A formal foundation for XrML. citation:-1
+title:The Lotus-Eater Attack citation:-1
+title:Dealing With Logical Omniscience: Expressiveness and Pragmatics citation:-1
+title:Plausibility Measures: A General Approach For Representing Uncertainty. citation:-1
+title:Cheating Husbands and other Stories: A Case Study of Knowledge, Action, and Communication. citation:-1
+title:Common Knowledge Revisited. citation:-1
+title:Representation Dependence in Probabilistic Inference. citation:-1
+title:Performing Work Efficiently in the Presence of Faults. citation:-1
+title:Beyond nash equilibrium: solution concepts for the 21st century. citation:-1
+title:The lotus-eater attack. citation:-1
+title:Defaults and Normality in Causal Structures citation:-1
+title:Beyond Nash Equilibrium: Solution Concepts for the 21st Century citation:-1
+title:A Logic for Reasoning about Evidence citation:-1
+title:Erratum to "Zero-one laws for modal logic" [Ann. Pure Appl. Logic 69 (1994) 157-193]. citation:-1
+title:Zero-One Laws for Modal Logic. citation:-1
+title:A Logic for SDSI's Linked Local Name Spaces. citation:-1
+title:A Logical Reconstruction of SPKI. citation:-1
+title:Updating Sets of Probabilities. citation:-1
+title:Updating Probabilities. citation:-1
+title:An almost-surely terminating polynomial protocol forasynchronous byzantine agreement with optimal resilience. citation:-1
+title:Reasoning about Procedures as Parameters in the Language L4 citation:-1
+title:Generalized solution concepts in games with possibly unaware players. citation:-1
+title:Updating Sets of Probabilities citation:-1
+title:Probability Update: Conditioning vs. Cross-Entropy. citation:-1
+title:Reasoning About Knowledge of Unawareness Revisited citation:-1
+title:A Logical Characterization of Iterated Admissibility citation:-1
+title:Knowledge-Based Synthesis of Distributed Systems Using Event Structures citation:-1
+title:Constructive Decision Theory citation:-1
+title:Toward Expressive and Scalable Sponsored Search Auctions. citation:-1
+title:Axiomatic Definitions of Programming Languages: A Theoretical Assessment. citation:-1
+title:Secrecy in Multiagent Systems citation:-1
+title:Dealing with logical omniscience. citation:-1
+title:A logical reconstruction of SPKI citation:-1
+title:What causes a system to satisfy a specification&quest;. citation:-1
+title:Beyond Nash Equilibrium: Solution Concepts for the 21st Century. citation:-1
+title:Using Multi-Agent Systems to Represent Uncertainty. citation:-1
+title:Cox's Theorem Revisited citation:-1
+title:Modeling Belief in Dynamic Systems, Part II: Revision and Update citation:-1
+title:Reasoning about Expectation. citation:-1
+title:Irrelevance and Conditioning in First-Order Probabilistic Logic. citation:-1
+title:A Logic for Reasoning about Evidence. citation:-1
+title:Characterizing the NP-PSPACE Gap in the Satisfiability Problem for Modal Logic citation:-1
+title:Axiomatizing Causal Reasoning. citation:-1
+title:Defining Relative Likelihood in Partially-Ordered Preferential Structures citation:-1
+title:Defining Relative Likelihood in Partially-Ordered Preferential Structures. citation:-1
+title:Reasoning About Knowledge of Unawareness citation:-1
+title:A Logic for Reasoning about Upper Probabilities. citation:-1
+title:Asymptotic Conditional Probabilities for First-Order Logic citation:-1
+title:First-Order Conditional Logic Revisited citation:-1
+title:Set-Theoretic Completeness for Epistemic and Conditional Logic citation:-1
+title:Reasoning about Noisy Sensors and Effectors in the Situation Calculus citation:-1
+title:From Causal Models To Counterfactual Structures. citation:-1
+title:I Don't Want to Think About it Now: Decision Theory with Costly Computation. citation:-1
+title:Proceedings of the 1st Conference on Theoretical Aspects of Reasoning about Knowledge, Monterey, CA, March 1986 citation:-1
+title:Proceedings of the 9th Conference on Theoretical Aspects of Rationality and Knowledge (TARK-2003), Bloomington, Indiana, USA, June 20-22, 2003 citation:-1
+title:UAI '04, Proceedings of the 20th Conference in Uncertainty in Artificial Intelligence, July 7-11 2004, Banff, Canada citation:-1
+title:MDPs with Unawareness citation:-1
+title:Erratum for "What causes a system to satisfy a specification?". citation:-1
+title:Cooperative equilibrium. citation:-1
+title:Awareness in Games, Awareness in Logic. citation:-1
+title:Game Theory with Costly Computation: Formulation and Application to Protocol Security. citation:-1
+title:On spectrum sharing games. citation:-1
+title:A knowledge-based analysis of global function computation. citation:-1
+title:Evidence with uncertain likelihoods. citation:-1
+title:Dealing with logical omniscience: Expressiveness and pragmatics. citation:-1
+title:Causality in Databases. citation:-1
+title:Reasoning about uncertainty. citation:-1
+title:Constructive Decision Theory: Short Summary. citation:-1
+title:A Counter Example to Theorems of Cox and Fine citation:-1
+title:Multiagent Learning in Large Anonymous Games. citation:-1
+title:Journals for certification, conferences for rapid dissemination. citation:-1
+title:From Causal Models To Counterfactual Structures citation:-1
+title:Viewpoint: Journals for Certification, Conferences for Rapid Dissemination citation:-1
+title:No justified complaints: On fair sharing of multiple resources citation:-1
+title:Actual causation and the art of modeling citation:-1
+title:I Don't Want to Think About it Now:Decision Theory With Costly Computation citation:-1
+title:Solution to Exchanges 8.1 puzzle: identifying the champion. citation:-1
+title:Algorithmic rationality: adding cost of computation to game theory. citation:-1
+title:Distributed computing meets game theory: combining insights from two fields. citation:-1
+title:Causality, Responsibility, and Blame: A Structural-Model Approach. citation:-1
+title:Beyond Nash Equilibrium: Solution Concepts for the 21st Century. citation:-1
+title:Reasoning about justified belief. citation:-1
+title:Making Decisions Using Sets of Probabilities: Updating, Time Consistency, and Calibration. citation:-1
+title:MDPs with Unawareness. citation:-1
+title:The hierarchical approach to modeling knowledge and common knowledge. citation:-1
+title:A nonstandard characterization of sequential equilibrium, perfect equilibrium, and proper equilibrium. citation:-1
+title:Hypothetical knowledge and counterfactual reasoning. citation:-1
+title:On the NP-completeness of finding an optimal strategy in games with common payoffs. citation:-1
+title:Generalized solution concepts in games with possibly unaware players. citation:-1
+title:Characterizing the Common Prior Assumption. citation:-1
+title:Alternative Semantics for Unawareness. citation:-1
+title:Reasoning about knowledge of unawareness. citation:-1
+title:Interactive unawareness revisited. citation:-1
+title:Lexicographic probability, conditional probability, and nonstandard probability. citation:-1
+title:Substantive Rationality and Backward Induction. citation:-1
+title:A computer scientist looks at game theory. citation:-1
+title:Iterated regret minimization: A new solution concept. citation:-1
+title:A Computing Research Repository. citation:-1
+title:Ambiguous Language and Differences in Beliefs citation:-1
+title:Optimizing Scrip Systems: Crashes, Altruists, Hoarders, Sybils and Collusion citation:-1
+title:An Equilibrium Analysis of Scrip Systems citation:-1
+title:Proceedings of the Fifth Annual ACM Symposium on Principles of Distributed Computing, Calgary, Alberta, Canada, August 11-13, 1986 citation:-1
+title:Dexter Kozen: An Appreciation. citation:-1
+title:No justified complaints: on fair sharing of multiple resources. citation:-1
+title:Proceedings of the Twentieth Conference on Uncertainty in Artificial Intelligence (2004) citation:-1
+title:Optimizing scrip systems: crashes, altruists, hoarders, sybils and collusion. citation:-1
+title:Ambiguous Language and Differences in Beliefs. citation:-1
+title:I'm Doing as Well as I Can: Modeling People as Rational Finite Automata. citation:-1
+title:Weighted Sets of Probabilities citation:-1
+title:Weighted Sets of Probabilities and MinimaxWeighted Expected Regret: New Approaches for Representing Uncertainty and Making Decisions. citation:-1
+title:A generalized dynamic flows problem. citation:-1
+title:Reasoning about knowledge of unawareness revisited. citation:-1
+title:Constructive Decision Theory. citation:-1
+title:Defining Explanation in Probabilistic Systems citation:-1
+title:Probability Update: Conditioning vs. Cross-Entropy citation:-1
+title:Generating New Beliefs From Old citation:-1
+title:Plausibility Measures: A User's Guide citation:-1
+title:Weighted Sets of Probabilities and Minimax Weighted Expected Regret: New Approaches for Representing Uncertainty and Making Decisions citation:-1
+title:A Qualitative Markov Assumption and its Implications for Belief Change citation:-1

@@ -1,0 +1,339 @@
+title:Matrix Factorization Approach for Feature Deduction and Design of Intrusion Detection Systems. citation:-1
+title:Hybrid differential evolution - Particle Swarm Optimization algorithm for solving global optimization problems. citation:-1
+title:Analysis of Dynamic Source Routing and Destination-Sequenced Distance-Vector Protocols for Different Mobility Models. citation:-1
+title:Rough Set Generating Prediction Rules for Stock Price Movement. citation:-1
+title:A Linear Genetic Programming Approach for Modeling Electricity Demand Prediction in Victoria. citation:-1
+title:MEPIDS: Multi-Expression Programming for Intrusion Detection System. citation:-1
+title:Global Optimisation of Neural Networks Using a Deterministic Hybrid Approach. citation:-1
+title:Security Scheme for Malicious Node Detection in Mobile Ad Hoc Networks. citation:-1
+title:A Novel Scheme for Secured Data Transfer Over Computer Networks citation:-1
+title:A closed loop stability analysis and parameter selection of the Particle Swarm Optimization dynamics for faster convergence. citation:-1
+title:A Compendium of Heuristic Methods for Scheduling in Computational Grids. citation:-1
+title:A Fuzzy Particle Swarm Approach to Multiobjective Quadratic Assignment Problems. citation:-1
+title:Evolutionary Method for Nonlinear Systems of Equations. citation:-1
+title:Hybrid Particle Swarm - Evolutionary Algorithm for Search and Optimization. citation:-1
+title:Hybrid learning machines. citation:-1
+title:Guest editorial: bio-inspired information hiding. citation:-1
+title:An Adaptive Particle Swarm Optimizer Using Balanced Explorative and Exploitative Behaviors. citation:-1
+title:An Empirical Comparison of Kernel Selection for Support Vector Machines. citation:-1
+title:Modified Line Search Method for Global Optimization. citation:-1
+title:Towards an automatic real-time assessment of online discussions in Computer-Supported Collaborative Learning practices. citation:-1
+title:The population dynamics of Differential Evolution: A mathematical model. citation:-1
+title:Innovations in Hybrid Intelligent Systems citation:-1
+title:Soft Computing Paradigms for Web Access Pattern Analysis. citation:-1
+title:A distributed security scheme for ad hoc networks. citation:-1
+title:A New Rough Set Reduct Algorithm Based on Particle Swarm Optimization. citation:-1
+title:Editorial - Hybrid Soft Computing and Applications. citation:-1
+title:Hash Functions Based on Large Quasigroups. citation:-1
+title:Exchange Rate Forecasting Using Flexible Neural Trees. citation:-1
+title:Hierarchical Radial Basis Function Neural Networks for Classification Problems. citation:-1
+title:Rough Morphology Hybrid Approach for Mammography Image Classification and Prediction. citation:-1
+title:Designing resilient networks using multicriteria metaheuristics. citation:-1
+title:Population-variance and explorative power of Harmony Search: An analysis. citation:-1
+title:Jigsaw-based Secure Data Transfer over Computer Networks. citation:-1
+title:A Comparative Study of Fuzzy Classifiers on Breast Cancer Data. citation:-1
+title:Computational Intelligence in Solving Bioinformatics Problems: Reviews, Perspectives, and Challenges. citation:-1
+title:Efficient Interaction Analysis for an Effective Provision of Knowledge about the Discussion Process to CSCL Practices. citation:-1
+title:Hybrid multi-agent framework for detection of stealthy probes. citation:-1
+title:A Novel Improvement of Neural Network Classification Using Further Division of Partition Space. citation:-1
+title:Weather analysis using ensemble of connectionist learning paradigms. citation:-1
+title:How to Solve a Multicriterion Problem for Which Pareto Dominance Relationship Cannot Be Applied? A Case Study from Medicine. citation:-1
+title:Scheduling in Multiprocessor System Using Genetic Algorithms. citation:-1
+title:Particle Swarm Based Meta-Heuristics for Function Optimization and Engineering Applications. citation:-1
+title:Analysis of reproduction operator in Bacterial Foraging Optimization Algorithm. citation:-1
+title:Improved Particle Swarm Optimization with low-discrepancy sequences. citation:-1
+title:Engineering Evolutionary Intelligent Systems citation:-1
+title:Web Traffic Mining Using a Concurrent Neuro-Fuzzy Approach. citation:-1
+title:Adaptive Database Learning in Decision Support Systems Using Evolutionary Fuzzy Systems: A Generic Framework. citation:-1
+title:Decision Support Systems Using Hybrid Neurocomputing. citation:-1
+title:Knowledge engineering in an intelligent environment. citation:-1
+title:Improving kNN Text Categorization by Removing Outliers from Training Set. citation:-1
+title:A Particle Swarm Optimization Algorithm for Neighbor Selection in Peer-to-Peer Networks. citation:-1
+title:Evolution Induced Secondary Immunity: An Artificial Immune System Based Intrusion Detection System. citation:-1
+title:Survey: Using Genetic Algorithm Approach in Intrusion Detection Systems Techniques. citation:-1
+title:Particle Swarm Optimization Using Adaptive Mutation. citation:-1
+title:Genetic Systems Programming: Theory and Experiences citation:-1
+title:Computational Intelligence in Information Assurance and Security citation:-1
+title:Computational Chemotaxis in Ants and Bacteria over Dynamic Environments citation:-1
+title:Kernel based automatic clustering using modified particle swarm optimization algorithm. citation:-1
+title:Adaptation of a Mamdani Fuzzy Inference System Using Neuro-Genetic Approach for Tactical Air Combat Decision Support System. citation:-1
+title:Hybrid Neurocomputing for Breast Cancer Detection. citation:-1
+title:HiNFRA: Hierarchical Neuro-Fuzzy Learning for Online Risk Assessment. citation:-1
+title:Online hybrid traffic classifier for Peer-to-Peer systems based on network processors. citation:-1
+title:Optimization of a Kraft Pulping System: Using Particle Swarm Optimization and Differential Evolution. citation:-1
+title:SHOMAS: Intelligent guidance and suggestions in shopping centres. citation:-1
+title:Distributed Multi-Intelligent Agent Framework for Detection of Stealthy Probes. citation:-1
+title:Stock Index Modeling Using Hierarchical Radial Basis Function Networks. citation:-1
+title:Soft Computing for Developing Short Term Load Forecasting Models in Czech Republic. citation:-1
+title:Special issue: Innovations in intelligent agent technology. citation:-1
+title:Multicriteria programming in medical diagnosis and treatments. citation:-1
+title:Social Aspects of Web Page Contents. citation:-1
+title:Engineering Evolutionary Intelligent Systems: Methodologies, Architectures and Reviews. citation:-1
+title:A Novel Scheme for Secured Data Transfer Over Computer Networks. citation:-1
+title:Genetic programming approach for fault modeling of electronic hardware. citation:-1
+title:Network and information security: A computational intelligence approach: Special Issue of Journal of Network and Computer Applications. citation:-1
+title:Intelligent Web Caching Using Neurocomputing and Particle Swarm Optimization Algorithm. citation:-1
+title:Information Assurance and Security. citation:-1
+title:SCIDS: A Soft Computing Intrusion Detection System. citation:-1
+title:Ensemble of One-Class Classifiers for Network Intrusion Detection System. citation:-1
+title:A new protocol to counter online dictionary attacks. citation:-1
+title:Ensemble of Genetic Programming Models for Designing Reactive Power Controllers. citation:-1
+title:Gene Expression Profiling Using Flexible Neural Trees. citation:-1
+title:Neuro-fuzzy modelling in support of knowledge management in social regulation of access to cigarettes by minors. citation:-1
+title:Analyzing Social Networks Using FCA: Complexity Aspects. citation:-1
+title:Data gravitation based classification. citation:-1
+title:Hardware Software Partitioning Problem in Embedded System Design Using Particle Swarm Optimization Algorithm. citation:-1
+title:Ensemble of hybrid neural network learning approaches for designing pharmaceutical drugs. citation:-1
+title:Emotional Ant Based Modeling of Crowd Dynamics. citation:-1
+title:Optimal Tuning of PI Speed Controller Using Nature Inspired Heuristics. citation:-1
+title:Hybrid Methods for Stock Index Modeling. citation:-1
+title:Towards a Suitable Reconciliation of the Findings in Collaborative Fuzzy Clustering. citation:-1
+title:Adaptive Computational Chemotaxis in Bacterial Foraging Algorithm. citation:-1
+title:Natural Computation for Business Intelligence from Web Usage Mining. citation:-1
+title:ALEC: An Adaptive Learning Framework for Optimizing Artificial Neural Networks. citation:-1
+title:Tuning Evolutionary Algorithm Performance Using Nature Inspired Heuristics. citation:-1
+title:Real Stock Trading Using Soft Computing Models. citation:-1
+title:Special Issue on Web Services Practices. citation:-1
+title:Computational Intelligence in Bioinformatics citation:-1
+title:Understanding Social Networks Using Formal Concept Analysis. citation:-1
+title:Soft Computing Paradigms for Web Access Pattern Analysis. citation:-1
+title:New Particle Swarm Optimization Algorithm Incorporating Reproduction Operator for Solving Global Optimization Problems. citation:-1
+title:Detecting Insider Attacks Using Non-negative Matrix Factorization. citation:-1
+title:Computational Intelligence in Data Mining. citation:-1
+title:Decision support systems using hybrid neurocomputing. citation:-1
+title:Integrating Ensemble of Intelligent Systems for Modeling Stock Indices. citation:-1
+title:Is Neural Network a Reliable Forecaster on Earth? A MARS Query! citation:-1
+title:A Hybrid Rough Set--Particle Swarm Algorithm for Image Pixel Classification. citation:-1
+title:A System for Ensuring Data Integrity in Grid Environments. citation:-1
+title:CompChall: Addressing Password Guessing Attacks. citation:-1
+title:Hybrid Feature Selection for Modeling Intrusion Detection Systems. citation:-1
+title:Improved Kernel Learning Using Smoothing Parameter Based Linear Kernel. citation:-1
+title:DIPS: A Framework for Distributed Intrusion Prediction and Prevention Using Hidden Markov Models and Online Fuzzy Risk Assessment. citation:-1
+title:Reducing Social Network Dimensions Using Matrix Factorization Methods. citation:-1
+title:Computational chemotaxis in ants and bacteria over dynamic environments. citation:-1
+title:Inertia-Adaptive Particle Swarm Optimizer for Improved Global Search. citation:-1
+title:An LSB Data Hiding Technique Using Prime Numbers. citation:-1
+title:Scheduling Meta-Tasks in Distributed Heterogeneous Computing Systems: A Meta-Heuristic Particle Swarm Optimization Approach. citation:-1
+title:Data Mining Approach for Analyzing Call Center Performance. citation:-1
+title:Hybrid Fuzzy-Genetic Algorithm Approach for Crew Grouping. citation:-1
+title:Stability analysis of the reproduction operator in bacterial foraging optimization. citation:-1
+title:HAUNT-24: 24-bit Hierarchical, Application-Confined Unique Naming Technique. citation:-1
+title:A multi-swarm approach for neighbor selection in peer-to-peer networks. citation:-1
+title:Web Usage Mining Using Artificial Ant Colony Clustering and Genetic Programming citation:-1
+title:Swarms on Continuous Data citation:-1
+title:Enhanced Centroid-Based Classification Technique by Filtering Outliers. citation:-1
+title:On Some Properties of the lbest Topology in Particle Swarm Optimization. citation:-1
+title:Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic Approach for Tactical Air Combat Decision Support System citation:-1
+title:Self Organizing Sensor Networks Using Intelligent Clustering. citation:-1
+title:Traffic Accident Analysis Using Decision Trees and Neural Networks citation:-1
+title:Hybrid Evolutionary Algorithm for Solving Global Optimization Problems. citation:-1
+title:Special issue on hybrid neurocomputing. citation:-1
+title:A GA(TS) Hybrid Algorithm for Scheduling in Computational Grids. citation:-1
+title:Editorial First Issue. citation:-1
+title:Estimation of Distribution Algorithm for Optimization of Neural Networks for Intrusion Detection System. citation:-1
+title:Multi-objective Peer-to-Peer Neighbor-Selection Strategy Using Genetic Algorithm. citation:-1
+title:Genetic Annealing Optimization: Design and Real World Applications. citation:-1
+title:Optimizing Pseudonym Updation in Vehicular Ad-Hoc Networks. citation:-1
+title:Special issue on Hybrid Intelligence using rough sets. citation:-1
+title:Improved Harmony Search for Economic Power Dispatch. citation:-1
+title:A Comparative Study of Fuzzy Classification Methods on Breast Cancer Data citation:-1
+title:Estimating Genome Reversal Distance by Genetic Algorithm citation:-1
+title:DCT Based Texture Classification Using Soft Computing Approach citation:-1
+title:Multiobjective Optimization Using Adaptive Pareto Archived Evolution Strategy. citation:-1
+title:Is Neural Network a Reliable Forecaster on Earth? A MARS Query! citation:-1
+title:Intelligent Web Caching for E-learning Log Data. citation:-1
+title:Hybrid Fuzzy-Linear Programming Approach for Multi Criteria Decision Making Problems citation:-1
+title:Data Mining Approach for Analyzing Call Center Performance citation:-1
+title:A Concurrent Fuzzy-Neural Network Approach for Decision Support Systems citation:-1
+title:The Largest Compatible Subset Problem for Phylogenetic Data citation:-1
+title:Human Perception-Based Color Image Segmentation Using Comprehensive Learning Particle Swarm Optimization. citation:-1
+title:A novel global optimization technique for high dimensional functions. citation:-1
+title:Automatic Circle Detection on Images with Annealed Differential Evolution. citation:-1
+title:Soft Computing Models for Network Intrusion Detection Systems. citation:-1
+title:Hybrid Multi Agent-Neural Network Intrusion Detection with Mobile Visualization. citation:-1
+title:Hybrid Line Search for Multiobjective Optimization. citation:-1
+title:Two Phase Semi-supervised Clustering Using Background Knowledge. citation:-1
+title:Automatic Clustering Using a Synergy of Genetic Algorithm and Multi-objective Differential Evolution. citation:-1
+title:Estimation Using Differential Evolution for Optimal Crop Plan. citation:-1
+title:Stability analysis of the ant system dynamics with non-uniform pheromone deposition rules. citation:-1
+title:Face Recognition Using Interpolated Bezier Curve Based Representation. citation:-1
+title:Evolutionary Computation: from Genetic Algorithms to Genetic Programming. citation:-1
+title:Evolving Intrusion Detection Systems. citation:-1
+title:Particle Swarm Scheduling for Work-Flow Applications in Distributed Computing Environments. citation:-1
+title:Stock Market Modeling Using Genetic Programming Ensembles. citation:-1
+title:Performance Tuning of Evolutionary Algorithms Using Particle Sub Swarms. citation:-1
+title:Evolutionary Multiobjective Optimization Approach for Evolving Ensemble of Intelligent Paradigms for Stock Market Modeling. citation:-1
+title:Hybrid Artificial Intelligence Systems. citation:-1
+title:QoS-Based Authentication Scheme for Ad Hoc Wireless Networks. citation:-1
+title:QoS-Based Authentication Scheme for Ad Hoc Wireless Networks. citation:-1
+title:Engineering Drug Design Using a Multi-Input Multi-Output Neuro-Fuzzy System. citation:-1
+title:Metaheuristics for Scheduling in Industrial and Manufacturing Applications citation:-1
+title:A New PSO Algorithm with Crossover Operator for Global Optimization Problems. citation:-1
+title:Jigsaw-based Security in Data Transfer in Computer Networks citation:-1
+title:A new quantum behaved particle swarm optimization. citation:-1
+title:Soft Computing Models for Network Intrusion Detection Systems citation:-1
+title:Hybrid Information Systems, First International Workshop on Hybrid Intelligent Systems, Adelaide, Australia, December 11-12, 2001, Proceedings citation:-1
+title:Soft Computing Systems - Design, Management and Applications, HIS 2002, December 1-4, 2002, Santiago, Chile citation:-1
+title:Design and Application of Hybrid Intelligent Systems, HIS03, the Third International Conference on Hybrid Intelligent Systems, Melbourne, Australia, December 14-17, 2003 citation:-1
+title:5th International Conference on Hybrid Intelligent Systems (HIS 2005), 6.9 November 2005, Rio de Janeiro, Brazil citation:-1
+title:8th International Conference on Hybrid Intelligent Systems (HIS 2008), September 10-12, 2008, Barcelona, Spain citation:-1
+title:Eighth International Conference on Intelligent Systems Design and Applications, ISDA 2008, 26-28 November 2008, Kaohsiung, Taiwan, 3 Volumes citation:-1
+title:AMS 2009, Third Asia International Conference on Modelling & Simulation, 25-29 May 2009, Bandung, Bali, Indonesia citation:-1
+title:7th International Conference on Computer Information Systems and Industrial Management Applications, CISIM 2008, Ostrava, Czech Republic, June 26-28, 2008 citation:-1
+title:A Bacterial Evolutionary Algorithm for automatic data clustering. citation:-1
+title:Automatic clustering with multi-objective Differential Evolution algorithms. citation:-1
+title:Differential Evolution with Laplace mutation operator. citation:-1
+title:Mixed Mutation Strategy Embedded Differential Evolution. citation:-1
+title:A micro-bacterial foraging algorithm for high-dimensional optimization. citation:-1
+title:Third IEEE International Conference on Digital Information Management (ICDIM), November 13-16, 2008, London, UK, Proceedings citation:-1
+title:Proccedings of the Fourth International Conference on Information Assurance and Security, IAS 2008, September 8-10, 2008, Napoli, Italy citation:-1
+title:Soft Computing as Transdisciplinary Science and Technology, Proceedings of the fourth IEEE International Workshop, WSTST'05, Muroran, Japan citation:-1
+title:CSTST 2008: Proceedings of the 5th International Conference on Soft Computing as Transdisciplinary Science and Technology, Cergy-Pontoise, France, October 28-31, 2008 citation:-1
+title:Hybrid Artificial Intelligence Systems, Third International Workshop, HAIS 2008, Burgos, Spain, September 24-26, 2008. Proceedings citation:-1
+title:Applied Soft Computing Technologies: The Challenge of Complexity, Proceedings of the 9th Online World Conference on Soft Computing in Industrial Applications (WSC9), September 20th - October 8th, 2004, held on the World Wide Web citation:-1
+title:International Conference on Computational Aspects of Social Networks, CASoN 2009, Fontainebleau, France, 24-27 June 2009 citation:-1
+title:EMS 2008, Second UKSIM European Symposium on Computer Modeling and Simulation, Liverpool, England, UK, 8-10 September 2008 citation:-1
+title:DIPKIP: A Connectionist Knowledge Management System to Identify Knowledge Deficits in Practical Cases. citation:-1
+title:Data Hiding Techniques Using Prime and Natural Numbers citation:-1
+title:An LSB Data Hiding Technique Using Natural Numbers citation:-1
+title:An LSB Data Hiding Technique Using Prime Numbers citation:-1
+title:An efficient algorithm for incremental mining of temporal association rules. citation:-1
+title:A Multi-swarm Approach to Multi-objective Flexible Job-shop Scheduling Problems. citation:-1
+title:Data Clustering Using Multi-objective Differential Evolution Algorithms. citation:-1
+title:Low Discrepancy Initialized Particle Swarm Optimization for Solving Constrained Optimization Problems. citation:-1
+title:Hybrid intelligent algorithms and applications. citation:-1
+title:Approximating Pareto frontier using a hybrid line search approach. citation:-1
+title:Stability analysis of the reproduction operator in bacterial foraging optimization. citation:-1
+title:Agents and ambient intelligence: case studies. citation:-1
+title:Population Variance Harmony Search Algorithm to Solve Optimal Power Flow with Non-Smooth Cost Function. citation:-1
+title:Foundations of Computational Intelligence - Volume 3: Global Optimization citation:-1
+title:Foundations of Computational Intelligence - Volume 5: Function Approximation and Classification citation:-1
+title:Optimizing Information Retrieval Using Evolutionary Algorithms and Fuzzy Inference System. citation:-1
+title:Particle Swarm Optimization: Performance Tuning and Empirical Analysis. citation:-1
+title:Turbulent Particle Swarm Optimization Using Fuzzy Parameter Tuning. citation:-1
+title:The Evolution of Fuzzy Classifier for Data Mining with Applications. citation:-1
+title:Differential evolution using a localized Cauchy mutation operator. citation:-1
+title:A Modified Invasive Weed Optimization Algorithm for training of feed- forward Neural Networks. citation:-1
+title:A modified Invasive Weed Optimization algorithm for time-modulated linear antenna array synthesis. citation:-1
+title:On convergence of multi-objective Particle Swarm Optimizers. citation:-1
+title:Linear antenna array synthesis using fitness-adaptive differential evolution algorithm. citation:-1
+title:Implementation of a New Hybrid Methodology for Fault Signal Classification Using Short -Time Fourier Transform and Support Vector Machines. citation:-1
+title:Time-series forecasting using a system of ordinary differential equations. citation:-1
+title:Analysis of the reproduction operator in an artificial bacterial foraging system. citation:-1
+title:New mutation schemes for differential evolution algorithm and their application to the optimization of directional over-current relay settings. citation:-1
+title:An associative watermarking based image authentication scheme. citation:-1
+title:Principle components analysis and Support Vector Machine based Intrusion Detection System. citation:-1
+title:On convergence of the multi-objective particle swarm optimizers. citation:-1
+title:Applying Wearable Solutions in Dependent Environments. citation:-1
+title:Searching Protein 3-D Structures for Optimal Structure Alignment Using Intelligent Algorithms and Data Structures. citation:-1
+title:Grid Security and Integration with Minimal Performance Degradation. citation:-1
+title:Self Organizing Sensors by Minimization of Cluster Heads Using Intelligent Clustering. citation:-1
+title:Special issue on Computational Intelligence in Information Retrieval. citation:-1
+title:Information Hiding and Multimedia Signal Processing. citation:-1
+title:Hiding Techniques Using Prime and Natural Numbers. citation:-1
+title:Pattern Clustering Using a Swarm Intelligence Approach. citation:-1
+title:Social Network Reduction Based on Stability. citation:-1
+title:Searching for Quasigroups for Hash Functions with Genetic Algorithms. citation:-1
+title:A Hybrid Ant Colony Differential Evolution and its Application to Water Resources Problems. citation:-1
+title:A Simple Adaptive Differential Evolution Algorithm. citation:-1
+title:Fuzzy Clustering using Hybrid Fuzzy c-means and Fuzzy Particle Swarm Optimization. citation:-1
+title:A New Diversity Guided Particle Swarm Optimization with Mutation. citation:-1
+title:Inserting Information Sharing Mechanism of PSO to Improve the Convergence of DE. citation:-1
+title:Rough Neuro-PSO Web Caching and XML Prefetching for Accessing Facebook from Mobile Environment. citation:-1
+title:HSAS: Heart Sound Authentication System. citation:-1
+title:Interleaver optimization by population based metaheuristics. citation:-1
+title:Two-channel quadrature mirror bank filter design using a Fitness- Adaptive Differential Evolution algorithm. citation:-1
+title:Evolving Fuzzy Classifier for Data Mining - an Information Retrieval Approach. citation:-1
+title:Fuzzy Rule Based Intelligent Security and Fire Detector System. citation:-1
+title:An Implementation of Rough Set in Optimizing Mobile Web Caching Performance. citation:-1
+title:Fuzzy Online Risk Assessment for Distributed Intrusion Prediction and Prevention Systems. citation:-1
+title:Building Multiobjective Resilient Networks. citation:-1
+title:Optimal gain tuning of PI speed controller in induction motor drives using particle swarm optimization. citation:-1
+title:Dynamic multi-objective optimization based on membrane computing for control of time-varying unstable plants. citation:-1
+title:Erratum to "On convergence of the multi-objective particle swarm optimizers" [Inform. Sci 181 (2011) 1411-1425]. citation:-1
+title:A line search approach for high dimensional function optimization. citation:-1
+title:Improved differential evolution algorithm with decentralisation of population. citation:-1
+title:Hybrid fuzzy-linear programming approach for multi-criteria decision making problems. citation:-1
+title:Intelligent weather monitoring systems using connectionist models. citation:-1
+title:Inter-particle communication and search-dynamics of lbest particle swarm optimizers: An analysis. citation:-1
+title:Many-threaded implementation of differential evolution for the CUDA platform. citation:-1
+title:A modified differential evolution for autonomous deployment and localization of sensor nodes. citation:-1
+title:Levy mutated Artificial Bee Colony algorithm for global optimization. citation:-1
+title:Fuzzy classification by evolutionary algorithms. citation:-1
+title:Advances in Computing and Communications - First International Conference, ACC 2011, Kochi, India, July 22-24, 2011, Proceedings, Part III citation:-1
+title:Advances in Computing and Communications - First International Conference, ACC 2011, Kochi, India, July 22-24, 2011, Proceedings, Part IV citation:-1
+title:Advances in Computing and Communications - First International Conference, ACC 2011, Kochi, India, July 22-24, 2011. Proceedings, Part I citation:-1
+title:Hierarchical dynamic neighborhood based Particle Swarm Optimization for global optimization. citation:-1
+title:An improved Multiobjective Evolutionary Algorithm based on decomposition with fuzzy dominance. citation:-1
+title:A Takagi-Sugeno Fuzzy Model of a Rudimentary Angle Controller for Artillery Fire. citation:-1
+title:Proceedings of the 12th UKSim, International Conference on Computer Modelling and Simulation, Cambridge, UK, 24-26 March 2010 citation:-1
+title:A Method for Calibrating Micro Electro Mechanical Systems Accelerometer for Use as a Tilt and Seismograph Sensor. citation:-1
+title:Second International Conference on Computational Intelligence, Communication Systems and Networks, CICSyN 2010, Liverpool, UK, 28-30 July, 2010 citation:-1
+title:Third International Conference on Computational Intelligence, Communication Systems and Networks, CICSyN 2011, Bali, Indonesia, 26-28 July, 2011 citation:-1
+title:First International Conference on Computational Intelligence, Communication Systems and Networks, CICSYN 2009, Indore, India, 23-25 July, 2009 citation:-1
+title:An overview of rough-hybrid approaches in image processing. citation:-1
+title:An LSB Data Hiding Technique Using Natural Number Decomposition. citation:-1
+title:International Symposium on Distributed Computing and Artificial Intelligence, DCAI 2011, Salamanca, Spain, 6-8 April 2011 citation:-1
+title:CompChall: Addressing Password Guessing Attacks. citation:-1
+title:Network intrusion detection system: A machine learning approach. citation:-1
+title:A Multi-Factor Security Protocol for Wireless Payment - Secure Web Authentication using Mobile Devices citation:-1
+title:Grid Security and Integration with Minimal Performance Degradation citation:-1
+title:CompChall: Addressing Password Guessing Attacks citation:-1
+title:Inertia Weight strategies in Particle Swarm Optimization. citation:-1
+title:A Hybrid Differential Artificial Bee Algorithm based tuning of fractional order controller for PMSM drive. citation:-1
+title:Dichotomous search in ABC and its application in parameter estimation of software reliability growth models. citation:-1
+title:Two enhanced Differential Evolution variants for solving global optimization problems. citation:-1
+title:A comparison of many-threaded differential evolution and genetic algorithms on CUDA. citation:-1
+title:Forcoa.NET: An interactive tool for exploring the significance of authorship networks in DBLP data. citation:-1
+title:Design of an optimized intelligent controller of electromechanical system in aerospace application. citation:-1
+title:10th International Conference on Hybrid Intelligent Systems (HIS 2010), Atlanta, GA, USA, August 23-25, 2010 citation:-1
+title:11th International Conference on Hybrid Intelligent Systems, HIS 2011, Melacca, Malaysia, December 5-8, 2011 citation:-1
+title:Circular antenna array synthesis with a Differential Invasive Weed Optimization algorithm. citation:-1
+title:A hybrid evolutionary direct search technique for solving Optimal Control problems. citation:-1
+title:A new weighted rough set framework based classification for Egyptian NeoNatal Jaundice. citation:-1
+title:A Relational Approach to Model Transformation with QVT Relations Supporting Model Synchronization. citation:-1
+title:Understanding Plagiarism Linguistic Patterns, Textual Features, and Detection Methods. citation:-1
+title:EvoPOL: a framework for optimising social regulation policies. citation:-1
+title:Intelligent Computational Optimization in Engineering: Techniques and Applications. citation:-1
+title:Intelligent Computational Optimization in Engineering - Techniques and Applications citation:-1
+title:Evolving Schedules of Independent Tasks by Differential Evolution. citation:-1
+title:2nd International Conference on Intelligent Networking and Collaborative Systems, INCoS 2010, Thessaloniki, Greece, 24-26 November 2010 citation:-1
+title:Genetically Evolved Fuzzy Predictor for Photovoltaic Power Output Estimation. citation:-1
+title:Social and swarm aspects of co-authorship network. citation:-1
+title:Improvement of neural network classifier using floating centroids. citation:-1
+title:Swarm scheduling approaches for work-flow applications with security constraints in distributed data-intensive computing environments. citation:-1
+title:Geometrically invariant image watermarking using Polar Harmonic Transforms. citation:-1
+title:1st International Conference on Intelligent Networking and Collaborative Systems, INCoS 2009, Barcelona, Spain, 4-6 November 2009 citation:-1
+title:Scheduling Independent Tasks on Heterogeneous Distributed Environments by Differential Evolution. citation:-1
+title:A Novel Particle Swarm Optimization Approach for Grid Job Scheduling. citation:-1
+title:Patient's perception of health information security: The case of selected public and private hospitals in Addis Ababa. citation:-1
+title:Discriminative multinomial Naïve Bayes for network intrusion detection. citation:-1
+title:Secure protocol for ad hoc transportation system. citation:-1
+title:A framework for cyber surveillance of unlawful activities for critical infrastructure using computational grids. citation:-1
+title:Scaling IDS construction based on Non-negative Matrix factorization using GPU computing. citation:-1
+title:Towards intrusion detection by information retrieval and genetic programming. citation:-1
+title:Linear Antenna Array Synthesis with Invasive Weed Optimization Algorithm. citation:-1
+title:Second International Conference of Soft Computing and Pattern Recognition, SoCPaR 2010, Cergy Pontoise / Paris, France, December 7-10, 2010 citation:-1
+title:A new weighted rough set framework for imbalance class distribution. citation:-1
+title:Third International Conference of Soft Computing and Pattern Recognition, SoCPaR 2011, Dalian, China, October 14-16, 2011 citation:-1
+title:First International Conference of Soft Computing and Pattern Recognition, SoCPaR 2009, Malacca, Malaysia, December 4-7, 2009 citation:-1
+title:Motif Discovery Using Evolutionary Algorithms. citation:-1
+title:A Modified Differential Evolution Algorithm and Its Application to Engineering Problems. citation:-1
+title:Swarm Directions Embedded differential Evolution for Faster convergence of Global Optimization Problems. citation:-1
+title:Improving differential evolution algorithm by synergizing different improvement mechanisms. citation:-1
+title:Hierarchical multi-dimensional differential evolution for the design of beta basis function neural network. citation:-1
+title:Evolutionary prediction of photovoltaic power plant energy production. citation:-1
+title:Selected papers from the 6th International Conference on Soft Computing Models in Industrial and Environmental Applications. citation:-1
+title:Secure Private Cloud Architecture for Mobile Infrastructure as a Service. citation:-1
+title:Unconventional initialization methods for differential evolution. citation:-1
+title:A PSO-based document classification algorithm accelerated by the CUDA Platform. citation:-1
+title:Opposition based Chaotic Differential Evolution algorithm for solving global optimization problems. citation:-1
+title:A fingerprinting system calls approach for intrusion detection in a cloud environment. citation:-1
+title:12th International Conference on Intelligent Systems Design and Applications, ISDA 2012, Kochi, India, November 27-29, 2012 citation:-1
+title:A formalism of the object compounds viewed as information processing support. citation:-1
+title:11th International Conference on Intelligent Systems Design and Applications, ISDA 2011, Córdoba, Spain, November 22-24, 2011 citation:-1
+title:BFA and BMF: What is the difference. citation:-1
+title:International Joint Conference CISIS'12-ICEUTE'12-SOCO'12 Special Sessions, Ostrava, Czech Republic, September 5th-7th, 2012 citation:-1
+title:Seventh International Conference on Intelligent Systems Design and Applications, ISDA 2007, Rio de Janeiro, Brazil, October 20-24, 2007 citation:-1
+title:Spatial Information Based Image Segmentation Using a Modified Particle Swarm Optimization Algorithm. citation:-1
+title:Particle Swarm Approach to Scheduling Work-Flow Applications in Distributed Data-Intensive Computing Environments. citation:-1

@@ -1,0 +1,17 @@
+title1:Competitive Coding Scheme for Palmprint Verification. title2:Competitive coding scheme for palmprint verification citation:253 ncitation:201 pid347424
+title1:Tongue line extraction. title2:Tongue line extraction citation:7 ncitation:21 pid350097
+title1:Robust kernel discriminant analysis and its application to feature extraction and recognition. title2:Robust kernel discriminant analysis and its application to feature extraction and recognition citation:7 ncitation:7 pid916337
+title1:Palmprint Identification by Fourier Transform. title2:Palmprint identification by Fourier transform citation:248 ncitation:214 pid919147
+title1:KPCA Plus LDA: A Complete Kernel Fisher Discriminant Framework for Feature Extraction and Recognition. title2:KPCA plus LDA: a complete kernel Fisher discriminant framework for feature extraction and recognition citation:589 ncitation:504 pid1033407
+title1:Online Palmprint Identification. title2:Online palmprint identification citation:875 ncitation:769 pid1033525
+title1:Two-Dimensional PCA: A New Approach to Appearance-Based Face Representation and Recognition. title2:Two-dimensional PCA: a new approach to appearance-based face representation and recognition citation:2077 ncitation:1749 pid1033463
+title1:Globally Maximizing, Locally Minimizing: Unsupervised Discriminant Projection with Applications to Face and Palm Biometrics. title2:Globally maximizing, locally minimizing: unsupervised discriminant projection with applications to face and palm biometrics citation:278 ncitation:214 pid1033733
+title1:A new LDA-KL combined method for feature extraction and its generalisation. title2:A new LDA-KL combined method for feature extraction and its generalisation citation:7 ncitation:7 pid1030384
+title1:A new LDA-KL combined method for feature extraction and its generalisation. title2:A new LDA-KL combined method for feature extraction and its generalisation citation:7 ncitation:7 pid1030385
+title1:Hierarchical palmprint identification via multiple feature extraction. title2:Hierarchical palmprint identification via multiple feature extraction citation:249 ncitation:219 pid1042098
+title1:Palmprint feature extraction using 2-D Gabor filters. title2:Palmprint feature extraction using 2-D Gabor filters citation:243 ncitation:200 pid1039991
+title1:Palmprint recognition using eigenpalms features. title2:Palmprint recognition using eigenpalms features citation:423 ncitation:375 pid1045202
+title1:Fisherpalms based palmprint recognition. title2:Fisherpalms based palmprint recognition citation:312 ncitation:276 pid1046240
+title1:Parallel system design for time-delay neural networks. title2:Parallel system design for time-delay neural networks citation:7 ncitation:7 pid1132551
+title1:Face Recognition Based on Nonlinear DCT Discriminant Feature Extraction Using Improved Kernel DCV. title2:Face recognition based on nonlinear DCT discriminant feature extraction using improved kernel DCV citation:6 ncitation:3 pid2235565
+title1:Fast palmprint identification with multiple templates per subject. title2:Fast palmprint identification with multiple templates per subject citation:10 ncitation:3 pid2826911

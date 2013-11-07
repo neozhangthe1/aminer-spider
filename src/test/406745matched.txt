@@ -1,0 +1,112 @@
+title1:Joint Management of Authorization for Dynamic Virtual Organization. title2:Joint Management of Authorization for Dynamic Virtual Organization citation:4 ncitation:3 pid8489
+title1:Clock Synchronization Integrated with Traffic Smoothing Technique for Distributed Hard Real-Time Systems. title2:Clock synchronization integrated with traffic smoothing technique for distributed hard real-time systems citation:4 ncitation:4 pid8674
+title1:Chord4S: A P2P-based Decentralised Service Discovery Approach. title2:Chord4s: A p2p-based decentralised service discovery approach citation:16 ncitation:10 pid10556
+title1:Single Stream Image and Stream Network Prefetch in Streaming Media Proxy Caching. title2:Single stream image and stream network prefetch in streaming media proxy caching citation:3 ncitation:3 pid35328
+title1:Distributed Agent-Based Real Time Network Intrusion Forensics System Architecture Design . title2:Distributed agent-based real time network intrusion forensics system architecture design citation:22 ncitation:18 pid35736
+title1:Collaboratively Scheduling to Decrease Inter-AS Traffic in P2P Live Streaming. title2:Collaboratively Scheduling to Decrease Inter-AS Traffic in P2P Live Streaming citation:4 ncitation:4 pid36772
+title1:Utilization of Disk Drives for RAID. title2:Utilization of disk drives for RAID citation:4 ncitation:1 pid44180
+title1:An Efficient Data Management System with High Scalability for ChinaGrid Support Platform. title2:An efficient data management system with high scalability for chinagrid support platform citation:5 ncitation:4 pid46845
+title1:Semantic Peer-to-Peer Overlay for Efficient Content Locating. title2:Semantic peer-to-peer overlay for efficient content locating citation:14 ncitation:13 pid48091
+title1:SemreX: A Semantic Peer-to-Peer System for Literature Documents Retrieval. title2:SemreX: A semantic peer-to-peer system for literature documents retrieval citation:4 ncitation:4 pid54575
+title1:Q-SAC: toward QoS optimized service automatic composition. title2:Q-SAC: toward QoS optimized service automatic composition citation:24 ncitation:22 pid82513
+title1:Study of Load Balancing Issues Based on Intra-Movie Skewness for Parallel Video Servers. title2:Study of Load Balancing Issues Based on Intra-Movie Skewness for Parallel Video Servers. citation:4 ncitation:4 pid82746
+title1:Analysis of large-scale topological properties for peer-to-peer networks. title2:Analysis of large-scale topological properties for peer-to-peer networks citation:19 ncitation:19 pid82514
+title1:Cluster Computing in the Classroom: Topics, Guidelines, and Experiences. title2:Cluster computing in the classroom: Topics, guidelines, and experiences citation:20 ncitation:17 pid82583
+title1:Real-Time Strategy and Practice in Service Grid. title2:Real-time strategy and practice in service grid citation:20 ncitation:22 pid112204
+title1:Magnet: A novel scheduling policy for power reduction in cluster with virtual machines. title2:Magnet: A novel scheduling policy for power reduction in cluster with virtual machines citation:50 ncitation:35 pid100207
+title1:Peer-to-Peer Based Grid Workflow Runtime Environment of SwinDeW-G. title2:Peer-to-peer based grid workflow runtime environment of SwinDeW-G citation:44 ncitation:37 pid163167
+title1:RB-GACA: A RBAC Based Grid Access Control Architecture. title2:RB-GACA: an RBAC based grid access control architecture citation:25 ncitation:21 pid223876
+title1:A Fuzzy Data Mining Based Intrusion Detection Model. title2:A fuzzy data mining based intrusion detection model citation:44 ncitation:43 pid220768
+title1:An Integrated Management and Scheduling Scheme for Computational Grid. title2:An Integrated Management and Scheduling Scheme for Computational Grid citation:4 ncitation:4 pid224229
+title1:An Adaptive Meta-scheduler for Data-Intensive Applications. title2:An adaptive meta-scheduler for data-intensive applications citation:33 ncitation:28 pid223963
+title1:Research on an MOM-Based Service Flow Management System. title2:Research on an MOM-based service flow management system citation:4 ncitation:2 pid224173
+title1:Use Case Study of Grid Computing with CGSP. title2:Use case study of grid computing with CGSP citation:14 ncitation:14 pid257243
+title1:RAID-x: A New Distributed Disk Array for I/O-Centric Cluster Computing. title2:RAID-x: A new distributed disk array for I/O-centric cluster computing citation:57 ncitation:56 pid255156
+title1:WFTXB: A Tool for Translating between XPDL and BPEL. title2:WFTXB: A Tool for Translating between XPDL and BPEL citation:4 ncitation:4 pid253542
+title1:Supporting VCR Functions in P2P VoD Services Using Ring-Assisted Overlays. title2:Supporting VCR functions in P2P VoD services using ring-assisted overlays citation:79 ncitation:70 pid277847
+title1:A Distributed Dynamic µFirewall Architecture with Mobile Agents and KeyNote Trust Management System. citation:35 ncitation:26 pid314806
+title1:HRIC: Hybrid Resource Information Service Architecture Based on GMA. title2:HRTC: hybrid resource information service architecture based on GMA citation:3 ncitation:3 pid304613
+title1:Design and Analysis of Clusters with Single I/O Space. title2:Design and analysis of clusters with single I/O space citation:13 ncitation:12 pid296941
+title1:Difficulty-aware Hybrid Search in Peer-to-Peer Networks. title2:Difficulty-aware hybrid search in peer-to-peer networks citation:25 ncitation:21 pid344942
+title1:CIPS: Coordinated Intrusion Prevention System. title2:Cips: Coordinated intrusion prevention system citation:3 ncitation:3 pid338881
+title1:A Risk-Sensitive Intrusion Detection Model. title2:A risk-sensitive intrusion detection model citation:3 ncitation:3 pid327184
+title1:AnySee: Peer-to-Peer Live Streaming. title2:AnySee: Peer-to-Peer Live Streaming. citation:345 ncitation:332 pid403479
+title1:Symmetrical Pair Scheme: A Load Balancing Strategy to Solve Intra-Movie Skewness for Parallel Video Servers. title2:Symmetrical Pair Scheme: A Load Balancing Strategy to Solve Intra-Movie Skewness for Parallel Video Servers. citation:13 ncitation:12 pid410500
+title1:The Content Pollution in Peer-to-Peer Live Streaming Systems: Analysis and Implications. title2:The content pollution in peer-to-peer live streaming systems: Analysis and implications citation:27 ncitation:20 pid345112
+title1:P2P Live Streaming with Tree-Mesh based Hybrid Overlay. title2:P2p live streaming with tree-mesh based hybrid overlay citation:14 ncitation:13 pid345773
+title1:Adaptation of Web Service Composition Based on Workflow Patterns. title2:Adaptation of web service composition based on workflow patterns citation:26 ncitation:18 pid365417
+title1:A Data Mining Based Intrusion Detection Model. title2:A data mining based intrusion detection model citation:4 ncitation:5 pid372257
+title1:Boundary Chord: A Novel Peer-to-Peer Algorithm for Replica Location Mechanism in Grid Environment. title2:Boundary Chord: a novel peer-to-peer algorithm for replica location mechanism in grid environment citation:4 ncitation:4 pid446185
+title1:APPLE: A Novel P2P Based e-Learning Environment. title2:APPLE: a novel P2P based e-learning environment citation:23 ncitation:22 pid463507
+title1:Header Metadata Extraction from Semi-structured Documents Using Template Matching. title2:Header metadata extraction from semi-structured documents using template matching citation:4 ncitation:4 pid524565
+title1:Scalable relevance feedback using click-through data for web image retrieval. title2:Scalable relevance feedback using click-through data for web image retrieval citation:16 ncitation:11 pid503252
+title1:A New Approach to Hide Policy for Automated Trust Negotiation. title2:A new approach to hide policy for automated trust negotiation citation:13 ncitation:13 pid466140
+title1:A framework for lazy replication in P2P VoD. title2:A framework for lazy replication in P2P VoD citation:25 ncitation:22 pid519682
+title1:HAND: Highly Available Dynamic Deployment Infrastructure for Globus Toolkit 4. title2:HAND: highly available dynamic deployment infrastructure for globus toolkit 4 citation:60 ncitation:50 pid534651
+title1:Efficient query routing for information retrieval in semantic overlays. title2:Efficient query routing for information retrieval in semantic overlays citation:17 ncitation:15 pid567547
+title1:Efficient multi-keyword search over p2p web. title2:Efficient multi-keyword search over p2p web citation:24 ncitation:22 pid675471
+title1:Efficient search for peer-to-peer information retrieval using semantic small world. title2:Efficient search for peer-to-peer information retrieval using semantic small world citation:35 ncitation:27 pid674172
+title1:RINDY: A Ring Based Overlay Network for Peer-to-Peer On-Demand Streaming. title2:RINDY: a ring based overlay network for peer-to-peer on-demand streaming citation:23 ncitation:23 pid633688
+title1:A high-efficient inter-domain data transferring system for virtual machines. title2:A high-efficient inter-domain data transferring system for virtual machines citation:7 ncitation:3 pid712531
+title1:Grid information service based on network latency. title2:Grid information service based on network latency citation:3 ncitation:2 pid708937
+title1:Towards cinematic internet video-on-demand. title2:Towards cinematic internet video-on-demand citation:56 ncitation:48 pid691538
+title1:ClientVisor: leverage COTS OS functionalities for power management in virtualized desktop environment. title2:ClientVisor: leverage COTS OS functionalities for power management in virtualized desktop environment citation:13 ncitation:10 pid678065
+title1:Identifying Community Structure in Semantic Peer-to-Peer Networks. title2:Identifying Community Structure in Semantic Peer-to-Peer Networks citation:4 ncitation:4 pid681063
+title1:Semantic-Overlay-Driven Web Services Discovery. title2:Semantic-Overlay-Driven Web Services Discovery citation:3 ncitation:3 pid681138
+title1:DRIC: Dependable Grid Computing Framework. title2:DRIC: dependable grid computing framework citation:17 ncitation:18 pid897717
+title1:Grid Computing in China. title2:Grid computing in China citation:29 ncitation:30 pid885213
+title1:SemreX: Efficient search in a semantic overlay for literature retrieval. title2:SemreX: Efficient search in a semantic overlay for literature retrieval citation:25 ncitation:23 pid877634
+title1:A throughput maximization strategy for scheduling transaction-intensive workflows on SwinDeW-G. citation:30 ncitation:26 pid811365
+title1:Components and workflow based Grid programming environment for integrated image-processing applications. citation:5 ncitation:4 pid810520
+title1:Adaptive Sector Grouping to Reduce False Sharing in Distributed RAID. title2:Adaptive Sector Grouping to Reduce False Sharing in Distributed RAID citation:5 ncitation:4 pid792894
+title1:Orthogonal Striping and Mirroring in Distributed RAID for I/O-Centric Cluster Computing. title2:Orthogonal striping and mirroring in distributed RAID for I/O-centric cluster computing citation:76 ncitation:68 pid1125151
+title1:Scalable Live Streaming Service Based on Interoverlay Optimization. title2:Scalable live streaming service based on interoverlay optimization citation:27 ncitation:20 pid1126286
+title1:Nearcast: A locality-aware P2P live streaming approach for distance education. title2:Nearcast: A locality-aware P2P live streaming approach for distance education citation:21 ncitation:15 pid1120553
+title1:Object segmentation using ant colony optimization algorithm and fuzzy entropy. title2:Object segmentation using ant colony optimization algorithm and fuzzy entropy citation:75 ncitation:57 pid1046520
+title1:Evaluation and optimization of a peer-to-peer video-on-demand system. title2:Evaluation and optimization of a peer-to-peer video-on-demand system citation:28 ncitation:25 pid991173
+title1:Fault-Tolerant Grid Architecture and Practice. title2:Fault-tolerant grid architecture and practice citation:31 ncitation:30 pid973448
+title1:Massive Storage Systems. title2:Massive storage systems citation:4 ncitation:3 pid973980
+title1:RSS: A framework enabling ranked search on the semantic web. title2:RSS: A framework enabling ranked search on the semantic web citation:26 ncitation:19 pid937358
+title1:Evaluating MapReduce on Virtual Machines: The Hadoop Case. title2:Evaluating mapreduce on virtual machines: The hadoop case citation:47 ncitation:34 pid1265911
+title1:Label to region by bi-layer sparsity priors. title2:Label to region by bi-layer sparsity priors citation:52 ncitation:40 pid1252938
+title1:Lifetime service level agreement management with autonomous agents for services provision. title2:Lifetime service level agreement management with autonomous agents for services provision citation:23 ncitation:21 pid1276444
+title1:Single System Image. title2:Single system image citation:88 ncitation:79 pid1295335
+title1:A secure mechanism of group communication for pervasive grid. title2:A secure mechanism of group communication for pervasive grid citation:4 ncitation:2 pid1284618
+title1:Stripped mirroring RAID architecture. title2:Stripped mirroring RAID architecture citation:15 ncitation:14 pid1277949
+title1:Yarqs: Yet Another Range Queries Schema in DHT Based P2P Network. title2:Yarqs: Yet another range queries schema in DHT based P2P network citation:4 ncitation:2 pid1301881
+title1:Image Thresholding Using Graph Cuts. title2:Image thresholding using graph cuts citation:41 ncitation:30 pid1133069
+title1:Difficulty-Aware Hybrid Search in Peer-to-Peer Networks. title2:Difficulty-aware hybrid search in peer-to-peer networks citation:25 ncitation:21 pid1126448
+title1:Color Image Segmentation Based on Mean Shift and Normalized Cuts. title2:Color image segmentation based on mean shift and normalized cuts citation:162 ncitation:117 pid1132897
+title1:CMM: Credential migration management system based on trusted computing in CGSP. title2:CMM: Credential migration management system based on trusted computing in CGSP citation:3 ncitation:3 pid1185437
+title1:Live migration of virtual machine based on full system trace and replay. title2:Live migration of virtual machine based on full system trace and replay citation:106 ncitation:69 pid1209340
+title1:Discourage free riding in Peer-to-Peer file sharing systems with file migration and workload balancing approach. title2:Discourage free riding in Peer-to-Peer file sharing systems with file migration and workload balancing approach citation:4 ncitation:3 pid1185476
+title1:CLOUDLET: towards mapreduce implementation on virtual machines. title2:CLOUDLET: towards mapreduce implementation on virtual machines citation:31 ncitation:22 pid1209365
+title1:A structured P2P network based on the small world phenomenon. title2:A structured P2P network based on the small world phenomenon citation:16 ncitation:14 pid1343344
+title1:ClientVisor: leverage COTS OS functionalities for power management in virtualized desktop environment. title2:ClientVisor: leverage COTS OS functionalities for power management in virtualized desktop environment citation:13 ncitation:10 pid1342234
+title1:Name Disambiguation Using Semantic Association Clustering. title2:Name disambiguation using semantic association clustering citation:4 ncitation:2 pid1365423
+title1:Innovations for Grid Security from Trusted Computing. title2:Innovations for grid security from trusted computing citation:30 ncitation:21 pid1365086
+title1:iDARE: Proactive Data Replication Mechanism for P2P VoD System. title2:iDARE: Proactive Data Replication Mechanism for P2P VoD System citation:3 ncitation:3 pid1314360
+title1:Live virtual machine migration with adaptive, memory compression. title2:Live virtual machine migration with adaptive, memory compression citation:85 ncitation:52 pid1319480
+title1:Projective Nonnegative Graph Embedding. title2:Projective nonnegative graph embedding citation:23 ncitation:12 pid2293988
+title1:TEE: a virtual DRTM based execution environment for secure cloud-end computing. title2:TEE: A virtual DRTM based execution environment for secure cloud-end computing citation:9 ncitation:4 pid2300829
+title1:Image segmentation with patch-pair density priors. title2:Image segmentation with patch-pair density priors citation:4 ncitation:4 pid2379177
+title1:Building dynamic and transparent integrity measurement and protection for virtualized platform in cloud computing. title2:Building dynamic and transparent integrity measurement and protection for virtualized platform in cloud computing citation:4 ncitation:4 pid2378674
+title1:LEEN: Locality/Fairness-Aware Key Partitioning for MapReduce in the Cloud. title2:Leen: Locality/fairness-aware key partitioning for mapreduce in the cloud citation:42 ncitation:25 pid2208144
+title1:Energy optimization schemes in cluster with virtual machines. title2:Energy optimization schemes in cluster with virtual machines citation:14 ncitation:10 pid2679468
+title1:A Compromised-Time-Cost Scheduling Algorithm in SwinDeW-C for Instance-Intensive Cost-Constrained Workflows on a Cloud Computing Platform. title2:A compromised-time-cost scheduling algorithm in swindew-c for instance-intensive cost-constrained workflows on a cloud computing platform citation:32 ncitation:25 pid2673083
+title1:Performance and energy modeling for live migration of virtual machines. title2:Performance and energy modeling for live migration of virtual machines citation:42 ncitation:17 pid2563792
+title1:Live Virtual Machine Migration via Asynchronous Replication and State Synchronization. title2:Live virtual machine migration via asynchronous replication and state synchronization citation:27 ncitation:9 pid2773540
+title1:Dynamic Processor Resource Configuration in Virtualized Environments. title2:Dynamic Processor Resource Configuration in Virtualized Environments citation:3 ncitation:3 pid2808754
+title1:An Algorithm in SwinDeW-C for Scheduling Transaction-Intensive Cost-Constrained Cloud Workflows. title2:An algorithm in SwinDeW-C for scheduling transaction-intensive cost-constrained cloud workflows citation:24 ncitation:21 pid2808810
+title1:SHelp: Automatic Self-Healing for Multiple Application Instances in a Virtual Machine Environment. title2:SHelp: Automatic Self-healing for Multiple Application Instances in a Virtual Machine Environment citation:8 ncitation:2 pid2808818
+title1:On the efficiency of collaborative caching in ISP-aware P2P networks. title2:On the efficiency of collaborative caching in isp-aware p2p networks citation:16 ncitation:10 pid2809792
+title1:BloomCast: Efficient and Effective Full-Text Retrieval in Unstructured P2P Networks. title2:BloomCast: Efficient and Effective Full-Text Retrieval in Unstructured P2P Networks citation:5 ncitation:2 pid2835576
+title1:DPLM: a novel application-layer routing scheme for low delay VoIP. title2:DPLM: a novel application-layer routing scheme for low delay VoIP citation:3 ncitation:3 pid2852611
+title1:Analysis of Load Balancing Issues Caused by Intra-Movie Skewness for Parallel Video Servers. title2:Analysis of load balancing issues caused by intra-movie skewness for parallel video servers citation:4 ncitation:3 pid2898805
+title1:A novel data replication mechanism in P2P VoD system. title2:A novel data replication mechanism in P2P VoD system citation:6 ncitation:2 pid2905893
+title1:Flash Crowd in P2P Live Streaming Systems: Fundamental Characteristics and Design Implications. title2:Flash crowd in p2p live streaming systems: fundamental characteristics and design implications citation:11 ncitation:2 pid2911538
+title1:An adaptive meta-scheduler for data-intensive applications. title2:An adaptive meta-scheduler for data-intensive applications citation:33 ncitation:28 pid2913288
+title1:RB-GACA: an RBAC based grid access control architecture. title2:RB-GACA: an RBAC based grid access control architecture citation:25 ncitation:21 pid2923774
+title1:A Measurement Study of a Peer-to-Peer Video-on-Demand System. title2:A Measurement Study of a Peer-to-Peer Video-on-Demand System. citation:91 ncitation:83 pid2933491
+title1:HHMSM: a hierarchical hybrid multicast stream merging scheme for large-scale video-on-demand systems. title2:Hhmsm: a hierarchical hybrid multicast stream merging scheme for large-scale video-on-demand systems citation:4 ncitation:4 pid2943743
+title1:An Efficient Graph Indexing Method. title2:An efficient graph indexing method citation:5 ncitation:2 pid3080199

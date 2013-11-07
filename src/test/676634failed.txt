@@ -1,0 +1,424 @@
+title:Ad Hoc Wireless Networks: Protocols and Applications. citation:-1
+title:On the Impact of Inter- Piconet Scheduling in Bluetooth Scatternets. citation:-1
+title:Accuracy of link capacity estimates using passive and active approaches with CapProbe. citation:-1
+title:Parallel Simulation of a High-Speed Wormhole Routing Network. citation:-1
+title:First Responders' Crystal Ball: How to Scry the Emergency from a Remote Vehicle. citation:-1
+title:Content Distribution in VANETs Using Network Coding: The Effect of Disk I/O and Processing O/H. citation:-1
+title:TCP : Exploring RTT-Fairness for TCP. citation:-1
+title:A performance model of deflection routing in multibuffer networks with nonuniform traffic. citation:-1
+title:Smooth and efficient real-time video transport in the presence of wireless errors. citation:-1
+title:Token bucket characterization of long-range dependent traffic. citation:-1
+title:Guest Editorial: Ad Hoc Networking. citation:-1
+title:Balancing video on demand flows over links with heterogeneous delays. citation:-1
+title:End-to-end versus explicit feedback measurement in 802.11 networks. citation:-1
+title:Resource Allocation and Admission Control Styles in QoS DiffServ Networks. citation:-1
+title:Sender-Side TCP Modifications: Performance Analysis and Design Guidelines. citation:-1
+title:Personal Area Networks: Bluetooth or IEEE 802.11? citation:-1
+title:Receiver-Initiated Multicasting with Multiple QoS Constraints. citation:-1
+title:Forwarding Group Multicast Protocol (FGMP) for multihop, mobile wireless networks. citation:-1
+title:Shared Tree Wireless Network Multicast. citation:-1
+title:Aggregated Multicast - A Comparative Study. citation:-1
+title:Fisheye State Routing: A Routing Scheme for Ad Hoc Wireless Networks. citation:-1
+title:New bluetooth interconnection methods: Overlaid Bluetooth Piconets (OBP) and Temporary Scatternets (TS). citation:-1
+title:Satellite Systems Performance with TCP-IP Applications. citation:-1
+title:Parallel Simulation Environment for Mobile Wireless Networks. citation:-1
+title:New line tariffs and their impact on network design. citation:-1
+title:Bio-inspired multi-agent data harvesting in a proactive urban monitoring environment. citation:-1
+title:Performance improvement in wireless networks using cross-layer ARQ. citation:-1
+title:A control theoretical approach to congestion control in packet networks. citation:-1
+title:Reliable Loop Topologies for Large Local Computer Networks. citation:-1
+title:Vehicular urban sensing: efficiency and privacy. citation:-1
+title:Protocols for an Optical Star Interconnect for High Speed Mesh Networks. citation:-1
+title:Network Independent Available Bandwidth Sampling and Measurement. citation:-1
+title:Fault Tolerant PON Topologies. citation:-1
+title:LAN/MAN Interconnection to ATM: A Simulation Study. citation:-1
+title:Active Highways (Position Paper). citation:-1
+title:Efficient Data Harvesting in Mobile Sensor Platforms. citation:-1
+title:Minimum Distance Routing in the Bidirectional Shufflenet. citation:-1
+title:FairCast: fair multi-media streaming in ad hoc networks through local congestion control. citation:-1
+title:A virtual data queue access scheme for integrated LANs. citation:-1
+title:Mobile traffic sensor network versus motion-MIX: tracing and protecting mobile wireless nodes. citation:-1
+title:TCP Performance in Wireless Multi-hop Networks. citation:-1
+title:UMTS-TDD: a solution for internetworking Bluetooth piconets in indoor environments. citation:-1
+title:Multicluster, mobile, multimedia radio network. citation:-1
+title:An analytical study of object relocation strategies for wireless environments. citation:-1
+title:Routing and Admission Control in the Multihop Wavelength-Division Optical Network. citation:-1
+title:Statistical Multiplexing in ATM Networks. citation:-1
+title:Communications via High Altitude Platforms: Technologies and Trials. citation:-1
+title:PathCrawler: Automatic harvesting web infra-structure. citation:-1
+title:Deadlock-free routing in an optical interconnect for high-speed wormhole routing networks. citation:-1
+title:Bio-Inspired Multi-agent Collaboration for Urban Monitoring Applications. citation:-1
+title:Token-Less Protocols For Fiber Optics Local Area Networks. citation:-1
+title:Multimedia support over bluetooth Piconets. citation:-1
+title:PiggyCode: A MAC Layer Network Coding Scheme to Improve TCP Performance Over Wireless Networks. citation:-1
+title:Using Back-Pressure to Improve TCP Performance with Many Flows. citation:-1
+title:Optical Tree Topologies: Access Control and Wavelength Assignment. citation:-1
+title:Dealing with Node Mobility in Ad Hoc Wireless Network. citation:-1
+title:Visualisation of wormholes in underwater sensor networks: a distributed approach. citation:-1
+title:Automatic IP address configuration in VANETs. citation:-1
+title:TCP Live Experiments on a Real GEO Satellite Testbed. citation:-1
+title:Emergency related video streaming in VANET using network coding. citation:-1
+title:Dynamic On-Line Group-Tree Matching for Large Scale Group Communications: A Performance Study. citation:-1
+title:For here or to go? Downloading music on the move with an ultra reliable wireless Internet application. citation:-1
+title:A scalable routing scheme with group motion support in large and dense wireless ad hoc networks. citation:-1
+title:ESCORT: a decentralized and localized access control system for mobile wireless access to secured domains. citation:-1
+title:ATM Rate-Based Congestion Control Using a Smith Predictor. citation:-1
+title:Localization with Dive'N'Rise (DNR) beacons for underwater acoustic sensor networks. citation:-1
+title:Audio Streaming over Bluetooth: An Adaptive ARQ Timeout Approach. citation:-1
+title:Report on the First MobiSys ACM workshop on mobile opportunistic networking (MobiOpp'07). citation:-1
+title:Adaptive MPEG-4 Video Streaming with Bandwidth Estimation. citation:-1
+title:GloMoSim: A Library for Parallel Simulation of Large-Scale Wireless Networks. citation:-1
+title:The Impact of Multihop Wireless Channel on TCP Throughput and Loss. citation:-1
+title:On the Construction of Low Cost Multicast Trees with Bandwidth Reservation. citation:-1
+title:End-to-End Asymmetric Link Capacity Estimation. citation:-1
+title:Landmark routing in ad hoc networks with mobile backbones. citation:-1
+title:Estimating Link Capacity in High Speed Networks. citation:-1
+title:Modeling Ad-hoc rushing attack in a negligibility-based security framework. citation:-1
+title:Locating Backbone Switches in a Large Packet Network. citation:-1
+title:Monitoring access link capacity using TFRC probe. citation:-1
+title:Mobility Management for Hierarchical Wireless Networks. citation:-1
+title:A Dual Priority MVA Model for a Large Distributed System: LOCUS. citation:-1
+title:Time-critical underwater sensor diffusion with no proactive exchanges and negligible reactive floods. citation:-1
+title:Low-cost attacks against packet delivery, localization and time synchronization services in under-water sensor networks. citation:-1
+title:Synthesis of reliable double loop topologies. citation:-1
+title:Queueing Network Models for Load Balancing in Distributed Systems. citation:-1
+title:Bandwidth Advertising for MAN/ATM Connectionless Internetting. citation:-1
+title:HAP: A New Model for Packet Arrivals. citation:-1
+title:TCP Westwood with adaptive bandwidth estimation to improve efficiency/friendliness tradeoffs. citation:-1
+title:Ad Hoc, Wireless, Mobile Networks: The Role of Performance Modeling and Evaluation. citation:-1
+title:P2P MANET's - New Research Issues. citation:-1
+title:Scalable team multicast in wireless ad hoc networks exploiting coordinated motion. citation:-1
+title:Time-Critical Underwater Sensor Diffusion with No Proactive Exchanges and Negligible Reactive Floods. citation:-1
+title:Wireless home entertainment center: reducing last hop delays for real-time applications. citation:-1
+title:A Modular and Scalable Simulation Tool for Large Wireless Networks. citation:-1
+title:AdHoc Probe: end-to-end capacity probing in wireless ad hoc networks. citation:-1
+title:The significance of finite buffer edge effects in histogram measurements of queues. citation:-1
+title:LANMAR: landmark routing for large scale wireless ad hoc networks with group mobility. citation:-1
+title:Effectiveness of RTS/CTS handshake in IEEE 802.11 based ad hoc networks. citation:-1
+title:Wireless Ad Hoc Multicast Routing with Mobility Prediction. citation:-1
+title:Routing and Flow Control in ISDNs. citation:-1
+title:On-Demand Multicast Routing Protocol in Multihop Wireless Mobile Networks. citation:-1
+title:On-board satellite "split TCP" proxy. citation:-1
+title:CapProbe: a simple and accurate capacity estimation technique. citation:-1
+title:A Unified Flow and Congestion Control Model for Packet Networks. citation:-1
+title:Moving bits by air, land and sea: carriers, vans and packets. citation:-1
+title:A secure ad-hoc routing approach using localized self-healing communities. citation:-1
+title:Performance of Congestion Control Mechanisms in Wormhole Routing Networks. citation:-1
+title:Bluetooth 2.1 based Emergency Data Delivery System in HealthNet. citation:-1
+title:Algorithms and Trade-Offs in Multicast Service Overlay Design. citation:-1
+title:Phero-Trail: a bio-inspired location service for mobile underwater sensor networks. citation:-1
+title:Enhancing QoS Support for Vertical Handoffs Using Implicit/Explicit Handoff Notifications. citation:-1
+title:Distributed Travelling Salesman Algorithms for Distributed Database Operation. citation:-1
+title:TCP in mixed internet and geo-satellite environments: Experiences and results. citation:-1
+title:TCP-Westwood Low-Priority for Overlay QoS Mechanism. citation:-1
+title:Grido- An Architecture for a Grid-based Overlay Network. citation:-1
+title:Sender-Side TCP Modifications: An Analytical Study. citation:-1
+title:A QoS Network Management System for Robust and Reliable Multimedia Services. citation:-1
+title:Multimedia streaming in large-scale sensor networks with mobile swarms. citation:-1
+title:BlueTorrent: Cooperative content sharing for Bluetooth users. citation:-1
+title:Window selection in flow controlled networks. citation:-1
+title:Team communications among autonomous sensor swarms. citation:-1
+title:Multicasting Protocols for High-Speed, Wormhole-Routing Local Area Networks. citation:-1
+title:TCP Westwood: End-to-End Congestion Control for Wired/Wireless Networks. citation:-1
+title:Routing in the bidirectional shufflenet. citation:-1
+title:Load Balancing in Distributed Systems with Multiple Classes and Site Constraints. citation:-1
+title:Active Window Management: Performance Assessment through an Extensive Comparison with XCP. citation:-1
+title:The challenges of building mobile underwater wireless networks for aquatic applications. citation:-1
+title:The Effects of Interelement Spacing in Linear Arrays on Throughput Performance in Ad Hoc Networks. citation:-1
+title:TCP with delayed ack for wireless networks. citation:-1
+title:Scalable Testbed for Next-Generation Wireless Networking Technologies Mineo Takai. citation:-1
+title:A Practical QoS Network Management System Considering Load Balancing of Resources. citation:-1
+title:On-Demand Multicast in Mobile Wireless Networks. citation:-1
+title:TOKENET - A High Speed Token Reservation LAN. citation:-1
+title:Streaming Media Congestion Control Using Bandwidth Estimation. citation:-1
+title:An architecture for scalable, efficient, and fast fault-tolerant multicast provisioning. citation:-1
+title:Effects of Ad Hoc MAC Layer Medium Access Mechanisms under TCP. citation:-1
+title:Internetting LAN's and MAN's to B-ISDN's for Connectionsless Traffic Support. citation:-1
+title:SMDS Multicast Support in ATM Networks. citation:-1
+title:AQoSM: Scalable QoS multicast provisioning in Diff-Serv networks. citation:-1
+title:Aggregated Multicast for Scalable QoS Multicast Provisioning. citation:-1
+title:ATM Connectionless Server: Performance Evaluation. citation:-1
+title:ATM Virtual Private Networks. citation:-1
+title:PBProbe: A capacity estimation tool for high speed networks. citation:-1
+title:Video streaming over overlaid bluetooth piconets (OBP). citation:-1
+title:CORA: Collaborative Opportunistic Recovery Algorithm for loss controlled, delay bounded ad hoc multicast. citation:-1
+title:Hop count based optimization of Bluetooth scatternets. citation:-1
+title:Mobility Changes Anonymity: Mobile Ad Hoc Networks Need Efficient Anonymous Routing. citation:-1
+title:Advanced TCP evaluation testbed on mixed wired internet and satellite environments. citation:-1
+title:Quality of Service Support in High Speed, Wormhole Routing Networks. citation:-1
+title:Evaluating Mobility Support in ZigBee Networks. citation:-1
+title:ATM Virtual Private Network Design Alternatives. citation:-1
+title:Interconnection of LAN/MANs through SMDS an ATM network. citation:-1
+title:Congestion controlled adaptive lightweight multicast in wireless mobile ad hoc networks. citation:-1
+title:Aggregated Multicast with Inter-Group Tree Sharing. citation:-1
+title:Geo-LANMAR: a scalable routing protocol for ad hoc networks with group motion. citation:-1
+title:Complexity-theoretic Modeling of Biological Cyanide Poisoning as Security Attack in Self-organizing Networks. citation:-1
+title:Routing, Flow Control and Fairness in Computer Networks. citation:-1
+title:Scalable Team Multicast in Wireless Ad hoc Networks Exploiting Coordinated Motion. citation:-1
+title:Adaptive Video Streaming in Presence of Wireless Errors. citation:-1
+title:BlueTorrent: Cooperative Content Sharing for Bluetooth Users. citation:-1
+title:Practical Multicasting on a Nonbroadcast Subnetwork. citation:-1
+title:Deterministic end-to-end delay guarantees with rate controlled EDF scheduling. citation:-1
+title:SFPS: A Synchronous Fast Packet Switching Architecture for Very High Speeds. citation:-1
+title:Using Adaptive Rate Estimation to Provide Enhanced and Robust Transport over Heterogeneous Networks. citation:-1
+title:Service differentiation at transport layer via TCP Westwood low-priority (TCPW-LP). citation:-1
+title:Adaptive video streaming: pre-encoded MPEG-4 with bandwidth scaling. citation:-1
+title:On the Performance of Shared-Channel Multihop Lightwave Networks. citation:-1
+title:Rooted Routing in Linear Lightwave Networks. citation:-1
+title:TOMA: A Viable Solution for Large-Scale Multicast Service Support. citation:-1
+title:End-to-End Statistical Delay Service under GPS and EDF Scheduling: A Comparison Study. citation:-1
+title:A Performance Comparison Study of Ad Hoc Wireless Multicast Protocols. citation:-1
+title:A Load Sharing Interconnection Network for Hard Real-Time Systems. citation:-1
+title:Flow control and bandwidth management in next generation Internets. citation:-1
+title:A comparative study of multicast protocols: top, bottom, or in the middle?. citation:-1
+title:Designing Metropolitan Area Networks for High-Performance Applications. citation:-1
+title:A Routing Strategy for MAN Interconnection. citation:-1
+title:LOUVRE: Landmark Overlays for Urban Vehicular Routing Environments. citation:-1
+title:Using ATM virtual private networks for the internet data traffic. citation:-1
+title:C-VeT An Open Research Platform for VANETs: Evaluation of Peer to Peer Applications in Vehicular Networks. citation:-1
+title:From battlefields to urban grids: New research challenges in ad hoc wireless networks. citation:-1
+title:Secure incentives for commercial ad dissemination in vehicular networks. citation:-1
+title:Team Oriented Multicast: A Scalable Routing Protocol for Large Mobile Networks. citation:-1
+title:Bluetooth: carrying voice over ACL links. citation:-1
+title:Aggregated Multicast - A Comparative Study. citation:-1
+title:A Comparative Study of Multicast Protocols: Top, Bottom, or In the Middle? citation:-1
+title:A Versatile Model for Predicting the Performance of Deflection-Routing Networks. citation:-1
+title:Contradictory relationship between Hurst parameter and queueing performance (extended version). citation:-1
+title:Measuring and modelling the group mmbership in the internet. citation:-1
+title:An Identity-Free and On-Demand Routing Scheme against Anonymity Threats in Mobile Ad Hoc Networks. citation:-1
+title:Optimal Routing in Closed Queuing Networks citation:-1
+title:Peer to peer video streaming in Bluetooth overlays. citation:-1
+title:Mobility changes anonymity: new passive threats in mobile ad hoc networks. citation:-1
+title:TCP Adaptive Westwood- Combining TCP Westwood and Adaptive Reno: A Safe Congestion Control Proposal. citation:-1
+title:An Algorithm for Multicast with Multiple QoS Constraints and Dynamic Membership. citation:-1
+title:Multimedia transport in multihop dynamic packet radio networks. citation:-1
+title:Efficient flooding with Passive Clustering (PC) in ad hoc networks. citation:-1
+title:Tree Multicast Strategies in Mobile, Multihop Wireless Networks. citation:-1
+title:Flowbased dynamic load balancing for passive network monitoring. citation:-1
+title:A Protocol for WDM Star Coupler Network. citation:-1
+title:Reliability ranking of communication networks. citation:-1
+title:A Scalable Overlay Multicast Architecture for Large-Scale Applications. citation:-1
+title:TCP with sender-side intelligence to handle dynamic, large, leaky pipes. citation:-1
+title:TCP bulk repeat. citation:-1
+title:Conservative Slow Start: Controlling Losses in Very High Speed Networks. citation:-1
+title:Adaptive security for multilevel ad hoc networks. citation:-1
+title:Adaptive Clustering for Mobile Wireless Networks. citation:-1
+title:Induction and Deduction for Autonomous Networks. citation:-1
+title:A Fair and Traffic Dependent Scheduling Algorithm for Bluetooth Scatternets. citation:-1
+title:Asynchronous Multimedia Multihop Wireless Networks. citation:-1
+title:Temporary Interconnection of ZigBee Personal Area Network (PAN). citation:-1
+title:Speech Support in Wireless, Multihop Networks. citation:-1
+title:Congestion control multicast in wireless ad hoc networks. citation:-1
+title:TCP behavior across multihop wireless networks and the wired internet. citation:-1
+title:MIMOMAN: A MIMO MAC Protocol for Ad Hoc Networks. citation:-1
+title:TCP westwood: Bandwidth estimation for enhanced transport over wireless links. citation:-1
+title:A Rate Based Back-Pressure Flow Control for the Internet. citation:-1
+title:A Mobility Framework for Ad Hoc Wireless Networks. citation:-1
+title:Internet QoS Routing Using the Bellman-Ford Algorithm. citation:-1
+title:On routing with QoS constraints in ATM networks. citation:-1
+title:Tackling group-to-tree matching in large scale group communications. citation:-1
+title:ZRESTORE: A Link Restoration Scheme with High Aggregation and No Reservation. citation:-1
+title:TCP with Delayed Ack for Wireless Networks. citation:-1
+title:Markovs Models for Multiple Bus Multiprocessor Systems. citation:-1
+title:Fisheye State Routing in Mobile Ad Hoc Networks. citation:-1
+title:Performance of Shared-Channel Multihop Lightwave Networks. citation:-1
+title:Remote Medical Monitoring Through Vehicular Ad Hoc Network. citation:-1
+title:Real-time support in multihop wireless networks. citation:-1
+title:Modeling Window Based Congestion Control Protocols with Many Flows. citation:-1
+title:Improving the Efficiency of High Speed Implicit Token FOLANs. citation:-1
+title:ProbeCast: MANET admission control via probing. citation:-1
+title:Bidirectional shufflenet: a multihop topology for backpressure flow control. citation:-1
+title:An All-Optical Multifiber Tree Network. citation:-1
+title:TCP SPC: Statistic Process Control for Enhanced Transport over Wireless Links. citation:-1
+title:Design and Analysis of Fault-Tolerant Multibus Interconnection Networks. citation:-1
+title:Enhancing TCP fairness in ad hoc wireless networks using neighborhood RED. citation:-1
+title:A Procedure to Evaluate the Mean Transport Time in Multibuffer Deflection-Routing Networks with Nonuniform Traffic. citation:-1
+title:FILA in gameland, a holistic approach to a problem of many dimensions. citation:-1
+title:E-ODMRP: Enhanced ODMRP with motion adaptive refresh. citation:-1
+title:Topological Design of the Wavelength-Division Optical Network. citation:-1
+title:Fluid-flow analysis of TCP Westwood with RED. citation:-1
+title:Adaptive Video Streaming in Vertical Handoff: A Case Study. citation:-1
+title:CapProbe: a simple and accurate capacity estimation technique for wired and wireless environments. citation:-1
+title:Fault Tolerance and Load Balancing in QoS Provisioning with Multiple MPLS Paths. citation:-1
+title:Selecting a routing strategy for your ad hoc network. citation:-1
+title:Mobility prediction and routing in ad hoc wireless networks. citation:-1
+title:Co-operative Downloading in Vehicular Ad-Hoc Wireless Networks. citation:-1
+title:The Impact of Multihop Wireless Channel on TCP Performance. citation:-1
+title:A framework for realistic and systematic multicast performance evaluation. citation:-1
+title:Opportunistic medical monitoring using bluetooth P2P networks. citation:-1
+title:Improving wireless link throughput via interleaved FEC. citation:-1
+title:Practical QoS network system with fault tolerance. citation:-1
+title:Delay Analysis of Car-to-Car Reliable Data Delivery Strategies Based on Data Mulling with Network Coding. citation:-1
+title:ATM Rate Based Congestion Control Using a Smith Predictor: An EPRCA Implementation. citation:-1
+title:Efficient Wireless Network Simulations with Detailed Propagation Models. citation:-1
+title:Real-Time Streaming over Wireless Links: A Comparative Study. citation:-1
+title:Defense against low-rate TCP-targeted denial-of-service attacks. citation:-1
+title:GeO-LANMAR routing protocol: Asymptotic analysis in large and dense ad hoc networks. citation:-1
+title:TCP Unfairness in Ad Hoc Wireless Networks and a Neighborhood RED Solution. citation:-1
+title:Efficiency/friendliness tradeoffs in TCP Westwood. citation:-1
+title:Internet QoS Routing with IP Telephony and TCP Traffic. citation:-1
+title:Extending BGMP for Shared-Tree Inter-Domain QoS Multicast. citation:-1
+title:The Advantage of Dynamic Tuning in Distributed Asymmetric Systems. citation:-1
+title:The Meandering Current Mobility Model and its Impact on Underwater Mobile Sensor Networks. citation:-1
+title:Reliability optimization in the design of distributed systems. citation:-1
+title:Video on Demand Distribution Over ATM Virtual Private Networks. citation:-1
+title:Topological Reconfiguration of ATM Networks. citation:-1
+title:Combining Source- and Localized Recovery to Achieve Reliable Multicast in Multi-hop Ad Hoc Networks. citation:-1
+title:Scalable AODV with efficient flooding based on on-demand clustering. citation:-1
+title:Wireless Data Networks: Reaching the Extra Mile. citation:-1
+title:A Mean Value Analysis approach to transaction performance evaluation on multi-server systems. citation:-1
+title:Decentralized Optimization of Dynamic Bluetooth Scatternets. citation:-1
+title:"Direction" Forward Routing for Highly Mobile Ad Hoc Networks. citation:-1
+title:A Randomized Complexity-theoretic Model of Bio-inspired Mobile Epidemics via Close Contact. citation:-1
+title:Analysis of TCP live experiments on a real GEO satellite testbed. citation:-1
+title:TCP Start up Performance in Large Bandwidth Delay Networks. citation:-1
+title:A Hierarchical Simulation Environment for Mobile Wireless Networks. citation:-1
+title:Perspectives Workshop: Peer-to-Peer Mobile Ad Hoc Networks - New Research Issues, 9.-12. April 2005 citation:-1
+title:Pressure Routing for Underwater Sensor Networks. citation:-1
+title:Proceedings of the 12th Annual International Conference on Mobile Computing and Networking, MOBICOM 2006, Los Angeles, CA, USA, September 23-29, 2006 citation:-1
+title:HERO: Hybrid Emergency Route-Opening Protocol. citation:-1
+title:AutoGait: A mobile platform that accurately estimates the distance walked. citation:-1
+title:Energy-Efficient Accelerometer Data Transfer for Human Body Movement Studies. citation:-1
+title:Trace-Based Evaluation of Rate Adaptation Schemes in Vehicular Environments. citation:-1
+title:VERGILIUS: A Scenario Generator for VANET. citation:-1
+title:An Optimization Framework for Opportunistic Receiver Scheduling in Wireless Multi-Hop Networks. citation:-1
+title:A novel data dissemination method for vehicular networks with rateless codes. citation:-1
+title:Performance evaluation of distributed localization techniques for mobile underwater acoustic sensor networks. citation:-1
+title:GeoCross: A geographic routing protocol in the presence of loops in urban scenarios. citation:-1
+title:A survey of urban vehicular sensing platforms. citation:-1
+title:TCP Libra: Derivation, analysis, and comparison with other RTT-fair TCPs. citation:-1
+title:GeoDTN+Nav: Geographic DTN Routing with Navigator Prediction for Urban Vehicular Environments. citation:-1
+title:An adaptive ARQ timeout approach for audio streaming over Bluetooth. citation:-1
+title:Vehicular communications: emergency video streams and network coding. citation:-1
+title:Generalized window advertising for TCP congestion control. citation:-1
+title:A Mean Value Analysis approach to transaction performance evaluation of multi-server systems. citation:-1
+title:Mission critical networking [Guest editorial]. citation:-1
+title:Phero-trail: a bio-inspired location service for mobile underwater sensor networks. citation:-1
+title:InterMR: Inter-MANET routing in heterogeneous MANETs. citation:-1
+title:Content Centric Networking in tactical and emergency MANETs. citation:-1
+title:Randomized channel hopping scheme for anti-jamming communication. citation:-1
+title:Urban-X: Towards distributed channel assignment in cognitive multi-radio mesh networks. citation:-1
+title:BPAB: Binary Partition Assisted Emergency Broadcast Protocol For Vehicular Ad Hoc Networks. citation:-1
+title:CORNER: a step towards realistic simulations for VANET. citation:-1
+title:Installation and evaluation of RFID readers on moving vehicles. citation:-1
+title:Personal gateway in mobile health monitoring. citation:-1
+title:RF-GPS: RFID Assisted Localization in VANETs. citation:-1
+title:Two Ray or not Two Ray this is the price to pay. citation:-1
+title:Vehicular networks and the future of the mobile internet. citation:-1
+title:Frequency quorum rendezvous for fast and resilient key establishment under jamming attack. citation:-1
+title:MANET QoS support without reservations. citation:-1
+title:Binary-Partition-Assisted MAC-Layer Broadcast for Emergency Message Dissemination in VANETs. citation:-1
+title:Guest Editorial. citation:-1
+title:An Integrated Multi-layer Approach for Seamless Soft Handoff in Mobile Ad Hoc Networks. citation:-1
+title:AODV-DFR: Improving Ad Hoc Routing Scalability to Mobility and Load. citation:-1
+title:Ad-hoc Storage Overlay System (ASOS): A Delay-Tolerant Approach in MANETs. citation:-1
+title:Message from the IWCMC 2011 chairs. citation:-1
+title:CoRoute: A new cognitive anypath vehicular routing protocol. citation:-1
+title:Cognitive Multi-Radio Mesh Networks on ISM bands: A cross-layer architecture. citation:-1
+title:SewerSnort: A Drifting Sensor for In-situ Sewer Gas Monitoring. citation:-1
+title:An opportunistic relay protocol for vehicular road-side access with fading channels. citation:-1
+title:DOTS: A propagation Delay-aware Opportunistic MAC protocol for underwater sensor networks. citation:-1
+title:NAVOPT: Navigator Assisted Vehicular Route OPTimizer. citation:-1
+title:Urban-X: A Self-organizing Cognitive Wireless Mesh Network for Dense City Environments. citation:-1
+title:Exploring Embedded Path Capacity Estimation in TCP Receiver. citation:-1
+title:Inter-Domain Routing and Data Replication in Virtual Coordinate Based Networks. citation:-1
+title:An efficient road-based directional broadcast protocol for urban VANETs. citation:-1
+title:Channel sensing strategy for channel load estimation. citation:-1
+title:Secure, selective group broadcast in vehicular networks using dynamic attribute based encryption. citation:-1
+title:Secured Bilateral Rendezvous using self interference cancellation in wireless networks. citation:-1
+title:TrafRoute: A different approach to routing in vehicular networks. citation:-1
+title:TP-UrbanX - A new transport protocol for Cognitive Multi-Radio Mesh Networks. citation:-1
+title:Welcome message from the general chairs. citation:-1
+title:On the Effectiveness of an Opportunistic Traffic Management System for Vehicular Networks. citation:-1
+title:Cluster size optimization in sensor networks with decentralized cluster-based protocols. citation:-1
+title:Towards a Probabilistic Complexity-theoretic Modeling of Biological Cyanide Poisoning as Service Attack in Self-organizing Networks. citation:-1
+title:ROAMER: Roadside Units as message routers in VANETs. citation:-1
+title:AINTEC '09, Asian Internet Engineering Conference, Bangkok, Thailand, November 18-20, 2009, Proceedings citation:-1
+title:Performance bound for routing in urban scenarios. citation:-1
+title:: constructing a cognitive playground for VANET research testbeds. citation:-1
+title:TCP performance in cognitive multi-radio mesh networks. citation:-1
+title:Geo-Assisted Multicast Inter-Domain Routing (GMIDR) Protocol for MANETs. citation:-1
+title:CCH: Cognitive Channel Hopping in Vehicular Ad Hoc Networks. citation:-1
+title:RTMB/CTMB: A Collision Avoidance Scheme for VANET Broadcast. citation:-1
+title:CoRoute: a new cognitive anypath vehicular routing protocol. citation:-1
+title:Geo-opportunistic routing for vehicular networks [Topics in Automotive Networking]. citation:-1
+title:Situation-aware trust architecture for vehicular networks. citation:-1
+title:An analytical framework for neighbor discovery strategies in ad hoc networks with sectorized antennas. citation:-1
+title:Transmission Control Protocols Evaluation over Satellite Networks. citation:-1
+title:A Mobile Delay-Tolerant Approach to Long-Term Energy-Efficient Underwater Sensor Networking. citation:-1
+title:RelayCast: Scalable multicast routing in Delay Tolerant Networks. citation:-1
+title:Cog-Fi: A cognitive Wi-Fi Channel Hopping architecture for urban MANETs. citation:-1
+title:Cognitive radio implementation in ISM bands with Microsoft SORA. citation:-1
+title:Rapid Dengue and Outbreak Detection with Mobile Systems and Social Networks. citation:-1
+title:Using digital fountains in future IPTV streaming platforms: a future perspective. citation:-1
+title:Filtering false data via authentic consensus in vehicle ad hoc networks. citation:-1
+title:Editorial. citation:-1
+title:RFID assisted vehicle positioning in VANETs. citation:-1
+title:Vehicular Testbeds - Model Validation before Large Scale Deployment. citation:-1
+title:Characterizing Transactions on Multi-server Systems. citation:-1
+title:RPL under mobility. citation:-1
+title:Web-based mobile e-Diary for youth with Sickle Cell Disease. citation:-1
+title:Understanding Pollution Dynamics in P2P File Sharing. citation:-1
+title:Efficient buffer management for TCP services. citation:-1
+title:GeO-LANMAR: a scalable routing protocol for very large, dense ad hoc networks with group motion. citation:-1
+title:EyeGuardian: a framework of eye tracking and blink detection for mobile device users. citation:-1
+title:A new optical signal routing scheme for linear lightwave networks. citation:-1
+title:Physical layer security in wireless smart grid. citation:-1
+title:A simulation tool for automated platooning in mixed highway scenarios. citation:-1
+title:Mitigate Funnel Effect in Sensor Networks with Multi-interface Relay Nodes. citation:-1
+title:Welcome message from the HotMesh 2012 chairs. citation:-1
+title:We Can Deliver Messages to Far Vehicles. citation:-1
+title:DDOR: Destination discovery oriented routing in highway/freeway VANETs+. citation:-1
+title:CORNER: A Radio Propagation Model for VANETs in Urban Scenarios. citation:-1
+title:Performance comparison of overlaid bluetooth piconets (OBP) and bluetooth scatternet. citation:-1
+title:Distributed multicast group security architecture for mobile ad hoc networks. citation:-1
+title:Measuring effective capacity of IEEE 802.15.4 beaconless mode. citation:-1
+title:Performance evaluation of anonymous routing protocols in MANETs. citation:-1
+title:A zone routing protocol for Bluetooth scatternets. citation:-1
+title:Path Heuristics Using ACO for Inter-domain Routing in Mobile Ad Hoc and Sensor Networks. citation:-1
+title:Vehicular Cloud Computing. citation:-1
+title:Mobile social network based trust authentication. citation:-1
+title:Experimental evaluation of LANMAR, a scalable ad-hoc routing protocol. citation:-1
+title:On demand multicast routing with unidirectional links. citation:-1
+title:QoS-aware multiple spanning tree mechanism over a bridged LAN environment. citation:-1
+title:Fluid-flow analysis of TCP Westwood with RED. citation:-1
+title:Efficient building method of multiple spanning tree for QoS and load balancing. citation:-1
+title:What's in that magic box? The home entertainment center's special protocol potion, revealed. citation:-1
+title:Secure Incentives for Commercial Ad Dissemination in Vehicular Networks. citation:-1
+title:The flow deviation method: An approach to store-and-forward communication network design. citation:-1
+title:A simulation tool for automated platooning in mixed highway scenarios. citation:-1
+title:Digital Fountains + P2P for Future IPTV Platforms: A Test-Bed Evaluation. citation:-1
+title:Cost-effective multiple QoS path provisioning. citation:-1
+title:Measured analysis of TCP behavior across multihop wireless and wired networks. citation:-1
+title:A protocol to improve the state scalability of source specific multicast. citation:-1
+title:The use of a proxy on board the satellite to improve TCP performance. citation:-1
+title:How effective is the IEEE 802.11 RTS/CTS handshake in ad hoc networks. citation:-1
+title:Adaptive bandwidth share estimation in TCP Westwood. citation:-1
+title:Scalable QoS multicast provisioning in Diff-Serv-supported MPLS networks. citation:-1
+title:Special issue for selected papers from wireless days 2010 conference 'Mobile communications and computing in challenged environments: models, protocols, applications'. citation:-1
+title:A survey on interactive games over mobile networks. citation:-1
+title:Impact of Node Heterogeneity in ZigBee Mesh Network Routing. citation:-1
+title:Interconnecting LANs and MANs to ATM. citation:-1
+title:Network management using database discovery tools. citation:-1
+title:Brouter: the transparent bridge with shortest path in interconnected LANs. citation:-1
+title:Multicast protocol implementation and validation in an ad hoc network testbed. citation:-1
+title:Smart download on the go: a wireless Internet application for music distribution over heterogeneous networks. citation:-1
+title:The selective intermediate nodes scheme for ad hoc on-demand routing protocols. citation:-1
+title:TCP westwood with agile probing: dealing with dynamic, large, leaky pipes. citation:-1
+title:SPACE-MAC: enabling spatial reuse using MIMO channel-aware MAC. citation:-1
+title:Permissible throughput network feedback for adaptive multimedia in AODV MANETs. citation:-1
+title:Rendezvous scheduling in Bluetooth scatternets. citation:-1
+title:Dynamic load-aware routing in ad hoc networks. citation:-1
+title:Adaptive GAIMD with Binary Decision: A Novel Congestion Control Approach for the Internet. citation:-1
+title:A "dual-tree" scheme for fault-tolerant multicast. citation:-1
+title:Scalable ad hoc routing in large, dense wireless networks using clustering and landmarks. citation:-1
+title:Throughput, energy and path length tradeoffs in Bluetooth scatternets. citation:-1
+title:Modeling Channel Conflict Probabilities between IEEE 802.15 based Wireless Personal Area Networks. citation:-1
+title:Improving efficiency-friendliness tradeoffs of TCP in wired-wireless combined networks. citation:-1
+title:Core-stateless fair bandwidth allocation for TCP flows. citation:-1
+title:Efficient polling schemes for Bluetooth picocells. citation:-1
+title:Split multipath routing with maximally disjoint paths in ad hoc networks. citation:-1
+title:An ad hoc network with mobile backbones. citation:-1
+title:A security architecture for application session handoff. citation:-1
+title:An Enhanced Digital Content Mediator (DCM) Approach to Implementing Legitimate and Secure P2P Online Transactions. citation:-1
+title:Enhancing Bluetooth TCP throughput via link layer packet adaptation. citation:-1

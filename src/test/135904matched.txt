@@ -1,0 +1,120 @@
+title1:Computational Models for Distributed Multimedia Applications. title2:Computational models for distributed multimedia applications citation:1 ncitation:-1 pid2696
+title1:Meta-information for Multimedia eLearning. title2:Meta-information for multimedia elearning citation:16 ncitation:15 pid66463
+title1:i-LAND: An Interactive Landscape for Creativity and Innovation. title2:i-LAND: an interactive landscape for creativity and innovation citation:682 ncitation:662 pid90409
+title1:The Personal Electronic Program Guide - Towards the Pre-Selection of Individual TV Programs. citation:91 ncitation:88 pid95259
+title1:Vulnerabilities and Security Limitations of current IP Telephony Systems. title2:Vulnerabilities and Security Limitations of current IP Telephony Systems citation:20 ncitation:19 pid103598
+title1:Evaluation of Different Video Encryption Methods for a Secure Multimedia Conferencing Gateway. title2:Evaluation of different video encryption methods for a secure multimedia conferencing gateway citation:21 ncitation:20 pid116980
+title1:Ein Werkzeug zur Unterstützung der Anpassung existierender E-Learning-Materialien. citation:3 ncitation:3 pid148351
+title1:Das Authoring Management System EXPLAIN zur ganzheitlichen Unterstützung des Erstellungsprozesses von Trainingsmedien und WBTs. citation:3 ncitation:3 pid148423
+title1:Requirements and an Architecture for a Multimedia Content Re-purposing Framework. title2:Requirements and an architecture for a multimedia content re-purposing framework citation:22 ncitation:18 pid175587
+title1:An approach for the Management of Service-oriented Architecture (SoA) based Application Systems. title2:An approach for the Management of Service-oriented Architecture (SoA) based Application Systems. citation:57 ncitation:60 pid180656
+title1:The eDonkey File-Sharing Network. title2:The eDonkey File-Sharing Network. citation:25 ncitation:23 pid230007
+title1:Towards Integrated Multimedia Systems: Why and How. title2:Towards Integrated Multimedia Systems: Why and How citation:21 ncitation:19 pid230078
+title1:Automatic creation of exercises in adaptive hypermedia learning systems. title2:Automatic creation of exercises in adaptive hypermedia learning systems citation:30 ncitation:29 pid256307
+title1:Individual Tables of Contents in Web-Based Learning Systems. title2:Individual tables of contents in Web-based learning systems citation:18 ncitation:18 pid256648
+title1:Interactive Watermarking Environments. title2:Interactive watermarking environments citation:15 ncitation:15 pid330002
+title1:Content-Based Digital Signature for Motion Pictures Authentication and Content-Fragile Watermarking. title2:Content-based digital signature for motion pictures authentication and content-fragile watermarking citation:197 ncitation:196 pid330004
+title1:Biometric Hash based on Statistical Features of Online Signatures. title2:Biometric hash based on statistical features of online signatures citation:167 ncitation:161 pid349085
+title1:Charging in Peer-to-Peer Systems Based on a Token Accounting System. title2:Charging in peer-to-peer systems based on a token accounting system citation:16 ncitation:15 pid350730
+title1:Heuristics for QoS-aware Web Service Composition. title2:Heuristics for qos-aware web service composition citation:194 ncitation:184 pid371037
+title1:JASMINE: Java Application Sharing in Multiuser INteractive Environments. title2:JASMINE: Java application sharing in multiuser interactive environments citation:15 ncitation:13 pid373164
+title1:Content-Fragile Watermarking Based on Content-Based Digital Signatures. title2:Content-fragile Watermarking based on content-based digital Signatures citation:1 ncitation:1 pid373258
+title1:On Availability QoS for Replicated Multimedia Service and Content. title2:On availability Qos for replicated multimedia service and content citation:19 ncitation:13 pid373305
+title1:Implementation and Evaluation of the KOM RSVP Engine. title2:Implementation and Evaluation of the KOM RSVP Engine citation:49 ncitation:49 pid401235
+title1:RSVP as Firewall Signalling Protocol. title2:RSVP as firewall signalling protocol citation:29 ncitation:29 pid432731
+title1:KOM Player - A Platform for Experimental VoD Research. title2:KOM player-a platform for experimental vod research citation:18 ncitation:18 pid432998
+title1:A Distributed Platform for Multimedia Communities. title2:A distributed platform for multimedia communities citation:20 ncitation:16 pid437814
+title1:Quality of Availability: Replica Placement for Widely Distributed Systems. title2:Quality of availability: replica placement for widely distributed systems citation:23 ncitation:22 pid465960
+title1:Subjective Impression of Variations in Layer Encoded Videos. title2:Subjective impression of variations in layer encoded videos citation:92 ncitation:75 pid466061
+title1:Token-Based Accounting for P2P-Systems. title2:Token-based accounting for p2p-systems citation:21 ncitation:21 pid478795
+title1:Cost and Price Calculation for Internet Integrated Services. title2:Cost and price calculation for internet integrated services citation:18 ncitation:17 pid478812
+title1:VDMFA, eine verteilte dynamische Firewallarchitektur für Multimedia-Dienste. citation:5 ncitation:5 pid478941
+title1:Layered Network QoS Signalling - Motivation, Implementation & Measurements. title2:Layered network QoS signalling-motivation, implementation and measurements citation:1 ncitation:2 pid482163
+title1:Eine Methode zur Wertzuweisung von Dateien in ILM. title2:Eine Methode zur Wertzuweisung von Dateien in ILM. citation:4 ncitation:4 pid501099
+title1:Robust MPEG Video Watermarking Technologies. title2:Robust MPEG video watermarking technologies citation:129 ncitation:126 pid502144
+title1:Curricula and resources for courses about multimedia (panel session). title2:Curricula and resources for courses about multimedia (panel session) citation:0 ncitation:-1 pid502209
+title1:Protecting VoD the Easier Way. title2:Protecting VoD the easier way citation:73 ncitation:71 pid502270
+title1:JiST/MobNet: combined simulation, emulation, and real-world testbed for ad hoc networks. title2:JiST/MobNet: combined simulation, emulation, and real-world testbed for ad hoc networks citation:27 ncitation:25 pid506009
+title1:An Adaptable, Role-Based Simulator for P2P Networks. title2:An Adaptable, Role-Based Simulator for P2P Networks. citation:20 ncitation:19 pid509301
+title1:Implementing HeiTS: Architecture and Implementation Strategy of the Heidelberg High-Speed Transport System. title2:Implementing HeiTS: Architecture and implementation strategy of the Heidelberg high-speed transport system citation:71 ncitation:67 pid519459
+title1:Abstractions for Continuous-Media Programming. title2:Abstractions for continuous-media programming citation:19 ncitation:19 pid519613
+title1:Load balancing for multimedia streaming in heterogeneous peer-to-peer systems. title2:Load balancing for multimedia streaming in heterogeneous peer-to-peer systems citation:21 ncitation:18 pid519658
+title1:Issues ofReserving Resources in Advance. title2:Issues of reserving resources in advance citation:124 ncitation:125 pid519693
+title1:The Effectiveness of Realistic Replication Strategies on Quality of Availability for Peer-to-Peer Systems. title2:The effectiveness of realistic replication strategies on quality of availability for peer-to-peer systems citation:31 ncitation:29 pid525365
+title1:Token-Based Accounting and Distributed Pricing to Introduce Market Mechanisms in a Peer-to-Peer File Sharing Scenario. title2:Token-based accounting and distributed pricing to introduce market mechanisms in a peer-to-peer file sharing scenario citation:54 ncitation:49 pid525397
+title1:Globase.KOM - A P2P Overlay for Fully Retrievable Location-based Search. title2:Globase. kom-a p2p overlay for fully retrievable location-based search citation:40 ncitation:37 pid525504
+title1:Modelling the Internet Delay Space Based on Geographical Locations. title2:Modelling the internet delay space based on geographical locations citation:43 ncitation:31 pid534760
+title1:Quality of Service Support for Recording and Playback of MBone Sessions in Heterogeneous IP/ATM Networks. title2:Quality of service support for recording and playback of MBone sessions in heterogeneous IP/ATM networks citation:1 ncitation:2 pid624625
+title1:A survey on realworld and emulation testbeds for mobile ad hoc networks. title2:A survey on real world and emulation testbeds for mobile ad hoc networks citation:37 ncitation:34 pid630839
+title1:Connectables: dynamic coupling of displays for the flexible creation of shared workspaces. title2:Connectables: dynamic coupling of displays for the flexible creation of shared workspaces citation:227 ncitation:220 pid634325
+title1:Performance Analysis of the Real-time Capabilities of Coordinated Centralized Scheduling in 802.16 Mesh Mode. title2:Performance analysis of the real-time capabilities of coordinated centralized scheduling in 802.16 mesh mode citation:27 ncitation:-1 pid689369
+title1:Metadata for smart multimedia learning objects. title2:Metadata for smart multimedia learning objects citation:37 ncitation:35 pid717642
+title1:On Routing in a Two-Tier Overlay Network based on de Bruijn Digraphs. title2:On Routing in a Two-Tier Overlay Network based on de Bruijn Digraphs citation:1 ncitation:-1 pid726395
+title1:Modeling mobility and workload for wireless metropolitan area networks. title2:Modeling mobility and workload for wireless metropolitan area networks citation:20 ncitation:21 pid800607
+title1:Research challenges in QoS routing. title2:Research challenges in QoS routing citation:96 ncitation:80 pid801187
+title1:Multimedia File Systems Survey: Approaches for Continuous Media Disk Scheduling. title2:Multimedia file systems survey: approaches for continuous media disk scheduling citation:40 ncitation:42 pid801876
+title1:Abstractions for continuous-media programming. title2:Abstractions for continuous-media programming citation:19 ncitation:19 pid801877
+title1:Editorial. title2:Editorial note and call for nominations: Nicolas D. Georganas best paper award citation:1 ncitation:-1 pid801878
+title1:Resource Management in Networked Multimedia Systems. title2:Resource management in networked multimedia systems citation:237 ncitation:241 pid807543
+title1:Reusable Multimedia Content in Web-Based Learning Systems. title2:Reusable multimedia content in Web based learning systems citation:41 ncitation:45 pid893817
+title1:Metadata Standards for Web-Based Resources. title2:Metadata standards for web-based resources citation:62 ncitation:56 pid894227
+title1:Analyzing The Multimedia Operating System. title2:Analyzing the multimedia operating system citation:143 ncitation:140 pid894231
+title1:Reusability and adaptability of interactive resources in Web-based educational systems. title2:Reusability and adaptability of interactive resources in Web-based educational systems citation:58 ncitation:57 pid980243
+title1:Web-based multimedia tools for sharing educational resources. title2:Web-based multimedia tools for sharing educational resources citation:16 ncitation:16 pid980247
+title1:Overlay Design Mechanisms for Heterogeneous Large-Scale Dynamic P2P Systems. title2:Overlay design mechanisms for heterogeneous, large-scale, dynamic P2P systems citation:39 ncitation:33 pid985430
+title1:A Media Synchronization Survey: Reference Model, Specification, and Case Studies. title2:A media synchronization survey: Reference model, specification, and case studies citation:494 ncitation:490 pid991271
+title1:Synchronization Properties in Multimedia Systems. title2:Synchronization properties in multimedia systems citation:452 ncitation:448 pid992153
+title1:Human Perception of Jitter and Media Synchronization. title2:Human perception of jitter and media synchronization citation:467 ncitation:458 pid992154
+title1:Concepts for Resource Reservation in Advance. title2:Concepts for resource reservation in advance citation:102 ncitation:100 pid1016959
+title1:JASMINE: A Java Tool for Multimedia Collaboration on the Internet. title2:JASMINE: A java tool for multimedia collaboration on the internet citation:23 ncitation:23 pid1017006
+title1:Tune to Lambda patching. title2:Tune to lambda patching citation:30 ncitation:27 pid1063926
+title1:Modeling static and dynamic behavior of routes in mobile ad hoc networks. title2:Modeling static and dynamic behavior of routes in mobile ad hoc networks citation:1 ncitation:1 pid1064501
+title1:Layer-encoded video in scalable adaptive streaming. title2:Layer-encoded video in scalable adaptive streaming citation:37 ncitation:34 pid1116651
+title1:Combining simulations, models and testbeds: possibilities and pitfalls. title2:Combining simulations, models and testbeds: possibilities and pitfalls citation:1 ncitation:1 pid1253486
+title1:Collaborative Semantic Tagging of Web Resources on the Basis of Individual Knowledge Networks. title2:Collaborative semantic tagging of web resources on the basis of individual knowledge networks citation:18 ncitation:17 pid1256836
+title1:From Web Service Policies to Automatic Deviation Handling: Supporting Semantic Description of Reactions to Policy Violations. title2:From Web Service Policies to Automatic Deviation Handling: Supporting Semantic Description of Reactions to Policy Violations citation:1 ncitation:1 pid1261350
+title1:Management of Service-oriented Architecture (SoA)-based Application Systems. title2:An approach for the Management of Service-oriented Architecture (SoA) based Application Systems. citation:57 ncitation:-1 pid1292995
+title1:A Proportionally Fair Centralized Scheduler Supporting Spatial Minislot Reuse for IEEE 802.16 Mesh Networks. title2:A Proportionally Fair Centralized Scheduler Supporting Spatial Minislot Reuse for IEEE 802.16 Mesh Networks citation:1 ncitation:-1 pid1309260
+title1:A Peer-to-Peer Recommender System with Privacy Constraints. title2:A Peer-to-Peer Recommender System with Privacy Constraints citation:1 ncitation:1 pid1326676
+title1:Solving resource planning problems: a heuristical solution. title2:Solving resource planning problems: a heuristical solution citation:1 ncitation:1 pid1565960
+title1:Quality of Service - IWQoS 2001, 9th International Workshop Karlsruhe, Germany, June 6-8, 2001, Proceedings title2:Quality of Service-IWQoS 2001: 9th International Workshop Karlsruhe, Germany, June 6-8, 2001. Proceedings citation:1 ncitation:1 pid1571749
+title1:A Middleware for the Controlled Information Exchange Between Online Games and Internet Applications. title2:A Middleware for the Controlled Information Exchange between Online Games and Internet Applications citation:1 ncitation:1 pid1585785
+title1:Practical security in p2p-based social networks. title2:Practical security in p2p-based social networks citation:27 ncitation:21 pid1595093
+title1:Unraveling BitTorrent's File Unavailability: Measurements and Analysis. title2:Unraveling BitTorrent's file unavailability: measurements and analysis citation:33 ncitation:26 pid2196081
+title1:Sorting the wheat from the chaff: Adaptive sensor selection for context-aware applications. title2:Sorting the wheat from the chaff: Adaptive sensor selection for context-aware applications citation:1 ncitation:1 pid2201281
+title1:Serious games for health: personalized exergames. title2:Serious games for health: personalized exergames citation:34 ncitation:19 pid2773038
+title1:Collaborative Learning by Means of Multiplayer Serious Games. title2:Collaborative Learning by means of Multiplayer Serious Games citation:1 ncitation:1 pid2783585
+title1:Obituary to our dear friend professor Dr. Nicolas D. Georganas, PhD. title2:Obituary to our dear friend professor Dr. Nicolas D. Georganas, PhD. citation:1 ncitation:-1 pid2785515
+title1:Video compression techniques. title2:Video Compression Techniques: From JPEG to Wavelets citation:39 ncitation:35 pid2805026
+title1:The Seeder Promotion Problem: Measurements, Analysis and Solution Space. title2:The seeder promotion problem: Measurements, analysis and solution space citation:21 ncitation:17 pid2805974
+title1:Optimizing Service Selection for Probabilistic QoS Attributes. title2:Optimizing Service Selection for Probabilistic QoS Attributes. citation:1 ncitation:1 pid2806050
+title1:WBroximity: Mobile participatory sensing for WLAN- and Bluetooth-based positioning. title2:WBroximity: Mobile participatory sensing for WLAN-and Bluetooth-based positioning citation:1 ncitation:1 pid2808701
+title1:SFHC.KOM: Stateful header compression for wireless sensor networks. title2:SFHC. KOM: Stateful header compression for wireless sensor networks citation:1 ncitation:1 pid2809093
+title1:Media-aware networking for SVC-based P2P streaming. title2:Media-aware Networking for SVC-based P2P Streaming citation:0 ncitation:-1 pid2809097
+title1:Der Assistent im Hintergrund: Adaptives Kommunikationsmanagement durch Lernen vom Nutzer. title2:Der Assistent im Hintergrund: Adaptives Kommunikationsmanagement durch Lernen vom Nutzer citation:4 ncitation:4 pid2882173
+title1:Editorial. title2:Editorial note and call for nominations: Nicolas D. Georganas best paper award citation:1 ncitation:-1 pid2898061
+title1:Supporting peer learning with ad-hoc communities. title2:Supporting peer learning with ad-hoc communities citation:1 ncitation:1 pid2962573
+title1:Capturing and storing profile information for gamers playing multiplayer online games. title2:Capturing and storing profile information for gamers playing multiplayer online games citation:1 ncitation:1 pid3005032
+title1:Cross-Lingual Recommendations in a Resource-Based Learning Scenario. title2:Cross-lingual recommendations in a resource-based learning scenario citation:1 ncitation:-1 pid3017696
+title1:Towards a Generic Governance Model for Service Oriented Architectures. title2:Towards a Generic Governance Model for Service Oriented Architectures. citation:43 ncitation:36 pid3082946
+title1:Applying TOGAF to Define and Govern a Service-oriented Architecture in a Large-scale Research Project. title2:Applying TOGAF to Define and Govern a Service-oriented Architecture in a Large-scale Research Project citation:1 ncitation:1 pid3106895
+title1:A Comparison of Self-Organization Mechanisms in Nature and Information Technology. title2:A Comparison of Self-Organization Mechanisms in Nature and Information Technology. citation:1 ncitation:1 pid3128198
+title1:Negotiating about shared knowledge in a cooperative learning environment. title2:Negotiating about shared knowledge in a cooperative learning environment citation:16 ncitation:16 pid3128391
+title1:Traceability Link Evolution with Version Control. title2:Traceability Link Evolution with Version Control. citation:1 ncitation:1 pid3175092
+title1:Editorial note and call for nominations: Nicolas D. Georganas best paper award. title2:Editorial note and call for nominations: Nicolas D. Georganas best paper award citation:1 ncitation:-1 pid3177349
+title1:Revealing Business Relationships - Eavesdropping Cross-organizational Collaboration in the Internet of Services. citation:1 ncitation:1 pid3185703
+title1:Adaptation Model for Indoor Exergames. title2:Adaptation Model for Indoor Exergames citation:3 ncitation:1 pid3203914
+title1:Concurrent Negotiations in Cloud-Based Systems. title2:Concurrent negotiations in cloud-based systems citation:2 ncitation:-1 pid3237637
+title1:A cluster-based locality-aware mobile peer-to-peer architecture. title2:A cluster-based locality-aware mobile peer-to-peer architecture citation:1 ncitation:-1 pid3238574
+title1:Location-Based Services for Technology Enhanced Learning and Teaching. title2:Location-Based services for technology enhanced learning and teaching citation:0 ncitation:-1 pid3278315
+title1:Automatic Taxonomy Extraction in Different Languages Using Wikipedia and Minimal Language-Specific Information. title2:Automatic taxonomy extraction in different languages using wikipedia and minimal language-specific information citation:1 ncitation:-1 pid3279262
+title1:Editorial note. title2:Editorial note and call for nominations: Nicolas D. Georganas best paper award citation:1 ncitation:-1 pid3279658
+title1:Ranking resources in folksonomies by exploiting semantic information. title2:Ranking resources in folksonomies by exploiting semantic information citation:1 ncitation:-1 pid3280329
+title1:CBFR: Bloom filter routing with gradual forgetting for tree-structured wireless sensor networks with mobile nodes. title2:Cbfr: Bloom filter routing with gradual forgetting for tree-structured wireless sensor networks with mobile nodes citation:4 ncitation:1 pid3334138
+title1:PEDALE - A Peer Education Diagnostic and Learning Environment. title2:PEDALE-A Peer Education Diagnostic and Learning Environment. citation:2 ncitation:-1 pid3394759
+title1:Lightweight Wireless Web Service Communication Through Enhanced Caching Mechanisms. title2:Lightweight Wireless Web Service Communication Through Enhanced Caching Mechanisms citation:2 ncitation:1 pid3409059
+title1:Geodemlia: A robust peer-to-peer overlay supporting location-based search. title2:Geodemlia: A robust peer-to-peer overlay supporting location-based search citation:4 ncitation:-1 pid3409227
+title1:Towards Ranking in Folksonomies for Personalized Recommender Systems in E-Learning. title2:Towards Ranking in Folksonomies for Personalized Recommender Systems in E-Learning. citation:1 ncitation:1 pid3413742
+title1:Editorial. title2:Editorial note and call for nominations: Nicolas D. Georganas best paper award citation:1 ncitation:-1 pid3425558
+title1:Protecting IEEE 802.11s wireless mesh networks against insider attacks. title2:Protecting IEEE 802.11 s wireless mesh networks against insider attacks citation:1 ncitation:-1 pid3435001
+title1:On the effect of node misbehavior in ad hoc networks. title2:On the effect of node misbehavior in ad hoc networks citation:48 ncitation:-1 pid3454494

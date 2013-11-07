@@ -1,0 +1,331 @@
+title:Cache-Friendly Implementations of Transitive Closure. citation:-1
+title:An Architecture of a Workflow System for Integrated Asset Management in the Smart Oil Field Domain. citation:-1
+title:A Data Partitioning Approach for Parallelizing Rule Based Inferencing for Materialized OWL Knowledge Bases. citation:-1
+title:Constrained Flow Optimization with Applications to Data Gathering in Sensor Networks. citation:-1
+title:Algorithm Design and Optimization for Sensor Systems: (Invited Talk). citation:-1
+title:Synthesis of VLSI Architectures for Two-Dimensional Discrete Wavelet Transforms. citation:-1
+title:An FPGA-Based Application-Specific Processor for Efficient Reduction of Multiple Variable-Length Floating-Point Data Sets. citation:-1
+title:A Model-Based Methodology for Application Specific Energy Efficient Data Path Design Using FPGAs. citation:-1
+title:Towards automatic synthesis of a class of application-specific sensor networks. citation:-1
+title:A hierarchical approach for energy efficient application design using heterogeneous embedded systems. citation:-1
+title:A Semantic Framework for Integrated Asset Management in Smart Oilfields. citation:-1
+title:Multi-terabit ip lookup using parallel bidirectional pipelines. citation:-1
+title:Performance Optimization of a De-centralized Task Allocation Protocol via Bandwidth and Buffer Management. citation:-1
+title:System-level Support for Macroprogramming of Networked Sensing Applications. citation:-1
+title:A Compilation Framework for Macroprogramming Networked Sensors. citation:-1
+title:Energy-Efficient Task Mapping for Data-Driven Sensor Network Macroprogramming. citation:-1
+title:High Performance Computing using Reconfigurable Hardware. citation:-1
+title:A Methodology for Energy Efficient Application Synthesis Using Platform FPGAs. citation:-1
+title:Rapid Arithmetic Level Simulation Based Energy Estimation for Hardware/Software Co-Design Using FPGAs. citation:-1
+title:Invited Paper: Energy-Efficient Computations on FPGAs. citation:-1
+title:Efficient Floating-point Based Block LU Decomposition on FPGAs. citation:-1
+title:Energy-Efficient Discrete Cosine Transform on FPGAs. citation:-1
+title:Area-Efficient Evaluation of a Class of Arithmetic Expressions Using Deeply Pipelined Floating-Point Cores. citation:-1
+title:Scientific Computing using Reconfigurable Hardware. citation:-1
+title:Efficient FPGA-based Implementations of the MIMO-OFDM Physical Layer. citation:-1
+title:Performance Modeling and Interpretive Simulation of PIM Architectures and Applications (Research Note). citation:-1
+title:An Asynchronous Parallel Algorithm for Symbolic Grouping Operations in Vision. citation:-1
+title:Structured Communication in Single Hop Sensor Networks. citation:-1
+title:Mapping Homogeneous Computations onto Dynamically Configurable Coarse-Grained Architectures. citation:-1
+title:PyGen: A MATLAB/Simulink Based Tool for Synthesizing Parameterized and Energy Efficient Designs Using FPGAs. citation:-1
+title:An Estimation and Simulation Framework for Energy Efficient Design using Platform FPGAs. citation:-1
+title:Duty Cycle Aware Application Design using FPGAs. citation:-1
+title:COMA: A COoperative MAnagement Scheme for Energy Efficient Implementation of Real-Time Operating Systems on FPGA Based Soft Processors. citation:-1
+title:High-Performance FPGA-Based General Reduction Methods. citation:-1
+title:Performance Modeling of Reconfigurable SoC Architectures and Energy-Efficient Mapping of a Class of Applications. citation:-1
+title:An Architecture for Efficient Hardware Data Mining using Reconfigurable Computing Systems. citation:-1
+title:A SRAM-based Architecture for Trie-based IP Lookup Using FPGA. citation:-1
+title:Matrix Computations on Heterogeneous Reconfigurable Systems. citation:-1
+title:A Performance model for accelerating scientific applications on reconfigurable computers. citation:-1
+title:A Methodology for Energy Efficient FPGA Designs Using Malleable Algorithms. citation:-1
+title:DRIVE: An Interpretive Simulation and Visualization Environment for Dynamically Reconfigurable Systems. citation:-1
+title:Time and Energy Efficient Matrix Factorization Using FPGAs. citation:-1
+title:Fast parallel implementation of DFT using configurable devices. citation:-1
+title:Space-efficient Mapping of 2D-DCT onto Dynamically Configurable Coarse-Grained Architectures. citation:-1
+title:Run-Time Performance Optimization of an FPGA-Based Deduction Engine for SAT Solvers. citation:-1
+title:Energy-Efficient Matrix Multiplication on FPGAs. citation:-1
+title:An Algorithm Designer's Workbench for Platform FPGA's. citation:-1
+title:A Framework for Energy Efficient Design of Multi-rate Applications Using Hybrid Reconfigurable Systems. citation:-1
+title:High-Performance and Parameterized Matrix Factorization on FPGAs. citation:-1
+title:Genetic Programming Using Self-Reconfigurable FPGAs. citation:-1
+title:Efficient Metacomputation Using Self-Reconfiguration. citation:-1
+title:Scalable high-throughput SRAM-based architecture for IP-lookup using FPGA. citation:-1
+title:An Overview of MSHN: The Management System for Heterogeneous Networks. citation:-1
+title:Scalable Data Parallel Implementations of Object Recognition on Connection Machine CM-. citation:-1
+title:Reliability Analysis in Distributed Systems. citation:-1
+title:Portable Message Passing Algorithms for Irregular All-to-all Communication. citation:-1
+title:Energy-Efficient Communication in Multi-Channel Single-Hop Sensor Networks. citation:-1
+title:Configurable Hardware for Symbolic Search Operations. citation:-1
+title:Adaptive Matrix Multiplication in Heterogeneous Environments. citation:-1
+title:Scalable Parallel Implementation of Exact Inference in Bayesian Networks. citation:-1
+title:Energy-Efficient and Fault-Tolerant Resolution of Topographic Queries in Networked Sensor Systems. citation:-1
+title:Scalable Hybrid Designs for Linear Algebra on Reconfigurable Computing Systems. citation:-1
+title:A General Framework for Synthesis of Data Format Converters. citation:-1
+title:Fast Image Labeling using Local Operators On Mesh-Connected Computers. citation:-1
+title:Optimal Multipass Self-Routing Algorithms for Clos-Type Multistage Networks. citation:-1
+title:Algorithm Design and Synthesis for Wireless Sensor Networks. citation:-1
+title:Bandwidth-Aware Resource Allocation for Heterogeneous Computing Systems to Maximize Throughput. citation:-1
+title:Efficient Parallel Algorithms for Some Geometric Problems on Reconfigurable Mesh. citation:-1
+title:An Efficient Mapping of Directed Graph Based Computations onto SIMD Hypercube Arrays and Applications. citation:-1
+title:An Iterative Sparse Linear System Solver on Star Graphs. citation:-1
+title:Efficient Image Template Matching on Hypercube SIMD Arrays. citation:-1
+title:A General Purpose VLSI Array for Efficient Signal and Image Processsing. citation:-1
+title:Mapping Two Dimensional Systolic Arrays to One Dimensional Arrays and Applications. citation:-1
+title:Parallel Geometric Algorithms for Digitized Pictures on Mesh of Trees. citation:-1
+title:Data Movement Operations and Applications on Reconfigurable VLSI Arrays. citation:-1
+title:Analysis of Memory Hierarchy Performance of Block Data Layout. citation:-1
+title:A Class of Optimal VLSI Architectures for Computing Discrete Fourier Transform. citation:-1
+title:Fast Arithmetic on Reconfigurable Meshes. citation:-1
+title:Parallel Orientation of Polygonal Parts. citation:-1
+title:Parallel Image Processing On Enhanced Arrays. citation:-1
+title:An Efficient Algorithm for Large-Scale Matrix Transposition. citation:-1
+title:A VLSI-Based Multiprocessor Architecture for Implementing Parallel Algorithms. citation:-1
+title:VLSI Arrays with Reconfigurable Buses. citation:-1
+title:A Model-Based Framework for Developing and Deploying Data Aggregation Services. citation:-1
+title:Collaborative and Distributed Computation in Mesh-Like Wireless Sensor Arrays. citation:-1
+title:Run-Time Adaptation for Grid Environments. citation:-1
+title:Utilization-Based Heuristics for Statically Mapping Real-Time Applications onto the HiPer-D Heterogeneous Computing System. citation:-1
+title:Loop Pipelining and Optimization for Run Time Reconfiguration. citation:-1
+title:Performance of On-Chip Multiprocessors for Vision Tasks. citation:-1
+title:Domain Specific Mapping for Solving Graph Problems on Reconfigurable Devices. citation:-1
+title:Configurable Architectures Workshop (RAW 2000). citation:-1
+title:MIP Formulation for Robust Resource Allocation in Dynamic Real-Time Systems. citation:-1
+title:Iterative Integer Programming Formuation for Robust Resource Allocation in Dynamic Real-Time Systems. citation:-1
+title:An integer programming approach for static mapping onto heterogeneous real-time systems. citation:-1
+title:A High-Performance and Energy-Efficient Architecture for Floating-Point Based LU Decomposition on FPGAs. citation:-1
+title:Analysis of High-Performance Floating-Point Arithmetic on FPGAs. citation:-1
+title:Collective Value of QoS: A Performance Measure Framework for Distributed Heterogeneous Networks. citation:-1
+title:A Mapping Methodology for Designing Software Task Pipelines for Embedded Signal Processing. citation:-1
+title:MATLAB/Simulink Based Hardware/Software Co-Simulation for Designing Using FPGA Configured Soft Processors. citation:-1
+title:Dynamic Data Layouts for Cache-Conscious Factorization of DFT. citation:-1
+title:Heterogeneous Computing Workshop (HCW 2000). citation:-1
+title:Communication Models for Algorithm Design in Networked Sensor Systems. citation:-1
+title:Accelerating DTI tractography using FPGAs. citation:-1
+title:Hardware/Software Co-Design for Matrix Computations on Reconfigurable Computing Systems. citation:-1
+title:DOSA: Design Optimizer for Scientific Applications. citation:-1
+title:Parallel IP lookup using multiple SRAM-based pipelines. citation:-1
+title:DOSA: design optimizer for scientific applications. citation:-1
+title:Junction tree decomposition for parallel exact inference. citation:-1
+title:A Distributed Algorithm for Waking-up in Heterogeneous Sensor Networks. citation:-1
+title:Towards a model-based application integration framework for smart oilfields. citation:-1
+title:Modeling methodology for application development in petroleum industry. citation:-1
+title:ModelML: a Markup Language for Automatic Model Synthesis. citation:-1
+title:Towards an integrated modeling and simulation framework for freight transportation in metropolitan areas. citation:-1
+title:Workflow instance detection: Toward a knowledge capture methodology for smart oilfields. citation:-1
+title:Data component based management of reservoir simulation models. citation:-1
+title:Perfect Latin Squares and Parallel Array Access. citation:-1
+title:Array Processor with Multiple Broadcasting. citation:-1
+title:Energy Efficient Adaptation of Multicast Protocols in Power Controlled Wireless Ad Hoc Networks. citation:-1
+title:Programming Paradigms for Networked Sensing: A Distributed Systems' Perspective. citation:-1
+title:Energy-balanced task allocation for collaborative processing in networked embedded systems. citation:-1
+title:Detecting Dirty Queries during Iterative Development of OWL Based Applications. citation:-1
+title:Portable Implementation of Real-Time Signal Processing Benchmarks on HPC Platforms. citation:-1
+title:Parallel Exact Inference. citation:-1
+title:Optimizing Matrix Multiplication on Heterogeneous Reconfigurable Systems. citation:-1
+title:Hardware Object Selection for Mapping Loops onto Reconfigurable Architectures. citation:-1
+title:Supporting Topographic Queries in a Class of Networked Sensor Systems. citation:-1
+title:Expressing Sensor Network Interaction Patterns Using Data-Driven Macroprogramming. citation:-1
+title:An Efficient Fixed Size Array for Solving Large Scale Toeplitz Systems-Abstract. citation:-1
+title:Issues in using heterogeneous HPC systems for embedded real time signal processing applications. citation:-1
+title:Node Level Primitives for Parallel Exact Inference. citation:-1
+title:Scalable Parallel Implementation of Bayesian Network to Junction Tree Conversion for Exact Inference. citation:-1
+title:High-Performance and Area-Efficient Reduction Circuits on FPGAs. citation:-1
+title:Molecular dynamics - Preliminary investigation of advanced electrostatics in molecular dynamics on reconfigurable computers. citation:-1
+title:Parallel exact inference on the cell broadband engine processor. citation:-1
+title:Parallel Convexity Algorithms for Digitized Images on a Linear Array of Processors. citation:-1
+title:An Optimal Multiplication Algorithm for Reconfigurable Mesh. citation:-1
+title:A Tight Bound on the Diameter of One-Dimensional PEC Networks. citation:-1
+title:A Fast Algorithm for Performing Vector Quantization and its VLSI Implementation. citation:-1
+title:Combinatorial Techniques for Memory Power State Scheduling in Energy-Constrained Systems. citation:-1
+title:Algorithmic Techniques for Memory Energy Reduction. citation:-1
+title:Multi-Way Pipelining for Power-Efficient IP Lookup. citation:-1
+title:Issues in designing a compilation framework for macroprogrammed networked sensor systems. citation:-1
+title:Processor-Time Optimal Parallel Algorithms for Digitized Images on Mesh-Connected Processor Arrays. citation:-1
+title:Parallel Implementation of a Class of Adaptive Signal Processing Applications. citation:-1
+title:Block-cyclic redistribution over heterogeneous networks. citation:-1
+title:A flexible multi-dimensional QoS performance measure framework for distributed heterogeneous systems. citation:-1
+title:Efficient parallel implementation of RETE pattern matching. citation:-1
+title:Efficient Histogramming on Hypercube SIMD Machines. citation:-1
+title:Perfect Latin Squares. citation:-1
+title:Optimal Geometric Algorithms for Digitized Images on Fixed-Size Linear Arrays and Scan-Line Arrays. citation:-1
+title:An O(1) Time Optimal Algorithm for Multiplying Matrices on Reconfigurable Mesh. citation:-1
+title:Information Transfer in Distributed Computing with Applications to VLSI. citation:-1
+title:Cache-Friendly implementations of transitive closure. citation:-1
+title:Resource Allocation for Independent Real-Time Tasks in Heterogeneous Systems for Energy Minimization. citation:-1
+title:Efficient Parallel Computation on the Reduced Mesh of Tress Organization. citation:-1
+title:Parallel Algorithms for Perceptual Grouping on Distributed Memory Machines. citation:-1
+title:Array Processor with Multiple Broadcasting. citation:-1
+title:Designing Linear Systolic Arrays. citation:-1
+title:Bounds on the Diameter of One-Dimensional PEC Networks. citation:-1
+title:Portable and Scalable Algorithm for Irregular All-to-All Communication. citation:-1
+title:Special Issue on Massively Parallel Computation. citation:-1
+title:Scalable Data Parallel Implementations of Object Recognition Using Geometric Hashing. citation:-1
+title:Maximum lifetime data sensing and extraction in energy constrained networked sensor systems. citation:-1
+title:A window-assisted video partitioning strategy for partitioning and caching video streams in distributed multimedia systems. citation:-1
+title:A pipelined-loop-compatible architecture and algorithm to reduce variable-length sets of floating-point data on a reconfigurable computer. citation:-1
+title:MIP formulation for robust resource allocation in dynamic real-time systems. citation:-1
+title:Fault-tolerant analysis for multiple servers movie retrieval strategy for distributed multimedia applications. citation:-1
+title:Fast Image Labeling Using Local Operators on Mesh-Connected Computers. citation:-1
+title:Parallelizing Image Feature Extraction on Coarse-Grain Machines. citation:-1
+title:Efficient Parallel Algorithms for Image Template Matching on Hypercube SIMD Machines. citation:-1
+title:Image Computations on Meshes with Multiple Broadcast. citation:-1
+title:An efficient VLSI architecture with applications to geometric problems. citation:-1
+title:Efficient VLSI Implementation of Iterative Solutions to Sparse Linear Systems. citation:-1
+title:Information Transfer under Different Sets of Protocols. citation:-1
+title:Optimal VLSI Sorting with Reduced Number of Processors. citation:-1
+title:On Mapping Algorithms to Linear and Fault-Tolerant Systolic Arrays. citation:-1
+title:On Synthesizing Optimal Family of Linear Systolic Arrays for Matrix Multiplication. citation:-1
+title:A Note on the Linear Transformation Method for Systolic Array Design. citation:-1
+title:Editor's Note. citation:-1
+title:Editor's Note. citation:-1
+title:Editor's Note. citation:-1
+title:Editor's Note. citation:-1
+title:Editor's Note. citation:-1
+title:Editor's Note. citation:-1
+title:Editor's Note. citation:-1
+title:Editors' Note. citation:-1
+title:Permutations on Illiac IV-Type Networks. citation:-1
+title:Reliability Analysis in Distributed Systems. citation:-1
+title:An Efficient Algorithm for Out-of-Core Matrix Transposition. citation:-1
+title:Scalable Hybrid Designs for Linear Algebra on Reconfigurable Computing Systems. citation:-1
+title:Design space exploration using arithmetic-level hardware--software cosimulation for configurable multiprocessor platforms. citation:-1
+title:Energy-Efficient Computations on FPGAs. citation:-1
+title:Run-time performance optimization of an FPGA-based deduction engine for SAT solvers. citation:-1
+title:An adaptive cryptographic engine for internet protocol security architectures. citation:-1
+title:A model-based extensible framework for efficient application design using FPGA. citation:-1
+title:An Optimal Multiplication Algorithm on Reconfigurable Mesh. citation:-1
+title:Adaptive Allocation of Independent Tasks to Maximize Throughput. citation:-1
+title:Distributed Program Reliability Analysis. citation:-1
+title:A computationally efficient engine for flexible intrusion detection. citation:-1
+title:Synthesis of area-efficient and high-throughput rate data format converters. citation:-1
+title:Area-Efficient Arithmetic Expression Evaluation Using Deeply Pipelined Floating-Point Cores. citation:-1
+title:A Cooperative Management Scheme for Power Efficient Implementations of Real-Time Operating Systems on Soft Processors. citation:-1
+title:Arithmetic-Level Instruction Based Energy Estimation for FPGA based Soft Processors. citation:-1
+title:Energy-efficient hardware/software co-synthesis for a class of applications on reconfigurable SoCs. citation:-1
+title:Energy Minimization for Real-Time Data Gathering in Wireless Sensor Networks. citation:-1
+title:On communication models for algorithm design in networked sensor systems: A case study. citation:-1
+title:Maximum Data Gathering in Networked Sensor Systems. citation:-1
+title:A FPGA-based Parallel Architecture for Scalable High-Speed Packet Classification. citation:-1
+title:Algorithm Design for Reconfigurable Computing Systems. citation:-1
+title:Transitive closure on the cell broadband engine: A study on self-scheduling in a multicore processor. citation:-1
+title:Parallel Evidence Propagation on Multicore Processors. citation:-1
+title:Hierarchical Dependency Graphs: Abstraction and Methodology for Mapping Systolic Array Designs to Multicore Processors. citation:-1
+title:Field-split parallel architecture for high performance multi-match packet classification using FPGAs. citation:-1
+title:High throughput and large capacity pipelined dynamic search tree on FPGA. citation:-1
+title:Memory efficient string matching: a modular approach on FPGAs (abstract only). citation:-1
+title:Sequence-preserving parallel IP lookup using multiple SRAM-based pipelines. citation:-1
+title:Collaborative scheduling of DAG structured computations on multicore processors. citation:-1
+title:Distributed Computing in Sensor Systems, First IEEE International Conference, DCOSS 2005, Marina del Rey, CA, USA, June 30 - July 1, 2005, Proceedings citation:-1
+title:Scalable High Throughput and Power Efficient IP-Lookup on FPGA. citation:-1
+title:Multi-Core Architecture on FPGA for Large Dictionary String Matching. citation:-1
+title:Memory-Efficient Pipelined Architecture for Large-Scale String Matching. citation:-1
+title:High Performance Computing - HiPC'99, 6th International Conference, Calcutta, India, December 17-20, 1999, Proceedings citation:-1
+title:High Performance Computing - HiPC 2000, 7th International Conference, Bangalore, India, December 17-20, 2000, Proceedings citation:-1
+title:High Performance Computing - HiPC 2001, 8th International Conference, Hyderabad, India, December, 17-20, 2001, Proceedings citation:-1
+title:High Performance Computing - HiPC 2002, 9th International Conference, Bangalore, India, December 18-21, 2002, Proceedings citation:-1
+title:High Performance Computing - HiPC 2003, 10th International Conference, Hyderabad, India, December 17-20, 2003, Proceedings citation:-1
+title:High Performance Computing - HiPC 2004, 11th International Conference, Bangalore, India, December 19-22, 2004, Proceedings citation:-1
+title:High Performance Computing - HiPC 2006, 13th International Conference, Bangalore, India, December 18-21, 2006, Proceedings citation:-1
+title:High Performance Computing - HiPC 2007, 14th International Conference, Goa, India, December 18-21, 2007, Proceedings citation:-1
+title:High Performance Computing - HiPC 2008, 15th International Conference, Bangalore, India, December 17-20, 2008. Proceedings citation:-1
+title:16th International Conference on High Performance Computing, HiPC 2009, December 16-19, 2009, Kochi, India, Proceedings citation:-1
+title:Algorithms and Architectures for Parallel Processing, 7th International Conference, ICA3PP 2007, Hangzhou, China, June 11-14, 2007, Proceedings citation:-1
+title:High Performance Dictionary-Based String Matching for Deep Packet Inspection. citation:-1
+title:Proceedings of the 6th International Parallel Processing Symposium, Beverly Hills, CA, USA, March 1992 citation:-1
+title:Parallel and Distributed Processing, 11 IPPS/SPDP'99 Workshops Held in Conjunction with the 13th International Parallel Processing Symposium and 10th Symposium on Parallel and Distributed Processing, San Juan, Puerto Rico, USA, April 12-16, 1999, Proceedings citation:-1
+title:Provenance Collection in Reservoir Management Workflow Environments. citation:-1
+title:Applying Semantic Web Techniques to Reservoir Engineering: Challenges and Experiences from Event Modeling. citation:-1
+title:Energy-Efficient Multi-Pipeline Architecture for Terabit Packet Classification. citation:-1
+title:ReConFig'09: 2009 International Conference on Reconfigurable Computing and FPGAs, Cancun, Quintana Roo, Mexico, 9-11 December 2009, Proceedings citation:-1
+title:Automatic Construction of Large-Scale Regular Expression Matching Engines on FPGA. citation:-1
+title:Parallel exact inference on the Cell Broadband Engine processor. citation:-1
+title:Scalable Node-Level Computation Kernels for Parallel Exact Inference. citation:-1
+title:Energy-Efficient Task Mapping for Data-Driven Sensor Network Macroprogramming. citation:-1
+title:Architecture-Independent Programming for Wireless Sensor Networks. citation:-1
+title:Automation Framework for Large-Scale Regular Expression Matching on FPGA. citation:-1
+title:Decision Forest: A Scalable Architecture for Flexible Flow Matching on FPGA. citation:-1
+title:Scalable multi-pipeline architecture for high performance multi-pattern string matching. citation:-1
+title:Head-body partitioned string matching for Deep Packet Inspection with scalable and attack-resilient performance. citation:-1
+title:Message from steering co-chairs. citation:-1
+title:Hierarchical Scheduling of DAG Structured Computations on Manycore Processors with Dynamic Thread Grouping. citation:-1
+title:Integrating Provenance Information in Reservoir Engineering. citation:-1
+title:A Memory-Efficient and Modular Approach for String Matching on FPGAs. citation:-1
+title:High Performance IP Lookup on FPGA with Combined Length-Infix Pipelined Search. citation:-1
+title:Hybrid Data Structure for IP Lookup in Virtual Routers Using FPGAs. citation:-1
+title:Memory-Efficient IPv4/v6 Lookup on FPGAs Using Distance-Bounded Path Compression. citation:-1
+title:Memory-efficient and scalable virtual routers using FPGA. citation:-1
+title:Scalable Packet Classification: Cutting or Merging? citation:-1
+title:Workflow management of simulation based computation processes in transportation domain. citation:-1
+title:Parallel evidence propagation on multicore processors. citation:-1
+title:Bidirectional Pipelining for Scalable IP Lookup and Packet Classification citation:-1
+title:Enabling Scope-Based Interactions in Sensor Network Macroprogramming. citation:-1
+title:Clustered Hierarchical Search Structure for Large-Scale Packet Classification on FPGA. citation:-1
+title:Towards On-the-Fly Incremental Updates for Virtualized Routers on FPGA. citation:-1
+title:FRuG: A benchmark for packet forwarding in future networks. citation:-1
+title:Towards an inexact semantic complex event processing framework. citation:-1
+title:Architecture-aware data structure optimization for green IP lookup. citation:-1
+title:A message-passing multi-softcore architecture on FPGA for Breadth-first Search. citation:-1
+title:High-throughput IP-lookup supporting dynamic routing tables using FPGA. citation:-1
+title:Multi-dimensional packet classification on FPGA: 100 Gbps and beyond. citation:-1
+title:Towards Reliable, Performant Workflows for Streaming-Applications on Cloud Platforms. citation:-1
+title:Exploring Weak Dependencies in DAG Scheduling. citation:-1
+title:Self-Adaptive Evidence Propagation on Manycore Processors. citation:-1
+title:Parallel Exact Inference on a CPU-GPGPU Heterogenous System. citation:-1
+title:Architectures for Green routers. citation:-1
+title:Hybrid data structure for IP lookup in virtual routers using FPGAs. citation:-1
+title:Proceedings of the 8th Conference on Computing Frontiers, 2011, Ischia, Italy, May 3-5, 2011 citation:-1
+title:FEACAN: Front-end acceleration for content-aware network processing. citation:-1
+title:Space-time tradeoff in regular expression matching with semi-deterministic finite automata. citation:-1
+title:An Analysis of Security and Privacy Issues in Smart Grid Software Architectures on Clouds. citation:-1
+title:Predicting Missing Provenance Using Semantic Associations in Reservoir Engineering. citation:-1
+title:ReConFig'10: 2010 International Conference on Reconfigurable Computing and FPGAs, Cancun, Quintana Roo, Mexico, 13-15 December 2010, Proceedings citation:-1
+title:Querying Provenance Information in Distributed Environments. citation:-1
+title:Dynamic data layouts for cache-conscious implementation of a class of signal transforms. citation:-1
+title:Improving Energy Use Forecast for Campus Micro-grids Using Indirect Indicators. citation:-1
+title:Social Networking Analysis: A State of the Art and the Effect of Semantics. citation:-1
+title:Multiroot: Towards Memory-Efficient Router Virtualization. citation:-1
+title:Multi-stream Regular Expression Matching on FPGA. citation:-1
+title:Optimizing Decomposition-Based Packet Classification Implementation on FPGAs. citation:-1
+title:Scalable architecture for 135 GBPS IPv6 lookup on FPGA (abstract only). citation:-1
+title:Utilization-Based Techniques for Statically Mapping Heterogeneous Applications onto the HiPer-D Heterogeneous Computing System. citation:-1
+title:A Semantic-Based Approach for Handling Incomplete and Inaccurate Provenance in Reservoir Engineering. citation:-1
+title:Modular VLSI architectures for computing the arithmetic Fourier transform. citation:-1
+title:Scalable Tree-Based Architectures for IPv4/v6 Lookup Using Prefix Partitioning. citation:-1
+title:High-Performance and Compact Architecture for Regular Expression Matching on FPGA. citation:-1
+title:Selected Papers from ReconFig 2009 International Conference on Reconfigurable Computing and FPGAs (ReconFig 2009). citation:-1
+title:Towards Green Routers: Depth-Bounded Multi-Pipeline Architecture for Power-Efficient IP Lookup. citation:-1
+title:Understanding web images by object relation network. citation:-1
+title:NSF/IEEE-TCPP curriculum initiative on parallel and distributed computing: core topics for undergraduates. citation:-1
+title:Reducing dynamic power dissipation in pipelined forwarding engines. citation:-1
+title:Scalable Packet Classification on FPGA. citation:-1
+title:Semantic Image Clustering Using Object Relation Network. citation:-1
+title:StrideBV: Single chip 400G+ packet classification. citation:-1
+title:Large-scale multi-flow regular expression matching on FPGA. citation:-1
+title:On Presenting Apropos Provenance for Situation Awareness and Data Forensics. citation:-1
+title:FPGA-based Router Virtualization: A Power Perspective. citation:-1
+title:Radiation Awareness in Three-Dimensional Wireless Sensor Networks. citation:-1
+title:Cryptonite: A Secure and Performant Data Repository on Public Clouds. citation:-1
+title:Selected Papers from the International Conference on Reconfigurable Computing and FPGAs (ReConFig'10). citation:-1
+title:Optimizing packet lookup in time and space on FPGA. citation:-1
+title:Area and time efficient implementations of matrix multiplication on FPGAs. citation:-1
+title:Energy efficiency of FPGAs and programmable processors for matrix multiplication. citation:-1
+title:Symposium on Architecture for Networking and Communications Systems, ANCS '12, Austin, TX, USA - October 29 - 30, 2012 citation:-1
+title:Incorporating Semantic Knowledge into Dynamic Data Processing for Smart Power Grids. citation:-1
+title:Energy-balanced multi-hop packet transmission in wireless sensor networks. citation:-1
+title:Parallel Exact Inference on Multicore Using MapReduce. citation:-1
+title:Rapid energy estimation of computations on FPGA based soft processors. citation:-1
+title:Energy management systems: state of the art and emerging trends. citation:-1
+title:Predicting Communication Intention in Social Networks. citation:-1
+title:Microblogging in the Enterprise: A Few Comments are in Order. citation:-1
+title:Enterprise Wisdom Captured Socially. citation:-1
+title:Data Parallelism for Belief Propagation in Factor Graphs. citation:-1
+title:Power-efficient and scalable virtual router architecture on FPGA. citation:-1
+title:A memory efficient IPv6 lookup engine on FPGA. citation:-1
+title:Guest Editorial: Computing Frontiers. citation:-1
+title:A fast and area-efficient VLSI architecture for embedded image coding. citation:-1
+title:Synthesis of VLSI architectures for tree-structured image coding. citation:-1
+title:Scalable high-throughput architecture for large balanced tree structures on FPGA (abstract only). citation:-1
+title:High throughput and programmable online trafficclassifier on FPGA. citation:-1
+title:AutoMapper: an automated tool for optimal hardware resource allocation for networking applications on FPGA (abstract only). citation:-1
+title:A QoS performance measure framework for distributed heterogeneous networks. citation:-1
+title:Algorithm Design Methodology for Embedded Architectures. citation:-1

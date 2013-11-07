@@ -1,0 +1,322 @@
+title:Algorithms for Omega-Regular Games with Imperfect Information. citation:-1
+title:Alpaga: A Tool for Solving Parity Games with Imperfect Information. citation:-1
+title:Better Quality in Synthesis through Quantitative Objectives. citation:-1
+title:Invariant Synthesis for Combined Theories. citation:-1
+title:Distributed, Modular HTL. citation:-1
+title:Computing Accumulated Delays in Real-time Systems. citation:-1
+title:An assume-guarantee rule for checking simulation. citation:-1
+title:Exploiting Design Structure in Model Checking. citation:-1
+title:Probabilistic Systems with LimSup and LimInf Objectives citation:-1
+title:Axioms for real-time logics. citation:-1
+title:Detecting Errors Before Reaching Them. citation:-1
+title:Prooving Safety Properties of Hybrid Systems. citation:-1
+title:Partial-Order Reduction in Symbolic State Space Exploration. citation:-1
+title:An Assume-Guarantee Rule for Checking Simulation. citation:-1
+title:Timed Parity Games: Complexity and Robustness citation:-1
+title:Lazy Shape Analysis. citation:-1
+title:Games with Secure Equilibria. citation:-1
+title:Mean-Payoff Parity Games. citation:-1
+title:Permissive interfaces. citation:-1
+title:An Eclipse Plug-in for Model Checking. citation:-1
+title:JMOCHA: A Model Checking Tool that Exploits Design Structure. citation:-1
+title:Computer-aided Verification of Embedded Systems. citation:-1
+title:Computing Accumulated Delays in Real-time Systems. citation:-1
+title:Partial-Order Reduction in Symbolic State-Space Exploration. citation:-1
+title:A Classification of Symbolic Transition Systems. citation:-1
+title:Introduction. citation:-1
+title:Introduction. citation:-1
+title:The Benefits of Relaxing Punctuality. citation:-1
+title:Semiperfect-Information Games. citation:-1
+title:Assume-Guarantee Synthesis. citation:-1
+title:A Space-Efficient On-the-fly Algorithm for Real-Time Model Checking. citation:-1
+title:Some Myths About Formal Verification. citation:-1
+title:Invariant and Type Inference for Matrices. citation:-1
+title:Equivalence of Labeled Markov Chains. citation:-1
+title:Automata for Specifying Component Interfaces. citation:-1
+title:Lazy Shape Analysis. citation:-1
+title:Algorithms for Omega-Regular Games with Imperfect Information. citation:-1
+title:It's About Time: Real-Time Logics Reviewed. citation:-1
+title:Reduction of stochastic parity to stochastic mean-payoff games. citation:-1
+title:Rectangular Hybrid Games. citation:-1
+title:State Equivalences for Rectangular Hybrid Automata. citation:-1
+title:Simple Stochastic Parity Games. citation:-1
+title:Local Liveness for Compositional Modeling of Fair Reactive Systems. citation:-1
+title:Fair Simulation. citation:-1
+title:Quantitative Languages. citation:-1
+title:The Complexity of Stochastic Rabin and Streett Games'. citation:-1
+title:Hybrid Systems Applications: An Oxymoron? citation:-1
+title:Probabilistic Weighted Automata. citation:-1
+title:On relational interfaces. citation:-1
+title:Masaccio: A Formal Model for Embedded Components. citation:-1
+title:Automatic Rectangular Refinement of Affine Hybrid Systems. citation:-1
+title:Executable biology. citation:-1
+title:Games with Secure Equilibria. citation:-1
+title:Model Checking Discounted Temporal Properties. citation:-1
+title:Fair Simulation. citation:-1
+title:Temporal Proof Methodologies for Timed Transition Systems citation:-1
+title:The BLAST Software Verification System. citation:-1
+title:Verifying Quantitative Properties Using Bound Functions. citation:-1
+title:Finitary Fairness citation:-1
+title:Alternating Weighted Automata. citation:-1
+title:Generating Tests from Counterexamples. citation:-1
+title:An Interface Algebra for Real-Time Components. citation:-1
+title:A Comparison of Control Problems for Timed and Hybrid Systems. citation:-1
+title:The Discipline of Embedded Systems Design. citation:-1
+title:Rich Interfaces for Software Modules. citation:-1
+title:From Verification to Control: Dynamic Programs for Omega-Regular Objectives. citation:-1
+title:Strategy Improvement for Stochastic Rabin and Streett Games. citation:-1
+title:Giotto: a time-triggered language for embedded programming. citation:-1
+title:Decomposing Refinement Proofs Using Assume-Guarantee Reasoning. citation:-1
+title:Concurrent Omega-Regular Games. citation:-1
+title:Using HyTech to Synthesize Control Parameters for a Steam Boiler. citation:-1
+title:Back to the Future: Towards a Theory of Timed Regular Languages citation:-1
+title:Strategy Improvement for Concurrent Safety Games citation:-1
+title:Symbolic Exploration of transition Hierarchies. citation:-1
+title:Sooner is Safer Than Later. citation:-1
+title:Timed Transition Systems. citation:-1
+title:Stack Size Analysis for Interrupt-Driven Programs. citation:-1
+title:Games, Time, and Probability: Graph Models for System Design and Analysis. citation:-1
+title:An Algorithm for the Approximative Analysis of Rectangular Automata. citation:-1
+title:Finitary Fairness. citation:-1
+title:Verification Methods for the Divergent Runs of Clock Systems. citation:-1
+title:Discounting the Future in Systems Theory. citation:-1
+title:Counterexample-guided Planning. citation:-1
+title:Finitary Winning in omega-Regular Games. citation:-1
+title:Convertibility verification and converter synthesis: two faces of the same coin. citation:-1
+title:Counterexample-Guided Control. citation:-1
+title:Hybrid Automata with Finite Bisimulatioins. citation:-1
+title:A hierarchical coordination language for interacting real-time tasks. citation:-1
+title:Model Checking Game Properties of Multi-agent Systems (Abstract). citation:-1
+title:Games in system design and verification. citation:-1
+title:Checking Memory Safety with Blast. citation:-1
+title:Sliding Window Abstraction for Infinite Markov Chains. citation:-1
+title:Event-Clock Automata: A Determinizable Class of Timed Automata. citation:-1
+title:The Regular Real-Time Languages. citation:-1
+title:Timed Parity Games: Complexity and Robustness. citation:-1
+title:The Expressive Power of Clocks. citation:-1
+title:Quantifying Similarities Between Timed Systems. citation:-1
+title:What Good Are Digital Clocks? citation:-1
+title:Termination criteria for solving concurrent safety and reachability games. citation:-1
+title:Timed Alternating-Time Temporal Logic. citation:-1
+title:Discrete-Time Control for Rectangular Hybrid Automata. citation:-1
+title:Synthesis of Uninitialized Systems. citation:-1
+title:Antichains: A New Algorithm for Checking Universality of Finite Automata. citation:-1
+title:Controller Synthesis with Budget Constraints. citation:-1
+title:The Blast Query Language for Software Verification.. citation:-1
+title:Software Transactional Memory on Relaxed Memory Models. citation:-1
+title:Trading Infinite Memory for Uniform Randomness in Timed Games. citation:-1
+title:Interface Compatibility Checking for Software Modules. citation:-1
+title:Synchronous and Bidirectional Component Interfaces. citation:-1
+title:Configurable Software Verification: Concretizing the Convergence of Model Checking and Program Analysis. citation:-1
+title:Concurrent Reachability Games. citation:-1
+title:Computing Simulations on Finite and Infinite Graphs. citation:-1
+title:Probabilistic Weighted Automata citation:-1
+title:Qualitative Analysis of Partially-observable Markov Decision Processes citation:-1
+title:A programmable microkernel for real-time systems. citation:-1
+title:The Benefits of Relaxing Punctuality. citation:-1
+title:A Classification of Symbolic Transition Systems citation:-1
+title:Strategy Improvement and Randomized Subexponential Algorithms for Stochastic Parity Games. citation:-1
+title:Markov Decision Processes with Multiple Objectives. citation:-1
+title:Formalisms for Specifying Markovian Population Models. citation:-1
+title:Axioms for Real-Time Logics. citation:-1
+title:Trading Probability for Fairness. citation:-1
+title:Synthesis of AMBA AHB from Formal Specification citation:-1
+title:Model checking discounted temporal properties. citation:-1
+title:Alternating Refinement Relations. citation:-1
+title:Proving non-termination. citation:-1
+title:Invited talk: the blast query language for software verification. citation:-1
+title:Model-Checking omega-Regular Properties of Interval Markov Chains. citation:-1
+title:The software model checker Blast. citation:-1
+title:The Observational Power of Clocks. citation:-1
+title:From Models to Code: The Missing Link in Embedded Software. citation:-1
+title:Modularity for Timed and Hybrid Systems. citation:-1
+title:On the Universal and Existential Fragments of the µ-Calculus. citation:-1
+title:The Control of Synchronous Systems, Part II. citation:-1
+title:Symbolic Model Checking for Rectangular Hybrid Systems. citation:-1
+title:A Note on Abstract Interpretation Strategies for Hybrid Automata. citation:-1
+title:Quantitative Generalizations of Languages. citation:-1
+title:Beyond HYTECH: Hybrid Systems Analysis Using Interval Numerical Methods. citation:-1
+title:Introduction. citation:-1
+title:HYTECH: The Cornell HYbrid TECHnology Tool. citation:-1
+title:Automating Modular Verification. citation:-1
+title:The Element of Surprise in Timed Games. citation:-1
+title:Interface theories with component reuse. citation:-1
+title:Logical Reliability of Interacting Real-Time Tasks. citation:-1
+title:Expressiveness and Closure Properties for Quantitative Languages citation:-1
+title:Solving Games Without Determinization. citation:-1
+title:Compositional Methods for Probabilistic Systems. citation:-1
+title:Robust Timed Automata. citation:-1
+title:Assume-Guarantee Reasoning for Hierarchical Hybrid Systems. citation:-1
+title:Fair Bisimulation. citation:-1
+title:Better Quality in Synthesis through Quantitative Objectives citation:-1
+title:The Control of Synchronous Systems. citation:-1
+title:Symbolic Algorithms for Infinite-State Games. citation:-1
+title:Abstract Interpretation of Game Properties. citation:-1
+title:Reachability Verification for Hybrid Automata. citation:-1
+title:Temporal Proof Methodologies for Real-time Systems. citation:-1
+title:Value Iteration. citation:-1
+title:Approximation of Event Probabilities in Noisy Cellular Processes. citation:-1
+title:On the universal and existential fragments of the -calculus. citation:-1
+title:Towards Refining Temporal Specifications into Hybrid Systems. citation:-1
+title:Stochastic Games with Finitary Objectives. citation:-1
+title:Robust Undecidability of Timed and Hybrid Systems. citation:-1
+title:Linear Phase-Portrait Approximations for Nonlinear Hybrid Systems. citation:-1
+title:Probabilistic Systems with LimSup and LimInf Objectives. citation:-1
+title:Concurrent reachability games. citation:-1
+title:Discrete-Time Control for Rectangular Hybrid Automata. citation:-1
+title:Bounded Asynchrony: Concurrency for Modeling Cell-Cell Interactions. citation:-1
+title:From Boolean to quantitative notions of correctness. citation:-1
+title:Embedded Software: Better Models, Better Code. citation:-1
+title:Parametric real-time reasoning. citation:-1
+title:Strategy Logic. citation:-1
+title:SYNERGY: a new algorithm for property checking. citation:-1
+title:Program Analysis with Dynamic Precision Adjustment. citation:-1
+title:Quantitative stochastic parity games. citation:-1
+title:The complexity of quantitative concurrent parity games. citation:-1
+title:Temporal-Safety Proofs for Systems Code. citation:-1
+title:Trading Memory for Randomness. citation:-1
+title:Thread-Modular Abstraction Refinement. citation:-1
+title:Embedded Control Systems Development with Giotto. citation:-1
+title:A Survey of Stochastic Games with Limsup and Liminf Objectives. citation:-1
+title:Algorithmic Analysis of Nonlinear Hybrid Systems. citation:-1
+title:Compositional Quantitative Reasoning. citation:-1
+title:Composable code generation for distributed giotto. citation:-1
+title:Path invariants. citation:-1
+title:The Symbolic Approach to Hybrid Systems. citation:-1
+title:Strategy Improvement for Concurrent Reachability Games. citation:-1
+title:Event-Driven Programming with Logical Execution Times. citation:-1
+title:Assume-Guarantee Refinement Between Different Time Scales. citation:-1
+title:Games with secure equilibria. citation:-1
+title:Verifying Sequential Consistency on Shared-Memory Multiprocessor Systems. citation:-1
+title:From -historic to -modern Symbolic Model Checking. citation:-1
+title:You Assume, We Guarantee: Methodology and Case Studies. citation:-1
+title:Trading End-to-End Latency for Composability. citation:-1
+title:Permissiveness in Transactional Memories. citation:-1
+title:The 2008 CAV Award citation. citation:-1
+title:Environment Assumptions for Synthesis citation:-1
+title:Valigator: A Verification Tool with Bound and Invariant Generation. citation:-1
+title:Resource Interfaces. citation:-1
+title:Extreme Model Checking. citation:-1
+title:Expressiveness and Closure Properties for Quantitative Languages. citation:-1
+title:Invited talk: the blast query language for software verification. citation:-1
+title:A Giotto-Based Helicopter Control System. citation:-1
+title:Strategy Construction for Parity Games with Imperfect Information. citation:-1
+title:Web service interfaces. citation:-1
+title:Environment Assumptions for Synthesis. citation:-1
+title:Completeness and Nondeterminism in Model Checking Transactional Memories. citation:-1
+title:An Application ofWeb-Service Interfaces. citation:-1
+title:Minimum-Time Reachability in Timed Games. citation:-1
+title:Model checking transactional memories. citation:-1
+title:Stochastic Limit-Average Games are in EXPTIME citation:-1
+title:Algorithms for Büchi Games citation:-1
+title:Stack size analysis for interrupt-driven programs. citation:-1
+title:The Embedded Systems Design Challenge. citation:-1
+title:Interface Theories for Component-Based Design. citation:-1
+title:Timed Interfaces. citation:-1
+title:HyTech: The Next Generation. citation:-1
+title:From Pre-Historic to Post-Modern Symbolic Model Checking. citation:-1
+title:Giotto: A Time-Triggered Language for Embedded Programming. citation:-1
+title:Abstract Counterexample-Based Refinement for Powerset Domains. citation:-1
+title:A typed assembly language for real-time programs. citation:-1
+title:Race checking by context inference. citation:-1
+title:Schedule-Carrying Code. citation:-1
+title:The Embedded Machine: Predictable, Portable Real-Time Code. citation:-1
+title:Algorithms for Omega-Regular Games with Imperfect Information citation:-1
+title:Time-Safety Checking for Embedded Programs. citation:-1
+title:Generalized Parity Games. citation:-1
+title:The embedded machine: Predictable, portable real-time code. citation:-1
+title:Algorithms for Interface Synthesis. citation:-1
+title:Synthesizing robust systems. citation:-1
+title:MCWEB: A Model-Checking Tool for Web Site Debugging. citation:-1
+title:Real-Time System = Discrete System + Clock Variables. citation:-1
+title:A classification of symbolic transition systems. citation:-1
+title:Alpaga: A Tool for Solving Parity Games with Imperfect Information citation:-1
+title:Half-Order Modal Logic: How to Prove Real-Time Properties. citation:-1
+title:Termination Criteria for Solving Concurrent Safety and Reachability Games citation:-1
+title:Quantitative Simulation Games. citation:-1
+title:Computer Aided Verification, 8th International Conference, CAV '96, New Brunswick, NJ, USA, July 31 - August 3, 1996, Proceedings citation:-1
+title:Measuring and Synthesizing Systems in Probabilistic Environments. citation:-1
+title:Robustness in the Presence of Liveness. citation:-1
+title:Gist: A Solver for Probabilistic Games. citation:-1
+title:Simulation Distances. citation:-1
+title:Mean-Payoff Automaton Expressions. citation:-1
+title:Computer Science Logic, 21st International Workshop, CSL 2007, 16th Annual Conference of the EACSL, Lausanne, Switzerland, September 11-15, 2007, Proceedings citation:-1
+title:Embedded Software, First International Workshop, EMSOFT 2001, Tahoe City, CA, USA, October, 8-10, 2001, Proceedings citation:-1
+title:Shape Refinement through Explicit Heap Analysis. citation:-1
+title:Forward Analysis of Depth-Bounded Processes. citation:-1
+title:Hybrid Systems III: Verification and Control, Proceedings of the DIMACS/SYCON Workshop, October 22-25, 1995, Ruttgers University, New Brunswick, NJ, USA citation:-1
+title:Hybrid Systems: Computation and Control, First International Workshop, HSCC'98, Berkeley, California, USA, April 13-15, 1998, Proceedings citation:-1
+title:Randomness for Free. citation:-1
+title:Qualitative Analysis of Partially-Observable Markov Decision Processes. citation:-1
+title:Transactions in the jungle. citation:-1
+title:Measuring and Synthesizing Systems in Probabilistic Environments citation:-1
+title:GIST: A Solver for Probabilistic Games citation:-1
+title:SABRE: A Tool for Stochastic Analysis of Biochemical Reaction Networks citation:-1
+title:Hybrid Numerical Solution of the Chemical Master Equation citation:-1
+title:Randomness for Free citation:-1
+title:Mean-payoff Automaton Expressions citation:-1
+title:Generalized Mean-payoff and Energy Games citation:-1
+title:Expressiveness and Closure Properties for Quantitative Languages citation:-1
+title:Finitary winning in omega-regular games. citation:-1
+title:Quantitative languages. citation:-1
+title:Probabilistic Automata on Infinite Words: Decidability and Undecidability Results. citation:-1
+title:Aligators for Arrays (Tool Paper). citation:-1
+title:Lumpability Abstractions of Rule-based Systems citation:-1
+title:Timed Parity Games: Complexity and Robustness citation:-1
+title:Model checking transactional memories. citation:-1
+title:Strategy construction for parity games with imperfect information. citation:-1
+title:Strategy logic. citation:-1
+title:Robustness of Sequential Circuits. citation:-1
+title:A marketplace for cloud resources. citation:-1
+title:Generalized Mean-payoff and Energy Games. citation:-1
+title:ABC: Algebraic Bound Computation for Loops. citation:-1
+title:SABRE: A Tool for Stochastic Analysis of Biochemical Reaction Networks. citation:-1
+title:Hybrid numerical solution of the chemical master equation. citation:-1
+title:QUASY: Quantitative Synthesis Tool. citation:-1
+title:Scheduling large jobs by abstraction refinement. citation:-1
+title:The Complexity of Request-Response Games. citation:-1
+title:The Decidability Frontier for Probabilistic Automata on Infinite Words citation:-1
+title:Quantitative Synthesis for Concurrent Programs citation:-1
+title:Formalisms for Specifying Markovian Population Models. citation:-1
+title:Approximation of event probabilities in noisy cellular processes. citation:-1
+title:A Theory of Synchronous Relational Interfaces. citation:-1
+title:Biology as reactivity. citation:-1
+title:Conditional Model Checking citation:-1
+title:Qualitative concurrent parity games. citation:-1
+title:Dynamic Reactive Modules. citation:-1
+title:From boolean to quantitative synthesis. citation:-1
+title:The Complexity of Quantitative Information Flow Problems. citation:-1
+title:FlexPRICE: Flexible Provisioning of Resources in a Cloud Environment. citation:-1
+title:Quantitative Synthesis for Concurrent Programs. citation:-1
+title:Quantitative Evaluation of BFT Protocols. citation:-1
+title:Temporal Specifications with Accumulative Values. citation:-1
+title:Determinizing Discounted-Sum Automata. citation:-1
+title:Separate compilation of hierarchical real-time programs into linear-bounded Embedded Machine code. citation:-1
+title:Simulation distances. citation:-1
+title:Strategy Improvement for Concurrent Reachability and Safety Games citation:-1
+title:Verification of STM on relaxed memory models. citation:-1
+title:Propagation models for computing biochemical reaction networks. citation:-1
+title:Ideal Abstractions for Well-Structured Transition Systems. citation:-1
+title:A survey of stochastic ?-regular games. citation:-1
+title:Specification-centered robustness. citation:-1
+title:Stochastic limit-average games are in EXPTIME. citation:-1
+title:Predictive Modeling of Signaling Crosstalk during Vulval Development. citation:-1
+title:Synchronous Interface Theories and Time Triggered Scheduling. citation:-1
+title:Finite Automata with Time-Delay Blocks (Extended Version) citation:-1
+title:The Complexity of Multi-Mean-Payoff and Multi-Energy Games citation:-1
+title:Counterexample-guided Planning citation:-1
+title:2011 CAV award announcement. citation:-1
+title:Quantitative Reactive Models. citation:-1
+title:Delayed Continuous-Time Markov Chains for Genetic Regulatory Circuits. citation:-1
+title:Independent Implementability of Viewpoints. citation:-1
+title:Lumpability abstractions of rule-based systems. citation:-1
+title:Interface Simulation Distances citation:-1
+title:New directions in computer-aided verification. citation:-1
+title:Conditional model checking: a technique to pass information between verifiers. citation:-1
+title:Synthesis from incompatible specifications. citation:-1
+title:Finite automata with time-delay blocks. citation:-1
+title:Approximate Determinization of Quantitative Automata. citation:-1
+title:Quantitative abstraction refinement. citation:-1
+title:Quantitative relaxation of concurrent data structures. citation:-1
+title:Mathematical and Engineering Methods in Computer Science, 8th International Doctoral Workshop, MEMICS 2012, Znojmo, Czech Republic, October 25-28, 2012, Revised Selected Papers citation:-1
+title:Keynote on "the propagation approach for computing biochemical reaction networks". citation:-1

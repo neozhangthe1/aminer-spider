@@ -1,0 +1,120 @@
+title1:Head Pose Estimation using Fisher Manifold Learning. title2:Head Pose Estimation using Fisher Manifold Learning. citation:52 ncitation:43 pid40586
+title1:Minerva: A Scalable OWL Ontology Storage and Inference System. title2:Minerva: A scalable OWL ontology storage and inference system citation:103 ncitation:84 pid54648
+title1:Information disclosure under realistic assumptions: privacy versus optimality. title2:Information disclosure under realistic assumptions: Privacy versus optimality citation:40 ncitation:36 pid84190
+title1:IGroup: presenting web image search results in semantic clusters. title2:Igroup: presenting web image search results in semantic clusters citation:48 ncitation:39 pid90971
+title1:Learning query-biased web page summarization. title2:Learning query-biased web page summarization citation:28 ncitation:22 pid96326
+title1:Learning in Region-Based Image Retrieval. title2:Learning in region-based image retrieval citation:90 ncitation:87 pid98344
+title1:Chinese Named Entity Identification Using Class-based Language Model. title2:Chinese named entity identification using class-based language model citation:105 ncitation:103 pid108211
+title1:AnnoSearch: Image Auto-Annotation by Search. title2:Annosearch: Image auto-annotation by search citation:192 ncitation:166 pid129385
+title1:Determining the Radiometric Response Function from a Single Grayscale Image. title2:Determining the radiometric response function from a single grayscale image citation:64 ncitation:56 pid128519
+title1:Discriminant Analysis with Tensor Representation. title2:Discriminant analysis with tensor representation citation:104 ncitation:90 pid129522
+title1:What are the high-level concepts with small semantic gaps? title2:What are the high-level concepts with small semantic gaps? citation:45 ncitation:38 pid130315
+title1:Content-Based Image Annotation Refinement. title2:Content-based image annotation refinement citation:87 ncitation:72 pid129704
+title1:A Block-Based Inter-Band Lossless Hyperspectral Image Compressor. title2:A block-based inter-band lossless hyperspectral image compressor citation:28 ncitation:23 pid146865
+title1:New Efficient Certificateless Signature Scheme. title2:New efficient certificateless signature scheme citation:33 ncitation:31 pid191170
+title1:Automatic 3D Reconstruction for Face Recognition. title2:Automatic 3D reconstruction for face recognition citation:108 ncitation:102 pid205452
+title1:3D Shape Constraint for Facial Feature Localization Using Probabilistic-like Output. title2:3D shape constraint for facial feature localization using probabilistic-like output citation:24 ncitation:21 pid205384
+title1:A New Provably Secure Certificateless Signature Scheme. title2:A new provably secure certificateless signature scheme citation:37 ncitation:29 pid276117
+title1:Learning to Generate CGs from Domain Specific Sentences. title2:Learning to generate CGs from domain specific sentences citation:33 ncitation:32 pid290190
+title1:Neighborhood Preserving Projections (NPP): A Novel Linear Dimension Reduction Method. title2:Neighborhood preserving projections (NPP): a novel linear dimension reduction method citation:45 ncitation:35 pid313650
+title1:Auto cropping for digital photographs. title2:Auto cropping for digital photographs citation:47 ncitation:28 pid332438
+title1:Automated red-eye detection and correction in digital photographs. title2:Automated red-eye detection and correction in digital photographs citation:41 ncitation:35 pid322635
+title1:Support vector machine learning for image retrieval. title2:Support vector machine learning for image retrieval citation:243 ncitation:215 pid322609
+title1:Palmprint Verification using Complex Wavelet Transform. title2:Palmprint verification using complex wavelet transform citation:39 ncitation:38 pid324837
+title1:A New Approach to Automated Retinal Vessel Segmentation Using Multiscale Analysis. title2:A new approach to automated retinal vessel segmentation using multiscale analysis citation:25 ncitation:20 pid347593
+title1:A Wavelet-Based Edge Detection Method by Scale Multiplication. title2:A wavelet-based edge detection method by scale multiplication citation:25 ncitation:19 pid349599
+title1:Efficient propagation for face annotation in family albums. title2:Efficient propagation for face annotation in family albums citation:74 ncitation:70 pid503211
+title1:Automated annotation of human faces in family albums. title2:Automated annotation of human faces in family albums citation:120 ncitation:104 pid503208
+title1:IGroup: web image search results clustering. title2:Igroup: web image search results clustering citation:70 ncitation:61 pid503245
+title1:VirtualTour: an online travel assistant based on high quality images. title2:VirtualTour: an online travel assistant based on high quality images citation:28 ncitation:25 pid503268
+title1:Image annotation by large-scale content-based image retrieval. title2:Image annotation by large-scale content-based image retrieval citation:73 ncitation:66 pid503260
+title1:EnjoyPhoto: a vertical image search engine for enjoying high-quality photos. title2:EnjoyPhoto: a vertical image search engine for enjoying high-quality photos citation:36 ncitation:32 pid503345
+title1:Scalable search-based image annotation of personal images. title2:Scalable search-based image annotation of personal images citation:36 ncitation:37 pid500490
+title1:: a system for home photo management and processing. title2:MyPhotos: a system for home photo management and processing citation:45 ncitation:-1 pid502969
+title1:Toward Information Sharing: Benefit And Risk Access Control (BARAC). title2:Toward information sharing: Benefit and risk access control (BARAC) citation:45 ncitation:36 pid545823
+title1:Image annotation refinement using random walk with restarts. title2:Image annotation refinement using random walk with restarts citation:134 ncitation:122 pid503360
+title1:MusicSense: contextual music recommendation using emotional allocation modeling. title2:Musicsense: contextual music recommendation using emotional allocation modeling citation:37 ncitation:29 pid503565
+title1:Scalable music recommendation by search. title2:Scalable music recommendation by search citation:37 ncitation:30 pid503640
+title1:Towards Imaging Large-Scale Ontologies for Quick Understanding and Analysis. title2:Towards imaging large-scale ontologies for quick understanding and analysis citation:37 ncitation:35 pid583814
+title1:Learning to reduce the semantic gap in web image retrieval and annotation. title2:Learning to reduce the semantic gap in web image retrieval and annotation citation:90 ncitation:72 pid596471
+title1:Exploring traversal strategy for web forum crawling. title2:Exploring traversal strategy for web forum crawling citation:32 ncitation:21 pid596443
+title1:Semplore: An IR Approach to Scalable Hybrid Query of Semantic Web Data. title2:Semplore: an IR approach to scalable hybrid query of semantic web data citation:41 ncitation:41 pid583813
+title1:An enhanced model for searching in semantic portals. title2:An enhanced model for searching in semantic portals citation:79 ncitation:76 pid674910
+title1:Exploring social annotations for the semantic web. title2:Exploring social annotations for the semantic web citation:390 ncitation:370 pid674931
+title1:SOR: A Practical System for Ontology Storage, Reasoning and Search. title2:SOR: a practical system for ontology storage, reasoning and search citation:69 ncitation:60 pid644199
+title1:Boosting Image Orientation Detection with Indoor vs. Outdoor Classification. title2:Boosting image orientation detection with indoor vs. outdoor classification citation:65 ncitation:63 pid651020
+title1:iRobot: an intelligent crawler for web forums. title2:iRobot: An intelligent crawler for Web forums citation:55 ncitation:46 pid675441
+title1:Incorporating site-level knowledge to extract structured data from web forums. title2:Incorporating site-level knowledge to extract structured data from web forums citation:39 ncitation:33 pid675527
+title1:Canny Edge Detection Enhancement by Scale Multiplication. title2:Canny edge detection enhancement by scale multiplication citation:234 ncitation:180 pid1031012
+title1:Emergent Semantics from Folksonomies: A Quantitative Study. title2:Emergent semantics from folksonomies: A quantitative study citation:69 ncitation:63 pid986542
+title1:Face Annotation for Family Photo Album Management. title2:Face annotation for family photo album management citation:40 ncitation:37 pid910310
+title1:A new certificateless aggregate signature scheme. title2:A new certificateless aggregate signature scheme citation:49 ncitation:33 pid803411
+title1:Human Gait Recognition With Matrix Representation. title2:Human gait recognition with matrix representation citation:67 ncitation:64 pid1097560
+title1:Reconstruction and Recognition of Tensor-Based Objects With Concurrent Subspaces Analysis. title2:Reconstruction and recognition of tensor-based objects with concurrent subspaces analysis citation:36 ncitation:28 pid1097782
+title1:Denoising by spatial correlation thresholding. title2:Denoising by spatial correlation thresholding citation:51 ncitation:48 pid1097479
+title1:Multiscale LMMSE-Based Image Denoising With Optimal Wavelet Selection. title2:Multiscale LMMSE-based image denoising with optimal wavelet selection citation:78 ncitation:67 pid1097480
+title1:Two secret sharing schemes based on Boolean operations. title2:Two secret sharing schemes based on Boolean operations citation:95 ncitation:69 pid1042463
+title1:Edge detection by scale multiplication in wavelet domain. title2:Edge detection by scale multiplication in wavelet domain citation:163 ncitation:152 pid1046398
+title1:Boosting image classification with LDA-based feature combination for digital photograph management. title2:Boosting image classification with LDA-based feature combination for digital photograph management citation:36 ncitation:33 pid1040439
+title1:Hybrid inter- and intra-wavelet scale image restoration. title2:Hybrid inter-and intra-wavelet scale image restoration citation:36 ncitation:31 pid1042138
+title1:Efficient 3D reconstruction for face recognition. title2:Efficient 3D reconstruction for face recognition citation:153 ncitation:124 pid1039803
+title1:Face recognition using FLDA with single training image per person. title2:Face recognition using FLDA with single training image per person citation:53 ncitation:38 pid1149264
+title1:Privacy-preserving robust data aggregation in wireless sensor networks. citation:29 ncitation:21 pid1188967
+title1:Color Reproduction From Noisy CFA Data of Single Sensor Digital Cameras. title2:Color reproduction from noisy CFA data of single sensor digital cameras citation:40 ncitation:39 pid1102552
+title1:Multilinear Discriminant Analysis for Face Recognition. title2:Multilinear discriminant analysis for face recognition citation:164 ncitation:147 pid1102738
+title1:Color demosaicking via directional linear minimum mean square-error estimation. title2:Color demosaicking via directional linear minimum mean square-error estimation citation:178 ncitation:144 pid1102345
+title1:An edge-guided image interpolation algorithm via directional filtering and data fusion. title2:An edge-guided image interpolation algorithm via directional filtering and data fusion citation:226 ncitation:172 pid1102395
+title1:Noise Reduction for Magnetic Resonance Images via Adaptive Multiscale Products Thresholding. title2:Noise reduction for magnetic resonance images via adaptive multiscale products thresholding citation:205 ncitation:174 pid1114722
+title1:PCA-Based Spatially Adaptive Denoising of CFA Images for Single-Sensor Digital Cameras. title2:PCA-based spatially adaptive denoising of CFA images for single-sensor digital cameras citation:69 ncitation:50 pid1103015
+title1:Characterization of palmprints by wavelet signatures via directional context modeling. title2:Characterization of palmprints by wavelet signatures via directional context modeling citation:184 ncitation:170 pid1132566
+title1:User grouping behavior in online forums. title2:User grouping behavior in online forums citation:40 ncitation:29 pid1212500
+title1:Ranking community answers by modeling question-answer relationships via analogical reasoning. title2:Ranking community answers by modeling question-answer relationships via analogical reasoning citation:44 ncitation:39 pid1213940
+title1:Annotating Images by Mining Image Search Results. title2:Annotating images by mining image search results citation:121 ncitation:104 pid1226613
+title1:Finger-Knuckle-Print Verification Based on Band-Limited Phase-Only Correlation. title2:Finger-knuckle-print verification based on band-limited phase-only correlation citation:45 ncitation:31 pid1238631
+title1:Multi-label sparse coding for automatic image annotation. title2:Multi-label sparse coding for automatic image annotation citation:70 ncitation:56 pid1304788
+title1:Palmprint verification using binary orientation co-occurrence vector. title2:Palmprint verification using binary orientation co-occurrence vector citation:69 ncitation:54 pid1280445
+title1:Semplore: A scalable IR approach to search the Web of Data. title2:Semplore: A scalable IR approach to search the Web of Data citation:42 ncitation:28 pid1282734
+title1:Feature extraction based on Laplacian bidirectional maximum margin criterion. title2:Feature extraction based on Laplacian bidirectional maximum margin criterion citation:38 ncitation:31 pid1280313
+title1:Finger-knuckle-print: A new biometric identifier. title2:Finger-knuckle-print: a new biometric identifier citation:56 ncitation:44 pid2205935
+title1:Nonlocal back-projection for adaptive image enlargement. title2:Nonlocal back-projection for adaptive image enlargement citation:47 ncitation:27 pid2214555
+title1:Equip tourists with knowledge mined from travelogues. title2:Equip tourists with knowledge mined from travelogues citation:60 ncitation:34 pid2195013
+title1:Efficient many-to-one authentication with certificateless aggregate signatures. title2:Efficient many-to-one authentication with certificateless aggregate signatures citation:30 ncitation:15 pid2325732
+title1:Robust Object Tracking Using Joint Color-Texture Histogram. title2:Robust object tracking using joint color-texture histogram citation:78 ncitation:63 pid2325183
+title1:Simulatable certificateless two-party authenticated key agreement protocol. title2:Simulatable certificateless two-party authenticated key agreement protocol citation:49 ncitation:41 pid2324198
+title1:Interactive image segmentation by maximal similarity based region merging. title2:Interactive image segmentation by maximal similarity based region merging citation:146 ncitation:100 pid2296242
+title1:Rotation invariant texture classification using LBP variance (LBPV) with global matching. title2:Rotation invariant texture classification using LBP variance (LBPV) with global matching citation:155 ncitation:86 pid2679568
+title1:Image retrieval based on multi-texton histogram. title2:Image retrieval based on multi-texton histogram citation:58 ncitation:37 pid2600558
+title1:Online finger-knuckle-print verification for personal authentication. title2:Online finger-knuckle-print verification for personal authentication citation:100 ncitation:76 pid2607300
+title1:Two-stage image denoising by principal component analysis with local pixel grouping. title2:Two-stage image denoising by principal component analysis with local pixel grouping citation:96 ncitation:54 pid2617788
+title1:Color space normalization: Enhancing the discriminating power of color spaces for face recognition. title2:Color space normalization: Enhancing the discriminating power of color spaces for face recognition citation:43 ncitation:27 pid2463465
+title1:Directional binary code with application to PolyU near-infrared face database. title2:Directional binary code with application to PolyU near-infrared face database citation:26 ncitation:20 pid2434663
+title1:A Completed Modeling of Local Binary Pattern Operator for Texture Classification. title2:A completed modeling of local binary pattern operator for texture classification citation:215 ncitation:97 pid2430756
+title1:Tumor Clustering Using Nonnegative Matrix Factorization With Gene Selection. title2:Tumor clustering using nonnegative matrix factorization with gene selection citation:44 ncitation:28 pid2431334
+title1:ARISTA - image search to annotation on billions of web photos. title2:Arista-image search to annotation on billions of web photos citation:39 ncitation:31 pid2418650
+title1:Spatial-bag-of-features. title2:Spatial-bag-of-features citation:90 ncitation:68 pid2774230
+title1:Photo2Trip: generating travel routes from geo-tagged photos for trip planning. title2:Photo2trip: generating travel routes from geo-tagged photos for trip planning citation:54 ncitation:29 pid2820079
+title1:Online joint palmprint and palmvein verification. title2:Online joint palmprint and palmvein verification citation:32 ncitation:18 pid2824716
+title1:Gabor Feature Based Sparse Representation for Face Recognition with Gabor Occlusion Dictionary. title2:Gabor feature based sparse representation for face recognition with gabor occlusion dictionary citation:114 ncitation:54 pid2837493
+title1:Efficient indexing for large scale visual search. title2:Efficient indexing for large scale visual search citation:41 ncitation:28 pid2851729
+title1:Metaface learning for sparse representation based face recognition. title2:Metaface learning for sparse representation based face recognition citation:46 ncitation:25 pid2862467
+title1:Hierarchical multiscale LBP for face and palmprint recognition. title2:Hierarchical multiscale LBP for face and palmprint recognition citation:34 ncitation:21 pid2867377
+title1:Image Deblurring and Super-resolution by Adaptive Sparse Domain Selection and Adaptive Regularization title2:Image deblurring and super-resolution by adaptive sparse domain selection and adaptive regularization citation:125 ncitation:63 pid2867849
+title1:An Online System of Multispectral Palmprint Verification. title2:An online system of multispectral palmprint verification citation:80 ncitation:49 pid2898147
+title1:Summarizing tourist destinations by mining user-generated travelogues and photos. title2:Summarizing tourist destinations by mining user-generated travelogues and photos citation:32 ncitation:11 pid2905731
+title1:A multi-manifold discriminant analysis method for image feature extraction. title2:A multi-manifold discriminant analysis method for image feature extraction citation:39 ncitation:21 pid2920882
+title1:Ensemble of local and global information for finger-knuckle-print recognition. citation:52 ncitation:34 pid2923087
+title1:Image segmentation by iterated region merging with localized graph cuts. title2:Image segmentation by iterated region merging with localized graph cuts citation:31 ncitation:14 pid2926641
+title1:Palmprint Recognition Using 3-D Information. title2:Palmprint recognition using 3-D information citation:56 ncitation:34 pid2945807
+title1:Differences Between Collection 4 and 5 MODIS Ice Cloud Optical/Microphysical Products and Their Impact on Radiative Forcing Simulations. title2:Differences between collection 4 and 5 MODIS ice cloud optical/microphysical products and their impact on radiative forcing simulations citation:36 ncitation:34 pid2972000
+title1:Resolution Enhancement for Inversed Synthetic Aperture Radar Imaging Under Low SNR via Improved Compressive Sensing. title2:Resolution enhancement for inversed synthetic aperture radar imaging under low SNR via improved compressive sensing citation:74 ncitation:36 pid2978930
+title1:Comparative studies of assembly tools for next-generation sequencing technologies. title2:Comparative studies of de novo assembly tools for next-generation sequencing technologies citation:50 ncitation:25 pid3015919
+title1:FSIM: A Feature Similarity Index for Image Quality Assessment. title2:FSIM: a feature similarity index for image quality assessment citation:164 ncitation:71 pid3047781
+title1:Image Deblurring and Super-Resolution by Adaptive Sparse Domain Selection and Adaptive Regularization. title2:Image deblurring and super-resolution by adaptive sparse domain selection and adaptive regularization citation:125 ncitation:63 pid3066679
+title1:Sparsity-based image denoising via dictionary learning and structural clustering. title2:Sparsity-based image denoising via dictionary learning and structural clustering citation:58 ncitation:31 pid3136169
+title1:Robust sparse coding for face recognition. title2:Robust sparse coding for face recognition citation:90 ncitation:40 pid3136514
+title1:Edgel index for large-scale sketch-based image search. title2:Edgel index for large-scale sketch-based image search citation:37 ncitation:17 pid3136737
+title1:Multiresolution modeling and estimation of multisensor data. title2:Multiresolution modeling and estimation of multisensor data citation:29 ncitation:25 pid3162638
+title1:Fisher Discrimination Dictionary Learning for sparse representation. title2:Fisher discrimination dictionary learning for sparse representation citation:90 ncitation:31 pid3214997
+title1:Sparse representation or collaborative representation: Which helps face recognition? title2:Sparse representation or collaborative representation: Which helps face recognition? citation:146 ncitation:71 pid3216995
+title1:Retinal vessel extraction by matched filter with first-order derivative of Gaussian. title2:Retinal vessel extraction by matched filter with first-order derivative of Gaussian citation:51 ncitation:37 pid3247801
+title1:Gaussian mixture model for relevance feedback in image retrieval. title2:Gaussian mixture model for relevance feedback in image retrieval citation:40 ncitation:37 pid3292245

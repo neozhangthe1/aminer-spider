@@ -1,0 +1,39 @@
+title1:Weighted Random Sampling. title2:Weighted random sampling with a reservoir citation:50 ncitation:3 pid1199484
+title1:Lower Bounds and Efficient Algorithms for Multiprocessor Scheduling of Dags with Communication Delays. title2:Lower bounds and efficient algorithms for multiprocessor scheduling of dags with communication delays citation:52 ncitation:52 pid614363
+title1:Parallel Algorithms for the Minimum Cut and the Minimum Length Tree Layout Problems. title2:Parallel Algorithms for the Minimum Cut and the Minimum Length Tree Layout Problems y citation:0 ncitation:9 pid1090581
+title1:Selfish Unsplittable Flows: Algorithms for Pure Equilibria. title2:Selfish Unsplittable Flows: Algorithms for Pure Equilibria citation:0 ncitation:-1 pid1199478
+title1:Tail Bounds for Occupancy and the Satisfiability Threshold Conjecture. title2:Tail bounds for occupancy and the satisfiability threshold conjecture citation:190 ncitation:190 pid1052105
+title1:Mobile Computing, Mobile Networks. title2:Mobile computing, mobile networks citation:0 ncitation:-1 pid196611
+title1:Approximate Equilibria and Ball Fusion. title2:Approximate equilibria and ball fusion citation:130 ncitation:130 pid1015713
+title1:Fundamental Control Algorithms in Mobile Networks. title2:Fundamental control algorithms in mobile networks citation:109 ncitation:104 pid614324
+title1:Stability and non-stability of the FIFO protocol. title2:Stability and non-stability of the FIFO protocol citation:51 ncitation:50 pid614213
+title1:Tail Bounds for Occupancy Problems. title2:Tail Bounds for Occupancy Problems. citation:0 ncitation:-1 pid1199556
+title1:Efficient Redundant Assignments under Fault-Tolerance Constraints. title2:E cient Redundant Assignments under Fault-Tolerance Constraints? citation:0 ncitation:0 pid557834
+title1:Coordinating Pebble Motion on Graphs, the Diameter of Permutation Groups, and Applications title2:Coordinating pebble motion on graphs, the diameter of permutation groups, and applications citation:77 ncitation:71 pid211229
+title1:Weighted random sampling with a reservoir. title2:Weighted random sampling with a reservoir citation:50 ncitation:43 pid931018
+title1:Scheduling tasks with dependencies on asymmetric multiprocessors. title2:Scheduling Tasks with Dependencies on Asymmetric Multiprocessors: Energy & Time Efficiency citation:0 ncitation:2 pid544719
+title1:Smart dust protocols for local detection and propagation. title2:Smart dust protocols for local detection and propagation citation:68 ncitation:61 pid545869
+title1:Competitive Call Control in Mobile Networks. title2:COMPETITIVE CALL CONTROL IN MOBILE NETWORKS citation:0 ncitation:18 pid415866
+title1:Space Efficient Hash Tables with Worst Case Constant Access Time. title2:Space efficient hash tables with worst case constant access time citation:54 ncitation:49 pid1015465
+title1:An efficient communication strategy for ad-hoc mobile networks. title2:An efficient communication strategy for ad-hoc mobile networks citation:62 ncitation:62 pid543741
+title1:The structure and complexity of Nash equilibria for a selfish routing game. title2:The structure and complexity of Nash equilibria for a selfish routing game citation:218 ncitation:215 pid1281459
+title1:Approximate Equilibria and Ball Fusion. title2:Approximate equilibria and ball fusion citation:130 ncitation:130 pid604688
+title1:An Efficient Communication Strategy for Ad-hoc Mobile Networks. title2:An efficient communication strategy for ad-hoc mobile networks citation:62 ncitation:62 pid653715
+title1:An Optimization Approach for Approximate Nash Equilibria. title2:An optimization approach for approximate Nash equilibria citation:62 ncitation:64 pid662563
+title1:Generating and Radiocoloring Families of Perfect Graphs. title2:Generating and radiocoloring families of perfect graphs citation:0 ncitation:-1 pid654253
+title1:BSP vs LogP. title2:BSP vs LogP citation:90 ncitation:88 pid613967
+title1:Stability Behavior of FIFO Protocol in the Adversarial Queuing Model. title2:STABILITY BEHAVIOR OF FIFO PROTOCOL IN THE ADVERSARIAL QUEUING MODEL citation:0 ncitation:3 pid531079
+title1:Tail Bounds for Occupancy and the Satisfiability Threshold Conjecture title2:Tail bounds for occupancy and the satisfiability threshold conjecture citation:190 ncitation:190 pid211063
+title1:Competitive Call Control in Mobile Networks. title2:COMPETITIVE CALL CONTROL IN MOBILE NETWORKS citation:0 ncitation:18 pid1015882
+title1:Space Efficient Hash Tables with Worst Case Constant Access Time. title2:Space efficient hash tables with worst case constant access time citation:54 ncitation:49 pid620252
+title1:Approximations of Bimatrix Nash Equilibria. title2:Approximations of Bimatrix Nash Equilibria citation:0 ncitation:-1 pid1199294
+title1:The Structure and Complexity of Nash Equilibria for a Selfish Routing Game. title2:The structure and complexity of Nash equilibria for a selfish routing game citation:218 ncitation:215 pid267992
+title1:The price of selfish routing. title2:The price of selfish routing citation:209 ncitation:210 pid622717
+title1:The Price of Selfish Routing. title2:The price of selfish routing citation:209 ncitation:210 pid750836
+title1:The Dynamics of Adaptive Networked Societies of Tiny Artefacts. title2:The Dynamics of Adaptive Networked Societies of Tiny Artefacts citation:0 ncitation:0 pid1311372
+title1:Which Is the Worst-Case Nash Equilibrium? title2:Which is the worst-case Nash equilibrium? citation:59 ncitation:59 pid494128
+title1:NP-Completeness Results and Efficient Approximations for Radiocoloring in Planar Graphs. title2:NP-Completeness results and efficient approximations for radiocoloring in planar graphs citation:57 ncitation:53 pid493584
+title1:Distributed Algorithms, 5th International Workshop, WDAG '91, Delphi, Greece, October 7-9, 1991, Proceedings title2:Distributed Algorithms: 5th International Workshop, WDAG 91, Delphi, Greece, October 7-9, 1991. Proceedings citation:0 ncitation:-1 pid2818835
+title1:Fun with Games. title2:Fun with games citation:0 ncitation:0 pid2824018
+title1:An Optimization Approach for Approximate Nash Equilibria. title2:An optimization approach for approximate Nash equilibria citation:62 ncitation:64 pid2876314
+title1:The Impact of the Web and Political Balance to e-Democracy. title2:The Impact of the Web and Political Balance to e-Democracy citation:0 ncitation:0 pid3057648

@@ -1,0 +1,354 @@
+title:Connectivity in cooperative wireless ad hoc networks. citation:-1
+title:Exploiting the IPID Field to Infer Network Path and End-System Characteristics. citation:-1
+title:On the performance of Internet worm scanning strategies. citation:-1
+title:Modeling TCP in a Multi-rate Multi-user CDMA System. citation:-1
+title:Buffer requirements and replacement policies for multicast repair service. citation:-1
+title:Throughput differentiation using coloring at the network edge and preferential marking at the core. citation:-1
+title:Correction to 'On the Diameter of a Class of Random Graphs'. citation:-1
+title:On routing table growth. citation:-1
+title:The effect of network topology on the spread of epidemics. citation:-1
+title:Queueing Performance with Impatient Customers. citation:-1
+title:Approximation Techniques for Computing Packet Loss in Finite-Buffered Voice Multiplexers. citation:-1
+title:Comparison of inter-area rekeying algorithms for secure wireless group communications. citation:-1
+title:Improving reliable multicast using active parity encoding services. citation:-1
+title:Analysis of the Effects of Delays on Load Sharing. citation:-1
+title:Properties of random direction models. citation:-1
+title:Smoothing variable-bit-rate video in an Internetwork. citation:-1
+title:Estimation of Congestion Price Using Probabilistic Packet Marking. citation:-1
+title:Application-layer multipath data transfer via TCP: Schemes and performance tradeoffs. citation:-1
+title:Queuing Network Models with State-Dependent Routing. citation:-1
+title:A Distributed Algorithm for Joint Sensing and Routing in Wireless Networks with Non-Steerable Directional Antennas. citation:-1
+title:Locating network monitors: complexity, heuristics, and coverage. citation:-1
+title:Fluid models and solutions for large-scale IP networks. citation:-1
+title:Bounds on the throughput gain of network coding in unicast and multicast wireless networks. citation:-1
+title:On-Line Scheduling Policies for a Class of IRIS (Increasing Reward with Increasing Service) Real-Time Tasks. citation:-1
+title:Optimal Static Load Balancing in Distributed Computer Systems citation:-1
+title:Approximation Techniques for Computing Packet Loss in Finite-Buffered Voice Multiplexers. citation:-1
+title:DirectStream: A directory-based peer-to-peer video streaming service. citation:-1
+title:The effectiveness of affinity-based scheduling in multiprocessor network protocol processing (extended version). citation:-1
+title:Detecting Anomalies in Network Traffic Using Maximum Entropy Estimation. citation:-1
+title:Worm propagation modeling and analysis under dynamic quarantine defense. citation:-1
+title:Performance Analysis of Distributed File Systems with Non-Volatile Caches. citation:-1
+title:Detecting shared congestion of flows via end-to-end measurement. citation:-1
+title:Efficient Admission Control for EDF Schedulers. citation:-1
+title:The impact of multicast layering on netowrk fairness. citation:-1
+title:Channel Allocation under Batching and VCR Control in Video-on-Demand Systems. citation:-1
+title:Guest Editorial: Geometry and Random Graphs for the Analysis and Design of Wireless Networks. citation:-1
+title:Defining the next generation of challenges in networking research. citation:-1
+title:Relays, base stations, and meshes: enhancing mobile networks with infrastructure. citation:-1
+title:Optimistic Parallel Simulation of Reliable Multicast Protocols. citation:-1
+title:Asymptotic Connectivity Properties of Cooperative Wireless Ad Hoc Networks. citation:-1
+title:Future directions in performance evaluation research. citation:-1
+title:Two-Class Finite Memory Analytic Models for Non-Pages Computer Systems. citation:-1
+title:Tree Layout for Internal Network Characterizations in Multicast Networks. citation:-1
+title:Facilitating Access Point Selection in IEEE 802.11 Wireless Networks. citation:-1
+title:Dynamic cache reconfiguration strategies for cluster-based streaming proxy. citation:-1
+title:Modeling Malware Spreading Dynamics. citation:-1
+title:A Comparison of Priority-Based Decentralized Load Balancing Policies. citation:-1
+title:Adaptive Defense Against Various Network Attacks. citation:-1
+title:Load Balancing of Complex Stochastic Tasks Using Stochastic Majorization. citation:-1
+title:Modeling and Simulation Study of the Propagation and Defense of Internet E-mail Worms. citation:-1
+title:Optimizing cost-sensitive trust-negotiation protocols. citation:-1
+title:A self-tuning structure for adaptation in TCP/AQM networks. citation:-1
+title:Statistical Analysis of Generalized Processor Sharing Scheduling Discipline. citation:-1
+title:Priority Assignment in Real-Time Active Databases citation:-1
+title:An Information-theoretic Approach to Network Monitoring and Measurement. citation:-1
+title:Fixed point approximations for TCP behavior in an AQM network. citation:-1
+title:Extremal Scheduling of Parallel Processing with and without Real-Time Constraints. citation:-1
+title:Online scheduling in modular multimedia systems with stream reuse. citation:-1
+title:Modeling Peer-Peer File Sharing Systems. citation:-1
+title:Parity-based loss recovery for reliable multicast transmission. citation:-1
+title:Network tomography on general topologies. citation:-1
+title:An Asymptotic Analysis of a Threshold Load Balancing Policy. citation:-1
+title:Capacity of a wireless ad hoc network with infrastructure. citation:-1
+title:Advanced Routing Worm and Its Security Challenges. citation:-1
+title:Catching and selective catching: efficient latency reduction techniques for delivering continuous multimedia streams. citation:-1
+title:Network tomography using end-to-end multicast measurements (invited talk). citation:-1
+title:Closed-Form Deterministic End-to-End Performance Bounds for the Generalized Processor Sharing Scheduling Discipline. citation:-1
+title:A performance model for ATM switches with general packet length distributions. citation:-1
+title:Decomposition properties in fluid queues. citation:-1
+title:On Distinguishing between Internet Power Law Topology Generators. citation:-1
+title:Acyclic fork-join queuing networks. citation:-1
+title:On Per-Session End-to-End Delay Distributions and the Call Admission Problem for Real-Time Applications with QOS Requirements. citation:-1
+title:On the throughput of degenerate intersection and first-come first-served collision resolution algorithms. citation:-1
+title:A resource-minimalist flow size histogram estimator. citation:-1
+title:Activating and Deactivating Repair Servers in Active Multicast Trees. citation:-1
+title:Collaboration Improves the Connectivity of Wireless Networks. citation:-1
+title:Performance evaluation of connection rerouting schemes for ATM-based wireless networks. citation:-1
+title:Modeling frame-level errors in GSM wireless channels. citation:-1
+title:Scalability of fork/join queueing networks with blocking. citation:-1
+title:Providing Throughput Differentiation for TCP Flows Using Adaptive TwoColor Marking and Multi-Level AQM. citation:-1
+title:On optimal routing with multiple traffic matrices. citation:-1
+title:Network Delay Tomography from End-to-End Unicast Measurements. citation:-1
+title:Inferring Network Characteristics via Moment-Based Estimators. citation:-1
+title:Multimedia streaming via TCP: An analytic performance study. citation:-1
+title:Equivalence, Reversibility, Symmetry and Concavity Properties in Fork-Join Queueing Networks with Blocking. citation:-1
+title:Performance benefits of non-volatile caches in distributed file systems. citation:-1
+title:Scheduling transactions with temporal constraints: exploiting data semantics. citation:-1
+title:Stochastic bounds for queueing systems with multiple Markov modulated sources. citation:-1
+title:Multicast-Based Inference of Network-Internal Characteristics: Accuracy of Packet Loss Estimation. citation:-1
+title:AMPS: a flexible, scalable proxy testbed for implementing streaming services. citation:-1
+title:Scalable Fair Multicast Using Active Services. citation:-1
+title:A study of proactive hybrid FEC/ARQ and scalable feedback techniques for reliable, real-time multicast. citation:-1
+title:Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED. citation:-1
+title:SANDS: Specialized Active Networking for Distributed Simulation. citation:-1
+title:Cluster-Based Back-Pressure Routing Algorithm. citation:-1
+title:Optimal Routing and Flow Control in Networks with Real-Time Traffic. citation:-1
+title:P2Cast: peer-to-peer patching for video on demand service. citation:-1
+title:A Comparison of Sender-Initiated and Receiver-Initiated Reliable Multicast Protocols. citation:-1
+title:An efficient technique to analyze the impact of bursty TCP traffic in wide-area networks. citation:-1
+title:Trading Precision for Stability in Congestion Control with Probabilistic Packet Marking. citation:-1
+title:Packet Audio Playout Delay Adjustment: Performance Bounds and Algorithms. citation:-1
+title:Optimal Routing with Multiple Traffic Matrices Tradeoff between Average andWorst Case Performance. citation:-1
+title:Path Selection and Multipath Congestion Control. citation:-1
+title:Smoothing, Statistical Multiplexing, and Call Admission Control for Stored Video. citation:-1
+title:Periodic broadcast and patching services: implementation, measurement, and analysis in an Internet streaming video testbed. citation:-1
+title:Statistical Analysis of Generalized Processor Sharing Scheduling Discipline. citation:-1
+title:Mobility improves coverage of sensor networks. citation:-1
+title:Performance Modeling of Epidemic Routing. citation:-1
+title:Measurement and classification of out-of-sequence packets in a tier-1 IP backbone. citation:-1
+title:Inferring Link Loss Using Striped Unicast Probes. citation:-1
+title:Performance Analysis of Parallel Processing Systems. citation:-1
+title:On characterizing BGP routing table growth. citation:-1
+title:Model-based identification of dominant congested links. citation:-1
+title:Efficient rate-controlled bulk data transfer using multiple multicast groups. citation:-1
+title:Code red worm propagation modeling and analysis. citation:-1
+title:A Queueing Network Model for a Distributed Database Testbed System. citation:-1
+title:A TCP-Friendly Rate Adjustment Protocol for Continuous Media Flows over Best Effort Networks. citation:-1
+title:Monitoring and early warning for internet worms. citation:-1
+title:An adaptive algorithm for measurement-based admission control in integrated services packet networks. citation:-1
+title:Measurement and Classification of Out-of-Sequence Packets in a Tier-1 IP Backbone. citation:-1
+title:Availability in BitTorrent Systems. citation:-1
+title:Inferring TCP Connection Characteristics Through Passive Measurements. citation:-1
+title:On the autocorrelation structure of TCP traffic. citation:-1
+title:Performance Evaluation of Two New Disk Scheduling algorithms for Real-Time Systems. citation:-1
+title:Fisher information of sampled packets: an application to flow size estimation. citation:-1
+title:Exploring the Performance Benefits of End-to-End Path Switching. citation:-1
+title:Providing VCR Capabilities in Large-Scale Video Servers. citation:-1
+title:Performance Analysis of Parallel Processing Systems. citation:-1
+title:Static Assignment of Stochastic Tasks Using Majorization. citation:-1
+title:Performance modeling of epidemic routing. citation:-1
+title:On optimal communication cost for gathering correlated data through wireless sensor networks. citation:-1
+title:Performance Evaluation of ATM Shortcut Connections in Overlaid IP/ATM Networks. citation:-1
+title:A Queueing Network Model for a Distributed Database Testbed System. citation:-1
+title:Improving VoIP quality through path switching. citation:-1
+title:A Comparison of Server-Based and Receiver-Based Local Recovery Approaches for Scalable Reliable Multicast. citation:-1
+title:Call Admission and Resource Reservation for Multicast Sessions. citation:-1
+title:Cache Behavior of Network Protocols. citation:-1
+title:The Effect of Communication Delays on the Performance of Load Balancing Policies in Distributed Systems. citation:-1
+title:The Design and Evaluation of RAID 5 and Parity Striping Disk Array Architectures. citation:-1
+title:On Unstructured File Sharing Networks. citation:-1
+title:Supporting stored video reducing rate variability and end-to-end resource requirements through optimal smoothing. citation:-1
+title:An Improved Lower Bound to the Number of Neighbors Required for the Asymptotic Connectivity of Ad Hoc Networks citation:-1
+title:Comparison of Hybrid Minimum Laxity/First-In-First-Out Scheduling Policies for Real-Time Multiprocessors. citation:-1
+title:Design and Analysis of a Leader Election Algorithm for Mobile Ad Hoc Networks. citation:-1
+title:Multimedia streaming via TCP: an analytic performance study. citation:-1
+title:Adaptive Playout Mechanisms for Packetized Audio Applications in Wide-Area Networks. citation:-1
+title:TCP Connection Game: A Study on the Selfish Behavior of TCP Users. citation:-1
+title:The Impact of Multicast Layering on Network Fairness. citation:-1
+title:Routing Worm: A Fast, Selective Attack Worm Based on IP Address Information. citation:-1
+title:Performance od a Mirrored Disk in a Real-Time Transaction System. citation:-1
+title:Passive online rogue access point detection using sequential hypothesis testing with TCP ACK-pairs. citation:-1
+title:The Customer Response Times in the Processor Sharing Queue are Associated. citation:-1
+title:Multicast Session Membership Size Estimation. citation:-1
+title:Multicast topology inference from measured end-to-end loss. citation:-1
+title:Optimal proxy cache allocation for efficient streaming media distribution. citation:-1
+title:Part II: control theory for buffer sizing. citation:-1
+title:The Performance Impact of Scheduling for Cache Affinity in Parallel Network Processing. citation:-1
+title:User Agent Migration Policies in Multimedia Wireless Networks. citation:-1
+title:On Optimal Call Admission Control in Cellular Networks. citation:-1
+title:Adaptive FEC-Based Error Control for Internet Telephony. citation:-1
+title:Statistical inference of internal network loss and topology. citation:-1
+title:A comparison of hard-state and soft-state signaling protocols. citation:-1
+title:Introduction to the special issue on networking and information theory. citation:-1
+title:Burst reduction properties of rate-control throttles downstream queue behavior. citation:-1
+title:Self-similarity and long range dependence on the internet: a second look at the evidence, origins and implications . citation:-1
+title:Modeling, simulation and measurements of queuing delay under long-tail internet traffic. citation:-1
+title:A Performance Analysis of Minimum Laxity and Earliest Deadline Scheduling in a Real-Time System. citation:-1
+title:On Dynamic Subset Difference Revocation Scheme. citation:-1
+title:Exponential bounds with applications to call admission. citation:-1
+title:On-call processing delay in high speed networks. citation:-1
+title:A novel loss indication filtering approach for multicast congestion control. citation:-1
+title:Leader Election Algorithms for Wireless Ad Hoc Networks. citation:-1
+title:Priority Assignment in Real-Time Active Databases. citation:-1
+title:On the interaction between overlay routing and underlay routing. citation:-1
+title:Dynamic Reallocation in a Highly Integrated Real-Time Distributed System. citation:-1
+title:Optimizing Event Distribution in Publish/Subscribe Systems in the Presence of Policy-Constraints and Composite Events. citation:-1
+title:Editorial. citation:-1
+title:A fixed point approximation of TCP behavior in a network. citation:-1
+title:Source Time Scale and Optimal Buffer/Bandwidth Trade-Off for Regulated Traffic in an ATM Node. citation:-1
+title:Congestion Control for Small Buffer High Speed Networks. citation:-1
+title:Network Tomography through End-to-End Measurements. citation:-1
+title:Periodic broadcast and patching services: implementation, measurement, and analysis in an internet streaming video testbed. citation:-1
+title:Bounds, Approximations and Applications for A Two-Queue GPS System. citation:-1
+title:Optimization-Based Congestion Control for Multicast Communications. citation:-1
+title:Parity-Based Loss Recovery for Reliable Multicast Transmission. citation:-1
+title:Scheduling Customers in a Non-Removal Real-time System with an Application to Disk Scheduling. citation:-1
+title:Mobility Models for Wireless Networks: Challenges, Pitfalls, and Successes. citation:-1
+title:Smooth workload adaptive broadcast. citation:-1
+title:On the Capacity of Hybrid Wireless Networks. citation:-1
+title:Traffic models and admission control for variable bit rate continuous media transmission with deterministic service. citation:-1
+title:The monitoring and early detection of internet worms. citation:-1
+title:The Loss Path Multiplicity Problem in Multicast Congestion Control. citation:-1
+title:Stability and Efficiency of Unstructured File Sharing Networks. citation:-1
+title:Efficient Rate-Controlled Bulk Data Transfer Using Multiple Multicast Groups. citation:-1
+title:Bounds on Finite Horizon QoS Metrics with Application to Call Admission. citation:-1
+title:Modeling TCP Throughput: A Simple Model and Its Empirical Validation. citation:-1
+title:Comparing the Structure of Power-Law Graphs and the Internet AS Graph. citation:-1
+title:Estimating and Sampling Graphs with Multidimensional Random Walks citation:-1
+title:On TCP and self-similar traffic. citation:-1
+title:Locating network monitors: Complexity, heuristics, and coverage. citation:-1
+title:On optimal call admission control in cellular networks. citation:-1
+title:Threshold-based multicast for continuous media delivery. citation:-1
+title:A Study of Networks Simulation Efficiency: Fluid Simulation vs. Packet-level Simulation. citation:-1
+title:Congestion Avoidance in High-Speed Interconnection Systems. citation:-1
+title:An Approximate Analysis of the LRU and FIFO Buffer Replacement Schemes. citation:-1
+title:Multipath live streaming via TCP: Scheme, performance and benefits. citation:-1
+title:Bounding the Mean Response Time of the Minimum Expected Delay Routing Policy: An Algorithmic Approach. citation:-1
+title:A Comparison of Sender-Initiated and Receiver-Initiated Reliable Multicast Protocols. citation:-1
+title:The Internet Control Architecture: Successes and Challenges. citation:-1
+title:Efficient On-Line Processor Scheduling for a Class of IRIS (Increasing Reward with Increasing Service.) Real-Time Tasks. citation:-1
+title:Classification of access network types: Ethernet wireless LAN, ADSL, cable modem or dialup? citation:-1
+title:TCP-aware resource allocation in CDMA networks. citation:-1
+title:Generic Multicast Transport Services: Router Support for Multicast Applications. citation:-1
+title:Models for Parallel Processing Within Programs: Application to CPU: I/O and I/O: I/O Overlap. citation:-1
+title:Supplying Instantaneous Video-on-Demand Services Using Controlled Multicast. citation:-1
+title:Efficient schemes for broadcasting popular videos. citation:-1
+title:Classification of access network types: Ethernet, wireless LAN, ADSL, cable modem or dialup? citation:-1
+title:Multipath live streaming via TCP: scheme, performance and benefits. citation:-1
+title:Periodic broadcast and patching services: implementation, measurement, and analysis in an internet streaming video testbed. citation:-1
+title:Detecting shared congestion of flows via end-to-end measurement. citation:-1
+title:Periodic broadcast and patching services - implementation, measurement and analysis in an internet streaming video testbed. citation:-1
+title:Properties of the Miss Ratio for a 2-Level Storage Model with LRU or FIFO Replacement Strategy and Independent References. citation:-1
+title:MDP Routing in ATM Networks Using the Virtual Path Concept. citation:-1
+title:Sample path methods in the control of queues. citation:-1
+title:A comparison of hard-state and soft-state signaling protocols. citation:-1
+title:Supporting Stored Video: Reducing Rate Variability and End-to-End Resource Requirements through Optimal Smoothing. citation:-1
+title:Scheduling for Cache Affinity in Parallelized Communication Protocols. citation:-1
+title:On achievable service differentiation with token bucket marking for TCP. citation:-1
+title:Improving Reliable Multicast Using Active Parity Encoding Services (APES). citation:-1
+title:Unresponsive Flows and AQM Performance. citation:-1
+title:On neighbor discovery in wireless networks with directional antennas. citation:-1
+title:The Effect of Processing Delay and QoS Requirements in High Speed Networks. citation:-1
+title:An adaptive FEC algorithm using hidden Markov chains. citation:-1
+title:Network tomography from aggregate loss reports. citation:-1
+title:On Designing Improved Controllers for AQM Routers Supporting TCP Flows. citation:-1
+title:A Control Theoretic Analysis of RED. citation:-1
+title:Distributed Operator Placement and Data Caching in Large-Scale Sensor Networks. citation:-1
+title:On optimal polling policies. citation:-1
+title:An Evaluation of Scheduling Mechanisms for Providing Best-Effort Real-Time Communication in Wide-Area Networks. citation:-1
+title:Time-Stepped Hybrid Simulation (TSHS) for Large Scale Networks. citation:-1
+title:Priority Inheritance in Soft Real-Time Databases. citation:-1
+title:Maximizing the data utility of a data archiving &amp; querying system through joint coding and scheduling. citation:-1
+title:Bounds on the Gain of Network Coding and Broadcasting in Wireless Networks. citation:-1
+title:TCP-Aware Channel Allocation in CDMA Networks. citation:-1
+title:Resisting structural re-identification in anonymized social networks. citation:-1
+title:Channelization Problem in Large Scale Data Dissemination. citation:-1
+title:Performance Issues in Parallelized Network Protocols. citation:-1
+title:Continuous-time hidden Markov models for network performance evaluation. citation:-1
+title:Congestion Control for Real-Time Traffic in High-Speed Networks. citation:-1
+title:P2Cast: peer-to-peer patching scheme for VoD service. citation:-1
+title:Adaptive Load Sharing in Heterogeneous Distributed Systems. citation:-1
+title:A Prototype System for Transnational Information Sharing and Process Coordination. citation:-1
+title:Study of a bus-based disruption-tolerant network: mobility modeling and impact on routing. citation:-1
+title:The internet is flat: a brief history of networking in the next ten years. citation:-1
+title:Scalable Reliable Multicast Using Multiple Multicast Groups. citation:-1
+title:Efficient admission control of piecewise linear traffic envelopes at EDF schedulers. citation:-1
+title:A Prototype System for Transnational Information Sharing and Process Coordination: System Demo. citation:-1
+title:Multicast-based inference of network-internal delay distributions. citation:-1
+title:Measurement and Modeling of the Temporal Dependence in Packet Loss. citation:-1
+title:Scheduling Transactions with Temporal Constraints: Exploiting Data Semantics. citation:-1
+title:Scheduling Policies for Real-Time and Non-Real-Time Traffic in a Statistical Multiplexer. citation:-1
+title:Incentives to Promote Availability in Peer-to-Peer Anonymity Systems. citation:-1
+title:Passive Online Detection of 802.11 Traffic Using Sequential Hypothesis Testing with TCP ACK-Pairs. citation:-1
+title:Proxy Prefix Caching for Multimedia Streams. citation:-1
+title:Analysis of Fork-Join Program Response Times on Multiprocessors. citation:-1
+title:Optimal Multicast Smoothing of Streaming Video over an Internetwork. citation:-1
+title:Local Allocation of End-to-End Quality-of-Service in High-Speed Networks. citation:-1
+title:Distributed Resource Management and Admission Control of Stream Processing Systems with Max Utility. citation:-1
+title:Scalable End-to-End Multicast Tree Fault Isolation. citation:-1
+title:On Integrating Fluid Models with Packet Simulation. citation:-1
+title:Comments on "modeling TCP reno performance: a simple model and its empirical validation". citation:-1
+title:Decentralized Computation of Weighted Max-Min Fair Bandwidth Allocation in Networks with Multicast Flows. citation:-1
+title:Modeling the internet is fun!: but can you make a living? citation:-1
+title:A Modified Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution. citation:-1
+title:Integrating Temporal, Real-Time, and Active Databases. citation:-1
+title:Proxy-assisted techniques for delivering continuous multimedia streams. citation:-1
+title:Explicit Loss Inference in Multicast Tomography. citation:-1
+title:Summary of Database Research Activities at The University of Massachusetts, Amherst. citation:-1
+title:Correction to ``A Modified Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution''. citation:-1
+title:Networking Support for Large Scale Multiprocessor Servers. citation:-1
+title:Computing Performance Bounds of Fork-Join Parallel Programs Under a Multiprocessing Environment. citation:-1
+title:Source time scale and optimal buffer/bandwidth tradeoff for heterogeneous regulated traffic in a network node. citation:-1
+title:Exploring the performance benefits of end-to-end path switching. citation:-1
+title:On the study of network coding with diversity. citation:-1
+title:Measurement and classification of out-of-sequence packets in a tier-1 IP backbone. citation:-1
+title:Estimation and Removal of Clock Skew from Network Delay Measurements. citation:-1
+title:Optimal Allocation of Multiple Class Resources in Computer Systems. citation:-1
+title:On the Efficient Retrieval of VBR Video in a Multimedia Server. citation:-1
+title:TCP Performance in Coded Wireless Mesh Networks. citation:-1
+title:A Performance Evaluation of RAID Architectures. citation:-1
+title:On the efficiency of fluid simulation of networks. citation:-1
+title:Window Random Access Protocols for Local Computer Networks. citation:-1
+title:Reliability Gain of Network Coding in Lossy Wireless Networks. citation:-1
+title:Approximate Models of Multiple Bus Multiprocessor Systems. citation:-1
+title:Push-to-Peer Video-on-Demand System: Design and Evaluation. citation:-1
+title:Introduction to the special issue on networking and information theory. citation:-1
+title:Playback Restart in Interactive Streaming Video Applications. citation:-1
+title:MDP routing for multi-rate loss networks. citation:-1
+title:The Effectiveness of Affinity-Based Scheduling in Multiprocessor Networking. citation:-1
+title:Multimedia streaming via TCP: an analytic performance study. citation:-1
+title:Imbedding Gradient Estimators in Load Balancing Algorithms. citation:-1
+title:A new algorithm for measurement-based admission control in integrated services packet networks. citation:-1
+title:Data Placement, Logging and Recovery in Real-Time Active Databases. citation:-1
+title:Multi-path TCP: a joint congestion control and routing scheme to exploit path diversity in the internet. citation:-1
+title:Optimal scheduling policies for a class of queues with customer deadlines to the beginning of service. citation:-1
+title:Optimal Proxy Cache Allocation for Efficient Streaming Media Distribution. citation:-1
+title:Network loss tomography using striped unicast probes. citation:-1
+title:A Priority Based Probe Algorithm for Distributed Deadlock Detection and Resolution. citation:-1
+title:Abstracts from the IEEE transactions on information theory, special issue, June 2006. citation:-1
+title:Call admission control schemes under generalized processor sharing scheduling. citation:-1
+title:Email Worms Modeling and Defense. citation:-1
+title:On Using Priority Inheritance In Real-Time Databases. citation:-1
+title:Planned Object Duplication Strategies in Dynamic PRR Meshes. citation:-1
+title:Providing Quality of Service Packet Switched Networks. citation:-1
+title:A Network Formation Game Approach to Study BitTorrent Tit-for-Tat. citation:-1
+title:Matchmaker: Signaling for Dynamic Publish/Subscribe Applications. citation:-1
+title:Discrete-Time Models and Analysis Methods. citation:-1
+title:Experimental Evaluation of Real-Time Transaction Processing. citation:-1
+title:Neighbor Discovery with Reception Status Feedback to Transmitters. citation:-1
+title:Secure Wireless Communication with Dynamic Secrets. citation:-1
+title:Approximate Models for General Cache Networks. citation:-1
+title:Distributed Resource Allocation for Synchronous Fork and Join Processing Networks. citation:-1
+title:Reciprocity and Barter in Peer-to-Peer Systems. citation:-1
+title:Target tracking with packet delays and losses - QoI amid latencies and missing data. citation:-1
+title:Shipping to streaming: is this shift green? citation:-1
+title:A unified modeling framework for distributed resource allocation of general fork and join processing networks. citation:-1
+title:Can multipath mitigate power law delays?: effects of parallelism on tail performance. citation:-1
+title:Group detection in mobility traces. citation:-1
+title:Content availability and bundling in swarming systems. citation:-1
+title:Estimating Self-Sustainability in Peer-to-Peer Swarming Systems citation:-1
+title:Mission critical networking [Guest editorial]. citation:-1
+title:Estimating self-sustainability in peer-to-peer swarming systems. citation:-1
+title:A Relay Assisted Cooperative Transmission Protocol for Wireless Multiple Access Systems. citation:-1
+title:Estimating and sampling graphs with multidimensional random walks. citation:-1
+title:Improving Random Walk Estimation Accuracy with Uniform Restarts. citation:-1
+title:Path selection and multipath congestion control. citation:-1
+title:Dynamic Coverage of Mobile Sensor Networks citation:-1
+title:Measurement and gender-specific analysis of user publishing characteristics on MySpace. citation:-1
+title:Modeling chunk availability in P2P swarming systems. citation:-1
+title:Modeling content availability in peer-to-peer swarming systems. citation:-1
+title:Resisting structural re-identification in anonymized social networks. citation:-1
+title:Cooperative Transmission Protocols for Wireless Broadcast Channels. citation:-1
+title:Transnational Information Sharing, Event Notification, Rule Enforcement and Process Coordination. citation:-1
+title:Characterizing continuous-time random walks on dynamic networks. citation:-1
+title:Cooperative jamming to improve the connectivity of the 1-D secrecy graph. citation:-1
+title:Analysis of traffic correlation attacks on router queues. citation:-1
+title:Broadcast Analysis for Large Cooperative Wireless Networks citation:-1
+title:On the Application of Cooperative Transmission to Wireless Broadcast Channels. citation:-1
+title:Clustering in cooperative networks. citation:-1
+title:Robust multipath routing in large wireless networks. citation:-1
+title:A new virtual indexing method for measuring host connection degrees. citation:-1
+title:Fourth International Conference on Communication Systems and Networks, COMSNETS 2012, Bangalore, India, January 3-7, 2012 citation:-1
+title:Can multipath mitigate power law delays? - Effects of parallelism on tail performance. citation:-1
+title:Prefix caching assisted periodic broadcast for streaming popular videos. citation:-1

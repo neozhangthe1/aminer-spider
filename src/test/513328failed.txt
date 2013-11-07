@@ -1,0 +1,387 @@
+title:WWW - Kommunikation, Internetworking, Web-Technologien citation:-1
+title:Algorithms and Data Structures in VLSI Design: OBDD - Foundations and Applications citation:-1
+title:Algorithmen und Datenstrukturen im VLSI-Design: OBDD - Grundlagen und Anwendungen citation:-1
+title:Mathematische Grundlagen der Informatik - Mathematisches Denken und Beweisen, Eine Einführung citation:-1
+title:Mathematische Grundlagen der Informatik - Mathematisches Denken und Beweisen, Eine Einführung, 2. Auflage citation:-1
+title:SIMPA: A SIP-Based Mobile Payment Architecture. citation:-1
+title:Data Structures for Boolean Functions. citation:-1
+title:What Do Hyperlink-Proposals and Request-Prediction Have in Common? citation:-1
+title:A XML format secure protocol - OpenSST. citation:-1
+title:Tele-Lab IT Security: A Means to Build Security Laboratories on the Web. citation:-1
+title:A Secure Web Services Providing Framework Based on Lock-Keeper. citation:-1
+title:Building Content Clusters Based on Modelling Page Pairs. citation:-1
+title:A new partitioning scheme for improvement of image computation. citation:-1
+title:Application Driven Variable Reordering and an Example Implementation in Reachability Analysis. citation:-1
+title:Function Decomposition and Synthesis Using Linear Sifting. citation:-1
+title:Embedding Memoization to the Semantic Tree Search for Deciding QBFs. citation:-1
+title:LZW-JPEG Kompression radiologischer Bilder. citation:-1
+title:Flächen- und Volumenmessung lokaler Objekte in DICOM-Bildern und -Bildfolgen. citation:-1
+title:User Centricity in Healthcare Infrastructures. citation:-1
+title:Towards the Aggregation of Security Requirements in Cross-Organisational Service Compositions. citation:-1
+title:Hybrid Framework for Medical Image Segmentation. citation:-1
+title:An e-Librarian Service that Understands Natural Language Questions from Students. citation:-1
+title:Global rebuilding of OBDDs Avoiding Memory Requirement Maxima. citation:-1
+title:DICOM - Image Compression. citation:-1
+title:PACS for Teleradiology. citation:-1
+title:Internet-Orientated Medical Information System for Dicom-Data Transfer, Visualization and Revision. citation:-1
+title:A Multimedia-Editor for Making Findings in Radiology. citation:-1
+title:A Simple, Smart and Extensible Framework for Network Security Measurement. citation:-1
+title:Seperating Complexity Classes Related to Certain Input Oblivious Logarithmic Space-Bounded Turing Machines. citation:-1
+title:Omega-Branching Programs of Bounded Width. citation:-1
+title:Web-based frameworks to enable CAD RD (abstract). citation:-1
+title:Algorithms and Heuristics in VLSI Design. citation:-1
+title:WWW.BDD-Portal.ORG: An Experimentation Platform for Binary Decision Diagram Algorithms. citation:-1
+title:Upper and Lower Bounds for Certain Graph Accessibility Problems on Bounded Alternating omega-Branching Programs. citation:-1
+title:Increasing Efficiency of Symbolic Model Checking by Accelerating Dynamic Variable Reordering. citation:-1
+title:Teaching in the Cyber-Age: Technologies, Experiments, and Realizations. citation:-1
+title:Automatische Erzeugung Semantischer Annotationen für Vorlesungsvideos. citation:-1
+title:Webbasierte Suche in Vorlesungsvideos auf Basis der Transkripte eines Spracherkenners. citation:-1
+title:Bessere Schulnoten mit MatES, dem e-Bibliothekardienst für den Mathematikunterricht. citation:-1
+title:Towards Secure Mobile Payment Based on SIP. citation:-1
+title:Functional Integration Test of Mass Processes with Electronic Signatures in Public Administration. citation:-1
+title:New Media for Teaching Applied Cryptography and Network Security. citation:-1
+title:Advanced Studies on Link Proposals and Knowledge Retrieval of Hypertexts with CBR. citation:-1
+title:Implementation of an Enterprise-Level Groupware System Based on J2EE Platform and WebDAV Protocol. citation:-1
+title:Adaptive compression of DICOM-image data. citation:-1
+title:tele-TASK - Teleteaching praxistauglich für den Universitätsalltag. citation:-1
+title:A Virtual Laboratory for IT Security Education. citation:-1
+title:The STACS Electronic Submission Service. citation:-1
+title:The Electronic Colloquium on Computational Complexity (ECCC): A Digital Library in Use. citation:-1
+title:Semantic Composition of Lecture Subparts for a Personalized e-Learning. citation:-1
+title:Boolean Manipulation with Free BDD's. First Experimental Results. citation:-1
+title:Separating Completely Complexity Classes Related to Polynomial Size Omega-Decision Trees. citation:-1
+title:About the by Codings of Environments Induced Posets [a, <=] and [L, <=]. citation:-1
+title:The Power of Nondeterminism in Polynominal-size Bounded-width Branching Programs. citation:-1
+title:Speeding Up Image Computation by Using RTL Information. citation:-1
+title:Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines. citation:-1
+title:Die Entwicklung der Informatik braucht Theorie und Praxis. Ein Fallbeispiel aus dem CAD-Schaltkreisentwurf. citation:-1
+title:33. Workshop "Komplexitätstheorie, Datenstrukturen und Effiziente Algorithmen". citation:-1
+title:Geordnete binäre Entscheidungsgraphen und ihre Bedeutung im rechnergestützten Entwurf hochintegrierter Schaltkreise. citation:-1
+title:Speeding up symbolic model checking by accelerating dynamic variable reordering. citation:-1
+title:A Policy Language for Integrating Heterogeneous Authorization Policies. citation:-1
+title:A Proposal for Trust Model: Independent Trust Intermediary Service (ITIS). citation:-1
+title:A simple solution for an intelligent librarian system. citation:-1
+title:A simple application of description logics for a semantic search engine. citation:-1
+title:Student's Perception of a Semantic Search Engine. citation:-1
+title:The Internal Workflow of the Smart-Data-Server. citation:-1
+title:Enhance Opensst Protocol's Security with Smart Card. citation:-1
+title:Smart Cards - the Personal Safe in an E-Commerce World. citation:-1
+title:Techniques for Securing Networks Against Criminal Attacks. citation:-1
+title:Advanced Techniques for Analyzing Web Server Logs. citation:-1
+title:A Hyperlink Focused Browse Assistant for the World Wide Web. citation:-1
+title:Role-based Web Authoring and Web-Site Management for Commercial Sites. citation:-1
+title:Advanced Reliability for Internet Transactions by Signed Bills. citation:-1
+title:Proprietary versus Interoperable User Certificates in E-Commerce via Internet. citation:-1
+title:Improving the Quality of Information-Flow with the Smart Data Server. citation:-1
+title:Web Site Design Using a Web-Based Authoring and Publishing System. citation:-1
+title:Hierarchical Image Computation with Dynamic Conjunction Scheduling. citation:-1
+title:A CORBA-Based Dynamic Reconfigurable Middleware. citation:-1
+title:The flood-gate principle - a hybrid approach to a high security solution. citation:-1
+title:Behaviour Recovery and Complicated Pattern Definition in Web Usage Mining. citation:-1
+title:Automatic Interpretation of Natural Language for a Multimedia E-learning Tool. citation:-1
+title:Question Answering from Lecture Videos Based on Automatically-Generated Learning Objects. citation:-1
+title:Resolving Ambiguities in the Semantic Interpretation of Natural Language Questions. citation:-1
+title:Segmentation and Annotation of Audiovisual Recordings Based on Automated Speech Recognition. citation:-1
+title:Boolean Manipulation with Free BDDs: An Application in Combinational Logic Verification. citation:-1
+title:Separating Complexity Classes Related to Restricted Logarithmic Space-Bounded Turing Machines. citation:-1
+title:A Tutoring System for IT Security. citation:-1
+title:Database based History Browse Assistant. citation:-1
+title:The Smart Data Server: A New Kind of Middle-Tier. citation:-1
+title:Application for Repairing and Presenting DICOM Objects. citation:-1
+title:Separating Complexity Classes Related to Bounded Alternating omega-Branching Programs. citation:-1
+title:Virtual Machine Management for Tele-Lab "IT-Security" Server. citation:-1
+title:Routing based workflow for construction of distributed applications. citation:-1
+title:A Framework for Supporting Distributed Access Control Policies. citation:-1
+title:Interface for Navigation and Database - Querying via WWW. citation:-1
+title:Segmentation of Lecture Videos Based on Spontaneous Speech Recognition. citation:-1
+title:Mod-p Decision Diagrams: A Data Structure for Multiple-Valued Functions. citation:-1
+title:Implementing IDS Management on Lock-Keeper. citation:-1
+title:Dynamic Browsing of Audiovisual Lecture Recordings Based on Automated Speech Recognition. citation:-1
+title:Electronic publishing, science portals and virtual universities - the scientific community is well-established in the World Wide Web. citation:-1
+title:VisBDD - A Web-based Visualization Framework for OBDD Algorithms. citation:-1
+title:A Hyperlink-Proposal Mechanism to Exemplify Cognitive Algorithms for Web-Applications. citation:-1
+title:Lower Bounds for the Modular Communication Complexity of Various Graph Accessibility Problems. citation:-1
+title:Lower Bounds for the Majority Communication Complexity of Various Graph Accessibility Problems. citation:-1
+title:Upper and Lower Bounds for Certain Graph-Accessibility Problems on Bounded Alternating Omega-Branching Programs. citation:-1
+title:p-Projection Reducibility and the Complexity Classes L(nonuniform) and NL(nonuniform). citation:-1
+title:Switching Graphs and Their Complexity. citation:-1
+title:Restricted Branching Programs and Their Computational Power. citation:-1
+title:On the Influence of the State Encoding on OBDD-Representations of Finite State Machines. citation:-1
+title:Applications of description logics to improve multimedia information retrieval for efficient educational tools. citation:-1
+title:Vorwort: Alltagstauglichkeit von Anwendungssystemen und Infrastrukturen. citation:-1
+title:Towards to an automatic semantic annotation for multimedia learning objects. citation:-1
+title:Modelling Security Goals in Business Processes. citation:-1
+title:A Flexible Middleware Platform with Piped Workflow. citation:-1
+title:RELACS - A Recursive Layout Computing System. citation:-1
+title:X-Tracking the Changes of Web Navigation Patterns. citation:-1
+title:Recursive design of communication schemes for parallel computation with RELACS. citation:-1
+title:Semantic Indexing for Recorded Educational Lecture Videos. citation:-1
+title:Discovering Characteristic Individual Accessing Behaviors in Web Environment. citation:-1
+title:Modeling of Time and Document Aging for Request Prediction - One Step Further. citation:-1
+title:Exploring social annotations for web document classification. citation:-1
+title:Task-based entailment constraints for basic workflow patterns. citation:-1
+title:Lernortkooperation in der IT-Ausbildung - Kompetenzentwicklung in Projekten. citation:-1
+title:Recovering Individual Accessing Behaviour from Web Logs. citation:-1
+title:Optimizing the Retrieval of Pertinent Answers for NL Questions with the E-Librarian Service. citation:-1
+title:Awareness Creation mit Tele-Lab IT-Security: Praktisches Sicherheitstraining im virtuellen Labor am Beispiel Trojanischer Pferde. citation:-1
+title:Tele-lab IT security: an architecture for interactive lessons for security education. citation:-1
+title:The virtual tele-tASK professor: semantic search in recorded lectures. citation:-1
+title:One step further: extending electronic submission into the reviewing process. citation:-1
+title:Electronic Colloquia: Idea and Practice. citation:-1
+title:IDDS: an interactive decentralized documentation system. citation:-1
+title:Role-based access control in online authoring and publishing systems vs. document hierarchy. citation:-1
+title:Course management in the twinkle of an eye - LCMS: a professional course management system. citation:-1
+title:Implementation of a WebDAV-based Collaborative Distance Learning Environment. citation:-1
+title:Better results in mathematics lessons with a virtual personal teacher. citation:-1
+title:Teleteaching anywhere solution kit (Tele-TASK) goes mobile. citation:-1
+title:Compression of Medical Images. citation:-1
+title:The DualGate Lock-Keeper: A Highly Efficient, Flexible and Applicable Network Security Solution. citation:-1
+title:Label-Based Access Control Policy Enforcement and Management. citation:-1
+title:Sample Method for Minimization of OBDDs. citation:-1
+title:Strong Authentication over Lock-Keeper. citation:-1
+title:Separating Counting Communication Complexity Classes. citation:-1
+title:The Power of Polynomial Size Omega-Branching Programs. citation:-1
+title:A Reducibility Concept for Problems Defined in Terms of Ordered Binary Decision Diagrams. citation:-1
+title:The "log Rank" Conjecture for Modular Communication Complexity. citation:-1
+title:Adaptive compression of image data. citation:-1
+title:Proposal for a combination of compression and encryption. citation:-1
+title:Medical Image Segmentation Using a Combined Approach. citation:-1
+title:Why HTTPS Is Not Enough - A Signature-Based Architecture for Trusted Content on the Social Web. citation:-1
+title:Detecting the Changes ofWeb Students' Learning Interest. citation:-1
+title:The Metadata Triumvirate: Social Annotations, Anchor Texts and Search Queries. citation:-1
+title:Link Proposals with Case-Based Reasoning Techniques. citation:-1
+title:The Importance of Link-Transformation and Link-Proposals for Hyperlink-Management Systems. citation:-1
+title:Managing Distributed Personal Firewalls with Smart Data Servers. citation:-1
+title:Signed Preservation Of Online References. citation:-1
+title:Database based Navigation Assistant. citation:-1
+title:A Search-Engine-Topologie to Improve Document Retrieval on the Web. citation:-1
+title:How Much Middle-Tier Do You Need? citation:-1
+title:Analysis and Manipulation of Boolean Functions in Terms of Decision Graphs. citation:-1
+title:Deployment of Virtual Machines in Lock-Keeper. citation:-1
+title:Logging and Signing Document-Transfers on the WWW-A Trusted Third Party Gateway. citation:-1
+title:Deriving XACML Policies from Business Process Models. citation:-1
+title:Concept for Increased Security for Internet/Intranet - Based Administration of Patient Data. citation:-1
+title:Mining the Students' Learning Interest in Browsing Web-Streaming Lectures. citation:-1
+title:Motivation of the students in game development projects. citation:-1
+title:Question answering from lecture videos based on an automatic semantic annotation. citation:-1
+title:Who Reads and Writes the Social Web? A Security Architecture for Web 2.0 Applications. citation:-1
+title:Using quantified trust levels to describe authentication requirements in federated identity management. citation:-1
+title:Function-Based Authorization Constraints Specification and Enforcement. citation:-1
+title:Explorative Learning of Wireless Network Security with Tele-Lab IT-Security. citation:-1
+title:Enforcing Information Flow Constraints in RBAC Environments. citation:-1
+title:Team and Task Based RBAC Access Control Model. citation:-1
+title:Verification of Business Process Entailment Constraints Using SPIN. citation:-1
+title:The first 10 years of the ECCC digital library. citation:-1
+title:The "log rank" conjecture for modular communication complexity. citation:-1
+title:Tele-Lab "IT-Security" on CD: portable, reliable and safe IT security training. citation:-1
+title:Editors foreword - Selected papers from STACS 1998. citation:-1
+title:Recursive VLSI design theory and application. citation:-1
+title:Branching Programs - An Efficient Data Structure for Computer-Aided Circuit Design. citation:-1
+title:The Möbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem citation:-1
+title:Lower Bounds for the Majority Communication Complexity of Various Graph Accessibility Problems citation:-1
+title:An Adequate Reducibility Concept for Problems Defined in Terms of Ordered Binary Decision Diagrams citation:-1
+title:The ``Log Rank'' Conjecture for Modular Communication Complexity citation:-1
+title:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits - a Survey citation:-1
+title:Environments and Automata I. citation:-1
+title:RELACS - a Recursive Layout Computing System. citation:-1
+title:Environment and Automata II. citation:-1
+title:Separating Oblivious Linear Length MOD-Branching Program Classes. citation:-1
+title:The Nonuniform Complexity Classes NC, L and NL. citation:-1
+title:Entwurfserfahrungen mit dem rekursiven Layoutentwurfssystem RELACS; I. citation:-1
+title:Embedding of the Poset of Turing Degrees in the Poset [µ, <=]. citation:-1
+title:The Importance of Plane Labyrinths. citation:-1
+title:On the Structure of Endomorphism Monoids and Automorphism Groups of Group Labyrinths in the Category code. citation:-1
+title:A Functional Description of Synchronous Systems. citation:-1
+title:Symbolic Simulation of Synchronous Parallel Systems. citation:-1
+title:Entwurfserfahrungen mit dem rekursiven Layoutentwurfssystem RELACS; II. citation:-1
+title:Parity-OBDDs - a BDD structure for Probabilistic Verification. citation:-1
+title:A Unifying Theoretical Background for Some Bdd-based Data Structures. citation:-1
+title:Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines. citation:-1
+title:Branching Programs Provide Lower Bounds on the Areas of Multilective Deterministic and Nondeterministic VLSI-Circuits citation:-1
+title:Polynomial Size Omega-Branching Programs and Their Computational Power citation:-1
+title:Institut für Telematik (Trier) - angewandte Forschung nach Fraunhofer Ideal. citation:-1
+title:Geordnete binäre Entscheidungsgraphen und ihre Bedeutung im rechnergestützten Entwurf hochintegrierter Schaltkreise. citation:-1
+title:Physikalische Trennung als Ultima Ratio im Hochsicherheitsbereich. citation:-1
+title:On the Complexity of Analysis and Manipulation of Boolean Functions in Terms of Decision Graphs. citation:-1
+title:Logic VS. Complexity Theoretic Properties of the Graph Accessibility Problem for Directed Graphs of Bounded Degree. citation:-1
+title:Semantic Interpretation of Natural Language User Input to Improve Search in Multimedia Knowledge Base (Semantische Interpretation einer Benutzer-Eingabe in natürlicher Sprache für eine verbesserte Suche in einer multimedialen Wissensdatenbank). citation:-1
+title:Vom ersten nationalen IT-Gipfel der Bundesregierung. citation:-1
+title:Separating complexity classes related to certain input oblivious logarithmic space-bounded turing machines. citation:-1
+title:On the Influence of the State Encoding on OBDD-Representations of Finite State Machines. citation:-1
+title:Ordered Binary Decision Diagrams and their Significance in Computer-Aided Design of VLSI Circuits. citation:-1
+title:On relations between counting communication complexity classes. citation:-1
+title:A Reducibility Concept for Problems Defined in Terms of Ordered Binary Decision Diagrams. citation:-1
+title:Separating Complexity Classes Related to Bounded Alternating \omega-Branching Programs. citation:-1
+title:Lower Bounds for the Majority Communication Complexity of Various Graph Accessibility Problems. citation:-1
+title:Some heuristics for generating tree-like FBDD types. citation:-1
+title:Global rebuilding of OBDD's avoiding memory requirement maxima. citation:-1
+title:Linear sifting of decision diagrams and its application insynthesis. citation:-1
+title:Separating Complexity Classes Related to Omega-Decision Trees. citation:-1
+title:The Power of Nondeterminism in Polynomial-Size Bounded-Width Branching Programs. citation:-1
+title:Browsing within Lecture Videos Based on the Chain Index of Speech Transcription. citation:-1
+title:TI-jPACS - eine frei verfügbare leistungsfähige Plattform zur medizinischen Bildverarbeitung und -visualisierung citation:-1
+title:10 Jahre ECCC - Eine Digitale Bibliothek in weltweiter Benutzung citation:-1
+title:Efficient Analysis and Manipulation of OBDDs can be Extended to Read-once-only Branching Programs citation:-1
+title:A Heuristic for (+)-OBDD Minimization citation:-1
+title:Improving XOR-Node Placement for (+)-OBDDs citation:-1
+title:WWW.BDD-PORTAL.ORG: An Experimentation Platform for Binary Decision Diagram Algorithms citation:-1
+title:IDDS: An Interactive Decentallzed Documentation System citation:-1
+title:Modular Partitioning for Improvement of Image Computation citation:-1
+title:VisBDD - A Webbased Visualization Framework for OBDD Algorithms citation:-1
+title:Combinational Logic Verification with FBDDs citation:-1
+title:Efficient Manipulation of FBDDs by Means of a Modified OBDD-Package citation:-1
+title:Boolean Manipulation with Free BDD's - First Experimental Results citation:-1
+title:Mod-2-OBDD's: A Generalization of OBDD's and EXOR-Sum-of-Products citation:-1
+title:Ordered Binary Decision Diagrams in Electronic Design Automation citation:-1
+title:Some Heuristics for Generating Tree-like FBDD Types citation:-1
+title:The Möbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem citation:-1
+title:On the Complexity of Constructing Optimal OBDD's citation:-1
+title:Implement Role-Based Access Control with Attribute Certificates citation:-1
+title:tele-TASK - Teleteaching praxistauglich für den Universitätsalltag citation:-1
+title:Lock-Keeper Technology - A New Network Security Solution citation:-1
+title:Design and Implementation of a PHP-based Web Server for the Tele-Lab IT Security citation:-1
+title:Medizinische Bildverarbeitung - eine Übersicht citation:-1
+title:Separating Counting Communication Complexity Classes citation:-1
+title:A Unifying Theoretical Background for Some BDD-based Data Structures citation:-1
+title:Upper and Lower Bounds for Certain Graph-Accessability-Problems on Bounded Alternating (omega)-Branching Programs citation:-1
+title:A Note on Möbius Functions and the Communication Complexity of the Graph-Accessability-Problem citation:-1
+title:Analysis and Manipulation of Boolean Functions in Terms of Decision Graphs citation:-1
+title:Global Rebuilding of OBDD's - Tunneling Memory Requirement Maxima citation:-1
+title:Die Entwicklung der Informatik braucht Theorie und Praxis: Ein Fallbeispiel aus dem CAD-Schaltkreisentwurf citation:-1
+title:An Adequate Reducibility Concept for Problems Defined in Terms of Ordered Binary Decision Diagrams citation:-1
+title:State Encodings and OBDD-Sizes citation:-1
+title:Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines citation:-1
+title:Function Decomposition and Synthesis Using Linear Sifting citation:-1
+title:Case Study: Manipulating xor-OBDDs by Means of Signatures citation:-1
+title:The Electronic Colloquium on Computational Complexity (ECCC): A Digital Library in Use citation:-1
+title:Block-Restricted Reordering - Extended Experiments citation:-1
+title:OBDD-based Verification of Communication Protocols - Methods for the Verification of Data Link Protocols citation:-1
+title:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits citation:-1
+title:Binary Decision Diagrams and the Multiple Variable Order Problem citation:-1
+title:Increasing Efficiency of Symbolic Model Checking by Accelerating Dynamic Variable Reordering citation:-1
+title:Application Driven Variable Reordering and an Example in Reachability Analysis citation:-1
+title:Accelerating OBDD-Minimization by Means of Structural and Semantical Properties citation:-1
+title:The WWW meets EDA: Usability evaluation of OBDD-heuristics via the Internet citation:-1
+title:Xor-OBDDs - a BDD Structure for Probabilistic Verification citation:-1
+title:Do We Really Need Common Variable Orders for Synthesizing OBDDs? citation:-1
+title:One Step Further: Integrating Electronic Submission and the Reviewing Process citation:-1
+title:Algorithmic Considerations for +-OBDD Reordering citation:-1
+title:Mod-p Decision Diagrams: A Data Structure for Multiple-Valued Functions. citation:-1
+title:Speeding Up Symbolic Model Checking by Accelerating Dynamic Variable Reordering citation:-1
+title:Design Pattern for Object Triple Mapping. citation:-1
+title:A Security Meta-model for Service-Oriented Architectures. citation:-1
+title:Enhancing Claim-Based Identity Management by Adding a Credibility Level to the Notion of Claims. citation:-1
+title:Constructing a Context-Aware Service-Oriented Reputation Model Using Attention Allocation Points. citation:-1
+title:Trust Requirements in Identity Federation Topologies. citation:-1
+title:Post Recommendation in Social Web Site. citation:-1
+title:A Web Service Architecture for Decentralised Identity- and Attribute-Based Access Control. citation:-1
+title:Linking Tele-TASK Video Portal to the Semantic Web. citation:-1
+title:Towards Unifying Vulnerability Information for Attack Graph Construction. citation:-1
+title:Verteiltes Design Thinking mit teleBoard. citation:-1
+title:Teaching with information and communication technologies: preliminary results of a large scale survey. citation:-1
+title:Distribution to multiple platforms based on one video lecture archive. citation:-1
+title:A pattern-driven security advisor for service-oriented architectures. citation:-1
+title:An Extensible and Virtualization-Compatible IDS Management Architecture. citation:-1
+title:Spurring Design Thinking through Educational Weblogging. citation:-1
+title:Enabling Video-Blogging without Relying on External Service-Providers. citation:-1
+title:Automatic Extraction of Semantic Descriptions from the Lecturer's Speech. citation:-1
+title:Segmenting of Recorded Lecture Videos - The Algorithm VoiceSeg. citation:-1
+title:An e-Librarian Service that Yields Pertinent Resources from a Multimedia Knowledge Base. citation:-1
+title:Can VoIP Live up to the QoS Standards of Traditional Wireline Telephony? citation:-1
+title:An XACML Extension for Business Process-Centric Access Control Policies. citation:-1
+title:Realistic Simulation of V2X Communication Scenarios. citation:-1
+title:Towards Semantic Event-Driven Systems. citation:-1
+title:SecureSOA. citation:-1
+title:Mapping the Blogosphere with RSS-Feeds. citation:-1
+title:A Specialized Tool for Simulating Lock-Keeper Data Transfer. citation:-1
+title:Secure Communication Using Identity Based Encryption. citation:-1
+title:A Pattern-Driven Generation of Security Policies for Service-Oriented Architectures. citation:-1
+title:A Theoretical Model of Lock-Keeper Data Exchange and its Practical Verification. citation:-1
+title:SOFSEM 2007: Theory and Practice of Computer Science, 33rd Conference on Current Trends in Theory and Practice of Computer Science, Harrachov, Czech Republic, January 20-26, 2007, Proceedings citation:-1
+title:SOFSEM 2007: Theory and Practice of Computer Science, 33rd Conference on Current Trends in Theory and Practice of Computer Science, Harrachov, Czech Republic, January 20-26, 2007, Proceedings Volume II citation:-1
+title:STACS 98, 15th Annual Symposium on Theoretical Aspects of Computer Science, Paris, France, February 25-27, 1998, Proceedings citation:-1
+title:STACS 99, 16th Annual Symposium on Theoretical Aspects of Computer Science, Trier, Germany, March 4-6, 1999, Proceedings citation:-1
+title:An identity provider to manage reliable digital identities for SOA and the web. citation:-1
+title:Improving V2X simulation performance with optimistic synchronization. citation:-1
+title:The Service Security Lab: A Model-Driven Platform to Compose and Explore Service Security in the Cloud. citation:-1
+title:Lock-Keeper: A New Implementation of Physical Separation Technology. citation:-1
+title:Quantified Trust Levels for Authentication. citation:-1
+title:Enabling reputation interoperability through semantic technologies. citation:-1
+title:Unsupervised matching of object models and ontologies using canonical vocabulary. citation:-1
+title:Enabling Usage Control through Reputation Objects: A Discussion on e-Commerce and the Internet of Services Environments. citation:-1
+title:Tele-Lab IT-Security: an Architecture for an online virtual IT Security Lab. citation:-1
+title:Establishing an Expandable Architecture for a Tele-teaching Portal. citation:-1
+title:Realization of an Expandable Search Function for an E-Learning Web Portal. citation:-1
+title:Mobile Web Usability Evaluation - Combining the Modified Think Aloud Method with the Testing of Emotional, Cognitive and Conative Aspects of the Usage of a Web Application. citation:-1
+title:Remodeling Vulnerability Information. citation:-1
+title:Technology based motivation of students to collaborate by digital annotations during real lecture and learning sessions. citation:-1
+title:An approach to capture authorisation requirements in business processes. citation:-1
+title:Contract-based cloud architecture. citation:-1
+title:Visualizing Blog Archives to Explore Content- and Context-Related Interdependencies. citation:-1
+title:Vier Jahre Docu-blogging im IT-Gipfel-Prozess der Bundesregierung - Partizipation und Dokumentation leicht gemacht. citation:-1
+title:Design Thinking: Innovation lernen - Ideenwelten öffnen. citation:-1
+title:Mathematische Grundlagen der Informatik - Mathematisches Denken und Beweisen: eine Einführung, 3. Auflage. citation:-1
+title:Effiziente Algorithmen - Entwurf und Analyse. citation:-1
+title:An Integrated Network Scanning Tool for Attack Graph Construction. citation:-1
+title:Simulating Additional Area on Tele-Board's Large Shared Display. citation:-1
+title:A message meta model for federated authentication in service-oriented architectures. citation:-1
+title:Security in Tele-Lab - Protecting an online virtual lab for security training. citation:-1
+title:Improving search in tele-lecturing: using folksonomies as trigger to query semantic datasets to extract additional metadata. citation:-1
+title:A New Alert Correlation Algorithm Based on Attack Graph. citation:-1
+title:Measuring Expertise in Online Communities. citation:-1
+title:Besser Mathematik begreifen mit MatES - Autonomes Lernen mit Videosequenzen im Unterricht. citation:-1
+title:Digitale Videos im Unterricht - Die "YouTube-Generation" lernt Judo mit E-Videos. citation:-1
+title:SPEAR: Spamming-Resistant Expertise Analysis and Ranking in Collaborative Tagging Systems. citation:-1
+title:Social Physics of the Blogosphere - Capturing, Analyzing and Presenting Interdependencies within a Single Framework. citation:-1
+title:Transformation and Aggregation of Web Service Security Requirements. citation:-1
+title:Whom to Trust? Generating WS-Security Policies Based on Assurance Information. citation:-1
+title:Elastic VM for Cloud Resources Provisioning Optimization. citation:-1
+title:Tele-Board: Enabling efficient collaboration in digital design spaces. citation:-1
+title:A Security and High-Availability Layer for Cloud Storage. citation:-1
+title:A Flexible and Efficient Alert Correlation Platform for Distributed IDS. citation:-1
+title:From Reputation Models and Systems to Reputation Ontologies. citation:-1
+title:BALG: Bypassing Application Layer Gateways using multi-staged encrypted shellcodes. citation:-1
+title:WinSEND: Windows SEcure Neighbor Discovery. citation:-1
+title:An Attribute Assurance Framework to Define and Match Trust in Identity Attributes. citation:-1
+title:Automated Security Service Orchestration for the Identity Management in Web Service Based Systems. citation:-1
+title:Supporting Object-Oriented Programming of Semantic-Web Software. citation:-1
+title:Internetworking - Technische Grundlagen und Anwendungen citation:-1
+title:Accurate Mutlicore Processor Power Models for Power-Aware Resource Management. citation:-1
+title:Mapping the Blogosphere-Towards a Universal and Scalable Blog-Crawler. citation:-1
+title:Visualizing the Blogosphere with BlogConnect. citation:-1
+title:Automatic Lecture Video Indexing Using Video OCR Technology. citation:-1
+title:Identifying the top-dogs of the blogosphere. citation:-1
+title:E-Librarian Service - User-Friendly Semantic Search in Digital Libraries. citation:-1
+title:Analyzing distributed whiteboard interactions. citation:-1
+title:User-centered development of social collaboration software. citation:-1
+title:Why rating is not enough: A study on online reputation systems. citation:-1
+title:Using vulnerability information and attack graphs for intrusion detection. citation:-1
+title:Efficient traffic simulator coupling in a distributed V2X simulation environment. citation:-1
+title:CS-CGA: Compact and more Secure CGA. citation:-1
+title:Automated Extraction of Lecture Outlines from Lecture Videos - A Hybrid Solution for Lecture Video Indexing. citation:-1
+title:Stopping time condition for practical IPv6 Cryptographically Generated Addresses. citation:-1
+title:Multicore-based auto-scaling SEcure Neighbor Discovery for Windows operating systems. citation:-1
+title:German Speech Recognition: A Solution for the Analysis and Processing of Lecture Recordings. citation:-1
+title:An alert correlation platform for memory-supported techniques. citation:-1
+title:Secure Neighbor Discovery: Review, Challenges, Perspectives, and Recommendations. citation:-1
+title:Energy efficient scheduling of HPC-jobs on virtualize clusters using host and VM dynamic configuration. citation:-1
+title:Understanding asynchronous design work - segmentation of digital whiteboard sessions. citation:-1
+title:An Automated Analysis and Indexing Framework for Lecture Video Portal. citation:-1
+title:Handwriting recognition for a digital whiteboard collaboration platform. citation:-1
+title:tele-TASK - Ein praktikables, Standardkomponenten-basiertes, mobil einsetzbares Teleteaching-System. citation:-1
+title:Tele-Lecturing - Quo vadis Vorlesungsaufzeichnungen. citation:-1
+title:Lecture Video Indexing and Analysis Using Video OCR Technology. citation:-1
+title:IPv6 Deployment and Spam Challenges. citation:-1
+title:Building a Scalable Collaborative Web Filter with Free and Open Source Software. citation:-1
+title:Lecture Video Indexing and Analysis Using Video OCR Technology. citation:-1
+title:Cryptographically Generated Addresses (CGAs): Possible Attacks and Proposed Mitigation Approaches. citation:-1
+title:Collaboratecom Special Issue Analyzing Distributed Whiteboard Interactions. citation:-1
+title:IPv4/IPv6 Handoff on Lock-Keeper for High Flexibility and Security. citation:-1
+title:A Security Pattern-Driven Approach toward the Automation of Risk Treatment in Business Processes. citation:-1
+title:Supporting creative collaboration in globally distributed companies. citation:-1
+title:A distributed virtual laboratory architecture for cybersecurity training. citation:-1
+title:Enriching E-Learning meta data with user generated playlists. citation:-1
+title:Improving community rating in the tele-lecturing context. citation:-1
+title:Analysis and Simulation of HPC Applications in Virtualized Data Centers. citation:-1
+title:Dynamic scalability and contention prediction in public infrastructure using Internet application profiling. citation:-1
+title:Reputation objects for interoperable reputation exchange: Implementation and design decisions. citation:-1

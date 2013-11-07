@@ -1,0 +1,33 @@
+title1:On the diameter of a class of random graphs. title2:On the diameter of a class of random graphs citation:5 ncitation:4 pid1122637
+title1:The Effects of CPU: I/O Overlap on Computer System Configurations. title2:The effects of CPU: I/O overlap on computer system configurations citation:6 ncitation:6 pid402508
+title1:A Performance Evaluation of Several Priority Policies for Parallel Processing Systems. title2:A performance evaluation of several priority policies for parallel processing systems citation:20 ncitation:23 pid802918
+title1:Can an Overlay Compensate for a Careless Underlay? title2:Can an overlay compensate for a careless underlay? citation:28 ncitation:26 pid1122662
+title1:Correction to ``Allocating Programs Containing Branches and Loops Within a Multiple Processor System''. title2:Correction to'Allocating programs containing branches and loops within a multiple processor system' citation:3 ncitation:3 pid2309607
+title1:Allocating Programs Containing Branches and Loops Within a Multiple Processor System. title2:Correction to'Allocating programs containing branches and loops within a multiple processor system' citation:3 ncitation:89 pid1037435
+title1:Characterizing and Detecting Skype-Relayed Traffic. title2:Characterizing and Detecting Skype-Relayed Traffic. citation:70 ncitation:59 pid949664
+title1:Formal Analysis of Passive Measurement Inference Techniques. title2:Formal Analysis of Passive Measurement Inference Techniques. citation:8 ncitation:7 pid1129695
+title1:Identifying 802.11 Traffic from Passive Measurements Using Iterative Bayesian Inference. title2:Identifying 802.11 Traffic from Passive Measurements Using Iterative Bayesian Inference. citation:30 ncitation:28 pid1122600
+title1:Modeling TCP Reno performance: a simple model and its empirical validation. title2:Modeling TCP Reno performance: a simple model and its empirical validation citation:987 ncitation:961 pid1036815
+title1:Optimal Power Allocation in Wireless Networks with Transmitter-Receiver Power Tradeoffs. title2:Optimal Power Allocation in Wireless Networks with Transmitter-Receiver Power Tradeoffs. citation:19 ncitation:20 pid400238
+title1:Scalable fluid models and simulations for large-scale IP networks. title2:Scalable fluid models and simulations for large-scale IP networks citation:54 ncitation:53 pid403514
+title1:Fluid Simulation of Large Scale Networks: Issues and Tradeoffs. title2:Fluid Simulation of Large Scale Networks: Issues and Tradeoffs. citation:121 ncitation:120 pid1011294
+title1:On the TCP-Friendliness of VoIP Traffic. title2:On the TCP-Friendliness of VoIP Traffic. citation:23 ncitation:21 pid401170
+title1:Real-Time Traffic Transmission over the Internet. title2:Real-time traffic transmission over the internet citation:48 ncitation:50 pid597418
+title1:Maintaining Temporal Consistency: Issues and Algorithms. title2:Maintaining Temporal Consistency: Issues and Algorithms. citation:51 ncitation:51 pid513100
+title1:Experimental Evaluation of Real-Time Optimistic Concurrency Control Schemes. title2:Experimental evaluation of real-time optimistic concurrency control schemes citation:214 ncitation:213 pid400741
+title1:Real-time traffic transmission over the Internet. title2:Real-time traffic transmission over the internet citation:48 ncitation:50 pid402161
+title1:Scalable reliable multicast using multiple multicast channels. title2:Scalable reliable multicast using multiple multicast channels citation:98 ncitation:99 pid1122380
+title1:Product Form and Local Balance in Queueing Networks. title2:Product form and local balance in queueing networks citation:216 ncitation:210 pid1335951
+title1:Continuous Media Sharing in Multimedia Database Systems. title2:Continuous Media Sharing in Multimedia Database Systems. citation:119 ncitation:119 pid1036661
+title1:Modeling the Effects of Data and Resource Contention on the Performance of Optimistic Concurrency Control Protocols. title2:Modeling the effects of data and resource contention on the performance of optimistic concurrency control protocols citation:23 ncitation:24 pid1282117
+title1:Product Form and Local Balance in Queueing Networks. title2:Product form and local balance in queueing networks citation:216 ncitation:210 pid402728
+title1:Neighbor discovery in wireless networks and the coupon collector's problem. title2:Neighbor discovery in wireless networks and the coupon collector's problem citation:72 ncitation:65 pid674108
+title1:A Delay Analysis of Sender-Initiated and Receiver-Initiated Reliable Multicast Protocols. title2:A delay analysis of sender-initiated and receiver-initiated reliable multicast protocols citation:66 ncitation:67 pid400440
+title1:Analyzing Privacy in Enterprise Packet Trace Anonymization. title2:Analyzing Privacy in Enterprise Packet Trace Anonymization. citation:40 ncitation:35 pid402353
+title1:Burst Reduction Properties of the Token Bank in ATM Networks. title2:Burst reduction properties of the token bank in ATM networks citation:1 ncitation:1 pid1109888
+title1:A General Model for Optimal Static Load Balancing in Star Network Configurations. title2:A general model for optimal static load balancing in star network configurations citation:38 ncitation:36 pid1285144
+title1:Multicast-based inference of network-internal loss characteristics. title2:Multicast-based inference of network-internal loss characteristics citation:404 ncitation:387 pid2339727
+title1:Performance Analysis of a Fault Tolerant Mirrored Disk System. title2:Performance analysis of a fault tolerant mirrored disk system citation:13 ncitation:16 pid49743
+title1:Security-capacity trade-off in large wireless networks using keyless secrecy. title2:Security-capacity trade-off in large wireless networks using keyless secrecy citation:43 ncitation:36 pid2813629
+title1:Analysis and design of controllers for AQM routers supporting TCP flows. title2:Analysis and design of controllers for AQM routers supporting TCP flows citation:705 ncitation:688 pid2994287
+title1:Multi-user diversity for secrecy in wireless networks. title2:Multi-user diversity for secrecy in wireless networks citation:19 ncitation:-1 pid3030856

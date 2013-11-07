@@ -1,0 +1,180 @@
+title:Homogenización de marcos en ambientes de mejora de procesos multimarco. citation:-1
+title:Modelado de Líneas de Procesos mediante SPEM v2.0. citation:-1
+title:Aplicación del marco metodológico de COMPETISOFT a través de Investigación-Acción y Casos de estudio. citation:-1
+title:Maintenance Types in the MANTEMA Methodology. citation:-1
+title:A Comparison of Secure Information Systems Design Methodologies. citation:-1
+title:SMML: Lenguaje para la Representación de Modelos de Medición del Software. citation:-1
+title:Medición del Proceso Software. citation:-1
+title:Principios y patrones en el diseño orientado a objetos. citation:-1
+title:Proceso de Valoración para la Mejora de Procesos Software en Pequeñas Organizaciones. citation:-1
+title:Métricas para la calidad de bases de datos activas. citation:-1
+title:Caracterización formal de métricas para bases de datos relacionales. citation:-1
+title:ENEAS/BD: Un ENtorno para la Enseñanza Avanzada de Sistemas Bases de Datos. citation:-1
+title:Knowledge Management Systems with Reputation and Intuition - What for? citation:-1
+title:Propuesta de contenidos en bases de datos de los planes de estudio de informática. citation:-1
+title:Una clasificación de reflas de negocio. citation:-1
+title:Process Modeling of the Health Sector Using BPMN: A Case Study. citation:-1
+title:A Tool with which to Recommend Knowledge Sources in Virtual Communities. citation:-1
+title:Quantitative Approaches in Object-Oriented Software Engineering. citation:-1
+title:Defining Stability for Component Integration Assessment. citation:-1
+title:MIDEA: A Multidimensional Data Warehouse Methodology. citation:-1
+title:A Measurement Approach For Conceptual Database Design. citation:-1
+title:Validating Referential Integrity as a Database Quality Metric. citation:-1
+title:Hacia la definición de un modelo para la Gestión de Proyectos en el Desarrollo Global del Software: reflexiones sobre la situación actual. citation:-1
+title:Un enfoque pragmático para la mejora de procesos software en las PyMEs. citation:-1
+title:Assessing Component-Based Systems. citation:-1
+title:Towards a Web Portal Data Quality Model. citation:-1
+title:Preface to IWCMQ 2003. citation:-1
+title:On the Use of ADM to Contextualize Data on Legacy Source Code for Software Modernization. citation:-1
+title:Asynchronous Merging of Software Ontologies: An Experience. citation:-1
+title:Meta2Relational: Herramienta para la Gestión de Modelos de Procesos Software. citation:-1
+title:PWSSEC: Proceso de Desarrollo para Seguridad de Servicios. citation:-1
+title:Propuesta de métricas para almacenes de datos a nivel conceptual. citation:-1
+title:Un entorno integrado para la reingeniería. citation:-1
+title:Diagramas de casos de uso para el análisis de requisitos en almacenes de datos. citation:-1
+title:Herramienta de Soporte a la Valoración Rápida de Procesos Software. citation:-1
+title:Defining and validating metrics for assessing the understandability of entity-relationship diagrams. citation:-1
+title:Investigando los beneficios de Pair Designing: un estudio empírico con profesionales. citation:-1
+title:Hacia la definición de un perfil de UML 2.0 para modelar requisitos de seguridad en procesos de negocio. citation:-1
+title:Especificación de jerarquías de dimensión en un almacén de datos usando WordNet. citation:-1
+title:An Integrative Framework to Assess and Improve Information Quality Management in Organizations. citation:-1
+title:Aplicación práctica de un proceso de ingeniería de requisitos de seguridad. citation:-1
+title:Cuestionario para la Identificatión de Riesgos en Proyectos de Mantenimiento. citation:-1
+title:Towards a Methodology for Distributed Requirement Elicitation. citation:-1
+title:A Model to Rate Trust in Communities of Practice. citation:-1
+title:Process Institutionalization using Software Process Lines. citation:-1
+title:Towards a Data Quality Model for Web Portals - Research in Progress. citation:-1
+title:Metrics for Active Database Maintainability. citation:-1
+title:Métricas de calidad para almacenes de datos. citation:-1
+title:Web metrics selection through a practitioners' survey. citation:-1
+title:A bayesian network to structure a data quality model for web portals. citation:-1
+title:A Proposal for control Database Software Application Development. citation:-1
+title:Elaboración de una metodología para el mantenimiento de software. citation:-1
+title:Towards a Suite of Metrics for Business Process Models in BPMN. citation:-1
+title:Una comparativa de métodos para la estimación del esfuerzo en programmas 4GL: experiencias con Estadística y Minería de Datos. citation:-1
+title:La Ingeniería del Software y las Bases de Datos en la Industria: cómo trasladar la investigación a la práctica. citation:-1
+title:Applying Software Metrics to evaluate Business Process Models. citation:-1
+title:Software Measurement by Using QVT Transformations in an MDA Context. citation:-1
+title:An Ontology for the WSRP Standard. citation:-1
+title:Modelado de Requisitos de Seguridad para Almacenes de Datos. citation:-1
+title:Validacion de medidas para evaluar la mantenibilidad de programas SQL. citation:-1
+title:Agents That Help to Detect Trustworthy Knowledge Sources in Knowledge Management Systems. citation:-1
+title:Practical Application of a Security Management Maturity Model for SMEs based on Predefined Schemas. citation:-1
+title:Designing secure databases. citation:-1
+title:Fuzzy Aggregations and Fuzzy Specializations in Eindhoven Fuzzy EER Model. citation:-1
+title:Quantitative Approaches in Object-Oriented Software Engineering. citation:-1
+title:DQRDFS - Towards a Semantic Web Enhanced with Data Quality. citation:-1
+title:SECRDW: An Extension of the Relational Package from CWM for Representing Secure Data Warehouses at the Logical Level. citation:-1
+title:Security Requirements in Software Product Lines. citation:-1
+title:Towards an Ontology for Software Measurement. citation:-1
+title:An Audit Method of Personal Data Based on Requirements Engineering. citation:-1
+title:Quantitative Approaches in Object-Oriented Software Engineering. citation:-1
+title:Analysis and Design of a Recommender System with Agents. citation:-1
+title:An Exploratory Experiment to Validate Measures for Business Process Models. citation:-1
+title:Security Risk Analysis in Web Services Systems. citation:-1
+title:Prioritization of Processes for Software Process Improvement in Small Software Enterprises. citation:-1
+title:MMISS-SME Practical Development: Maturity Model for Information Systems Security Management in SMEs. citation:-1
+title:Defining Viewpoints for Security Architectural Patterns. citation:-1
+title:Automated Generation of Component-Based Web Applications from Databases. citation:-1
+title:Towards a UML 2.0 Profile for RBAC Modeling in Activity Diagrams. citation:-1
+title:Obtaining Secure Code in SQL Server Analysis Services by using MDA and QVT. citation:-1
+title:Towards an integration of Security Requirements into Business Process Modeling. citation:-1
+title:Data Warehouse Security. citation:-1
+title:Secure Information Systems Development - Based on a Security Requirements Engineering Process. citation:-1
+title:A Proposal for a Conceptual Data Warehouse Quality Model. citation:-1
+title:Homogenization of Models to Support Multi-model Processes in Improvement Environments. citation:-1
+title:Combining Different Change Prediction Techniques. citation:-1
+title:Developing a Model and a Tool to Manage the Information Security in Small and Medium Enterprises. citation:-1
+title:Understanding Product Lines Through Design Patterns. citation:-1
+title:Scmm-Tool - Tool for Computer Automation of the Information Security Management Systems. citation:-1
+title:Early Measures for UML Class Diagrams. citation:-1
+title:Establishing Trust Networks based on Data Quality Criteria for Selecting Data Suppliers. citation:-1
+title:Data Quality in XML Databases - A Methodology for Semi-Structured Database Design Supporting Data Quality Issues. citation:-1
+title:Un enfoque ADM para la Reingeniería de Bases de Datos Relacionales hacia Servicios Web. citation:-1
+title:Engineering Process Based on Grid Use Cases for Mobile Grid Systems. citation:-1
+title:Representation of Fuzzy Knowledge in Relational Databases. citation:-1
+title:Towards a Metrics Suite for Conceptual Models of Datawarehouses. citation:-1
+title:Datawarehouses design: effectivity of the star schema. citation:-1
+title:Supporting Knowledge Reuse During the Software Maintenance Process through Agents. citation:-1
+title:Validating Metrics for OCL Expressions Expressed within UML/OCL models. citation:-1
+title:Classifying Web Metrics. citation:-1
+title:Analysis of ISO/IEC 17799: 2000 to be Used in Security Metrics. citation:-1
+title:General Considerations on Data Warehouse Security. citation:-1
+title:Evaluating Factors that Challenge Global Software Development. citation:-1
+title:Beyond Object Oriented Design Patterns. citation:-1
+title:EVALTOOL - A Flexible Environment for the Capability Assessment of Software Processes. citation:-1
+title:Finding "Early" Indicators of UML Class Diagrams Understandability and Modifiability. citation:-1
+title:Supporting Software Process Measurement by Using Metamodels - A DSL and a Framework. citation:-1
+title:Quality in conceptual modeling: five examples of the state of the art. citation:-1
+title:Experimento Exploratorio para la Validación de Medidas para Modelos de Procesos de Negocio. citation:-1
+title:Un Método para la Creación de Servicios Web a Partir de Bases de Datos Relacionales. citation:-1
+title:Towards a UML 2.0/OCL extension for designing Secure Data Warehouses. citation:-1
+title:A Model Driven Approach for Secure XML Database Development. citation:-1
+title:PTSM: A portlet selection model. citation:-1
+title:Security Patterns Related to Security Requirements. citation:-1
+title:A framework for model-driven pattern matching. citation:-1
+title:UML for the Design of Secure Databases. citation:-1
+title:Developing a Maturity Model for Information System Security Management within Small and Medium Size Enterprises. citation:-1
+title:Data Warehouse Development. citation:-1
+title:SREPPLine: Towards a Security Requirements Engineering Process for Software Product Lines. citation:-1
+title:DQXSD: An XML schema for data quality - an XSD for supporting data quality in XML. citation:-1
+title:Developing Knowledge Management systems from a Knowledge-Based and Multi-Agent Approach. citation:-1
+title:Using Model-Driven Pattern Matching to derive functionalities in Models. citation:-1
+title:SREP: A Proposal for Establishing Security Requirements for the Development of Secure Information Systems. citation:-1
+title:Maintenance cost of a software design: A value-based approach. citation:-1
+title:ADIS 2001, Apoyo a la Decisión en Ingeniería del Software - Decision Support in Software Engineering, Proceedings of the II ADIS 2001 Workshop on Decision Support in Software Engineering, Almagro, Ciudad Real, Spain, November 20, 2001 citation:-1
+title:Advanced Conceptual Modeling Techniques, ER 2002 Workshops: ECDM, MobIMod, IWCMQ, and eCOMO, Tampere, Finland, October 7-11, 2002, Revised Papers citation:-1
+title:Advances in Conceptual Modeling - Challenges and Opportunities, ER 2008 Workshops CMLSA, ECDM, FP-UML, M2AS, RIGiM, SeCoGIS, WISM, Barcelona Spain, October 20-23, 2008. Proceedings citation:-1
+title:Software Audit and Metrics, Proceedings of the 1st International Workshop on Software Audit and Metrics, SAM 2004, In conjunction with ICEIS 2004, Porto, Portugal, April 2004 citation:-1
+title:VI Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2001), 1-23 de Noviembre de 2001, Almagro (Ciudad Real) citation:-1
+title:A Methodology for Reducing Geographical Dispersion Problems during Global Requirements Elicitation. citation:-1
+title:Defining and transforming security rules in an MDA approach for DWs. citation:-1
+title:Obtaining Security Requirements for a Mobile Grid System. citation:-1
+title:Supporting Software Process Improvement in Very Small Entities through a Template-based Guide. citation:-1
+title:An MDA Compliant Approach for Designing Secure Data Warehouses. citation:-1
+title:MMSM-SME: Methodology for the Management of Security and its Maturity in SME. citation:-1
+title:Una Aproximación Dirigida por Modelos para el Diseño de Bases de Datos XML Seguras. citation:-1
+title:Análisis Comparativo de Propuestas de Establecimiento de Requisitos de Seguridad para el Desarrollo de Sistemas de Información Seguros. citation:-1
+title:Métricas Para la Evaluación de Modelos de Proceso de Negocio. citation:-1
+title:Extensión de UML 2.0 para especificar Requisitos de Seguridad en Procesos de Negocios. citation:-1
+title:Representación de Requisitos de Seguridad en el Modelado de Procesos de Negocios. citation:-1
+title:Un Modelo de Seguridad para Almacenes de Datos e Implementación Semiautomática con OLS10g. citation:-1
+title:Evaluation of BPMN Models Quality - A Family of Experiments. citation:-1
+title:Aplicando gestion del conocimiento en el proceso de mantenimiento del software. citation:-1
+title:Training Global Software Development Skills through a Simulated Environment. citation:-1
+title:Application of Service-oriented Computing and Model-driven Development Paradigms to Business Processes - A Systematic Review. citation:-1
+title:A Systematic Review on the Harmonization of Reference Models. citation:-1
+title:A Systematic Literature Review of How to Introduce Data Quality Requirements into a Software Product Development. citation:-1
+title:Refinement and Extension of SMDM, a Method for Defining Valid Measures. citation:-1
+title:Alignment of Measurement and Business Goals - A Systematic Literature Review. citation:-1
+title:A Framework for Defining Simulators with Which to Train Global Software Development. citation:-1
+title:A Systematic Literature Review on Software Product Line Quality. citation:-1
+title:Business Process Model Improvement based on Measurement Activities. citation:-1
+title:A Framework for Training Skills for Global Software Development: PhD Research Proposal. citation:-1
+title:Desirable Characteristics for an ISMS oriented to SMEs. citation:-1
+title:Técnica de Mejora del Mantenimiento Software Basada en Valor. citation:-1
+title:Metodologías para Definir Programas de Medición en PyMEs: El Marco MIS-PyME. citation:-1
+title:Una propuesta de un modelo conceptual de calidad de almacenes de datos. citation:-1
+title:Hacia la Implementación Automática de Almacenes de Datos Seguros en Herramientas OLAP. citation:-1
+title:Modelado de Requisitos de Calidad de Datos en Ingeniería Web. citation:-1
+title:Una extensión del metamodelo relacional de CWM para representar Almacenes de Datos Seguros a nivel lógico. citation:-1
+title:Agil_MANTEMA: Una Metodología de Mantenimiento de Software para Pequeñas Organizaciones. citation:-1
+title:Evaluando la Calidad de los Datos en Portales Web. citation:-1
+title:Gestión Integral de Requisitos de Seguridad en Líneas de Producto Software. citation:-1
+title:Construcción de Modelos Lógicos Multidimensionales Seguros para su Implementación en Herramientas OLAP Mediante MDA y QVT. citation:-1
+title:Armonizando ISO/IEC 20000 e ISO/IEC 27001 para integrar la gestión de servicios y la seguridad de la información. citation:-1
+title:Modelo para la Implementación de Mejora de Procesos en Pequeñas Organizaciones Software. citation:-1
+title:Especificación de Procesos de Negocio Seguros a través de una extensión de UML 2.0. citation:-1
+title:Gestión de la Variabilidad de los Requisitos de Seguridad en Líneas de Producto. citation:-1
+title:Validación Global de Medidas para Modelos Conceptuales de Procesos de Negocio mediante Meta-Análisis. citation:-1
+title:Priorización del Valor de Artefactos Software Basada en la Frecuencia de Uso. citation:-1
+title:Una metodología para elicitación de requisitos en proyectos GSD. citation:-1
+title:Transformaciones QVT para la obtención de Clases de Análisis a partir de un Modelo de Proceso de Negocio Seguro. citation:-1
+title:Empirical study to assess whether the use of routes facilitates the navigability of web information systems. citation:-1
+title:Requirements and constructors for tailoring software processes: a systematic literature review. citation:-1
+title:Information and Database Quality citation:-1
+title:An MDA. appproach to develop secure business processes through a UML 2.0 extension. citation:-1
+title:Automated generation of test oracles using a model-driven approach. citation:-1
+title:Refactoring Business Process Models - A Systematic Review. citation:-1
+title:16th International Conference on Evaluation & Assessment in Software Engineering, EASE 2012, Ciudad Real, Spain, May 14-15, 2012. Proceedings citation:-1
+title:A Six Sigma-Based Process to Improve COTS Component Filtering. citation:-1

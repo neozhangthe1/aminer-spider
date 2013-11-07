@@ -1,0 +1,108 @@
+title:Design of Information Granules-Based Fuzzy Systems Using Clustering Algorithm and Genetic Optimization. citation:-1
+title:Genetic Algorithms in Hardware-Software Partitioning. citation:-1
+title:One-to-many mappings represented on feed-forward networks. citation:-1
+title:Adaptive Weight Change Mechanism for Kohonens's Neural Network Implemented in CMOS 0.18 um Technology. citation:-1
+title:Fuzzy Relational Image Compression using Non-Uniform Coders Designed by an Overlap Level of Fuzzy Sets. citation:-1
+title:Genetically Dynamic Optimization Based Fuzzy Polynomial Neural Networks. citation:-1
+title:Identification of Fuzzy Set-Based Fuzzy Systems by Means of Data Granulation and Genetic Optimization. citation:-1
+title:Design of Fuzzy Neural Networks Based on Genetic Fuzzy Granulation and Regression Polynomial Fuzzy Inference. citation:-1
+title:Genetically Optimized Self-Organizing Neural Networks Based on PNs and FPNs. citation:-1
+title:A New Approach to Self-Organizing Hybrid Fuzzy Polynomial Neural Networks: Synthesis of Computational Intelligence Technologies. citation:-1
+title:Design of Fuzzy Relation-Based Polynomial Neural Networks Using Information Granulation and Symbolic Gene Type Genetic Algorithms. citation:-1
+title:A New Approach to Genetically Optimized Hybrid Fuzzy Set-Based Polynomial Neural Networks with FSPNs and PNs. citation:-1
+title:Analysis of Software Engineering Data Using Computational Intelligence Techniques. citation:-1
+title:Methodological Identification of Information Granules-Based Fuzzy Systems by Means of Genetic Optimization. citation:-1
+title:Fuzziness in the Semantic Web: Survey and Future Directions. citation:-1
+title:Granular Regression. citation:-1
+title:Genetically Tuned Fuzzy Back-propagation Learning Method Based On Derivation Of Min-max Function For Fuzzy Neural Networks. citation:-1
+title:Towards fusing sophisticated mathematical knowledge and informal expert knowledge: an arbitrary metric can be naturally interpreted in fuzzy terms. citation:-1
+title:Special issue on soft computing for dynamic data mining. citation:-1
+title:Editorial. citation:-1
+title:P-FCM: a proximity -- based fuzzy clustering. citation:-1
+title:A Development of Inclusion-degree-based Rough Fuzzy Random Sets. citation:-1
+title:Fuzzy relational neural network. citation:-1
+title:Knowledge representation in medicine and clinical behavioural science : L. J. Kohout and W. Bandler, Eds., Abacus Press, Tunbridge Wells, Kent, 1988, $24.50 . citation:-1
+title:Stability of Information Granulation and Information Granules. citation:-1
+title:Guest Editorial - Special issue: Recent developments in hybrid intelligent systems. citation:-1
+title:Associations and rules in data mining: A link analysis. citation:-1
+title:Fuzzy Sets and T-Norms in the Light of Fuzzy Logic. citation:-1
+title:Presenting the special issue on Rough-neuro computing : Preface. citation:-1
+title:Adaptive Processing of Sequences and Data Structures, : C. Lee Giles and Marco Gori (Eds.); Springer, Berlin, 1998, pp. 434, ISBN 3-540-64341-9. citation:-1
+title:Knowledge-based neurocomputing. Ian Cloete and Jacek M. Zuranda (Eds.); MIT Press, Cambridge, MA, 2000, pp 486, ISBN 0-262-03274-0. citation:-1
+title:Advances in Kernel Methods. Support Vector Learning, B. Scholkopf, C.J.C. Burges, A.J. Smola (Eds.); MIT Press, Cambridge, 1999, pp 376+vii, ISBN 0-262-19416-3. citation:-1
+title:Granular neural networks. citation:-1
+title:IG-based genetically optimized fuzzy polynomial neural networks with fuzzy set-based polynomial neurons. citation:-1
+title:Balanced fuzzy computing unit. citation:-1
+title:Hybrid Fuzzy Polynomial Neural Networks. citation:-1
+title:Guest Editorial. citation:-1
+title:A Hierarchical Neural Model of Matching. citation:-1
+title:Genetically optimized fuzzy polynomial neural networks with fuzzy set-based polynomial neurons. citation:-1
+title:Neural Network Based Power Flow Predictor. citation:-1
+title:Fuzzy Control Stability Analysis Using a Generalized Fuzzy Petri Net Model. citation:-1
+title:Fuzzy Set Based Neural Networks: Structure, Learning and Application. citation:-1
+title:A Fuzzy Rule Extraction Method for ANFIS Using CFCM and Fuzzy Equalization. citation:-1
+title:Adaptive Touch Panel User Interface by Type-Based Approach Using Particle Filters. citation:-1
+title:Fuzzy Aggregation Method Using Fisherface and Wavelet Decomposition for Face Recognition. citation:-1
+title:Sampling Research on Advanced Computational Intelligence in Canada. citation:-1
+title:Representation and Propagation of Information Granules in Rule-based Computing. citation:-1
+title:Author's reply. citation:-1
+title:Special Issue on Bioinformatics. citation:-1
+title:D-fuzzy clustering. citation:-1
+title:Collaborative fuzzy clustering. citation:-1
+title:Special issue on soft computing applications to CDMA power control optimization. citation:-1
+title:Genetically optimized fuzzy polynomial neural networks. citation:-1
+title:Granular mappings. citation:-1
+title:Fuzzy relational compression. citation:-1
+title:Linguistic models and linguistic modeling. citation:-1
+title:Special issue on computational intelligence in telecommunications networks and Internet services. I. citation:-1
+title:Guest Editorial - Special issue on computational intelligence in telecommunications networks and internet services - Part II. citation:-1
+title:Guest Editorial Special Issue on Computational Intelligence in Telecommunications Networks and Internet Services - Part III. citation:-1
+title:Fuzzy clustering with partial supervision. citation:-1
+title:Reliable and fast reconfigurable hierarchical interconnection networks for linear WSI arrays. citation:-1
+title:Neural Network Architectures. citation:-1
+title:Computational Intelligence. citation:-1
+title:Optimization of Image Compression Method Based on Fuzzy Relational Equations by Overlap Level of Fuzzy Sets. citation:-1
+title:Genetically Optimized Hybrid Fuzzy Neural Networks: Analysis and Design of Rule-based Multi-layer Perceptron Architectures. citation:-1
+title:Tuning FCMP to Elicit Novel Time Course Signatures in fMRI Neural Activation Studies. citation:-1
+title:Analysis and Design of Intelligent Systems using Soft Computing Techniques, a selection of papers from IFSA 2007 citation:-1
+title:MFCM for Nonlinear Blind Channel Equalization. citation:-1
+title:Fuzzy Sensitivity Analysis and Its Application. citation:-1
+title:Kernelized Fuzzy Rough Sets. citation:-1
+title:Analog-Counter-Based Conscience Mechanism in Kohonen's Neural Network Implemented in CMOS 0.18 m Technology. citation:-1
+title:Knowledge-Oriented and Distributed Unsupervised Learning for Concept Elicitation. citation:-1
+title:Computational Intelligence - The Quests and Opportunities. citation:-1
+title:Foundations of Fuzzy Logic and Soft Computing, 12th International Fuzzy Systems Association World Congress, IFSA 2007, Cancun, Mexico, June 18-21, 2007, Proceedings citation:-1
+title:Theoretical Advances and Applications of Fuzzy Logic and Soft Computing, Selection of Papers from IFSA 2007 citation:-1
+title:Rough Sets, Fuzzy Sets, Data Mining and Granular Computing, 11th International Conference, RSFDGrC 2007, Toronto, Canada, May 14-16, 2007, Proceedings citation:-1
+title:Hybrid Artificial Intelligence Systems, Third International Workshop, HAIS 2008, Burgos, Spain, September 24-26, 2008. Proceedings citation:-1
+title:Preface to the special section on new trends on pattern recognition with fuzzy models. citation:-1
+title:Evolutionary Design of Intelligent Systems in Modeling, Simulation and Control citation:-1
+title:The Ninth International Conference on Machine Learning and Applications, ICMLA 2010, Washington, DC, USA, 12-14 December 2010 citation:-1
+title:A Comparative Study of Genetic Algorithms, Particle Swarm Optimization, and Differential Evolution in Problem of Feature Selection through Structure Retention. citation:-1
+title:Report on IFSA Workshop, Beijing, July 4-5, 2010. citation:-1
+title:The Refinement of Models With the Aid of the Fuzzy k -Nearest Neighbors Approach. citation:-1
+title:Introducing WIREs data mining and knowledge discovery. citation:-1
+title:Fuzzy sets engineering. citation:-1
+title:A Tabu-Harmony Search-Based Approach to Fuzzy Linear Regression. citation:-1
+title:Fuzzy Logic and Applications - 9th International Workshop, WILF 2011, Trani, Italy, August 29-31,2011. Proceedings citation:-1
+title:Possibilistic regression analysis of influential factors in the planning and implementation of occupational health and safety management systems. citation:-1
+title:A real-time analysis of granular information: Some initial thoughts on a convex hull-based fuzzy regression approach. citation:-1
+title:Human centricity and perception-based perspective of architectures of Granular Computing. citation:-1
+title:Granular Instances Selection for Fuzzy Modeling. citation:-1
+title:Fisherman learning algorithm of the SOM realized in the CMOS technology. citation:-1
+title:Reconciliation of perception of information granules and granular mappings. citation:-1
+title:Data and Feature Reduction in Fuzzy Modeling through Particle Swarm Optimization. citation:-1
+title:Optimization of fuzzy models. citation:-1
+title:A framework of fuzzy hybrid systems for modelling and control. citation:-1
+title:Mining Icebergs in Time-Stamped Databases. citation:-1
+title:Concepts and Design of Granular Fuzzy Neural Networks - New Constructs of Computational Intelligence. citation:-1
+title:An Efficient Solution of Real-Time Fuzzy Regression Analysis to Information Granules Problem. citation:-1
+title:A Multiobjective Design of a Patient and Anaesthetist-Friendly Neuromuscular Blockade Controller. citation:-1
+title:Multi-Objective Optimization of Fuzzy Neural Networks for Software Modeling. citation:-1
+title:From Fuzzy Cognitive Maps to Granular Cognitive Maps. citation:-1
+title:Finite Automata with Imperfect Information as Classification Tools. citation:-1
+title:Ontology-based framework for reasoning with fuzzy temporal data. citation:-1
+title:Design of face recognition algorithm using PCA -LDA combined for hybrid data pre-processing and polynomial-based RBF neural networks : Design and its application. citation:-1
+title:A global structure-based algorithm for detecting the principal graph from complex data. citation:-1
+title:Analysis and design of rank-based classifiers. citation:-1
+title:A Fuzzy Support Vector Machine with Qualitative Regression Preset. citation:-1

@@ -1,0 +1,441 @@
+title:Attribute-Oriented Induction in Relational Databases. citation:-1
+title:Data Mining: Concepts and Techniques citation:-1
+title:Mining Data Streams. citation:-1
+title:Survey of Biodata Analysis from a Data Mining Perspective. citation:-1
+title:Isometric Projection. citation:-1
+title:Sparse Projections over Graph. citation:-1
+title:Warehousing and Mining Massive RFID Data Sets. citation:-1
+title:DBMiner: a system for data mining in relational databases and data warehouses. citation:-1
+title:Mining Knowledge at Multiple Concept Levels. citation:-1
+title:Mining Inter-Transaction Associations with Templates. citation:-1
+title:LogicBase: A Deductive Database System Prototype. citation:-1
+title:Text classification from positive and unlabeled documents. citation:-1
+title:Mining compressed commodity workflows from massive RFID data sets. citation:-1
+title:Regularized locality preserving indexing via spectral regression. citation:-1
+title:Modeling hidden topics on document manifold. citation:-1
+title:On effective presentation of graph patterns: a structural representative approach. citation:-1
+title:Data mining for image/video processing: a promising research frontier. citation:-1
+title:Cooperative Query Answering Using Multiple Layered Databases. citation:-1
+title:Discovering Compact and Highly Discriminative Features or Feature Combinations of Drug Activities Using Support Vector Machines. citation:-1
+title:Asynchronous Chain Recursions. citation:-1
+title:RecTree: An Efficient Collaborative Filtering Method. citation:-1
+title:AIM: Approximate Intelligent Matching for Time Series Data. citation:-1
+title:Efficient Deduction and Induction: Key to the Success of Data-Intensive Knowledge-Base Systems. citation:-1
+title:Compressed Counting Method. citation:-1
+title:N-Queens Problem Revisited: A Deductive Database Approach. citation:-1
+title:LogicBase: A System Prototype for Deductive Query Evaluation. citation:-1
+title:Outline of the LogicBase Demonstration. citation:-1
+title:How Does Knowledge Discovery Cooperate with Active Database Techniques in Controlling Dynamic Environment? citation:-1
+title:Online Analytical Processing Stream Data: Is It Feasible? citation:-1
+title:Plan Mining by Divide-and-Conquer. citation:-1
+title:Mining complex matchings across Web query interfaces. citation:-1
+title:Fault-Tolerant Frequent Pattern Mining: Problems and Challenges. citation:-1
+title:The Level-Cycle Merging Method. citation:-1
+title:Efficient Access Methods in Deductive and Object-Oriented Databases. citation:-1
+title:Maintenance of Discovered Knowledge: A Strategy for Updating Association Rules (Abstract). citation:-1
+title:Compilation-Based List Processing in Deductive Databases. citation:-1
+title:The Processing and Evaluation of Transitive Closure Queries. citation:-1
+title:Profit Mining: From Patterns to Actions. citation:-1
+title:RankClus: integrating clustering with ranking for heterogeneous information network analysis. citation:-1
+title:Mining Typical Preferences of Collaborative User Groups. citation:-1
+title:Real-Time Knowledge Discovery and Dissemination for Intelligence Analysis. citation:-1
+title:On the Power of Query-Independent Compilation. citation:-1
+title:On the Inverse Classification Problem and its Applications. citation:-1
+title:An Attribute-Oriented Approach for Learning Classification Rules from Relational Databases. citation:-1
+title:Constraint-Based Reasoning in Deductive Databases. citation:-1
+title:Chain-Split Evaluation in Deductive Databases. citation:-1
+title:Some Performance Results on Recursive Query Processing in Relational Database Systems. citation:-1
+title:Normalization of Linear Recursions in Deductive Databases. citation:-1
+title:Semantic Query Optimization in Recursive Databases. citation:-1
+title:Distance-Associated Join Indices for Spatial Range Search. citation:-1
+title:Mining Evolving Customer-Product Relationships in Multi-Dimensional Space. citation:-1
+title:Top-Down Mining of Interesting Patterns from Very High Dimensional Data. citation:-1
+title:PrefixSpan: Mining Sequential Patterns by Prefix-Projected Growth. citation:-1
+title:Pushing Aggregate Constraints by Divide-and-Approximate. citation:-1
+title:C-Cubing: Efficient Computation of Closed Cubes by Aggregation-Based Checking. citation:-1
+title:Mining Recurrent Items in Multimedia with Progressive Resolution Refinement. citation:-1
+title:Searching Substructures with Superimposed Distance. citation:-1
+title:Cost-Conscious Cleaning of Massive RFID Data Sets. citation:-1
+title:The Multi-Relational Skyline Operator. citation:-1
+title:Object Distinction: Distinguishing Objects with Identical Names. citation:-1
+title:Mining Colossal Frequent Patterns by Core Pattern Fusion. citation:-1
+title:Integrating OLAP and Ranking: The Ranking-Cube Methodology. citation:-1
+title:Direct Discriminative Pattern Mining for Effective Classification. citation:-1
+title:P-Cube: Answering Preference Queries in Multi-Dimensional Space. citation:-1
+title:Temporal Outlier Detection in Vehicle Traffic Data. citation:-1
+title:Efficient Mining of Closed Repetitive Gapped Subsequences from a Sequence Database. citation:-1
+title:CoMine: Efficient Mining of Correlated Patterns. citation:-1
+title:On Computing Condensed Frequent Pattern Bases. citation:-1
+title:Heterogeneous Learner for Web Page Classification. citation:-1
+title:Scalable Construction of Topic Directory with Nonparametric Closed Termset Mining. citation:-1
+title:AC-Close: Efficiently Mining Approximate Closed Itemsets by Core Pattern Recovery. citation:-1
+title:How Bayesians Debug. citation:-1
+title:Efficient Kernel Discriminant Analysis via Spectral Regression. citation:-1
+title:On Appropriate Assumptions to Mine Data Streams: Analysis and Practice. citation:-1
+title:Efficient Discovery of Frequent Approximate Sequential Patterns. citation:-1
+title:Spectral Regression: A Unified Approach for Sparse Subspace Learning. citation:-1
+title:gApprox: Mining Frequent Approximate Patterns from a Massive Network. citation:-1
+title:Stream Sequential Pattern Mining with Precise Error Bounds. citation:-1
+title:Non-negative Matrix Factorization on Manifold. citation:-1
+title:Text Cube: Computing IR Measures for Multidimensional Text Database Analysis. citation:-1
+title:Graph OLAP: Towards Online Analytical Processing on Graphs. citation:-1
+title:A Practical Approach to Classify Evolving Data Streams: Training with Limited Amount of Labeled Data. citation:-1
+title:Object Matching for Information Integration: A Profiler-Based Approach. citation:-1
+title:Advances of the DBLearn System for Knowledge Discovery in Large Databases. citation:-1
+title:Motion-Alert: Automatic Anomaly Detection in Massive Moving Objects. citation:-1
+title:A Case-Based Reasoning Approach for Associative Query Answering. citation:-1
+title:What Kinds of Recursion Can Be Processed by Transitive Closure Strategies? citation:-1
+title:Efficient Evaluation of Linear Recursions with Function Sysmbols in Deductive Databases. citation:-1
+title:Incremental Processing of Logic Database Relations. citation:-1
+title:Exploring the Power of Heuristics and Links in Multi-relational Data Mining. citation:-1
+title:Selection of Processing Strategies for Different Recursive Queries. citation:-1
+title:One-Directional Recursive Formulas. citation:-1
+title:Parallel mining of closed sequential patterns. citation:-1
+title:How Can Data Mining Help Bio-Data Analysis? citation:-1
+title:Scalable frequent-pattern mining methods: an overview. citation:-1
+title:Generating semantic annotations for frequent patterns with context analysis. citation:-1
+title:Geo-Spatial Clustering with User-Specified Constraints. citation:-1
+title:Breaking the Barrier of Transactions: Mining Inter-Transaction Association Rules. citation:-1
+title:Mining scale-free networks using geodesic clustering. citation:-1
+title:Extracting redundancy-aware top-k patterns. citation:-1
+title:Discovering interesting patterns through user's interactive feedback. citation:-1
+title:Cross-relational clustering with user's guidance. citation:-1
+title:Resource and Knowledge Discovery in Global Information Systems: A Preliminary Design and Experiment. citation:-1
+title:Knowledge transfer via multiple model local structure mapping. citation:-1
+title:Mining preferences from superior and inferior examples. citation:-1
+title:Direct mining of discriminative and essential frequent patterns via model-based search tree. citation:-1
+title:Homomorphic Tree Embeddings and Their Applications to Recursive Program Optimization citation:-1
+title:Regularized regression on image manifold for retrieval. citation:-1
+title:Image clustering with tensor representation. citation:-1
+title:Spectral regression: a unified subspace learning framework for content-based image retrieval. citation:-1
+title:CCMine: Efficient Mining of Confidence-Closed Correlated Patterns. citation:-1
+title:Ranking Outliers Using Symmetric Neighborhood Relationship. citation:-1
+title:COE: Clustering with Obstacles Entities. A Preliminary Study. citation:-1
+title:gPrune: A Constraint Pushing Framework for Graph Pattern Mining. citation:-1
+title:Research Frontiers in Advanced Data Mining Technologies and Applications. citation:-1
+title:A Multi-partition Multi-chunk Ensemble Technique to Classify Concept-Drifting Data Streams. citation:-1
+title:Community Mining from Multi-relational Networks. citation:-1
+title:Efficient Processing of Ranked Queries with Sweeping Selection. citation:-1
+title:Mining Thick Skylines over Large Databases. citation:-1
+title:Efficient Classification from Multiple Heterogeneous Databases. citation:-1
+title:Association Mining in Large Databases: A Re-examination of Its Measures. citation:-1
+title:A sampling-based framework for parallel data mining. citation:-1
+title:Chain-Based Evaluation - A Bridge Linking Recursive and Nonrecursive Query Evaluation. citation:-1
+title:Human-Computer Interfaces: DBLEARN and System X. citation:-1
+title:An Attribute-Oriented Rough Set Approach for Knowledge Discovery in Databases. citation:-1
+title:SeqIndex: Indexing Sequences by Sequential Pattern Analysis. citation:-1
+title:Mining Interesting Patterns from Very High Dimensional Data: A Top-Down Row Enumeration Approach. citation:-1
+title:Mining Control Flow Abnormality for Logic Error Isolation. citation:-1
+title:Mining Behavior Graphs for "Backtrace" of Noncrashing Bugs. citation:-1
+title:CPAR: Classification based on Predictive Association Rules. citation:-1
+title:A General Framework for Mining Concept-Drifting Data Streams with Skewed Distributions. citation:-1
+title:ROAM: Rule- and Motif-Based Anomaly Detection in Massive Moving Object Data Sets. citation:-1
+title:CISpan: Comprehensive Incremental Mining Algorithms of Closed Sequential Patterns for Multi-Versional Software Mining. citation:-1
+title:SpaRClus: Spatial Relationship Pattern-Based Hierarchial Clustering. citation:-1
+title:Derivation of Magic Sets by Compilation. citation:-1
+title:Path: An Approach to Incorporate List Processing in A Relational Database. citation:-1
+title:Dustminer: troubleshooting interactive complexity bugs in sensor networks. citation:-1
+title:Tensor space model for document analysis. citation:-1
+title:MAIDS: Mining Alarming Incidents from Data Streams. citation:-1
+title:Ranking objects based on relationships. citation:-1
+title:DBLearn: A System Prototype for Knowledge Discovery in Relational Databases. citation:-1
+title:DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases. citation:-1
+title:Handling Redundancy in the Processing of Recursive Database Queries. citation:-1
+title:GeoMiner: A System Prototype for Spatial Data Mining. citation:-1
+title:DNA-Miner: A System Prototype for Mining DNA Sequences. citation:-1
+title:Mining Frequent Patterns without Candidate Generation. citation:-1
+title:Exploratory Mining via Constrained Frequent Set Queries. citation:-1
+title:GraphMiner: a structural pattern-mining system for large disk-based graph databases and its applications. citation:-1
+title:Classification of Recursive Formulas in Deductive Databases. citation:-1
+title:Progressive and selective merge: computing top-k with ad-hoc ranking functions. citation:-1
+title:ARCube: supporting ranking aggregate queries in partially materialized data cubes. citation:-1
+title:BibNetMiner: mining bibliographic information networks. citation:-1
+title:Sampling cube: a framework for statistical olap over sampling data. citation:-1
+title:Failure proximity: a fault localization-based approach. citation:-1
+title:Processing Multiple Linear Recursions. citation:-1
+title:Evaluation of Regular Nonlinear Recursive Programs. citation:-1
+title:Finding frequent items in data streams using hierarchical information. citation:-1
+title:Efficient Polygon Amalgamation Methods for Spatial OLAP and Spatial Data Mining. citation:-1
+title:Traffic Density-Based Discovery of Hot Routes in Road Networks. citation:-1
+title:Continuous K-Nearest Neighbor Search for Moving Objects. citation:-1
+title:MM-Cubing: Computing Iceberg Cubes by Factorizing the Lattice Space. citation:-1
+title:Searching for Related Objects in Relational Databases. citation:-1
+title:On Efficient Processing of Subspace Skyline Queries on High Dimensional Data. citation:-1
+title:Mining Multi-Dimensional Constrained Gradients in Data Cubes. citation:-1
+title:FlowCube: Constructuing RFID FlowCubes for Multi-Dimensional Analysis of Commodity Flows. citation:-1
+title:High-Dimensional OLAP: A Minimal Cubing Approach. citation:-1
+title:Mining Approximate Top-K Subspace Anomalies in Multi-Dimensional Time-Series Data. citation:-1
+title:Join Index Hierarchies for Supporting Efficient Navigations in Object-Oriented Databases. citation:-1
+title:Towards Robust Indexing for Ranked Queries. citation:-1
+title:Answering Top-k Queries with Multi-Dimensional Selections: The Ranking Cube Approach. citation:-1
+title:LinkClus: Efficient Clustering via Heterogeneous Semantic Links. citation:-1
+title:DataScope: Viewing Database Contents in Google Maps' Way. citation:-1
+title:Towards Graph Containment Search and Indexing. citation:-1
+title:Adaptive Fastest Path Computation on a Road Network: A Traffic Mining Approach. citation:-1
+title:Error-Adaptive and Time-Aware Maintenance of Frequency Counts over Data Streams. citation:-1
+title:Exploring the Power of Links in Data Mining. citation:-1
+title:PerRank: Personalized Rank Retrieval with Categorical and Numerical Attributes. citation:-1
+title:WebML: Querying the World-Wide Web for Resources and Knowledge. citation:-1
+title:Mining, Indexing, and Searching Graphs in Large Data Sets. citation:-1
+title:Integrative Array Analyzer: a software package for analysis of cross-platform and cross-species microarray data. citation:-1
+title:Emerging scientific applications in data mining. citation:-1
+title:Compiling general linear recursions by variable connection graph analysis. citation:-1
+title:Learning in relational databases: an attribute-oriented approach. citation:-1
+title:On High Dimensional Projected Clustering of Data Streams. citation:-1
+title:Editorial. citation:-1
+title:Pushing Convertible Constraints in Frequent Itemset Mining. citation:-1
+title:An Erratum on "Pushing Convertible Constraints in Frequent Itemset Mining". citation:-1
+title:Making SVMs Scalable to Large Data Sets using Hierarchical Cluster Indexing. citation:-1
+title:CrossClus: user-guided multi-relational clustering. citation:-1
+title:Generalization-Based Data Mining in Object-Oriented Databases Using an Object Cube Model. citation:-1
+title:On compressing frequent patterns. citation:-1
+title:Review - An Array-Based Algorithm for Simultaneous Multidimensional Aggregates. citation:-1
+title:Profile-Based Object Matching for Information Integration. citation:-1
+title:Information-Associated Join Indices for Spatial Range Search. citation:-1
+title:Delay-Sensitive Multimedia on Disks. citation:-1
+title:Fact Updates in Logic Databases. citation:-1
+title:Classifying Data Streams with Skewed Class Distributions and Concept Drifts. citation:-1
+title:Binding Propagation Beyond the Reach of Rule/Goal Graphs. citation:-1
+title:Multi-way counting method. citation:-1
+title:From transitive closure recursions to single-chain recursions. citation:-1
+title:Evaluation of Regular Nonlinear Recursions by Deductive Database Techniques. citation:-1
+title:Automatic generation of compiled forms for linear recursions. citation:-1
+title:Compilation and evaluation of linear mutual recursions. citation:-1
+title:Efficiently Identifying Max-Gap Clusters in Pairwise Genome Comparison. citation:-1
+title:From Sequential Pattern Mining to Structured Pattern Mining: A Pattern-Growth Approach. citation:-1
+title:Efficient Rule-Based Attribute-Oriented Induction for Data Mining. citation:-1
+title:Constraint-based sequential pattern mining: the pattern-growth methods. citation:-1
+title:On Having Search Engines Deliver Hierarchies of Web Pages. citation:-1
+title:Mining Condensed Frequent-Pattern Bases. citation:-1
+title:Knowledge representation and discovery based on linguistic atoms. citation:-1
+title:Discovering Geographic Knowledge in Data Rich Environments: A Report on a Specialist Meeting. citation:-1
+title:Constrained frequent pattern mining: a pattern-growth view. citation:-1
+title:The third SIGKDD workshop on mining temporal and sequential data (KDD/TDM 2004). citation:-1
+title:A tribute to Professor Hongjun Lu. citation:-1
+title:Reminiscences on Influential Papers. citation:-1
+title:Database Research at the University of Illinois at Urbana-Champaign. citation:-1
+title:Towards Efficient Induction Mechanisms in Database Systems. citation:-1
+title:A Framework for On-Demand Classification of Evolving Data Streams. citation:-1
+title:Regression Cubes with Lossless Compression and Aggregation. citation:-1
+title:Mining Constrained Gradients in Large Databases. citation:-1
+title:Constraint-Based Query Evaluation in Deductive Databases. citation:-1
+title:Chain-Split Evaluation in Deductive Databases. citation:-1
+title:Asynchronous Chain Recursions. citation:-1
+title:Join Index Hierarchy: An Indexing Structure for Efficient Navigation in Object-Oriented Databases. citation:-1
+title:A Study on the Structure of Linear Recursion. citation:-1
+title:Pushing Support Constraints Into Association Rules Mining. citation:-1
+title:Closed Constrained Gradient Mining in Retail Databases. citation:-1
+title:Divide-and-Approximate: A Novel Constraint Push Strategy for Iceberg Cube Mining. citation:-1
+title:Classification and Compilation of Linear Recursive Queries in Deductive Databases. citation:-1
+title:Efficient Classification across Multiple Database Relations: A CrossMine Approach. citation:-1
+title:Computing Iceberg Cubes by Top-Down and Bottom-Up Integration: The StarCubing Approach. citation:-1
+title:Frequent Closed Sequence Mining without Candidate Maintenance. citation:-1
+title:Graph indexing based on discriminative frequent structure analysis. citation:-1
+title:Feature-based similarity search in graph structures. citation:-1
+title:Efficient Evaluation of Multiple Linear Recursions. citation:-1
+title:A Systematic Study of Failure Proximity. citation:-1
+title:A template model for multidimensional inter-transactional association rules. citation:-1
+title:Index Nesting - An Efficient Approach to Indexing in Object-Oriented Databases citation:-1
+title:Introduction. citation:-1
+title:Semantic annotation of frequent patterns. citation:-1
+title:: trajectory classification using hierarchical region-based and trajectory-based clustering. citation:-1
+title:OLAP, Spatial. citation:-1
+title:Approximate Frequent Itemset Mining In the Presence of Random Noise. citation:-1
+title:Finding Symbolic Bug Patterns in Sensor Networks. citation:-1
+title:Exploring social tagging graph for web object classification. citation:-1
+title:Ranking-based clustering of heterogeneous information networks with star network schema. citation:-1
+title:Classification of software behaviors for failure detection: a discriminative pattern mining approach. citation:-1
+title:Heterogeneous source consensus learning via decision propagation and negotiation. citation:-1
+title:Near-optimal Supervised Feature Selection among Frequent Subgraphs. citation:-1
+title:Topic Cube: Topic Modeling for OLAP on Multidimensional Text Databases. citation:-1
+title:MLR-Index: An Index Structure for Fast and Scalable Similarity Search in High Dimensions. citation:-1
+title:TagSmart: analysis and visualization for yeast mutant fitness data measured by tag microarrays. citation:-1
+title:Mining Heterogeneous Information Networks by Exploring the Power of Links. citation:-1
+title:P-Rank: a comprehensive structural similarity measure over information networks. citation:-1
+title:Mining Heterogeneous Information Networks by Exploring the Power of Links. citation:-1
+title:Subspace Discovery for Promotion: A Cell Clustering Approach. citation:-1
+title:CHRONICLE: A Two-Stage Density-Based Clustering Algorithm for Dynamic Networks. citation:-1
+title:Modeling Probabilistic Measurement Correlations for Problem Determination in Large-Scale Distributed Systems. citation:-1
+title:Locality Preserving Nonnegative Matrix Factorization. citation:-1
+title:VideoMule: a consensus learning approach to multi-label classification from noisy user-generated videos. citation:-1
+title:Integrating Novel Class Detection with Classification for Concept-Drifting Data Streams. citation:-1
+title:Top-down mining of frequent closed patterns from very high dimensional data. citation:-1
+title:Modeling Massive RFID Data Sets: A Gateway-Based Movement Graph Approach. citation:-1
+title:Mining Graph Patterns Efficiently via Randomized Summaries. citation:-1
+title:iNextCube: Information Network-Enhanced Text Cube. citation:-1
+title:Promotion Analysis in Multi-Dimensional Space. citation:-1
+title:A Particle-and-Density Based Evolutionary Clustering Method for Dynamic Networks. citation:-1
+title:Data Mining. citation:-1
+title:Frequent Itemsets and Association Rules. citation:-1
+title:Pattern-Growth Methods. citation:-1
+title:Stream Mining. citation:-1
+title:Filtering and Refinement: A Two-Stage Approach for Efficient and Effective Anomaly Detection. citation:-1
+title:Parallel PathFinder Algorithms for Mining Structures from Graphs. citation:-1
+title:iTopicModel: Information Network-Integrated Topic Modeling. citation:-1
+title:Mining Personal Image Collection for Social Group Suggestion. citation:-1
+title:Graph OLAP: a multi-dimensional framework for graph data analysis. citation:-1
+title:Topic modeling for OLAP on multidimensional text databases: topic cube and its applications. citation:-1
+title:Mining Diversity on Networks. citation:-1
+title:Incremental Clustering for Trajectories. citation:-1
+title:Mining Moving Object, Trajectory and Traffic Data. citation:-1
+title:Region-based online promotion analysis. citation:-1
+title:Fast computation of SimRank for static and dynamic information networks. citation:-1
+title:Top-K aggregation queries over large networks. citation:-1
+title:Progressive clustering of networks using Structure-Connected Order of Traversal. citation:-1
+title:TopCells: Keyword-based search of top-k aggregated documents in text cube. citation:-1
+title:Diagnostic powertracing for sensor node failure analysis. citation:-1
+title:Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (KDD-96) citation:-1
+title:Mining advisor-advisee relationships from research publication networks. citation:-1
+title:On community outliers and their efficient detection in information networks. citation:-1
+title:PET: a statistical model for popular events tracking in social communities. citation:-1
+title:Mining periodic behaviors for moving objects. citation:-1
+title:Data Mining for Diagnostic Debugging in Sensor Networks: Preliminary Evidence and Lessons Learned. citation:-1
+title:Hierarchical Web-Page Clustering via In-Page and Cross-Page Link Structures. citation:-1
+title:Structure Is Informative: On Mining Structured Information Networks. citation:-1
+title:Classification and Novel Class Detection of Data Streams in a Dynamic Feature Space. citation:-1
+title:NDPMine: Efficiently Mining Discriminative Numerical Features for Pattern-Based Classification. citation:-1
+title:Graph Regularized Transductive Classification on Heterogeneous Information Networks. citation:-1
+title:Proceedings of the Second SIAM International Conference on Data Mining, Arlington, VA, USA, April 11-13, 2002 citation:-1
+title:Mining knowledge from databases: an information network analysis approach. citation:-1
+title:MoveMine: mining moving object databases. citation:-1
+title:RankCompete: simultaneous ranking and clustering of web photos. citation:-1
+title:LINKREC: a unified framework for link recommendation with user attributes and graph structure. citation:-1
+title:Social group suggestion from user image collections. citation:-1
+title:Topic initiator detection on the world wide web. citation:-1
+title:CETR: content extraction via tag ratios. citation:-1
+title:Keyword extraction for social snippets. citation:-1
+title:Entity relation discovery from web tables and links. citation:-1
+title:A Unified Framework for Link Recommendation Using Random Walks. citation:-1
+title:Exploring optimization of semantic relationship graph for multi-relational Bayesian classification. citation:-1
+title:On Graph Query Optimization in Large Networks. citation:-1
+title:Swarm: Mining Relaxed Temporal Moving Object Clusters. citation:-1
+title:Mining topic-level influence in heterogeneous networks. citation:-1
+title:SHRINK: a structural clustering algorithm for detecting hierarchical communities in networks. citation:-1
+title:Assured Information Sharing Life Cycle. citation:-1
+title:The wisdom of social multimedia: using flickr for prediction and forecast. citation:-1
+title:A worldwide tourism recommendation system based on geotaggedweb photos. citation:-1
+title:Re-examination of interestingness measures in pattern mining: a unified framework. citation:-1
+title:Discriminative frequent subgraph mining with optimality guarantees. citation:-1
+title:Addressing Concept-Evolution in Concept-Drifting Data Streams. citation:-1
+title:gSkeletonClu: Density-Based Network Clustering via Structure-Connected Tree Division or Agglomeration. citation:-1
+title:Tru-Alarm: Trustworthiness Analysis of Sensor Networks in Cyber-Physical Systems. citation:-1
+title:Privacy-aware regression modeling of participatory sensing data. citation:-1
+title:Keyword Search in Text Cube: Finding Top-k Aggregated Cell Documents. citation:-1
+title:Methods for mining frequent items in data streams: an overview. citation:-1
+title:Survey on social tagging techniques. citation:-1
+title:Speed up kernel discriminant analysis. citation:-1
+title:Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions. citation:-1
+title:Bidirectional mining of non-redundant recurrent rules from a sequence database. citation:-1
+title:DustDoctor: A self-healing sensor data collection system. citation:-1
+title:Power watermarking: Facilitating power-based diagnosis of node silence in remote high-end sensing systems. citation:-1
+title:FAST Sequence Mining Based on Sparse Id-Lists. citation:-1
+title:Differentially private data cubes: optimizing noise sources and consistency. citation:-1
+title:Graph cube: on warehousing and OLAP multidimensional networks. citation:-1
+title:WINACS: construction and analysis of web-based computer science information networks. citation:-1
+title:Geographical topic discovery and comparison. citation:-1
+title:Trust analysis with clustering. citation:-1
+title:HyLiEn: a hybrid approach to general list extraction on the web. citation:-1
+title:Mining Discriminative Patterns for Classifying Trajectories on Road Networks. citation:-1
+title:Classification and Novel Class Detection in Concept-Drifting Data Streams under Time Constraints. citation:-1
+title:Locally Consistent Concept Factorization for Document Clustering. citation:-1
+title:Collection-based sparse label propagation and its application on social group suggestion from photos. citation:-1
+title:Expectation Maximization Clustering. citation:-1
+title:-Means Clustering. citation:-1
+title:-Medoids Clustering. citation:-1
+title:Quality Threshold Clustering. citation:-1
+title:Laplacian Regularized Gaussian Mixture Model for Data Clustering. citation:-1
+title:Graph Regularized Nonnegative Matrix Factorization for Data Representation. citation:-1
+title:Heterogeneous network-based trust analysis: a survey. citation:-1
+title:MoveMine: Mining moving object data for discovery of animal movement patterns. citation:-1
+title:SocialSpamGuard: A Data Mining-Based Spam Detection System for Social Media Networks. citation:-1
+title:On Link-based Similarity Join. citation:-1
+title:PathSim: Meta Path-Based Top-K Similarity Search in Heterogeneous Information Networks. citation:-1
+title:Mining Top-K Large Structural Patterns in a Massive Network. citation:-1
+title:Cloud-based malware detection for evolving data streams. citation:-1
+title:Locality Sensitive Hashing Based Clustering. citation:-1
+title:Mean Shift. citation:-1
+title:Partitional Clustering. citation:-1
+title:-Way Spectral Clustering. citation:-1
+title:Multi-Dimensional Analysis of Data Streams Using Stream Cubes. citation:-1
+title:Mining Graph Patterns. citation:-1
+title:On Clustering Massive Data Streams: A Summarization Paradigm. citation:-1
+title:Linear Discriminant Dimensionality Reduction. citation:-1
+title:Joint Feature Selection and Subspace Learning. citation:-1
+title:Construction and Analysis of Web-Based Computer Science Information Networks. citation:-1
+title:Unsupervised Disaggregation of Low Frequency Power Measurements. citation:-1
+title:Diversified Trajectory Pattern Ranking in Geo-tagged Social Media. citation:-1
+title:Exposing Complex Bug-Triggering Conditions in Distributed Systems via Graph Mining. citation:-1
+title:Hierarchical aggregate classification with limited supervision for data reduction in wireless sensor networks. citation:-1
+title:Geo-Friends Recommendation in GPS-based Cyber-physical Social Network. citation:-1
+title:Evolutionary Clustering and Analysis of Bibliographic Networks. citation:-1
+title:Co-author Relationship Prediction in Heterogeneous Bibliographic Networks. citation:-1
+title:SCENE: Structural Conversation Evolution NEtwork. citation:-1
+title:Learning online discussion structures by conditional random fields. citation:-1
+title:Authorship classification: a discriminative syntactic tree mining approach. citation:-1
+title:Collective topic modeling for heterogeneous networks. citation:-1
+title:Learning relevance from heterogeneous social network and its application in online targeting. citation:-1
+title:Retrieving k-Nearest Neighboring Trajectories by a Set of Point Locations. citation:-1
+title:Finding Top-k Shortest Path Distance Changes in an Evolutionary Network. citation:-1
+title:Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models. citation:-1
+title:Mining periodic behaviors of object movements for animal and biological sustainability studies. citation:-1
+title:Relation Strength-Aware Clustering of Heterogeneous Information Networks with Incomplete Attributes citation:-1
+title:Relation Strength-Aware Clustering of Heterogeneous Information Networks with Incomplete Attributes. citation:-1
+title:A Spectral Framework for Detecting Inconsistency across Multi-source Object Relationships. citation:-1
+title:The Joint Inference of Topic Diffusion and Evolution in Social Communities. citation:-1
+title:Signature Pattern Covering via Local Greedy Algorithm and Pattern Shrink. citation:-1
+title:Detecting Recurring and Novel Classes in Concept-Drifting Data Streams. citation:-1
+title:Generalized Fisher Score for Feature Selection. citation:-1
+title:An Overview of Social Tagging and Applications. citation:-1
+title:Probabilistic Models for Text Mining. citation:-1
+title:When will it happen?: relationship prediction in heterogeneous information networks. citation:-1
+title:LikeMiner: a system for mining the power of 'like' in social media networks. citation:-1
+title:Ranking-based classification of heterogeneous information networks. citation:-1
+title:Probabilistic topic models with biased propagation on heterogeneous information networks. citation:-1
+title:Locality Preserving Feature Learning. citation:-1
+title:A Bayesian Approach to Discovering Truth from Conflicting Sources for Data Integration citation:-1
+title:Generalized Fisher Score for Feature Selection citation:-1
+title:Survey on web spam detection: principles and algorithms. citation:-1
+title:A Bayesian Approach to Discovering Truth from Conflicting Sources for Data Integration. citation:-1
+title:Query evaluation and optimization in deductive and object-oriented spatial databases. citation:-1
+title:Modeling and exploiting heterogeneous bibliographic networks for expertise ranking. citation:-1
+title:BlueFinder: estimate where a beach photo was taken. citation:-1
+title:Optimizing index for taxonomy keyword search. citation:-1
+title:Mining Heterogeneous Information Networks: The Next Frontier citation:-1
+title:Facing the reality of data stream classification: coping with scarcity of labeled data. citation:-1
+title:Uncertainty Reduction for Knowledge Discovery and Information Extraction on the World Wide Web. citation:-1
+title:Mining Knowledge from Interconnected Data: A Heterogeneous Information Network Analysis Approach. citation:-1
+title:RankCompete: Simultaneous ranking and clustering of information networks. citation:-1
+title:Data Mining - Know It All. citation:-1
+title:Mining Heterogeneous Information Networks: Principles and Methodologies citation:-1
+title:Community Trend Outlier Detection Using Soft Temporal Pattern Mining. citation:-1
+title:IntruMine: Mining Intruders in Untrustworthy Data of Cyber-physical Systems. citation:-1
+title:On Discovery of Traveling Companions from Streaming Trajectories. citation:-1
+title:Mining Knowledge from Data: An Information Network Analysis Approach. citation:-1
+title:Analysis and Refinement of Cross-Lingual Entity Linking. citation:-1
+title:The Sparse Regression Cube: A Reliable Modeling Technique for Open Cyber-Physical Systems. citation:-1
+title:Building enriched web page representations using link paths. citation:-1
+title:Construction of Web-Based, Service-Oriented Information Networks: A Data Mining Perspective - (Abstract). citation:-1
+title:Integrating community matching and outlier detection for mining evolutionary community outliers. citation:-1
+title:Parallel field ranking. citation:-1
+title:Query-driven discovery of semantically similar substructures in heterogeneous networks. citation:-1
+title:Integrating meta-path selection with user-guided object clustering in heterogeneous information networks. citation:-1
+title:Mining event periodicity from incomplete observations. citation:-1
+title:Multidimensional Sensor Data Analysis in Cyber-Physical System: An Atypical Cube Approach. citation:-1
+title:Latent Community Topic Analysis: Integration of Community Discovery with Topic Modeling. citation:-1
+title:User guided entity similarity search using meta-path selection in heterogeneous information networks. citation:-1
+title:Document-topic hierarchies from document graphs. citation:-1
+title:Feature selection using dynamic weights for classification. citation:-1
+title:Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (KDD-96), Portland, Oregon, USA citation:-1
+title:Reinforced Similarity Integration in Image-Rich Information Networks. citation:-1
+title:Trustworthiness analysis of sensor data in cyber-physical systems. citation:-1
+title:Towards Active Learning on Graphs: An Error Bound Minimization Approach. citation:-1
+title:Predicting Links in Multi-relational and Heterogeneous Networks. citation:-1
+title:Stream Classification with Recurring and Novel Class Detection Using Class-Based Ensemble. citation:-1
+title:ETM: Entity Topic Models for Mining Documents Associated with Entities. citation:-1
+title:Quality of Information Based Data Selection and Transmission in Wireless Sensor Networks. citation:-1
+title:A Simple Algorithm for Semi-supervised Learning with Improved Generalization Error Bound. citation:-1
+title:Exploring structure and content on the web: extraction and integration of the semi-structured web. citation:-1
+title:Efficient Direct Mining of Selective Discriminative Patterns for Classification. citation:-1
+title:Tweet Ranking Based on Heterogeneous Networks. citation:-1
+title:A Text Cube Approach to Human, Social and Cultural Behavior in the Twitter Stream. citation:-1
+title:Selective Labeling via Error Bound Minimization. citation:-1

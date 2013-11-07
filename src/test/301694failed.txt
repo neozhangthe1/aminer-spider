@@ -1,0 +1,396 @@
+title:A Robust High-Throughput Tree Algorithm Using Successive Interference Cancellation. citation:-1
+title:Estimation of Doppler spread and signal strength in mobile communications with applications to handoff and adaptive transmission. citation:-1
+title:Space-time spreading and block coding for correlated fading channels in the presence of interference. citation:-1
+title:OFDM with Trailing Zeros versus OFDM with Cyclic Prefix: Links, Comparisons, and Application to the HiperLAN/2 System. citation:-1
+title:Achievable rates in low-power relay links over fading channels. citation:-1
+title:Blind identification of multichannel FIR blurs and perfect image restoration. citation:-1
+title:Group-orthogonal multicarrier CDMA. citation:-1
+title:Block-differential modulation over doubly selective wireless fading channels. citation:-1
+title:Deterministic Time-Varying Packet Fair Queueing for Integrated Services Networks. citation:-1
+title:How accurate channel prediction needs to be for transmit-beamforming with adaptive modulation over Rayleigh MIMO channels? citation:-1
+title:Optimal pilot waveform assisted modulation for ultrawideband communications. citation:-1
+title:Packet Fair Queueing Scheduling Based on Multirate Multipath-Transparent CDMA for Wireless Networks. citation:-1
+title:Opportunistic medium access for wireless networking adapted to decentralized CSI. citation:-1
+title:Space-time coding for broadband wireless communications. citation:-1
+title:Resource Allocation for Power-Efficient TDMA Under Individual Rate Constraints. citation:-1
+title:Sphere decoding algorithms with improved radius search. citation:-1
+title:Multiantenna adaptive modulation with beamforming based on bandwidth-constrained feedback. citation:-1
+title:Optimizing Power Efficiency of OFDM Using Quantized Channel State Information. citation:-1
+title:Bibliography on cyclostationarity. citation:-1
+title:Layer separability of wireless networks. citation:-1
+title:Filterbank Transceivers Optimizing Information Rate in Block Transmissions over Dispersive Channels. citation:-1
+title:Optimal Distributed Stochastic Routing Algorithms for Wireless Multihop Networks. citation:-1
+title:A GLRT approach to data-aided timing acquisition in UWB radios-Part I: algorithms. citation:-1
+title:Multi-source cooperation with full-diversity spectral-efficiency and controllable-complexity. citation:-1
+title:Minimizing Transmit Power for Coherent Communications in Wireless Sensor Networks With Finite-Rate Feedback. citation:-1
+title:Capacity Maximizing MMSE-Optimal Pilots for Wireless OFDM Over Frequency-Selective Block Rayleigh-Fading Channels. citation:-1
+title:Utility-based power control for peer-to-peer cognitive radio networks with heterogeneous QoS constraints. citation:-1
+title:Image modeling using inverse filtering criteria with application to textures. citation:-1
+title:Bispectral analysis and model validation of texture images. citation:-1
+title:Achieving the Welch bound with difference sets. citation:-1
+title:Performance analysis of combined transmit selection diversity and receive generalized selection combining in Rayleigh fading channels. citation:-1
+title:Anti-jam distributed MIMO decoding using wireless sensor networks. citation:-1
+title:Correction to "Achieving the Welch Bound With Difference Sets". citation:-1
+title:Time-varying fair queueing scheduling for multicode CDMA based on dynamic programming. citation:-1
+title:Image Modeling Using Inverse Filtering Criteria with Application to Texture Images. citation:-1
+title:A Stochastic Framework for Scheduling in Wireless Packet Access Networks. citation:-1
+title:Noncoherent Ultra-Wideband (De)Modulation. citation:-1
+title:Smart regenerative relays for link-adaptive cooperative communications. citation:-1
+title:Block redundant constant modulus algorithm for channel-irrespective blind identifiability. citation:-1
+title:A High-Rate Differential UWB Radio. citation:-1
+title:Distributed Scheduling and Resource Allocation for Cognitive OFDMA Radios. citation:-1
+title:Max-Min Strategies for Power-Limited Games in the Presence of Correlated Jamming. citation:-1
+title:Conditions for Multi-Antenna Selection to be Optimal Given Channel Amplitude Information. citation:-1
+title:Cross-layer scheduling with prescribed QoS guarantees in adaptive wireless networks. citation:-1
+title:Low-complexity blind synchronization and demodulation for (ultra-)wideband multi-user ad hoc access. citation:-1
+title:Analog space-time coding for multiantenna ultra-wideband transmissions. citation:-1
+title:Non-coherent distributed space-time processing for multiuser cooperative transmissions. citation:-1
+title:Stability analysis of the consensus-based distributed LMS algorithm. citation:-1
+title:Timing ultra-wideband signals with dirty templates. citation:-1
+title:High-Throughput Random Access Using Successive Interference Cancellation in a Tree Algorithm. citation:-1
+title:Space-time-Doppler block coding for correlated time-selective fading channels. citation:-1
+title:Battery Power Efficiency of PPM and FSK in Wireless Sensor Networks. citation:-1
+title:Link-Adaptive Distributed Coding for Multi-Source Cooperation. citation:-1
+title:Robust Routing in Wireless Multi-Hop Networks. citation:-1
+title:Semiblind multiuser MIMO channel estimation using capon and MUSIC techniques. citation:-1
+title:Crossband Flexible UWB Multiple Access for High-Rate Multipiconet WPANs. citation:-1
+title:Object and Texture Classification Using Higher Order Statistics. citation:-1
+title:A GLRT approach to data-aided timing acquisition in UWB radios-Part II: training sequence design. citation:-1
+title:Optimal FDMA over wireless fading mobile ad-hoc networks. citation:-1
+title:High-Throughput Cooperative Communications with Complex Field Network Coding. citation:-1
+title:Joint coding-precoding with low-complexity turbo-decoding. citation:-1
+title:BER sensitivity to mistiming in ultra-wideband impulse Radios-part I: nonrandom channels. citation:-1
+title:Channel-Adaptive Optimal OFDMA Scheduling. citation:-1
+title:Chip-interleaved block-spread CDMA for the downlink with inter-cell interference and soft hand-off. citation:-1
+title:On regularity and identifiability of blind source separation under constant-modulus constraints. citation:-1
+title:Space-time-multipath coding using digital phase sweeping or circular delay diversity. citation:-1
+title:Adaptive Modulation for multiantenna transmissions with channel mean feedback. citation:-1
+title:OFDM or single-carrier block transmissions? citation:-1
+title:Distributed Estimation Using Reduced-Dimensionality Sensor Observations. citation:-1
+title:Approaching MIMO channel capacity with soft detection based on hard sphere decoding. citation:-1
+title:Distributed Kalman filtering based on quantized innovations. citation:-1
+title:A unifying maximum-likelihood view of cumulant and polyspectral measures for non-Gaussian signal classification and estimation. citation:-1
+title:BER sensitivity to mistiming in ultra-wideband impulse radios - part II: fading channels. citation:-1
+title:Energy-Efficient Scheduling for Wireless Sensor Networks. citation:-1
+title:Local ML detection for multicarrier DS-CDMA downlink systems with grouped linear precoding. citation:-1
+title:Blind carrier frequency offset estimation in SISO, MIMO, and multiuser OFDM systems. citation:-1
+title:A harmonic retrieval framework for discontinuous motion estimation. citation:-1
+title:Spatiotemporal approach for time-varying global image motion estimation. citation:-1
+title:Modelling and Optimization of Stochastic Routing for Wireless Multi-Hop Networks. citation:-1
+title:Power-efficient wireless OFDMA using limited-rate feedback. citation:-1
+title:Complex field coded MIMO systems: performance, rate, and trade-offs. citation:-1
+title:Maximum-diversity transmissions over doubly selective wireless channels. citation:-1
+title:Bandwidth-constrained distributed estimation for wireless sensor networks-part II: unknown probability density function. citation:-1
+title:Power-Efficient Resource Allocation for Time-Division Multiple Access Over Fading Channels. citation:-1
+title:Cross-Layer Congestion and Contention Control for Wireless Ad Hoc Networks. citation:-1
+title:Hopping pilots for estimation of frequency-offset and multiantenna channels in MIMO-OFDM. citation:-1
+title:Block differential encoding for rapidly fading channels. citation:-1
+title:Complex Field Network Coding for Multiuser Cooperative Communications. citation:-1
+title:Power-Efficient Resource Allocation and Quantization for TDMA Using Adaptive Transmission and Limited-Rate Feedback. citation:-1
+title:Optimal stochastic dual resource allocation for cognitive radios based on quantized CSI. citation:-1
+title:Design and Analysis of Cross-Layer Tree Algorithms for Wireless Random Access. citation:-1
+title:Chip-interleaved block-spread CDMA versus DS-CDMA for cellular downlink: a comparative study. citation:-1
+title:Cross-layer modeling of adaptive wireless links for QoS support in heterogeneous wired-wireless networks. citation:-1
+title:Optimizing Orthogonal Multiple Access based on Quantized Channel State Information citation:-1
+title:Orthogonally-spread block transmissions for ultra-wideband impulse radios. citation:-1
+title:Rate-maximizing power allocation in OFDM based on partial channel knowledge. citation:-1
+title:Reduced complexity receivers for layered space-time CPM. citation:-1
+title:Optimal waveform design for UWB radios. citation:-1
+title:On energy efficiency and optimum resource allocation of relay transmissions in the low-power regime. citation:-1
+title:Achievable Rates of Transmitted-Reference Ultra-Wideband Radio With PPM. citation:-1
+title:Orthogonal Design of Unitary Constellations for Uncoded and Trellis-Coded Noncoherent Space-Time Systems. citation:-1
+title:Optimal training for MIMO frequency-selective fading channels. citation:-1
+title:Optimal transmitter eigen-beamforming and space-time block coding based on channel correlations. citation:-1
+title:Polyspectral analysis of mixed processes and coupled harmonics. citation:-1
+title:Single-carrier space-time block-coded transmissions over frequency-selective fading channels. citation:-1
+title:Adaptive PSAM accounting for channel estimation and prediction errors. citation:-1
+title:Identifying differentially expressed genes in microarray experiments with model-based variance estimation. citation:-1
+title:A harmonic retrieval framework for discontinuous motion estimation. citation:-1
+title:Cyclic-mean based synchronization and efficient demodulation for UWB ad hoc access: Generalizations and comparisons. citation:-1
+title:Spatio-Temporal Approach for Time-Varying Image Motion Estimation. citation:-1
+title:A bibliography on nonlinear system identification. citation:-1
+title:Asymptotic analysis of blind cyclic correlation-based symbol-rate estimators. citation:-1
+title:Complex-field coding for OFDM over fading wireless channels. citation:-1
+title:Orthogonal multiple access over time- and frequency-selective channels. citation:-1
+title:Multi-Tier Cooperative Broadcasting with Hierarchical Modulations. citation:-1
+title:Space-time frequency-shift keying. citation:-1
+title:Achieving Wireline Random Access Throughput in Wireless Networking Via User Cooperation. citation:-1
+title:Raise Your Voice at a Proper Pace to Synchronize in Multiple Ad Hoc Piconets. citation:-1
+title:Consensus in Ad Hoc WSNs With Noisy Links - Part II: Distributed Estimation and Smoothing of Random Signals. citation:-1
+title:Decentralized Quantized Kalman Filtering With Scalable Communication Cost. citation:-1
+title:Reduced-Complexity Power-Efficient Wireless OFDMA using an Equally Probable CSI Quantizer. citation:-1
+title:Energy-Efficient Resource Allocation in Time Division Multiple-Access over Fading Channels citation:-1
+title:In-network channel decoding using consensus on log-likelihood ratio averagesy. citation:-1
+title:Asymptotic theory of mixed time averages and k th-order cyclic-moment and cumulant statistics. citation:-1
+title:CRC-assisted error correction in a convolutionally coded system. citation:-1
+title:Consensus in Ad Hoc WSNs With Noisy Links - Part I: Distributed Estimation of Deterministic Signals. citation:-1
+title:Differential space-time modulation with eigen-beamforming for correlated MIMO fading channels. citation:-1
+title:Cross-Layer Scheduler Design with QoS Support forWireless Access Networks. citation:-1
+title:Constant modulus and reduced PAPR block differential encoding for frequency-selective channels. citation:-1
+title:Cross-Layer Modeling of Adaptive Wireless Links for QoS Support in Multimedia Networks. citation:-1
+title:Outage mutual information of space-time MIMO channels. citation:-1
+title:Joint Congestion Control and OFDMA Scheduling for Hybrid Wireline-Wireless Networks. citation:-1
+title:On the instability of slotted aloha with capture. citation:-1
+title:Block Spreading for MUI/ISI-Resilient Generalized Multi-Carrier CDMA with Multirate Capabilities. citation:-1
+title:Design and analysis of transmit-beamforming based on limited-rate feedback. citation:-1
+title:Bandwidth-constrained distributed estimation for wireless sensor Networks-part I: Gaussian case. citation:-1
+title:SICTA: a 0.693 contention tree algorithm using successive interference cancellation. citation:-1
+title:Nonparametric cyclic- polyspectral analysis of AM signals and processes with missing observations. citation:-1
+title:Nonparametric polyspectral estimators for th-order (almost) cyclostationary processes. citation:-1
+title:Information-Bearing Noncoherently Modulated Pilots for MIMO Training. citation:-1
+title:Cooperative multi-robot localization under communication constraints. citation:-1
+title:Image motion estimation algorithms using cumulants. citation:-1
+title:Direct blind equalizers of multiple FIR channels: a deterministic approach. citation:-1
+title:Consensus-based distributed expectation-maximization algorithm for density estimation and classification using wireless sensor networks. citation:-1
+title:Mutual Information Jammer-Relay Games. citation:-1
+title:Multicarrier multiple access is sum-rate optimal for block transmissions over circulant ISI channels. citation:-1
+title:Consensus-based distributed linear support vector machines. citation:-1
+title:Capacity scaling of wireless networks with complex field network coding. citation:-1
+title:Cross-layer optimization of wireless fading ad-hoc networks. citation:-1
+title:RLS-weighted Lasso for adaptive estimation of sparse signals. citation:-1
+title:Stochastic resource allocation for orthogonal access based on quantized CSI: Optimality, convergence and delay analysis. citation:-1
+title:An algebraic polyphase approach to wireless network coding. citation:-1
+title:Cross-Layer Designs in Coded Wireless Fading Networks with Multicast citation:-1
+title:Sparsity-Cognizant Total Least-Squares for Perturbed Compressive Sampling citation:-1
+title:Power Control with Imperfect Exchanges and Applications to Spectrum Sharing citation:-1
+title:Capacity Scaling of Wireless Networks with Complex Field Network Coding. citation:-1
+title:Load-Adaptive MUI/ISI-Resilient Generalized Multi-Carrier CDMA with Linear and DF Receivers. citation:-1
+title:Combining Galois with complex field coding for space-time communications. citation:-1
+title:Sparsity-cognizant overlapping co-clustering for behavior inference in social networks. citation:-1
+title:Multiple frequency-hopping signal estimation via sparse regression. citation:-1
+title:Particle filter adaptation for distributed sensors via set membership. citation:-1
+title:Distributed Lasso for in-network linear regression. citation:-1
+title:Sequential cooperative sensing for multi-channel cognitive radios. citation:-1
+title:Convergence analysis of consensus-based distributed clustering. citation:-1
+title:Stochastic cross-layer resource allocation for wireless networks using orthogonal access: Optimality and delay analysis. citation:-1
+title:From Sparse Signals to Sparse Residuals for Robust Sensing citation:-1
+title:Power control for cooperative dynamic spectrum access networks with diverse QoS constraints. citation:-1
+title:Minimum-Delay Spectrum Sensing for Multi-Band Cognitive Radios. citation:-1
+title:Separation principles in wireless networking. citation:-1
+title:Sound Field Reproduction using the Lasso. citation:-1
+title:Dynamic resource management for cognitive radios using limited-rate feedback. citation:-1
+title:Distributed in-network channel decoding. citation:-1
+title:Distributed recursive least-squares for consensus-based in-network adaptive estimation. citation:-1
+title:Distributed LMS for consensus-based in-network adaptive processing. citation:-1
+title:Power-efficient dimensionality reduction for distributed channel-aware kalman tracking using WSNs. citation:-1
+title:Sequential and cooperative sensing for multi-channel cognitive radios. citation:-1
+title:Distributed sparse linear regression. citation:-1
+title:Estimating multiple frequency-hopping signal parameters via sparse linear regression. citation:-1
+title:Online adaptive estimation of sparse signals: where RLS meets the l1-norm. citation:-1
+title:Distributed spectrum sensing for cognitive radio networks by exploiting sparsity. citation:-1
+title:Distributed consensus-based demodulation: algorithms and error analysis. citation:-1
+title:A class of convergent algorithms for resource allocation in wireless fading networks. citation:-1
+title:Cross-layer design of coded multicast for wireless random access networks. citation:-1
+title:Cooperative multi-residence demand response scheduling. citation:-1
+title:Sparse Volterra and Polynomial Regression Models: Recoverability and Estimation citation:-1
+title:Estimating the State of AC Power Systems using Semidefinite Programming citation:-1
+title:Doubly Robust Smoothing of Dynamical Processes via Outlier Sparsity Constraints citation:-1
+title:Tracking Target Signal Strengths on a Grid using Sparsity citation:-1
+title:Robust Clustering Using Outlier-Sparsity Regularization citation:-1
+title:Lassoing Line Outages in the Smart Power Grid citation:-1
+title:Consensus-Based Distributed Support Vector Machines. citation:-1
+title:Exploiting Sparse User Activity in Multiuser Detection. citation:-1
+title:Optimal Resource Allocation for MIMO Ad Hoc Cognitive Radio Networks. citation:-1
+title:Sparsity-Cognizant Total Least-Squares for Perturbed Compressive Sampling. citation:-1
+title:High-Throughput Multi-Source Cooperation via Complex-Field Network Coding. citation:-1
+title:Sparsity-Aware Estimation of CDMA System Parameters. citation:-1
+title:Performance Analysis of the Consensus-Based Distributed LMS Algorithm. citation:-1
+title:Rate-Optimal and Reduced-Complexity Sequential Sensing Algorithms for Cognitive OFDM Radios. citation:-1
+title:Energy-Constrained Optimal Quantization for Wireless Sensor Networks. citation:-1
+title:Distortion-Rate Bounds for Distributed Estimation Using Wireless Sensor Networks. citation:-1
+title:Link-Adaptive Distributed Coding for Multisource Cooperation. citation:-1
+title:Reliable Communications over Rapidly Time-Varying Channels. citation:-1
+title:Generalized Multicarrier CDMA: Unification and Linear Equalization. citation:-1
+title:Multi-Band Cognitive Radio Spectrum Sensing for Quality-of-Service Traffic. citation:-1
+title:Power Control for Cognitive Radio Networks Under Channel Uncertainty. citation:-1
+title:Doubly Robust Smoothing of Dynamical Processes via Outlier Sparsity Constraints. citation:-1
+title:From Sparse Signals to Sparse Residuals for Robust Sensing. citation:-1
+title:Group-Lasso on Splines for Spectrum Cartography. citation:-1
+title:Set-Membership Constrained Particle Filter: Distributed Adaptation for Sensor Networks. citation:-1
+title:Power Control With Imperfect Exchanges and Applications to Spectrum Sharing. citation:-1
+title:Optimizing Orthogonal Multiple Access Based on Quantized Channel State Information. citation:-1
+title:Joint Scheduling and Network Coding for Multicast in Delay-Constrained Wireless Networks. citation:-1
+title:Sparse Volterra and Polynomial Regression Models: Recoverability and Estimation. citation:-1
+title:Cooperative Spectrum Sensing for Cognitive Radios Using Kriged Kalman Filtering. citation:-1
+title:Distributed Clustering Using Wireless Sensor Networks. citation:-1
+title:Cross-Layer Designs in Coded Wireless Fading Networks With Multicast. citation:-1
+title:Distributed Recursive Least-Squares: Stability and Performance Analysis citation:-1
+title:Cross-Layer Design of Coded Multicast for Wireless Random Access Networks. citation:-1
+title:Resource Allocation for Wireless Multiuser OFDM Networks. citation:-1
+title:Weighted and structured sparse total least-squares for perturbed compressive sampling. citation:-1
+title:Sparse graphical modeling of piecewise-stationary time series. citation:-1
+title:Outlier-aware robust clustering. citation:-1
+title:Robust nonparametric regression by controlling sparsity. citation:-1
+title:Basis pursuit for spectrum cartography. citation:-1
+title:Stochastic resource allocation for cognitive radio networks based on imperfect state information. citation:-1
+title:Resource allocation for OFDMA cognitive radios under channel uncertainty. citation:-1
+title:Eigenspace sparsity for compression and denoising. citation:-1
+title:USPACOR: Universal sparsity-controlling outlier rejection. citation:-1
+title:Rate-optimal and reduced-complexity sequential sensing algorithms for cognitive OFDM radios. citation:-1
+title:Parsimonious sound field synthesis using compressive sampling. citation:-1
+title:Linear constellation precoding for OFDM with maximum multipath diversity and coding gains. citation:-1
+title:Chip-interleaved block-spread code division multiple access. citation:-1
+title:All-digital impulse radio with multiuser detection for wireless cellular systems. citation:-1
+title:Bounding performance and suppressing intercarrier interference in wireless mobile OFDM. citation:-1
+title:Turbo demodulation of zero-padded OFDM transmissions. citation:-1
+title:Optimal training and redundant precoding for block transmissions with application to wireless OFDM. citation:-1
+title:Digital multi-carrier spread spectrum versus direct sequence spread spectrum for resistance to jamming and multipath. citation:-1
+title:Bandwidth- and power-efficient multicarrier multiple access. citation:-1
+title:AMOUR-generalized multicarrier transceivers for blind CDMA regardless of multipath. citation:-1
+title:Space-time coding and Kalman filtering for time-selective fading channels. citation:-1
+title:Kalman filtering for power estimation in mobile communications. citation:-1
+title:The Ricean K factor: estimation and performance analysis. citation:-1
+title:Average-rate optimal PSAM transmissions over time-selective fading channels. citation:-1
+title:Block differentially encoded OFDM with maximum multipath diversity. citation:-1
+title:Transmitter redundancy for blind estimation and equalization of time- and frequency-selective channels. citation:-1
+title:Product high-order ambiguity function for multicomponent polynomial-phase signal modeling. citation:-1
+title:Modeling (almost) periodic moving average processes using cyclic statistics. citation:-1
+title:Deterministic approaches for blind equalization of time-varying channels with antenna arrays. citation:-1
+title:Blind channel and carrier frequency offset estimation using periodic modulation precoders. citation:-1
+title:Blind identification of ARMA channels with periodically modulated inputs. citation:-1
+title:Performance analysis of blind carrier phase estimators for general QAM constellations. citation:-1
+title:Transceiver optimization for block-based multiple access through ISI channels. citation:-1
+title:Generalized differential encoding: a nonlinear signal processing perspective. citation:-1
+title:Blind channel identification and equalization with modulation-induced cyclostationarity. citation:-1
+title:Sensor-Centric Data Reduction for Estimation With WSNs via Censoring and Quantization. citation:-1
+title:Adaptive MIMO-OFDM based on partial channel state information. citation:-1
+title:On polynomial phase signals with time-varying amplitudes. citation:-1
+title:Lagrange/Vandermonde MUI eliminating user codes for quasi-synchronous CDMA in unknown multipath. citation:-1
+title:Time-averaged subspace methods for radar clutter texture retrieval. citation:-1
+title:Noisy input/output system identification using cumulants and the Steiglitz-McBride algorithm. citation:-1
+title:Blind channel identification and equalization using periodic modulation precoders: performance analysis. citation:-1
+title:Robust PCA as Bilinear Decomposition with Outlier-Sparsity Regularization citation:-1
+title:Covariance Eigenvector Sparsity for Compression and Denoising citation:-1
+title:Power Allocation for Cognitive Radio Networks under Channel Uncertainty. citation:-1
+title:Block FIR decision-feedback equalizers for filterbank precoded transmissions with blind channel estimation capabilities. citation:-1
+title:Block precoding for MUI/ISI-resilient generalized multicarrier CDMA with multirate capabilities. citation:-1
+title:Space-time block-coded multiple access through frequency-selective fading channels. citation:-1
+title:Double differential space-time block coding for time-selective fading channels. citation:-1
+title:Long codes for generalized FH-OFDMA through unknown multipath channels. citation:-1
+title:Finite-alphabet based channel estimation for OFDM and related multicarrier systems. citation:-1
+title:Joint symbol timing and channel estimation for OFDM based WLANs. citation:-1
+title:High-rate space-time layered OFDM. citation:-1
+title:Design of user codes in QS-CDMA systems for MUI elimination in unknown multipath. citation:-1
+title:On the estimation of the K parameter for the Rice fading distribution. citation:-1
+title:Counterexamples to `On estimating noncausal nonminimum phase ARMA models of non-Gaussian processes' [and reply]. citation:-1
+title:Guest editorial. citation:-1
+title:Transmitter induced cyclostationarity for blind channel equalization. citation:-1
+title:Subspace-based (semi-) blind channel estimation for block precoded space-time OFDM. citation:-1
+title:Harmonics in multiplicative and additive noise: parameter estimation using cyclic statistics. citation:-1
+title:Blind estimation of direct sequence spread spectrum signals in multipath. citation:-1
+title:Full-diversity full-rate complex-field space-time coding. citation:-1
+title:Performance analysis of blind carrier frequency offset estimators for noncircular transmissions through frequency-selective channels. citation:-1
+title:Estimating random amplitude polynomial phase signals: a cyclostationary approach. citation:-1
+title:Harmonics in multiplicative and additive noise: performance analysis of cyclic estimators. citation:-1
+title:Subspace methods for blind estimation of time-varying FIR channels. citation:-1
+title:Capon multiuser receiver for CDMA systems with space-time coding. citation:-1
+title:Space-time block-coded OFDMA with linear precoding for multirate services. citation:-1
+title:Strongly consistent identification algorithms and noise insensitive MSE criteria. citation:-1
+title:Linear multichannel blind equalizers of nonlinear FIR Volterra channels. citation:-1
+title:Performance analysis of a deterministic channel estimator for block transmission systems with null guard intervals. citation:-1
+title:Harmonic retrieval using higher order statistics: a deterministic formulation. citation:-1
+title:Blind fractionally spaced equalization of noisy FIR channels: direct and adaptive solutions. citation:-1
+title:Harmonics in Gaussian multiplicative and additive noise: Cramer-Rao bounds. citation:-1
+title:Principal component filter banks for optimal multiresolution analysis. citation:-1
+title:Optimal decorrelating receivers for DS-CDMA systems: a signal processing framework. citation:-1
+title:Retrieval of self-coupled harmonics. citation:-1
+title:Asymptotically optimal blind fractionally spaced channel estimation and performance analysis. citation:-1
+title:Transmit antennae space-time block coding for generalized OFDM in the presence of unknown multipath. citation:-1
+title:Non-data-aided carrier offset estimators for OFDM with null subcarriers: identifiability, algorithms, and performance. citation:-1
+title:Stochastic Primal-Dual Scheduling Subject to Rate Constraints. citation:-1
+title:Minimizing Power in Wireless OFDMA with Limited-Rate Feedback. citation:-1
+title:Group lassoing change-points in piecewise-constant AR. citation:-1
+title:Frequency offset and symbol timing recovery in flat-fading channels: a cyclostationary approach. citation:-1
+title:Consistent identification of stochastic linear systems with noisy input-output data. citation:-1
+title:Lessons in digital estimation theory: Jerry M. Mendel. citation:-1
+title:Identifiability of general ARMA processes using linear cumulant-based estimators. citation:-1
+title:Bibliography on higher-order statistics. citation:-1
+title:Time-varying system identification and model validation using wavelets. citation:-1
+title:Covariance Eigenvector Sparsity for Compression and Denoising. citation:-1
+title:Cross-Layer Design of Wireless Multihop Random Access Networks. citation:-1
+title:Estimation and detection in non-Gaussian noise using higher order statistics. citation:-1
+title:Robust Nonparametric Regression via Sparsity Control With Application to Load Curve Data Cleansing. citation:-1
+title:Robust RLS in the Presence of Correlated Noise Using Outlier Sparsity. citation:-1
+title:Detection and parameter estimation of multiple nonGaussian sources via higher order statistics. citation:-1
+title:Time-domain tests for Gaussianity and time-reversibility. citation:-1
+title:Signal selective localization of nonGaussian cyclostationary sources. citation:-1
+title:Parameter estimation of cyclostationary AM time series with application to missing observations. citation:-1
+title:Multichannel ARMA processes. citation:-1
+title:Recovery of Low-Rank Plus Compressed Sparse Matrices with Application to Unveiling Traffic Anomalies citation:-1
+title:Dynamic Network Delay Cartography citation:-1
+title:In-network Sparsity-regularized Rank Minimization: Algorithms and Applications citation:-1
+title:Residential Load Control: Distributed Scheduling and Convergence With Lost AMI Messages. citation:-1
+title:Multichannel blind signal separation and reconstruction. citation:-1
+title:Space-time-frequency block coded OFDM with subcarrier grouping and constellation precoding. citation:-1
+title:Optimal transmitter eigen-beamforming and space time block coding based on channel mean. citation:-1
+title:Chip-Interleaved Block-Spread CDMA or DS-CDMA for cellular downlink? citation:-1
+title:Space-Time-Doppler coding over time-selective fading channels with maximum diversity and coding gains. citation:-1
+title:Optimal training for block transmissions over doubly-selective fading channels. citation:-1
+title:Residential demand response with interruptible tasks: Duality and algorithms. citation:-1
+title:Ergodic capacity and average rate-guaranteed scheduling for wireless multiuser OFDM systems. citation:-1
+title:Sparsity-embracing multiuser detection for CDMA systems with low activity factory. citation:-1
+title:Demodulation with dirty templates for UWB impulse radios. citation:-1
+title:Efficient bandwidth utilization guaranteeing QoS over adaptive wireless links. citation:-1
+title:Opportunistic access in slotted ALOHA adapted to decentralized CSI. citation:-1
+title:Non-coherent distributed space-time processing for multiuser cooperative transmissions. citation:-1
+title:A robust high-throughput tree algorithm using successive interference cancellation. citation:-1
+title:Equalization of rapidly fading channels: self-recovering methods. citation:-1
+title:Robust Clustering Using Outlier-Sparsity Regularization. citation:-1
+title:Distributed Recursive Least-Squares: Stability and Performance Analysis. citation:-1
+title:Robust PCA as Bilinear Decomposition With Outlier-Sparsity Regularization. citation:-1
+title:Sparsity-Exploiting Robust Multidimensional Scaling. citation:-1
+title:Dynamic Anomalography: Tracking Network Anomalies via Sparsity and Low Rank citation:-1
+title:Distributed Optimal Beamformers for Cognitive Radios Robust to Channel Uncertainties citation:-1
+title:Robust Power System State Estimation for the Nonlinear AC Flow Model citation:-1
+title:Statistical Routing for Multihop Wireless Cognitive Networks citation:-1
+title:Robust Management of Distributed Energy Resources for Microgrids with Renewables citation:-1
+title:Distributed Optimal Beamformers for Cognitive Radios Robust to Channel Uncertainties. citation:-1
+title:Distributed Optimal Power Flow for Smart Microgrids citation:-1
+title:Statistical Routing for Multihop Wireless Cognitive Networks. citation:-1
+title:Weighted sparse signal decomposition. citation:-1
+title:Statistical routing for cognitive random access networks. citation:-1
+title:Distributed belief propagation using sensor networks with correlated observations. citation:-1
+title:Chance-constrained optimization of uplink parameters for OFDMA cognitive radios. citation:-1
+title:Distributed robust beamforming for MIMO cognitive networks. citation:-1
+title:Combining random backoff with a cross-layer tree algorithm for random access in IEEE 802.16. citation:-1
+title:On the instability of slotted Aloha with capture. citation:-1
+title:Approaching MIMO channel capacity with reduced-complexity soft sphere decoding. citation:-1
+title:Bandwidth- and power-efficient multi-carrier multiple access. citation:-1
+title:Sphere decoding algorithms with improved radius search. citation:-1
+title:Gene network inference via sparse structural equation modeling with genetic perturbations. citation:-1
+title:Space-time-frequency trellis coding for frequency-selective fading channels. citation:-1
+title:Turbo decoding of error control coded and unitary precoded OFDM. citation:-1
+title:Network-Compressive Coding for Wireless Sensors with Correlated Data. citation:-1
+title:Hopping pilots for estimation of frequency-offset and multiantenna channels in MIMO OFDM. citation:-1
+title:Low-complexity training for rapid timing acquisition in ultra wideband communications. citation:-1
+title:Rate-maximizing power allocation in OFDM based on partial channel knowledge. citation:-1
+title:BER sensitivity to mistiming in correlation-based UWB. citation:-1
+title:Optimal Cross-Layer Resource Allocation in Cellular Networks Using Channel- and Queue-State Information. citation:-1
+title:Dynamic Anomalography: Tracking Network Anomalies Via Sparsity and Low Rank. citation:-1
+title:Rank regularization and Bayesian inference for tensor completion and extrapolation citation:-1
+title:Load curve data cleansing and imputation via sparsity and low rank citation:-1
+title:Energy-constrained optimal quantization for wireless sensor networks. citation:-1
+title:Asynchronous subgradient methods with unbounded delays for communication networks. citation:-1
+title:What determines average and outage performance in fading channels? citation:-1
+title:Space-time-multipath coding using digital phase sweeping. citation:-1
+title:Nonparametric Basis Pursuit via Sparse Kernel-based Learning citation:-1
+title:Centrality-constrained graph embedding citation:-1
+title:Blurs and perfect image restoration. citation:-1
+title:Non-data-aided frequency-offset and channel estimation in OFDM: and related block transmissions. citation:-1
+title:MMSE-based local ML detection of linearly precoded OFDM signals. citation:-1
+title:Distributed quantization-estimation using wireless sensor networks. citation:-1
+title:Training sequence design for data-aided timing acquisition in UWB radios. citation:-1
+title:Complex Field Coding in Multi-Source Cooperative Networks for Full Diversity. citation:-1
+title:Block differential modulation for doubly-selective wireless fading channels. citation:-1
+title:TCP performance in wireless access with adaptive modulation and coding. citation:-1
+title:Multi-carrier multiple access is sum-rate optimal for block transmissions over circulant ISI channels. citation:-1
+title:Optimal transmitter eigen-beamforming and space-time block coding based on channel correlations. citation:-1
+title:Power-Efficient OFDM via Quantized Channel State Information. citation:-1
+title:CRC-Assisted Error Correction in a Convolutionally Coded System. citation:-1
+title:Increasing the throughput of spread-Aloha protocols via long PN spreading codes. citation:-1
+title:Superimposed training on redundant precoding for low-complexity recovery of block transmissions. citation:-1
+title:Space-Time Differential Modulation using Linear Constellation Precoding. citation:-1
+title:ML sequence estimation for long ISI channels with controllable complexity. citation:-1
+title:Achievable Rates of Pulse-Position Modulated Impulse Radio with Transmitted Reference. citation:-1
+title:Analyzing and Optimizing Adaptive Modulation-Coding Jointly with ARQ for QoS-Guaranteed Traffic. citation:-1
+title:Time and frequency synchronization of orthogonal frequency division multiple access systems. citation:-1

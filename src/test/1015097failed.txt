@@ -1,0 +1,373 @@
+title:The BINGO! System for Information Portal Generation and Expert Web Search. citation:-1
+title:SOFIE: a self-organizing framework for information extraction. citation:-1
+title:Workflow management with service quality guarantees. citation:-1
+title:The MINERVA Project: Database Selection in the Context of P2P Search. citation:-1
+title:Near-optimal dynamic replication in unstructured peer-to-peer networks. citation:-1
+title:The Claremont report on database research. citation:-1
+title:Web Caching. citation:-1
+title:Database and information-retrieval methods for knowledge discovery. citation:-1
+title:P2P Authority Analysis for Social Communities. citation:-1
+title:Taming the Tiger: How to Cope with Real Database Products in Transactional Federations for Internet Applications. citation:-1
+title:The Role of Web Services in Information Search. citation:-1
+title:Towards a Statistically Semantic Web. citation:-1
+title:IO-Top-k: Index-access Optimized Top-k Query Processing. citation:-1
+title:P2P Information Retrieval and Filtering with MAPS. citation:-1
+title:A Unified Approach to Concurrency Control and Transaction Recovery (Extended Abstract). citation:-1
+title:Databases and Workflow Management: What is it All About? (Panel). citation:-1
+title:Vertical Data Migration in Large Near-Line Document Archives Based on Markov-Chain Predictions. citation:-1
+title:Multi-Level Transaction Management for Complex Objects: Implementation, Performance, Parallelism citation:-1
+title:A Goal-driven Auto-Configuration Tool for the Distributed Workflow Management System Mentor-lite. citation:-1
+title:p2pDating: Real life inspired semantic overlay networks for Web search. citation:-1
+title:Report on the Second International Workshop on Self-Managing Database Systems (SMDB 2007). citation:-1
+title:Comparing apples and oranges: normalized pagerank for evolving graphs. citation:-1
+title:The Juxtaposed approximate PageRank method for robust PageRank approximation in a peer-to-peer web search network. citation:-1
+title:A Reproducible Benchmark for P2P Retrieval. citation:-1
+title:Peer-to-Peer Information Search: Semantic, Social, or Spiritual? citation:-1
+title:Time-Aware Authority Ranking. citation:-1
+title:Task-aware search personalization. citation:-1
+title:A Multi-Level Transaction Approach to Federated DBMS Transaction Management. citation:-1
+title:Report on the DB/IR panel at SIGMOD 2005. citation:-1
+title:Implementation and Performance of Multi-level Transaction Management in a Multidatabase Environment. citation:-1
+title:Integrating DB and IR Technologies: What is the Sound of One Hand Clapping? citation:-1
+title:Ein Subsystem zur stabilen Speicherung Versionsbehafteter Hierarchisch Strukturierter Tupel. citation:-1
+title:Query-Log Based Authority Analysis for Web Information Search. citation:-1
+title:Combining Histograms and Parametric Curve Fitting for Feedback-Driven Query Result-size Estimation. citation:-1
+title:Distributed hash sketches: Scalable, efficient, and accurate cardinality estimation for distributed multisets. citation:-1
+title:New and Forgotten Dreams in Database Research (Panel). citation:-1
+title:A Performance Model of Mixed-Workload Multimedia Information Servers. citation:-1
+title:Adaptive Load Balancing in Disk Arrays. citation:-1
+title:Efficient and Transparent Application Recovery in Client-Server Information Systems. citation:-1
+title:06121 Abstracts Collection -- Atomicity: A Unifying Concept in Computer Science. citation:-1
+title:06121 Executive Summary -- Atomicity: A Unifying Concept in Computer Science. citation:-1
+title:Probabilistic information retrieval approach for ranking of database query results. citation:-1
+title:Harvesting and Organizing Knowledge from the Web. citation:-1
+title:Discovering and exploiting keyword and attribute-value co-occurrences to improve P2P routing indices. citation:-1
+title:Scheduling Strategies for Mixed Workloads in Multimedia Information Servers. citation:-1
+title:Unbundling Transaction Services in the Cloud. citation:-1
+title:Stochastic Performance Guarantees for Mixed Workloads in a Multimedia Information System. citation:-1
+title:The Database Research Group at ETH Zurich. citation:-1
+title:Beicht über das Fachgruppen-Treffen am 9./10. September in Karlsruhe. citation:-1
+title:Tuning of Striping Units in Disk-Array-Based File Systems. citation:-1
+title:TopX @ INEX 2007. citation:-1
+title:A Pocket Guide to Web History. citation:-1
+title:Recovery guarantees for Internet applications. citation:-1
+title:Best-Effort Top-k Query Processing Under Budgetary Constraints. citation:-1
+title:FluxCapacitor: Efficient Time-Travel Text Search. citation:-1
+title:Bericht vom Workshop der GI-Fachgruppen Datenbanksysteme und Betriebssysteme am 1./2. April in Heidelberg. citation:-1
+title:MINERVA: Collaborative P2P Search. citation:-1
+title:Efficient and self-tuning incremental query expansion for top-k query processing. citation:-1
+title:Transaktionsverwaltung in Datenbanksystemen mit Schichtenarchitektur. citation:-1
+title:Self-Management Technology in Databases. citation:-1
+title:Computing Trusted Authority Scores in Peer-to-Peer Web Search Networks. citation:-1
+title:Integrated Document Caching and Prefetching in Storage Hierarchies Based on Markov-Chain Predictions. citation:-1
+title:Managing Complex Objects in the Darmstadt Database Kernel System. citation:-1
+title:Foundations of Automated Database Tuning. citation:-1
+title:Integrating Snapshot Isolation into Transactional Federation. citation:-1
+title:The database research group at the Max-Planck Institute for Informatics. citation:-1
+title:The LHAM Log-Structured History Data Access Method. citation:-1
+title:On the Ubiquity of Information Services and the Absence of Guaranteed Service Quality. citation:-1
+title:Clustered Scheduling Algorithms for Mixed-Media Disk Workloads in a Multimedia Server. citation:-1
+title:A Database Striptease or How to Manage Your Personal Databases. citation:-1
+title:Spezifikation, Verifikation und verteilte Ausführung von Workflows in MENTOR. citation:-1
+title:Language as a Foundation of the Semantic Web. citation:-1
+title:Information Retrieval and Filtering over Self-organising Digital Libraries. citation:-1
+title:STAR: A System for Tuple and Attribute Ranking of Query Answers. citation:-1
+title:MinervaDL: An Architecture for Information Retrieval and Filtering in Distributed Digital Libraries. citation:-1
+title:Open Nested Transactions in Federated Database Systems. citation:-1
+title:Word Sense Disambiguation for Exploiting Hierarchical Thesauri in Text Classification. citation:-1
+title:Letter from the Special Issue Editor. citation:-1
+title:Letter from the Special Issue Editor. citation:-1
+title:Benchmarking von Workflow-Management-Systemen. citation:-1
+title:Conflict-driven Load Control for the Avoidance of Data-Contention Thrashing. citation:-1
+title:JXP: Global Authority Scores in a P2P Network. citation:-1
+title:Workflow History Management in Virtual Enterprises Using a Light-Weight Workflow Management System. citation:-1
+title:Formal Verification of a Transactional Interaction Contract. citation:-1
+title:Exploiting Community Behavior for Enhanced Link Analysis and Web Search. citation:-1
+title:Uniform Object Management. citation:-1
+title:Heuristic Optimization of Speedup and Benefit/Cost for Parallel Database Scans on Shared-Memory Multiprocessors. citation:-1
+title:Eine einheitliche Theorie für Concurrency-Control und Recovery in Datenbanksystemen (Kurzfassung). citation:-1
+title:Distributed top- aggregation queries at large. citation:-1
+title:Exploiting correlated keywords to improve approximate information filtering. citation:-1
+title:Personalizing the Search for Knowledge. citation:-1
+title:Towards Response Time Guarantees for e-Service Middleware. citation:-1
+title:Answering Web Questions Using Structured Data - Dream or Reality? citation:-1
+title:Fine-grained relevance feedback for XML retrieval. citation:-1
+title:Föderierte Transaktionsverwaltung auf kommerziellen Datenbanksystemen. citation:-1
+title:Optimizing Distributed Top-k Queries. citation:-1
+title:Performance and Availability Assessment for the Configuration of Distributed Workflow Management Systems. citation:-1
+title:Rethinking the Conference Reviewing Process - Panel. citation:-1
+title:Social Wisdom for Search and Recommendation. citation:-1
+title:HIP: Intelligente Suche nach Fachinformationen für das Handwerk. citation:-1
+title:Enhancing Concurrency in Layered Systems. citation:-1
+title:The BINGO! Focused Crawler: From Bookmarks to Archetypes. citation:-1
+title:Counting at Large: Efficient Cardinality Estimation in Internet-Scale Data Networks. citation:-1
+title:Pros and Cons of Operating System Transactions for Database Systems. citation:-1
+title:Efficient top-k querying over social-tagging networks. citation:-1
+title:A Cost-Model-Based Online Method for Ditributed Caching. citation:-1
+title:XML-enabled Workflow Management for E-Services across Heterogeneous Platforms. citation:-1
+title:EOS: Exactly-Once E-Service Middleware. citation:-1
+title:Semantic Similarity Search on Semistructured Data with the XXL Search Engine. citation:-1
+title:EOS: Unstoppable Stateful PHP. citation:-1
+title:A Log-Structured History Data Access Method (LHAM). citation:-1
+title:Efficient Text Proximity Search. citation:-1
+title:DB&IR: both sides now. citation:-1
+title:TopX: efficient and versatile top- query processing for semistructured data. citation:-1
+title:Das MINERVA-Projekt: Datenbankselektion für Peer-to-Peer-Websuche. citation:-1
+title:Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention Thrashing. citation:-1
+title:Integrating Light-Weight Workflow Management Systems within Existing Business Environments. citation:-1
+title:Review - XTRACT: A System for Extracting Document Type Descriptors from XML Documents. citation:-1
+title:Foundations of Automated Database Tuning. citation:-1
+title:Review - Atomicity versus Anonymity: Distributed Transactions for Electronic Commerce. citation:-1
+title:Review - Data Placement In Bubba. citation:-1
+title:Semantic Concurrency Control in Object-Oriented Database Systems. citation:-1
+title:Review - TerraServer: A Spatial Data Warehouse. citation:-1
+title:The Web in 2010: Challenges and Opportunities for Database Research. citation:-1
+title:Efficient Search and Approximate Information Filtering in a Distributed Peer-to-Peer Environment of Digital Libraries. citation:-1
+title:Datenbanksysteme. citation:-1
+title:Architectural Alternatives for Information Filtering in Structured Overlays. citation:-1
+title:Web search clickstreams. citation:-1
+title:NAGA: harvesting, searching and ranking knowledge. citation:-1
+title:Probabilistic Ranking of Database Query Results. citation:-1
+title:Report: 3rd Int'l Workshop on Self-Managing Database Systems (SMDB 2008). citation:-1
+title:Exploiting social relations for query expansion and result ranking. citation:-1
+title:Multi-Level Transaction Management, Theoretical Art or Practical Need ? citation:-1
+title:The MINERVAMinerva is the Roman goddess of science, wisdom, and learning. Project: Towards Collaborative Search in Digital Libraries Using Peer-to-Peer Technology. citation:-1
+title:The RDF-3X engine for scalable management of RDF data. citation:-1
+title:Towards Collaborative Search in Digital Libraries Using Peer-to-Peer Technology. citation:-1
+title:The Background of the DASDBS & COSMOS Projects. citation:-1
+title:TopX - AdHoc Track and Feedback Task. citation:-1
+title:Social recommendations at work. citation:-1
+title:Foundations of Statistical Natural Language Processing - Book Review. citation:-1
+title:Report on the 10th Conference on Database Systems for Business, Technology, and the Web (BTW 2003). citation:-1
+title:Efficient Creation and Incremental Maintenance of the HOPI Index for Complex XML Document Collections. citation:-1
+title:Report on the 2004 SIGMOD Conference. citation:-1
+title:Statistical structures for Internet-scale data management. citation:-1
+title:Approximate Information Filtering in Peer-to-Peer Networks. citation:-1
+title:Peer-to-Peer Web Search. citation:-1
+title:Efficiently Handling Dynamics in Distributed Link Based Authority Analysis. citation:-1
+title:Design, Implementation, and Performance of the LHAM Log-Structured History Data Access Method. citation:-1
+title:Goal-oriented methods and meta methods for document classification and their parameter tuning. citation:-1
+title:Digital library information-technology infrastructures. citation:-1
+title:Benchmarking and Configuration of Workflow Management Systems. citation:-1
+title:ANGIE: Active Knowledge for Interactive Exploration. citation:-1
+title:Unbundling Transaction Services in the Cloud citation:-1
+title:Anonymous and censorship resistant content sharing in unstructured overlays. citation:-1
+title:Erweiterbarkeit, Kooperation, Föderation von Datenbanksystemen. citation:-1
+title:Stochastic Service Guarantees for Continuous Data on Multi-Zone Disks. citation:-1
+title:A Performance Evaluation of Multi-Level Transaction Management. citation:-1
+title:MING: mining informative entity relationship subgraphs. citation:-1
+title:Ähnlichkeitssuche auf XML-Daten. citation:-1
+title:Unterstützung des Büro-Ablage-Service durch ein Datenbankkernsystem. citation:-1
+title:Federated Transaction Management with Snapshot Isolation. citation:-1
+title:TopX and XXL at INEX 2005. citation:-1
+title:An Efficient and Versatile Query Engine for TopX Search. citation:-1
+title:Federated Transaction Management with Snapshot Isolation. citation:-1
+title:Guest Editorial Introduction to the Special Section on the 16th International Conference on Data Engineering. citation:-1
+title:The MENTOR Workbench for Enterprise-wide Workflow Management. citation:-1
+title:The atomic manifesto: a story in four quarks. citation:-1
+title:Ähnlichkeitssuche auf XML-Daten. citation:-1
+title:Inter- and Intra-Transaction Parallelism for Combined OLTP/OLAP Workloads. citation:-1
+title:Scalable join processing on very large RDF graphs. citation:-1
+title:Mit HEART zu Middleware-basierten Antwortzeitgarantien für E-Services. citation:-1
+title:Anonymity and Censorship Resistance in Unstructured Overlay Networks. citation:-1
+title:Intelligente Suche nach Ätzrezepturen für Werkstoffe. citation:-1
+title:The TopX DB&IR engine. citation:-1
+title:Harvesting, searching, and ranking knowledge on the web: invited talk. citation:-1
+title:Performance Assessment and Configuration of Enterprise-Wide Workflow Management Systems. citation:-1
+title:Matching task profiles and user needs in personalized web search. citation:-1
+title:Are Web Services the Next Revolution in e-Commerce? (Panel). citation:-1
+title:Bridging the Terminology Gap in Web Archive Search. citation:-1
+title:The COMFORT Automatic Tuning Project, Invited Project Review. citation:-1
+title:The COMFORT Project (Synopsis). citation:-1
+title:The Web in Ten Years: Challenges and Opportunities for Database Research. citation:-1
+title:Mentor: Entwurf einer Workflow-Management-Umgebung basierend auf State- und Activitycharts. citation:-1
+title:Ontology-Enabled XML Search. citation:-1
+title:Datenpartitionierung zur Optimierung der I/O-Parallelität in Non-Standard-Anwendungen. citation:-1
+title:Combining linguistic and statistical analysis to extract relations from web documents. citation:-1
+title:Language-model-based ranking in entity-relation graphs. citation:-1
+title:Classification and Focused Crawling for Semistructured Data. citation:-1
+title:The atomic manifesto: a story in four quarks. citation:-1
+title:A Comparative Study of Pub/Sub Methods in Structured P2P Networks. citation:-1
+title:Snowball: Scalable Storage on Networks of Workstations with Balanced Load. citation:-1
+title:Tutorial on Parallel Database Systems. citation:-1
+title:Rank synopses for efficient time travel on the web graph. citation:-1
+title:With HEART Towards Response Time Guarantees for Message-Based e-Services. citation:-1
+title:SHARC: Framework for Quality-Conscious Web Archiving. citation:-1
+title:Experiences with Building a Federated Transaction Manager based on CORBA OTS. citation:-1
+title:A Framework for the Physical Design Problem for Data Synopses. citation:-1
+title:Database Selection and Result Merging in P2P Web Search. citation:-1
+title:Informations- und Wissensmanagement im Jahr 2025: BTW allez oder BTW passeé. citation:-1
+title:Multilevel Transactions and Object-Model Transactions. citation:-1
+title:Towards Guaranteed Quality and Dependability of Information Services. citation:-1
+title:Konzeption und Realisierung einer mengenorientierten Seitenschnittstelle zum effizienten Zugriff auf Komplexe Objekte. citation:-1
+title:Semantics-Based Multilevel Transaction Management in Federated Systems. citation:-1
+title:Architecture and Implementation of the Darmstadt Database Kernel System. citation:-1
+title:``Disk Cooling'' in Parallel Disk Systems. citation:-1
+title:Foundations of automated database tuning. citation:-1
+title:MINERVA: A Scalable Efficient Peer-to-Peer Search Engine. citation:-1
+title:I/O-Parallelität und Fehlertoleranz in Disk-Arrays, Teil 2: Fehlertoleranz. citation:-1
+title:Towards a Unified Theory of Concurrency Control and Recovery. citation:-1
+title:BuzzRank ... and the trend is your friend. citation:-1
+title:Efficient Time-Travel on Versioned Text Collections. citation:-1
+title:Reminiscences on Influential Papers. citation:-1
+title:Efficient and Decentralized PageRank Approximation in a Peer-to-Peer Web Search Network. citation:-1
+title:Geschachtelte Transaktionen - Das aktuelle Schlagwort. citation:-1
+title:Disk Scheduling for Mixed-Media Workloads in a Multimedia Server. citation:-1
+title:I/O-Parallelität und Fehlertoleranz in Disk-Arrays, Teil 1: I/O-Parallelität. citation:-1
+title:Gathering and ranking photos of named entities with high precision, high recall, and diversity. citation:-1
+title:Set-Oriented Disk Access to Large Complex Objects. citation:-1
+title:P2P Directories for Distributed Web Search: From Each According to His Ability, to Each According to His Needs. citation:-1
+title:A decidability result about sufficient-completeness of axiomatically specified abstract data types. citation:-1
+title:Good Guys vs. Bad Guys: Countering Cheating in Peer-to-Peer Authority Computations over Social Networks. citation:-1
+title:NAGA: Searching and Ranking Knowledge. citation:-1
+title:TopX - Efficient and Versatile Top-k Query Process-ing for Text, Semistructured, and Structured Data. citation:-1
+title:XML-enabled workflow management for e-services across heterogeneous platforms. citation:-1
+title:TOB: Timely Ontologies for Business Relations. citation:-1
+title:The Atomic Manifesto. citation:-1
+title:Making SENSE: socially enhanced search and exploration. citation:-1
+title:The SphereSearch Engine for Unified Ranked Retrieval of Heterogeneous XML and Web Documents. citation:-1
+title:On the Usage of Global Document Occurrences in Peer-to-Peer Information Systems. citation:-1
+title:COMPASS: A Concept-based Web Search Engine for HTML, XML, and Deep Web Data. citation:-1
+title:EntityAuthority: Semantically Enriched Graph-Based Authority Propagation. citation:-1
+title:Architectural Issues of Transaction Management in Multi-Layered Systems. citation:-1
+title:Formal Verification of Web Service Interaction Contracts. citation:-1
+title:How NAGA uncoils: searching with entities and relations. citation:-1
+title:A time machine for text search. citation:-1
+title:Exploiting Community Behavior for Enhanced Link Analysis and Web Search. citation:-1
+title:Data quality in web archiving. citation:-1
+title:Global Document Frequency Estimation in Peer-to-Peer Web Search. citation:-1
+title:Middleware-Antwortzeitgarantien für e-Services. citation:-1
+title:Unifying concurrency control and recovery of transactions. citation:-1
+title:The XXL search engine: ranked retrieval of XML data using indexes and ontologies. citation:-1
+title:Flood Little, Cache More: Effective Result-Reuse in P2P IR Systems. citation:-1
+title:Using Restrictive Classification and Meta Classification for Junk Elimination. citation:-1
+title:Atomicity. citation:-1
+title:DB&IR integration: report on the dagstuhl seminar. citation:-1
+title:An Optimality Proof of the LRU- Page Replacement Algorithm. citation:-1
+title:Adding Relevance to XML. citation:-1
+title:Guest Editors' Introduction. citation:-1
+title:Exploiting Structure, Annotation, and Ontological Knowledge for Automatic Classification of XML Data. citation:-1
+title:An Information System for Material Microstructures. citation:-1
+title:Adding Relevance to XML. citation:-1
+title:BINGO!: Bookmark-Induced Gathering of Information. citation:-1
+title:The COMFORT Prototype: A Step Toward Automated Database Performance Tuning. citation:-1
+title:T-Rank: Time-Aware Authority Ranking. citation:-1
+title:Bookmark-driven Query Routing in Peer-to-Peer Web Search. citation:-1
+title:Towards a universal wordnet by learning from combined evidence. citation:-1
+title:Database Reorganization in Parallel Disk Arrays with I/O Service Stealing. citation:-1
+title:Automated Retraining Methods for Document Classification and Their Parameter Tuning. citation:-1
+title:Improving collection selection with overlap awareness in P2P search engines. citation:-1
+title:Foreword. citation:-1
+title:LoT: Dynamic Declustering of TSB-Tree Nodes for Parallel Access to Temporal Data. citation:-1
+title:Unstoppable Stateful PHP Web Services. citation:-1
+title:Database Tuning using Combinatorial Search. citation:-1
+title:Datenbankforschung am Max-Planck-Institut für Informatik. citation:-1
+title:Extending Transaction Management To Capture More Consistency with Better Performance (article invité). citation:-1
+title:IO-Top-k at TREC 2006: Terabyte Track. citation:-1
+title:Graph-based text classification: learn from your neighbors. citation:-1
+title:Databases and Web 2.0 panel at VLDB 2007. citation:-1
+title:Load Control in Scalable Distributed File Structures. citation:-1
+title:Dynamic File Allocation in Disk Arrays. citation:-1
+title:Multi-Level Recovery and the ARIES Algorithm. citation:-1
+title:Database Tuning using Online Algorithms. citation:-1
+title:Konflikt-gesteuerte Lastkontrolle in Datenbanksystemen basierend auf der Analyse von Transaktionsprogrammen. citation:-1
+title:Recovery Guarantees for General Multi-Tier Applications. citation:-1
+title:Transductive Learning for Text Classification Using Explicit Knowledge Models. citation:-1
+title:The YAGO-NAGA approach to knowledge discovery. citation:-1
+title:STAR: Steiner-Tree Approximation in Relationship Graphs. citation:-1
+title:Language-model-based ranking for queries on RDF-graphs. citation:-1
+title:HOPI: An Efficient Connection Index for Complex XML Document Collections. citation:-1
+title:Multi-Level Recovery. citation:-1
+title:Automatic tuning of data synopses. citation:-1
+title:Classification and Intelligent Search on Information in XML. citation:-1
+title:A Theoretical Foundation of Multi-Level Concurrency Control. citation:-1
+title:DASDBS Konzepte und Architektur eines neuartigen Datenbanksystems. citation:-1
+title:Database Tuning using Trade-off Elimination. citation:-1
+title:The Claremont report on database research. citation:-1
+title:Incremental Scheduling of Mixed Workloads in Multimedia Information Servers. citation:-1
+title:Distributed File Organization with Scalable Cost/Performance. citation:-1
+title:Fast logistic regression for text categorization with variable-length n-grams. citation:-1
+title:DB&IR integration: report on the Dagstuhl seminar "ranked XML querying". citation:-1
+title:Graffiti: node labeling in heterogeneous networks. citation:-1
+title:BTW 2003, Datenbanksysteme für Business, Technologie und Web, Tagungsband der 10. BTW-Konferenz, 26.-28. Februar 2003, Leipzig citation:-1
+title:Atomicity: A Unifying Concept in Computer Science, 19.03. - 24.03.2006 citation:-1
+title:Knowledge on the Web: Robust and Scalable Harvesting of Entity-Relationship Facts. citation:-1
+title:A Language Modeling Approach for Temporal Information Needs. citation:-1
+title:NEAT: News Exploration Along Time. citation:-1
+title:Timely YAGO: harvesting, querying, and visualizing temporal knowledge from Wikipedia. citation:-1
+title:Proceedings of the 26th International Conference on Data Engineering, ICDE 2010, March 1-6, 2010, Long Beach, California, USA citation:-1
+title:From information to knowledge: harvesting entities and relationships from web sources. citation:-1
+title:Language-model-based pro/con classification of political text. citation:-1
+title:Proceedings of the ACM SIGMOD International Conference on Management of Data, Paris, France, June 13-18, 2004 citation:-1
+title:Active knowledge: dynamically enriching RDF knowledge bases by web services. citation:-1
+title:Find your Advisor: Robust Knowledge Gathering from the Web. citation:-1
+title:Intelligent Search on XML Data, Applications, Languages, Models, Implementations, and Benchmarks citation:-1
+title:Providing Multilingual, Multimodal Answers to Lexical Database Queries. citation:-1
+title:Mapping Roget's Thesaurus and WordNet to French. citation:-1
+title:Search for Knowledge. citation:-1
+title:Searching RDF Graphs with SPARQL and Keywords. citation:-1
+title:Interesting-Phrase Mining for Ad-Hoc Text Analytics. citation:-1
+title:InZeit: Efficiently Identifying Insightful Time Points. citation:-1
+title:x-RDF-3X: Fast Querying, High Update Rates, and Consistency for RDF Databases. citation:-1
+title:Peer-to-Peer Web Search: Euphoria, Achievements, Disillusionment, and Future Opportunities. citation:-1
+title:Incorporating terminology evolution for query translation in text retrieval with association rules. citation:-1
+title:MENTA: inducing multilingual taxonomies from wikipedia. citation:-1
+title:Fast and accurate estimation of shortest paths in large graphs. citation:-1
+title:Information Search in Peer-to-Peer Systems. citation:-1
+title:Untangling the Cross-Lingual Link Structure of Wikipedia. citation:-1
+title:Bonsai: Growing Interesting Small Trees. citation:-1
+title:Scalable knowledge harvesting with high precision and high recall. citation:-1
+title:IQ: The Case for Iterative Querying for Knowledge. citation:-1
+title:Longitudinal Analytics on Web Archive Data: It's About Time! citation:-1
+title:The Bag-of-Opinions Method for Review Rating Prediction from Sparse Text Patterns. citation:-1
+title:Database researchers: plumbers or thinkers? citation:-1
+title:SITAC: discovering in text archives. citation:-1
+title:Query Relaxation for Entity-Relationship Search. citation:-1
+title:EnBlogue: emergent topic detection in web 2.0 streams. citation:-1
+title:CATE: context-aware timeline for entity illustration. citation:-1
+title:Scalable spatio-temporal knowledge harvesting. citation:-1
+title:YAGO2: exploring and querying world knowledge in time, space, context, and many languages. citation:-1
+title:Einstein: physicist or vegetarian? summarizing semantic type graphs for knowledge discovery. citation:-1
+title:DIDO: a disease-determinants ontology from web sources. citation:-1
+title:RDF-Stores und RDF-Query-Engines. citation:-1
+title:The SHARC framework for data quality in Web archiving. citation:-1
+title:Guest Editors' Introduction to the Special Section on the 26th International Conference on Data Engineering. citation:-1
+title:AIDA: An Online Tool for Accurate Disambiguation of Named Entities in Text and Tables. citation:-1
+title:Temporal Knowledge for Timely Intelligence. citation:-1
+title:Robust Disambiguation of Named Entities in Text. citation:-1
+title:YAGO-QA: Answering Questions by Structured Knowledge Queries. citation:-1
+title:Keynote: For a Few Triples More. citation:-1
+title:Database Foundations for Scalable RDF Processing. citation:-1
+title:Deriving a Web-Scale Common Sense Fact Database. citation:-1
+title:Finding images of difficult entities in the long tail. citation:-1
+title:OpinioNetIt: understanding the opinions-people network for politically controversial topics. citation:-1
+title:Entity timelines: visual analytics and named entity evolution. citation:-1
+title:Harvesting facts from textual web sources by constrained label propagation. citation:-1
+title:Graffiti: graph-based classification in heterogeneous networks. citation:-1
+title:Harmony and dissonance: organizing the people's voices on political controversies. citation:-1
+title:Big Web Analytics: Toward a Virtual Web Observatory. citation:-1
+title:Deep answers for naturally asked questions on the web of data. citation:-1
+title:Tracking entities in web archives: the LAWA project. citation:-1
+title:See what's enBlogue: real-time emergent topic identification in social media. citation:-1
+title:P2P Content Search: Give the Web Back to the People. citation:-1
+title:Constructing and utilizing wordnets using statistical methods. citation:-1
+title:Discovering and Exploring Relations on the Web. citation:-1
+title:UWN: A Large Multilingual Lexical Knowledge Base. citation:-1
+title:Coupling Label Propagation and Constraints for Temporal Fact Extraction. citation:-1
+title:Semantic Search: from Names and Phrases to Entities and Relations. citation:-1
+title:Natural Language Questions for the Web of Data. citation:-1
+title:PATTY: A Taxonomy of Relational Patterns with Semantic Types. citation:-1
+title:A Weakly Supervised Model for Sentence-Level Semantic Orientation Analysis with Multiple Experts. citation:-1
+title:Extraction of temporal facts and events from Wikipedia. citation:-1
+title:RDF Xpress: a flexible expressive RDF search engine. citation:-1
+title:Big Data Methods for Computational Linguistics. citation:-1
+title:High-Performance Reachability Query Processing under Index Size Restrictions citation:-1
+title:YAGO2: A spatially and temporally enhanced knowledge base from Wikipedia. citation:-1
+title:Predicting the Evolution of Taxonomy Restructuring in Collective Web Catalogues. citation:-1
+title:LINDA: distributed web-of-data-scale entity matching. citation:-1
+title:PolariCQ: polarity classification of political quotations. citation:-1
+title:PRAVDA-live: interactive knowledge harvesting. citation:-1
+title:KORE: keyphrase overlap relatedness for entity disambiguation. citation:-1
+title:OpinioNetIt: A Structured and Faceted Knowledge-base of Opinions. citation:-1
+title:HYENA: Hierarchical Type Classification for Entity Names. citation:-1
+title:Knowledge Discovery on Incompatibility of Medical Concepts. citation:-1

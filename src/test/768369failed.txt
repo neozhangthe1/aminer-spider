@@ -1,0 +1,355 @@
+title:A Direct Evolutionary Feature Extraction Algorithm for Classifying High Dimensional Data. citation:-1
+title:Two-Dimensional Fisher Discriminant Analysis and Its Application to Face Recognition. citation:-1
+title:Fusion of Palmprint and Iris for Personal Authentication. citation:-1
+title:Regularization of LDA for Face Recognition: A Post-processing Approach. citation:-1
+title:A Study of Brute-Force Break-ins of a Palmprint Verification System. citation:-1
+title:Biometric Recognition Using Feature Selection and Combination. citation:-1
+title:A Novel Palm-Line Detector. citation:-1
+title:Post-processing on LDA's Discriminant Vectors for Facial Feature Extraction. citation:-1
+title:Palmprint Authentication Based on Orientation Code Matching. citation:-1
+title:An Integration of Principal Component Analysis and Self-Organizing Map for Effective Palmprint Retrieval. citation:-1
+title:On Hierarchical Palmprint Coding with Multi-Features for Personal Identification in Large Databases. citation:-1
+title:Data Sharing over the Internet and Web under ADO.NET. citation:-1
+title:Adaptive Baseline Wander Removal in the Pulse Waveform. citation:-1
+title:Approximate Entropy Based Pulse Variability Analysis. citation:-1
+title:On Effective Palmprint Retrieval for Personal Identification. citation:-1
+title:A New Approach to Personal Identification Via Hierarchical Palmprint Coding. citation:-1
+title:An Analysis on Invertibility of Cancelable Biometrics based on BioHashing. citation:-1
+title:Directional independent component analysis with tensor representation. citation:-1
+title:Automated Cartridge Identification for Firearm Authentication. citation:-1
+title:Combining Left and Right Irises for Personal Authentication. citation:-1
+title:Palmprint Authentication System for Civil Applications. citation:-1
+title:Revealing the Secret of FaceHashing. citation:-1
+title:Palmprint Acquisition Device: Requirement Analysis and Implementation. citation:-1
+title:A Novel Method for Coarse Iris Classification. citation:-1
+title:Recognize Color Face Images Using Complex Eigenfaces. citation:-1
+title:Improvement on Null Space LDA for Face Recognition: A Symmetry Consideration. citation:-1
+title:Minimizing Spatial Deformation Method for Online Signature Matching. citation:-1
+title:A Study of Identical Twins' Palmprints for Personal Authentication. citation:-1
+title:An Uncorrelated Fisherface Approach for Face and Palmprint Recognition. citation:-1
+title:A Palmprint Cryptosystem. citation:-1
+title:Tongue-Print: A Novel Biometrics Pattern. citation:-1
+title:HMMs Based Palmprint Identification. citation:-1
+title:When Faces Are Combined with Palmprints: A Novel Biometric Fusion Strategy. citation:-1
+title:A Novel Null Space-Based Kernel Discriminant Analysis for Face Recognition. citation:-1
+title:Singular Points Analysis in Fingerprints Based on Topological Structure and Orientation Field. citation:-1
+title:Feature-Level Fusion for Effective Palmprint Authentication. citation:-1
+title:On-Line Signature Verification Based on PCA (Principal Component Analysis) and MCA (Minor Component Analysis). citation:-1
+title:A New Approach to Personal Identification in Large Databases by Hierarchical Palmprint Coding with Multi-features. citation:-1
+title:Improving Fingerprint Recognition Based on Crease Detection. citation:-1
+title:Block Independent Component Analysis for Face Recognition. citation:-1
+title:Fast and Robust Portrait Segmentation Using QEA and Histogram Peak Distribution Methods. citation:-1
+title:A Neural Network Strategy for 3D Surface Registration. citation:-1
+title:Is ICA Significantly Better than PCA for Face Recognition?. citation:-1
+title:Bi-directional PCA with assembled matrix distance metric. citation:-1
+title:Fusion of phase and orientation information for palmprint authentication. citation:-1
+title:Fusion of the Textural Feature and Palm-Lines for Palmprint Authentication. citation:-1
+title:Kernel Difference-Weighted k-Nearest Neighbors Classification. citation:-1
+title:Dark line detection with line width extraction. citation:-1
+title:Palmprint Verification using Complex Wavelet Transform. citation:-1
+title:Palm-line detection. citation:-1
+title:Coarse iris classification based on box-counting method. citation:-1
+title:Palmprint Texture Analysis Based on Low-Resolution Images for Personal Authentication. citation:-1
+title:Does EigenPalm work? A System and Evaluation Perspective. citation:-1
+title:Parallel Biometrics Computing Using Mobile Agents. citation:-1
+title:A New Approach to Automated Retinal Vessel Segmentation Using Multiscale Analysis. citation:-1
+title:Combining Fingerprint, Palmprint and Hand-Shape for User Authentication. citation:-1
+title:An Anatomy of IrisCode for Precise Phase Representation. citation:-1
+title:Palmprint Recognition Using Directional Line Energy Feature. citation:-1
+title:Fuzzy Directional Element Energy Feature (FDEEF) Based Palmprint Identification. citation:-1
+title:On Automated Tongue Image Segmentation in Chinese Medicine. citation:-1
+title:Step Acceleration Based Training Algorithm for Feedforward Neural Networks. citation:-1
+title:A performance evaluation of filter design and coding schemes for palmprint recognition. citation:-1
+title:Multimodal biometrics management using adaptive score-level combination. citation:-1
+title:Multiscale competitive code for efficient palmprint recognition. citation:-1
+title:Unsupervised Discriminant Projection Analysis for Feature Extraction. citation:-1
+title:Face Recognition by Combining Several Algorithms. citation:-1
+title:Adaptive pore model for fingerprint pore extraction. citation:-1
+title:A cryptosystem based on palmprint feature. citation:-1
+title:Automated Personal Authentication Using Both Palmprints. citation:-1
+title:An Analysis on Accuracy of Cancelable Biometrics Based on BioHashing. citation:-1
+title:Differential Operation Based Palmprint Authentication for Multimedia Security. citation:-1
+title:Robust Recognition of Noisy and Partially Occluded Faces Using Iteratively Reweighted Fitting of Eigenfaces. citation:-1
+title:FCM-based orientation selection for competitive coding-based palmprint recognition. citation:-1
+title:Palmprint Recognition Based on Translation Invariant Zernike Moments and Modular Neural Network. citation:-1
+title:Parsimonious Feature Extraction Based on Genetic Algorithms and Support Vector Machines. citation:-1
+title:Iteratively Reweighted Fitting for Reduced Multivariate Polynomial Model. citation:-1
+title:A Novel Supervised Dimensionality Reduction Algorithm for Online Image Recognition. citation:-1
+title:Wavelet Based Analysis of Doppler Ultrasonic Wrist-pulse Signals. citation:-1
+title:Extracting Tongue Cracks Using the Wide Line Detector. citation:-1
+title:Palmprint Authentication Technologies, Systems and Applications. citation:-1
+title:A Novel Personal Authentication System Using Palmprint Technology. citation:-1
+title:Multiscale Wavelet Texture Based Iris Verification. citation:-1
+title:A New Solution Scheme of Unsupervised Locality Preserving Projection Method for the SSS Problem. citation:-1
+title:The L(2, 1)-labeling on Cartesian sum of graphs. citation:-1
+title:The L(2, 1)-labeling on graphs and the frequency assignment problem. citation:-1
+title:Robust mesh watermarking based on multiresolution processing. citation:-1
+title:Watermarking 3D mesh by spherical parameterization. citation:-1
+title:Incorporating user quality for performance improvement in hand identification. citation:-1
+title:"Non-locality" Preserving Projection and Its Application to Palmprint Recognition. citation:-1
+title:The (2, 1)-labeling on the skew and converse skew products of graphs. citation:-1
+title:Online Signature Verification by Combining Shape Contexts and Local Features. citation:-1
+title:A Theoretical Framework for Matrix-Based Feature Extraction Algorithms with its Application to Image Recognition. citation:-1
+title:Automatic Palmprint Verification. citation:-1
+title:Smart Sensor: An On-Board Image Processing System for Real-Time Remote Sensing. citation:-1
+title:A Public Mesh Watermarking Algorithm Based on Addition Property of Fourier Transform. citation:-1
+title:Integrating Shape and Texture for Hand Verification. citation:-1
+title:A joint demosaicking-zooming scheme for single chip digital color cameras. citation:-1
+title:An alternative formulation of kernel LPP with application to image recognition. citation:-1
+title:Locally principal component learning for face representation and recognition. citation:-1
+title:A novel dimensionality-reduction approach for face recognition. citation:-1
+title:Extracting the autonomic nerve wreath of iris based on an improved snake approach. citation:-1
+title:Combination of two novel LDA-based methods for face recognition. citation:-1
+title:An uncorrelated fisherface approach. citation:-1
+title:Face recognition based on linear classifiers combination. citation:-1
+title:Detecting Eyelash and Reflection for Accurate Iris Segmentation. citation:-1
+title:Knowledge-Based Fingerprint Post-Processing. citation:-1
+title:Sequential row-column independent component analysis for face recognition. citation:-1
+title:An approach for directly extracting features from matrix data and its application in face recognition. citation:-1
+title:A highly scalable incremental facial feature extraction method. citation:-1
+title:A method for speeding up feature extraction based on KPCA. citation:-1
+title:A parameterized direct LDA and its application to face recognition. citation:-1
+title:Facial Feature Extraction Method Based on Coefficients of Variances. citation:-1
+title:Online Palmprint Identification System for Civil Applications. citation:-1
+title:Wavelet Energy Feature Extraction and Matching for Palmprint Recognition. citation:-1
+title:Orientation analysis for rotated human face detection. citation:-1
+title:Tongue image analysis for appendicitis diagnosis. citation:-1
+title:Five New Feature Selection Metrics in Text Categorization. citation:-1
+title:Uncorrelated Projection Discriminant Analysis And Its Application To Face Image Feature Extraction. citation:-1
+title:A generalised K-L expansion method which can deal with small sample size and high-dimensional problems. citation:-1
+title:A combination model for orientation field of fingerprints. citation:-1
+title:A Fourier-LDA approach for image recognition. citation:-1
+title:Self-synchronizing watermarking scheme for an arbitrarily shaped object. citation:-1
+title:Parameter by Parameter Algorithm for Multilayer Perceptrons. citation:-1
+title:Online signature verification based on null component analysis and principal component analysis. citation:-1
+title:Fusion of phase and orientation information for palmprint authentication. citation:-1
+title:On kernel difference-weighted -nearest neighbor classification. citation:-1
+title:Face recognition based on a novel linear discriminant criterion. citation:-1
+title:Palmprint classification using principal lines. citation:-1
+title:Kernel ICA: An alternative formulation and its application to face recognition. citation:-1
+title:Essence of kernel Fisher discriminant: KPCA plus LDA. citation:-1
+title:What's wrong with Fisher criterion? citation:-1
+title:Feature fusion: parallel strategy vs. serial strategy. citation:-1
+title:Two-dimensional discriminant transform for face recognition. citation:-1
+title:A fast kernel-based nonlinear discriminant analysis for multi-class problems. citation:-1
+title:Face recognition based on 2D Fisherface approach. citation:-1
+title:Improvements on the uncorrelated optimal discriminant vectors. citation:-1
+title:UODV: improved algorithm and generalized theory. citation:-1
+title:Face recognition based on a group decision-making combination approach. citation:-1
+title:An analysis of BioHashing and its variants. citation:-1
+title:Palmprint identification using feature-level fusion. citation:-1
+title:Personal authentication using multiple palmprint representation. citation:-1
+title:Face and palmprint pixel level fusion and Kernel DCV-RBF classifier for small sample biometric recognition. citation:-1
+title:Human gait recognition by the fusion of motion and static spatio-temporal templates. citation:-1
+title:The relative distance of key point based iris recognition. citation:-1
+title:The theoretical analysis of GLRAM and its applications. citation:-1
+title:Improvements on the linear discrimination technique with application to face recognition. citation:-1
+title:Three measures for secure palmprint identification. citation:-1
+title:Palmprint verification based on robust line orientation code. citation:-1
+title:Palmprint verification based on principal lines. citation:-1
+title:Erratum to "Distance metric learning by knowledge embedding" [Pattern Recognition 37(1)161-163(2004)]. citation:-1
+title:Distance metric learning by knowledge embedding. citation:-1
+title:Reconstruction and analysis of multi-pose face images based on nonlinear dimensionality reduction. citation:-1
+title:Coarse iris classification using box-counting to estimate fractal dimensions. citation:-1
+title:What is wrong with mesh PCA in coordinate direction normalization. citation:-1
+title:A study of identical twins' palmprints for personal verification. citation:-1
+title:Scale-orientation histogram for texture image retrieval. citation:-1
+title:A fast evolutionary pursuit algorithm based on linearly combining vectors. citation:-1
+title:Detecting Wide Lines Using Isotropic Nonlinear Filtering. citation:-1
+title:PCA-Based Spatially Adaptive Denoising of CFA Images for Single-Sensor Digital Cameras. citation:-1
+title:Personal recognition using hand shape and texture. citation:-1
+title:Color Reproduction From Noisy CFA Data of Single Sensor Digital Cameras. citation:-1
+title:An improved LDA approach. citation:-1
+title:A face and palmprint recognition approach based on discriminant DCT feature extraction. citation:-1
+title:The Bi-Elliptical Deformable Contour and Its Application to Automated Tongue Segmentation in Chinese Medicine. citation:-1
+title:Texture-based palmprint retrieval using a layered search scheme for personal identification. citation:-1
+title:An assembled matrix distance metric for 2DPCA-based image recognition. citation:-1
+title:Face recognition based on discriminant fractional Fourier feature extraction. citation:-1
+title:On hierarchical palmprint coding with multiple features for personal identification in large databases. citation:-1
+title:Best neighborhood matching: an information loss restoration technique for block-based image coding systems. citation:-1
+title:Interest filter vs. interest operator: Face recognition using Fisher linear discriminant based on interest filter representation. citation:-1
+title:Improved upper bounds on the L(2, 1) -labeling of the skew and converse skew product graphs. citation:-1
+title:Face recognition using FLDA with single training image per person. citation:-1
+title:Mesh Simplification with Hierarchical Shape Analysis and Iterative Edge Contraction. citation:-1
+title:Comments on "On Image Matrix Based Feature Extraction Algorithms". citation:-1
+title:Mesh Parameterization by Minimizing the Synthesized Distortion Metric with the Coefficient-Optimizing Algorithm. citation:-1
+title:Palm line extraction and matching for personal authentication. citation:-1
+title:Correction to a novel text-independent speaker verification method based on the global speaker model. citation:-1
+title:A Multiple Maximum Scatter Difference Discriminant Criterion for Facial Feature Extraction. citation:-1
+title:Constructing PCA Baseline Algorithms to Reevaluate ICA-Based Face-Recognition Performance. citation:-1
+title:A novel text-independent speaker verification method based on the global speaker model. citation:-1
+title:Characterization of palmprints by wavelet signatures via directional context modeling. citation:-1
+title:A novel face recognition system using hybrid neural and dual eigenspaces methods. citation:-1
+title:Improving the interest operator for face recognition. citation:-1
+title:User Authentication Using Fusion of Face and Palmprint. citation:-1
+title:Tongue shape classification by geometric features. citation:-1
+title:Orientation selection using modified FCM for competitive code-based palmprint recognition. citation:-1
+title:Second-Level Partition for Estimating FAR Confidence Intervals in Biometric Systems. citation:-1
+title:Is White Light the Best Illumination for Palmprint Recognition? citation:-1
+title:Finger-Knuckle-Print Verification Based on Band-Limited Phase-Only Correlation. citation:-1
+title:Multi-view Ear Recognition Based on Moving Least Square Pose Interpolation. citation:-1
+title:Direct Pore Matching for Fingerprint Recognition. citation:-1
+title:Spatially Smooth Subspace Face Recognition Using LOG and DOG Penalties. citation:-1
+title:Differential Feature Analysis for Palmprint Authentication. citation:-1
+title:Rotation Invariant Texture Classification Using Binary Filter Response Pattern (BFRP). citation:-1
+title:Median Fisher Discriminator: a robust feature extraction method with applications to biometrics. citation:-1
+title:Hand-Geometry Recognition Using Entropy-Based Discretization. citation:-1
+title:Modular Neural Networks and Their Applications in Biometrics. citation:-1
+title:An Analysis of IrisCode. citation:-1
+title:Independent components extraction from image matrix. citation:-1
+title:The Negative Effects of Whitening Transformation in Face Recognition. citation:-1
+title:Curvature and singularity driven diffusion for oriented pattern enhancement with singular points. citation:-1
+title:Palmprint, 3D. citation:-1
+title:Palmprint Features. citation:-1
+title:Palmprint verification using binary orientation co-occurrence vector. citation:-1
+title:Robust palmprint verification using 2D and 3D features. citation:-1
+title:A Multi-scale Bilateral Structure Tensor Based Corner Detector. citation:-1
+title:Finger-knuckle-print: A new biometric identifier. citation:-1
+title:Palmprint verification using consistent orientation coding. citation:-1
+title:Principal line based ICP alignment for palmprint verification. citation:-1
+title:Three Dimensional Palmprint Recognition. citation:-1
+title:Texture-based approach to palmprint retrieval for personal identification. citation:-1
+title:Diabetes Identification and Classification by Means of a Breath Analysis System. citation:-1
+title:An Effective Feature Extraction Method Used in Breath Analysis. citation:-1
+title:A Spherical Rectification for Dual-PTZ-Camera System. citation:-1
+title:A unified distance measurement for orientation coding in palmprint verification. citation:-1
+title:Robust Object Tracking Using Joint Color-Texture Histogram. citation:-1
+title:Interactive image segmentation by maximal similarity based region merging. citation:-1
+title:A feature extraction method for use with bimodal biometrics. citation:-1
+title:Rotation invariant texture classification using LBP variance (LBPV) with global matching. citation:-1
+title:Dynamic tongueprint: A novel biometric identifier. citation:-1
+title:High resolution partial fingerprint alignment using pore-valley descriptors. citation:-1
+title:Online finger-knuckle-print verification for personal authentication. citation:-1
+title:Two-stage image denoising by principal component analysis with local pixel grouping. citation:-1
+title:Adaptive fingerprint pore modeling and extraction. citation:-1
+title:LPP solution schemes for use with face recognition. citation:-1
+title:Facial expression recognition on multiple manifolds. citation:-1
+title:Directional binary code with application to PolyU near-infrared face database. citation:-1
+title:A Completed Modeling of Local Binary Pattern Operator for Texture Classification. citation:-1
+title:A Modified Matched Filter With Double-Sided Thresholding for Screening Proliferative Diabetic Retinopathy. citation:-1
+title:Efficient joint 2D and 3D palmprint matching with alignment refinement. citation:-1
+title:The multiscale competitive code via sparse representation for palmprint verification. citation:-1
+title:Parallel versus Hierarchical Fusion of Extended Fingerprint Features. citation:-1
+title:Gaussian ERP Kernel Classifier for Pulse Waveforms Classification. citation:-1
+title:Fingerprint Pore Matching Based on Sparse Representation. citation:-1
+title:Feature Band Selection for Multispectral Palmprint Recognition. citation:-1
+title:Monogenic Binary Pattern (MBP): A Novel Feature Extraction and Representation Model for Face Recognition. citation:-1
+title:On the Dimensionality Reduction for Sparse Representation Based Face Recognition. citation:-1
+title:Data Classification on Multiple Manifolds. citation:-1
+title:Time Series Classification Using Support Vector Machine with Gaussian Elastic Metric Kernel. citation:-1
+title:Online joint palmprint and palmvein verification. citation:-1
+title:An efficient method for computing orthogonal discriminant vectors. citation:-1
+title:Empirical study of light source selection for palmprint recognition. citation:-1
+title:Post-processed LDA for face and palmprint recognition: What is the rationale. citation:-1
+title:A new framework for adaptive multimodal biometrics management. citation:-1
+title:A comparative study on quality assessment of high resolution fingerprint images. citation:-1
+title:Rotation invariant texture classification using adaptive LBP with directional statistical features. citation:-1
+title:Metaface learning for sparse representation based face recognition. citation:-1
+title:Holistic orthogonal analysis of discriminant transforms for color face recognition. citation:-1
+title:Texture classification via patch-based sparse texton learning. citation:-1
+title:Hierarchical multiscale LBP for face and palmprint recognition. citation:-1
+title:ICP registration using principal line and orientation features for palmprint alignment. citation:-1
+title:Monogenic-LBP: A new approach for rotation invariant texture classification. citation:-1
+title:Automatic Image Segmentation by Dynamic Region Merging citation:-1
+title:Quantitative analysis of human facial beauty using geometric features. citation:-1
+title:On accurate orientation extraction and appropriate distance measure for low-resolution palmprint recognition. citation:-1
+title:Studies on Hyperspectral Face Recognition in Visible Spectrum With Feature Band Selection. citation:-1
+title:A universal texture segmentation and representation scheme based on ant colony optimization for iris image processing. citation:-1
+title:An Online System of Multispectral Palmprint Verification. citation:-1
+title:Improving Biometric Authentication Performance From the User Quality. citation:-1
+title:Towards Domain-Based Sequence Design for DNA Strand Displacement Reactions. citation:-1
+title:DNA-Based Fixed Gain Amplifiers and Linear Classifier Circuits. citation:-1
+title:Measuring relevance between discrete and continuous features based on neighborhood mutual information. citation:-1
+title:Evaluate Dissimilarity of Samples in Feature Space for Improving KPCA. citation:-1
+title:From classifiers to discriminators: A nearest neighbor rule induced discriminant analysis. citation:-1
+title:A novel hierarchical fingerprint matching approach. citation:-1
+title:Ensemble of local and global information for finger-knuckle-print recognition. citation:-1
+title:Image segmentation by iterated region merging with localized graph cuts. citation:-1
+title:Contactless and Pose Invariant Biometric Identification Using Hand Surface. citation:-1
+title:Comments on "An Adaptive Multimodal Biometric Management Algorithm". citation:-1
+title:Palmprint Recognition Using 3-D Information. citation:-1
+title:3-D Palmprint Recognition With Joint Line and Orientation Features. citation:-1
+title:Color image canonical correlation analysis for face feature extraction and recognition. citation:-1
+title:Fast and convergence-guaranteed algorithm for linear separation. citation:-1
+title:Computerized Wrist Pulse Signal Diagnosis Using Modified Auto-Regressive Models. citation:-1
+title:Selecting a Reference High Resolution for Fingerprint Recognition Using Minutiae and Pores. citation:-1
+title:A linear edge model and its application in lossless image coding. citation:-1
+title:Image alignment based on invariant features for palmprint identification. citation:-1
+title:Classification of hyperspectral medical tongue images for tongue diagnosis. citation:-1
+title:Classification of Pulse Waveforms Using Edit Distance with Real Penalty. citation:-1
+title:Evolutionary Discriminant Feature Extraction with Application to Face Recognition. citation:-1
+title:Arrhythmic Pulses Detection Using Lempel-Ziv Complexity Analysis. citation:-1
+title:A Unified Framework for Contactless Hand Verification. citation:-1
+title:Accelerating the kernel-method-based feature extraction procedure from the viewpoint of numerical approximation. citation:-1
+title:Automatic Image Segmentation by Dynamic Region Merging. citation:-1
+title:FSIM: A Feature Similarity Index for Image Quality Assessment. citation:-1
+title:A Two-Phase Test Sample Sparse Representation Method for Use With Face Recognition. citation:-1
+title:A New Approach to the L(2, 1) -Labeling of Some Products of Graphs. citation:-1
+title:Improved Bounds on the L(2, 1)-Number of Direct and Strong Products of Graphs. citation:-1
+title:Palmprint Recognition. citation:-1
+title:Hand Geometry Recognition. citation:-1
+title:Always Stay Flexible! WfMS-independent Business Process Controlling in SOA. citation:-1
+title:Segmentation of fingerprint image by using polarimetric feature. citation:-1
+title:Robust sparse coding for face recognition. citation:-1
+title:Detecting Iris Lacunae Based on Gaussian Filter. citation:-1
+title:An Iris Cryptosystem for Information Security. citation:-1
+title:Sparsity Preserving Embedding with Manifold Learning and Discriminant Analysis. citation:-1
+title:Re-initialization Free Level Set Evolution via Reaction Diffusion citation:-1
+title:Combine crossing matching scores with conventional matching scores for bimodal biometrics and face and palmprint recognition experiments. citation:-1
+title:Fisher Discrimination Dictionary Learning for sparse representation. citation:-1
+title:A linear subspace learning approach via sparse coding. citation:-1
+title:Discriminant subclass-center manifold preserving projection for face feature extraction. citation:-1
+title:An augmented Lagrangian method for fast gradient vector flow computation. citation:-1
+title:Sparse cost-sensitive classifier with application to face recognition. citation:-1
+title:A novel kernel discriminant feature extraction framework based on mapped virtual samples for face recognition. citation:-1
+title:Face recognition based on local uncorrelated and weighted global uncorrelated discriminant transforms. citation:-1
+title:A Novel 3-D Palmprint Acquisition System. citation:-1
+title:A Comparative Study of Palmprint Recognition Algorithms. citation:-1
+title:Adaptive Weighted Fusion of Local Kernel Classifiers for Effective Pattern Classification. citation:-1
+title:Baseline wander correction in pulse waveforms using wavelet-based cascaded adaptive filter. citation:-1
+title:Feature Band Selection for Online Multispectral Palmprint Recognition. citation:-1
+title:Modified local entropy-based transition region extraction and thresholding. citation:-1
+title:Vessel segmentation and width estimation in retinal images using multiscale production of matched filter responses. citation:-1
+title:A fuzzy clustering neural networks (FCNs) system design methodology. citation:-1
+title:High-Speed Multispectral Iris Capture System Design. citation:-1
+title:Feature Selection for Monotonic Classification. citation:-1
+title:Collaborative Representation based Classification for Face Recognition citation:-1
+title:Regularized Robust Coding for Face Recognition citation:-1
+title:Rotation-Invariant Nonrigid Point Set Matching in Cluttered Scenes. citation:-1
+title:A Novel Breath Analysis System Based on Electronic Olfaction. citation:-1
+title:Phase congruency induced local features for finger-knuckle-print recognition. citation:-1
+title:Face feature extraction and recognition based on discriminant subclass-center manifold preserving projection. citation:-1
+title:Ethics and Policy of Biometrics - Third International Conference on Ethics and Policy of Biometrics and International Data Sharing, ICEB 2010, Hong Kong, January 4-5, 2010. Revised Papers citation:-1
+title:Rank Entropy-Based Decision Trees for Monotonic Classification. citation:-1
+title:An effective result-feedback neural algorithm for handwritten character recognition. citation:-1
+title:Impact of Full Rank Principal Component Analysis on Classification Algorithms for Face Recognition. citation:-1
+title:Automatic tongue image segmentation based on gradient vector flow and region merging. citation:-1
+title:Local directional derivative pattern for rotation invariant texture classification. citation:-1
+title:On Robust Fuzzy Rough Set Models. citation:-1
+title:Wavelet-based cascaded adaptive filter for removing baseline drift in pulse waveforms. citation:-1
+title:Computerized tongue diagnosis based on Bayesian networks. citation:-1
+title:Combination of Heterogeneous Features for Wrist Pulse Blood Flow Signal Diagnosis via Multiple Kernel Learning. citation:-1
+title:Supervised and Unsupervised Parallel Subspace Learning for Large-Scale Image Recognition. citation:-1
+title:Optimal subset-division based discrimination and its kernelization for face and palmprint recognition. citation:-1
+title:Hand shape recognition based on coherent distance shape contexts. citation:-1
+title:Data Infrastructure at LinkedIn. citation:-1
+title:Efficient Misalignment-Robust Representation for Real-Time Face Recognition. citation:-1
+title:Relaxed collaborative representation for pattern classification. citation:-1
+title:Monogenic Binary Coding: An Efficient Local Feature Extraction Approach to Face Recognition. citation:-1
+title:A sparse representation method of bimodal biometrics and palmprint recognition experiments. citation:-1
+title:A survey of graph theoretical approaches to image segmentation. citation:-1
+title:Fast gradient vector flow computation based on augmented Lagrangian method. citation:-1
+title:An Optimized Wavelength Band Selection for Heavily Pigmented Iris Recognition. citation:-1
+title:A Digital Perceptron Learning Implementation with Look-up Table Feedback Layer. citation:-1
+title:Reinitialization-Free Level Set Evolution via Reaction Diffusion. citation:-1
+title:Complete large margin linear discriminant analysis using mathematical programming approach. citation:-1
+title:Multiscale Sample Entropy Analysis of Wrist Pulse Blood Flow Signal for Disease Diagnosis. citation:-1
+title:Mapping neural networks onto systolic arrays. citation:-1
+title:A programmable neural network architecture using BiCMOS technology. citation:-1
+title:A parallel digital layered perceptrons implementation. citation:-1
+title:Pipelined architecture for neural-network-based speech recognition. citation:-1
+title:Distance labellings of graphs. citation:-1
+title:Palmprint identification based on directional representation. citation:-1
+title:Median LDA: A Robust Feature Extraction Method for Face Recognition. citation:-1
+title:A comprehensive evaluation of full reference image quality assessment algorithms. citation:-1
+title:Graph based Cross-shape Recognition for Palm Diagnosis. citation:-1

@@ -1,0 +1,167 @@
+title:The complexity of the inclusion operation on OFDD's. citation:-1
+title:On the Influence of Boolean Encodings in SAT-Based ATPG for Path Delay Faults. citation:-1
+title:Measuring the Quality of a SystemC Testbench by using Code Coverage Techniques. citation:-1
+title:Testability of Circuits Derived from Functional Decision Diagrams. citation:-1
+title:Effect of improved lower bounds in dynamic BDD reordering. citation:-1
+title:Recursive bi-partitioning of netlists for large number of partitions. citation:-1
+title:Lower Bound Sifting for MDDs. citation:-1
+title:Adaptive Branch and Bound Using SAT to Estimate False Crosstalk. citation:-1
+title:Contradictory antecedent debugging in bounded model checking. citation:-1
+title:Using Higher Levels of Abstraction for Solving Optimization Problems by Boolean Satisfiability. citation:-1
+title:Grouping heuristics for word-level decision diagrams. citation:-1
+title:On the application of local circuit transformations with special emphasis on path delay fault testability. citation:-1
+title:Performance Driven Optimization for MUX based FPGAs. citation:-1
+title:Crossing Reduction by Windows Optimization. citation:-1
+title:Implementation of Read- k-times BDDs on Top of Standard BDD Packages. citation:-1
+title:Comparative Study by Solving the Test Compaction Problem. citation:-1
+title:Process variations aware robust on-chip bus architecture synthesis for MPSoCs. citation:-1
+title:Technical Documentation of Software and Hardware in Embedded Systems. citation:-1
+title:Modeling a Fully Scalable Reed-Solomon Encoder/Decoder over GF(p^{m}) in SystemC. citation:-1
+title:Polynomial Formal Verification of Multipliers. citation:-1
+title:Effiziente Erfüllbarkeitsalgorithmen für die Generierung von Testmustern (Efficient Satisfiability Solving Algorithms for Test Pattern Generation). citation:-1
+title:Visualization of SystemC Designs. citation:-1
+title:Efficient minimization of fully testable 2-SPP networks. citation:-1
+title:A Framework for Quasi-exact Optimization Using Relaxed Best-First Search. citation:-1
+title:Instance Generation for SAT-based ATPG. citation:-1
+title:Test Generation for (Sequential) Multi-Valued Logic Networks based on Genetic Algorithm. citation:-1
+title:Co-synthesis of custom on-chip bus and memory for MPSoC architectures. citation:-1
+title:On the Construction of Small Fully Testable Circuits with Low Depth. citation:-1
+title:Speeding Up Verification of RTL Designs by Computing One-to-one Abstractions with Reduced Signal Widths. citation:-1
+title:Reusing Learned Information in SAT-based ATPG. citation:-1
+title:Using Games for Benchmarking and Representing the Complete Solution Space using Symbolic Techniques. citation:-1
+title:Too Much Knowledge Hurts: Acceleration of Genetic Programs for Learning Heuristics. citation:-1
+title:Increasing the accuracy of SAT-based debugging. citation:-1
+title:History-Based Dynamic Minimization During BDD Construction. citation:-1
+title:Efficient Dynamic Minimization of Word-Level DDs Based on Lower Bound Computation. citation:-1
+title:Overcoming limitations of the SystemC data introspection. citation:-1
+title:Synthese reversibler Logik (Synthesizing Reversible Logic). citation:-1
+title:Evaluation of Cardinality Constraints on SMT-Based Debugging. citation:-1
+title:Hardware Project Management - What we Can Learn from the Software Development Process for Hardware Design?. citation:-1
+title:Switching activity estimation of finite state machines for low power synthesis. citation:-1
+title:Multi-Output Timed Shannon Circuits. citation:-1
+title:Power Consumption in XOR-Based Circuits. citation:-1
+title:Formale Verifikation des Befehlssatzes eines SystemC Mikroprozessors. citation:-1
+title:Äquivalenzvergleich digitaler Schaltungen im industriellen Umfeld (Equivalence Checking of Digital Circuits in an Industrial Environment). citation:-1
+title:Equivalence Checking of Reversible Circuits. citation:-1
+title:Non-Clausal SAT and ATPG. citation:-1
+title:Avoiding false negatives in formal verification for protocol-driven blocks. citation:-1
+title:A Method for Approximate Equivalence Checking. citation:-1
+title:Modeling Multi-Valued Circuits in SystemC. citation:-1
+title:Exact channel routing using symbolic representation. citation:-1
+title:Combination of Lower Bounds in Exact BDD Minimization. citation:-1
+title:On the construction of small fully testable circuits with low depth. citation:-1
+title:Incremental SAT Instance Generation for SAT-based ATPG. citation:-1
+title:MuTaTe: an efficient design for testability technique for multiplexor based circuits. citation:-1
+title:Efficient Minimization of Multiple-valued Decision Diagrams for Incompletely Specified Functions. citation:-1
+title:A fast untestability proof for SAT-based ATPG. citation:-1
+title:Modeling and proving functional completeness in formal verification of counting heads. citation:-1
+title:Low Power Optimization Techniques for BDD Mapped Finite State Machines. citation:-1
+title:Generic Implementation of DD Packages in MVL. citation:-1
+title:Design Reuse by Modularity: A Scalable Dynamical (Re)Configurable Multiprocessor System. citation:-1
+title:Speeding up SAT-Based ATPG Using Dynamic Clause Activation. citation:-1
+title:Lower bounds for dynamic BDD reordering. citation:-1
+title:Quasi-Exact BDD Minimization Using Relaxed Best-First Search. citation:-1
+title:Selection of Efficient Re-Ordering Heuristics for MDD Construction. citation:-1
+title:Technische Dokumentation von Soft- und Hardware in Eingebetteten Systemen (Technical Documentation of Soft- and Hardware in Embedded Systems). citation:-1
+title:Testability of SPP Three-Level Logic Networks in Static Fault Models. citation:-1
+title:Creating hard problem instances in logic synthesis using exact minimization. citation:-1
+title:Evaluation of Static Variable Ordering Heuristics for MDD Construction. citation:-1
+title:Sympathy-MV: Fast Exact Minimization of Fixed Polarity Multi-Valued Linear Expressions. citation:-1
+title:Boolean function representation and spectral characterization using AND/OR graphs. citation:-1
+title:Finding Good Counter-Examples to Aid Design Verification. citation:-1
+title:Specialized Hardware for Implementation of Evolutionary Algorithms. citation:-1
+title:Contradiction Analysis for Constraint-based Random Simulation. citation:-1
+title:An Integrated Approach for Combining BDD and SAT Provers. citation:-1
+title:Towards Formal Verification on the System Level. citation:-1
+title:Spectral decision diagrams using graph transformations. citation:-1
+title:Recursive Bi-Partitioning of Netlists for Large Number of Partitions. citation:-1
+title:Robustness Check for Multiple Faults Using Formal Techniques. citation:-1
+title:Identifying a Subset of System Verilog Assertions for Efficient Bounded Model Checking. citation:-1
+title:Proving Completeness of Properties in Formal Verification of Counting Heads for Railways. citation:-1
+title:Bridging fault testability of BDD circuits. citation:-1
+title:Minimization of Ordered Pseudo Kronecker Decision Diagrams. citation:-1
+title:Ein Ansatz zur formalen Verifikation von Schaltungsbeschreibungen in SystemC. citation:-1
+title:Evaluation of Toggle Coverage for MVL Circuits Specified in the SystemVerilog HDL. citation:-1
+title:Greedy_IIP: Partitioning Large Graphs by Greedy Iterative Improvement. citation:-1
+title:Evolutionary Synthesis of Multiplexor Circuits under Hardware Constraints. citation:-1
+title:Preface. citation:-1
+title:Minimization of Word-Level Decision Diagrams. citation:-1
+title:Efficient Graph Coloring by Evolutionary Algorithms. citation:-1
+title:History-based dynamic BDD minimization. citation:-1
+title:Polynomial Formal Verification of Multipliers. citation:-1
+title:OKFDD minimization by genetic algorithms with application to circuit design. citation:-1
+title:Applications of Evolutionary Computing, EvoWorkshops 2004: EvoBIO, EvoCOMNET, EvoHOT, EvoIASP, EvoMUSART, and EvoSTOC, Coimbra, Portugal, April 5-7, 2004, Proceedings citation:-1
+title:Applications of Evolutionary Computing, EvoWorkshops 2005: EvoBIO, EvoCOMNET, EvoHOT, EvoIASP, EvoMUSART, and EvoSTOC, Lausanne, Switzerland, March 30 - April 1, 2005, Proceedings citation:-1
+title:Applications of Evolutionary Computing, EvoWorkshops 2006: EvoBIO, EvoCOMNET, EvoHOT, EvoIASP, EvoINTERACTION, EvoMUSART, and EvoSTOC, Budapest, Hungary, April 10-12, 2006, Proceedings citation:-1
+title:Applications of Evolutinary Computing, EvoWorkshops 2007: EvoCoMnet, EvoFIN, EvoIASP,EvoINTERACTION, EvoMUSART, EvoSTOC and EvoTransLog, Valencia, Spain, April11-13, 2007, Proceedings. citation:-1
+title:Applications of Evolutionary Computing, EvoWorkshops 2008: EvoCOMNET, EvoFIN, EvoHOT, EvoIASP, EvoMUSART, EvoNUM, EvoSTOC, and EvoTransLog, Naples, Italy, March 26-28, 2008. Proceedings citation:-1
+title:Enhancing debugging of multiple missing control errors in reversible logic. citation:-1
+title:Timing Arc based logic analysis for false noise reduction. citation:-1
+title:An Evolutionary Algorithm for Optimization of Pseudo Kronecker Expressions. citation:-1
+title:Efficient Simulation-Based Debugging of Reversible Logic. citation:-1
+title:RobuCheck: A Robustness Checker for Digital Circuits. citation:-1
+title:Debugging at the Electronic System Level. citation:-1
+title:Robustness and usability in modern design flows. citation:-1
+title:Polynomial datapath optimization using constraint solving and formal modelling. citation:-1
+title:Debugging reversible circuits. citation:-1
+title:Automatische formale Verifikation der Fehlertoleranz von Schaltkreisen (Automated Formal Verification of Fault Tolerance for Circuits). citation:-1
+title:Incremental Solving Techniques for SAT-based ATPG. citation:-1
+title:Graphenbasierte Funktionsdarstellung - Boolesche und Pseudo-Boolesche Funktionen. citation:-1
+title:Applications of Evolutionary Computation - EvoApplications 2011: EvoCOMNET, EvoFIN, EvoHOT, EvoMUSART, EvoSTIM, and EvoTRANSLOG, Torino, Italy, April 27-29, 2011, Proceedings, Part II citation:-1
+title:Simulation-based equivalence checking between SystemC models at different levels of abstraction. citation:-1
+title:Efficient test generation with maximal crosstalk-induced noise using unconstrained aggressor excitation. citation:-1
+title:Using QBF to increase accuracy of SAT-based debugging. citation:-1
+title:Approximate BDD Minimization by Weighted A. citation:-1
+title:BDD-Based Synthesis of Reversible Logic. citation:-1
+title:Advanced verification by automatic property generation. citation:-1
+title:Efficient Data Structures and Methodologies for SAT-Based ATPG Providing High Fault Coverage in Industrial Application. citation:-1
+title:Foreword: Special Issue on Reversible Computation. citation:-1
+title:ATPG for Reversible Circuits Using Simulation, Boolean Satisfiability, and Pseudo Boolean Optimization. citation:-1
+title:Towards analyzing functional coverage in SystemC TLM property checking. citation:-1
+title:Analyzing dependability measures at the Electronic System Level. citation:-1
+title:Efficient realization of control logic in reversible circuits. citation:-1
+title:As-Robust-As-Possible test generation in the presence of small delay defects using pseudo-Boolean optimization. citation:-1
+title:Automatic debugging of System-on-a-Chip designs. citation:-1
+title:Towards Fully Automatic Synthesis of Embedded Software. citation:-1
+title:Automatic Fault Localization for SystemC TLM Designs. citation:-1
+title:Applications of Evolutionary Computation - EvoApplications 2012: EvoCOMNET, EvoCOMPLEX, EvoFIN, EvoGAMES, EvoHOT, EvoIASP, EvoNUM, EvoPAR, EvoRISK, EvoSTIM, and EvoSTOC, Málaga, Spain, April 11-13, 2012, Proceedings citation:-1
+title:A Synthesis Flow for Sequential Reversible Circuits. citation:-1
+title:Designing a RISC CPU in Reversible Logic. citation:-1
+title:From Truth Tables to Programming Languages: Progress in the Design of Reversible Circuits. citation:-1
+title:Optimizing the Mapping of Reversible Circuits to Four-Valued Quantum Gate Circuits. citation:-1
+title:Exact Synthesis of Toffoli Gate Circuits with Negative Control Lines. citation:-1
+title:Debugging of inconsistent UML/OCL models. citation:-1
+title:Automatic design of low-power encoders using reversible circuit synthesis. citation:-1
+title:A better-than-worst-case robustness measure. citation:-1
+title:Synthesizing multiplier in reversible logic. citation:-1
+title:Automatic TLM Fault Localization for SystemC. citation:-1
+title:Equivalence Checking of Reversible Circuits. citation:-1
+title:A Highly Fault-Efficient SAT-Based ATPG Flow. citation:-1
+title:Completeness-Driven Development. citation:-1
+title:Methoden und Beschreibungssprachen zur Modellierung und Verifikation von Schaltungen und Systemen (MBMV), Bremen, Germany, February 24-25, 2003 citation:-1
+title:Using Synthesis Techniques in SAT Solvers. citation:-1
+title:Formal Verification on the Word Level using SAT-like Proof Techniques. citation:-1
+title:SAT-based Calculation of Source Code Coverage for BMC. citation:-1
+title:A Tight Lower Bound for Dynamic BDD Reordering. citation:-1
+title:Verbesserte SAT basierte Fehlerdiagnose durch Widerspruchanalyse. citation:-1
+title:Simulation-based Equivalence Checking between SystemC Models at Different Levels of Abstraction. citation:-1
+title:Increasing the Accuracy of SAT-based Debugging. citation:-1
+title:Equivalence Checking of Reversible Circuits. citation:-1
+title:Using Contradiction Analysis for Antecedent Debugging in Bounded Model Checking. citation:-1
+title:Designing a RISC CPU in Reversible Logic. citation:-1
+title:Implementation and Visualization of a BDD Package in JAVA. citation:-1
+title:CRAVE: An Advanced Constrained RAndom Verification Environment for SystemC. citation:-1
+title:Symbolic Simulation of Algorithms Specified in HDL. citation:-1
+title:Debugging Design Errors by Using Unsatisfiable Cores. citation:-1
+title:Towards Automatic Property Generation for the Formal Verification of Bus Bridges. citation:-1
+title:GateComp: Equivalence Checking in CVE. citation:-1
+title:Technische Dokumentation von Soft- und Hardware-Systemen: Die vergessene Welt. citation:-1
+title:Grouping Heuristics for Word-Level Decision Diagrams. citation:-1
+title:Formale Verifikation von LTL-Formeln für SystemC-Beschreibungen. citation:-1
+title:Circuit Line Minimization in the HDL-Based Synthesis of Reversible Logic. citation:-1
+title:Reversible Circuits: Recent Accomplishments and Future Challenges for an Emerging Technology - (Invited Paper). citation:-1
+title:A new SAT-based ATPG for generating highly compacted test sets. citation:-1
+title:Coverage-Driven Stimuli Generation. citation:-1
+title:The system verification methodology for advanced TLM verification. citation:-1
+title:Generierung von OCL-Ausdrücken aus natürlichsprachlichen Beschreibungen. citation:-1
+title:Complete and effective robustness checking by means of interpolation. citation:-1

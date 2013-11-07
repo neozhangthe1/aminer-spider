@@ -1,0 +1,439 @@
+title1:Intersession variability compensation for language detection. title2:Intersession variability compensation for language detection citation:6 ncitation:5 pid2175843
+title1:Learning Patterns from Images by Combining Soft Decisions and Hard Decisions. title2:Learning patterns from images by combining soft decisions and hard decisions citation:15 ncitation:14 pid1330463
+title1:Articulate Hand Motion Capturing Based on a Monte Carlo Nelder-Mead Simplex Tracker. title2:Articulate hand motion capturing based on a Monte Carlo Nelder-Mead simplex tracker citation:4 ncitation:4 pid128182
+title1:Modeling the Constraints of Human Hand Motion. title2:Modeling the constraints of human hand motion citation:163 ncitation:139 pid1097621
+title1:Robust Local Scoring Function for Text-Independent Speaker Verification. title2:Robust local scoring function for text-independent speaker verification citation:3 ncitation:3 pid15322
+title1:Memory-Based Moving Object Extraction for Video Indexing. title2:Memory-based moving object extraction for video indexing citation:10 ncitation:11 pid205841
+title1:Enhanced 3D geometric-model-based face tracking in low resolution with appearance model. title2:Enhanced 3D geometric-model-based face tracking in low resolution with appearance model citation:4 ncitation:4 pid349155
+title1:Region Based Hidden Markov Random Field Model for Brain MR Image Segmentation. title2:Region Based Hidden Markov Random Field Model for Brain MR Image Segmentation. citation:5 ncitation:4 pid205844
+title1:Audio segment retrieval using a short duration example query. title2:Audio segment retrieval using a short duration example query citation:11 ncitation:8 pid323405
+title1:Non-parametric image super-resolution using multiple images. title2:Non-parametric image super-resolution using multiple images citation:12 ncitation:12 pid658520
+title1:Diverse Active Ranking for Multimedia Search. title2:Diverse active ranking for multimedia search citation:4 ncitation:4 pid331413
+title1:Real Time Speech Driven Facial Animation Using Formant Analysis. title2:Real Time Speech Driven Facial Animation Using Formant Analysis. citation:9 ncitation:9 pid1006542
+title1:Relevance Feedback Techniques in Interactive Content-Based Image Retrieval. title2:Relevance feedback techniques in interactive content-based image retrieval citation:246 ncitation:232 pid2304720
+title1:Comparing discriminating transformations and SVM for learning during multimedia retrieval. title2:Comparing discriminating transformations and SVM for learning during multimedia retrieval citation:114 ncitation:106 pid331422
+title1:A Unified Structure-Based Framework for Indexing and Gisting of Meetings. title2:A unified structure-based framework for indexing and gisting of meetings citation:9 ncitation:10 pid615467
+title1:Transformed Hidden Markov Models: Estimating Mixture Models of Images and Inferring Spatial Transformations in Video Sequence. title2:Transformed hidden markov models: Estimating mixture models of images and inferring spatial transformations in video sequences citation:58 ncitation:56 pid330411
+title1:Face as Mouse Through Visual Face Tracking. title2:Face as mouse through visual face tracking citation:94 ncitation:60 pid503228
+title1:3D facial expression recognition based on properties of line segments connecting facial feature points. title2:3D facial expression recognition based on properties of line segments connecting facial feature points citation:50 ncitation:33 pid330413
+title1:Efficient initialization of Mixtures of Experts for human pose estimation. title2:Efficient initialization of mixtures of experts for human pose estimation citation:6 ncitation:6 pid128241
+title1:Evaluation of salient point techniques. title2:Evaluation of salient point techniques citation:59 ncitation:85 pid119514
+title1:Correlation Metric for Generalized Feature Extraction. title2:Correlation metric for generalized feature extraction citation:63 ncitation:52 pid326218
+title1:Locating Nose-Tips and Estimating Head Poses in Images by Tensorposes. title2:Locating nosetips and estimating head pose in images by tensorposes citation:4 ncitation:12 pid2265685
+title1:Learning a Spatially Smooth Subspace for Face Recognition. title2:Learning a spatially smooth subspace for face recognition citation:144 ncitation:132 pid1226623
+title1:Contextual motion field-based distance for video analysis. title2:Contextual motion field-based distance for video analysis citation:2 ncitation:1 pid205915
+title1:Use IRAM for Rasterization. title2:Use IRAM for rasterization citation:5 ncitation:4 pid1520679
+title1:Estimation of rigid body motion using straight line correspondences. title2:Estimation of rigid body motion using straight line correspondences citation:125 ncitation:133 pid331473
+title1:A linear algorithm for motion estimation using straight line correspondences. title2:A linear algorithm for motion estimation using straight line correspondences citation:120 ncitation:107 pid130139
+title1:Finding point correspondences and determining motion of a rigid object from two weak perspective views. title2:Finding point correspondence and determining motion of a rigid object from two weak perspective views citation:73 ncitation:71 pid318537
+title1:Discriminative learning of visual words for 3D human pose estimation. title2:Discriminative learning of visual words for 3D human pose estimation citation:62 ncitation:52 pid2298205
+title1:Efficient Nonparametric Belief Propagation with Application to Articulated Body Tracking. title2:Efficient nonparametric belief propagation with application to articulated body tracking citation:42 ncitation:41 pid1329453
+title1:Real-Time Humanoid Avatar for Multimodal Human-Machine Interaction. title2:Real-time humanoid avatar for multimodal human-machine interaction citation:3 ncitation:3 pid1575313
+title1:Recover Human Pose from Monocular Image Under Weak Perspective Projection. title2:Recover human pose from monocular image under weak perspective projection citation:10 ncitation:7 pid1479106
+title1:Variational Shift Invariant Probabilistic PCA for Face Recognition. title2:Variational shift invariant probabilistic PCA for face recognition citation:2 ncitation:3 pid834203
+title1:Finding point correspondence and determining motion of a rigid object from two weak perspective views. title2:Finding point correspondence and determining motion of a rigid object from two weak perspective views citation:73 ncitation:71 pid907843
+title1:Spontaneous Emotional Facial Expression Detection. title2:Spontaneous Emotional Facial Expression Detection. citation:61 ncitation:50 pid834205
+title1:Face Localization via Hierarchical CONDENSATION with Fisher Boosting Feature Selection. title2:Face localization via hierarchical condensation with fisher boosting feature selection citation:41 ncitation:39 pid503967
+title1:Semisupervised Learning of Classifiers: Theory, Algorithms, and Their Application to Human-Computer Interaction. title2:Semisupervised learning of classifiers: Theory, algorithms, and their application to human-computer interaction citation:179 ncitation:165 pid907854
+title1:Update Relevant Image Weights for Content-Based Image Retrieval using Support Vector Machines. title2:Update relevant image weights for content-based image retrieval using support vector machines citation:58 ncitation:57 pid332766
+title1:Parameterized discriminant analysis for image classification. title2:Parameterized discriminant analysis for image classification citation:5 ncitation:3 pid205987
+title1:Image registration by matching relational structures. title2:Image registration by matching relational structures citation:78 ncitation:76 pid130233
+title1:Surveillance Event Detection. title2:Surveillance Event Detection. citation:11 ncitation:11 pid128034
+title1:Robust Error Metric Analysis for Noise Estimation in Image Indexing. title2:Robust error metric analysis for noise estimation in image indexing citation:5 ncitation:4 pid293786
+title1:Robust Analysis and Weighting on MFCC Components for Speech Recognition and Speaker Identification. title2:Robust analysis and weighting on MFCC components for speech recognition and speaker identification citation:12 ncitation:8 pid349012
+title1:Unifying Keywords and Visual Contents in Image Retrieval. title2:Unifying keywords and visual contents in image retrieval citation:200 ncitation:192 pid834188
+title1:Integration of Audio/Visual Information for Use in Human-Computer Intelligent Interaction. title2:Integration of audio/visual information for use in human-computer intelligent interaction citation:12 ncitation:11 pid331272
+title1:Explanation-Based Facial Motion Tracking Using a Piecewise Bézier Volume Deformation Model. citation:100 ncitation:101 pid331274
+title1:Connected Vibrations: A Modal Analysis Approach for Non-Rigid Motion Tracking. title2:Connected vibrations: a modal analysis approach for non-rigid motion tracking citation:93 ncitation:91 pid1097782
+title1:Exploring Discriminative Learning for Text-Independent Speaker Recognition. title2:Exploring discriminative learning for text-independent speaker recognition citation:3 ncitation:3 pid1038921
+title1:Using Motion from Orthographic Views to Verify 3-D Point Matches. title2:Using motion from orthographic views to verify 3-D point matches citation:9 ncitation:8 pid1038920
+title1:Modeling, Analysis, and Visualization of Left Ventricle Shape and Motion by Hierarchical Decomposition. title2:Modeling, analysis, and visualization of left ventricle shape and motion by hierarchical decomposition citation:139 ncitation:140 pid331268
+title1:An audio-visual fusion framework with joint dimensionality reducton. title2:An audio-visual fusion framework with joint dimensionality reducton citation:9 ncitation:10 pid2395001
+title1:Identify Regions of Interest(ROI) for video watermark embedment with Principle Component Analysis. title2:Identify Regions of Interest (ROI) for video watermark embedment with principle component analysis citation:4 ncitation:4 pid332794
+title1:Locality Versus Globality: Query-Driven Localized Linear Models for Facial Image Computing. title2:Locality versus globality: query-driven localized linear models for facial image computing citation:13 ncitation:11 pid894321
+title1:Capturing Subtle Facial Motions in 3D Face Tracking. title2:Capturing subtle facial motions in 3d face tracking citation:83 ncitation:76 pid2184456
+title1:Total Variation Models for Variable Lighting Face Recognition. title2:Total variation models for variable lighting face recognition citation:259 ncitation:206 pid1097819
+title1:An image watermarking technique using pyramid transform. title2:An image watermarking technique using pyramid transform citation:9 ncitation:8 pid2299303
+title1:A framework of joint object tracking and event detection. title2:A framework of joint object tracking and event detection citation:4 ncitation:3 pid332681
+title1:Convergent 2-D Subspace Learning With Null Space Analysis. title2:Convergent 2-D subspace learning with null space analysis citation:11 ncitation:9 pid320369
+title1:A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions. title2:A survey of affect recognition methods: Audio, visual, and spontaneous expressions citation:900 ncitation:675 pid129199
+title1:A Hybrid NN-Bayesian Architecture for Information Fusion. title2:A hybrid NN-Bayesian architecture for information fusion citation:14 ncitation:10 pid129198
+title1:Fusing Audio and Visual Features of Speech. title2:Fusing audio and visual features of speech citation:8 ncitation:7 pid332679
+title1:Optimal Multi-Scale Matching. title2:Optimal multi-scale matching citation:8 ncitation:9 pid1031317
+title1:Intermediate Views for Face Recognition. title2:Intermediate views for face recognition citation:2 ncitation:2 pid1031316
+title1:3-D Reconstruction of Multipart Self-Occluding Objects. title2:3-D Reconstruction of multipart self-occluding objects citation:13 ncitation:15 pid1031318
+title1:Estimation of 3D structure and motion from image corners. title2:Estimation of 3D structure and motion from image corners citation:12 ncitation:9 pid1330626
+title1:Articulated Joint Estimation from Motion Using Two Monocular Images. title2:Articulated joint estimation from motion using two monocular images citation:7 ncitation:7 pid1100953
+title1:Face Relighting with Radiance Environment Maps. title2:Face relighting with radiance environment maps citation:92 ncitation:85 pid1031330
+title1:Online appearance learning by template prediction. title2:Online appearance learning by template prediction citation:4 ncitation:5 pid1097854
+title1:Head Pose Computation for Very Low Bit-rate Video Coding. title2:Head pose computation for very low bit-rate video coding citation:11 ncitation:11 pid293869
+title1:Ubiquitously Supervised Subspace Learning. title2:Ubiquitously supervised subspace learning citation:14 ncitation:13 pid1031338
+title1:Regression From Uncertain Labels and Its Applications to Soft Biometrics. title2:Regression from uncertain labels and its applications to soft biometrics citation:15 ncitation:13 pid502103
+title1:Determining 3D Structure and Motion of Man-Made Objects from Image Corners. title2:Determining 3D structure and motion of man-made objects from image corners citation:7 ncitation:5 pid2132833
+title1:Motion Estimation of Articulated Objects from Perspective Views. title2:Motion estimation of articulated objects from perspective views citation:5 ncitation:5 pid867725
+title1:Improving Visual Matching. title2:Improving visual matching citation:9 ncitation:9 pid346782
+title1:Correspondence Propagation with Weak Priors. title2:Correspondence propagation with weak priors citation:13 ncitation:11 pid1097838
+title1:Capturing Articulated Human Hand Motion: A Divide-and-Conquer Approach. title2:Capturing articulated human hand motion: A divide-and-conquer approach citation:116 ncitation:107 pid1226704
+title1:Subband-Based, Memory-Efficient JPEG2000 Images Indexing in Compressed-Domain. title2:Block-based, memory-efficient JPEG2000 images indexing in compressed-domain citation:5 ncitation:13 pid2130925
+title1:Metric Learning for Regression Problems and Human Age Estimation. title2:Metric learning for regression problems and human age estimation citation:3 ncitation:2 pid128431
+title1:Linear spatial pyramid matching using sparse coding for image classification. title2:Linear spatial pyramid matching using sparse coding for image classification citation:740 ncitation:451 pid17878
+title1:Block-Based, Memory-Efficient JPEG2000 Images Indexing in Compressed-Domain. title2:Block-based, memory-efficient JPEG2000 images indexing in compressed-domain citation:5 ncitation:13 pid1040437
+title1:Laplacian Affinity Propagation for Semi-Supervised Object Classification. title2:Laplacian affinity propagation for semi-supervised object classification citation:5 ncitation:5 pid1366
+title1:Determining straight line correspondences from intensity images. title2:Determining straight line correspondences from intensity images citation:67 ncitation:60 pid129399
+title1:Locally adaptive subspace and similarity metric learning for visual data clustering and retrieval. title2:Locally adaptive subspace and similarity metric learning for visual data clustering and retrieval citation:11 ncitation:10 pid835656
+title1:Three-dimensional motion determination from real scene images using straight line correspondences. title2:Three-dimensional motion determination from real scene images using straight line correspondences citation:13 ncitation:13 pid1303036
+title1:Guest Editors' Introduction to the Special Section on Graphical Models in Computer Vision. title2:Guest editors' introduction to the special section on graphical models in computer vision citation:7 ncitation:7 pid1103082
+title1:Which "Apple" are you talking about ? title2:Which Apple are you talking about? citation:6 ncitation:6 pid1286507
+title1:Correlation Embedding Analysis. title2:Correlation embedding analysis citation:4 ncitation:3 pid332354
+title1:3D Model-Based Video Coding: Computer Vision Meets Computer Graphics. title2:3D model-based video coding: Computer vision meets computer graphics citation:4 ncitation:3 pid618593
+title1:3-D Face Modeling and Its Applications. title2:3-D face modeling and its applications citation:13 ncitation:14 pid2212010
+title1:A Knowledge-Based Approach to Volumetric Medical Image Segmentation. title2:A knowledge-based approach to volumetric medical image segmentation citation:11 ncitation:10 pid1103064
+title1:Fractal-Based Techniques for a Generalized Image Coding Method. title2:Fractal-based techniques for a generalized image coding method citation:38 ncitation:37 pid618585
+title1:Efficient Terrain Data Representation for 3D Rendering Using the Generalized BFOS Algorithm. title2:Efficient terrain data representation for 3D rendering using the generalized BFOS algorithm citation:2 ncitation:2 pid835437
+title1:Variable module graphs: a framework for inference and learning in modular vision systems. title2:Variable module graphs: a framework for inference and learning in modular vision systems citation:2 ncitation:2 pid1308798
+title1:Multi-stream Confidence Analysis for Audio-Visual Affect Recognition. title2:Multi-stream confidence analysis for audio-visual affect recognition citation:8 ncitation:6 pid1304911
+title1:Image enhancement using the median and the interquartile distance. title2:Image enhancement using the median and the interquartile distance citation:35 ncitation:30 pid2357155
+title1:Parametric contour tracking using unscented Kalman filter. title2:Parametric contour tracking using unscented Kalman filter citation:43 ncitation:38 pid618582
+title1:A novel Gaussianized vector representation for natural scene categorization. title2:A novel Gaussianized vector representation for natural scene categorization. citation:12 ncitation:12 pid330702
+title1:A novel relevance feedback technique in image retrieval. title2:A novel relevance feedback technique in image retrieval citation:177 ncitation:173 pid835700
+title1:Hierarchical MRF model for model-based multi-object tracking. title2:Hierarchical MRF model for model-based multi-object tracking citation:6 ncitation:6 pid1040388
+title1:iFACE: A 3D Synthetic Talking Face. title2:iFACE: a 3D synthetic talking face citation:34 ncitation:34 pid2361128
+title1:Human age estimation using bio-inspired features. title2:Human age estimation using bio-inspired features citation:99 ncitation:93 pid2206449
+title1:Spoken Language Acquisition Via Human-Robot Interaction. title2:Spoken Language Acquisition Via Human-Robot Interaction. citation:2 ncitation:2 pid675282
+title1:Transductive regression piloted by inter-manifold relations. title2:Transductive regression piloted by inter-manifold relations citation:6 ncitation:5 pid2273606
+title1:Face as mouse through visual face tracking. title2:Face as mouse through visual face tracking citation:94 ncitation:60 pid361018
+title1:Real-time conversion from a single 2D face image to a 3D text-driven emotive audio-visual avatar. title2:Real-time conversion from a single 2D face image to a 3D text-driven emotive audio-visual avatar citation:5 ncitation:3 pid919036
+title1:Self-supervised learning based on discriminative nonlinear features for image classification. title2:Self-supervised learning based on discriminative nonlinear features for image classification citation:13 ncitation:12 pid468261
+title1:Content-Based Image Retrieval by Feature Adaptation and Relevance Feedback. title2:Content-based image retrieval by feature adaptation and relevance feedback citation:43 ncitation:33 pid2229093
+title1:Annotating collections of photos using hierarchical event and scene models. title2:Annotating collections of photos using hierarchical event and scene models citation:41 ncitation:34 pid1103023
+title1:Factor graph framework for semantic video indexing. title2:Factor graph framework for semantic video indexing citation:174 ncitation:177 pid1113680
+title1:Temporal difference learning to detect unsafe system states. title2:Temporal difference learning to detect unsafe system states citation:2 ncitation:-1 pid317758
+title1:Breaking the clock face HIP. title2:Breaking the clock face hip [web services human interactive proofs] citation:3 ncitation:-1 pid320247
+title1:Subspace learning for human head pose estimation. title2:Subspace learning for human head pose estimation citation:5 ncitation:3 pid169224
+title1:Artifact reduction in low bit rate DCT-based image compression. title2:Artifact reduction in low bit rate DCT-based image compression citation:88 ncitation:86 pid322147
+title1:Image Classification Using Correlation Tensor Analysis. title2:Image classification using correlation tensor analysis citation:58 ncitation:49 pid834394
+title1:Regression from patch-kernel. title2:Regression from patch-kernel citation:86 ncitation:70 pid316892
+title1:Mode-kn Factor Analysis for Image Ensembles. title2:Mode-kn factor analysis for image ensembles citation:4 ncitation:4 pid321162
+title1:Optimal segmentation of signals and its application to image denoising and boundary feature extraction. title2:Optimal segmentation of signals and its application to image denoising and boundary feature extraction citation:2 ncitation:1 pid502913
+title1:Semantic Video Indexing Using a Probabilistic Framework. title2:Semantic video indexing using a probabilistic framework citation:47 ncitation:49 pid316881
+title1:Non-negative graph embedding. title2:Non-negative graph embedding citation:39 ncitation:32 pid1646764
+title1:Learning Sparse Multiple Cause Models. title2:Learning sparse multiple cause models citation:2 ncitation:2 pid50336
+title1:A Region-Based Method for Model-Free Object Tracking. title2:A region-based method for model-free object tracking citation:12 ncitation:12 pid910377
+title1:Probabalistic Multimedia Objects (Multijects): A Novel Approach to Video Indexing and Retrieval in Multimedia Systems. title2:Probabilistic multimedia objects (multijects): A novel approach to video indexing and retrieval in multimedia systems citation:216 ncitation:207 pid2432240
+title1:A High-Performance Shot Boundary Detection Algorithm using Multiple Cues. title2:A high-performance shot boundary detection algorithm using multiple cues citation:167 ncitation:158 pid330637
+title1:Face Recognition with MRC-Boosting. title2:Face recognition with MRC-Boosting citation:11 ncitation:10 pid2430052
+title1:Discriminant-EM Algorithm with Application to Image Retrieval. title2:Discriminant-EM algorithm with application to image retrieval citation:221 ncitation:216 pid2185340
+title1:Detecting the wheel pattern of a vehicle using stereo images. title2:Detecting the wheel pattern of a vehicle using stereo images citation:2 ncitation:2 pid346893
+title1:View-Independent Recognition of Hand Postures. title2:View-independent recognition of hand postures citation:162 ncitation:148 pid336254
+title1:Multibody Grouping via Orthogonal Subspace Decomposition. title2:Multibody grouping via orthogonal subspace decomposition citation:43 ncitation:43 pid1373779
+title1:Image-Based Human Age Estimation by Manifold Learning and Locally Adjusted Robust Regression. title2:Image-based human age estimation by manifold learning and locally adjusted robust regression citation:155 ncitation:123 pid332510
+title1:Inferring Semantic Concepts for Video Indexing and Retrieval. title2:Inferring semantic concepts for video indexing and retrieval citation:2 ncitation:8 pid333458
+title1:Multimedia Understanding: Challenges in the New Millennium. title2:Multimedia understanding: Challenges in the new millennium citation:3 ncitation:3 pid1041653
+title1:Enhancing semantic and geographic annotation of web images via logistic canonical correlation regression. title2:Enhancing semantic and geographic annotation of web images via logistic canonical correlation regression citation:41 ncitation:32 pid1590493
+title1:Human Hand Modeling, Analysis, and Animation in the Context of HCI. title2:Human hand modeling, analysis and animation in the context of HCI citation:47 ncitation:46 pid1116708
+title1:Constructing Finite State Machines for Fast Gesture Recognition. title2:Constructing finite state machines for fast gesture recognition citation:39 ncitation:35 pid320061
+title1:Learning to Extract Temporal Signal Patterns from Temporal Signal Sequence. title2:Learning to extract temporal signal patterns from temporal signal sequence citation:8 ncitation:8 pid2236877
+title1:Discriminant simplex analysis. title2:Discriminant simplex analysis citation:2 ncitation:2 pid349707
+title1:ImageGrouper: a group-oriented user interface for content-based image retrieval and digital image arrangement. title2:< i> ImageGrouper</i>: a group-oriented user interface for content-based image retrieval and digital image arrangement citation:42 ncitation:39 pid333454
+title1:A survey of affect recognition methods: audio, visual and spontaneous expressions. title2:A survey of affect recognition methods: Audio, visual, and spontaneous expressions citation:900 ncitation:675 pid4233
+title1:Detection and Tracking of Faces and Facial Features. title2:Detection and tracking of faces and facial features citation:47 ncitation:47 pid1102934
+title1:Graph Embedded Analysis for Head Pose Estimation. title2:Graph embedded analysis for head pose estimation citation:84 ncitation:74 pid130457
+title1:Audio-Visual Affect Recognition through Multi-Stream Fused HMM for HCI. title2:Audio-visual affect recognition through multi-stream fused HMM for HCI citation:40 ncitation:30 pid332525
+title1:Multimedia Analysis and Retrieval System (MARS) Project. title2:Multimedia Analysis and Retrieval System (MARS) Project. citation:185 ncitation:177 pid946839
+title1:Multimodal Human Emotion/Expression Recognition. title2:Multimodal human emotion/expression recognition citation:116 ncitation:108 pid317916
+title1:Illumination Normalization for Face Recognition and Uneven Background Correction Using Total Variation Based Image Models. title2:Illumination normalization for face recognition and uneven background correction using total variation based image models citation:69 ncitation:61 pid348045
+title1:SODA-Boosting and Its Application to Gender Recognition. title2:SODA-Boosting and its application to gender recognition citation:10 ncitation:10 pid348043
+title1:Detecting Unsafe Driving Patterns using Discriminative Learning. title2:Detecting unsafe driving patterns using discriminative learning citation:6 ncitation:4 pid2140221
+title1:Ranking with Uncertain Labels. title2:Ranking with uncertain labels citation:54 ncitation:43 pid1166308
+title1:SIFT-Bag kernel for video event analysis. title2:Sift-bag kernel for video event analysis citation:63 ncitation:52 pid2465107
+title1:Enhancing Bilinear Subspace Learning by Element Rearrangement. title2:Enhancing bilinear subspace learning by element rearrangement citation:14 ncitation:12 pid347067
+title1:Authentic facial expression analysis. title2:Authentic facial expression analysis citation:182 ncitation:152 pid293590
+title1:Skin Detection: A Bayesian Network Approach. title2:Skin detection: A bayesian network approach citation:47 ncitation:41 pid2233052
+title1:Human computing and machine understanding of human behavior: a survey. title2:Human computing and machine understanding of human behavior: a survey citation:243 ncitation:126 pid129444
+title1:Emotion Recognition Based on Joint Visual and Audio Cues. title2:Emotion recognition based on joint visual and audio cues citation:77 ncitation:67 pid1040238
+title1:Supporting Ranked Boolean Similarity Queries in MARS. title2:Supporting ranked boolean similarity queries in MARS citation:209 ncitation:193 pid129441
+title1:Image super-resolution as sparse representation of raw image patches. title2:Image super-resolution as sparse representation of raw image patches citation:385 ncitation:254 pid129448
+title1:Learning Bayesian Network Classifiers for Facial Expression Recognition using both Labeled and Unlabeled Data. title2:Learning Bayesian network classifiers for facial expression recognition both labeled and unlabeled data citation:111 ncitation:104 pid2297149
+title1:A Loopy Belief Propagation approach for robust background estimation. title2:A loopy belief propagation approach for robust background estimation citation:12 ncitation:12 pid1102873
+title1:Human Computing and Machine Understanding of Human Behavior: A Survey. title2:Human computing and machine understanding of human behavior: a survey citation:243 ncitation:126 pid2438789
+title1:Articulated Body Tracking Using Dynamic Belief Propagation. title2:Articulated body tracking using dynamic belief propagation citation:10 ncitation:10 pid320090
+title1:On Optimizing Template Matching via Performance Characterization. title2:On optimizing template matching via performance characterization citation:2 ncitation:2 pid320088
+title1:Supporting Similarity Queries in MARS. title2:Supporting similarity queries in MARS citation:311 ncitation:287 pid320094
+title1:Face Detection With Information-Based Maximum Discrimination. title2:Face detection with information-based maximum discrimination citation:209 ncitation:196 pid1253144
+title1:Emotion Recognition Using a Cauchy Naive Bayes Classifier. title2:Emotion recognition using a cauchy naive bayes classifier citation:95 ncitation:91 pid347016
+title1:Boosting Gaussian mixture models via discriminant analysis. title2:Boosting gaussian mixture models via discriminant analysis citation:6 ncitation:6 pid322244
+title1:Matrix-Variate Factor Analysis and Its Applications. title2:Matrix-variate factor analysis and its applications citation:9 ncitation:8 pid347017
+title1:Affective multimodal human-computer interaction. title2:Affective multimodal human-computer interaction citation:114 ncitation:108 pid1166301
+title1:Small Sample Learning during Multimedia Retrieval using BiasMap. title2:Small sample learning during multimedia retrieval using biasmap citation:273 ncitation:251 pid347015
+title1:Relevance feedback in image retrieval: A comprehensive review. title2:Relevance feedback in image retrieval: A comprehensive review citation:672 ncitation:624 pid1330034
+title1:Bimodal HCI-related affect recognition. title2:Bimodal HCI-related affect recognition citation:50 ncitation:47 pid2299725
+title1:VACE Multimodal Meeting Corpus. title2:VACE multimodal meeting corpus citation:79 ncitation:80 pid1137789
+title1:Tracking Self-Occluding Articulated Objects in Dense Disparity Maps. title2:Tracking self-occluding articulated objects in dense disparity maps citation:110 ncitation:102 pid2133485
+title1:A Curvature-Based Approach to Terrain Recognition. title2:A curvature-based approach to terrain recognition citation:39 ncitation:35 pid317060
+title1:Extracting 3D Vortices in Turbulent Fluid Flow. title2:Extracting 3D vortices in turbulent fluid flow citation:36 ncitation:34 pid350589
+title1:Subjective Experiments on Gender and Ethnicity Recognition from Different Face Representations. title2:Subjective experiments on gender and ethnicity recognition from different face representations citation:2 ncitation:2 pid317061
+title1:Scale-Driven Iterative Optimization for Brain Extraction and Registration. title2:Scale-driven iterative optimization for brain extraction and registration citation:2 ncitation:2 pid205402
+title1:Camera and microphone array for 3D audiovisual face data collection. title2:Camera and microphone array for 3D audiovisual face data collection citation:3 ncitation:3 pid632749
+title1:Weighted Bayesian Network for Visual Tracking. title2:Weighted Bayesian network for visual tracking citation:6 ncitation:5 pid1653332
+title1:Image Representation and Retrieval Using Structural Features. title2:Image representation and retrieval using structure features citation:2 ncitation:3 pid205405
+title1:Emotional Expressions in Audiovisual Human Computer Interaction. title2:Emotional expressions in audiovisual human computer interaction citation:72 ncitation:66 pid503761
+title1:What are the 7 millennium problems in multimedia information retrieval? title2:What are the 7 millennium problems in multimedia information retrieval? citation:2 ncitation:2 pid129601
+title1:JPDAF Based HMM or Real-Time Contour Tracking. title2:JPDAF based HMM for real-time contour tracking citation:120 ncitation:114 pid160202
+title1:Multiple feature fusion by subspace learning. title2:Multiple feature fusion by subspace learning citation:42 ncitation:32 pid205378
+title1:Combined Audio And Videowatermarking Using Mel-Frequency Cepstra. title2:Combined Audio And Videowatermarking Using Mel-Frequency Cepstra. citation:3 ncitation:3 pid127684
+title1:Guest Editors' Introduction to the Special Section on Probabilistic Graphical Models. title2:Guest Editors' Introduction to the Special Section on Probabilistic Graphical Models citation:5 ncitation:5 pid205380
+title1:Optimum Detection of Multiplicative Watermarks using Locally Optimum Decision Rule. title2:Optimum Detection of Multiplicative Watermarks using Locally Optimum Decision Rule. citation:11 ncitation:9 pid40653
+title1:Improved Information Maximization based Face and Facial Feature Detection from Real-time Video and Application in a Multi-Modal Person Identification System. title2:Improved information maximization based face and facial feature detection from real-time video and application in a multi-modal person identification system citation:6 ncitation:7 pid639250
+title1:Blind Digital Watermarking for Images and Videos and Performance Analysis. title2:Blind digital watermarking for images and videos and performance analysis citation:37 ncitation:33 pid333109
+title1:Learning Recognition and Segmentation Using the Cresceptron. title2:Learning recognition and segmentation using the cresceptron citation:51 ncitation:50 pid1280174
+title1:Person Tracking in Smart Rooms using Dynamic Programming and Adaptive Subspace Learning. title2:Person tracking in smart rooms using dynamic programming and adaptive subspace learning citation:5 ncitation:5 pid1033526
+title1:One-class SVM for learning in image retrieval. title2:One-class SVM for learning in image retrieval citation:387 ncitation:367 pid947573
+title1:Audio-visual emotion recognition in adult attachment interview. title2:Audio-visual emotion recognition in adult attachment interview citation:37 ncitation:31 pid947572
+title1:A Drifting-proof Framework for Tracking and Online Appearance Learning. title2:A drifting-proof framework for tracking and online appearance learning citation:5 ncitation:5 pid334297
+title1:Incorporate Support Vector Machines to Content-Based Image Retrieval with Relevant Feedback. title2:Incorporate support vector machines to content-based image retrieval with relevance feedback citation:173 ncitation:151 pid348620
+title1:Visual Interpretation of Hand Gestures for Human-Computer Interaction: A Review. title2:Visual interpretation of hand gestures for human-computer interaction: A review citation:1418 ncitation:1264 pid330927
+title1:A DCT-Domain Blind Watermarking System Using Optimum Detection on Laplacian Model. title2:A DCT-domain blind watermarking system using optimum detection on Laplacian model citation:12 ncitation:14 pid127717
+title1:Online updating appearance generative mixture model for meanshift tracking. title2:Online updating appearance generative mixture model for meanshift tracking citation:6 ncitation:17 pid696780
+title1:Maximizing efficacy for efficient watermarking systems. title2:Maximizing efficacy for efficient watermarking systems citation:3 ncitation:3 pid1541142
+title1:Color Tracking by Transductive Learning. title2:Color tracking by transductive learning citation:87 ncitation:82 pid130613
+title1:Incremental Spectral Clustering With Application to Monitoring of Evolving Blog Communities. title2:Incremental Spectral Clustering With Application to Monitoring of Evolving Blog Communities. citation:49 ncitation:42 pid2357335
+title1:Discriminative local binary patterns for human detection in personal album. title2:Discriminative local binary patterns for human detection in personal album citation:103 ncitation:94 pid2429784
+title1:Boundary correction for total variation regularized L^1 function with applications to image decomposition and segmentation. title2:Boundary correction for total variation regularized L^ 1 function with applications to image decomposition and segmentation citation:3 ncitation:3 pid293147
+title1:Content-Based Image Retrieval with Relevance Feedback in MARS. title2:Content-based image retrieval with relevance feedback in MARS citation:830 ncitation:767 pid502701
+title1:Frequency-domain image errors. title2:Frequency-domain image errors citation:2 ncitation:2 pid127723
+title1:Combining Diversity-Based Active Learning with Discriminant Analysis in Image Retrieval. title2:Combining diversity-based active learning with discriminant analysis in image retrieval citation:7 ncitation:7 pid348624
+title1:Common Spatial Pattern Discovery by Efficient Candidate Pruning. title2:Common spatial pattern discovery by efficient candidate pruning citation:8 ncitation:8 pid127722
+title1:Guest Editors' Introduction: Human-Centered Computing--Toward a Human Revolution. title2:Guest Editors' Introduction: Human-Centered Computing--Toward a Human Revolution citation:41 ncitation:36 pid1481649
+title1:A probabilistic framework for semantic video indexing, filtering, and retrieval. title2:A probabilistic framework for semantic video indexing, filtering, and retrieval citation:255 ncitation:-1 pid350512
+title1:Supporting Content-based Queries over Images in MARS. title2:Supporting content-based queries over images in MARS citation:142 ncitation:136 pid2298692
+title1:Constructing Table-of-Content for Videos. title2:Constructing table-of-content for videos citation:315 ncitation:296 pid1683065
+title1:Learning probabilistic classifiers for human-computer interaction applications. citation:13 ncitation:13 pid1230483
+title1:Image Compression and Matching. title2:Image compression and matching citation:6 ncitation:5 pid1101355
+title1:Applications of Video-Content Analysis and Retrieval. title2:Applications of video-content analysis and retrieval citation:279 ncitation:252 pid2301979
+title1:Query-Driven Locally Adaptive Fisher Faces and Expert-Model for Face Recognition. title2:Query-driven locally adaptive Fisher faces and expert-model for face recognition citation:7 ncitation:6 pid1761215
+title1:3d Mars: Immersive Virtual Reality for Content-Based Image Retrieval. title2:3d Mars: Immersive Virtual Reality for Content-Based Image Retrieval. citation:53 ncitation:46 pid129562
+title1:On Analysis of Cloth Drape Range Data. title2:On analysis of cloth drape range data citation:8 ncitation:6 pid1011353
+title1:Some Properties of the E Matrix in Two-View Motion Estimation. title2:Some properties of the< e1> E</e1> matrix in two-view motion estimation citation:215 ncitation:197 pid334244
+title1:A Co-inference Approach to Robust Visual Tracking. title2:A co-inference approach to robust visual tracking citation:146 ncitation:139 pid501534
+title1:Video Based Person Authentication via Audio/Visual Association. title2:Video based person authentication via audio/visual association citation:2 ncitation:2 pid293240
+title1:Two-Handed Gesture Tracking Incorporating Template Warping with Static Segmentation. title2:Two-handed gesture tracking incorporating template warping with static segmentation citation:13 ncitation:12 pid695839
+title1:Computer Vision in Next Generation Image and Video Coding. title2:Computer vision in next generation image and video coding citation:2 ncitation:3 pid1031690
+title1:Motion and Structure from Orthographic Projections. title2:Motion and structure from orthographic projections citation:188 ncitation:175 pid1033544
+title1:A survey of construction and manipulation of octrees. title2:A survey of construction and manipulation of octrees citation:152 ncitation:133 pid1308635
+title1:Introduction to the Special Section on 3-D Modeling in Image Analysis. title2:Introduction to the Special Section on 3-D Modeling in Image Analysis citation:4 ncitation:3 pid2230512
+title1:A Probabilistic Framework for Semantic Indexing and Retrieval in Video. title2:A probabilistic framework for semantic indexing and retrieval in video citation:48 ncitation:47 pid349643
+title1:Classifying Motion Picture Soundtrack For Video Indexing. title2:Classifying Motion Picture Soundtrack For Video Indexing. citation:8 ncitation:8 pid329888
+title1:Gesture Modeling and Recognition Using Finite State Machines. title2:Gesture modeling and recognition using finite state machines citation:169 ncitation:145 pid500579
+title1:Automated registration of multimodality images by maximization of a region similarity measure. title2:Automated registration of multimodality images by maximization of a region similarity measure citation:4 ncitation:4 pid127679
+title1:Basis pursuit for tracking. title2:Basis pursuit for tracking citation:3 ncitation:2 pid98685
+title1:Annotating photo collections by label propagation according to multiple similarity cues. title2:Annotating photo collections by label propagation according to multiple similarity cues citation:70 ncitation:56 pid1591058
+title1:A Corner Finding Algorithm for Image Analysis and Registration. title2:A Corner Finding Algorithm for Image Analysis and Registration. citation:40 ncitation:40 pid329915
+title1:Fast Camera Motion Analysis in Mpeg Domain. title2:Fast camera motion analysis in MPEG domain citation:78 ncitation:72 pid1280192
+title1:Speech/Gesture Interface to a Visual-Computing Environment. title2:Speech/gesture interface to a visual-computing environment citation:38 ncitation:33 pid329914
+title1:Vision Based Hand Modeling and Tracking for Virtual Teleconferencing and Telecollaboration. title2:Vision based hand modeling and tracking for virtual teleconferencing and telecollaboration citation:165 ncitation:164 pid329913
+title1:Detection and Estimation of Pointing Gestures in Dense Disparity Maps. title2:Detection and estimation of pointing gestures in dense disparity maps citation:150 ncitation:140 pid501563
+title1:A simplified linear optic flow-motion algorithm. title2:A simplified linear optic flow-motion algorithm citation:57 ncitation:55 pid695813
+title1:Maximal matching of 3-D points for multiple-object motion estimation. title2:Maximal matching of 3-D points for multiple-object motion estimation citation:43 ncitation:39 pid908504
+title1:A Joint System for Person Tracking and Face Detection. title2:A joint system for person tracking and face detection citation:11 ncitation:11 pid332058
+title1:Facial expression recognition: A clustering-based approach. title2:Facial expression recognition: a clustering-based approach citation:86 ncitation:67 pid238387
+title1:Authentic Facial Expression Analysis. title2:Authentic facial expression analysis citation:182 ncitation:152 pid2329400
+title1:Edge-based structural features for content-based image retrieval. title2:Edge-based structural features for content-based image retrieval citation:133 ncitation:121 pid316933
+title1:EAVA: A 3D Emotive Audio-Visual Avatar. title2:EAVA: a 3D emotive audio-visual avatar citation:7 ncitation:8 pid334193
+title1:Evaluation of Expression Recognition Techniques. title2:Evaluation of expression recognition techniques citation:12 ncitation:10 pid2360483
+title1:Visualization and User-Modeling for Browsing Personal Photo Libraries. title2:Visualization and user-modeling for browsing personal photo libraries citation:83 ncitation:75 pid2324988
+title1:Optimizing Image Registration by Mutually Exclusive Scale Components. title2:Optimizing image registration by mutually exclusive scale components citation:2 ncitation:2 pid651064
+title1:Optimal edge detection in two-dimensional images. title2:Optimal edge detection in two-dimensional images citation:81 ncitation:62 pid1032681
+title1:Human face detection in a complex background. title2:Human face detection in a complex background citation:783 ncitation:764 pid316942
+title1:Optimum Fiducials under Weak Perspective Projection. title2:Optimum fiducials under weak perspective projection citation:12 ncitation:12 pid1279203
+title1:Linear Algorithm for Motion Estimation: How to Handle Degenerate Cases. title2:Linear algorithm for motion estimation: How to handle degenerate cases citation:9 ncitation:10 pid316951
+title1:Performance analysis and error exponents of asymmetric watermarking systems. title2:Performance analysis and error exponents of asymmetric watermarking systems citation:4 ncitation:3 pid579283
+title1:Optimizing Learning in Image Retrieval. title2:Optimizing learning in image retrieval citation:390 ncitation:362 pid318158
+title1:Solving three-dimensional small-rotation motion equations: Uniqueness, algorithms, and numerical results. title2:Solving three-dimensional small-rotation motion equations: Uniqueness, algorithms, and numerical results citation:55 ncitation:48 pid1038438
+title1:A probabilistic framework for segmentation and tracking of multiple non rigid objects for video surveillance. title2:A probabilistic framework for segmentation and tracking of multiple non rigid objects for video surveillance citation:7 ncitation:6 pid324673
+title1:Solving three-dimensional small-rotation motion equations: Uniqueness, algorithms, and numerical results. title2:Solving three-dimensional small-rotation motion equations: Uniqueness, algorithms, and numerical results citation:55 ncitation:48 pid808884
+title1:Matching Two Perspective Views. title2:Matching two perspective views citation:191 ncitation:184 pid1011308
+title1:Learning and Feature Selection in Stereo Matching. title2:Learning and feature selection in stereo matching citation:127 ncitation:117 pid1475320
+title1:Improving Speaker Diarization by Cross EM Refinement. title2:Improving speaker diarization by cross EM refinement citation:5 ncitation:5 pid2182897
+title1:Deriving Facial Articulation Models from Image Sequences. title2:Deriving facial articulation models from image sequences citation:8 ncitation:9 pid1011320
+title1:Audio-Visual Speaker Localization Using Graphical Models. title2:Audio-visual speaker localization using graphical models citation:12 ncitation:11 pid319139
+title1:Mixtures of Local Linear Subspaces for Face Recognition. title2:Mixtures of local linear subspaces for face recognition citation:83 ncitation:79 pid1039438
+title1:A neural net algorithm for multidimensional maximum entropy spectrum estimation. title2:A neural net algorithm for multidimensional maximum entropy spectrum estimation citation:3 ncitation:3 pid324640
+title1:Improved Graphical Model for Audiovisual Object Tracking. title2:Improved graphical model for audiovisual object tracking citation:3 ncitation:2 pid2458497
+title1:Multimodal Surveillance: an Introduction. title2:Multimodal surveillance: an introduction citation:7 ncitation:5 pid330828
+title1:An Efficient Hidden-Line Removal Method Based on Z-Buffer Algorithm. title2:An efficient hidden-line removal method based on Z-buffer algorithm citation:2 ncitation:2 pid350654
+title1:Facial expression recognition from video sequences: temporal and static modeling. title2:Facial expression recognition from video sequences: temporal and static modeling citation:491 ncitation:458 pid1031850
+title1:An Integrated Approach to 3D Motion Analysis and Object Recognition. title2:An integrated approach to 3D motion analysis and object recognition citation:10 ncitation:10 pid1185471
+title1:Formulating Face Verification With Semidefinite Programming. title2:Formulating face verification with semidefinite programming citation:5 ncitation:5 pid293344
+title1:3D Model-Based Hand Tracking Using Stochastic Direct Search Method. title2:3D model-based hand tracking using stochastic direct search method citation:46 ncitation:37 pid332195
+title1:Calibrating Head Pose Estimation in Videos for Meeting Room Event Analysis. title2:Calibrating head pose estimation in videos for meeting room event analysis citation:13 ncitation:12 pid17978
+title1:Flexible X-Y patches for face recognition. title2:Flexible XY patches for face recognition citation:10 ncitation:7 pid2456008
+title1:Tracking Articulated Hand Motion with Eigen Dynamics Analysis. title2:Tracking articulated hand motion with eigen dynamics analysis citation:96 ncitation:87 pid1559786
+title1:Segmentation-based object tracking using image warping and Kalman filtering. title2:Segmentation-based object tracking using image warping and kalman filtering citation:10 ncitation:8 pid169652
+title1:Self-Supervised Learning for Object Recognition based on Kernel Discriminant-EM Algorithm. title2:Self-supervised learning for object recognition based on kernel discriminant-EM algorithm citation:38 ncitation:37 pid330833
+title1:Video Sequence Learning and Recognition Via Dynamic Som. title2:Video sequence learning and recognition via dynamic SOM citation:2 ncitation:4 pid330836
+title1:Capturing Natural Hand Articulation. title2:Capturing natural hand articulation citation:212 ncitation:197 pid205443
+title1:Automatic Video Annotation Using Multimodal Dirichlet Process Mixture Model. title2:Automatic video annotation using multimodal Dirichlet process mixture model citation:5 ncitation:5 pid2358475
+title1:Person Identification Based on Multichannel and Multimodality Fusion. title2:Person identification based on multichannel and multimodality fusion citation:4 ncitation:3 pid2447176
+title1:Locating Nosetips and Estimating Head Pose in Images by Tensorposes. title2:Locating nosetips and estimating head pose in images by tensorposes citation:4 ncitation:12 pid12689
+title1:Comparison of Algorithms for Speaker Identification under Adverse Far-Field Recording Conditions with Extremely Short Utterances. title2:Comparison of algorithms for speaker identification under adverse far-field recording conditions with extremely short utterances citation:4 ncitation:3 pid322030
+title1:Analyzing and Capturing Articulated Hand Motion in Image Sequences. title2:Analyzing and capturing articulated hand motion in image sequences citation:79 ncitation:68 pid786949
+title1:Adaptive Key Frame Extraction using Unsupervised Clustering. title2:Adaptive key frame extraction using unsupervised clustering citation:427 ncitation:396 pid502637
+title1:Optimum Fiducials Under Weak Perspective Projection. title2:Optimum fiducials under weak perspective projection citation:12 ncitation:12 pid293340
+title1:Visualization, Estimation and User-Modeling for Interactive Browsing of Image Libraries. title2:Visualization, estimation and user-modeling for interactive browsing of image libraries citation:10 ncitation:10 pid1433054
+title1:Determining articulated motion from perspective views: A decomposition approach. title2:Determining articulated motion from perspective views: A decomposition approach citation:61 ncitation:32 pid205481
+title1:MPEG4 performance-driven avatar via robust facial motion tracking. title2:MPEG4 performance-driven avatar via robust facial motion tracking citation:8 ncitation:7 pid834688
+title1:Vision-Based Gesture Recognition: A Review. title2:Vision-based gesture recognition: A review citation:391 ncitation:362 pid1580725
+title1:Learning a Person-Independent Representation for Precise 3D Pose Estimation. title2:Learning a person-independent representation for precise 3D pose estimation citation:12 ncitation:10 pid1531114
+title1:The State of the Art in Image and Video Retrieval. title2:The state of the art in image and video retrieval citation:90 ncitation:87 pid1038813
+title1:Evaluation of Salient Point Techniques. title2:Evaluation of salient point techniques citation:59 ncitation:85 pid294015
+title1:Multichannel and Multimodality Person Identification. title2:Multichannel and Multimodality Person Identification citation:2 ncitation:1 pid1044162
+title1:3D human model and joint parameter estimation from monocular image. title2:3D human model and joint parameter estimation from monocular image citation:4 ncitation:4 pid205639
+title1:Exploring Video Structure Beyond the Shots. title2:Exploring video structure beyond the shots citation:188 ncitation:176 pid907761
+title1:A Parameter-Free Framework for General Supervised Subspace Learning. title2:A parameter-free framework for general supervised subspace learning citation:16 ncitation:13 pid2227486
+title1:Time-Series Classification Using Mixed-State Dynamic Bayesian Networks. title2:Time-series classification using mixed-state dynamic Bayesian networks citation:66 ncitation:65 pid1576571
+title1:'Bag of segments' for motion trajectory analysis. title2:'Bag of segments' for motion trajectory analysis citation:6 ncitation:5 pid2231769
+title1:A Realtime Shrug Detector. title2:A realtime shrug detector citation:4 ncitation:4 pid837173
+title1:Multimodal Speaker Detection Using Error Feedback Dynamic Bayesian Networks. title2:Multimodal speaker detection using error feedback dynamic Bayesian networks citation:60 ncitation:58 pid1101674
+title1:A Fast 2D Shape Recovery Approach by Fusing Features and Appearance. title2:A fast 2d shape recovery approach by fusing features and appearance citation:13 ncitation:12 pid135738
+title1:Robust Visual Tracking by Integrating Multiple Cues Based on Co-Inference Learning. title2:Robust visual tracking by integrating multiple cues based on co-inference learning citation:125 ncitation:108 pid1041991
+title1:New Devices for 3D Pose Estimation: Mantis Eyes, Agam Paintings, Sundials, and Other Space Fiducials. title2:New devices for 3D pose estimation: Mantis eyes, Agam paintings, sundials, and other space fiducials citation:7 ncitation:8 pid292885
+title1:Minimum Variance Estimation of 3D Face Shape from Multi-view. title2:Minimum variance estimation of 3d face shape from multi-view citation:6 ncitation:4 pid1494846
+title1:Motion and Structure From Two Perspective Views: Algorithms, Error Analysis, and Error Estimation. title2:Motion and structure from two perspective views: Algorithms, error analysis, and error estimation citation:522 ncitation:522 pid528207
+title1:Nonparametric tests for edge detection in noise. title2:Nonparametric tests for edge detection in noise citation:50 ncitation:45 pid1575454
+title1:Optimal Motion and Structure Estimation. title2:Optimal motion and structure estimation citation:355 ncitation:350 pid205681
+title1:Motion and Structure from Line Correspondences; Closed-Form Solution, Uniqueness, and Optimization. title2:Motion and structure from line correspondences; closed-form solution, uniqueness, and optimization citation:154 ncitation:140 pid1329749
+title1:Combine User Defined Region-of-Interest and Spatial Layout for Image Retrieval. title2:Combine user defined region-of-interest and spatial layout for image retrieval citation:59 ncitation:50 pid1373381
+title1:Toward an improved error metric. title2:Toward an improved error metric citation:4 ncitation:4 pid410595
+title1:Generative and Discriminative Face Modelling for Detection. title2:Generative and discriminative face modelling for detection citation:10 ncitation:10 pid1504487
+title1:Utilizing Information Theoretic Diversity for SVM Active Learn. title2:Utilizing Information Theoretic Diversity for SVM Active Learn citation:6 ncitation:5 pid128944
+title1:Head pose estimation: Classification or regression? title2:Head pose estimation: Classification or regression? citation:12 ncitation:8 pid325907
+title1:Enforcing Integrability for Surface Reconstruction Algorithms Using Belief Propagation in Graphical Models. title2:Enforcing integrability for surface reconstruction algorithms using belief propagation in graphical models citation:40 ncitation:37 pid491093
+title1:Online Updating Appearance Generative Mixture Model for Meanshift Tracking. title2:Online updating appearance generative mixture model for meanshift tracking citation:6 ncitation:15 pid833817
+title1:Estimating Human Age by Manifold Analysis of Face Pictures and Regression on Aging Features. title2:Estimating human age by manifold analysis of face pictures and regression on aging features citation:67 ncitation:56 pid1329759
+title1:Lipreading by Locality Discriminant Graph. title2:Lipreading by locality discriminant graph citation:12 ncitation:9 pid318325
+title1:An integrated framework for face modeling, facial motion analysis and synthesis. title2:An integrated framework for face modeling, facial motion analysis and synthesis citation:13 ncitation:13 pid833819
+title1:Maximum unfolded embedding: formulation, solution, and application for image clustering. title2:Maximum unfolded embedding: formulation, solution, and application for image clustering citation:8 ncitation:9 pid293952
+title1:Toward automatic undersea search using pattern recognition techniques. title2:Toward automatic undersea search using pattern recognition techniques citation:2 ncitation:3 pid714943
+title1:Correction to "Error Analysis in Stereo Determination of 3-D Point Positions". title2:Correction to Error Analysis in Stereo Determination of 3-D Point Positions citation:3 ncitation:4 pid1033343
+title1:A Discussion of Nonlinear Variants of Biased Discriminants for Interactive Image Retrieval. title2:A discussion of nonlinear variants of biased discriminants for interactive image retrieval citation:13 ncitation:13 pid321624
+title1:Adaptive Video Fast Forward. title2:Scene generative models for adaptive video fast forward citation:12 ncitation:30 pid347481
+title1:Three Dimensional Subband Video Analysis and Synthesis with Adaptive Clustering in High Frequency Subbands. title2:Three dimensional subband video analysis and synthesis with adaptive clustering in high frequency subbands citation:6 ncitation:6 pid321623
+title1:Adaptive quantization with spatial constraints in subband video compression using wavelets. title2:Adaptive quantization with spatial constraints in subband video compression using wavelets citation:10 ncitation:11 pid127885
+title1:Joint face and head tracking inside multi-camera smart rooms. title2:Joint face and head tracking inside multi-camera smart rooms citation:9 ncitation:9 pid1027589
+title1:Determination of Camera Location from 2-D to 3-D Line and Point Correspondences. title2:Determination of camera location from 2-D to 3-D line and point correspondences citation:361 ncitation:306 pid2331456
+title1:Scene generative models for adaptive video fast forward. title2:Scene generative models for adaptive video fast forward citation:12 ncitation:11 pid311991
+title1:Active Morphable Model: An Efficient Method for Face Analysis. title2:Active morphable model: An efficient method for face analysis citation:6 ncitation:6 pid321609
+title1:LDV Remote Voice Acquisition and Enhancement. title2:LDV remote voice acquisition and enhancement citation:12 ncitation:11 pid834872
+title1:Learning Auto-Structured Regressor from Uncertain Nonnegative Labels. title2:Learning auto-structured regressor from uncertain nonnegative labels citation:62 ncitation:52 pid2230736
+title1:Water-Filling: A Novel Way for Image Structural Feature Extraction. title2:Water-Filling: a novel way for image structural feature extraction citation:52 ncitation:48 pid1032238
+title1:Articulated joint estimation from motion using two monocular images. title2:Articulated joint estimation from motion using two monocular images citation:7 ncitation:7 pid1102536
+title1:Visual echo cancellation in a projector-camera-whiteboard system. title2:Visual echo cancellation in a projector-camera-whiteboard system citation:5 ncitation:5 pid205604
+title1:Classification and Feature Extraction by Simplexization. title2:Classification and feature extraction by simplexization citation:42 ncitation:39 pid1440376
+title1:Trace Ratio vs. Ratio Trace for Dimensionality Reduction. title2:Trace ratio vs. ratio trace for dimensionality reduction citation:99 ncitation:73 pid293912
+title1:Image retrieval with relevance feedback: from heuristic weight adjustment to optimal learning methods. title2:Image retrieval with relevance feedback: From heuristic weight adjustment to optimal learning methods citation:93 ncitation:-1 pid324050
+title1:Boosting Multiple Classifiers Constructed by Hybrid Discriminant Analysis. title2:Boosting multiple classifiers constructed by hybrid discriminant analysis citation:6 ncitation:6 pid1329678
+title1:Computer Vision in Human-Computer Interaction, ECCV 2004 Workshop on HCI, Prague, Czech Republic, May 16, 2004, Proceedings title2:Computer Vision in Human-Computer Interaction: ECCV 2004 Workshop on HCI, Prague, Czech Republic, May 16, 2004, Proceedings citation:7 ncitation:7 pid129840
+title1:Gender and ethnicity identification from silhouetted face profiles. title2:Gender and ethnicity identification from silhouetted face profiles citation:8 ncitation:6 pid318270
+title1:Base selection in estimating sparse foreground in video. title2:Base selection in estimating sparse foreground in video citation:5 ncitation:3 pid293897
+title1:Emotion recognition from speech VIA boosted Gaussian mixture models. title2:Emotion recognition from speech via boosted Gaussian mixture models citation:12 ncitation:9 pid129838
+title1:Locality preserving speaker clustering. title2:Locality preserving speaker clustering citation:2 ncitation:0 pid319350
+title1:Spherical Discriminant Analysis in Semi-supervised Speaker Clustering. title2:Spherical discriminant analysis in semi-supervised speaker clustering citation:8 ncitation:5 pid293900
+title1:Semantic filtering of video content. title2:Semantic filtering of video content citation:6 ncitation:6 pid318262
+title1:Multimodal pattern matching for audio-visual query and retrieval. title2:Multimodal pattern matching for audio-visual query and retrieval citation:34 ncitation:32 pid303095
+title1:Stochastic modeling of soundtrack for efficient segmentation and indexing of video. title2:Stochastic modeling of soundtrack for efficient segmentation and indexing of video. citation:36 ncitation:36 pid2318773
+title1:RankCompete: simultaneous ranking and clustering of web photos. title2:RankCompete: simultaneous ranking and clustering of web photos citation:8 ncitation:8 pid701721
+title1:A quantitative evaluation for 3D face reconstruction algorithms. title2:A quantitative evaluation for 3D face reconstruction algorithms citation:3 ncitation:2 pid735978
+title1:Generative model-based speaker clustering via mixture of von Mises-Fisher distributions. title2:Generative model-based speaker clustering via mixture of von Mises-Fisher distributions citation:9 ncitation:3 pid1033402
+title1:Age Synthesis and Estimation via Faces: A Survey. title2:Age synthesis and estimation via faces: A survey citation:107 ncitation:62 pid326067
+title1:Novel Gaussianized vector representation for improved natural scene categorization. title2:Novel Gaussianized vector representation for improved natural scene categorization citation:12 ncitation:10 pid238273
+title1:Image retrieval using wavelet-based salient points. title2:Image retrieval using wavelet-based salient points citation:123 ncitation:112 pid701708
+title1:Audio-visual query and retrieval: A system that uses dynamic programming and relevance feedback. title2:Audio-visual query and retrieval: A system that uses dynamic programming and relevance feedback citation:9 ncitation:9 pid1046518
+title1:Supervised translation-invariant sparse coding. title2:Supervised translation-invariant sparse coding citation:81 ncitation:47 pid128793
+title1:Locality-constrained Linear Coding for image classification. title2:Locality-constrained linear coding for image classification citation:569 ncitation:289 pid606618
+title1:Spatialized epitome and its applications. title2:Spatialized epitome and its applications citation:5 ncitation:4 pid1750021
+title1:Cross-dataset action detection. title2:Cross-dataset action detection citation:64 ncitation:47 pid331069
+title1:Image Classification Using Super-Vector Coding of Local Image Descriptors. title2:Image classification using super-vector coding of local image descriptors citation:120 ncitation:92 pid331071
+title1:Efficient Highly Over-Complete Sparse Coding Using a Mixture Model. title2:Efficient highly over-complete sparse coding using a mixture model citation:58 ncitation:40 pid500400
+title1:Action detection using multiple spatial-temporal interest point features. title2:Action detection using multiple spatial-temporal interest point features citation:12 ncitation:9 pid1534648
+title1:Non-frontal view facial expression recognition based on ergodic hidden Markov model supervectors. title2:Non-frontal view facial expression recognition based on ergodic hidden markov model supervectors citation:8 ncitation:6 pid319400
+title1:Hierarchical image feature extraction and classification. title2:Hierarchical image feature extraction and classification citation:3 ncitation:3 pid2387939
+title1:Toward robust learning of the Gaussian mixture state emission densities for hidden Markov models. title2:Toward robust learning of the Gaussian mixture state emission densities for hidden Markov models citation:8 ncitation:5 pid1039677
+title1:Action detection in complex scenes with spatial and temporal ambiguities. title2:Action detection in complex scenes with spatial and temporal ambiguities citation:83 ncitation:74 pid205793
+title1:A study on automatic age estimation using a large database. title2:A study on automatic age estimation using a large database citation:39 ncitation:35 pid128808
+title1:Hierarchical Gaussianization for image classification. title2:Hierarchical gaussianization for image classification citation:65 ncitation:53 pid1280257
+title1:Heterogeneous feature machines for visual recognition. title2:Heterogeneous feature machines for visual recognition citation:53 ncitation:45 pid179498
+title1:Accurate and efficient reconstruction of 3D faces from stereo images. title2:Accurate and efficient reconstruction of 3d faces from stereo images citation:8 ncitation:6 pid205799
+title1:Robust license plate detection using image saliency. title2:Robust license plate detection using image saliency citation:6 ncitation:4 pid1038692
+title1:Human Age Estimation With Regression on Discriminative Aging Manifold. title2:Human age estimation with regression on discriminative aging manifold citation:120 ncitation:114 pid98465
+title1:Audio-Visual Affective Expression Recognition Through Multistream Fused HMM. citation:70 ncitation:52 pid701739
+title1:Recognizing pair-activities by causality analysis. title2:Recognizing pair-activities by causality analysis citation:2 ncitation:1 pid321706
+title1:Enhancing Multi-lingual Information Extraction via Cross-Media Inference and Fusion. title2:Enhancing multi-lingual information extraction via cross-media inference and fusion citation:4 ncitation:4 pid205710
+title1:Emotion recognition from an ensemble of features. title2:Emotion recognition from an ensemble of features citation:8 ncitation:4 pid346523
+title1:Towards semantic knowledge propagation from text corpus to web images. title2:Towards semantic knowledge propagation from text corpus to web images citation:14 ncitation:8 pid346521
+title1:Geographical topic discovery and comparison. title2:Geographical topic discovery and comparison citation:62 ncitation:31 pid128833
+title1:Two-stage prosody prediction for emotional text-to-speech synthesis. title2:Two-stage prosody prediction for emotional text-to-speech synthesis. citation:9 ncitation:9 pid18239
+title1:Frequency domain correspondence for speaker normalization. title2:Frequency Domain Correspondence for Speaker Normalization citation:6 ncitation:5 pid502341
+title1:AVICAR: audio-visual speech corpus in a car environment. title2:AVICAR: audio-visual speech corpus in a car environment. citation:92 ncitation:85 pid2224388
+title1:Video key frame extraction by unsupervised clustering and feedback adjustment. title2:Video key frame extraction by unsupervised clustering and feedback adjustment citation:3 ncitation:2 pid650872
+title1:Matching Perspective Views of a Polyhedron Using Circuits. title2:Matching perspective views of a polyhedron using circuits citation:41 ncitation:32 pid701768
+title1:3-D Motion Estimation, Understanding, and Prediction from Noisy Image Sequences. title2:3-D motion estimation, understanding, and prediction from noisy image sequences citation:159 ncitation:144 pid98499
+title1:Least-Squares Fitting of Two 3-D Point Sets. title2:Least-squares fitting of two 3-D point sets citation:2236 ncitation:2139 pid319442
+title1:The Effect of Median Filtering on Edge Estimation and Detection. title2:The effect of median filtering on edge estimation and detection citation:153 ncitation:130 pid1280375
+title1:Some Experiments on Estimating the 3-D Motion Parameters of a Rigid Body from Two Consecutive Image Frames. title2:Some experiments on estimating the 3-D motion parameters of a rigid body from two consecutive image frames citation:176 ncitation:153 pid319444
+title1:Uniqueness and Estimation of Three-Dimensional Motion Parameters of Rigid Objects with Curved Surfaces. title2:Uniqueness and estimation of three-dimensional motion parameters of rigid objects with curved surfaces citation:983 ncitation:976 pid1178291
+title1:Human Pose Regression Through Multiview Visual Fusion. title2:Human pose regression through multiview visual fusion citation:5 ncitation:2 pid1032347
+title1:Image Super-Resolution Via Sparse Representation. title2:Image super-resolution via sparse representation citation:486 ncitation:355 pid318374
+title1:Time Varying Dynamic Bayesian Network for Nonstationary Events Modeling and Online Inference. title2:Time varying dynamic Bayesian network for nonstationary events modeling and online inference citation:10 ncitation:4 pid129969
+title1:A General Framework to Detect Unsafe System States From Multisensor Data Stream. title2:A general framework to detect unsafe system states from multisensor data stream citation:9 ncitation:5 pid2138790
+title1:Models for Patch-Based Image Restoration. title2:Models for patch-based image restoration citation:9 ncitation:10 pid294044
+title1:Active Learning Based on Locally Linear Reconstruction. title2:Active learning based on locally linear reconstruction citation:11 ncitation:7 pid322729
+title1:Graph Regularized Nonnegative Matrix Factorization for Data Representation. title2:Graph regularized nonnegative matrix factorization for data representation citation:132 ncitation:90 pid322730
+title1:Introduction to the Special Section on Real-World Face Recognition. title2:Introduction to the special section on real-world face recognition citation:7 ncitation:4 pid1046418
+title1:Transient acoustic signal classification using joint sparse representation. title2:Transient acoustic signal classification using joint sparse representation citation:4 ncitation:2 pid98529
+title1:Large-scale image classification: Fast feature extraction and SVM training. title2:Large-scale image classification: fast feature extraction and svm training citation:64 ncitation:30 pid1185695
+title1:Towards cross-category knowledge propagation for learning visual concepts. title2:Towards cross-category knowledge propagation for learning visual concepts citation:17 ncitation:13 pid129962
+title1:Locality-sensitive support vector machine by exploring local correlation and global regularization. title2:Locality-sensitive support vector machine by exploring local correlation and global regularization citation:4 ncitation:-1 pid1389536
+title1:A fused hidden Markov model with application to bimodal speech processing. title2:A fused hidden Markov model with application to bimodal speech processing citation:44 ncitation:39 pid322724
+title1:Relevance feedback: a power tool for interactive content-based image retrieval. title2:Relevance feedback: a power tool for interactive content-based image retrieval citation:1741 ncitation:1604 pid2784790
+title1:Joint dynamic sparse representation for multi-view face recognition. title2:Joint dynamic sparse representation for multi-view face recognition citation:14 ncitation:6 pid2784798
+title1:LPTA: A Probabilistic Model for Latent Periodic Topic Analysis. title2:Lpta: A probabilistic model for latent periodic topic analysis citation:6 ncitation:3 pid2793401
+title1:Two-view Matching. title2:Two-view matching citation:50 ncitation:48 pid2793403
+title1:Learning recognition and segmentation of 3-D objects from 2-D images. title2:Learning recognition and segmentation of 3-D objects from 2-D images citation:72 ncitation:68 pid2794605
+title1:Epicardial motion and deformation estimation from coronary artery bifurcation points. title2:Epicardial motion and deformation estimation from coronary artery bifurcation points citation:36 ncitation:33 pid2794619
+title1:Multi-observation visual recognition via joint dynamic sparse representation. title2:Multi-observation visual recognition via joint dynamic sparse representation citation:7 ncitation:4 pid2795367
+title1:Album-based object-centric event recognition. title2:Album-based object-centric event recognition citation:2 ncitation:1 pid2816540
+title1:Learning the sparse representation for classification. title2:Learning the sparse representation for classification citation:11 ncitation:4 pid2816541
+title1:Efficient sparse representation based image super resolution via dual dictionary learning. title2:Efficient sparse representation based image super resolution via dual dictionary learning citation:13 ncitation:1 pid2817744
+title1:Motion and structure from point correspondences with error estimation: planar surfaces. title2:Motion and structure from point correspondences with error estimation: Planar surfaces citation:48 ncitation:42 pid2824271
+title1:Robust optimum detection of transform domain multiplicative watermarks. title2:Robust optimum detection of transform domain multiplicative watermarks citation:157 ncitation:143 pid2836090
+title1:Detecting small, moving objects in image sequences using sequential hypothesis testing. title2:Detecting small, moving objects in image sequences using sequential hypothesis testing citation:266 ncitation:256 pid2836550
+title1:PhotoNet: A Similarity-Aware Picture Delivery Service for Situation Awareness. title2:Photonet: a similarity-aware picture delivery service for situation awareness citation:11 ncitation:5 pid2854048
+title1:Exploring Context and Content Links in Social Media: A Latent Space Method. title2:Exploring context and content links in social media: A latent space method citation:6 ncitation:5 pid2869894
+title1:Nonstationary color tracking for vision-based human-computer interaction. title2:Nonstationary color tracking for vision-based human-computer interaction citation:64 ncitation:56 pid2894544
+title1:Real-time speech-driven face animation with expressions using neural networks. title2:Real-time speech-driven face animation with expressions using neural networks citation:68 ncitation:61 pid2894613
+title1:Extracting semantics from audio-visual content: the final frontier in multimedia retrieval. title2:Extracting semantics from audio-visual content: the final frontier in multimedia retrieval citation:149 ncitation:135 pid2896624
+title1:Face Recognition Applications. title2:Face recognition applications citation:9 ncitation:7 pid2899718
+title1:Exemplar-based face and facial motion tracking. title2:Exemplar-based face and facial motion tracking citation:2 ncitation:2 pid2903540
+title1:Automatic temporal pattern extraction and association. title2:Automatic temporal pattern extraction and association citation:3 ncitation:3 pid2905843
+title1:An experimental study of coupled hidden Markov models. title2:An experimental study of coupled hidden Markov models citation:3 ncitation:3 pid2912262
+title1:Comparing MFCC and MPEG-7 audio features for feature extraction, maximum likelihood HMM and entropic prior HMM for sports audio classification. title2:Comparing MFCC and MPEG-7 audio features for feature extraction, maximum likelihood HMM and entropic prior HMM for sports audio classification citation:50 ncitation:48 pid2944657
+title1:Audio events detection based highlights extraction from baseball, golf and soccer games in a unified framework. title2:Audio events detection based highlights extraction from baseball, golf and soccer games in a unified framework citation:94 ncitation:90 pid2944710
+title1:Speeding up the similarity search in multimedia database. title2:Speeding up the similarity search in multimedia database citation:8 ncitation:8 pid2944774
+title1:A real time automatic access control system based on face and eye corners detection, face recognition and speaker identification. title2:A real time automatic access control system based on face and eye corners detection, face recognition and speaker identification citation:3 ncitation:3 pid2946226
+title1:PDH: a human-centric interface for image libraries. title2:Pdh: a human-centric interface for image libraries citation:8 ncitation:8 pid2946523
+title1:3D model-based visual hand tracking. title2:3D model-based visual hand tracking citation:7 ncitation:6 pid2977948
+title1:Learning to Search Efficiently in High Dimensions. title2:Learning to search efficiently in high dimensions citation:5 ncitation:4 pid2977968
+title1:Coupled Dictionary Training for Image Super-Resolution. title2:Coupled dictionary training for image super-resolution citation:24 ncitation:4 pid2992378
+title1:Generative Bayesian Image Super Resolution With Natural Image Prior. title2:Generative bayesian image super resolution with natural image prior citation:8 ncitation:2 pid3007369
+title1:Recognizing Emotions From an Ensemble of Features. title2:Recognizing emotions from an ensemble of features citation:2 ncitation:1 pid3011310
+title1:Community Detection with Edge Content in Social Media Networks. title2:Community detection with edge content in social media networks citation:9 ncitation:3 pid3040213
+title1:A data driven method for feature transformation. title2:A data driven method for feature transformation citation:3 ncitation:0 pid3043745
+title1:Bilevel sparse coding for coupled feature spaces. title2:Bilevel sparse coding for coupled feature spaces citation:4 ncitation:1 pid3045338
+title1:Image Interpretation Using Large Corpus: Wikipedia. title2:Image interpretation using large corpus: wikipedia citation:4 ncitation:3 pid3072590
+title1:Sparse Representation for Computer Vision and Pattern Recognition. title2:Sparse representation for computer vision and pattern recognition citation:391 ncitation:305 pid3077287
+title1:Joint-Structured-Sparsity-Based Classification for Multiple-Measurement Transient Acoustic Signals. title2:Joint-Structured-Sparsity-Based Classification for Multiple-Measurement Transient Acoustic Signals citation:4 ncitation:2 pid3077358
+title1:Improving faster-than-real-time human acoustic event detection by saliency-maximized audio visualization. title2:Improving faster-than-real-time human acoustic event detection by saliency-maximized audio visualization citation:3 ncitation:1 pid3077676
+title1:Automatic construction of 3D human face models based on 2D images. title2:Automatic construction of 3D human face models based on 2D images citation:43 ncitation:None pid3107072
+title1:New robust image operators and applications in automatic facial feature analysis. title2:New robust image operators and applications in automatic facial feature analysis citation:2 ncitation:None pid3110618
+title1:Automated region segmentation using attraction-based grouping in spatial-color-texture space. title2:Automated region segmentation using attraction-based grouping in spatial-color-texture space citation:51 ncitation:-1 pid3132360
+title1:Multi-scale image warping using weighted Voronoi diagram. title2:Multi-scale image warping using weighted Voronoi diagram citation:5 ncitation:None pid3132369

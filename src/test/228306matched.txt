@@ -1,0 +1,21 @@
+title1:Protein function prediction via graph kernels. title2:Protein function prediction via graph kernels citation:232 ncitation:209 pid438205
+title1:A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise. title2:A density-based algorithm for discovering clusters in large spatial databases with noise. citation:5145 ncitation:4717 pid472677
+title1:A Cost Model For Nearest Neighbor Search in High-Dimensional Data Space. title2:A cost model for nearest neighbor search in high-dimensional data space citation:431 ncitation:425 pid544874
+title1:Density-Connected Subspace Clustering for High-Dimensional Data. title2:Density-connected subspace clustering for high-dimensional data citation:201 ncitation:164 pid579073
+title1:OPTICS: Ordering Points To Identify the Clustering Structure. title2:OPTICS: ordering points to identify the clustering structure citation:1604 ncitation:1480 pid597891
+title1:The R*-Tree: An Efficient and Robust Access Method for Points and Rectangles. title2:The R*-tree: an efficient and robust access method for points and rectangles citation:4291 ncitation:4154 pid598147
+title1:LOF: Identifying Density-Based Local Outliers. title2:LOF: identifying density-based local outliers citation:1650 ncitation:1540 pid598207
+title1:Efficient Processing of Spatial Joins Using R-Trees. title2:Efficient processing of spatial joins using R-trees citation:666 ncitation:646 pid598212
+title1:Multi-Step Processing of Spatial Joins. title2:Multi-step processing of spatial joins citation:299 ncitation:296 pid598213
+title1:Optimal Multi-Step k-Nearest Neighbor Search. title2:Optimal multi-step k-nearest neighbor search citation:440 ncitation:422 pid599630
+title1:3D Shape Histograms for Similarity Search and Classification in Spatial Databases. title2:3D shape histograms for similarity search and classification in spatial databases citation:475 ncitation:467 pid617554
+title1:Spatial Data Mining: A Database Approach. title2:Spatial data mining: A database approach citation:285 ncitation:274 pid617586
+title1:Knowledge Discovery in Large Spatial Databases: Focusing Techniques for Efficient Class Identification. title2:Knowledge discovery in large spatial databases: Focusing techniques for efficient class identification citation:239 ncitation:231 pid617614
+title1:Recursive Pattern: A Technique for Visualizing Very Large Amounts of Data. title2:Recursive pattern: A technique for visualizing very large amounts of data citation:219 ncitation:209 pid639937
+title1:The X-tree : An Index Structure for High-Dimensional Data title2:The X-tree: An index structure for high-dimensional data citation:1533 ncitation:1487 pid642048
+title1:Incremental Clustering for Mining in a Data Warehousing Environment. title2:Incremental clustering for mining in a data warehousing environment citation:412 ncitation:390 pid642509
+title1:The Buddy-Tree: An Efficient and Robust Access Method for Spatial Data Base Systems. title2:The Buddy Effect: An efficient and robust access method for spatial data base systems citation:247 ncitation:243 pid643698
+title1:Efficient User-Adaptable Similarity Search in Large Multimedia Databases. title2:Efficient user-adaptable similarity search in large multimedia databases citation:198 ncitation:192 pid643702
+title1:Density-Based Clustering in Spatial Databases: The Algorithm GDBSCAN and Its Applications. title2:Density-based clustering in spatial databases: The algorithm gdbscan and its applications citation:631 ncitation:582 pid839630
+title1:Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering. title2:Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering citation:307 ncitation:254 pid1167805
+title1:Density-based clustering. title2:Density-based clustering in spatial databases: The algorithm gdbscan and its applications citation:631 ncitation:21 pid2900880

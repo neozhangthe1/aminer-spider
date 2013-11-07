@@ -1,0 +1,227 @@
+title:Deterministic Approximation Algorithms for the Nearest Codeword Problem. citation:-1
+title:Efficient Testing of Bipartite Graphs for Forbidden Induced Subgraphs. citation:-1
+title:Smaller Explicit Superconcentrators. citation:-1
+title:Transmitting in the -Dimensional Cube. citation:-1
+title:A note on regular Ramsey graphs citation:-1
+title:Feasible Schedules for Rotating Transmissions. citation:-1
+title:Strategyproof Approximation Mechanisms for Location on Networks citation:-1
+title:Covering a Square by Small Perimeter Rectangles. citation:-1
+title:Piercing d -Intervals. citation:-1
+title:The Maximum Size of a Convex Polygon in a Restricted Set in the Plane. citation:-1
+title:On the Complexity of Arrangements of Circles in the Plane. citation:-1
+title:Bounding the Piercing Number. citation:-1
+title:An Elementary Construction of Constant-Degree Expanders. citation:-1
+title:Dominating sets in k-majority tournaments. citation:-1
+title:Introduction. citation:-1
+title:Better Algorithms and Bounds for Directed Maximum Leaf Problems. citation:-1
+title:Spectral Techniques in Graph Algorithms. citation:-1
+title:Improved approximation for directed cut problems. citation:-1
+title:Almost k-wise independence versus k-wise independence citation:-1
+title:Perturbed Identity Matrices Have High Rank: Proof and Applications. citation:-1
+title:Can Visibility Graphs Be Represented Compactly?. citation:-1
+title:Fast Algorithms for Maximum Subset Matching and All-Pairs Shortest Paths in Graphs with a (Not So) Small Vertex Cover. citation:-1
+title:On the intersection of edges of a geometric graph by straight lines. citation:-1
+title:H-Free Graphs of Large Minimum Degree. citation:-1
+title:An Elementary Construction of Constant-Degree Expanders. citation:-1
+title:Edge Colouring with Delays. citation:-1
+title:Random Sampling and Approximation of MAX-CSP Problems citation:-1
+title:Improved Parallel Approximation of a Class of Integer Programming Problems. citation:-1
+title:A lower bound on the expected length of one-to-one codes. citation:-1
+title:epsilon-Discrepancy Sets and Their Application for Interpolation of Sparse Polynomials. citation:-1
+title:The Shannon capacity of a graph and the independence numbers of its powers. citation:-1
+title:Almost k-wise independence versus k-wise independence. citation:-1
+title:On-Line and Off-Line Approximation Algorithms for Vector Covering Problems. citation:-1
+title:Disjoint Directed Cycles. citation:-1
+title:Admission Control to Minimize Rejections and Online Set Cover with Repetitions citation:-1
+title:Regular hypergraphs, Gordon's lemma, Steinitz' lemma and invariant theory. citation:-1
+title:Maximum cuts and judicious partitions in graphs without short cycles. citation:-1
+title:Generalized hashing and parent-identifying codes. citation:-1
+title:Multicolored forests in bipartite decompositions of graphs. citation:-1
+title:Even edge colorings of a graph. citation:-1
+title:Parent-Identifying Codes. citation:-1
+title:Linear Circuits over GF(2). citation:-1
+title:Probabilistic methods in coloring and decomposition problems. citation:-1
+title:Every 4-regular graph plus an edge contains a 3-regular subgraph. citation:-1
+title:On the Degree, Size, and Chromatic Index of a Uniform Hypergraph. citation:-1
+title:Coloring Graphs with Sparse Neighborhoods. citation:-1
+title:lambda, Isoperimetric inequalities for graphs, and superconcentrators. citation:-1
+title:Cycles of length 0 modulo in directed graphs. citation:-1
+title:Additive bases of vector spaces over prime fields. citation:-1
+title:The Grothendieck constant of random and pseudo-random graphs. citation:-1
+title:Ascending waves. citation:-1
+title:Bipartite subgraphs of integer weighted graphs. citation:-1
+title:A Note on Graph Colorings and Graph Polynomials. citation:-1
+title:Non-averaging Subsets and Non-vanishing Transversals. citation:-1
+title:Finding an Approximate Maximum. citation:-1
+title:-Factors in Dense Graphs. citation:-1
+title:Progressions in Sequences of Nearly Consecutive Integers. citation:-1
+title:Tell me who I am: an interactive recommendation system. citation:-1
+title:Admission control to minimize rejections and online set cover with repetitions. citation:-1
+title:Homomorphisms in Graph Property Testing - A Survey citation:-1
+title:Finding Disjoint Paths in Expanders Deterministically and Online. citation:-1
+title:Discrepancy Games. citation:-1
+title:Sum of Us: Strategyproof Selection from the Selectors citation:-1
+title:Coins with Arbitrary Weights. citation:-1
+title:Testing satisfiability. citation:-1
+title:On Two Segmentation Problems. citation:-1
+title:On the discrepancy of combinatorial rectangles. citation:-1
+title:Independence numbers of locally sparse graphs and a Ramsey type problem. citation:-1
+title:The Number of Spanning Trees in Regular Graphs. citation:-1
+title:Simple Construction of Almost k-wise Independent Random Variables. citation:-1
+title:Addendum to "Simple Construction of Almost k-wise Independent Random Variables". citation:-1
+title:T-choosability in Graphs. citation:-1
+title:The Acyclic Orientation Game on Random Graphs. citation:-1
+title:A Spectral Technique for Coloring Random 3-Colorable Graphs. citation:-1
+title:Color Coding. citation:-1
+title:Generalization Error Bounds for Collaborative Prediction with Low-Rank Matrices. citation:-1
+title:New Bounds on Parent-Identifying Codes: The Case of Multiple Parents. citation:-1
+title:A Ramsey-type result for the hypercube. citation:-1
+title:Locally Thin Set Families. citation:-1
+title:Quasi-randomness and Algorithmic Regularity for Graphs with General Degree Distributions. citation:-1
+title:String Quartets In Binary. citation:-1
+title:The Shannon capacity of a graph and the independence numbers of its powers citation:-1
+title:2-factors in dense graphs. citation:-1
+title:Independent sets in tensor graph powers. citation:-1
+title:Coin-Flipping Games Immune against Linear-Sized Coalitions (Extended Abstract) citation:-1
+title:Hardness of fully dense problems. citation:-1
+title:Tight bounds for shared memory systems accessed by Byzantine processes. citation:-1
+title:Derandomization Via Small Sample Spaces (Abstract). citation:-1
+title:Intersecting Systems. citation:-1
+title:Tur[a-acute]n's Theorem in the Hypercube. citation:-1
+title:Choice-Memory Tradeoff in Allocations. citation:-1
+title:Ordinal embeddings of minimum relaxation: General properties, trees, and ultrametrics. citation:-1
+title:Sums of subsequences modulo prime powers. citation:-1
+title:Can Visibility Graphs be Represented Compactly? citation:-1
+title:Color-Coding. citation:-1
+title:Can a Graph Have Distinct Regular Partitions? citation:-1
+title:Polynomial time randomised approxmiation schemes for the Tutte polynomial of dense graphs citation:-1
+title:Simple Constructions of Almost k-Wise Independent Random Variables citation:-1
+title:Breaking the rhythm on graphs. citation:-1
+title:Induced subgraphs with distinct sizes. citation:-1
+title:The Geometry of Coin-Weighing Problems. citation:-1
+title:Lower Bounds on the Competitive Ratio for Mobile User Tracking and Distributed Job Scheduling (Extended Abstract) citation:-1
+title:Eigenvalues, Expanders and Superconcentrators (Extended Abstract) citation:-1
+title:Cleaning Regular Graphs with Brushes. citation:-1
+title:Parallel comparison algorithms for approximation problems. citation:-1
+title:Bipartite Subgraphs. citation:-1
+title:On-line and Off-line Approximation Algorithms for Vector Covering Problems. citation:-1
+title:Tight Complexity Bounds for Parallel Comparison Sorting citation:-1
+title:Every-decomposition ofhas a Nearly Resolvable Alternative. citation:-1
+title:Finding and Counting Given Length Cycles (Extended Abstract). citation:-1
+title:Parallel Comparison Algorithms for Approximation Problems citation:-1
+title:Addendum to "Scalable secure storage when half the system is faulty" [Inform. Comput 174 (2)(2002) 203-213]. citation:-1
+title:What is the furthest graph from a hereditary property? citation:-1
+title:Linear Time Erasure Codes with Nearly Optimal Recovery (Extended Abstract). citation:-1
+title:A note on subdigraphs of digraphs with large outdegrees. citation:-1
+title:Better Algorithms and Bounds for Directed Maximum Leaf Problems citation:-1
+title:The Algorithmic Aspects of the Regularity Lemma (Extended Abstract) citation:-1
+title:Explicit Unique-Neighbor Expanders. citation:-1
+title:Fault Tolerant Graphs, Perfect Hash Functions and Disjoint Paths citation:-1
+title:Additive Approximation for Edge-Deletion Problems (Abstract). citation:-1
+title:The Number Of Orientations Having No Fixed Tournament. citation:-1
+title:Constructing Worst Case Instances for Semidefinite Programming Based Approximation Algorithms. citation:-1
+title:Sharp Bounds For Some Multicolor Ramsey Numbers. citation:-1
+title:Star arboricity. citation:-1
+title:Equireplicate Balanced Binary Codes for Oligo Arrays. citation:-1
+title:Scalable Secure Storage when Half the System Is Faulty. citation:-1
+title:Improved Parallel Approximation of a Class of Integer Programming Programming Problems. citation:-1
+title:Linear Equations, Arithmetic Progressions and Hypergraph Property Testing. citation:-1
+title:Color-Coding citation:-1
+title:The smallets n-uniform hypergraph with positive discrepancy. citation:-1
+title:Tracing a single user. citation:-1
+title:Superconcentrators of Depths 2 and 3; Odd Levels Help (Rarely). citation:-1
+title:Sorting, Approximate Sorting, and Searching in Rounds. citation:-1
+title:Testing satisfiability. citation:-1
+title:Polychromatic Colorings of Plane Graphs. citation:-1
+title:Linear equations, arithmetic progressions and hypergraph property testing. citation:-1
+title:Smaller explicit superconcentrators. citation:-1
+title:On (epsilon, k)-min-wise independent permutations. citation:-1
+title:Ordinal embeddings of minimum relaxation: general properties, trees, and ultrametrics. citation:-1
+title:Approximation Schemes for Scheduling. citation:-1
+title:Approximating the independence number via the theta-function. citation:-1
+title:On the Capacity of Digraphs. citation:-1
+title:Scalable Secure Storage When Half the System Is Faulty. citation:-1
+title:Balanced Hashing, Color Coding and Approximate Counting. citation:-1
+title:A purely combinatorial proof of the Hadwiger Debrunner (p, q) Conjecture. citation:-1
+title:Near-optimum Universal Graphs for Graphs with Bounded Degrees. citation:-1
+title:Constructing worst case instances for semidefinite programming based approximation algorithms. citation:-1
+title:Independent Sets in Hypergraphs with Applications to Routing via Fixed Paths. citation:-1
+title:Sparse universal graphs for bounded-degree graphs. citation:-1
+title:Perfect Matchings in $\epsilon$-regular Graphs. citation:-1
+title:Kernels for the Dominating Set Problem on Graphs with an Excluded Minor. citation:-1
+title:On the Complexity of Radio Communication (Extended Abstract) citation:-1
+title:A spectral technique for coloring random 3-colorable graphs (preliminary version). citation:-1
+title:Is Linear Hashing Good? citation:-1
+title:Refining the Graph Density Condition for the Existence of Almost K-factors. citation:-1
+title:Random sampling and approximation of MAX-CSP problems. citation:-1
+title:The maximum edit distance from hereditary graph properties. citation:-1
+title:Disjoint Systems (Extended Abstract). citation:-1
+title:Hardness of edge-modification problems. citation:-1
+title:Approximate Maximum Parsimony and Ancestral Maximum Likelihood. citation:-1
+title:Tell Me Who I Am: An Interactive Recommendation System. citation:-1
+title:Edge Coloring with Delays. citation:-1
+title:Linear Arboricity and Linear k-Arboricity of Regular Graphs. citation:-1
+title:On a Hypergraph Matching Problem. citation:-1
+title:On An Extremal Hypergraph Problem Of Brown, Erdös And Sós. citation:-1
+title:An elementary construction of constant-degree expanders. citation:-1
+title:Tracing Many Users With Almost No Rate Penalty. citation:-1
+title:Polychromatic colorings of plane graphs. citation:-1
+title:Deterministic Approximation Algorithms for the Nearest Codeword Problem. citation:-1
+title:Maximum directed cuts in acyclic digraphs. citation:-1
+title:Factor -domatic colorings of graphs. citation:-1
+title:Graphs with a small number of distinct induced subgraphs. citation:-1
+title:Packings with large minimum kissing numbers. citation:-1
+title:Game domination number. citation:-1
+title:On partitions of discrete boxes. citation:-1
+title:Covering a hypergraph of subgraphs. citation:-1
+title:Approximate Hypergraph Coloring. citation:-1
+title:A separation theorem in property testing. citation:-1
+title:Optimal universal graphs with deterministic embedding. citation:-1
+title:Can a Graph Have Distinct Regular Partitions? citation:-1
+title:Testing Boolean Function Isomorphism. citation:-1
+title:Basic network creation games. citation:-1
+title:Privileged users in zero-error transmission over a noisy channel. citation:-1
+title:Embedding nearly-spanning bounded degree trees. citation:-1
+title:Practically Stabilizing Atomic Memory citation:-1
+title:A note on competitive diffusion through social networks. citation:-1
+title:Strategyproof Approximation of the Minimax on Networks. citation:-1
+title:Quasi-Randomness and Algorithmic Regularity for Graphs with General Degree Distributions. citation:-1
+title:Admission control to minimize rejections and online set cover with repetitions. citation:-1
+title:Stability-type results for hereditary properties. citation:-1
+title:Playing to retain the advantage. citation:-1
+title:Balanced Hashing, Color Coding and Approximate Counting. citation:-1
+title:A note on regular Ramsey graphs. citation:-1
+title:Voting Paradoxes. citation:-1
+title:Solving Linear Systems through Nested Dissection. citation:-1
+title:A Non-linear Lower Bound for Planar Epsilon-Nets. citation:-1
+title:On Constant Time Approximation of Parameters of Bounded Degree Graphs. citation:-1
+title:Introduction. citation:-1
+title:Playing to Retain the Advantage. citation:-1
+title:The structure of almost all graphs in a hereditary property. citation:-1
+title:The Brunn--Minkowski Inequality and Nontrivial Cycles in the Discrete Torus. citation:-1
+title:Modular Orientations of Random and Quasi-Random Regular Graphs. citation:-1
+title:Hypergraph list coloring and Euclidean Ramsey theory. citation:-1
+title:Local Correction of Boolean Functions citation:-1
+title:On graphs and algebraic graphs that do not contain cycles of length 4. citation:-1
+title:Beeping a Maximal Independent Set. citation:-1
+title:Sum of us: strategyproof selection from the selectors. citation:-1
+title:The Maximum Number of Perfect Matchings in Graphs with a Given Degree Sequence. citation:-1
+title:On a Generalization of Meyniel's Conjecture on the Cops and Robbers Game. citation:-1
+title:A Non-linear Lower Bound for Planar Epsilon-nets. citation:-1
+title:Nonnegative k-sums, fractional covers, and probability of small deviations. citation:-1
+title:Large matchings in uniform hypergraphs and the conjectures of Erd?s and Samuels. citation:-1
+title:The inverse Banzhaf problem. citation:-1
+title:Decomposition of the complete-graph into complete-partite-graphs. citation:-1
+title:The maximum number of disjoint pairs in a family of subsets. citation:-1
+title:Hypergraphs with high chromatic number. citation:-1
+title:Generalized sum graphs. citation:-1
+title:On the kernel of intersecting families. citation:-1
+title:Set systems with no union of cardinality 0 modulo. citation:-1
+title:Large induced degenerate subgraphs. citation:-1
+title:Asynchronous threshold networks. citation:-1
+title:Spanning subgraphs of random graphs. citation:-1
+title:Beeping a Maximal Independent Set citation:-1
+title:Large induced forests in sparse graphs. citation:-1
+title:Induced subgraphs of prescribed size. citation:-1
+title:On Rigid Matrices and Subspace Polynomials. citation:-1
+title:The Approximate Rank of a Matrix and its Algorithmic Applications. citation:-1

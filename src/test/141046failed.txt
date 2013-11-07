@@ -1,0 +1,299 @@
+title:Convergence of a hill-climbing genetic algorithm for graph matching. citation:-1
+title:Estimating Reflectance Functions Using a Cyberware 3030 Scanner. citation:-1
+title:Graph Similarity Using Interfering Quantum Walks. citation:-1
+title:Characteristic Polynomial Analysis on Matrix Representations of Graphs. citation:-1
+title:Graph drawing using quantum commute time. citation:-1
+title:Face Shape Recovery and Recognition Using a Surface Gradient Based Statistical Model. citation:-1
+title:Facial View Synthesis from a Single Image using Shape from Shading. citation:-1
+title:Face Recognition with Region Division and Spin Images. citation:-1
+title:Surface Height Recovery Using Heat Flow and Manifold Embedding. citation:-1
+title:A comparison of Cartesian coordinate-based representations for building three-dimensional models of faces. citation:-1
+title:Learning a Self-organizing Map Model on a Riemannian Manifold. citation:-1
+title:Probabilistic Relaxation using the Heat Equation. citation:-1
+title:Geometric Characterizations of Graphs Using Heat Kernel Embeddings. citation:-1
+title:A Navigation-based Algorithm for Matching Scenario Patterns. citation:-1
+title:Multi-sensor Fusion with Bayesian Inference. citation:-1
+title:Relational Matching with Active Graphs. citation:-1
+title:Testing Reflectance Models Against Radiance Data. citation:-1
+title:Modelling Needle-Map Consistency with Novel Constraints. citation:-1
+title:Reflectance Modeling for Layered Dielectrics with Rough Surface Boundaries. citation:-1
+title:Edge Detection and Anisotropic Diffusion for Tensor-Valued Images. citation:-1
+title:Population Codes for Orientation Estimation. citation:-1
+title:Graph Pattern Spaces from Laplacian Spectral Polynomials. citation:-1
+title:Perspective Matching Using the EM Algorithm. citation:-1
+title:Spanning Tree Recovery via Random Walks in a Riemannian Manifold. citation:-1
+title:Evolving Spanning Trees Using the Heat Equation. citation:-1
+title:Coupled Statistical Face Reconstruction. citation:-1
+title:Arabic Character Recognition with Shape Mixtures. citation:-1
+title:Radiance Function Estimation for Object Classification. citation:-1
+title:Least Committment Graph Matching by Evolutionary Optimisation. citation:-1
+title:Facial Pose using Shape-from-Shading. citation:-1
+title:A Bayesian framework for 3D surface estimation. citation:-1
+title:Estimating Facial Albedo from a Single Image. citation:-1
+title:A Hierarchical Framework for Modal Correspondence Matching. citation:-1
+title:3D Triangular Mesh Parametrization Using Locally Linear Embedding. citation:-1
+title:Improved Face Shape Recovery and Re-illumination Using Convexity Constraints. citation:-1
+title:Fitting 3D Cartesian Models to Faces Using Irradiance and Integrability Constraints. citation:-1
+title:A Scale Adaptive Method for Estimating the Perspective Pose of Texture Planes. citation:-1
+title:Structurally Gated Pairwise Geometric Histograms for Shape Indexing. citation:-1
+title:Graph Manifolds from Spectral Polynomials. citation:-1
+title:A Riemannian Self-Organizing Map. citation:-1
+title:Recovering face shape and reflectance properties from single images. citation:-1
+title:Arabic Character Recognition Using Structural Shape Decomposition. citation:-1
+title:Statistical Surface Tracking. citation:-1
+title:Improving Height Recovery from a Single Image of a Face Using Local Shape Indicators. citation:-1
+title:Using Cartesian Models of Faces with a Data-Driven and Integrable Fitting Framework. citation:-1
+title:Commute Times for Graph Spectral Clustering. citation:-1
+title:Shape-Space from Tree-Union. citation:-1
+title:Graph Regularisation Using Gaussian Curvature. citation:-1
+title:Adapting Spectral Scale for Shape from Texture. citation:-1
+title:Recovering height information from SAR images of terrain. citation:-1
+title:Density propagation for surface tracking. citation:-1
+title:Machine Learning with Seriated Graphs. citation:-1
+title:Relational Constraints for Point Distribution Models. citation:-1
+title:Procrustes Alignment with the EM Algorithm. citation:-1
+title:A Mumford-Shah Diffusion Process for Shape-from-Shading. citation:-1
+title:Spectral Correspondence for Deformed Point-Set Matching. citation:-1
+title:Surface Integration: Two Statistical Approaches. citation:-1
+title:Structural Constraints for Pose Clustering. citation:-1
+title:A Correspondence Measure for Graph Matching Using the Discrete Quantum Walk. citation:-1
+title:Recent Results on Heat Kernel Embedding of Graphs. citation:-1
+title:An Expectation-Maximisation Framework for Perceptual Grouping. citation:-1
+title:A Hierarchical Framework for Shape Recognition Using Articulated Shape Mixtures. citation:-1
+title:Face Recognition with Generalized Entropy Measurements. citation:-1
+title:Recovery of Surface Height from Diffuse Polarisation. citation:-1
+title:A Probabilistic Framework for Articulated Shape Recognition. citation:-1
+title:Efficient Alignment and Correspondence Using Edit Distance. citation:-1
+title:Eigenspaces from Seriated Graphs. citation:-1
+title:Heat Kernel Smoothing of Scalar and Vector Image Data. citation:-1
+title:Fast On-Line learning of Point Distribution Models. citation:-1
+title:A Reflectance Model for Radar Shape From Shading. citation:-1
+title:Alignment and Correspondence Using Markov Chain Monte Carlo. citation:-1
+title:Adding Subsurface Attenuation to the Beckmann-Kirchhoff Theory. citation:-1
+title:An Integrated Approach to Grouping and Matching. citation:-1
+title:Increased Extent of Characteristic Views using Shape-from-Shading for Object Recognition. citation:-1
+title:Shape-from-Shading Using a Curvature Consistency Constraint. citation:-1
+title:Storage Capacity of the Exponential Correlation Associative Memory. citation:-1
+title:Refining Surface Curvature with Relaxation Labeling. citation:-1
+title:A Model-Based Method for Face Shape Recovery. citation:-1
+title:Bias-Variance Tradeoff for Adaptive Surface Meshes. citation:-1
+title:Contour Organisation with the EM Algorithm. citation:-1
+title:Edge Location with Electrostatic Region Attractors. citation:-1
+title:A Hierarchical Framework for Spectral Correspondence. citation:-1
+title:Holistic Matching. citation:-1
+title:Guest Editors' Introduction to the Special Section on Energy Minimization Methods in Computer Vision and Pattern Recognition. citation:-1
+title:Guest Editors' Introduction to the Special Section on Energy Minimization Methods in Computer Vision and Pattern Recognition. citation:-1
+title:Recovering facial shape using a statistical surface normal model. citation:-1
+title:Learning Mixtures of Weighted Tree-Unions by Minimizing Description Length. citation:-1
+title:Curvature Dependent Skeletonization. citation:-1
+title:Linear Shape Recognition with Mixtures of Point Distribution Models. citation:-1
+title:A statistical approach to sparse multi-scale phase-based stereo. citation:-1
+title:Object recognition using graph spectral invariants. citation:-1
+title:Modelling Human Shape with Articulated Shape Mixtures. citation:-1
+title:Accumulating Spectral Evidence for Perspective Views of Texture Planes. citation:-1
+title:A unified model of specular and diffuse reflectance for rough, glossy surfaces. citation:-1
+title:Curvature Consistency for Shape-from-Shading. citation:-1
+title:Rough Surface Estimation Using the Kirchhoff Model. citation:-1
+title:Kernelised Relaxation Labelling using Fokker-Planck Diffusion. citation:-1
+title:Analysis of Curved Textured Surfaces Using Local Spectral Distortion. citation:-1
+title:Face Recognition Using Shape-from-shading. citation:-1
+title:Diffusion of Geometric Affinity for Surface Integration. citation:-1
+title:Incorporating subsurface attenuation into the Beckmann model. citation:-1
+title:Testing Viewpoint Invariance in the Neural Representation of Faces: An MEG Study. citation:-1
+title:Vector transport for shape-from-shading. citation:-1
+title:Point-Set Alignment Using Multidimensional Scaling. citation:-1
+title:Combining curvature evidence to shape-from-shading. citation:-1
+title:Discrete relaxation. citation:-1
+title:Face Recognition with Irregular Region Spin Images. citation:-1
+title:Face Recognition Using a Surface Normal Model. citation:-1
+title:Improving Correspondence Matching Using Label Consistency Constraints. citation:-1
+title:Graph Clustering Using Heat Content Invariants. citation:-1
+title:Supervised Principal Geodesic Analysis on Facial Surface Normals for Gender Classification. citation:-1
+title:Graph Edit Distance without Correspondence from Continuous-Time Quantum Walks. citation:-1
+title:Measuring skin reflectance parameters. citation:-1
+title:Recognising Facial Expressions Using Spherical Harmonics. citation:-1
+title:Modelling Surface Normal Distribution Using the Azimuthal Equidistant Projection. citation:-1
+title:Sensitivity Analysis for Object Recognition from Large Structural Libraries. citation:-1
+title:Recovery of Surface Height Using Polarization from Two Views. citation:-1
+title:Facial Shape Spaces from Surface Normals. citation:-1
+title:Maximum Likelihood Motion Segmentation Using Eigendecomposition. citation:-1
+title:Facial Shape Spaces from Surface Normals and Geodesic Distance. citation:-1
+title:An eigenvector method for shape-from-shading. citation:-1
+title:Probabilistic Fiber Tracking Using Particle Filtering and Von Mises-Fisher Sampling. citation:-1
+title:Towards Unitary Representations for Graph Matching. citation:-1
+title:Improving shape recovery by estimating properties of slightly-rough surfaces. citation:-1
+title:Commute Times, Discrete Green's Functions and Graph Matching. citation:-1
+title:Graph Spectral Image Smoothing. citation:-1
+title:A Robust Graph Partition Method from the Path-Weighted Adjacency Matrix. citation:-1
+title:Improved Pose Estimation for Texture Planes Using Multiple Vanishing Points. citation:-1
+title:Adapting Scale by Minimising Spectral Defocusing for Shape from Texture. citation:-1
+title:Combining Data-Closeness and Fourier Domain Integrability Constraints in Shape-from-Shading. citation:-1
+title:A Facial Statistical Model from Complex Numbers. citation:-1
+title:A Graph-Spectral Approach to Correspondence Matching. citation:-1
+title:A Graph-Spectral Approach to Surface Segmentatio. citation:-1
+title:Template Trackingwith Observation Relevance Determination. citation:-1
+title:A Fast Leading Eigenvector Approximation for Segmentation and Grouping. citation:-1
+title:Vector Field Smoothing Via Heat Flow. citation:-1
+title:Probabilistic Relaxation Labeling by Fokker-Planck Diffusion on a Graph. citation:-1
+title:Surface acquisition from single gray-scale images. citation:-1
+title:Rectifying Structural Matching Errors. citation:-1
+title:Correction of underexposed images using scene radiance estimation. citation:-1
+title:Characterizing Graphs Using Spherical Triangles. citation:-1
+title:Face Recognition Using Principal Geodesic Analysis and Manifold Learning. citation:-1
+title:Spectral Modes of Facial Needle-Maps. citation:-1
+title:Erratum to: Graph matching using the interference of continuous-time quantum walks [Pattern Recognition 42 (5) 985-1002]. citation:-1
+title:An Eigendecomposition Method for Shape-from-Texture. citation:-1
+title:An Evidence Combining Approach to Shape-from-Shading. citation:-1
+title:Image Registration with Shape Mixtures. citation:-1
+title:A Scale Adaptive Method for Focusing Spectral Peaks. citation:-1
+title:Texture Plane Orientation from Spectral Accumulation. citation:-1
+title:Convergence of a Hill Climbing Genetic Algorithm for Graph Matching. citation:-1
+title:Curvature Weighted Evidence Combination for Shape-from-Shading. citation:-1
+title:Reflectance from Surfaces with Layers of Variable Roughness. citation:-1
+title:Point Pattern Matching Via Spectral Geometry. citation:-1
+title:Steady State Random Walks for Path Estimation. citation:-1
+title:A Graph Spectral Approach to Consistent Labelling. citation:-1
+title:Graph Matching using Commute Time Spanning Tr. citation:-1
+title:Graph Matching using Commute Time Spanning Trees. citation:-1
+title:An Expectation-Maximisation Approach to Graph Matching. citation:-1
+title:Curvature Estimation Using Shape-from-Texture. citation:-1
+title:Approximating 3D Facial Shape from Photographs Using Coupled Statistical Models. citation:-1
+title:A statistical process for surface tracking. citation:-1
+title:Locally Linear Isometric Parameterization. citation:-1
+title:Facial Shadow Removal. citation:-1
+title:Analysis of Directional Reflectance and Surface Orientation Using Fresnel Theory. citation:-1
+title:A Maximum Likelihood Framework for Grouping and Segmentation. citation:-1
+title:Graph Matching Using Spectral Seriation. citation:-1
+title:Improved shape-from-shading using Darboux smoothing. citation:-1
+title:Surface radiance empirical data against model predictions. citation:-1
+title:Shape-from-shading using viewpoint-invariant principal curvatures. citation:-1
+title:Learning Mixtures of Tree-Unions by Minimizing Description Length. citation:-1
+title:Selection Strategies for Ambiguous Graph Matching by Evolutionary Optimisation. citation:-1
+title:A Linear Discriminator of Width. citation:-1
+title:Genetic Algorithms for Structural Editing. citation:-1
+title:Topographic Surface Structure from 2D Images Using Shape-from-Shading. citation:-1
+title:Shape-from-Shading for Highlighted Surfaces. citation:-1
+title:Grey Scale Skeletonisation with Curvature Sensitive Noise Damping. citation:-1
+title:Facial Shape-from-Shading Using Principal Geodesic Analysis and Robust Statistics. citation:-1
+title:Statistical Methods for Surface Integration. citation:-1
+title:Object Recognition Using Shape-from-Shading. citation:-1
+title:Levenshtein Distance for Graph Spectral Features. citation:-1
+title:Optimizing Pattern Recovery in Recurrent Correlation Associative Memories. citation:-1
+title:Storage Capacity of the Exponential Correlation Associative Memory. citation:-1
+title:Quantitative Evaluation on Heat Kernel Permutation Invariants. citation:-1
+title:Graph Matching using Interference of Coined Quantum Walks. citation:-1
+title:Structural Sensivity for Large-Scale Line-Pattern Recognition. citation:-1
+title:Reconstructing 3D Facial Shape Using Spherical Harmonics. citation:-1
+title:Estimation of Facial Angular Information Using a Complex-Number-Based Statistical Model. citation:-1
+title:A Method for Re-illuminating Faces from a Single Image. citation:-1
+title:Localising Facial Features with Matched Filters. citation:-1
+title:Shape-from-Texture from Eigenvectors of Spectral Distortion. citation:-1
+title:A graph-spectral method for surface height recovery. citation:-1
+title:A Graph-Spectral Method for Surface Height Recovery. citation:-1
+title:Imposing Integrability in Geometric Shape-from-Shading. citation:-1
+title:Curvature dependent skeletonization. citation:-1
+title:Vector Transport for Shape-from-Shading. citation:-1
+title:Disparity Using Feature Points in Multi Scale. citation:-1
+title:Object recognition by clustering spectral features. citation:-1
+title:Trace Formula Analysis of Graphs. citation:-1
+title:Learning modes of structural variation in graphs. citation:-1
+title:An Eigenvector Method for Surface Recovery. citation:-1
+title:Storage Capacity of the Exponential Correlation Associative Memory. citation:-1
+title:Structural Object Recognition Using Shape-from-Shading. citation:-1
+title:Lambertian Correction for Rough and Specular Surfaces. citation:-1
+title:View Synthesis from Needle-Maps. citation:-1
+title:Spectral Analysis of Complex Laplacian Matrices. citation:-1
+title:Spanning Trees from the Commute Times of Random Walks on Graphs. citation:-1
+title:Hierarchical Discrete Relaxation. citation:-1
+title:A Light Scattering Model for Layered Rough Surfaces. citation:-1
+title:Learning shape categories by clustering shock trees. citation:-1
+title:Incrementally Discovering Object Classes Using Similarity Propagation and Graph Clustering. citation:-1
+title:Articulated Motion and Deformable Objects Second International Workshop, AMDO 2002, Palma de Mallorca, Spain, November 21-23, 2002, Proceedings citation:-1
+title:Energy Minimization Methods in Computer Vision and Pattern Recognition, First International Workshop, EMMCVPR'97, Venice, Italy, May 21-23, 1997, Proceedings citation:-1
+title:Energy Minimization Methods in Computer Vision and Pattern Recognition, Second International Workshop, EMMCVPR'99, York, UK, July 26-29, 1999, Proceedings citation:-1
+title:Associating Minutiae between Distorted Fingerprints Using Minimal Spanning Tree. citation:-1
+title:Using the Fisher-Rao Metric to Compute Facial Similarity. citation:-1
+title:Extracting gender discriminating features from facial needle-maps. citation:-1
+title:Specular and diffuse reflectance in microfacet models. citation:-1
+title:Mathematics of Surfaces XIII, 13th IMA International Conference, York, UK, September 7-9, 2009, Proceedings citation:-1
+title:Structural, Syntactic, and Statistical Pattern Recognition, Joint IAPR Internati onal Workshop, SSPR&SPR 2010, Cesme, Izmir, Turkey, August 18-20, 2010. Proceedings citation:-1
+title:Graph Embedding Using an Edge-Based Wave Kernel. citation:-1
+title:Affinity Propagation for Class Exemplar Mining. citation:-1
+title:Ihara Coefficients: A Flexible Tool for Higher Order Learning. citation:-1
+title:Regularising the Ricci Flow Embedding. citation:-1
+title:Commute-Time Convolution Kernels for Graph Clustering. citation:-1
+title:Estimating Facial Reflectance Properties Using Shape-from-Shading. citation:-1
+title:Facial gender classification using shape-from-shading. citation:-1
+title:Recovering 3D Shape Using an Improved Fast Marching Method. citation:-1
+title:Robust Shape from Polarisation and Shading. citation:-1
+title:Characterising Facial Gender Difference Using Fisher-Rao Metric. citation:-1
+title:Rectifying Non-Euclidean Similarity Data Using Ricci Flow Embedding. citation:-1
+title:Mining Exemplars for Object Modelling Using Affinity Propagation. citation:-1
+title:Weighted graph characteristics from oriented line graph polynomials. citation:-1
+title:Detection of skin lesions using diffuse polarisation. citation:-1
+title:Distinguishing facial expression using the Fisher-Rao metric. citation:-1
+title:Supervised relevance maps for increasing the distinctiveness of facial images. citation:-1
+title:Gender Classification using Shape from Shading. citation:-1
+title:Facial Shape Estimation in the Presence of Cast Shadows. citation:-1
+title:Comparing Variants of the Beckmann Model. citation:-1
+title:Entropy versus Heterogeneity for Graphs. citation:-1
+title:Reflection Component Separation Using Statistical Analysis and Polarisation. citation:-1
+title:Rectifying Non-euclidean Similarity Data through Tangent Space Reprojection. citation:-1
+title:Natural Material Segmentation and Classification Using Polarisation. citation:-1
+title:Characterizing Graphs Using Approximate von Neumann Entropy. citation:-1
+title:Special issue on Graph-Based Representations in Computer Vision. citation:-1
+title:Special edition on semi-supervised learning for visual content analysis and understanding. citation:-1
+title:Graph embedding using a quasi-quantum analogue of the hitting times of continuous time quantum walks. citation:-1
+title:An Information Theoretic Approach to Learning Generative Graph Prototypes. citation:-1
+title:Mutual Information Criteria for Feature Selection. citation:-1
+title:Similarity-Based Pattern Recognition - First International Workshop, SIMBAD 2011, Venice, Italy, September 28-30, 2011. Proceedings citation:-1
+title:Graph Characterization via Backtrackless Paths. citation:-1
+title:Feature Point Matching Using a Hermitian Property Matrix. citation:-1
+title:Surface Material Segmentation Using Polarisation. citation:-1
+title:Face Recognition Using Simplicial Complexes. citation:-1
+title:A Hypergraph-Based Approach to Feature Selection. citation:-1
+title:Robust Shape and Polarisation Estimation Using Blind Source Separation. citation:-1
+title:Refractive Index Estimation Using Polarisation and Photometric Stereo. citation:-1
+title:From Points to Nodes: Inverse Graph Embedding through a Lagrangian Formulation. citation:-1
+title:Determining the Cause of Negative Dissimilarity Eigenvalues. citation:-1
+title:Facial Expression Recognition Using Nonrigid Motion Parameters and Shape-from-Shading. citation:-1
+title:Kernelising the Ihara Zeta Function. citation:-1
+title:Refractive Index Estimation of Naturally Occurring Surfaces Using Photometric Stereo. citation:-1
+title:High Order Structural Matching Using Dominant Cluster Analysis. citation:-1
+title:Improved Content-Based Watermarking Using Scale-Invariant Feature Points. citation:-1
+title:Fusion of Multiple Candidate Orientations in Fingerprints. citation:-1
+title:Tensor-based total bregman divergences between graphs. citation:-1
+title:Information theoretic methods for learning generative models for relational structures. citation:-1
+title:An information theoretic approach to gender feature selection. citation:-1
+title:Hypergraph Spectra for Semi-supervised Feature Selection. citation:-1
+title:Detection of Edges in Color Images: A Review and Evaluative Comparison of State-of-the-Art Techniques. citation:-1
+title:An Efficient Scheme for Color Edge Detection in Uniform Color Space. citation:-1
+title:Localized Graph-Based Feature Selection for Clustering. citation:-1
+title:A Statistical Operator for Detecting Weak Edges in Low Contrast Images. citation:-1
+title:Kernel Entropy-Based Unsupervised spectral Feature Selection. citation:-1
+title:Regression-Based Template Tracking in Presence of Occlusions. citation:-1
+title:Structural, Syntactic, and Statistical Pattern Recognition - Joint IAPR International Workshop, SSPR&SPR 2012, Hiroshima, Japan, November 7-9, 2012. Proceedings citation:-1
+title:Approximate Axial Symmetries from Continuous Time Quantum Walks. citation:-1
+title:Unsupervised Clustering of Human Pose Using Spectral Embedding. citation:-1
+title:3D Shape Classification Using Commute Time. citation:-1
+title:Information Theoretic Prototype Selection for Unattributed Graphs. citation:-1
+title:Estimating Surface Characteristics and Extracting Features from Polarisation. citation:-1
+title:Graph Complexity from the Jensen-Shannon Divergence. citation:-1
+title:Heat Flow-Thermodynamic Depth Complexity in Directed Networks. citation:-1
+title:Hypergraph Spectra for Unsupervised Feature Selection. citation:-1
+title:A Jensen-Shannon Kernel for Hypergraphs. citation:-1
+title:Shape Analysis Using the Edge-Based Laplacian. citation:-1
+title:Computing Gender Difference Using Fisher-Rao Metric from Facial Surface Normals. citation:-1
+title:Advances in pattern recognition methodology and applications. citation:-1
+title:Shape and Refractive Index from Single-View Spectro-Polarimetric Images. citation:-1
+title:Eigenfunctions of the Edge-Based Laplacian on a Graph citation:-1
+title:Hypergraph based semi-supervised learning for gender classification. citation:-1
+title:Unsupervised spectral feature selection for face recognition. citation:-1
+title:Hypergraph matching based on Marginalized Constrained Compatibility. citation:-1
+title:Simultaneous reflectance estimation and surface shape recovery using polarisation. citation:-1
+title:Graph clustering using graph entropy complexity traces. citation:-1
+title:Face recognition using semi-supervised spectral feature selection. citation:-1
+title:Jensen-Shannon graph kernel using information functionals. citation:-1
+title:Sampling graphs from a probabilistic generative model. citation:-1
+title:Shape signature using the edge-based Laplacian. citation:-1
+title:A comprehensive polarisation model for surface orientation recovery. citation:-1

@@ -1,0 +1,184 @@
+title1:PALM: Portable Sensor-Augmented Vision System for Large-Scene Modeling. title2:PALM: portable sensor-augmented vision system for large-scene modeling citation:3 ncitation:3 pid3964
+title1:Shape Reconstruction of Human Foot from Multi-Camera Images Based on PCA of Human Shape Database. title2:Shape reconstruction of human foot from multi-camera images based on PCA of human shape database citation:4 ncitation:5 pid4110
+title1:Appearance-Based Virtual View Generation of Temporally-Varying Events from Multi-Camera Images in the 3D Room. title2:Appearance-based virtual view generation of temporally-varying events from multi-camera images in the 3D room citation:77 ncitation:74 pid4135
+title1:Mapping Image Properties into Shape Constraints: Skewed Symmetry and Affine-Tramsfornable Patterns, and the Shape-from-Texture Paradigm. title2:Mapping image properties into shape constraints: Skewed symmetry, affine-transformable patterns, and the shape-from-texture paradigm citation:79 ncitation:-1 pid13469
+title1:Appropriate Lengths Between Phalanges of Multijointed Fingers for Stable Grasping. title2:Appropriate lengths between phalanges of multijointed fingers for stable grasping citation:2 ncitation:3 pid14372
+title1:Inverse Volume Rendering Approach to 3D Reconstruction from Multiple Images. title2:Inverse volume rendering approach to 3D reconstruction from multiple images citation:6 ncitation:5 pid18285
+title1:Combined Object Detection and Segmentation by Using Space-Time Patches. title2:Combined object detection and segmentation by using space-time patches citation:6 ncitation:5 pid18316
+title1:Video OCR for Digital News Archive. title2:Video OCR for digital news archive citation:312 ncitation:250 pid75112
+title1:Video Skimming and Characterization through the Combination of Image and Language Understanding. title2:Video skimming and characterization through the combination of image and language understanding citation:515 ncitation:496 pid75113
+title1:Content-Free Image Retrieval by Combinations of Keywords and User Feedbacks. title2:Content-free image retrieval by combinations of keywords and user feedbacks citation:7 ncitation:6 pid98463
+title1:Tracking of Migrating and Proliferating Cells in Phase-Contrast Microscopy Imagery for Tissue Engineering. title2:Tracking of migrating and proliferating cells in phase-contrast microscopy imagery for tissue engineering citation:3 ncitation:3 pid127301
+title1:Limits on Super-Resolution and How to Break Them. title2:Limits on super-resolution and how to break them citation:1107 ncitation:801 pid127391
+title1:3D Alignment of Face in a Single Image. title2:3d alignment of face in a single image citation:67 ncitation:61 pid127467
+title1:Shape-From-Silhouette of Articulated Objects and its Use for Human Body Kinematics Estimation and Motion Capture. title2:Shape-from-silhouette of articulated objects and its use for human body kinematics estimation and motion capture citation:297 ncitation:273 pid127690
+title1:Visual Hull Alignment and Refinement Across Time: A 3D Reconstruction Algorithm Combining Shape-From-Silhouette with Stereo. title2:Visual hull alignment and refinement across time: A 3d reconstruction algorithm combining shape-from-silhouette with stereo citation:118 ncitation:113 pid127691
+title1:A Real Time System for Robust 3D Voxel Reconstruction of Human Motions. title2:A real time system for robust 3D voxel reconstruction of human motions citation:391 ncitation:367 pid127693
+title1:High-Zoom Video Hallucination by Exploiting Spatio-Temporal Regularities. title2:High-zoom video hallucination by exploiting spatio-temporal regularities citation:50 ncitation:44 pid127787
+title1:Transforming Camera Geometry to A Virtual Downward-Looking Camera: Robust Ego-Motion Estimation and Ground-Layer Detection. title2:Transforming camera geometry to a virtual downward-looking camera: Robust ego-motion estimation and ground-layer detection citation:66 ncitation:61 pid127918
+title1:Robust L Norm Factorization in the Presence of Outliers and Missing Data by Alternative Convex Programming. title2:Robust L< sub> 1</sub> norm factorization in the presence of outliers and missing data by alternative convex programming citation:140 ncitation:99 pid127926
+title1:Reconstruction of a Scene with Multiple Linearly Moving Objects. title2:Reconstruction of a scene with multiple linearly moving objects citation:114 ncitation:96 pid128025
+title1:A Stereo Machine for Video-Rate Dense Depth Mapping and Its New Applications. title2:A stereo machine for video-rate dense depth mapping and its new applications citation:383 ncitation:369 pid128282
+title1:Subtly Different Facial Expression Recognition and Expression Intensity Estimation. title2:Subtly different facial expression recognition and expression intensity estimation citation:95 ncitation:85 pid128475
+title1:Image-Consistent Surface Triangulation. title2:Image-consistent surface triangulation citation:123 ncitation:112 pid128656
+title1:A Factorization Method for Affine Structure from Line Correspondences. title2:A factorization method for affine structure from line correspondences citation:57 ncitation:50 pid128803
+title1:Rotation Invariant Neural Network-Based Face Detection. title2:Rotation invariant neural network-based face detection citation:533 ncitation:10 pid128931
+title1:Rotation Invariant Neural Network-Based Face Detection. title2:Rotation invariant neural network-based face detection citation:533 ncitation:10 pid128932
+title1:Shape Reconstruction in Projective Grid Space from Large Number of Images. title2:Shape reconstruction in projective grid space from large number of images citation:105 ncitation:102 pid128954
+title1:Name-It: Association of Face and Name in Video. title2:Name-it: Association of face and name in video citation:149 ncitation:132 pid128974
+title1:A Statistical Method for 3D Object Detection Applied to Faces and Cars. title2:A statistical method for 3D object detection applied to faces and cars citation:1250 ncitation:1165 pid128998
+title1:Probabilistic Modeling of Local Appearance and Spatial Relationships for Object Recognition. title2:Probabilistic modeling of local appearance and spatial relationships for object recognition citation:435 ncitation:405 pid128999
+title1:Bayesian Color Constancy for Outdoor Object Recognition. title2:Bayesian color constancy for outdoor object recognition citation:65 ncitation:62 pid129270
+title1:Real-Time Combined 2D+3D Active Appearance Models. title2:Real-time combined 2D+ 3D active appearance models citation:368 ncitation:330 pid129461
+title1:Automated Individualization of Deformable Eye Region Model and Its Application to Eye Motion Analysis. title2:Automated individualization of deformable eye region model and its application to eye motion analysis citation:3 ncitation:3 pid130149
+title1:Simulating arthroscopic knee surgery using volumetric object representations, real-time volume rendering and haptic feedback. title2:Simulating arthroscopic knee surgery using volumetric object representations, real-time volume rendering and haptic feedback citation:195 ncitation:182 pid130738
+title1:Towards More Capable and Less Invasive Robotic Surgery in Orthopaedics. title2:Towards more capable and less invasive robotic surgery in orthopaedics citation:6 ncitation:6 pid130815
+title1:Vision-Based Object Registration for Real-Time Image Overlay. title2:Vision-based object registration for real-time image overlay citation:186 ncitation:177 pid130860
+title1:A Paraperspective Factorization Method for Shape and Motion Recovery. title2:A paraperspective factorization method for shape and motion recovery citation:66 ncitation:427 pid169109
+title1:Visual Tracking of High DOF Articulated Structures: an Application to Human Hand Tracking. title2:Visual tracking of high dof articulated structures: an application to human hand tracking citation:415 ncitation:386 pid169142
+title1:A Correlation-Based Approach to Robust Point Set Registration. title2:A correlation-based approach to robust point set registration citation:111 ncitation:86 pid169377
+title1:A Closed-Form Solution to Non-rigid Shape and Motion Recovery. title2:A closed-form solution to non-rigid shape and motion recovery citation:87 ncitation:125 pid169478
+title1:A Generative Shape Regularization Model for Robust Face Alignment. title2:A generative shape regularization model for robust face alignment citation:67 ncitation:52 pid169515
+title1:Hallucinating Faces. title2:Hallucinating faces citation:342 ncitation:298 pid205328
+title1:Feature-Point Tracking by Optical Flow Discriminates Subtle Differences in Facial Expression. title2:Feature-point tracking by optical flow discriminates subtle differences in facial expression citation:132 ncitation:122 pid205398
+title1:Comprehensive Database for Facial Expression Analysis. title2:Comprehensive database for facial expression analysis citation:1316 ncitation:1098 pid205506
+title1:Automated Facial Expression Recognition Based on FACS Action Units. title2:Automated facial expression recognition based on FACS action units citation:155 ncitation:148 pid205589
+title1:Dual-State Parametric Eye Tracking. title2:Dual-state parametric eye tracking citation:155 ncitation:142 pid205686
+title1:Evaluation of Gabor-Wavelet-Based Facial Action Unit Recognition in Image Sequences of Increasing Complexity. title2:Evaluation of Gabor-wavelet-based facial action unit recognition in image sequences of increasing complexity citation:151 ncitation:143 pid205688
+title1:Robust Full-Motion Recovery of Head by Dynamic Templates and Re-Registration Techniques. citation:216 ncitation:193 pid205733
+title1:On the sustained tracking of human motion. title2:On the sustained tracking of human motion citation:6 ncitation:6 pid205826
+title1:Predicting driver operations inside vehicles. title2:Predicting driver operations inside vehicles citation:1 ncitation:1 pid205910
+title1:Multi-PIE. title2:Multi-pie citation:251 ncitation:162 pid205918
+title1:Carnegie Mellon Navlab Vision System. title2:Carnegie Mellon Navlab Vision System citation:1 ncitation:1 pid259870
+title1:Quasiconvex Optimization for Robust Geometric Reconstruction. title2:Quasiconvex optimization for robust geometric reconstruction citation:111 ncitation:67 pid292867
+title1:A Multi-Body Factorization Method for Motion Analysis. title2:A multi-body factorization method for motion analysis citation:180 ncitation:191 pid292978
+title1:Multiple Motion Scene Reconstruction from Uncalibrated Views. title2:Multiple motion scene reconstruction from uncalibrated views citation:47 ncitation:40 pid293148
+title1:A Multibaseline Stereo System with Active Illumination and Real-Time Image Acquisition. title2:A multibaseline stereo system with active illumination and real-time image acquisition citation:146 ncitation:130 pid293268
+title1:Multi-View AAM Fitting and Camera Calibration. title2:Multi-view AAM fitting and camera calibration citation:49 ncitation:42 pid293327
+title1:A Unified Factorization Algorithm for Points, Line Segments and Planes with Uncertainty Models. title2:A unified factorization algorithm for points, line segments and planes with uncertainty models citation:141 ncitation:138 pid293467
+title1:Constructing Virtual Worlds Using Dense Stereo. title2:Constructing virtual worlds using dense stereo citation:298 ncitation:285 pid293499
+title1:Model-Based Tracking of Self-Occluding Articulated Objects. title2:Model-based tracking of self-occluding articulated objects citation:450 ncitation:422 pid293576
+title1:Statistical Calibration of the CCD Imaging Process. title2:Statistical calibration of CCD imaging process citation:172 ncitation:147 pid293805
+title1:Three-Dimensional Scene Flow. title2:Three-dimensional scene flow citation:185 ncitation:165 pid293820
+title1:Optical Flow Estimation Using Wavelet Motion Model. title2:Optical flow estimation using wavelet motion model citation:81 ncitation:78 pid293899
+title1:Uncalibrated Perspective Reconstruction of Deformable Structures. title2:Uncalibrated perspective reconstruction of deformable structures citation:61 ncitation:58 pid293905
+title1:Mode-seeking by Medoidshifts. title2:Mode-seeking by medoidshifts citation:70 ncitation:59 pid294254
+title1:Uncertainty Modeling for Optimal Structure from Motion. title2:Uncertainty modeling for optimal structure from motion citation:50 ncitation:52 pid294404
+title1:An active camera system for acquiring multi-view video. title2:An active camera system for acquiring multi-view video citation:80 ncitation:70 pid317059
+title1:Content-Free Image Retrieval Based on Relations Exploited from User Feedbacks. title2:Content-free image retrieval based on relations exploited from user feedbacks citation:8 ncitation:6 pid332399
+title1:Discriminative cluster analysis. title2:Discriminative cluster analysis citation:62 ncitation:50 pid335855
+title1:Automatic Recognition of Eye Blinking in Spontaneously Occurring Behavior. title2:Automatic recognition of eye blinking in spontaneously occurring behavior citation:53 ncitation:48 pid348076
+title1:Real-Thme 3-D Pose Estimation Using a High-Speed Range Sensor. title2:Real-time 3-D pose estimation using a high-speed range sensor citation:147 ncitation:129 pid352836
+title1:Microphone Array for 2D Sound Localization and Capture. title2:Microphone array for 2D sound localization and capture citation:3 ncitation:15 pid357016
+title1:Learning to Track Multiple People in Omnidirectional Video. title2:Learning to track multiple people in omnidirectional video citation:6 ncitation:5 pid358318
+title1:Footstep Planning for the Honda ASIMO Humanoid. title2:Footstep planning for the Honda ASIMO humanoid citation:222 ncitation:210 pid358492
+title1:The 3D MOSAIC Scene Understanding System. title2:The 3D MOSAIC scene understanding system: Incremental reconstruction of 3D scenes from complex images citation:87 ncitation:20 pid388875
+title1:An Iterative Image Registration Technique with an Application to Stereo Vision. title2:An iterative image registration technique with an application to stereo vision. citation:7439 ncitation:6482 pid389579
+title1:First Results in Robot Road-Following. title2:First Results in Robot Road-Following. citation:115 ncitation:99 pid391028
+title1:The Role of Non-Overlap in Image Registration. title2:The role of non-overlap in image registration citation:3 ncitation:3 pid407119
+title1:Scalable Regularized Tomography without Repeated Projections. title2:Scalable regularized tomography without repeated projections citation:2 ncitation:2 pid408005
+title1:Microphone Array for 2D Sound Localization and Capture. title2:Microphone array for 2D sound localization and capture citation:3 ncitation:15 pid434967
+title1:Real world sensorization for observing human behavior and its application to behavior-to-speech. title2:Real world sensorization for observing human behavior and its application to behavior-to-speech citation:5 ncitation:4 pid459509
+title1:An Image Overlay System for Medical Data Visualization. title2:An image overlay system for medical data visualization citation:56 ncitation:72 pid496840
+title1:Modeling and Analysis of Ultrasonic Echoes Reflected from a Surface under Two Layers. title2:Modeling and Analysis of Ultrasonic Echoes Reflected from a Surface under Two Layers citation:1 ncitation:1 pid497015
+title1:Modifying Soft Tissue Models: Progressive Cutting with Minimal New Element Creation. title2:Modifying soft tissue models: Progressive cutting with minimal new element creation citation:99 ncitation:94 pid497758
+title1:Cell Population Tracking and Lineage Construction with Spatiotemporal Context. title2:Cell population tracking and lineage construction with spatiotemporal context citation:160 ncitation:131 pid498590
+title1:Semantic Analysis for Video Contents Extraction - Spotting by Association in News Nideo. citation:125 ncitation:119 pid502759
+title1:Human Face Detection in Visual Scenes. title2:Human face detection in visual scenes citation:401 ncitation:376 pid516875
+title1:Nonrigid Structure from Motion in Trajectory Space. title2:Nonrigid structure from motion in trajectory space citation:56 ncitation:47 pid518314
+title1:Spatio-Temporal View Interpolation. title2:Spatio-temporal view interpolation citation:100 ncitation:92 pid563131
+title1:Verification of stereo vision based localization system. title2:Verification of stereo vision based localization system citation:4 ncitation:4 pid607045
+title1:Virtualized reality: constructing time-varying virtual worlds from real world events. title2:Virtualized reality: Constructing time-varying virtual worlds from real world events citation:98 ncitation:87 pid640230
+title1:A lightweight algorithm for real-time motion synthesis. title2:A lightweight algorithm for real-time motion synthesis citation:1 ncitation:1 pid648217
+title1:Object Type Classification Using Structure-based Feature Representation. title2:Object Type Classification Using Structure-based Feature Representation. citation:6 ncitation:6 pid714597
+title1:A Method for Monitoring Activities of Multiple Objects by Using Stochastic Model. title2:A method for monitoring activities of multiple objects by using stochastic model citation:2 ncitation:2 pid714985
+title1:GPU-accelerated real-time 3D tracking for humanoid locomotion and stair climbing. title2:GPU-accelerated real-time 3D tracking for humanoid locomotion and stair climbing citation:61 ncitation:55 pid723901
+title1:Incremental Reconstruction of 3D Scenes from Multiple, Complex Images. title2:Incremental reconstruction of 3D scenes from multiple, complex images citation:139 ncitation:128 pid745066
+title1:A Theory of Origami World. title2:A theory of origami world citation:154 ncitation:143 pid745191
+title1:Recovery of the Three-Dimensional Shape of an Object from a Single View. title2:Recovery of the three-dimensional shape of an object from a single view citation:519 ncitation:480 pid745192
+title1:From a Real Chair to a Negative Chair. title2:From a real chair to a negative chair citation:5 ncitation:6 pid745193
+title1:A Framework for Representing and Reasoning about Three-Dimensional Objects for Vision. title2:A Framework for Representing and Reasoning about Three-Dimensional Objects for Visione citation:50 ncitation:43 pid748344
+title1:Informedia Digital Video Library. title2:Informedia digital video library citation:135 ncitation:130 pid770621
+title1:Ambler: An Autonomous Rover for Planetary Exploration. title2:Ambler: An autonomous rover for planetary exploration citation:178 ncitation:176 pid805727
+title1:Intelligent Access to Digital Video: Informedia Project. title2:Intelligent access to digital video: Informedia project citation:429 ncitation:416 pid808390
+title1:Modelling sensors: Toward automatic generation of object recognition program. title2:Modelling sensors: Toward automatic generation of object recognition program citation:49 ncitation:44 pid834021
+title1:Using shadows in finding surface orientations. title2:Using shadows in finding surface orientations citation:82 ncitation:75 pid834418
+title1:Toward autonomous driving: the CMU Navlab. Part I - Perception. title2:Toward autonomous driving: the cmu navlab. i. perception citation:102 ncitation:96 pid875466
+title1:Virtualized Reality: Constructing Virtual Worlds from Real Scenes. title2:Virtualized reality: Constructing virtual worlds from real scenes citation:529 ncitation:504 pid893977
+title1:Name-It: Naming and Detecting Faces in News Videos. title2:Name-it: Naming and detecting faces in news videos citation:273 ncitation:247 pid894171
+title1:Shape-From-Silhouette Across Time Part I: Theory and Algorithms. title2:Shape-from-silhouette across time part i: Theory and algorithms citation:105 ncitation:95 pid907643
+title1:Reconstruction of a Scene with Multiple Linearly Moving Objects. title2:Reconstruction of a scene with multiple linearly moving objects citation:114 ncitation:96 pid907658
+title1:Object Detection Using the Statistics of Parts. title2:Object detection using the statistics of parts citation:338 ncitation:295 pid907823
+title1:Image Registration Using Wavelet-Based Motion Model. title2:Image registration using wavelet-based motion model citation:85 ncitation:73 pid907914
+title1:Shape-From-Silhouette Across Time Part II: Applications to Human Modeling and Markerless Motion Tracking. title2:Shape-from-silhouette across time part ii: Applications to human modeling and markerless motion tracking citation:122 ncitation:108 pid907962
+title1:A Closed-Form Solution to Non-Rigid Shape and Motion Recovery. title2:A closed-form solution to non-rigid shape and motion recovery citation:87 ncitation:125 pid908009
+title1:The measurement of highlights in color images. title2:The measurement of highlights in color images citation:333 ncitation:296 pid908228
+title1:A physical approach to color image understanding. title2:A physical approach to color image understanding citation:67 ncitation:454 pid908258
+title1:Shape from interreflections. title2:Shape from interreflections citation:238 ncitation:219 pid908285
+title1:A locally adaptive window for signal matching. title2:A locally adaptive window for signal matching citation:238 ncitation:223 pid908298
+title1:Shape and motion from image streams under orthography: a factorization method. title2:Shape and motion from image streams under orthography: a factorization method citation:2346 ncitation:2300 pid908325
+title1:A Multibody Factorization Method for Independently Moving Objects. title2:A multibody factorization method for independently moving objects citation:381 ncitation:349 pid908553
+title1:Experimental Evaluation of Nonlinear Feedback and Feedforward Control Schemes for Manipulators. title2:Experimental evaluation of nonlinear feedback and feedforward control schemes for manipulators citation:104 ncitation:90 pid920118
+title1:Video OCR: Indexing Digital News Libraries by Recognition of Superimposed Captions. title2:Video OCR: indexing digital news libraries by recognition of superimposed captions citation:166 ncitation:428 pid1011312
+title1:Limits on Super-Resolution and How to Break Them. title2:Limits on super-resolution and how to break them citation:1107 ncitation:801 pid1030994
+title1:A Stereo Matching Algorithm with an Adaptive Window: Theory and Experiment. title2:A stereo matching algorithm with an adaptive window: Theory and experiment citation:1166 ncitation:994 pid1032041
+title1:High-Resolution Terrain Map from Multiple Sensor Data. title2:High resolution terrain map from multiple sensor data citation:185 ncitation:188 pid1032212
+title1:Meticulously Detailed Eye Region Model and Its Application to Analysis of Facial Images. title2:Meticulously detailed eye region model and its application to analysis of facial images citation:76 ncitation:68 pid1032489
+title1:Surface Reflection: Physical and Geometrical Perspectives. title2:Surface reflection: physical and geometrical perspectives citation:630 ncitation:555 pid1032556
+title1:A Paraperspective Factorization Method for Shape and Motion Recovery. title2:A paraperspective factorization method for shape and motion recovery citation:66 ncitation:427 pid1032734
+title1:Recognizing Action Units for Facial Expression Analysis. title2:Recognizing action units for facial expression analysis citation:881 ncitation:800 pid1033169
+title1:Three-Dimensional Scene Flow. title2:Three-dimensional scene flow citation:185 ncitation:165 pid1033240
+title1:Quasiconvex Optimization for Robust Geometric Reconstruction. title2:Quasiconvex optimization for robust geometric reconstruction citation:111 ncitation:67 pid1033416
+title1:A Cooperative Algorithm for Stereo Matching and Occlusion Detection. title2:A cooperative algorithm for stereo matching and occlusion detection citation:495 ncitation:449 pid1033584
+title1:WYSIWYF Display: A Visual/Haptic Interface to Virtual Environment. title2:WYSIWYF display: A visual/haptic interface to virtual environment citation:50 ncitation:49 pid1043557
+title1:A visual odometer for autonomous helicopter flight. title2:A visual odometer for autonomous helicopter flight citation:124 ncitation:112 pid1049289
+title1:Detection, tracking, and classification of action units in facial expression. title2:Detection, tracking, and classification of action units in facial expression citation:220 ncitation:197 pid1049767
+title1:Stereo vision with arbitrary camera arrangement and with camera calibration. title2:Stereo vision with arbitrary camera arrangement and with camera calibration citation:3 ncitation:3 pid1055429
+title1:Appearance-based virtual view generation from multicamera videos captured in the 3-D room. title2:Appearance-based virtual view generation from multicamera videos captured in the 3-D room citation:51 ncitation:45 pid1116497
+title1:Image-based spatio-temporal modeling and view interpolation of dynamic events. title2:Image-based spatio-temporal modeling and view interpolation of dynamic events citation:96 ncitation:89 pid1119610
+title1:Overlay what Humanoid Robot Perceives and Thinks to the Real-world by Mixed Reality System. title2:Overlay what Humanoid Robot Perceives and Thinks to the Real-world by Mixed Reality System citation:6 ncitation:5 pid1211106
+title1:Geometric reasoning for single image structure recovery. title2:Geometric reasoning for single image structure recovery citation:103 ncitation:67 pid1305052
+title1:Optimal placement of a two-link manipulator for door opening. title2:Optimal placement of a two-link manipulator for door opening citation:3 ncitation:3 pid1313437
+title1:Video Segmentation Using Iterated Graph Cuts Based on Spatio-temporal Volumes. title2:Video segmentation using iterated graph cuts based on spatio-temporal volumes citation:4 ncitation:5 pid1359454
+title1:Boundary detection based on supervised learning. title2:Boundary detection based on supervised learning citation:2 ncitation:2 pid1381204
+title1:Multi-PIE. title2:Multi-pie citation:251 ncitation:162 pid1409587
+title1:Degeneracy of the Linear Seventeen-Point Algorithm for Generalized Essential Matrix. title2:Degeneracy of the linear seventeen-point algorithm for generalized essential matrix citation:5 ncitation:3 pid1409873
+title1:Heterogeneous Conditional Random Field: Realizing joint detection and segmentation of cell regions in microscopic images. title2:Heterogeneous conditional random field: Realizing joint detection and segmentation of cell regions in microscopic images citation:5 ncitation:3 pid1415320
+title1:Interactive retrieval of targets for wide area surveillance. title2:Interactive retrieval of targets for wide area surveillance citation:3 ncitation:1 pid1421082
+title1:Spherical approximation for multiple cameras in motion estimation: Its applicability and advantages. title2:Spherical approximation for multiple cameras in motion estimation: Its applicability and advantages citation:6 ncitation:3 pid1421497
+title1:Tracking in unstructured crowded scenes. title2:Tracking in unstructured crowded scenes citation:68 ncitation:50 pid1422303
+title1:Background Subtraction for Freely Moving Cameras. title2:Background subtraction for freely moving cameras citation:89 ncitation:64 pid1425211
+title1:Face alignment robust to occlusion. title2:Face alignment robust to occlusion citation:1 ncitation:1 pid1425936
+title1:Mitosis detection for stem cell tracking in phase-contrast microscopy images. title2:Mitosis detection for stem cell tracking in phase-contrast microscopy images citation:4 ncitation:3 pid1451105
+title1:Restoring artifact-free microscopy image sequences. title2:Restoring artifact-free microscopy image sequences citation:3 ncitation:1 pid1462498
+title1:Stereo by Intra- and Inter-Scanline Search Using Dynamic Programming. title2:Stereo by intra-and inter-scanline search using dynamic programming citation:1070 ncitation:1047 pid1486514
+title1:Linearized Motion Estimation for Articulated Planes. title2:Linearized Motion Estimation for Articulated Planes citation:4 ncitation:1 pid1507303
+title1:Incremental Acquisition of a Three-Dimensional Scene Model from Images. title2:Incremental acquisition of a three-dimensional scene model from images citation:46 ncitation:38 pid1540011
+title1:Cell population tracking and lineage construction with spatiotemporal context. title2:Cell population tracking and lineage construction with spatiotemporal context citation:160 ncitation:131 pid1543560
+title1:An Image Overlay system for medical data visualization. title2:An image overlay system for medical data visualization citation:56 ncitation:72 pid1555860
+title1:Volumetric object modeling for surgical simulation. title2:Volumetric object modeling for surgical simulation citation:98 ncitation:93 pid1567158
+title1:Robustly Aligning a Shape Model and Its Application to Car Alignment of Unknown Pose. title2:Robustly aligning a shape model and its application to car alignment of unknown pose citation:6 ncitation:2 pid1567952
+title1:Real-Time Human Motion Analysis by Image Skeletonization. title2:Real-time human motion analysis by image skeletonization citation:112 ncitation:301 pid1570181
+title1:Image matching with distinctive visual vocabulary. title2:Image matching with distinctive visual vocabulary citation:4 ncitation:2 pid1570892
+title1:Extrinsic calibration of a single line scanning lidar and a camera. title2:Extrinsic calibration of a single line scanning lidar and a camera citation:8 ncitation:5 pid1615367
+title1:Visual-inertial UAV attitude estimation using urban scene regularities. title2:Visual-inertial UAV attitude estimation using urban scene regularities citation:8 ncitation:3 pid1632022
+title1:Fast and accurate computation of surface normals from range images. title2:Fast and accurate computation of surface normals from range images citation:6 ncitation:2 pid1632466
+title1:Integrating LIDAR into Stereo for Fast and Improved Disparity Computation. title2:Integrating lidar into stereo for fast and improved disparity computation citation:5 ncitation:2 pid1637759
+title1:Gyro-aided feature tracking for a moving camera: fusion, auto-calibration and GPU implementation. title2:Gyro-aided feature tracking for a moving camera: fusion, auto-calibration and GPU implementation citation:7 ncitation:3 pid1647697
+title1:Shape and motion without depth. title2:Shape and motion without depth citation:68 ncitation:66 pid1662295
+title1:Shape from interreflections. title2:Shape from interreflections citation:238 ncitation:219 pid1664634
+title1:A locally adaptive window for signal matching. title2:A locally adaptive window for signal matching citation:238 ncitation:223 pid1668592
+title1:Illumination-free gaze estimation method for first-person vision wearable device. title2:Illumination-free gaze estimation method for first-person vision wearable device citation:6 ncitation:2 pid1678236
+title1:A Semi-Markov Model for Mitosis Segmentation in Time-Lapse Phase Contrast Microscopy Image Sequences of Stem Cell Populations. title2:A Semi-Markov model for mitosis segmentation in time-lapse phase contrast microscopy image sequences of stem cell populations citation:6 ncitation:0 pid1684499
+title1:Gaussian process motion graph models for smooth transitions among multiple actions. title2:Gaussian process motion graph models for smooth transitions among multiple actions citation:1 ncitation:0 pid1685038
+title1:Face Recognition Across Pose and Illumination. title2:Face recognition across pose and illumination citation:121 ncitation:106 pid1694814
+title1:Integrating grasp planning and visual feedback for reliable manipulation. title2:Integrating grasp planning and visual feedback for reliable manipulation citation:6 ncitation:6 pid1715769
+title1:Vision-guided humanoid footstep planning for dynamic environments. title2:Vision-guided humanoid footstep planning for dynamic environments citation:78 ncitation:71 pid1716761
+title1:Humanoid navigation planning using future perceptive capability. title2:Humanoid navigation planning using future perceptive capability citation:1 ncitation:1 pid2021551
+title1:Understanding the phase contrast optics to restore artifact-free microscopy images for segmentation. title2:Understanding the phase contrast optics to restore artifact-free microscopy images for segmentation citation:6 ncitation:1 pid2186288
+title1:Real-time topometric localization. title2:Real-time topometric localization citation:7 ncitation:1 pid2231991
+title1:Reconstructing 3D Human Pose from 2D Image Landmarks. title2:Reconstructing 3d human pose from 2d image landmarks citation:5 ncitation:0 pid2236499
+title1:Phase Contrast Image Restoration via Dictionary Representation of Diffraction Patterns. title2:Phase contrast image restoration via dictionary representation of diffraction patterns citation:4 ncitation:-1 pid2282644
+title1:3D ultrasonic tagging system for observing human activity. title2:3D ultrasonic tagging system for observing human activity citation:111 ncitation:None pid2308246
+title1:Unwrapping the eye for visible-spectrum gaze tracking on wearable devices. title2:Unwrapping the eye for visible-spectrum gaze tracking on wearable devices citation:2 ncitation:None pid2357355
+title1:A sorting image sensor: an example of massively parallel intensity-to-time processing for low-latency computational sensors. title2:A sorting image sensor: An example of massively parallel intensity-to-time processing for low-latency computational sensors citation:54 ncitation:None pid2358276

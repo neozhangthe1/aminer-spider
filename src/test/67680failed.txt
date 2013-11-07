@@ -1,0 +1,336 @@
+title:A Distributed Table-Driven Route Selection Scheme for Establishing Real-Time Video Channels. citation:-1
+title:Mapping Concurrently-Communicating Modules onto Mesh Multicomputers Equipped with Virtual Channels. citation:-1
+title:On Slot Allocation for Time-Constrained Messages in DQDB Networks. citation:-1
+title:Task Migration in Hypercube Multiprocessors. citation:-1
+title:Optimal Combined Task and Message Scheduling in Distributed Real-Time Systems. citation:-1
+title:On Slot Reuse for Isochronous Services in DQDB Networks. citation:-1
+title:A Causal Message Ordering Scheme for Distributed Embedded Real-Time Systems. citation:-1
+title:Power-stepped protocol: enhancing spatial utilization in a clustered mobile ad hoc network. citation:-1
+title:On Relaxed Squashed Embedding of Graphs into a Hypercube. citation:-1
+title:HARTOS: A Distributed Real-Time Operating System. citation:-1
+title:Processor Tradeoffs in Distributed Real-Time Systems. citation:-1
+title:Detecting and Reacting to Unplanned-for World States. citation:-1
+title:Expecting the Unexpected: Detecting and Reacting to Unplanned-for World States. citation:-1
+title:Development of Iterative Scheduler to Planner Feedback. citation:-1
+title:Avoiding Failure via Pre-Planned Responses and Time-Bounded Planning. citation:-1
+title:Planning and Resource Allocation for Hard Real-Time, Fault-Tolerant Plan Execution. citation:-1
+title:Multiagent planning for agents with internal execution resource constraints. citation:-1
+title:Resource allocation for a limited real-time agent. citation:-1
+title:BD: A Bibliographic Database for Collaboration. citation:-1
+title:Handheld Routers: Intelligent Bandwidth Aggregation for Mobile Collaborative Communities. citation:-1
+title:An architecture for embedded software integration using reusable components. citation:-1
+title:Transforming Structural Model to Runtime Model of Embedded Software with Real-Time Constraints. citation:-1
+title:SMRP: Fast Restoration of Multicast Sessions from Persistent Failures. citation:-1
+title:Integration of an Analysis Tool for Large-Scale Embedded Real-Time Software into a Vehicle Control Platform Development Tool Chain. citation:-1
+title:Virtualization-Based Techniques for Enabling Multi-tenant Management Tools. citation:-1
+title:Integrated Modeling and Analysis of Computer-Based Embedded Control Systems. citation:-1
+title:Design and Evaluation of Routing Schemes for Dependable Real-Time Connections. citation:-1
+title:Load Sharing in Hypercube Multicomputers in the Presence of Node Failures. citation:-1
+title:On Building a Lightweight Security Architecture for Sensor Networks. citation:-1
+title:Fault-Tolerant Clock Synchronization for Distributed Systems Using Continuous Synchronization Messages. citation:-1
+title:Reliability Modeling of Hard Real-Time Systems. citation:-1
+title:Replication and Allocation of Task Modules in Distributed Real-Time Systems. citation:-1
+title:Multi-View Modeling and Analysis of Embedded Real-Time Software with Meta-Modeling and Model Transformation. citation:-1
+title:Fault-Tolerant Real-Time Communication in Distributed Computing Systems. citation:-1
+title:Software Fault Injection and its Application in Distributed Systems. citation:-1
+title:Gvu: A View-Oriented Framework for Data Management in Grid Environments. citation:-1
+title:GHVR: One-to-One Gradient-Height Vector Routing in Wireless Mesh Networks. citation:-1
+title:UMAV: A Simple Enhancement to the IEEE 802.11 DCF. citation:-1
+title:An Integrated Approach to Modeling and Analysis of Embedded Real-Time Systems Based on Timed Petri Net. citation:-1
+title:A programmable routing controller for flexible communications in point-to-point networks. citation:-1
+title:Comparative Study of Scalable Batching Policies in Disk-Array-Based Deterministic Video-on-Demand Servers. citation:-1
+title:Traffic Routing for Multi-Computer Networks with Virtual Cut-Through Capability. citation:-1
+title:The Processor Number-Power Tradeoff in a Class of Multiprocessors. citation:-1
+title:Communication-Oriented Assignment of Task Modules in Hypercube Multicomputers. citation:-1
+title:Deadline Assignment in Distributed Hard Real-Time Systems with Relaxed Locality Constraints. citation:-1
+title:An Approach to Checking Consistency in Multimedia Synchronization Constraints. citation:-1
+title:Combined Routing and Scheduling of Concurrent Communication Traffic in Hypercube Multicomputers. citation:-1
+title:Robust TCP Congestion Recovery. citation:-1
+title:Probabilistic clock synchronization in large distributed systems. citation:-1
+title:A Parametrized Branch-and-Bound Strategy for Scheduling Precedence-Constrained Tasks on a Multiprocessor System. citation:-1
+title:FDDI-M: A Scheme to Double FDDI's Ability of Supporting Synchronous Traffic. citation:-1
+title:CONNET: Self-Controlled Access Links for Delay and Jitter Requirements. citation:-1
+title:Differentiated BGP Update Processing for Improved Routing Convergence. citation:-1
+title:Second-Order Rate-Control Based Transport Protocols. citation:-1
+title:Sequencing of Concurrent Communication Traffic in a Mesh Multicomputer with Virtual Channels. citation:-1
+title:Configurable Complete Exchanges in 2D Torus-Connected Networks. citation:-1
+title:Modeling Manufacturing Control Software. citation:-1
+title:Adaptive Deadlock-Free Routing in Multicomputers Using Only One Extra Virtual Channel. citation:-1
+title:Interleaved All-to-All Reliable Broadcast on Meshes and Hypercubes. citation:-1
+title:Analysis of Backward Error Recovery for Concurrent Processes with Recovery Blocks. citation:-1
+title:Development of Iterative Real-time Scheduler to Planner Feedback. citation:-1
+title:A Cellular Wireless Local Area Network with QoS Guarantees for Heterogeneous Traffic. citation:-1
+title:Impact of Selection Functions on Routing Algorithm Performance in Multicomputer Networks. citation:-1
+title:Analysis of Event-Driven Real-Time Systems with Time Petri Nets: A Translation-Based Approach. citation:-1
+title:Open Architecture Controller Software for Integration of Machine Tool Monitoring. citation:-1
+title:Reconfigurable Software for Open Architecture Controllers. citation:-1
+title:Intelligent Disruption Recovery for Decentralized Manufacturing Systems. citation:-1
+title:Polite Rescheduling: Responding to Local Schedule Disruptions in Distributed Manufacturing Systems. citation:-1
+title:A Polynominal-Time Optimal Synchronous Bandwidth Allocation Scheme for the Timed-Token MAC Protocol. citation:-1
+title:Equation-Based Packet Marking for Assured Forwarding Services. citation:-1
+title:Achieving per-stream QoS with distributed airtime allocation and admission control in IEEE 802.11e wireless LANs. citation:-1
+title:On the Modeling and Optimization of Discontinuous Network Congestion Control Systems. citation:-1
+title:IP Easy-pass: Edge Resource Access Control. citation:-1
+title:Traffic-Controlled Rate-Monotonic Priority Scheduling of ATM Cells. citation:-1
+title:The Impact of Concurrency Gains on the Analysis and Control of Multi-threaded Internet Services. citation:-1
+title:Non-Preemptive Scheduling of Real-Time Threads on Multi-Level-Context Architectures. citation:-1
+title:Exploiting Multi-Channel Diversity in Spectrum-Agile Networks. citation:-1
+title:Scalable Flow Control for Multicast ABR Services. citation:-1
+title:Statistical Analysis of Feedback-Synchronization Signaling Delay for Multicast Flow Control. citation:-1
+title:Improving Dependability of Real-Time Communication with Preplanned Backup Routes and Spare Resource Pool. citation:-1
+title:Coordinated aggregate scheduling for improving end-to-end delay performance. citation:-1
+title:Scheduling MPEG-Compressed Video Streams with Firm Deadline Constraints. citation:-1
+title:Scheduling Video Programs in Near Video-on-Demand Systems. citation:-1
+title:A Router Architecture for Real-Time Point-to-Point Networks. citation:-1
+title:A Simple Refinement of Slow-Start of TCP Congestion Control. citation:-1
+title:Analysis and implementation of hybrid switching. citation:-1
+title:Model-Checking of Component-Based Event-Driven Real-Time Embedded Software. citation:-1
+title:Statistical Characterization for Per-hop QoS. citation:-1
+title:Paving the first mile for QoS-dependent applications and appliances. citation:-1
+title:Partial Disk Failures: Using Software to Analyze Physical Damage. citation:-1
+title:Distributed Channel Monitoring for Wireless Bandwidth Aggregation. citation:-1
+title:BLUE: an alternative approach to active queue management. citation:-1
+title:Context-aware metadata creation in a heterogeneous mobile environment. citation:-1
+title:Software-Hardware Cooperative Power Management for Main Memory. citation:-1
+title:Comparison of Connection Admission-Control Schemes in the Presence of Hand-Offs in Cellular Networks. citation:-1
+title:Self-healing multi-radio wireless mesh networks. citation:-1
+title:Link-layer salvaging for making routing progress in mobile ad hoc networks. citation:-1
+title:Characterization and analysis of multi-hop wireless MIMO network throughput. citation:-1
+title:Improving TCP performance over wireless networks with collaborative multi-homed mobile hosts. citation:-1
+title:Improving Scalability of Task Allocation and Scheduling in Large Distributed Real-Time Systems Using Shared Buffers. citation:-1
+title:Real-time communication in FieldBus multiaccess networks. citation:-1
+title:Priority Refinement for Dependent Tasks in Large Embedded Real-Time Software. citation:-1
+title:Transmission of Aggregate VoD Streams Using Playback Rate. citation:-1
+title:Node Clustering in Mobile Peer-to-Peer Multihop Networks. citation:-1
+title:Support for Multiple Classes of Traffic in Multicomputer Routers. citation:-1
+title:STREAMER: Hardware Support for Smoothed Transmission of Stored Video over ATM. citation:-1
+title:A New Scheduling Scheme for Multicast True VoD Service. citation:-1
+title:Smooth Handoff with Enhanced Packet Buffering-and-Forwarding in Wireless/Mobile Networks. citation:-1
+title:Performance Measures for Multiprocessor Controllers. citation:-1
+title:On Soft Real-Time Guarantees on Ethernet. citation:-1
+title:EMERALDS: a microkernel for embedded real-time systems. citation:-1
+title:An efficient semaphore implementation scheme for small-memory embedded systems. citation:-1
+title:Probabilistic Real-Time Data Access with Interval Constraints. citation:-1
+title:On data logging in real-time process control systems. citation:-1
+title:Resource management for real-time communication: making theory meet practice. citation:-1
+title:Implementing Traffic Shaping and Link Scheduling on a High-Performance Server. citation:-1
+title:Layer-4 Service Differentiation and Resource Isolation. citation:-1
+title:Rate-Monotonic Scheduling in the Presence of Timing Unpredictability. citation:-1
+title:Measurement of OS Services and Its Application to Performance Modeling and Analysis of Integrated Embedded Software. citation:-1
+title:Component Allocation with Multiple Resource Constraints for Large Embedded Real-Time Software Design. citation:-1
+title:Gradient-Ascending Routing via Footprints in Wireless Sensor Networks. citation:-1
+title:Realizing Services for Guaranteed-QoS Communication on a Microkernel Operating System. citation:-1
+title:Transport of MPEG Video with Statistical Loss and Delay Guarantees in ATM Networks Using a Histogram-Based Source Model. citation:-1
+title:On-Line Dynamic Voltage Scaling for Hard Real-Time Systems Using the EDF Algorithm. citation:-1
+title:Message transmission with timing constraints in ring networks . citation:-1
+title:An End-to-End Tool Chain for Multi-View Modeling and Analysis of Avionics Mission Computing Software. citation:-1
+title:Synthesis of Real-Time Implementations from Component-Based Software Models. citation:-1
+title:A Bayesian Appraoch to Fault Classification. citation:-1
+title:Load Sharing in Distributed Real-Time Systems with Broadcast of State Changes. citation:-1
+title:Evaluation of Load Sharing in HARTS while Considering Message Routing and Broadcasting. citation:-1
+title:Fast Restoration of Real-Time Communication Service from Component Failures in Multi-Hop Networks. citation:-1
+title:Persistent dropping: an efficient control of traffic aggregates. citation:-1
+title:Evaluation of the Probability of Dynamic Failure and Processor Utilization for Real-Time Systems. citation:-1
+title:Design of Location Service for a Hybrid Network of Mobile Actors and Static Sensors. citation:-1
+title:Integrating Virtual Execution Platform for Accurate Analysis in Distributed Real-Time Control System Development. citation:-1
+title:A Distributed Microprocessor System for Controlling and Managing Fighter Aircraft. citation:-1
+title:Optimal Resource Control in Periodic Real-Time Environments. citation:-1
+title:Synchronization of a Large Clock Network in the Presence of Malicious Faults. citation:-1
+title:Workload Effects on Fault Latency for Real-Time Computing Systems. citation:-1
+title:On the Achievable Throughput of Multi-Band Multi-Antenna Wireless Mesh Networks. citation:-1
+title:Using hypervisor to provide data secrecy for user applications on a per-page basis. citation:-1
+title:Proactive security for mobile messaging networks. citation:-1
+title:Early-stage performance modeling and its application for integrated embedded control software design. citation:-1
+title:Virtual Services: A New Abstraction for Server Consolidation. citation:-1
+title:Design and Implementation of Power-Aware Virtual Memory. citation:-1
+title:Improving Wait-Free Algorithms for Interprocess Communication in Embedded Real-Time Systems. citation:-1
+title:Plan Development using Local Probabilistic Models. citation:-1
+title:Checkpointing and Rollback Recovery in a Distributed System Using Common Time Base. citation:-1
+title:Transparent Load Sharing in Distributed Systems: Decentralized Design Alternatives Based on the Condor Package. citation:-1
+title:Improving aggregated channel performance through decentralized channel monitoring. citation:-1
+title:Energy-conservation in 802.11 WLANs via transmission-strategy-aware airtime allocation. citation:-1
+title:Assured forwarding fairness using equation-based packet marking and packet separation. citation:-1
+title:Energy-efficient PCF operation of IEEE 802.11a WLANs via transmit power control. citation:-1
+title:Planning and Resource Allocation for Hard Real-time, Fault-Tolerant Plan Execution. citation:-1
+title:System Support for Management of Networked Low-Power Sensors. citation:-1
+title:An Optimal Transmission Strategy for IEEE 802.11 Wireless LANs: Stochastic Control Approach. citation:-1
+title:Internet routing resilience to failures: analysis and implications. citation:-1
+title:Eve: a measurement-centric emulation environment for adaptive internet servers. citation:-1
+title:Trade-Off Analysis of Real-Time Control Performance and Schedulability. citation:-1
+title:A Synthetic Workload for a Distributed Real-time System. citation:-1
+title:ARMADA Middleware and Communication Services. citation:-1
+title:Analytic Evaluation of Contention Protocols Used in Distributed Real-Time Systems. citation:-1
+title:Load Sharing in Hypercube-Connected Multicomputers in the Presence of Node Failures. citation:-1
+title:User-Level QoS-Adaptive Resource Management in Server End-Systems. citation:-1
+title:Period-Based Load Partitioning and Assignment for Large Real-Time Applications. citation:-1
+title:Performance Analysis of Virtual Cut-Through Switching in HARTS: A Hexagonal Mesh Multicomputer. citation:-1
+title:Optimal reconfiguration strategy for a degradable multimodule computing system. citation:-1
+title:Probabilistic Diagnosis of Multiprocessor Systems. citation:-1
+title:Multimedia-Friendly Server and Communication Design. citation:-1
+title:Optimal Load Sharing in Distributed Real-Time Systems. citation:-1
+title:Hybrid Broadcast for the Video-on-Demand Service. citation:-1
+title:Robust TCP congestion recovery. citation:-1
+title:A New Performance Measure for Scheduling Independent Real-Time Tasks. citation:-1
+title:What Are the Top Ten Most Influential Parallel and Distributed Processing Concepts of the Past Millenium? citation:-1
+title:Centralized Wireless MAC Protocols Using Slotted ALOHA and Dynamic TDD Transmission. citation:-1
+title:A Cellular Wireless Local Area Network with QoS Guarantees for Heterogeneous Traffic. citation:-1
+title:Best-Effort Patching for Multicast True VoD Service. citation:-1
+title:Ensuring Fault Tolerance of Phase-Locked Clocks. citation:-1
+title:Optimal and Efficient Probabilistic Distributed Diagnosis Schemes. citation:-1
+title:Design and Evaluation of a Fault-Tolerant Multiprocessur Using Hardware Recovery Blocks. citation:-1
+title:A RAM Architecture for Concurrent Access and On-Chip Testing. citation:-1
+title:Polynomial Testing of Packet Switching Networks. citation:-1
+title:Location of a Faulty Module in a Computing System. citation:-1
+title:Efficient Implementation Techniques for Gracefully Degradable Multiprocessor Systems. citation:-1
+title:An Optimal Retry Policy Based on Fault Classification. citation:-1
+title:Probabilistic Clock Synchronization in Large Distributed Systems. citation:-1
+title:A Router Architecture for Real-Time Communication in Multicomputer Networks. citation:-1
+title:On Slot Allocation for Time-Constrained Messages in Dual-Bus Networks. citation:-1
+title:A Primary-Backup Channel Approach to Dependable Real-Time Communication in Multihop Networks. citation:-1
+title:On Load Balancing in Multicomputer/Distributed Systems Equipped with Circuit or Cut-Through Switching Capability. citation:-1
+title:Incorporation of Optimal Timeouts into Distributed Real-Time Load Sharing. citation:-1
+title:Load Sharing with Consideration of Future Task Arrivals in Heterogeneous Distributed Real-Time Systems. citation:-1
+title:Determination of an Optimal Retry Time in Multiple-Module Computing Systems. citation:-1
+title:Traffic Routing for Multicomputer Networks with Virtual Cut-Through Capability. citation:-1
+title:Deadlock-Free Fault-Tolerant Routing in Injured Hypercubes. citation:-1
+title:Execution Time Analysis of Communicating Tasks in Distributed Systems. citation:-1
+title:Design and Analysis of an Optimal Instruction-Retry Policy for TMR Controller Computers. citation:-1
+title:Sequencing Tasks to Minimize the Effects of Near-Coincident Faults in TMR Controller Computers. citation:-1
+title:Secure routing based on distributed key sharing in large-scale sensor networks. citation:-1
+title:Assignment of Task Modules in Hypercube Multicomputers with Component Failures for Communication Efficiency. citation:-1
+title:A Reservation-Based Algorithm for Scheduling Both Periodic and Aperiodic Real-Time Tasks. citation:-1
+title:An Enhanced Inter-Access Point Protocol for Uniform Intra and Intersubnet Handoffs. citation:-1
+title:MDARTS: A Multiprocessor Database Architecture for Hard Real-Time Systems. citation:-1
+title:Attack-tolerant localization via iterative verification of locations in sensor networks. citation:-1
+title:Measurement and Application of Fault Latency. citation:-1
+title:Error Detection Process - Model, Design, and Its Impact on Computer Performance. citation:-1
+title:A Cost-Effective Multistage Interconnection Network with Network Overlapping and Memory Interleaving. citation:-1
+title:A Time Redundancy Approach to TMR Failures Using Fault-State Likelihoods. citation:-1
+title:Analysis and Implementation of Hybrid Switching. citation:-1
+title:Performance Analysis of Distributed Routing Strategies Free of Ping-Pong-Type Looping. citation:-1
+title:A Coordinated Location Policy for Load Sharing in Hypercube-Connected Multicomputers. citation:-1
+title:Transmission Delays in Hardware Clock Synchronization. citation:-1
+title:Design of HMp - A Hierarchical Multimicroprocessor for General Purpose Applications. citation:-1
+title:Contention-based airtime usage control in multirate IEEE 802.11 wireless LANs. citation:-1
+title:Scalable flow control for multicast ABR services in ATM networks. citation:-1
+title:Interference analysis and transmit power control in IEEE 802.11a/h wireless LANs. citation:-1
+title:IP Easy-pass: a light-weight network-edge resource access control. citation:-1
+title:Markov-chain modeling for multicast signaling delay analysis. citation:-1
+title:A Router Architecture for Flexible Routing and Switching in Multihop Point-To-Point Networks. citation:-1
+title:Statistical Real-Time Channels on Multiaccess Bus Networks. citation:-1
+title:On the role and controllability of persistent clients in traffic aggregates. citation:-1
+title:Sapphire: Statistical Characterization and Model-Based Adaptation of Networked Applications. citation:-1
+title:Checking consistency in multimedia synchronization constraints. citation:-1
+title:Reliable Broadcast Algorithms for HARTS. citation:-1
+title:Delivery of Time-Critical Message Using a Multiple Copy Approach. citation:-1
+title:Aggregating Bandwidth for Multihomed Mobile Collaborative Communities. citation:-1
+title:PRISM: Improving the Performance of Inverse-Multiplexed TCP in Wireless Networks. citation:-1
+title:Maximizing Communication Concurrency via Link-Layer Packet Salvaging in Mobile Ad Hoc Networks. citation:-1
+title:Resynchronization and controllability of bursty service requests. citation:-1
+title:Providing deterministic delay guarantees in ATM networks. citation:-1
+title:Optimal tradeoffs for location-based routing in large-scale ad hoc networks. citation:-1
+title:End-to-end delay bounds for traffic aggregates under guaranteed-rate scheduling algorithms. citation:-1
+title:Fault-Tolerant Real-Time Communication in Distributed Computing Systems. citation:-1
+title:Comment on ``A Pre-Run-Time Scheduling Algorithm for Hard Real-Time Systems''. citation:-1
+title:Optimal Scheduling of Cooperative Tasks in a Distributed System Using an Enumerative Method. citation:-1
+title:Semaphore Queue Priority Assignment for Real-Time Multiprocessor Synchronization. citation:-1
+title:FDDI-M: A Scheme to Double FDDI's Ability of Supporting Synchronous Traffic. citation:-1
+title:All-to-All Personalized Communication in Multidimensional Torus and Mesh Networks. citation:-1
+title:Evaluation of Load Sharing in HARTS with Consideration of Its Communication Activities. citation:-1
+title:Establishment of Isolated Failure Immune Real-Time Channels in HARTS. citation:-1
+title:Transport-Aware IP Routers: A Built-In Protection Mechanism to Counter DDoS Attacks. citation:-1
+title:Fault-Tolerant Routing in Mesh Architectures. citation:-1
+title:Fault-Tolerant Clock Synchronization in Large Multicomputer Systems. citation:-1
+title:On Probabilistic Diagnosis of Multiprocessor Systems Using Multiple Syndromes. citation:-1
+title:Analytic Models of Adaptive Load Sharing Schemes in Distributed Real-Time Systems. citation:-1
+title:A Simple Distributed Loop-Free Routing Strategy for Computer Communication Networks. citation:-1
+title:PP-MESS-SIM: A Flexible and Extensible Simulator for Evaluating Multicomputer Networks. citation:-1
+title:Operationally Enhanced Folded Hypercubes. citation:-1
+title:Experimental Evaluation of Behavior-Based Failure-Detection Schemes in Real-Time Communication Networks. citation:-1
+title:Interleaved All-to-All Reliable Broadcast on Meshes and Hypercubes. citation:-1
+title:Attack-Tolerant Distributed Sensing for Dynamic Spectrum Access Networks. citation:-1
+title:On Dynamic Reconfiguration of a Large-Scale Battery System. citation:-1
+title:OPAG: Opportunistic Data Aggregation in Wireless Sensor Networks. citation:-1
+title:Scheduling of Battery Charge, Discharge, and Rest. citation:-1
+title:What does control theory bring to systems research? citation:-1
+title:RB-Seeker: Auto-detection of Redirection Botnets. citation:-1
+title:Impact of mobility on spectrum sensing in cognitive radio networks. citation:-1
+title:Throughput Behavior in Multihop Multiantenna Wireless Networks. citation:-1
+title:Optimal Dynamic Control of Resources in a Distributed System. citation:-1
+title:Use of Common Time Base for Checkpointing and Rollback Recovery in a Distributed System. citation:-1
+title:Evaluation of Error Recovery Blocks Used for Cooperating Processes. citation:-1
+title:Measurement and Analysis of Workload Effects on Fault Latency in Real-Time Systems. citation:-1
+title:Smooth handoff with enhanced packet buffering-and-forwarding in wireless/mobile networks. citation:-1
+title:Towards context-aware wireless spectrum agility. citation:-1
+title:Application-Layer Intrusion Detection in MANETs. citation:-1
+title:Predictive routing of contexts in an overlay network. citation:-1
+title:Spatio-Temporal Fusion for Small-scale Primary Detection in Cognitive Radio Networks. citation:-1
+title:Asymmetry-Aware Real-Time Distributed Joint Resource Allocation in IEEE 802.22 WRANs. citation:-1
+title:Multihop Transmission Opportunity in Wireless Multihop Networks. citation:-1
+title:Queueing analysis of a canonical model of real-time multiprocessors. citation:-1
+title:Maximum Achievable Throughput in Multiband Multiantenna Wireless Mesh Networks. citation:-1
+title:Constructing reconfigurable software for machine control systems. citation:-1
+title:On predictive routing of security contexts in an all-IP network. citation:-1
+title:Sybot: an adaptive and mobile spectrum survey system for wifi networks. citation:-1
+title:In-Band Spectrum Sensing in IEEE 802.22 WRANs for Incumbent Protection. citation:-1
+title:A Case Study of QoS Provisioning in TV-Band Cognitive Radio Networks. citation:-1
+title:Measuring the effectiveness of infrastructure-level detection of large-scale botnets. citation:-1
+title:Detection of Small-Scale Primary Users in Cognitive Radio Networks. citation:-1
+title:Adaptive Interference Management of OFDMA Femtocells for Co-Channel Deployment. citation:-1
+title:NetDraino: Saving Network Resources via Selective Packet Drops. citation:-1
+title:A Lightweight Passive Online Detection Method for Pinpointing Misbehavior in WLANs. citation:-1
+title:Secure Cooperative Sensing in IEEE 802.22 WRANs Using Shadow Fading Correlation. citation:-1
+title:Joint Spectrum Allocation and Power Control for Multihop Cognitive Radio Networks. citation:-1
+title:MODELZ: Monitoring, Detection, and Analysis of Energy-Greedy Anomalies in Mobile Handsets. citation:-1
+title:Attack Prevention for Collaborative Spectrum Sensing in Cognitive Radio Networks citation:-1
+title:QoS provisioning for large-scale multi-ap WLANs. citation:-1
+title:Energy-efficient self-adapting online linear forecasting for wireless sensor network applications. citation:-1
+title:An Optimal Sensing Framework Based on Spatial RSS-profile in Cognitive Radio Networks. citation:-1
+title:Opportunistic spectrum access for mobile cognitive radios. citation:-1
+title:Good guys vs. Bot Guise: Mimicry attacks against fast-flux detection systems. citation:-1
+title:Measurement and analysis of global IP-usage patterns of fast-flux botnets. citation:-1
+title:Wi-Fi 2.0: Price and quality competitions of duopoly cognitive radio wireless service providers with time-varying spectrum availability. citation:-1
+title:Cognitive radios for dynamic spectrum access: from concept to reality. citation:-1
+title:Understanding Wi-Fi 2.0: from the economical perspective of wireless service providers. citation:-1
+title:TGIS: Booting Trust for Secure Information Sharing in Dynamic Group Collaborations. citation:-1
+title:Adaptive Subcarrier Nulling: Enabling partial spectrum sharing in wireless LANs. citation:-1
+title:Out-of-band sensing with ZigBee for dynamic channel assignment in on-the-move hotspots. citation:-1
+title:Maestro: quality-of-service in large disk arrays. citation:-1
+title:Message routing in HARTS with faulty components. citation:-1
+title:Optimal multiple syndrome probabilistic diagnosis. citation:-1
+title:Enabling coexistence of heterogeneous wireless systems: case for ZigBee and WiFi. citation:-1
+title:Privacy protection for users of location-based services. citation:-1
+title:Improving Cross-domain Authentication overWireless Local Area Networks. citation:-1
+title:Application-aware dynamic spectrum access. citation:-1
+title:Efficient Distributed Linear Classification Algorithms via the Alternating Direction Method of Multipliers. citation:-1
+title:DESA: Dependable, Efficient, Scalable Architecture for Management of Large-Scale Batteries. citation:-1
+title:Open WiFi networks: Lethal weapons for botnets? citation:-1
+title:TCP performance under aggregate fair queueing. citation:-1
+title:Design of SMS commanded-and-controlled and P2P-structured mobile botnets. citation:-1
+title:DSASync: Managing End-to-End Connections in Dynamic Spectrum Access Wireless LANs. citation:-1
+title:Distributed Resource Allocation Based on Queue Balancing in Multihop Cognitive Radio Networks. citation:-1
+title:Admission and Eviction Control of Cognitive Radio Users at Wi-Fi 2.0 Hotspots. citation:-1
+title:Online feedback-based estimation of dynamic page service time. citation:-1
+title:Impact of RTOS parameters on end-to-end timing performance. citation:-1
+title:Improving Application Launch Performance on Solid State Drives. citation:-1
+title:Attack Prevention for Collaborative Spectrum Sensing in Cognitive Radio Networks. citation:-1
+title:Generalized geometry-based optimal power control in wireless networks. citation:-1
+title:ARCHoN: Adaptive range control of hotzone cells in heterogeneous cellular networks. citation:-1
+title:Building efficient spectrum-agile devices for dummies. citation:-1
+title:Pack Sizing and Reconfiguration for Management of Large-Scale Batteries. citation:-1
+title:Dependable, efficient, scalable architecture for management of large-scale batteries. citation:-1
+title:Efficient Sensing Matters a Lot for Large-Scale Batteries. citation:-1
+title:Mixed time-constrained and non-time-constrained communications in local area networks. citation:-1
+title:Delay-Optimal Broadcast for Multihop Wireless Networks Using Self-Interference Cancellation. citation:-1
+title:Exploiting Spectrum Heterogeneity in Dynamic Spectrum Market. citation:-1
+title:Integration of Collaborative Analyses for Development of Embedded Control Software. citation:-1
+title:Real-time communication in local area ring networks. citation:-1
+title:Design and evaluation of real-time communication for FieldBus based manufacturing systems. citation:-1
+title:Exploiting interference locality in coordinated multi-point transmission systems. citation:-1
+title:Controlling Preemption for Better Schedulability in Multi-Core Systems. citation:-1
+title:Joint collision resolution and transmit-power adjustment for Aloha-type random access. citation:-1
+title:Robust Tracking of Small-Scale Mobile Primary User in Cognitive Radio Networks. citation:-1
+title:Plan Development using Local Probabilistic Models citation:-1
+title:What Should Secondary Users Do Upon Incumbents' Return? citation:-1
+title:Schedule revision in a distributed job shop with the makespan objective. citation:-1
+title:Profiling Software for Energy Consumption. citation:-1

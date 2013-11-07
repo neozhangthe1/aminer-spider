@@ -1,0 +1,68 @@
+title1:Algorithms for Clustering Data title2:Algorithms for clustering data citation:8365 ncitation:7953 pid2598
+title1:Securing Electronic Medical Records Using Biometric Authentication. title2:Securing electronic medical records using biometric authentication citation:32 ncitation:27 pid60692
+title1:Personal Verification Using Palmprint and Hand Geometry Biometric. title2:Personal verification using palmprint and hand geometry biometric citation:402 ncitation:364 pid60700
+title1:Fuzzy Vault for Fingerprints. title2:Fuzzy vault for fingerprints citation:294 ncitation:268 pid60830
+title1:On the Individuality of Fingerprints. title2:On the individuality of fingerprints citation:460 ncitation:366 pid128773
+title1:Face Recognition with 3D Model-Based Synthesis. title2:Face recognition with 3D model-based synthesis citation:32 ncitation:28 pid274345
+title1:Locating text in complex color images. title2:Locating text in complex color images citation:407 ncitation:389 pid295792
+title1:Face detection in color images. title2:Face detection in color images citation:2017 ncitation:1799 pid318204
+title1:Automatic Caption Localization in Compressed Video. title2:Automatic caption localization in compressed video citation:350 ncitation:325 pid322718
+title1:Data Clustering Using Evidence Accumulation. title2:Data clustering using evidence accumulation citation:323 ncitation:285 pid346698
+title1:FVC2002: Second Fingerprint Verification Competition. title2:FVC2002: Second fingerprint verification competition citation:399 ncitation:334 pid347864
+title1:Fingerprint Classification Using Orientation Field Flow Curves. title2:Fingerprint Classification Using Orientation Field Flow Curves. citation:36 ncitation:31 pid368446
+title1:Local Correlation-based Fingerprint Matching. title2:Local Correlation-based Fingerprint Matching. citation:36 ncitation:32 pid368486
+title1:Template Adaptation based Fingerprint Verification. title2:Template adaptation based fingerprint verification citation:34 ncitation:31 pid348520
+title1:Data Clustering: A User's Dilemma. title2:Data clustering: A user's dilemma citation:35 ncitation:29 pid551172
+title1:Ridge-Based Fingerprint Matching Using Hough Transform. title2:Ridge-based fingerprint matching using hough transform citation:35 ncitation:28 pid587535
+title1:Decision-Level Fusion in Fingerprint Verification. title2:Decision-level fusion in fingerprint verification citation:292 ncitation:250 pid491068
+title1:Data Clustering: User's Dilemma. title2:Data clustering: A user's dilemma citation:35 ncitation:5 pid501462
+title1:Data Clustering: 50 Years Beyond K-means. title2:Data clustering: 50 years beyond K-means citation:719 ncitation:422 pid542131
+title1:Artificial Neural Networks: A Tutorial. title2:Artificial neural networks: A tutorial citation:983 ncitation:916 pid806847
+title1:Multibiometric systems. title2:Multibiometric systems citation:370 ncitation:328 pid773103
+title1:Biometric Identification. title2:Fusion in multibiometric identification systems: What about the missing data? citation:35 ncitation:467 pid773101
+title1:Biometric Recognition: Security and Privacy Concerns. title2:Biometric recognition: Security and privacy concerns citation:476 ncitation:400 pid894594
+title1:Data Clustering: A Review. title2:Data clustering: a review citation:8346 ncitation:7821 pid832677
+title1:A Survey of Automated Visual Inspection. title2:A survey of automated visual inspection citation:504 ncitation:479 pid835290
+title1:Combining Multiple Clusterings Using Evidence Accumulation. title2:Combining multiple clusterings using evidence accumulation citation:465 ncitation:365 pid1031606
+title1:Unsupervised Learning of Finite Mixture Models. title2:Unsupervised learning of finite mixture models citation:1372 ncitation:1284 pid1031570
+title1:COSMOS - A Representation Scheme for 3D Free-Form Objects. title2:COSMOS-A representation scheme for 3D free-form objects citation:386 ncitation:344 pid1031492
+title1:Statistical Pattern Recognition: A Review. title2:Statistical pattern recognition: A review citation:4467 ncitation:4238 pid1031939
+title1:Face Detection in Color Images. title2:Face detection in color images citation:2017 ncitation:1799 pid1031817
+title1:FVC2000: Fingerprint Verification Competition. title2:FVC2000: fingerprint verification competition citation:471 ncitation:436 pid1032360
+title1:Simultaneous Feature Selection and Clustering Using Mixture Models. title2:Simultaneous feature selection and clustering using mixture models citation:331 ncitation:285 pid1032177
+title1:Object Matching Using Deformable Templates. title2:Object matching using deformable templates citation:565 ncitation:520 pid1031949
+title1:A Multichannel Approach to Fingerprint Classification. title2:A multichannel approach to fingerprint classification citation:535 ncitation:501 pid1031944
+title1:Automatic Caption Localization in Compressed Video. title2:Automatic caption localization in compressed video citation:350 ncitation:325 pid1033546
+title1:Goal-Directed Evaluation of Binarization Methods. title2:Goal-directed evaluation of binarization methods citation:567 ncitation:-1 pid1033198
+title1:Clustering Ensembles: Models of Consensus and Weak Partitions. title2:Clustering ensembles: Models of consensus and weak partitions citation:301 ncitation:243 pid1033187
+title1:Small Sample Size Effects in Statistical Pattern Recognition: Recommendations for Practitioners. title2:Small sample size effects in statistical pattern recognition: Recommendations for practitioners citation:768 ncitation:748 pid1032797
+title1:On the Individuality of Fingerprints. title2:On the individuality of fingerprints citation:460 ncitation:366 pid1032607
+title1:A Real-Time Matching System for Large Fingerprint Databases. title2:A real-time matching system for large fingerprint databases citation:554 ncitation:511 pid1032791
+title1:On-line signature verification, . title2:On-line signature verification citation:351 ncitation:319 pid1039765
+title1:Unsupervised texture segmentation using Gabor filters. title2:Unsupervised texture segmentation using Gabor filters citation:1988 ncitation:1820 pid1039764
+title1:Image retrieval using color and shape. title2:Image retrieval using color and shape citation:886 ncitation:809 pid1039771
+title1:Automatic text location in images and video frames. title2:Automatic text location in images and video frames citation:560 ncitation:518 pid1039774
+title1:Shape-Based Retrieval: A Case Study With Trademark Image Databases. title2:Shape-based retrieval: A case study with trademark image databases citation:436 ncitation:402 pid1039772
+title1:Text information extraction in images and video: a survey. title2:Text information extraction in images and video: a survey citation:515 ncitation:431 pid1039842
+title1:Biometric Cryptosystems: Issues and Challenges. title2:Biometric cryptosystems: issues and challenges citation:614 ncitation:528 pid1037534
+title1:Clustering techniques: The user's dilemma. title2:Clustering techniques: the user's dilemma citation:291 ncitation:262 pid1039188
+title1:Feature definition in pattern recognition with small sample size. title2:Feature definition in pattern recognition with small sample size citation:32 ncitation:29 pid1039761
+title1:Matching of palmprints. title2:Matching of palmprints citation:331 ncitation:310 pid1044360
+title1:Locating text in complex color images. title2:Locating text in complex color images citation:407 ncitation:389 pid1042191
+title1:An introduction to biometric recognition. title2:An introduction to biometric recognition citation:2193 ncitation:2021 pid1096951
+title1:Filterbank-based fingerprint matching. title2:Filterbank-based fingerprint matching citation:945 ncitation:901 pid1101018
+title1:Texture classification and segmentation using multiresolution simultaneous autoregressive models. title2:Texture classification and segmentation using multiresolution simultaneous autoregressive models citation:671 ncitation:616 pid1040503
+title1:Knowledge-based clustering scheme for collection management and retrieval of library books. title2:Knowledge-based clustering scheme for collection management and retrieval of library books citation:33 ncitation:33 pid1040670
+title1:Decision-level fusion in fingerprint verification. title2:Decision-level fusion in fingerprint verification citation:292 ncitation:250 pid1041008
+title1:Adaptive flow orientation-based feature extraction in fingerprint images. title2:Adaptive flow orientation-based feature extraction in fingerprint images citation:540 ncitation:484 pid1041131
+title1:Feature extraction methods for character recognition-A survey. title2:Feature extraction methods for character recognition-a survey citation:1003 ncitation:952 pid1041710
+title1:Biometrics: a tool for information security. title2:Biometrics: a tool for information security citation:480 ncitation:408 pid1407503
+title1:Image classification for content-based indexing. title2:Image classification for content-based indexing citation:666 ncitation:597 pid1185747
+title1:Fusion in Multibiometric Identification Systems: What about the Missing Data?. title2:Fusion in multibiometric identification systems: What about the missing data? citation:35 ncitation:31 pid1125693
+title1:Heterogeneous Face Recognition: Matching NIR to Visible Light Images. title2:Heterogeneous face recognition: Matching NIR to visible light images citation:34 ncitation:24 pid1608950
+title1:A hybrid approach for generating secure and discriminating face template. title2:A hybrid approach for generating secure and discriminating face template citation:34 ncitation:29 pid1513870
+title1:Text segmentation using gabor filters for automatic document processing. title2:Text segmentation using Gabor filters for automatic document processing citation:374 ncitation:358 pid2428476
+title1:Segmentation and Classification of Range Images. title2:Segmentation and classification of range images citation:399 ncitation:361 pid2359537
+title1:Markov Random Field Texture Models. title2:Markov random field texture models citation:1281 ncitation:1251 pid2320543
+title1:Biometric Template Security. title2:Biometric template security citation:505 ncitation:338 pid2357867
+title1:Artificial neural networks for feature extraction and multivariate data projection. title2:Artificial neural networks for feature extraction and multivariate data projection citation:616 ncitation:575 pid2852438

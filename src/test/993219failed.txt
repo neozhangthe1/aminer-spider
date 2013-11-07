@@ -1,0 +1,357 @@
+title:Threshold-based admission control for a multimedia Grid: analysis and performance evaluation. citation:-1
+title:Achieving Flexible Cache Consistency for Pervasive Internet Access. citation:-1
+title:Design and analysis of an efficient and reliable atomic multicast protocol. citation:-1
+title:Prediction-Based Multicast Mobility Management in Mobile Internet. citation:-1
+title:Service Adaptation Using Fuzzy Theory in Context-Aware Mobile Computing Middleware. citation:-1
+title:Parallel Biometrics Computing Using Mobile Agents. citation:-1
+title:Portable Runtime Support for Graph-oriented Parallel and Distributed Programming. citation:-1
+title:Algorithms for the m-Coverage Problem and k-Connected m-Coverage Problem in Wireless Sensor Networks. citation:-1
+title:JDM: Building Distributed Synchronization Support into Java. citation:-1
+title:Checkpointing in Hybrid Distributed Systems. citation:-1
+title:An Energy-Efficient Framework for Multi-Rate Query in Wireless Sensor Networks. citation:-1
+title:CIC: An Integrated Approach to Checkpointing in Mobile Agent Systems. citation:-1
+title:Architectural Level support for Dynamic Reconfiguration and Fault Tolerance in Component-Based Distributed Software. citation:-1
+title:WAITER: A Wearable Personal Healthcare and Emergency Aid System. citation:-1
+title:A dynamic reconfiguration manager for graph-oriented distributed programs. citation:-1
+title:Reliable Message Delivery for Mobile Agents: Push or Pull. citation:-1
+title:Process Migration for MPI Applications based on Coordinated Checkpoint. citation:-1
+title:The Non-continuous Direction Vector I Test. citation:-1
+title:QoSRHMM: A QoS-Aware Ring-Based Hierarchical Multi-path Multicast Routing Protocol. citation:-1
+title:WEBGOP: collaborative web services based on graph-oriented programming. citation:-1
+title:Achieving Replication Consistency Using Cooperating Mobile Agents. citation:-1
+title:Supporting Mobile Clients in Publish/Subscribe Systems. citation:-1
+title:An Optimal Early Stopping Uniform C onsensus Protocol in Synchronous Distributed Systems with Orderly Crash Failures. citation:-1
+title:Connected k-Hop Clustering in Ad Hoc Networks. citation:-1
+title:A Location-free Prediction-based Sleep Scheduling Protocol for Object Tracking in Sensor Networks. citation:-1
+title:Hole-shadowing routing in large-scale MANETs. citation:-1
+title:ClusterGOP: A High-Level Parallel Programming Environment. citation:-1
+title:Design and implementation of distributed algorithms for WSN-based structural health monitoring. citation:-1
+title:Dynamic service reconfiguration for wireless web access. citation:-1
+title:Spatial Query Processing Using Generalized Filter. citation:-1
+title:A taxonomy of application scheduling tools for high performance cluster computing. citation:-1
+title:Analysis and algorithms design for the partition of large-scale adaptive mobile wireless networks. citation:-1
+title:A Fault-Tolerant Group Communication Protocol in Large Scale and Highly Dynamic Mobile Next-Generation Networks. citation:-1
+title:P2PGrid: integrating P2P networks into the Grid environment. citation:-1
+title:Locating Nodes in Mobile Sensor Networks More Accurately and Faster. citation:-1
+title:A Distributed Approach to Construction of Topology Mismatching Aware P2P Overlays in Wireless Ad Hoc Networks. citation:-1
+title:AMBP: An Adaptive Mailbox Based Protocol for Mobile Agent Communication. citation:-1
+title:A Middleware Support for Agent-Based Application Mobility in Pervasive Environments. citation:-1
+title:Verifications of RMP: An Efficient Reliable Multicast Protocol. citation:-1
+title:A Mailbox-Based Scheme for Improving Mobile IP Performance. citation:-1
+title:HAWK: Real-World Implementation of High-Performance Heterogeneous Wireless Network for Internet Access. citation:-1
+title:Topology Aware Task Allocation and Scheduling for Real-Time Data Fusion Applications in Networked Embedded Sensor Systems. citation:-1
+title:A Mobility Prediction-Based Adaptive Data Gathering Protocol for Delay Tolerant Mobile Sensor Network. citation:-1
+title:A design framework and taxonomy for hybrid routing protocols in mobile ad hoc networks. citation:-1
+title:Path Compression in Forwarding-Based Reliable Mobile Agent Communications. citation:-1
+title:PDAgent: A Platform for Developing and Deploying Mobile Agent-Enabled Applications for Wireless Devices. citation:-1
+title:A Probabilistic Approach to Consistency Checking for Pervasive Context. citation:-1
+title:Communication Partner Identification in Distributed Job Workflow Execution over the Grid. citation:-1
+title:A fault tolerant mutual exclusion algorithm for mobile ad hoc networks. citation:-1
+title:Direct execution simulation of load balancing algorithms with real workload distribution. citation:-1
+title:Design and Performance Evaluation of Efficient Consensus Protocols for Mobile Ad Hoc Networks. citation:-1
+title:Toward ubiquitous searching. citation:-1
+title:An Efficient Collaborative Filtering Approach Using Smoothing and Fusing. citation:-1
+title:Design and Performance Evaluation of an Improved Mobile IP Protocol. citation:-1
+title:A framework of using cooperating mobile agents to achieve load sharing in distributed web server groups. citation:-1
+title:A robust monitor construct with runtime fault detection. citation:-1
+title:The Eventual Leadership in Dynamic Mobile Networking Environments. citation:-1
+title:Key Management for Secure Multicast Using the RingNet Hierarchy. citation:-1
+title:Mailbox-Based Scheme for Designing Mobile Agent Communication Protocols. citation:-1
+title:Design and Implementation of VPL: A Virtual Programming Laboratory for Online Distance Learning. citation:-1
+title:On Modeling Fault Tolerance of Gossip-Based Reliable Multicast Protocols. citation:-1
+title:GMZRP: Geography-aided Multicast Zone Routing Protocol in Mobile Ad Hoc Networks. citation:-1
+title:A Dual-Token-Based Fault Tolerant Mutual Exclusion Algorithm for MANETs. citation:-1
+title:ContinuStreaming: Achieving high playback continuity of Gossip-based Peer-to-Peer streaming. citation:-1
+title:Editorial: Special issue on mobile P2P networking and computing. citation:-1
+title:Resolving Conflicts with Committing Transactions in Distributed Real-time Databases. citation:-1
+title:Business-to-Consumer Mobile Agent-Based Internet Commerce System (MAGICS). citation:-1
+title:A framework for architecting and high-level programming support of CORBA applications. citation:-1
+title:The Eventual Clusterer Oracle and Its Application to Consensus in MANETs. citation:-1
+title:M-Guard: A New Distributed Deadlock Detection Algorithm Based on Mobile Agent Technology. citation:-1
+title:A Reliable Totally-Ordered Group Multicast Protocol for Mobile Internet. citation:-1
+title:An Effective Trust Establishment Scheme for Authentication in Mobile Ad Hoc Networks. citation:-1
+title:Toward a Formal Approach to Composite Web Service Construction and Automation. citation:-1
+title:Graph Scaling: A Technique for Automating Program Construction and Deployment in ClusterGOP. citation:-1
+title:A Software Environment for Simulating Distributed Task-Scheduling Algorithms. citation:-1
+title:Consistency of Cooperative Caching in Mobile Peer-to-Peer Systems over MANET. citation:-1
+title:Resolving Executing-Committing Conflicts in Distributed Real-time Database Systems. citation:-1
+title:On Optimal Hierarchical Configuration of Distributed Systems on Mesh and Hypercube. citation:-1
+title:Foreword. citation:-1
+title:A Novel QoS Multicast Model in Mobile Ad Hoc Networks. citation:-1
+title:A Direct Execution Approach to Simulating Mobile Agent Algorithms. citation:-1
+title:Composition and Automation of Grid Services. citation:-1
+title:A Lightweight Scheme for Node Scheduling in Wireless Sensor Networks. citation:-1
+title:Real-time multicast routing with optimal network cost. citation:-1
+title:Parallel Algorithms for Fault-Tolerant Mobile Agent Execution. citation:-1
+title:Concurrent Event Detection for Asynchronous Consistency Checking of Pervasive Context. citation:-1
+title:Achieving Bounded Delay on Message Delivery in Publish/Subscribe Systems. citation:-1
+title:RGB: A Scalable and Reliable Group Membership Protocol in Mobile Internet. citation:-1
+title:Extendable and Interchangeable Architecture Description of Distributed Systems Using UML and XML. citation:-1
+title:SAC: A Self-Paced and Adaptive Courseware System. citation:-1
+title:Delay-Bounded Range Queries in DHT-based Peer-to-Peer Systems. citation:-1
+title:Hardware/software optimization for array & pointer boundary checking against buffer overflow attacks. citation:-1
+title:A Graph-Oriented Approach to the Description and Implementation of Distributed and Dynamic Software Architecture. citation:-1
+title:Enabling Distributed Corba Access to Smart Card Applications. citation:-1
+title:A Language for Description and Verification of Mobile Agent Algorithms. citation:-1
+title:QoS-Driven Multicast Tree Generation Using Genetic Algorithm. citation:-1
+title:Visual programming support for graph-oriented parallel/distributed processing. citation:-1
+title:An Extended Fault-Tolerant Link-State Routing Protocol in the Internet. citation:-1
+title:Exception Handling in Distributed Workflow Systems Using Mobile Agents. citation:-1
+title:RSQS: Resource-Saving Multi-query Scheduling in Wireless Sensor Networks. citation:-1
+title:An Efficient Distributed Mutual Exclusion Algorithm Based on Relative Consensus Voting. citation:-1
+title:E-Union: Concept and Framework of Open B2B e-Trading Marketplaces. citation:-1
+title:PSWare: a Publish / Subscribe Middleware Supporting Composite Event in Wireless Sensor Network. citation:-1
+title:Modeling Hierarchical Gossiping in Reliable Multicast Protocols. citation:-1
+title:Randomized dynamic route maintenance for adaptive routing in multihop mobile ad hoc networks. citation:-1
+title:Actively Deployable Mobile Services for Adaptive Web Access. citation:-1
+title:A fast and efficient multicast algorithm for QoS group communications in heterogeneous network. citation:-1
+title:Topic 15: Mobile Computing. citation:-1
+title:Reliable message delivery for mobile agents: push or pull? citation:-1
+title:Path Pruning in Mailbox-based Mobile Agent Communications. citation:-1
+title:CED: A Community-Based Event Delivery Protocol in Publish/Subscribe Systems for Delay Tolerant Sensor Network (DTSN). citation:-1
+title:Visual Software Engineering. citation:-1
+title:Towards Bio-Inspired Self-Organization in Sensor Networks: Applying the Ant Colony Algorithm. citation:-1
+title:Location-Aware Information Retrieval for Mobile Computing. citation:-1
+title:In-Network Data Processing forWireless Sensor Networks. citation:-1
+title:Reliable Gossip-Based Broadcast Protocol in Mobile Ad Hoc Networks. citation:-1
+title:An Energy-Aware Protocol for Data Gathering Applications in Wireless Sensor Networks. citation:-1
+title:A novel dual-key management protocol based on a hierarchical multicast infrastructure in mobile internet. citation:-1
+title:Efficient Range Query Processing in Peer-to-Peer Systems. citation:-1
+title:Topology-Aware Energy Efficient Task Assignment for Collaborative In-Network Processing in Distributed Sensor Systems. citation:-1
+title:Adding Adaptability to Mailbox-Based Mobile IP. citation:-1
+title:Towards a Programmable Mobile IP. citation:-1
+title:GCS-MA: A group communication system for mobile agents. citation:-1
+title:Sleeping Schedule-Aware Minimum Latency Broadcast in Wireless Ad Hoc Networks. citation:-1
+title:A Simulation Study of Job Workflow Execution Models over the Grid. citation:-1
+title:Distributed Processing in Wireless Sensor Networks for Structural Health Monitoring. citation:-1
+title:P2PGrid: Integrating P2P Networks into the Grid Environment. citation:-1
+title:The notification based approach to implementing failure detectors in distributed systems. citation:-1
+title:A Multicast Protocol Based on a Single Logical Ring Using a Virtual Token and Logical Clocks. citation:-1
+title:Distributed Object Programming Environment for Smart Card Application Development. citation:-1
+title:A Mobile Agent Enabled Approach for Distributed Deadlock Detection. citation:-1
+title:Extended Dempster-Shafer Theory in Context Reasoning for Ubiquitous Computing Environments. citation:-1
+title:Run-Time Fault Detection in Monitor Based Concurrent Programming. citation:-1
+title:Maintaining Comprehensive Resource Availability in P2P Networks. citation:-1
+title:An Analytical Model for Broadcasting by Self Pruning in Wireless Ad Hoc Networks. citation:-1
+title:A traffic aware, energy-efficient MAC protocol for Wireless Sensor Networks. citation:-1
+title:Architecting CORBA-Based Distributed Applications. citation:-1
+title:A Reliable Mobile Agent Communication Protocol. citation:-1
+title:Dynamic Update of Shortest Path Tree in OSPF. citation:-1
+title:A Peer-to-Peer Approach to Task Scheduling in Computation Grid. citation:-1
+title:Approximation Algorithms Design for Disk Partial Covering Problem. citation:-1
+title:Research on the Virtual Topology Design Methods in Grid-Computing-Supporting IP/DWDM-Based NGI. citation:-1
+title:Dynamic configuration management in a graph-oriented Distributed Programming Environment. citation:-1
+title:A novel group communication protocol using the RingNet hierarchy in mobile Internet. citation:-1
+title:A self-organizable topology maintenance protocol for mobile group communications in mobile next-generation networks. citation:-1
+title:A predictive approach to achieving consistency in cooperative caching in MANET. citation:-1
+title:A Self-configuring Personal Agent Platform for Pervasive Computing. citation:-1
+title:A classification of multicast mechanisms: implementations and applications. citation:-1
+title:MHH: A Novel Protocol for Mobility Management in Publish/Subscribe Systems. citation:-1
+title:Direct Execution Simulation of Mobile Agent Algorithms. citation:-1
+title:A Mobile Agent Enabled Fully Distributed Mutual Exclusion Algorithm. citation:-1
+title:Stability-aware multi-metric clustering in mobile ad hoc networks with group mobility. citation:-1
+title:A Discrete Event System Model for Simulating Mobile Agent. citation:-1
+title:On the Effectiveness of the FDDI-M Medium Access Protocol for Real-Time Traffic. citation:-1
+title:A Virtual Circle-Based Clustering Algorithm with Mobility Prediction in Large-Scale MANETs. citation:-1
+title:A Hierarchical Consensus Protocol for Mobile Ad Hoc Networks. citation:-1
+title:Recovery of Station Crashes in Real-Time Token Ring Networks. citation:-1
+title:Consistency of cooperative caching in mobile peer-to-peer systems over MANET. citation:-1
+title:A Mutual Exclusion Algorithm for Mobile Agents-Based Applications. citation:-1
+title:Effective OpenMP Extensions for Irregular Applications on Cluster Environments. citation:-1
+title:Dynamic partner identification in mobile agent-based distributed job workflow execution. citation:-1
+title:-Connected Target Coverage Problem in Wireless Sensor Networks. citation:-1
+title:A High-Throughput MAC Protocol for Wireless Ad Hoc Networks. citation:-1
+title:Coverage Analysis for Wireless Sensor Networks. citation:-1
+title:Towards Successive Privacy Protection in Sensor Networks. citation:-1
+title:A Novel Dual-Key Management Protocol Based on a Hierarchical Multicast Infrastructure in Mobile Internet. citation:-1
+title:A Consensus Algorithm for Synchronous Distributed Systems using Mobile Agent. citation:-1
+title:Design a Hierarchical Cache System for Effective Loss Recovery in Reliable Multicast. citation:-1
+title:Model-Based Generation of Java Code. citation:-1
+title:Eventual Clusterer: A Modular Approach to Designing Hierarchical Consensus Protocols in MANETs. citation:-1
+title:VWMAC: An Efficient MAC Protocol for Resolving Intra-flow Contention in Wireless Ad Hoc Networks. citation:-1
+title:A High-throughput MAC Protocol for Wireless Ad Hoc Networks. citation:-1
+title:Nearcast: A locality-aware P2P live streaming approach for distance education. citation:-1
+title:Efficient global checkpointing algorithms for mobile agents. citation:-1
+title:A Heuristic Multicast Algorithm to Support QoS Group Communications in Heterogeneous Network. citation:-1
+title:Scalable key management for secure multicast communication in the mobile environment. citation:-1
+title:A Novel Admission Control Strategy with Layered Threshold for Grid-Based Multimedia Services Systems. citation:-1
+title:Implicit Detection of Hidden Processes with a Feather-Weight Hardware-Assisted Virtual Machine Monitor. citation:-1
+title:An Approach to Achieve Message Efficient Early-Stopping Uniform Consensus Protocols. citation:-1
+title:Coordinated Workload Scheduling in Hierarchical Sensor Networks for Data Fusion Applications. citation:-1
+title:Overhearing-Aided Data Caching in Wireless Ad Hoc Networks. citation:-1
+title:An Abstract Model of Rollback Recovery Control in Distributed Systems. citation:-1
+title:Decision Analysis of Statistically Detecting Distributed Denial-of-Service Flooding Attacks. citation:-1
+title:A bivalency proof of the lower bound for uniform consensus. citation:-1
+title:Checking Behavioral Consistency Constraints for Pervasive Context in Asynchronous Environments citation:-1
+title:An Improved Distributed Algorithm for Connected Dominating Sets in Wireless Ad Hoc Networks. citation:-1
+title:On Hierarchical Configuration Of Distributed Systems On Mesh And Hypercube. citation:-1
+title:Using asynchrony and zero degradation to speed up indulgent consensus protocols. citation:-1
+title:Top K-Leader Election in Wireless Ad Hoc Networks. citation:-1
+title:MADESE: A Simulation Environment for Mobile Agent. citation:-1
+title:Message and time efficient consensus protocols for synchronous distributed systems. citation:-1
+title:Design of Adaptive and Reliable Mobile Agent Communication Protocols. citation:-1
+title:Sleeping Schedule Aware Minimum Transmission Broadcast in Wireless Ad Hoc Networks. citation:-1
+title:High-level abstractions for message-passing parallel programming. citation:-1
+title:Dynamic SPT update for multiple link state decrements in network routing. citation:-1
+title:A Generic Distributed Monitor Construct for Programming Process Synchronization in Distributed Systems. citation:-1
+title:Workflow analysis for web publishing using a stage-activity process model. citation:-1
+title:The design and implementation of a runtime system for graph-oriented parallel and distributed programming. citation:-1
+title:An Extended Fault-Tolerant Link-State Routing Protocol in the Internet. citation:-1
+title:Rapid prototyping of distributed algorithms. citation:-1
+title:A survivable routing algorithm with differentiated domain protection based on a virtual topology graph in multi-domain optical networks. citation:-1
+title:On heuristics for optimal configuration of hierarchical distributed monitoring systems. citation:-1
+title:Corrigendum to "Message and time efficient consensus protocols for synchronous distributed systems" [J. Parallel Distrib. Comput. 68(2008) 641-654] citation:-1
+title:Joint Optimization of Spectrum Handoff Scheduling and Routing in Multi-hop Multi-radio Cognitive Networks. citation:-1
+title:An Event-Driven Middleware for Mobile Context Awareness. citation:-1
+title:Using sticker to solve the 3-dimensional matching problem in molecular supercomputers. citation:-1
+title:Towards Access Control for Visual Web Model Management. citation:-1
+title:Scoped Bellman-Ford Geographic Routing for Large Dynamic Wireless Sensor Networks. citation:-1
+title:Analysis and Evaluation of a Distributed Monitor Construct in Java. citation:-1
+title:VPL: An Online Distance Learning Platform for Virtual Programming Laboratory. citation:-1
+title:An energy-efficient protocol for data gathering and aggregation in wireless sensor networks. citation:-1
+title:Polynomial Regression for Data Gathering in Environmental Monitoring Applications. citation:-1
+title:A Framework for Transactional Mobile Agent Execution. citation:-1
+title:GrLS: Group-Based Location Service in Mobile Ad Hoc Networks. citation:-1
+title:Timing Properties of the FDDI-M Medium Access Protocol. citation:-1
+title:A Multicast Protocol Based on a Single Logical Ring Using a Virtual Token and Logical Clocks. citation:-1
+title:A Fuzzy-Based Service Adaptation Middleware for Context-Aware Computing. citation:-1
+title:Architecting and implementing distributed Web applications using the graph-oriented approach. citation:-1
+title:Dynamic Service Composition for Wireless Web Access. citation:-1
+title:A Selective Push Algorithm for Cooperative Cache Consistency Maintenance over MANETs. citation:-1
+title:A Distributed Power-Efficient Data Gathering and Aggregation Protocol for Wireless Sensor Networks. citation:-1
+title:A QoS-Enabled Services System Framework for Grid Computing. citation:-1
+title:Design and Analysis of An Efficient Algorithm for Coordinated Checkpointing in Distributed Systems. citation:-1
+title:Mobile agent-enabled framework for structuring and building distributed systems on the internet. citation:-1
+title:Approximation algorithm for constructing data aggregation trees for wireless sensor networks. citation:-1
+title:Fault-Tolerant Algoritms for Detecting Event Regions in Wireless Sensor Networks Using Statistical Hypothesis Test. citation:-1
+title:A high performance reliable atomic group protocol. citation:-1
+title:Protocols for Traffic Safety Using Wireless Sensor Network. citation:-1
+title:Universal Adaptor: A Novel Approach to Supporting Multi-protocol Service Discovery in Pervasive Computing. citation:-1
+title:Advanced Parallel Programming Technologies, 5th International Workshop, APPT 2003, Xiamen, China, September 17-19, 2003, Proceedings citation:-1
+title:Advanced Parallel Processing Technologies, 6th InternationalWorkshop, APPT 2005, Hong Kong, China, October 27-28, 2005, Proceedings citation:-1
+title:Advanced Parallel Processing Technologies, 7th International Symposium, APPT 2007, Guangzhou, China, November 22-23, 2007, Proceedings citation:-1
+title:Duty-Cycle-Aware Minimum Latency Broadcast Scheduling in Multi-hop Wireless Networks. citation:-1
+title:When Transportation Meets Communication: V2P over VANETs. citation:-1
+title:An Efficient Algorithm for Constructing Maximum lifetime Tree for Data Gathering Without Aggregation in Wireless Sensor Networks. citation:-1
+title:Parallel and Distributed Processing and Applications, Second InternationalSymposium, ISPA 2004, Hong Kong, China, December 13-15, 2004, Proceedings citation:-1
+title:Parallel and Distributed Processing and Applications, Third International Symposium, ISPA 2005, Nanjing, China, November 2-5, 2005, Proceedings citation:-1
+title:Mobile Ad-hoc and Sensor Networks, Second International Conference, MSN 2006, Hong Kong, China, December 13-15, 2006, Proceedings citation:-1
+title:Mobile Ad-Hoc and Sensor Networks, Third International Conference, MSN 2007, Beijing, China, December 12-14, 2007, Proceedings citation:-1
+title:Taming software adaptability with architecture-centric framework. citation:-1
+title:Ubiquitous Intelligence and Computing, 4th International Conference, UIC 2007, Hong Kong, China, July 11-13, 2007, Proceedings citation:-1
+title:Interference-Aware Gossiping Scheduling in Uncoordinated Duty-Cycled Multi-hop Wireless Networks. citation:-1
+title:K-Directory Community: Reliable Service Discovery in MANET. citation:-1
+title:Decentralized service composition in pervasive computing environments. citation:-1
+title:Cooperative contention-based forwarding for wireless sensor networks. citation:-1
+title:A Motion Tendency-Based Adaptive Data Delivery Scheme for Delay Tolerant Mobile Sensor Networks. citation:-1
+title:A dual re-authentication scheme for fast handoff in IEEE 802.11 wireless mesh networks. citation:-1
+title:Pollution attack: a new attack against localization in wireless sensor networks. citation:-1
+title:SWCA: a secure weighted clustering algorithm in wireless ad hoc networks. citation:-1
+title:A New Routing Algorithm Based on Integrated Grooming Auxiliary Graph in Multi-granularity Optical Networks. citation:-1
+title:A TCAM-based solution for integrated traffic anomaly detection and policy filtering. citation:-1
+title:Introduction to the Special Section on Mobile Ad Hoc and Sensor Networks. citation:-1
+title:On accuracy of region based localization algorithms for wireless sensor networks. citation:-1
+title:Context reasoning using extended evidence theory in pervasive computing environments. citation:-1
+title:On the source switching problem of Peer-to-Peer streaming. citation:-1
+title:On collaborative tracking of a target group using binary proximity sensors. citation:-1
+title:Accurate and Energy-Efficient Range-Free Localization for Mobile Sensor Networks. citation:-1
+title:Flexible Cache Consistency Maintenance over Wireless Ad Hoc Networks. citation:-1
+title:Cooperative cache consistency maintenance for pervasive internet access. citation:-1
+title:Communication Networks Survivable routing algorithm with mixed shared protection in fault-tolerant GMPLS multi-layered optical networks. citation:-1
+title:Reliable and efficient service composition based on smart objects' state information. citation:-1
+title:A Lattice-Theoretic Approach to Runtime Property Detection for Pervasive Context. citation:-1
+title:Adaptive Traffic Light Control in Wireless Sensor Network-Based Intelligent Transportation System. citation:-1
+title:A new algebraic structure for formal concept analysis. citation:-1
+title:Random-walk based approach to detect clone attacks in wireless sensor networks. citation:-1
+title:Local and global hamiltonian cycle protection algorithm based on abstracted virtual topology in fault-tolerant multi-domain optical networks. citation:-1
+title:Multihop Range-Free Localization in Anisotropic Wireless Sensor Networks: A Pattern-Driven Scheme. citation:-1
+title:QoS multicast tree construction in IP/DWDM optical internet by bio-inspired algorithms. citation:-1
+title:iSensNet: an infrastructure for research and development in wireless sensor networks. citation:-1
+title:Detection of Behavioral Contextual Properties in Asynchronous Pervasive Computing Environments. citation:-1
+title:ROME: Rateless Online MDS Code for Wireless Data Broadcasting. citation:-1
+title:Exploiting geographic opportunistic routing for soft QoS provisioning in wireless sensor networks. citation:-1
+title:An Optimal Algorithm towards Successive Location Privacy in Sensor Networks with Dynamic Programming. citation:-1
+title:Secured Fast Handoff in 802.11-Based Wireless Mesh Networks for Pervasive Internet Access. citation:-1
+title:Middleware Support for Context-awareness in Asynchronous Pervasive Computing Environments. citation:-1
+title:Service Handoff for Reliable and Continuous Service Access in MANET. citation:-1
+title:SecMCL: A Secure Monte Carlo Localization Algorithm for Mobile Sensor Networks. citation:-1
+title:Secure localization and location verification in wireless sensor networks. citation:-1
+title:On Accuracy of Region-based Localization Algorithms for Wireless Sensor Networks. citation:-1
+title:Contention-Aware Data Caching in Wireless Multi-hop Ad Hoc Networks. citation:-1
+title:A new multi-granularity grooming algorithm based on traffic partition in IP over WDM networks. citation:-1
+title:Energy saving and cost reduction in multi-granularity green optical networks. citation:-1
+title:Contention-aware data caching in wireless multi-hop ad hoc networks. citation:-1
+title:User density sensitive P2P streaming in wireless mesh networks. citation:-1
+title:A component-level self-configuring personal agent platform for pervasive computing. citation:-1
+title:A Biologically Inspired Sensor Wakeup Control Method for Wireless Sensor Networks. citation:-1
+title:K-directory community: Reliable service discovery in MANET. citation:-1
+title:An Energy-Efficient Framework for Multirate Query in Wireless Sensor Networks. citation:-1
+title:A fuzzy service adaptation engine for context-aware mobile computing middleware. citation:-1
+title:A practical approach to specifying and verifying mobile agent algorithms. citation:-1
+title:A dynamic data model for mobile GIS. citation:-1
+title:Programming Support for MPMD Parallel Computing in ClusterGOP. citation:-1
+title:TASA: Tag-Free Activity Sensing Using RFID Tag Arrays. citation:-1
+title:A parsimony fuzzy rule-based classifier using axiomatic fuzzy set theory and support vector machines. citation:-1
+title:Mobile applications: Status and trends. citation:-1
+title:Joint Admission Control, Channel Assignment and QoS Routing for Coverage Optimization in Multi-Hop Cognitive Radio Cellular Networks. citation:-1
+title:Coordinated Workload Scheduling in Hierarchical Sensor Networks for Data Fusion Applications. citation:-1
+title:Fault-tolerant event region detection in wireless sensor networks using statistical hypothesis test. citation:-1
+title:On group target tracking with binary sensor networks. citation:-1
+title:HOTP2P Introduction. citation:-1
+title:Non-cooperative quality-aware channel and bandwidth allocations in multi-radio multi-channel wireless networks. citation:-1
+title:Dual-Mote: A Sensor Network testbed for high rate sensing-transmission and runtime evaluation. citation:-1
+title:TED: Efficient type-based composite event detection for wireless sensor network. citation:-1
+title:Distributed Minimum Transmission Multicast Routing Protocol for Wireless Sensor Networks. citation:-1
+title:The last minute: Efficient Data Evacuation strategy for sensor networks in post-disaster applications. citation:-1
+title:Local sufficient rate constraints for guaranteed capacity region in multi-radio multi-channel wireless networks. citation:-1
+title:PVA in VANETs: Stopped cars are not silent. citation:-1
+title:Energy efficient clustering for WSN-based structural health monitoring. citation:-1
+title:A ubiquitous wireless video surveillance system based on pub/sub. citation:-1
+title:Adaptive Traffic Light Control of Multiple Intersections in WSN-Based ITS. citation:-1
+title:Minimum Latency Broadcast Scheduling in Duty-Cycled Multihop Wireless Networks. citation:-1
+title:Design of a Sliding Window over Asynchronous Event Streams citation:-1
+title:Self-Supported Cooperative Networking for Emergency Services in Multi-Hop Wireless Networks. citation:-1
+title:Optimizing data acquisition by sensor-channel co-allocation in wireless sensor networks. citation:-1
+title:Buffer and Switch: An Efficient Road-to-Road Routing Scheme for VANETs. citation:-1
+title:2011 IEEE Asia-Pacific Services Computing Conference, APSCC 2011, Jeju, Korea (South), December 12-15, 2011 citation:-1
+title:Efficient Event Delivery in Publish/Subscribe Systems for Wireless Mesh Networks. citation:-1
+title:Energy-Efficient Dual Prediction-Based Data Gathering for Environmental Monitoring Applications. citation:-1
+title:Evolution of Wireless Sensor Network. citation:-1
+title:An efficient algorithm for dynamic shortest path tree update in network routing. citation:-1
+title:Runtime Detection of the Concurrency Property in Asynchronous Pervasive Computing Environments. citation:-1
+title:Coordination of multi-link spectrum handoff in multi-radio multi-hop cognitive networks. citation:-1
+title:A peer-to-peer approach to task scheduling in computation grid. citation:-1
+title:A hybrid method for achieving high accuracy and efficiency in object tracking using passive RFID. citation:-1
+title:Formal specification and runtime detection of temporal properties for asynchronous context. citation:-1
+title:Gossip-Based Cooperative Caching for Mobile Phone Games in IMANETs. citation:-1
+title:Context-Aware Mechanism for IEEE 802.21 Media Independent Handover. citation:-1
+title:Analysis and Countermeasure for Wormhole Attacks in Wireless Mesh Networks on a Real Testbed. citation:-1
+title:Locating malicious nodes for data aggregation in wireless networks. citation:-1
+title:The sharing at roadside: Vehicular content distribution using parked vehicles. citation:-1
+title:Dynamic shortest path tree update for multiple link state decrements. citation:-1
+title:Context Map for Navigating the Physical World. citation:-1
+title:A reliable multicast protocol for mailbox-based mobile agent communications. citation:-1
+title:Advances in Grid and Pervasive Computing - 7th International Conference, GPC 2012, Hong Kong, China, May 11-13, 2012. Proceedings citation:-1
+title:Querying context maps using relative timing predicates in pervasive environments. citation:-1
+title:Elevator-Assisted Sensor Data Collection for Structural Health Monitoring. citation:-1
+title:OSR: Optimal and Secure Routing Protocol in Multi-hop Wireless Networks. citation:-1
+title:Deploying Wireless Sensor Networks with Fault Tolerance for Structural Health Monitoring. citation:-1
+title:From Offline toward Real-Time: A Hybrid Systems Model Checking and CPS Co-design Approach for Medical Device Plug-and-Play (MDPnP). citation:-1
+title:A Framework for Partitioning and Execution of Data Stream Applications in Mobile Cloud Computing. citation:-1
+title:Sensor Placement with Multiple Objectives for Structural Health Monitoring in WSNs. citation:-1
+title:An energy-balanced clustering protocol based on dominating set for data gathering in wireless sensor networks. citation:-1
+title:Robust and Dynamic Data Aggregation in Wireless Sensor Networks: A Cross-Layer Approach. citation:-1
+title:Data Aggregation Scheduling in Uncoordinated Duty-Cycled Wireless Sensor Networks under Protocol Interference Model. citation:-1
+title:Adaptive and reliable message delivery for mobile objects. citation:-1
+title:Design and Performance Evaluation of Overhearing-Aided Data Caching in Wireless Ad Hoc Networks. citation:-1
+title:Application mobility in pervasive computing: A survey. citation:-1
+title:A Distributed TCAM Coprocessor Architecture for Integrated Longest Prefix Matching, Policy Filtering, and Content Filtering. citation:-1
+title:Efficient Cache Discovery for Cooperative Caching in Wireless Ad Hoc Networks. citation:-1
+title:Distributed Sensing for High Quality Structural Health Monitoring Using Wireless Sensor Networks. citation:-1
+title:Practical secure and fast handoff framework for pervasive Wi-Fi access. citation:-1
+title:Optimal Relay Assignment and Power Allocation for Cooperative Communications. citation:-1
+title:SR-MAC: A Low Latency MAC Protocol for Multi-Packet Transmissions in Wireless Sensor Networks. citation:-1
+title:Energy-Efficient and Fault-Tolerant Structural Health Monitoring in Wireless Sensor Networks. citation:-1
+title:A Proxy-based Mobile Group Membership Protocol for Large Scale and Highly Dynamic Groups. citation:-1
+title:Logical Location-based Routing with Hole-shadowing in Large-scale MANETs. citation:-1
+title:Constructing Delay-bounded Multicast Tree with Optimal Delay Variation. citation:-1

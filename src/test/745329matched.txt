@@ -1,0 +1,159 @@
+title1:Attribute-Oriented Induction in data Mining. title2:16 Exploration of the Power of Attribute-Oriented Induction in Data Mining citation:240 ncitation:-1 pid2079
+title1:Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs. title2:Discovering web access patterns and trends by applying OLAP and data mining technology on web logs citation:587 ncitation:554 pid27242
+title1:Mining multimedia data. title2:Mining multimedia data citation:109 ncitation:98 pid77315
+title1:Mining sequential patterns with constraints in large databases. title2:Mining sequential patterns with constraints in large databases citation:219 ncitation:213 pid95765
+title1:Multi-Dimensional Sequential Pattern Mining. title2:Multi-dimensional sequential pattern mining citation:210 ncitation:196 pid95779
+title1:CrossMine: Efficient Classification Across Multiple Database Relations. title2:Crossmine: Efficient classification across multiple database relations citation:134 ncitation:118 pid96817
+title1:Learning a Spatially Smooth Subspace for Face Recognition. title2:Learning a spatially smooth subspace for face recognition citation:144 ncitation:132 pid130139
+title1:Spatial Data Mining: Progress and Challenges. title2:Spatial data mining: progress and challenges survey paper citation:255 ncitation:-1 pid159077
+title1:CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets. title2:CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets. citation:872 ncitation:839 pid159092
+title1:Meta-Rule-Guided Mining of Association Rules in Relational Databases. title2:Meta-Rule-Guided Mining of Association Rules in Relational Databases. citation:118 ncitation:119 pid160131
+title1:Normalization and Compilation of Deductive and Object-Oriented Databases Programs for Efficient Query Evaluation. title2:Normalization and compilation of deductive and object-oriented database programs for efficient query evaluation citation:3 ncitation:4 pid160180
+title1:OLAP Mining: Integration of OLAP with Data Mining. title2:OLAP mining: An integration of OLAP with data mining citation:157 ncitation:163 pid160578
+title1:Scalable OLAP and mining of information networks. title2:Scalable OLAP and mining of information networks citation:5 ncitation:4 pid176807
+title1:Spectral Regression for Efficient Regularized Subspace Learning. title2:Spectral regression for efficient regularized subspace learning citation:148 ncitation:128 pid294127
+title1:Semi-supervised Discriminant Analysis. title2:Semi-supervised discriminant analysis citation:294 ncitation:259 pid294303
+title1:Data Mining: Where is it Heading? (Panel). title2:Data Mining: Where is it Heading?(Panel) citation:3 ncitation:3 pid299667
+title1:Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique. title2:Maintenance of discovered association rules in large databases: An incremental updating technique citation:931 ncitation:913 pid299718
+title1:Warehousing and Analyzing Massive RFID Data Sets. title2:Warehousing and analyzing massive RFID data sets citation:246 ncitation:232 pid300005
+title1:Efficient Mining of Partial Periodic Patterns in Time Series Database. title2:Efficient mining of partial periodic patterns in time series database citation:569 ncitation:544 pid300079
+title1:Mining, Indexing, and Similarity Search in Graphs and Complex Structures. title2:Mining, Indexing, and Similarity Search in Graphs and Complex Structures. citation:5 ncitation:4 pid300082
+title1:Mining Frequent Item Sets with Convertible Constraints. title2:Mining frequent itemsets with convertible constraints citation:302 ncitation:285 pid300859
+title1:Spatial Clustering in the Presence of Obstacles. title2:Spatial clustering in the presence of obstacles citation:192 ncitation:186 pid301277
+title1:BIDE: Efficient Mining of Frequent Closed Sequences. title2:BIDE: Efficient mining of frequent closed sequences citation:426 ncitation:399 pid301329
+title1:Mining Closed Relational Graphs with Connectivity Constraints. title2:Mining closed relational graphs with connectivity constraints citation:112 ncitation:107 pid301488
+title1:CrossMine: Efficient Classification Across Multiple Database Relations. title2:Crossmine: Efficient classification across multiple database relations citation:134 ncitation:126 pid301550
+title1:Discriminative Frequent Pattern Analysis for Effective Classification. title2:Discriminative frequent pattern analysis for effective classification citation:199 ncitation:185 pid301653
+title1:Training Linear Discriminant Analysis in Linear Time. title2:Training linear discriminant analysis in linear time citation:4 ncitation:4 pid301940
+title1:Trajectory Outlier Detection: A Partition-and-Detect Framework. title2:Trajectory outlier detection: A partition-and-detect framework citation:129 ncitation:112 pid302102
+title1:Mining Top-K Frequent Closed Patterns without Minimum Support. title2:Mining top-k frequent closed patterns without minimum support citation:196 ncitation:184 pid302660
+title1:CMAR: Accurate and Efficient Classification Based on Multiple Class-Association Rules. title2:CMAR: Accurate and efficient classification based on multiple class-association rules citation:954 ncitation:983 pid302751
+title1:H-Mine: Hyper-Structure Mining of Frequent Patterns in Large Databases. title2:H-mine: Hyper-structure mining of frequent patterns in large databases citation:342 ncitation:331 pid302811
+title1:TSP: Mining Top-K Closed Sequential Patterns. title2:TSP: Mining top-k closed sequential patterns citation:152 ncitation:148 pid302953
+title1:gSpan: Graph-Based Substructure Pattern Mining. title2:gspan: Graph-based substructure pattern mining citation:1304 ncitation:1222 pid303017
+title1:Constraint-based clustering in large databases. title2:Constraint-based clustering in large databases citation:156 ncitation:150 pid304099
+title1:Indexing Noncrashing Failures: A Dynamic Program Slicing-Based Approach. title2:Indexing noncrashing failures: A dynamic program slicing-based approach citation:3 ncitation:2 pid365049
+title1:Locality Sensitive Discriminant Analysis. title2:Locality Sensitive Discriminant Analysis. citation:204 ncitation:171 pid391413
+title1:Mining coherent dense subgraphs across massive biological networks for functional discovery. title2:Mining coherent dense subgraphs across massive biological networks for functional discovery citation:201 ncitation:187 pid438436
+title1:On demand classification of data streams. title2:On demand classification of data streams citation:204 ncitation:187 pid472403
+title1:IncSpan: incremental mining of sequential patterns in large database. title2:IncSpan: incremental mining of sequential patterns in large database citation:146 ncitation:125 pid472606
+title1:Dynamic Generation and Refinement of Concept Hierarchies for Knowledge Discovery in Databases. title2:Dynamic Generation and Refinement of Concept Hierarchies for Knowledge Discovery in Databases. citation:234 ncitation:220 pid472770
+title1:DBMiner: A System for Mining Knowledge in Large Relational Databases. title2:DBMiner: A system for mining knowledge in large relational databases citation:212 ncitation:203 pid472771
+title1:Mining Segment-Wise Periodic Patterns in Time-Related Databases. title2:Mining Segment-Wise Periodic Patterns in Time-Related Databases. citation:199 ncitation:188 pid472772
+title1:FreeSpan: frequent pattern-projected sequential pattern mining. title2:FreeSpan: frequent pattern-projected sequential pattern mining citation:639 ncitation:607 pid472774
+title1:Discovering complex matchings across web query interfaces: a correlation mining approach. title2:Discovering complex matchings across web query interfaces: a correlation mining approach citation:168 ncitation:157 pid472781
+title1:Mining top-n local outliers in large databases. title2:Mining top-n local outliers in large databases citation:240 ncitation:228 pid472861
+title1:Metarule-Guided Mining of Multi-Dimensional Association Rules Using Data Cubes. title2:Metarule-Guided Mining of Multi-Dimensional Association Rules Using Data Cubes. citation:266 ncitation:249 pid472884
+title1:Clustering moving objects. title2:Clustering moving objects citation:169 ncitation:151 pid473002
+title1:GPLAG: detection of software plagiarism by program dependence graph analysis. title2:GPLAG: detection of software plagiarism by program dependence graph analysis citation:128 ncitation:103 pid473021
+title1:Mining frequent item sets by opportunistic projection. title2:Mining frequent item sets by opportunistic projection citation:197 ncitation:183 pid473034
+title1:Can we push more constraints into frequent pattern mining? title2:Can we push more constraints into frequent pattern mining? citation:201 ncitation:189 pid473164
+title1:Mining concept-drifting data streams using ensemble classifiers. title2:Mining concept-drifting data streams using ensemble classifiers citation:778 ncitation:719 pid473387
+title1:CLOSET+: searching for the best strategies for mining frequent closed itemsets. title2:Closet+: Searching for the best strategies for mining frequent closed itemsets citation:532 ncitation:506 pid473388
+title1:Summarizing itemset patterns: a profile-based approach. title2:Summarizing itemset patterns: a profile-based approach citation:150 ncitation:138 pid473466
+title1:CloseGraph: mining closed frequent graph patterns. title2:CloseGraph: mining closed frequent graph patterns citation:515 ncitation:495 pid473470
+title1:Mining closed relational graphs with connectivity constraints. title2:Mining closed relational graphs with connectivity constraints citation:112 ncitation:106 pid473474
+title1:PEBL: positive example based learning for Web page classification using SVM. title2:PEBL: positive example based learning for Web page classification using SVM citation:193 ncitation:184 pid473534
+title1:Classifying large data sets using SVMs with hierarchical clusters. title2:Classifying large data sets using SVMs with hierarchical clusters citation:209 ncitation:183 pid473540
+title1:Truth discovery with multiple conflicting information providers on the web. title2:Truth discovery with multiple conflicting information providers on the web citation:145 ncitation:109 pid473642
+title1:Selective Materialization: An Efficient Method for Spatial Data Cube Construction. title2:Selective materialization: An efficient method for spatial data cube construction citation:165 ncitation:155 pid526794
+title1:Mining Access Patterns Efficiently from Web Logs. title2:Mining access patterns efficiently from web logs citation:540 ncitation:509 pid527033
+title1:Top Down FP-Growth for Association Rule Mining. title2:Top down fp-growth for association rule mining citation:114 ncitation:98 pid527192
+title1:A Fast Distributed Algorithm for Mining Association Rules. title2:A fast distributed algorithm for mining association rules citation:432 ncitation:409 pid533881
+title1:Generalization and Decision Tree Induction: Efficient Classification in Data Mining. title2:Generalization and decision tree induction: efficient classification in data mining citation:122 ncitation:114 pid559693
+title1:CloSpan: Mining Closed Sequential Patterns in Large Databases. title2:CloSpan: Mining closed sequential patterns in large datasets citation:565 ncitation:523 pid579170
+title1:Data Mining Techniques. title2:Data mining techniques citation:106 ncitation:103 pid598032
+title1:Efficient Computation of Iceberg Cubes with Complex Measures. title2:Efficient computation of iceberg cubes with complex measures citation:215 ncitation:216 pid598828
+title1:CubeExplorer: online exploration of data cubes. title2:CubeExplorer: online exploration of data cubes citation:6 ncitation:6 pid598831
+title1:Optimization of Constrained Frequent Set Queries with 2-variable Constraints. title2:Optimization of constrained frequent set queries with 2-variable constraints citation:198 ncitation:192 pid599126
+title1:Exploratory Mining and Pruning Optimizations of Constrained Association Rules. title2:Exploratory mining and pruning optimizations of constrained associations rules citation:772 ncitation:744 pid599429
+title1:Graph Indexing: A Frequent Structure-based Approach. title2:Graph indexing: a frequent structure-based approach citation:413 ncitation:380 pid599987
+title1:Substructure Similarity Search in Graph Databases. title2:Substructure similarity search in graph databases citation:201 ncitation:191 pid599988
+title1:Mining long sequential patterns in a noisy environment. title2:Mining long sequential patterns in a noisy environment citation:157 ncitation:156 pid599991
+title1:MultiMediaMiner: A System Prototype for Multimedia Data Mining. title2:MultiMediaMiner: a system prototype for multimedia data mining citation:143 ncitation:143 pid600006
+title1:Trajectory clustering: a partition-and-group framework. title2:Trajectory clustering: a partition-and-group framework citation:421 ncitation:357 pid600127
+title1:Mining significant graph patterns by leap search. title2:Mining significant graph patterns by leap search citation:143 ncitation:129 pid600275
+title1:SOBER: statistical model-based bug localization. title2:SOBER: statistical model-based bug localization citation:251 ncitation:235 pid601224
+title1:Discovery of Spatial Association Rules in Geographic Information Databases. title2:Discovery of spatial association rules in geographic information databases citation:700 ncitation:677 pid617619
+title1:A Framework for Clustering Evolving Data Streams. title2:A framework for clustering evolving data streams citation:1038 ncitation:968 pid641901
+title1:A Framework for Projected Clustering of High Dimensional Data Streams. title2:A framework for projected clustering of high dimensional data streams citation:359 ncitation:339 pid641903
+title1:Efficient and Effective Clustering Methods for Spatial Data Mining. title2:E cient and E ective Clustering Methods for Spatial Data Mining citation:2154 ncitation:2086 pid642207
+title1:Multi-Dimensional Regression Analysis of Time-Series Data Streams. title2:Multi-dimensional regression analysis of time-series data streams citation:296 ncitation:286 pid642358
+title1:Knowledge Discovery in Databases: An Attribute-Oriented Approach. title2:Knowledge discovery in databases: An attribute-oriented approach citation:498 ncitation:489 pid642739
+title1:Discovery of Multiple-Level Association Rules from Large Databases. title2:Discovery of multiple-level association rules from large databases citation:1298 ncitation:1271 pid642740
+title1:Quotient Cube: How to Summarize the Semantics of a Data Cube. title2:Quotient cube: How to summarize the semantics of a data cube citation:227 ncitation:224 pid643081
+title1:Mining Frequent Itemsets Using Support Constraints. title2:Mining Frequent Itemsets Using Support Constraints. citation:150 ncitation:146 pid643978
+title1:Star-Cubing: Computing Iceberg Cubes by Top-Down and Bottom-Up Integration. title2:Star-cubing: Computing iceberg cubes by top-down and bottom-up integration citation:138 ncitation:139 pid644050
+title1:Mining Compressed Frequent-Pattern Sets. title2:Mining compressed frequent-pattern sets citation:164 ncitation:151 pid644051
+title1:Data Mining for Web Intelligence. title2:Data mining for web intelligence citation:139 ncitation:128 pid806648
+title1:Constraint-Based Multidimensional Data Mining. title2:Constraint-based, multidimensional data mining citation:190 ncitation:188 pid806649
+title1:Mining Frequent Patterns without Candidate Generation: A Frequent-Pattern Tree Approach. title2:Mining frequent patterns without candidate generation: A frequent-pattern tree approach citation:1292 ncitation:1189 pid839627
+title1:Frequent pattern mining: current status and future directions. title2:Frequent pattern mining: current status and future directions citation:501 ncitation:437 pid839712
+title1:Stream Cube: An Architecture for Multi-Dimensional Analysis of Data Streams. title2:Stream cube: An architecture for multi-dimensional analysis of data streams citation:123 ncitation:103 pid855999
+title1:Cancer classification using gene expression data. title2:Cancer classification using gene expression data citation:152 ncitation:135 pid938295
+title1:Evaluation of functional linear recursions: a compilation approach. title2:Evaluation of functional linear recursions: a compilation approach citation:5 ncitation:4 pid938540
+title1:Evaluation of Declarative n-Queens Recursion: A Deductive Database Approach. title2:Evaluation of declarative< i> n</i>-queens recursion: A deductive database approach citation:5 ncitation:6 pid940504
+title1:TSP: Mining top- closed sequential patterns. title2:TSP: Mining top-k closed sequential patterns citation:152 ncitation:148 pid1003569
+title1:Multichannel Delay Sensitive Data Retrieval. title2:Multimedia network file servers: multichannel delay-sensitive data retrieval citation:113 ncitation:-1 pid1011114
+title1:Mining Frequent Patterns by Pattern-Growth: Methodology and Implications. title2:Mining frequent patterns by pattern-growth: methodology and implications citation:226 ncitation:217 pid1063492
+title1:Towards On-Line Analytical Mining in Large Databases. title2:Towards on-line analytical mining in large databases citation:209 ncitation:196 pid1064769
+title1:Document Clustering Using Locality Preserving Indexing. title2:Document clustering using locality preserving indexing citation:197 ncitation:173 pid1112520
+title1:Data Mining: An Overview from a Database Perspective. title2:Data mining: an overview from a database perspective citation:2251 ncitation:2195 pid1112544
+title1:Data-Driven Discovery of Quantitative Rules in Relational Databases. title2:Data-driven discovery of quantitative rules in relational databases citation:500 ncitation:491 pid1112774
+title1:Mining Multiple-Level Association Rules in Large Databases. title2:Mining multiple-level association rules in large databases citation:310 ncitation:281 pid1112882
+title1:Intelligent Query Answering by Knowledge Discovery Techniques. title2:Intelligent query answering by knowledge discovery techniques citation:112 ncitation:110 pid1112884
+title1:CLARANS: A Method for Clustering Objects for Spatial Data Mining. title2:CLARANS: A method for clustering objects for spatial data mining citation:489 ncitation:434 pid1113151
+title1:Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach. title2:Mining sequential patterns by pattern-growth: The prefixspan approach citation:683 ncitation:631 pid1113312
+title1:Object-Based Selective Materialization for Efficient Implementation of Spatial Data Cubes. title2:Object-based selective materialization for efficient implementation of spatial data cubes citation:176 ncitation:165 pid1113557
+title1:Efficient Mining of Intertransaction Association Rules. title2:Efficient mining of intertransaction association rules citation:145 ncitation:136 pid1113649
+title1:TFP: An Efficient Algorithm for Mining Top-K Frequent Closed Itemsets. title2:TFP: An efficient algorithm for mining top-k frequent closed itemsets citation:145 ncitation:129 pid1113691
+title1:PEBL: Web Page Classification without Negative Examples. title2:PEBL: Web page classification without negative examples citation:190 ncitation:162 pid1113769
+title1:Truth Discovery with Multiple Conflicting Information Providers on the Web. title2:Truth discovery with multiple conflicting information providers on the web citation:145 ncitation:109 pid1113976
+title1:Learning a Maximum Margin Subspace for Image Retrieval. title2:Learning a maximum margin subspace for image retrieval citation:110 ncitation:97 pid1114001
+title1:SRDA: An Efficient Algorithm for Large-Scale Discriminant Analysis. title2:SRDA: An efficient algorithm for large-scale discriminant analysis citation:160 ncitation:145 pid1114030
+title1:Beyond intratransaction association analysis: mining multidimensional intertransaction association rules. title2:Beyond intratransaction association analysis: mining multidimensional intertransaction association rules citation:141 ncitation:140 pid1120304
+title1:Statistical Debugging: A Hypothesis Testing-Based Approach. title2:Statistical debugging: A hypothesis testing-based approach citation:153 ncitation:135 pid1129991
+title1:Anomaly Detection in Moving Object. title2:Anomaly detection in moving object citation:4 ncitation:3 pid1201847
+title1:GAD: General Activity Detection for Fast Clustering on Large Data. title2:GAD: General Activity Detection for Fast Clustering on Large Data. citation:5 ncitation:5 pid1213501
+title1:Aggregation of Multiple Judgments for Evaluating Ordered Lists. title2:Aggregation of multiple judgments for evaluating ordered lists citation:3 ncitation:3 pid1428696
+title1:Classification and Novel Class Detection in Data Streams with Active Mining. title2:Classification and novel class detection in data streams with active mining citation:8 ncitation:3 pid1731516
+title1:iRIN: image retrieval in image-rich information networks. title2:iRIN: image retrieval in image-rich information networks citation:5 ncitation:5 pid2225245
+title1:Mapping web pages to database records via link paths. title2:Mapping web pages to database records via link paths citation:7 ncitation:5 pid2329400
+title1:Visual cube and on-line analytical processing of images. title2:Visual cube and on-line analytical processing of images citation:5 ncitation:3 pid2329448
+title1:The Inverse Classification Problem. title2:The inverse classification problem citation:4 ncitation:4 pid2373847
+title1:Mining Concept-Drifting Data Streams. title2:Mining concept-drifting data streams using ensemble classifiers citation:778 ncitation:2 pid2447739
+title1:Efficient Topological OLAP on Information Networks. title2:Efficient topological OLAP on information networks citation:7 ncitation:3 pid2458119
+title1:Growing parallel paths for entity-page discovery. title2:Growing parallel paths for entity-page discovery citation:7 ncitation:3 pid2782738
+title1:Unexpected results in automatic list extraction on the web. title2:Unexpected results in automatic list extraction on the web citation:8 ncitation:6 pid2782778
+title1:A general framework for efficient clustering of large datasets based on activity detection. title2:A general framework for efficient clustering of large datasets based on activity detection citation:5 ncitation:4 pid2785306
+title1:Efficient Keyword-Based Search for Top-K Cells in Text Cube. title2:Efficient keyword-based search for top-k cells in text cube citation:3 ncitation:2 pid2805414
+title1:Graph Indexing. title2:Graph indexing: a frequent structure-based approach citation:413 ncitation:-1 pid2819995
+title1:Efficient Mining of Top Correlated Patterns Based on Null-Invariant Measures. title2:Efficient mining of top correlated patterns based on null-invariant measures citation:7 ncitation:5 pid2820014
+title1:On Trivial Solution and Scale Transfer Problems in Graph Regularized NMF. title2:On trivial solution and scale transfer problems in graph regularized nmf citation:6 ncitation:2 pid2820080
+title1:Extracting General Lists from Web Documents: A Hybrid Approach. title2:Extracting general lists from web documents: A hybrid approach citation:5 ncitation:3 pid2882013
+title1:Consensus extraction from heterogeneous detectors to improve performance over network traffic anomaly detection. title2:Consensus extraction from heterogeneous detectors to improve performance over network traffic anomaly detection citation:3 ncitation:2 pid2898538
+title1:Is Objective Function the Silver Bullet? A Case Study of Community Detection Algorithms on Social Networks. title2:Is objective function the silver bullet? A case study of community detection algorithms on social networks citation:4 ncitation:1 pid2898581
+title1:Dynamic Social Influence Analysis through Time-Dependent Factor Graphs. title2:Dynamic social influence analysis through time-dependent factor graphs citation:6 ncitation:3 pid2906042
+title1:Learning search tasks in queries and web pages via graph regularization. title2:Learning search tasks in queries and web pages via graph regularization. citation:7 ncitation:2 pid2936950
+title1:Mining Significant Time Intervals for Relationship Detection. title2:Mining significant time intervals for relationship detection citation:3 ncitation:1 pid2975933
+title1:DIAMOND: Correlation-Based Anomaly Monitoring Daemon for DIME. title2:DIAMOND: Correlation-Based Anomaly Monitoring Daemon for DIME citation:3 ncitation:1 pid2979244
+title1:Learning a Kernel for Multi-Task Clustering. title2:Learning a Kernel for Multi-Task Clustering. citation:7 ncitation:3 pid2999816
+title1:Towards feature selection in network. title2:Towards feature selection in network citation:6 ncitation:3 pid3011108
+title1:Correlated multi-label feature selection. title2:Correlated multi-label feature selection citation:5 ncitation:3 pid3012346
+title1:TEXplorer: keyword-based object search and exploration in multidimensional text databases. title2:Texplorer: keyword-based object search and exploration in multidimensional text databases citation:5 ncitation:1 pid3018193
+title1:Mining Flipping Correlations from Large Datasets with Taxonomies title2:Mining flipping correlations from large datasets with taxonomies citation:5 ncitation:2 pid3023547
+title1:Mining Flipping Correlations from Large Datasets with Taxonomies. title2:Mining flipping correlations from large datasets with taxonomies citation:5 ncitation:2 pid3027935
+title1:Mining diversity on social media networks. title2:Mining diversity on social media networks citation:4 ncitation:3 pid3029726
+title1:Patent Maintenance Recommendation with Patent Information Network Model. title2:Patent maintenance recommendation with patent information network model citation:6 ncitation:4 pid3029907
+title1:LPTA: A Probabilistic Model for Latent Periodic Topic Analysis. title2:Lpta: A probabilistic model for latent periodic topic analysis citation:6 ncitation:3 pid3081481
+title1:MiTexCube: MicroTextCluster Cube for Online Analysis of Text Cells. title2:MiTexCube: MicroTextCluster Cube for Online Analysis of Text Cells. citation:4 ncitation:-1 pid3089950
+title1:Locally Discriminative Coclustering. title2:Locally Discriminative Coclustering citation:7 ncitation:2 pid3126091
+title1:A Variance Minimization Criterion to Active Learning on Graphs. title2:A variance minimization criterion to active learning on graphs citation:5 ncitation:2 pid3157508
+title1:Learning influence from heterogeneous social networks. title2:Learning influence from heterogeneous social networks citation:7 ncitation:4 pid3170002
+title1:Learning Hierarchical Relationships among Partially Ordered Objects with Heterogeneous Attributes and Links. title2:Learning Hierarchical Relationships among Partially Ordered Objects with Heterogeneous Attributes and Links. citation:3 ncitation:1 pid3180080
+title1:Citation Prediction in Heterogeneous Bibliographic Networks. title2:Citation Prediction in Heterogeneous Bibliographic Networks. citation:7 ncitation:2 pid3186492
+title1:Evaluating Event Credibility on Twitter. title2:Evaluating Event Credibility on Twitter. citation:11 ncitation:0 pid3187983
+title1:Multidimensional Analysis of Atypical Events in Cyber-Physical Data. title2:Multidimensional analysis of atypical events in cyber-physical data citation:7 ncitation:1 pid3201716
+title1:Event-based social networks: linking the online and offline social worlds. title2:Event-based social networks: linking the online and offline social worlds citation:10 ncitation:2 pid3213249
+title1:A Graph-Based Consensus Maximization Approach for Combining Multiple Supervised and Unsupervised Models. title2:A graph-based consensus maximization approach for combining multiple supervised and unsupervised models citation:3 ncitation:3 pid3214939
+title1:On Exploiting Transient Social Contact Patterns for Data Forwarding in Delay-Tolerant Networks. title2:On exploiting transient social contact patterns for data forwarding in delay tolerant networks citation:10 ncitation:25 pid3215077

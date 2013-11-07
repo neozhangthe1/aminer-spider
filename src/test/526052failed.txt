@@ -1,0 +1,130 @@
+title:Phrase-Based Statistical Machine Translation. citation:-1
+title:Design and use of speech recognition algorithms for a mobile radio telephone. citation:-1
+title:Stochastic Modeling: From Pattern Classification to Speech Recognition and Translation. citation:-1
+title:Word-Level Confidence Estimation for Machine Translation. citation:-1
+title:Applications of Statistical Machine Translation Approaches to Spoken Language Understanding. citation:-1
+title:Construction of a Hierarchical Translation Memory. citation:-1
+title:Wechselwirkung zwischen akustischer Erkennung und höheren Wissensquellen im sprachverstehenden System SPICOS. citation:-1
+title:Czech-English Phrase-Based Machine Translation. citation:-1
+title:Pronunciation Clustering and Modeling of Variability for Appearance-Based Sign Language Recognition. citation:-1
+title:Statistical Pattern Recognition and Machine Translation from 1988 to 1998: What has Happened? citation:-1
+title:Linear Discriminant Analysis and Discriminative Log-linear Modeling. citation:-1
+title:Using POS Information for SMT into Morphologically Rich Languages. citation:-1
+title:Improving Statistical Word Alignments with Morpho-syntactic Transformations. citation:-1
+title:Automatic speaker recognition using time alignment of spectrograms. citation:-1
+title:Using Alignment Templates to Infer Shallow-Transfer Machine Translation Rules. citation:-1
+title:Efficient Integration of Maximum Entropy Lexicon Models within the Training of Statistical Alignment Models. citation:-1
+title:Smoothed Disparity Maps for Continuous American Sign Language Recognition. citation:-1
+title:Enhancements for Local Feature Based Image Classification. citation:-1
+title:Complexity of Finding the BLEU-optimal Hypothesis in a Confusion Network. citation:-1
+title:Improving Alignment Quality in Statistical Machine Translation Using Context-dependent Maximum Entropy Models. citation:-1
+title:Comparison of Alignment Templates and Maximum Entropy Models for NLP. citation:-1
+title:Integration of Speech to Computer-Assisted Translation Using Finite-State Automata. citation:-1
+title:Quantisierung von Spektralkomponenten für die Klassifizierung von Sprachsignalen. citation:-1
+title:Deformations, patches, and discriminative models for automatic annotation of medical radiographs. citation:-1
+title:Konturbestimmung in Bildern mit dynamischer Programmierung. citation:-1
+title:Architecture and Search Organization for Large Vocabulary Continuous Speech Recognition. citation:-1
+title:Structured Covariance Matrices for Statistical Image Object Recognition. citation:-1
+title:Invariant Classification of Red Blood Cells: A Comparison of Different Approaches. citation:-1
+title:The Statistical Translation Module in the Verbmobil System. citation:-1
+title:The RWTH Large Vocabulary Speech Recognition System for Spontaneous Speech. citation:-1
+title:One Decade of Statistical Machine Translation: 1996-2005. citation:-1
+title:On the Relationship between Classification Error Bounds and Training Criteria in Statistical Pattern Recognition. citation:-1
+title:Integration of Speech Recognition and Machine Translation in Computer-Assisted Translation. citation:-1
+title:Gesture Recognition Using Image Comparison Methods. citation:-1
+title:Local Representations for Multi-object Recognition. citation:-1
+title:Vocal Tract Normalization Equals Linear Transformation in Cepstral Space. citation:-1
+title:An Automatic Approach to Invariant Radiograph Classification. citation:-1
+title:Maschinelle Sprachverarbeitung und Statistik. citation:-1
+title:Statistical Translation of Text and Speech: First Results with the RWTH System. citation:-1
+title:Automatische Endokarderkennung in 3D mit approximierenden Thin-Plate-Splines unter Einsatz von Gauß'schen Mischverteilungs-Modellen für die lokale Klassifikation. citation:-1
+title:Efficient approximations to model-based joint tracking and recognition of continuous sign language. citation:-1
+title:Invariant Image Object Recognition Using Mixture Densities. citation:-1
+title:Are Very Large N-Best Lists Useful for SMT? citation:-1
+title:FIRE in ImageCLEF 2007: Support Vector Machines and Logistic Models to Fuse Image Descriptors for Photo Retrieval. citation:-1
+title:Bayes Decision Rules and Confidence Measures for Statistical Machine Translation. citation:-1
+title:Automatic Generation of German Sign Language Glosses from German Words. citation:-1
+title:A GIS-like training algorithm for log-linear models with hidden variables. citation:-1
+title:Overview of the ImageCLEF 2007 Object Retrieval Task. citation:-1
+title:Maschinelle Sprachverarbeitung Der statistische Ansatz bei Spracherkennung und Sprachübersetzung. citation:-1
+title:Comparison of Extended Lexicon Models in Search and Rescoring for SMT. citation:-1
+title:Modified MPE/MMI in a transducer-based framework. citation:-1
+title:The SignSpeak Project - Bridging the Gap Between Signers and Speakers. citation:-1
+title:Automatic Evaluation Measures for Statistical Machine Translation System Optimization. citation:-1
+title:Edit distances with block movements and error rate confidence estimates. citation:-1
+title:Object classification by fusing SVMs and Gaussian mixtures. citation:-1
+title:Discriminative HMMS, log-linear models, and CRFS: What is the difference? citation:-1
+title:Lexical Micro-adaptation in Statistical Machine Translation. citation:-1
+title:Geometric Features for Improving Continuous Appearance-based Sign Language Recognition. citation:-1
+title:The RWTH 2009 quaero ASR evaluation system for English and German. citation:-1
+title:Direct observation of pruning errors (DOPE): a search analysis tool. citation:-1
+title:Revisiting VTLN using linear transformation on conventional MFCC. citation:-1
+title:Hierarchical bottle neck features for LVCSR. citation:-1
+title:System combination for spoken language understanding. citation:-1
+title:Towards automatic learning in LVCSR: rapid development of a Persian broadcast transcription system. citation:-1
+title:Language model adaptation for a speech to sign language translation system using web frequencies and a MAP framework. citation:-1
+title:iCNC and iROVER: the limits of improving system combination with classification? citation:-1
+title:Spoken language translation systems ************ ASR word lattice translation with exhaustive reordering is possible. citation:-1
+title:Development of the GALE 2008 Mandarin LVCSR system. citation:-1
+title:Investigations on convex optimization using log-linear HMMs for digit string recognition. citation:-1
+title:Optimizing CRFs for SLU tasks in various languages using modified training criteria. citation:-1
+title:Log-linear model combination with word-dependent scaling factors. citation:-1
+title:Improving automatic speech recognition using tangent distance. citation:-1
+title:Vocal tract normalization equals linear transformation in cepstral space. citation:-1
+title:Efficient estimation of speaker-specific projecting feature transforms. citation:-1
+title:An improved method for unsupervised training of LVCSR systems. citation:-1
+title:On the equivalence of Gaussian HMM and Gaussian HMM-like hidden conditional random fields. citation:-1
+title:Speech recognition with state-based nearest neighbour classifiers. citation:-1
+title:Bayes risk minimization using metric loss functions. citation:-1
+title:Articulatory motivated acoustic features for speech recognition. citation:-1
+title:Statistical machine translation and its challenges. citation:-1
+title:Discriminative training with tied covariance matrices. citation:-1
+title:Features for tree based dialogue course management. citation:-1
+title:A combined maximum mutual information and maximum likelihood approach for mixture density splitting. citation:-1
+title:Speech translation based on automatically trainable finite-state models. citation:-1
+title:Extensions of absolute discounting for language modeling. citation:-1
+title:Improvements in beam search. citation:-1
+title:Estimating 'small' probabilities by leaving-one-out. citation:-1
+title:Modeling and search in continuous speech recognition. citation:-1
+title:Improved clustering techniques for class-based statistical language modelling. citation:-1
+title:A look-ahead search technique for large vocabulary continuous speech recognition. citation:-1
+title:Prototype systems for large-vocabulary speech recognition: polyglot and spicos. citation:-1
+title:Equivalence of Generative and Log-Linear Models. citation:-1
+title:Probabilistic Aspects in Spoken Document Retrieval. citation:-1
+title:Confidence- and margin-based MMI/MPE discriminative training for off-line handwriting recognition. citation:-1
+title:Margin-Based Discriminative Training for String Recognition. citation:-1
+title:A comparative analysis of dynamic network decoding. citation:-1
+title:Exploiting sparseness of backing-off language models for efficient look-ahead in LVCSR. citation:-1
+title:Hybrid Language Models Using Mixed Types of Sub-Lexical Units for Open Vocabulary German LVCSR. citation:-1
+title:Compound Word Recombination for German LVCSR. citation:-1
+title:On the Estimation of Discount Parameters for Language Model Smoothing. citation:-1
+title:N-Grams for Conditional Random Fields or a Failure-Transition(f) Posterior for Acyclic FSTs. citation:-1
+title:Acoustic Look-Ahead for More Efficient Decoding in LVCSR. citation:-1
+title:A comparison of segmentation methods and extended lexicon models for Arabic statistical machine translation. citation:-1
+title:A Guide to Jane, an Open Source Hierarchical Translation Toolkit. citation:-1
+title:Improvements in beam search for 10000-word continuous-speech recognition. citation:-1
+title:Acoustic-phonetic modeling in the SPICOS system. citation:-1
+title:Maximum entropy language modeling and the smoothing problem. citation:-1
+title:Sub-lexical language models for German LVCSR. citation:-1
+title:Evaluation of automatic transcription systems for the judicial domain. citation:-1
+title:2006 IEEE ACL Spoken Language Technology Workshop, SLT 2006, Palm Beach, Aruba, December 10-13, 2006 citation:-1
+title:Towards automatic corpus preparation for a German broadcast news transcription system. citation:-1
+title:Training of across-word phoneme models for large vocabulary continuous speech recognition. citation:-1
+title:Generalized likelihood ratio discriminant analysis. citation:-1
+title:Advances in Arabic broadcast news transcription at RWTH. citation:-1
+title:Investigations on features for log-linear acoustic models in continuous speech recognition. citation:-1
+title:A Convergence Analysis of Log-Linear Training. citation:-1
+title:Jane: an advanced freely available hierarchical machine translation toolkit. citation:-1
+title:Investigations on the use of morpheme level features in Language Models for Arabic LVCSR. citation:-1
+title:Performance analysis of Neural Networks in combination with n-gram language models. citation:-1
+title:Basis vector orthogonalization for an improved kernel gradient matching pursuit method. citation:-1
+title:Moment-Based Image Normalization for Handwritten Text Recognition. citation:-1
+title:Comparison of Bernoulli and Gaussian HMMs Using a Vertical Repositioning Technique for Off-Line Handwriting Recognition. citation:-1
+title:Morpheme Level Feature-based Language Models for German LVCSR. citation:-1
+title:Simultaneous Discriminative Training and Mixture Splitting of HMMs for Speech Recognition. citation:-1
+title:Investigation of Maximum Entropy Hybrid Language Models for Open Vocabulary German and Polish LVCSR. citation:-1
+title:Search Space Pruning Based on Anticipated Path Recombination in LVCSR. citation:-1
+title:Voice Conversion Using Exclusively Unaligned Training Data. citation:-1
+title:Arabic-Segmentation Combination Strategies for Statistical Machine Translation. citation:-1
+title:Semantic Cohesion Model for Phrase-Based SMT. citation:-1
+title:Jane 2: Open Source Phrase-based and Hierarchical Statistical Machine Translation. citation:-1

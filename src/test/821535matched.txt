@@ -1,0 +1,77 @@
+title1:Lower Bounds on Implementing Robust and Resilient Mediators. title2:Lower bounds on implementing robust and resilient mediators citation:41 ncitation:35 pid627353
+title1:Reasoning About Knowledge and Probability. title2:Reasoning about knowledge and probability citation:329 ncitation:296 pid2362076
+title1:From Statistical Knowledge Bases to Degrees of Belief. title2:From statistical knowledge bases to degrees of belief citation:198 ncitation:193 pid950245
+title1:From Denotational to Operational and Axiomatic Semantics for ALGOL-like Languages: an Overview. title2:From denotational to operational and axiomatic semantics for ALGOL-like languages: An overview citation:39 ncitation:33 pid2188929
+title1:On the Possibility and Impossibility of Achieving Clock Synchronization. title2:On the possibility and impossibility of achieving clock synchronization citation:220 ncitation:204 pid2235286
+title1:Causes and Explanations: A Structural-Model Approach, Part I: Causes title2:Causes and explanations: A structural-model approach. Part I: Causes citation:317 ncitation:147 pid1117104
+title1:``Sometimes'' and ``Not Never'' Revisited: On Branching Versus Linear Time. citation:1024 ncitation:12 pid486473
+title1:Conditional Plausibility Measures and Bayesian Networks title2:Conditional plausibility measures and Bayesian networks citation:33 ncitation:31 pid971820
+title1:Reasoning about only Knowing with Many Agents. title2:Reasoning about only knowing with many agents citation:36 ncitation:37 pid486464
+title1:Two Views of Belief: Belief as Generalized Probability and Belief as Evidence. title2:Two views of belief: belief as generalized probability and belief as evidence citation:231 ncitation:211 pid1520755
+title1:Uncertainty, Belief, and Probability. title2:Uncertainty, belief, and probability1 citation:219 ncitation:197 pid13077
+title1:Belief, Awareness, and Limited Reasoning: Preliminary Report. title2:Belief, awareness, and limited reasoning: Preliminary report citation:182 ncitation:-1 pid13078
+title1:Worst-Case Background Knowledge for Privacy-Preserving Data Publishing title2:Worst-case background knowledge for privacy-preserving data publishing citation:196 ncitation:165 pid13079
+title1:Decision Procedures and Expressiveness in the Temporal Logic of Branching Time. title2:Decision procedures and expressiveness in the temporal logic of branching time citation:510 ncitation:502 pid545138
+title1:``Sometimes'' and ``Not Never'' revisited: on branching versus linear time temporal logic. citation:1024 ncitation:1045 pid13080
+title1:A new approach to updating beliefs. title2:A new approach to updating beliefs citation:196 ncitation:179 pid388352
+title1:A Logic for Reasoning about Probabilities title2:A logic for reasoning about probabilities citation:527 ncitation:482 pid1376056
+title1:On the Possibility and Impossibility of Achieving Clock Synchronization title2:On the possibility and impossibility of achieving clock synchronization citation:220 ncitation:204 pid387426
+title1:From Statistical Knowledge Bases to Degrees of Belief title2:From statistical knowledge bases to degrees of belief citation:198 ncitation:193 pid546275
+title1:Decision Procedures and Expressiveness in the Temporal Logic of Branching Time title2:Decision procedures and expressiveness in the temporal logic of branching time citation:510 ncitation:502 pid11797
+title1:Using First-Order Logic to Reason about Policies title2:Using first-order logic to reason about policies citation:192 ncitation:138 pid1007390
+title1:A Propositional Modal Logic of Time Intervals. title2:A propositional modal logic of time intervals citation:372 ncitation:348 pid823388
+title1:Knowledge and Common Knowledge in a Distributed Environment title2:Knowledge and common knowledge in a distributed environment citation:1168 ncitation:1093 pid2449964
+title1:Game Theory with Costly Computation title2:Game theory with costly computation citation:42 ncitation:31 pid950573
+title1:Towards a Theory of Knowledge and Ignorance: Preliminary Report. title2:Towards a theory of knowledge and ignorance: Preliminary report citation:224 ncitation:223 pid950570
+title1:On the relationship between strand spaces and multi-agent systems. title2:On the relationship between strand spaces and multi-agent systems citation:39 ncitation:36 pid986856
+title1:Analysis of a cone-based distributed topology control algorithm for wireless multi-hop networks. title2:Analysis of a cone-based distributed topology control algorithm for wireless multi-hop networks citation:432 ncitation:408 pid2567688
+title1:Plausibility Measures and Default Reasoning. title2:Plausibility measures and default reasoning citation:173 ncitation:84 pid828231
+title1:Analysis of a Cone-Based Distributed Topology Control Algorithm for Wireless Multi-hop Networks title2:Analysis of a cone-based distributed topology control algorithm for wireless multi-hop networks citation:432 ncitation:408 pid828072
+title1:Minimum-Energy Mobile Wireless Networks Revisited title2:Minimum-energy mobile wireless networks revisited citation:373 ncitation:-1 pid391473
+title1:Gossip Based Ad-Hoc Routing title2:Gossip-based ad hoc routing citation:1034 ncitation:734 pid156625
+title1:Lower Bounds on Implementing Robust and Resilient Mediators title2:Lower bounds on implementing robust and resilient mediators citation:41 ncitation:36 pid1713799
+title1:Gossip-based ad hoc routing. title2:Gossip-based ad hoc routing citation:1034 ncitation:734 pid817804
+title1:The Complexity of Reasoning about Knowledge and Time. I. Lower Bounds. title2:The complexity of reasoning about knowledge and time. I. Lower bounds citation:273 ncitation:266 pid828086
+title1:A Propositional Model Logic of Time Intervals title2:A propositional modal logic of time intervals citation:372 ncitation:348 pid1527331
+title1:Least Expected Cost Query Optimization: What Can We Expect? title2:Least expected cost query optimization: what can we expect? citation:40 ncitation:38 pid818832
+title1:A Logic to Reason about Likelihood. title2:A logic to reason about likelihood citation:37 ncitation:80 pid12808
+title1:A Guide to Completeness and Complexity for Modal Logics of Knowledge and Belief. title2:A guide to completeness and complexity for modal logics of knowledge and belief citation:874 ncitation:863 pid818833
+title1:Two Views of Belief: Belief as Generalized Probability and Belief as Evidence. title2:Two views of belief: belief as generalized probability and belief as evidence citation:231 ncitation:211 pid2338547
+title1:An Analysis of First-Order Logics of Probability. title2:An analysis of first-order logics of probability citation:600 ncitation:557 pid820450
+title1:Computer Science and Game Theory: A Brief Survey title2:Computer science and game theory: A brief survey citation:37 ncitation:32 pid267339
+title1:Plausibility measures and default reasoning. title2:Plausibility measures and default reasoning citation:173 ncitation:84 pid565890
+title1:Uncertainty, belief, and probability. title2:Uncertainty, belief, and probability1 citation:219 ncitation:197 pid484767
+title1:A Logic for Reasoning about Probabilities title2:A logic for reasoning about probabilities citation:527 ncitation:482 pid2134965
+title1:Knowledge and Common Knowledge in a Distributed Environment. title2:Knowledge and common knowledge in a distributed environment citation:1168 ncitation:1093 pid484714
+title1:Model Checking vs. Theorem Proving: A Manifesto. title2:Model checking vs. theorem proving: a manifesto citation:232 ncitation:222 pid745028
+title1:Fault-Tolerant Clock Synchronization. title2:Fault-tolerant clock synchronization citation:204 ncitation:194 pid745026
+title1:Sleeping Beauty Reconsidered: Conditioning and Reflection in Asynchronous Systems. title2:Sleeping Beauty Reconsidered: Conditioning and Reflection in Asynchronous Systems. citation:38 ncitation:33 pid479836
+title1:Knowledge and common knowledge in a distributed environment title2:Knowledge and common knowledge in a distributed environment citation:1168 ncitation:1093 pid788878
+title1:Reasoning about Knowledge and Probability. title2:Reasoning about knowledge and probability citation:329 ncitation:296 pid544039
+title1:Anonymity and Information Hiding in Multiagent Systems. title2:Anonymity and information hiding in multiagent systems citation:172 ncitation:156 pid479758
+title1:Using First-Order Logic to Reason about Policies. title2:Using first-order logic to reason about policies citation:192 ncitation:138 pid621660
+title1:Modelling Knowledge and Action in Distributed Systems. title2:Modelling knowledge and action in distributed systems citation:202 ncitation:191 pid219421
+title1:Using First-Order Logic to Reason about Policies. title2:Using first-order logic to reason about policies citation:192 ncitation:138 pid2426417
+title1:Worst-Case Background Knowledge for Privacy-Preserving Data Publishing. title2:Worst-case background knowledge for privacy-preserving data publishing citation:196 ncitation:165 pid626839
+title1:A Hardware Semantics Based on Temporal Intervals. title2:A hardware semantics based on temporal intervals citation:177 ncitation:165 pid2378762
+title1:On the relationship between strand spaces and multi-agent systems. title2:On the relationship between strand spaces and multi-agent systems citation:39 ncitation:36 pid123813
+title1:Conditional Plausibility Measures and Bayesian Networks. title2:Conditional plausibility measures and Bayesian networks citation:33 ncitation:31 pid387954
+title1:Modelling Knowledge and Action in Distributed Systems. title2:Modelling knowledge and action in distributed systems citation:202 ncitation:191 pid744892
+title1:On Ambiguities in the Interpretation of Game Trees. title2:On ambiguities in the interpretation of game trees citation:40 ncitation:37 pid818542
+title1:A Guide to the Modal Logics of Knowledge and Belief: Preliminary Draft. title2:A guide to the modal logics of knowledge and belief: Preliminary draft citation:356 ncitation:351 pid2359538
+title1:A Logic to Reason about Likelihood title2:A logic to reason about likelihood citation:37 ncitation:80 pid824886
+title1:Sleeping Beauty Reconsidered: Conditioning and Reflection in Asynchronous Systems title2:Sleeping Beauty Reconsidered: Conditioning and Reflection in Asynchronous Systems. citation:38 ncitation:33 pid818484
+title1:An Analysis of First-Order Logics of Probability. title2:An analysis of first-order logics of probability citation:600 ncitation:557 pid999323
+title1:Anonymity and information hiding in multiagent systems. title2:Anonymity and information hiding in multiagent systems citation:172 ncitation:156 pid210897
+title1:What Is an Inference Rule? title2:What is an inference rule? citation:39 ncitation:33 pid477336
+title1:Anonymity and Information Hiding in Multiagent Systems title2:Anonymity and information hiding in multiagent systems citation:172 ncitation:156 pid626764
+title1:On the Relationship between Strand Spaces and Multi-Agent Systems title2:On the relationship between strand spaces and multi-agent systems citation:39 ncitation:36 pid1015545
+title1:Gossip-based ad hoc routing. title2:Gossip-based ad hoc routing citation:1034 ncitation:734 pid622240
+title1:Distributed computing meets game theory: robust mechanisms for rational secret sharing and multiparty computation. title2:Distributed computing meets game theory: robust mechanisms for rational secret sharing and multiparty computation citation:211 ncitation:182 pid753792
+title1:Causes and Explanations: A Structural-Model Approach: Part 1: Causes. title2:Causes and explanations: A structural-model approach. Part I: Causes citation:317 ncitation:147 pid1059057
+title1:Conditional Plausibility Measures and Bayesian Networks. title2:Conditional plausibility measures and Bayesian networks citation:33 ncitation:31 pid544687
+title1:Plausibility Measures and Default Reasoning title2:Plausibility measures and default reasoning citation:173 ncitation:84 pid753901
+title1:First-order conditional logic for default reasoning revisited. title2:First-order conditional logic for default reasoning revisited citation:37 ncitation:29 pid753902
+title1:Shortest path with time constraints on movement and parking. title2:Shortest path with time constraints on movement and parking citation:39 ncitation:None pid2817692
+title1:Causes and Explanations: A Structural-Model Approach --- Part 1: Causes title2:Causes and explanations: A structural-model approach. Part I: Causes citation:317 ncitation:None pid2817986
+title1:Minimum-energy mobile wireless networks revisited. title2:Minimum-energy mobile wireless networks revisited citation:373 ncitation:None pid2963358

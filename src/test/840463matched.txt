@@ -1,0 +1,88 @@
+title1:A Comparative Study of Performance of AES Final Candidates Using FPGAs. title2:A comparative study of performance of AES final candidates using FPGAs citation:99 ncitation:101 pid87057
+title1:A Library of Parameterizable Floating-Point Cores for FPGAs and Their Application to Scientific Computing. title2:A library of parameterizable floating-point cores for FPGAs and their application to scientific computing citation:91 ncitation:82 pid185258
+title1:Computing Lennard-Jones Potentials and Forces with Reconfigurable Hardware. title2:Computing Lennard-Jones Potentials and Forces with Reconfigurable Hardware. citation:46 ncitation:46 pid185262
+title1:Energy Performance of Floating-Point Matrix Multiplication on FPGAs. title2:Energy Performance of Floating-Point Matrix Multiplication on FPGAs. citation:0 ncitation:-1 pid185313
+title1:A Methodology for Synthesis of Efficient Intrusion Detection Systems on FPGAs. title2:A methodology for synthesis of efficient intrusion detection systems on FPGAs citation:127 ncitation:125 pid203117
+title1:Efficient Hardware Data Mining with the Apriori Algorithm on FPGAs. title2:Efficient hardware data mining with the Apriori algorithm on FPGAs citation:58 ncitation:51 pid203119
+title1:An Adaptive Cryptographic Engine for IPSec Architectures. title2:An adaptive cryptographic engine for IPSec architectures citation:66 ncitation:69 pid203122
+title1:Dynamic Precision Management for Loop Computations on Reconfigurable Architectures. title2:Dynamic precision management for loop computations on reconfigurable architectures citation:49 ncitation:46 pid203162
+title1:Hardware/Software Approach to Molecular Dynamics on Reconfigurable Computers. title2:Hardware/software approach to molecular dynamics on reconfigurable computers citation:64 ncitation:63 pid203524
+title1:A Hybrid Approach for Mapping Conjugate Gradient onto an FPGA-Augmented Reconfigurable Supercomputer. title2:A hybrid approach for mapping conjugate gradient onto an FPGA-augmented reconfigurable supercomputer citation:41 ncitation:40 pid203560
+title1:Energy-efficient signal processing using FPGAs. title2:Energy-efficient signal processing using FPGAs citation:69 ncitation:63 pid214243
+title1:Time and area efficient pattern matching on FPGAs. title2:Time and area efficient pattern matching on FPGAs citation:163 ncitation:161 pid214290
+title1:Configuration compression for FPGA-based embedded systems. title2:Configuration compression for FPGA-based embedded systems citation:63 ncitation:59 pid214321
+title1:String Natching on Nulticontext FPGAs Using Self-Reconfiguration. title2:String matching on multicontext FPGAs using self-reconfiguration citation:62 ncitation:58 pid214656
+title1:Sparse Matrix-Vector multiplication on FPGAs. title2:Sparse matrix-vector multiplication on FPGAs citation:130 ncitation:129 pid214696
+title1:Large-scale wire-speed packet classification on FPGAs. title2:Large-scale wire-speed packet classification on FPGAs citation:43 ncitation:35 pid214858
+title1:Mapping Loops onto Reconfigurable Architectures. title2:Mapping loops onto reconfigurable architectures citation:34 ncitation:31 pid214994
+title1:Automatic Synthesis of Efficient Intrusion Detection Systems on FPGAs. title2:Automatic synthesis of efficient intrusion detection systems on FPGAs citation:51 ncitation:40 pid215002
+title1:A Self-Reconfigurable Gate Array Architecture. title2:A self-reconfigurable gate array architecture citation:49 ncitation:47 pid215820
+title1:Regular Expression Software Deceleration for Intrusion Detection Systems. title2:Regular expression software deceleration for intrusion detection systems citation:48 ncitation:41 pid216209
+title1:A Framework for Mapping with Resource Co-Allocation in Heterogeneous Computing Systems. title2:A framework for mapping with resource co-allocation in heterogeneous computing systems citation:45 ncitation:44 pid242947
+title1:A Unified Resource Scheduling Framework for Heterogeneous Computing Environments. title2:A unified resource scheduling framework for heterogeneous computing environments citation:96 ncitation:98 pid242949
+title1:Adaptive Communication Algorithms for Distributed Heterogeneous Systems. title2:Adaptive communication algorithms for distributed heterogeneous systems citation:62 ncitation:59 pid254949
+title1:Efficient Collective Communication in Distributed Heterogeneous Systems. title2:Efficient collective communication in distributed heterogeneous systems citation:164 ncitation:165 pid296460
+title1:Power-Aware Resource Allocation for Independent Tasks in Heterogeneous Real-Time Systems. title2:Power-aware resource allocation for independent tasks in heterogeneous real-time systems citation:65 ncitation:57 pid341733
+title1:Efficient Algorithms for Multi-dimensional Block-Cyclic Redistribution of Arrays. title2:Efficient algorithms for multi-dimensional block-cyclic redistribution of arrays citation:35 ncitation:34 pid343686
+title1:Design Tradeoffs for BLAS Operations on Reconfigurable Hardware. title2:Design tradeoffs for BLAS operations on reconfigurable hardware citation:30 ncitation:27 pid344823
+title1:Parallel Inferencing for OWL Knowledge Bases. title2:Parallel inferencing for OWL knowledge bases citation:52 ncitation:41 pid345000
+title1:Energy-Latency Tradeoffs for Data Gathering in Wireless Sensor Networks. title2:Energy-latency tradeoffs for data gathering in wireless sensor networks citation:340 ncitation:326 pid402880
+title1:Beyond TCAMs: An SRAM-Based Parallel Multi-Pipeline Architecture for Terabit IP Lookup. title2:Beyond TCAMs: An SRAM-based parallel multi-pipeline architecture for terabit IP lookup citation:72 ncitation:55 pid403821
+title1:A Metric and Mixed-Integer-Programming-Based Approach for Resource Allocation in Dynamic Real-Time Systems. title2:A metric and mixed-integer-programming-based approach for resource allocation in dynamic real-time systems citation:34 ncitation:37 pid409018
+title1:Distributed Adaptive Task Allocation in Heterogeneous Computing Environments to Maximize Throughput. title2:Distributed adaptive task allocation in heterogeneous computing environments to maximize throughput citation:74 ncitation:72 pid409245
+title1:An Optimal Sorting Algorithm on Reconfigurable Mesh. title2:An optimal sorting algorithm on reconfigurable mesh citation:146 ncitation:146 pid409422
+title1:Optimizing Graph Algorithms for Improved Cache Performance. title2:Optimizing graph algorithms for improved cache performance citation:66 ncitation:59 pid410345
+title1:A Hierarchical Model for Distributed Collaborative Computation in Wireless Sensor Networks. title2:A hierarchical model for distributed collaborative computation in wireless sensor networks citation:54 ncitation:51 pid410754
+title1:Designing Scalable FPGA-Based Reduction Circuits Using Pipelined Floating-Point Cores. title2:Designing scalable FPGA-based reduction circuits using pipelined floating-point cores citation:36 ncitation:37 pid411443
+title1:Scalable and Modular Algorithms for Floating-Point Matrix Multiplication on FPGAs. title2:Scalable and modular algorithms for floating-point matrix multiplication on FPGAs citation:96 ncitation:91 pid411444
+title1:Performance of FPGA implementation of bit-split architecture for intrusion detection systems. title2:Performance of FPGA implementation of bit-split architecture for intrusion detection systems citation:47 ncitation:45 pid411872
+title1:An FPGA-Based Floating-Point Jacobi Iterative Solver. title2:An FPGA-based floating-point Jacobi iterative solver citation:36 ncitation:34 pid446194
+title1:Rapid design space exploration of heterogeneous embedded systems using symbolic search and multi-granular simulation. title2:Rapid design space exploration of heterogeneous embedded systems using symbolic search and multi-granular simulation citation:109 ncitation:89 pid483536
+title1:MILAN: A Model Based Integrated Simulation Framework for Desgin of Embedded Suystems. title2:MILAN: A model based integrated simulation framework for design of embedded systems citation:106 ncitation:98 pid483572
+title1:Greedy Heuristics for Resource Allocation in Dynamic Distributed Real-Time Heterogeneous Computing Systems. title2:Greedy Heuristics for Resource Allocation in Dynamic Distributed Real-Time Heterogeneous Computing Systems. citation:52 ncitation:54 pid535024
+title1:Energy-Optimal and Energy-Balanced Sorting in a Single-Hop Wireless Sensor Network. title2:Energy-Optimal and Energy-Balanced Sorting in a Single-Hop Wireless Sensor Network. citation:68 ncitation:62 pid538776
+title1:High Performance Linear Algebra Operations on Reconfigurable Systems. title2:High performance linear algebra operations on reconfigurable systems citation:74 ncitation:67 pid575642
+title1:Compact architecture for high-throughput regular expression matching on FPGA. title2:Compact architecture for high-throughput regular expression matching on FPGA citation:51 ncitation:39 pid691169
+title1:High-throughput linked-pattern matching for intrusion detection systems. title2:High-throughput linked-pattern matching for intrusion detection systems citation:52 ncitation:44 pid691180
+title1:Efficient Algorithms for Block-Cyclic Redistribution of Arrays. title2:Efficient algorithms for block-cyclic redistribution of arrays citation:76 ncitation:78 pid750390
+title1:Heterogeneous Computing: Challenges and Opportunities. title2:Heterogeneous computing: Challenges and opportunities citation:273 ncitation:263 pid806965
+title1:Seeking Solutions in Configurable Computing. title2:Seeking solutions in configurable computing citation:220 ncitation:214 pid807332
+title1:Sparse Matrix Computations on Reconfigurable Hardware. title2:Sparse matrix computations on reconfigurable hardware citation:41 ncitation:27 pid809113
+title1:A Hierarchical Model For Distributed Collaborative Computation In Wireless Sensor Networks. title2:A hierarchical model for distributed collaborative computation in wireless sensor networks citation:54 ncitation:51 pid909443
+title1:Adaptive Communication Algorithms for Distributed Heterogeneous Systems. title2:Adaptive communication algorithms for distributed heterogeneous systems citation:62 ncitation:59 pid988383
+title1:Efficient collective communication in distributed heterogeneous systems. title2:Efficient collective communication in distributed heterogeneous systems citation:164 ncitation:165 pid988385
+title1:An Optimal Sorting Algorithm on Reconfigurable Mesh. title2:An optimal sorting algorithm on reconfigurable mesh citation:146 ncitation:146 pid988961
+title1:Energy-Balanced Task Allocation for Collaborative Processing in Wireless Sensor Networks. title2:Energy-balanced task allocation for collaborative processing in wireless sensor networks citation:140 ncitation:126 pid1012949
+title1:Issues in Designing Middleware for Wireless Sensor Networks. title2:Issues in designing middleware for wireless sensor networks citation:206 ncitation:200 pid1024018
+title1:Parallel Architectures and Algorithms for Image Component Labeling. title2:Parallel architectures and algorithms for image component labeling citation:124 ncitation:119 pid1031025
+title1:A Fast Algorithm for Computing a Histogram on Reconfigurable Mesh. title2:A fast algorithm for computing a histogram on reconfigurable mesh citation:76 ncitation:74 pid1031953
+title1:Algorithmic Mapping of Neural Network Models onto Parallel SIMD Machines. title2:Algorithmic mapping of neural network models onto parallel SIMD machines citation:62 ncitation:62 pid1080604
+title1:Parallel Computations on Reconfigurable Meshes. title2:Parallel computations on reconfigurable meshes citation:292 ncitation:289 pid1080852
+title1:Introducting the New Editor-in-Chief of the IEEE Transactions on Computers. title2:Introducing the New Editor-in-Chief of the IEEE Transactions on Computers citation:0 ncitation:0 pid1081415
+title1:High-Performance Designs for Linear Algebra Operations on Reconfigurable Hardware. title2:High-performance designs for linear algebra operations on reconfigurable hardware citation:52 ncitation:38 pid1083187
+title1:Automatic Synthesis of Efficient Intrusion Detection Systems on FPGAs. title2:Automatic synthesis of efficient intrusion detection systems on FPGAs citation:51 ncitation:40 pid1097950
+title1:Domain-Specific Modeling for Rapid Energy Estimation of Reconfigurable Architectures. title2:Domain-specific modeling for rapid energy estimation of reconfigurable architectures citation:54 ncitation:51 pid1111781
+title1:Constant Time Algorithms for Computational Geometry on the Reconfigurable Mesh. title2:Constant time algorithms for computational geometry on the reconfigurable mesh citation:40 ncitation:40 pid1125173
+title1:Latin Squares for Parallel Array Access. title2:Latin squares for parallel array access citation:62 ncitation:60 pid1125239
+title1:Tiling, Block Data Layout, and Memory Hierarchy Performance. title2:Tiling, block data layout, and memory hierarchy performance citation:76 ncitation:73 pid1125586
+title1:Optimizing Graph Algorithms for Improved Cache Performance. title2:Optimizing graph algorithms for improved cache performance citation:66 ncitation:59 pid1125595
+title1:Efficient Algorithms for Block-Cyclic Array Redistribution Between Processor Sets. title2:Efficient algorithms for block-cyclic array redistribution between processor sets citation:53 ncitation:50 pid1125597
+title1:Scalable and Modular Algorithms for Floating-Point Matrix Multiplication on Reconfigurable Computing Systems. title2:Scalable and modular algorithms for floating-point matrix multiplication on reconfigurable computing systems citation:51 ncitation:40 pid1126120
+title1:High-Performance Reduction Circuits Using Deeply Pipelined Operators on FPGAs. title2:High-performance reduction circuits using deeply pipelined operators on FPGAs citation:49 ncitation:47 pid1126296
+title1:Accelerating Molecular Dynamics Simulations with Reconfigurable Computers. title2:Accelerating molecular dynamics simulations with reconfigurable computers citation:32 ncitation:30 pid1126319
+title1:Data Gathering with Tunable Compression in Sensor Networks. title2:Data gathering with tunable compression in sensor networks citation:41 ncitation:36 pid1126379
+title1:Energy- and time-efficient matrix multiplication on FPGAs. title2:Energy-and time-efficient matrix multiplication on FPGAs citation:40 ncitation:35 pid1134451
+title1:Configuration compression for FPGA-based embedded systems. title2:Configuration compression for FPGA-based embedded systems citation:63 ncitation:59 pid1134469
+title1:Parallel implementation of neural networks. title2:Parallel implementation of neural networks citation:0 ncitation:12 pid1165993
+title1:High Performance Computing - HiPC 2005, 12th International Conference, Goa, India, December 18-21, 2005, Proceedings citation:0 ncitation:-1 pid1583985
+title1:Distributed Evidence Propagation in Junction Trees. title2:Distributed Evidence Propagation in Junction Trees on Clusters citation:0 ncitation:1 pid2791104
+title1:Optimizing Regular Expression Matching with SR-NFA on Multi-Core Systems. title2:Optimizing Regular Expression Matching with SR-NFA on Multi-Core Systems citation:1 ncitation:0 pid2791674
+title1:Distributed Evidence Propagation in Junction Trees on Clusters. title2:Distributed Evidence Propagation in Junction Trees on Clusters citation:0 ncitation:0 pid2837952
+title1:Software Toolchain for Large-Scale RE-NFA Construction on FPGA. title2:1 Software Toolchain for Large-Scale RE-NFA Construction on FPGA citation:0 ncitation:4 pid2940017
+title1:Hierarchical hybrid search structure for high performance packet classification. title2:Hierarchical hybrid search structure for high performance packet classification citation:2 ncitation:0 pid2948559
+title1:A Memory-Balanced Linear Pipeline Architecture for Trie-based IP Lookup. title2:A memory-balanced linear pipeline architecture for trie-based IP lookup citation:41 ncitation:34 pid2949149
+title1:Modular VLSI architectures for real-time full-search-based vector quantization. title2:Modular VLSI architectures for real-time full-search-based vector quantization citation:40 ncitation:42 pid3013978
+title1:Rankbox: An adaptive ranking system for mining complex semantic relationships using user feedback. title2:Rankbox: An adaptive ranking system for mining complex semantic relationships using user feedback citation:0 ncitation:0 pid3013993
+title1:Efficient Algorithms for Block-Cyclic Array Redistribution between Processor Sets. title2:Efficient algorithms for block-cyclic array redistribution between processor sets citation:53 ncitation:50 pid3014063
+title1:Task Parallel Implementation of Belief Propagation in Factor Graphs. title2:Task Parallel Implementation of Belief Propagation in Factor Graphs citation:0 ncitation:0 pid3152873
+title1:Fast Regular Expression Matching Using FPGAs. title2:Fast regular expression matching using FPGAs citation:466 ncitation:445 pid3188916

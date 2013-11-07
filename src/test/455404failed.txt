@@ -1,0 +1,176 @@
+title:Address Register Assignment for Reducing Code Size. citation:-1
+title:Using Memory Compression for Energy Reduction in an Embedded Java System. citation:-1
+title:Power-aware code scheduling for clusters of active disks. citation:-1
+title:Locality-conscious process scheduling in embedded systems. citation:-1
+title:Improving Locality in Out-of-Core Computations Using Data Layout Transformations. citation:-1
+title:Compiler-directed code restructuring for reducing data TLB energy. citation:-1
+title:Exploiting On-Chip Data Transfers for Improving Performance of Chip-Scale Multiprocessors. citation:-1
+title:Improving Memory Performance of Embedded Java Applications by Dynamic Layout Modifications. citation:-1
+title:A Loop Transformation Algorithm Based on Explicit Data Layout Representation for Optimizing Locality. citation:-1
+title:Reducing dTLB Energy Through Dynamic Resizing. citation:-1
+title:A Hybrid Strategy Based on Data Distribution and Migration for Optimizing Memory Locality. citation:-1
+title:Analyzing heap error behavior in embedded JVM environments. citation:-1
+title:Towards Energy-Aware Iteration Space Tiling. citation:-1
+title:Energy savings through compression in embedded Java environments. citation:-1
+title:Morphable Cache Architectures: Potential Benefits. citation:-1
+title:A Generalized Framework for Global Communication Optimization. citation:-1
+title:Software-Directed Disk Power Management for Scientific Applications. citation:-1
+title:Exploiting Inter-File Access Patterns Using Multi-Collective I/O. citation:-1
+title:Compiler-directed cache polymorphism. citation:-1
+title:A Compiler-Based Approach to Data Security. citation:-1
+title:Reliability-Conscious Process Scheduling under Performance Constraints in FPGA-Based Embedded Systems. citation:-1
+title:Energy-Aware Compilation and Execution in Java-Enabled Mobile Devices. citation:-1
+title:Compiler-Directed Management of Leakage Power in Software-Managed Memories. citation:-1
+title:Reducing instruction cache energy consumption using a compiler-based strategy. citation:-1
+title:Improving Locality Using Loop and Data Transformations in an Integrated Framework. citation:-1
+title:An Integer Linear Programming Based Approach to Simultaneous Memory Space Partitioning and Data Allocation for Chip Multiprocessors. citation:-1
+title:Improving Java performance using dynamic method migration on FPGAs. citation:-1
+title:Reducing Memory Requirements through Task Recomputation in Embedded Multi-CPU Systems. citation:-1
+title:An ILP based approach to address code generation for digital signal processors. citation:-1
+title:Improving Java Performance Using Dynamic Method Migration on FPGAs. citation:-1
+title:Selective code/data migration for reducing communication energy in embedded MpSoC architectures. citation:-1
+title:Tuning data replication for improving behavior of MPSoC applications. citation:-1
+title:Improving whole-program locality using intra-procedural and inter-procedural transformations. citation:-1
+title:Reducing memory requirements of resource-constrained applications. citation:-1
+title:Communication Based Proactive Link Power Management. citation:-1
+title:A Layout-Conscious Iteration Space Transformation Technique. citation:-1
+title:Symmetric encryption in reconfigurable and custom hardware. citation:-1
+title:Compiler Algorithms for Optimizing Locality and Parallelism on Shared and Distributed-Memory Machines. citation:-1
+title:Compilation for Distributed Memory Architectures. citation:-1
+title:Improving the Performance of Out-of-Core Computations. citation:-1
+title:Array Composition and Decomposition for Optimizing Embedded Applications. citation:-1
+title:An integer linear programming-based tool for wireless sensor networks. citation:-1
+title:Tracking object life cycle for leakage energy optimization. citation:-1
+title:Masking the Energy Behavior of DES Encryption. citation:-1
+title:Code restructuring for improving cache performance of MPSoCs. citation:-1
+title:DRAM Energy Management Using Software and Hardware Directed Power Mode Control. citation:-1
+title:Efficient Synthesis of Array Intensive Computations onto FPGA Based Accelerators. citation:-1
+title:Estimating influence of data layout optimizations on SDRAM energy consumption. citation:-1
+title:A Data-Centric Approach to Checksum Reuse for Array-Intensive Applications. citation:-1
+title:Energy optimization techniques in cluster interconnects. citation:-1
+title:Power-aware partitioned cache architectures. citation:-1
+title:A Data-Driven Approach for Embedded Security. citation:-1
+title:Code protection for resource-constrained embedded devices. citation:-1
+title:Runtime Code Parallelization for On-Chip Multiprocessors. citation:-1
+title:Memory-Conscious Reliable Execution on Embedded Chip Multiprocessors. citation:-1
+title:Restructuring I/O-Intensive Computations for Locality. citation:-1
+title:Tuning Garbage Collection in an Embedded Java Environment. citation:-1
+title:Compiler Support for Reducing Leakage Energy Consumption. citation:-1
+title:Improving the energy behavior of block buffering using compiler optimizations. citation:-1
+title:Exploiting last idle periods of links for network power management. citation:-1
+title:An integer linear programming based approach for parallelizing applications in On-chip multiprocessors. citation:-1
+title:An energy saving strategy based on adaptive loop parallelization. citation:-1
+title:Compiler-Based Code Partitioning for Intelligent Embedded Disk Processing. citation:-1
+title:Optimizing instruction TLB energy using software and hardware techniques. citation:-1
+title:Data compression for improving SPM behavior. citation:-1
+title:Using Dynamic Branch Behavior for Power-Efficient Instruction Fetch. citation:-1
+title:Optimizing inter-processor data locality on embedded chip multiprocessors. citation:-1
+title:Data Management for Large-Scale Scientific Computations in High Performance Distributed Systems. citation:-1
+title:Tuning In-Sensor Data Filtering to Reduce Energy Consumption in Wireless Sensor Networks. citation:-1
+title:Exploiting Processor Workload Heterogeneity for Reducing Energy Consumption in Chip Multiprocessors. citation:-1
+title:EAC: A Compiler Framework for High-Level Energy Estimation and Optimization. citation:-1
+title:Hardware-Software Co-Adaptation for Data-Intensive Embedded Applications. citation:-1
+title:Using data replication to reduce communication energy on chip multiprocessors. citation:-1
+title:Exploiting program hotspots and code sequentiality for instruction cache leakage management. citation:-1
+title:Maximizing data reuse for minimizing memory space requirements and execution cycles. citation:-1
+title:Data management for large-scale scientific computations in high performance distributed systems. citation:-1
+title:Adapting instruction level parallelism for optimizing leakage in VLIW architectures. citation:-1
+title:Impact of Data Transformations on Memory Bank Locality. citation:-1
+title:Data Space Oriented Scheduling in Embedded Systems. citation:-1
+title:Activity clustering for leakage management in SPMs. citation:-1
+title:Implementation and Evaluation of an On-Demand Parameter-Passing Strategy for Reducing Energy. citation:-1
+title:Compiler-directed instruction cache leakage optimization. citation:-1
+title:Interprocedural optimizations for improving data cache performance of array-intensive embedded applications. citation:-1
+title:Energy-driven integrated hardware-software optimizations using SimplePower. citation:-1
+title:Scheduling Reusable Instructions for Power Reduction. citation:-1
+title:Power-Efficient Trace Caches. citation:-1
+title:Improving scratch-pad memory reliability through compiler-guided data block duplication. citation:-1
+title:Compiler-directed voltage scaling on communication links for reducing power consumption. citation:-1
+title:Compiler-Directed Array Interleaving for Reducing Energy in Multi-Bank Memories. citation:-1
+title:Data Space Oriented Tiling. citation:-1
+title:Thermal-Aware Task Allocation and Scheduling for Embedded Systems. citation:-1
+title:Strategies for Improving Data Locality in Embedded Applications. citation:-1
+title:Efficient Function Evaluations with Lookup Tables for Structured Matrix Operations. citation:-1
+title:Object duplication for improving reliability. citation:-1
+title:Multicollective I/O: A technique for exploiting inter-file access patterns. citation:-1
+title:Compiler-directed selective data protection against soft errors. citation:-1
+title:Optimizing embedded applications using programmer-inserted hints. citation:-1
+title:Energy-aware computation duplication for improving reliability in embedded chip multiprocessors. citation:-1
+title:Use of Local Memory for Efficient Java Execution. citation:-1
+title:A compiler approach for reducing data cache energy. citation:-1
+title:Thermal-Aware Task Allocation and Scheduling for Embedded Systems citation:-1
+title:Cache miss clustering for banked memory systems. citation:-1
+title:Influence of Array Allocation Mechanisms on Memory System Energy. citation:-1
+title:Compiler-directed physical address generation for reducing dTLB power. citation:-1
+title:Memory system energy (poster session): influence of hardware-software optimizations. citation:-1
+title:Energy-oriented compiler optimizations for partitioned memory architectures. citation:-1
+title:An Energy-Oriented Evaluation of Communication Optimizations for Microcensor Networks. citation:-1
+title:Compiler-Guided Code Restructuring for Improving Instruction TLB Energy Behavior. citation:-1
+title:Shared Scratch-Pad Memory Space Management. citation:-1
+title:vEC: virtual energy counters. citation:-1
+title:Compiler-Directed Variable Latency Aware SPM Management to CopeWith Timing Problems. citation:-1
+title:An Adaptive Locality-Conscious Process Scheduler for Embedded Systems. citation:-1
+title:Exploiting bank locality in multi-bank memories. citation:-1
+title:Reducing dynamic compilation overhead by overlapping compilation and execution. citation:-1
+title:Increasing FPGA resilience against soft errors using task duplication. citation:-1
+title:Using Data Compression to Increase Energy Savings in Multi-bank Memories. citation:-1
+title:Optimization of Out-of-Core Computations Using Chain Vectors. citation:-1
+title:Compiler-Directed Collective-I/O. citation:-1
+title:Energy-Aware Instruction Scheduling. citation:-1
+title:Generalized Data Transformations for Enhancing Cache Behavior. citation:-1
+title:Process variation aware thread mapping for Chip Multiprocessors. citation:-1
+title:Instruction Scheduling for Low Power. citation:-1
+title:A Dual-V Low Power FPGA Architecture. citation:-1
+title:Compiler-Directed Management of Instruction Accesses. citation:-1
+title:Power protocol: reducing power dissipation on off-chip data buses. citation:-1
+title:I/O Optimizations for Compiling Out-of Core Programs on Distributed-Memory Machines. citation:-1
+title:Improving Locality Using a Graph-Based Technique for Detecting Memory Layouts of Arrays. citation:-1
+title:Banked scratch-pad memory management for reducing leakage energy consumption. citation:-1
+title:Customized on-chip memories for embedded chip multiprocessors. citation:-1
+title:Compiler-Guided data compression for reducing memory consumption of embedded applications. citation:-1
+title:Reducing dynamic and leakage energy in VLIW architectures. citation:-1
+title:Reducing code size through address register assignment. citation:-1
+title:Exposing disk layout to compiler for reducing energy consumption of parallel disk based systems. citation:-1
+title:A Unified Compiler Algorithm for Optimizing Locality, Parallelism and Communication in Out-of-core Computations. citation:-1
+title:A Framework for Energy Estimation of VLIW Architecture. citation:-1
+title:Configuration-Sensitive Process Scheduling for FPGA-Based Computing Platforms. citation:-1
+title:A Constraint Network Based Approach to Memory Layout Optimization. citation:-1
+title:A Matrix-Based Approach to the Global Locality Optimization Problem. citation:-1
+title:Exploring the Possibility of Operating in the Compressed Domain. citation:-1
+title:TANOR: A Tool for Accelerating N-Body Simulations on Reconfigurable Platforms. citation:-1
+title:Reducing leakage energy in FPGAs using region-constrained placement. citation:-1
+title:Dynamic scratch-pad memory management for irregular array access patterns. citation:-1
+title:Scheduler-based DRAM energy management. citation:-1
+title:Minimizing energy consumption of banked memories using data recomputation. citation:-1
+title:Access Pattern-Based Code Compression for Memory-Constrained Embedded Systems citation:-1
+title:Tuning garbage collection for reducing memory system energy in an embedded java environment. citation:-1
+title:A Constraint Network Based Approach to Memory Layout Optimization citation:-1
+title:Energy-efficient instruction cache using page-based placement. citation:-1
+title:Dynamic on-chip memory management for chip multiprocessors. citation:-1
+title:Optimizing inter-nest data locality. citation:-1
+title:Dynamic compilation for energy adaptation. citation:-1
+title:Graphical Mission Specification and Partitioning for Unmanned Underwater Vehicles. citation:-1
+title:Access Pattern-Based Code Compression for Memory-Constrained Embedded Systems. citation:-1
+title:Analyzing data reuse for cache reconfiguration. citation:-1
+title:Performance aware secure code partitioning. citation:-1
+title:Compiler-directed high-level energy estimation and optimization. citation:-1
+title:Data space-oriented tiling for enhancing locality. citation:-1
+title:Locality-Aware Distributed Loop Scheduling for Chip Multiprocessors. citation:-1
+title:Heap compression for memory-constrained Java environments. citation:-1
+title:Dynamic Storage Cache Partitioning Using Feedback Control Theory. citation:-1
+title:Compiler Algorithms for Optimizing Locality and Parallelism on Shared and Distributed Memory Machines. citation:-1
+title:A Process Scheduler-Based Approach to NoC Power Management. citation:-1
+title:Power Aware Disk Allocation. citation:-1
+title:Locality Optimization Algorithms for Compilation of Out-of-Core Codes. citation:-1
+title:Power and Performance in I/O for Scientific Applications. citation:-1
+title:Proceedings of the 2009 ACM SIGPLAN/SIGBED conference on Languages, compilers, and tools for embedded systems, LCTES 2009, Dublin, Ireland, June 19-20, 2009 citation:-1
+title:Preface. citation:-1
+title:Clone Detection in Sensor Networks with and Grid Topologies. citation:-1
+title:Optimising power efficiency in trace cache fetch unit. citation:-1
+title:On-chip memory space partitioning for chip multiprocessors using polyhedral algebra. citation:-1
+title:Communication Based Proactive Link Power Management. citation:-1
+title:Virtual I/O caching: dynamic storage cache management for concurrent workloads. citation:-1
+title:Geometric Tiling for Reducing Power Consumption in Structured Matrix Operations. citation:-1
+title:On-Chip Memory Management for Embedded MpSoC Architectures Based on Data Compression. citation:-1
+title:Constraint-based Code mapping for heterogeneous Chip multiprocessors. citation:-1
+title:Compiler-Directed Energy Reduction Using Dynamic Voltage Scaling and Voltage Islands for Embedded Systems. citation:-1

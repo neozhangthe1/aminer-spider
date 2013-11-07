@@ -1,0 +1,330 @@
+title:The Optimal Hard-Limiting Detector for Data Signals in Different Noise Environments. citation:-1
+title:Novel Simpler Expressions for the BER of MRC BPSK in Correlated Rayleigh Fading and CCI. citation:-1
+title:A Quadrature Markov Chain Model of the Rayleigh Fading Channel. citation:-1
+title:Novel Space-Time Coded MIMO Receivers in the Presence of Channel Estimation Errors. citation:-1
+title:Lossless Selection Combining without Channel State Information. citation:-1
+title:A Hypergeometric View on Diversity Combining. citation:-1
+title:Comparison of Erasure Tests with Diversity Reception for Noncoherent M-ary FSK Signaling. citation:-1
+title:Further Results on Prony Approximation for Evaluation of the Average Probability of Error. citation:-1
+title:Achievable Rates and Fairness in Rateless Coded Decode-and-Forward Half-Duplex and Full-Duplex Opportunistic Relaying. citation:-1
+title:A Myriad Filter Detector for UWB Multiuser Communication. citation:-1
+title:Ergodic Capacity Analysis of Wireless Relaying Systems In Rayleigh Fading. citation:-1
+title:New Receiver Designs for Generalized UWB Transmitted Reference Systems. citation:-1
+title:On the Outage and Error Probability of Amplify-And-Forward Multi-Hop Diversity Transmission Systems. citation:-1
+title:Sum-Of-Squares and Sum-Of-Amplitudes Receiver Antenna Selection for Alamouti MIMO in Correlated Fading. citation:-1
+title:On the Benefits of Decorrelation in Dual-Branch Diversity. citation:-1
+title:Switching Rates of Selection Diversity and Switch-And-Stay Diversity. citation:-1
+title:An Analytical Method for Calculating the Bit Error Rate Performance of Rake Reception in UWB Multipath Fading Channels. citation:-1
+title:Performance Analysis of Distributed Spatial Diversity with Selection Combining. citation:-1
+title:Asymptotic Error Rate Analysis of Multi-Branch EGC and SC on Equally Correlated Rician Channels. citation:-1
+title:Noniterative Joint Channel Equalization and Decoding Based on State Extended Viterbi Algorithm. citation:-1
+title:Two Multiuser Combining Receiver Diversity Structures. citation:-1
+title:The Optimal BER Linear Rake Receiver for Alpha-Stable Noise. citation:-1
+title:Closed-Form BER Expressions for BPSK Using MRC with Multiple Interferers in Arbitrarily Correlated Rayleigh Fading. citation:-1
+title:Accurate Performance Analysis of TR UWB Systems With Arbitrary Front-end Filters. citation:-1
+title:On the Use of Correlative Coding for OFDM. citation:-1
+title:New UWB Receiver Designs Based on a Gaussian-Laplacian Noise-Plus-MAI Model. citation:-1
+title:A Simple Power Margin Quality Measure for Correlated Random Variates Derived from the Normal Distribution. citation:-1
+title:Cochannel Interference Whitening Receiver Designs for BPSK in Nakagami-m/Rayleigh Fading. citation:-1
+title:On the Maximum Useful Number of Receiver Antennas for MRC Diversity in Cochannel Interference and Noise. citation:-1
+title:BER of MFSK With Postdetection Switch-and-Stay Combining in Correlated Rayleigh and Rician Fading. citation:-1
+title:Binary Repetition Codes and SPC Product Codes for Coded and Cooperative Diversity Systems. citation:-1
+title:Closed-form results for the BER of maximal ratio combining with channel estimation errors in Ricean fading channels. citation:-1
+title:Accurate closed-form approximations to the distributions and densities of ricean sum random variables. citation:-1
+title:Comparison of Non-Data-Aided Feedforward Symbol Timing Estimation with "Better Than" Raised Cosine and Raised Cosine Pulse Shapings. citation:-1
+title:M-ary NCFSK with S + N Selection Diversity in Correlated Rayleigh Fading. citation:-1
+title:Connectivity and Bit Error Rate Analysis of Mobile Ad Hoc Wireless Networks. citation:-1
+title:Decorrelation and Orthogonalization of Correlated Diversity Branches for HS/MRC Diversity. citation:-1
+title:Outage Probability of MRC in CCI-Limited Correlated Rayleigh Fading. citation:-1
+title:Performance Analysis of Coded MIMO-OFDM Systems Over Generalized Ricean Fading Channels. citation:-1
+title:On the Integrated Cross-Noise Component in Correlation Receivers. citation:-1
+title:A Family of Low Complexity Adaptive Binary Linear Block Codes. citation:-1
+title:SNR Estimators for UWB BPSK Systems. citation:-1
+title:The Effects of Mobility on the Bit Error Rate Performance of Ad Hoc Wireless Networks. citation:-1
+title:Selective Decode-and-Forward Relaying Scheme for Multi-Hop Diversity Transmission Systems. citation:-1
+title:Analysis of a Novel P-Order Metric UWB Receiver Structure with Improved Performance in Multiple Access Interference. citation:-1
+title:Novel Solutions to Integrals of Products of Q-Functions with Wireless Applications. citation:-1
+title:Moment Based Interference Analysis of CM1, CM2, CM3 and CM4 UWB Systems. citation:-1
+title:Performance of the Raised-Cosine and "Better Than Raised-Cosine" Pulses in Non-Data-Aided Symbol Timing-Error Detection. citation:-1
+title:A Novel Zonal UWB Receiver Structure with Improved Performance in Multiple Access Interference. citation:-1
+title:On an Improved Markov Chain Model of the Rayleigh Fading Channel. citation:-1
+title:Novel Rateless Coded Selection Cooperation in Dual-Hop Relaying Systems. citation:-1
+title:Ergodic Capacity of Multi-Hop Wireless Relaying Systems in Rayleigh Fading. citation:-1
+title:Optimal Error Rate Performance of Binary TH-UWB Receivers in Multiuser Interference. citation:-1
+title:ISI-Free Cochannel Interference Whitening for Bandlimited Fading Channels. citation:-1
+title:On the Benefit of Decorrelation in Dual-Branch Switch-and-Stay Combining in Rician Fading. citation:-1
+title:Estimators Using Noisy Channel Samples for Fading Distribution Parameters. citation:-1
+title:Corrections to "Accurate Simulation of Multiple Cross-Correlated Rician Fading Channels". citation:-1
+title:Effects of channel-estimation errors on receiver selection-combining schemes for Alamouti MIMO systems with BPSK. citation:-1
+title:Revised analyses of postdetection switched combining in Nakagami-m fading. citation:-1
+title:M-ary NCFSK with S+N selection combining in Rician fading. citation:-1
+title:Revised Analyses of Postdetection Switch-and-Stay Diversity in Rician Fading. citation:-1
+title:Penalty of hybrid diversity for two-dimensional signaling in Rayleigh fading. citation:-1
+title:Precise analysis of bit-error probability for asynchronous multicode DS-CDMA systems. citation:-1
+title:Sample rejection for efficient simulation of binary coding schemes over quantized additive white Gaussian noise channels. citation:-1
+title:Error performance analysis of a jointly optimal single-cochannel-interferer BPSK receiver. citation:-1
+title:SER of threshold-based hybrid selection/maximal-ratio combining in correlated Nakagami fading. citation:-1
+title:Approximate SER of H-S/MRC in Nakagami fading with arbitrary branch power correlation. citation:-1
+title:Optimum Pilot Symbol Assisted Modulation. citation:-1
+title:An Analytical Expression for the BER of an Individually Optimal Single Cochannel Interferer BPSK Receiver. citation:-1
+title:Precise Outage Analysis of Selection Diversity and Switched Diversity in Bandlimited Micro-Cellular Systems With Cochannel Interference. citation:-1
+title:Error Rate of Quadrature Subbranch Hybrid Selection/ Maximal-Ratio Combining in Rayleigh Fading. citation:-1
+title:Precise Outage Analysis of Selection Diversity and Switched Diversity in Bandlimited Microcellular Systems With Cochannel Interference. citation:-1
+title:Performance of Two Dual-Branch Postdetection Switch-and-Stay Combining Schemes in Correlated Rayleigh and Rician Fading. citation:-1
+title:Performance Analysis of Generalized Selection Combining in Generalized Correlated Nakagami-m Fading. citation:-1
+title:BER Performance of Bandlimited DS-CDMA Systems in Nakagami Fading. citation:-1
+title:Fast convenient numerical computation of lognormal characteristic functions. citation:-1
+title:Effect of Channel Estimation Error on Bit Error Probability in OFDM Systems over Rayleigh and Ricean Fading Channels. citation:-1
+title:Asymptotic Error Rate Analysis of Dual-Branch Diversity over Correlated Rician Channels. citation:-1
+title:A Closed-Form BER Expression for BPSK Using MRC in Correlated CCI and Rayleigh Fading. citation:-1
+title:Explicit Analytical Expressions for Outage and Error Rate of Diversity Cellular Systems in the Presence of Multiple Interferers and Correlated Rayleigh Fading. citation:-1
+title:Optimum selection combining using the maximum energy criterion for M-ary NCFSK in Rician fading channels. citation:-1
+title:Performance Improvement of Non-Data-Aided Feedforward Symbol Timing Estimation Using the Better Than Raised-Cosine Pulse. citation:-1
+title:On the tightness of two error bounds for decision feedback equalizers. citation:-1
+title:Bounds on variances of recovery times of decision feedback equalizers. citation:-1
+title:The autocorrelation of error propagation in a one-tap decision-feedback equalizer. citation:-1
+title:Improved bounds for error recovery times of decision feedback equalization. citation:-1
+title:Bandwidth-efficient linear Modulations for multiple-antenna transmission. citation:-1
+title:Power margin quality measures for correlated random variates derived from the normaldistribution. citation:-1
+title:A New Representation of TAST Codes. citation:-1
+title:On the Maximum Number of Receiver Diversity Antennas That Can Be Usefully Deployed in a Cochannel Interference Dominated Environment. citation:-1
+title:Maximum likelihood estimation of SNR using digitally modulated signals. citation:-1
+title:A MAP Estimator for the m Parameter in Nakagami Fading Ultra-Wide Bandwidth Indoor Channels. citation:-1
+title:Exact error probability of a bandlimited single-interferer maximum-likelihood BPSK receiver in AWGN. citation:-1
+title:Estimation of Ricean K parameter and local average SNR from noisy correlated channel samples. citation:-1
+title:SNR Estimation Methods for UWB Systems. citation:-1
+title:Precise BER Analysis of pi/4-DQPSK OFDM with Carrier Frequency Offset over Frequency Selective Fast Fading Channels. citation:-1
+title:Improved receivers for generalized UWB transmitted reference systems. citation:-1
+title:Performance of S + N Selection Diversity Receivers in Correlated Rician and Rayleigh Fading. citation:-1
+title:SER of selection diversity MFSK with channel estimation errors. citation:-1
+title:Novel diversity receivers in the presence of Gaussian channel estimation errors. citation:-1
+title:SER of M-ary NCFSK with S + N Selection Combining in Nakagami Fading for Integer m. citation:-1
+title:Error rate of asynchronous DS-CDMA in Nakagami fading. citation:-1
+title:Autoregressive modeling for fading channel simulation. citation:-1
+title:On Antijamming in General CDMA Systems-Part II: Antijamming Performance of Coded Multicarrier Frequency-Hopping Spread Spectrum Systems. citation:-1
+title:On antijamming in general CDMA systems-part I: multiuser capacity analysis. citation:-1
+title:On Determining a Best Pulse Shape for Multiple Access Ultra-Wideband Communication Systems. citation:-1
+title:Editorial. citation:-1
+title:Editorial. citation:-1
+title:The impact of noise on switching rates in dual selection combining diversity. citation:-1
+title:Switching rates of two-branch selection diversity in correlated Rayleigh Doppler fading channels. citation:-1
+title:Achievable Rates and Fairness in Rateless Coded Relaying Schemes. citation:-1
+title:General performance analysis of TR UWB systems. citation:-1
+title:A Novel Pulse Designed to Jointly Optimize Symbol Timing Estimation Performance and the Mean Squared Error of Recovered Data. citation:-1
+title:On the Ergodic Capacity of Wireless Relaying Systems over Rayleigh Fading Channels. citation:-1
+title:Cochannel interference mitigation using whitening receiver designs in bandlimited microcellular wireless systems. citation:-1
+title:Switching rates of two-branch selection diversity in kappa-µ and alpha-µ distributed fadings. citation:-1
+title:Superior NDA ML Delay and Gain Estimators for UWB Channels. citation:-1
+title:Large SNR Analysis of Diversity Schemes on Rayleigh Channels with Arbitrary Correlation. citation:-1
+title:Short-Term Power Allocation for Slowly Fading Channels Based on Markov Prediction. citation:-1
+title:Performance Measures of Automatic Frequency Control Corrupted by Interference and Fading in Dual Dissimilar Channels. citation:-1
+title:Packet Transmission Scheduling Algorithm for Dense Wireless Sensor Networks with Mobile Sink. citation:-1
+title:The Impact of Noise on Switching Rate of L-Fold Selection Diversity. citation:-1
+title:Exact Closed-Form Expressions for the Outage Probability and Ergodic Capacity of Decode-and-Forward Opportunistic Relaying. citation:-1
+title:Asymptotic Performance Analysis of Optimum Combining for Dense Multiple Antenna Reception Under Rayleigh Fading. citation:-1
+title:Dynamic Power Allocation over Block-Fading Channels with Delay Constraint. citation:-1
+title:Exact Capacity Analysis of Rate Adaptive Power Nonadaptive Multibranch Multihop Decode-and-Forward Relaying Networks. citation:-1
+title:Novel Simple Forms for Multivariate Nakagami-m Distributions with Generalized Correlation. citation:-1
+title:New Simple Solutions for the Bivariate Rician PDF and CDF. citation:-1
+title:Binary Weightbook Design for MIMO Beamforming Systems Using Quantized Feedback. citation:-1
+title:Joint Routing and Power Allocation Optimization for Multi-Hop Wireless Networks. citation:-1
+title:Analysis of Wireless Communication Systems in the Presence of Non-Gaussian Impulsive Noise and Gaussian Noise. citation:-1
+title:Collaborative spectrum sensing with imperfect gaussian channel estimation. citation:-1
+title:Switching rates of dual selection diversity in kappa-µ and alpha-µ fading channels. citation:-1
+title:Packet transmission scheduling algorithm for wireless sensor networks with energy limited mobile sink. citation:-1
+title:Effect of a cochannel interferer on an automatic frequency control loop in fading channels. citation:-1
+title:Performances of EGC and MRC diversity for UWB PAPM systems in IEEE channel models. citation:-1
+title:Bit error rate of TH-BPSK UWB receivers in multiuser interference. citation:-1
+title:Communication Theory Analysis of the effects of Nyquist pulse-shaping on the performance of OFDM systems with carrier frequency offset. citation:-1
+title:FFT Based Generation of Bandlimited Gaussian Noise Variates. citation:-1
+title:Transmission Systems Accurate closed-form approximations for the performance of equal gain combining diversity systems in Nakagami fading channels. citation:-1
+title:Communication Theory On the effects of interpolator window shape and symbol location on the BER of diversity PSAM 16-QAM. citation:-1
+title:Transmission Systems The input-output weight enumeration of binary Hamming codes. citation:-1
+title:Generation of multiple Rayleigh fading sequences with specified cross-correlations. citation:-1
+title:S + N energy selection combining for BPSK signaling in Rayleigh fading channels. citation:-1
+title:A Note on Error Rates for Nakagami-m Fading Multichannel Reception of Binary and M-ary Signals. citation:-1
+title:An analytical method for calculating the bit error rate performance of rake reception in UWB multipath fading channels. citation:-1
+title:Low Complexity Receivers for Coherent Amplify-and-Forward Cooperative Systems. citation:-1
+title:Lower Bounds to the Performance of Bit Synchronization for Bandwidth Efficient Pulse-Shaping. citation:-1
+title:UWB receiver designs based on a gaussian-laplacian noise-plus-MAI model. citation:-1
+title:On MIMO beamforming systems using quantized feedback. citation:-1
+title:Data-Aided and Non-Data-Aided Estimation of Signal Amplitude for Binary Data Communication in Laplace Noise. citation:-1
+title:A Novel Approximation of NDA ML Estimation for UWB Channels. citation:-1
+title:Asymptotic error analysis of diversity schemes on arbitrarily correlated rayleigh channels. citation:-1
+title:Fixed relaying versus selective relaying in multi-hop diversity transmission systems. citation:-1
+title:Limits to Performance of Optimum Combining with Dense Multiple Correlated Antennas. citation:-1
+title:A Low Complexity Receiver for Noncoherent Amplify-and-Forward Cooperative Systems. citation:-1
+title:Approximate performance analysis of coded OSTBC-OFDM systems over arbitrary correlated generalized ricean fading channels. citation:-1
+title:On the integrated cross-noise term in correlation detectors. citation:-1
+title:Interference analysis of uwb systems for IEEE channel models using first- and second-order moments. citation:-1
+title:Maximum likelihood receivers for space-time coded MIMO systems with gaussian estimation errors. citation:-1
+title:Switching rates of dual selection diversity in noisy fading channels. citation:-1
+title:On decorrelation in dual-branch diversity systems. citation:-1
+title:A novel zonal UWB receiver with superior performance. citation:-1
+title:The BER optimal linear rake receiver for signal detection in symmetric alpha-stable noise. citation:-1
+title:Performance Comparison of Non-Data-Aided Symbol Timing-Error Detection for the Raised-Cosine and "Better Than" Raised-Cosine Pulses. citation:-1
+title:Strict suboptimality of selection amplify-and-forward relaying under global channel information. citation:-1
+title:A unified approach to computing error probabilities of diversity combining schemes over correlated fading channels. citation:-1
+title:Performance of collaborative spectrum sensing for cognitive radio in the presence of gaussian channel estimation errors. citation:-1
+title:Generalized receiver selection combining schemes for alamouti MIMO systems with MPSK. citation:-1
+title:New simple closed-form BER expressions for MRC diversity BPSK in correlated Rayleigh fading and CCI. citation:-1
+title:New Representations for the Multivariate Weibull Distribution with Constant Correlation. citation:-1
+title:Unified Theoretical Expressions for the Average Error Rate of Selection Diversity with Arbitrary Coded and Uncoded Modulation in Slow Rayleigh Fading and Their Application to Analytical, Semi-Analytical and Simulation Performance Evaluation. citation:-1
+title:Novel Simple Forms for Multivariate Rayleigh and Rician Distributions with Generalized Correlation. citation:-1
+title:Pilot Symbol Assisted Adaptive Modulation for OFDM Systems with Imperfect Channel State Information. citation:-1
+title:Optimal Outage Efficient Routing in Amplify-and-Forward Multihop Wireless Networks. citation:-1
+title:Novel Switching Schemes for Dual S+N Selection Diversity Combining. citation:-1
+title:ML Estimation of Signal Amplitude in Laplace Noise. citation:-1
+title:A performance comparison of erasure tests with diversity reception for noncoherent M-ary FSK signaling. citation:-1
+title:An Accurate Approximation to the Average Error Probability of Cooperative Diversity in Nakagami-m Fading. citation:-1
+title:New receivers for generalized UWB transmitted reference systems with improved performances. citation:-1
+title:Cross-Layer Design for Multihop Wireless Relaying Networks. citation:-1
+title:BER optimal linear combiner for signal detection in symmetric alpha-stable noise: small values of alpha. citation:-1
+title:Switching rates of two-branch selection diversity in correlated Doppler fading. citation:-1
+title:Maximum Likelihood Based Channel Estimation for Macrocellular OFDM Uplinks in Dispersive Time-Varying Channels. citation:-1
+title:Performance of an AFC Loop in the Presence of a Single Interferer in a Fading Channel. citation:-1
+title:Binary Grassmannian Weightbooks for MIMO Beamforming Systems. citation:-1
+title:Frequency Offset Invariant Multiple Symbol Differential Detection of MPSK. citation:-1
+title:Low Complexity Selection Cooperation Techniques Using Information Accumulation in Dual-Hop Relaying Networks. citation:-1
+title:Precise BER Computation for Binary Data Detection in Bandlimited White Laplace Noise. citation:-1
+title:Exact Closed-Form Solutions for the BEP of Decode-and-Forward Cooperative Systems in Nakagami-m Fading Channels. citation:-1
+title:Direct Sequence and Time-Hopping Sequence Designs for Narrowband Interference Mitigation in Impulse Radio UWB Systems. citation:-1
+title:Novel Representations for the Equicorrelated Multivariate Non-Central Chi-Square Distribution and Applications to MIMO Systems in Correlated Rician Fading. citation:-1
+title:New Representations for the Gaussian Class Multivariate Weibull Distribution with Constant Correlation and Applications. citation:-1
+title:On the average capacity of rate adaptive single-relay selection decode-and-forward dual-hop relaying in Rayleigh fading channels. citation:-1
+title:On the design of linear arrays of fixed length for diversity reception in Rayleigh fading and cochannel interference. citation:-1
+title:A Decentralized Power Allocation Scheme for Amplify-And-Forward Multi-Hop Relaying Systems. citation:-1
+title:Block Coding for Impulsive Laplacian Noise. citation:-1
+title:New Partial Decision Combining Schemes for Spatial Diversity. citation:-1
+title:An Optimal Algorithm for Wideband Spectrum Sensing in Cognitive Radio Systems. citation:-1
+title:Performance of a digital symbol synchronizer in cochannel interference and noise. citation:-1
+title:New analytical probability of error expressions for classes of orthogonal signals in Rayleigh fading. citation:-1
+title:On the Performance of an Automatic Frequency Control Loop in Dissimilar Fading Channels in the Presence of Interference. citation:-1
+title:Editorial "exceedingly well read". citation:-1
+title:The generation of correlated Rayleigh random variates by inverse discrete Fourier transform. citation:-1
+title:A MAP blind bit-rate detector for variable-gain multiple-access systems. citation:-1
+title:Novel Representations for the Bivariate Rician Distribution. citation:-1
+title:On the Decoding of Matrix C in the WiMAX Standard. citation:-1
+title:A Precise Approximation for Performance Evaluation of Amplify-and-Forward Multihop Relaying Systems. citation:-1
+title:Simple Expressions for the SER of Dual MRC in Correlated Nakagami-q (Hoyt) Fading. citation:-1
+title:Novel Simple Representations for Gaussian Class Multivariate Distributions With Generalized Correlation. citation:-1
+title:Power-Optimized Routing with Bandwidth Guarantee in Multihop Relaying Networks. citation:-1
+title:Repetition-Based Non-Coherent Multi-Hop Relaying in Block Rayleigh Fading. citation:-1
+title:Sequential Multichannel Joint Detection Framework with Non-Uniform Channel Sensing Durations for Cognitive Radio Networks. citation:-1
+title:A Time-Hopping Sequence Design for Narrowband Interference Suppression in Impulse Radio UWB Systems. citation:-1
+title:Amplify-and-Forward Multihop Relaying with Adaptive M-QAM in Nakagami-m Fading. citation:-1
+title:Node Switching Rates of Opportunistic Relaying in Rician and Nakagami-m Fading. citation:-1
+title:On the Efficient Implementation of the Multiband Joint Detection Framework for Wideband Spectrum Sensing in Cognitive Radio Networks. citation:-1
+title:Novel Analysis for Performance Evaluation of Energy Detection of Unknown Deterministic Signals Using Dual Diversity. citation:-1
+title:An Extended Limit Theorem for Correlated Lognormal Sums. citation:-1
+title:Symbol error probability of low-order orthogonal signalings in Rayleigh fading with general diversity combining. citation:-1
+title:SER of threshold-based hybrid selection/maximal-ratio combining in equicorrelated Nakagami fading. citation:-1
+title:A simple polynomial approximation to the gaussian Q-function and its application. citation:-1
+title:A family of low-complexity binary linear codes for Bluetooth and BLAST signaling applications. citation:-1
+title:Solutions to Infinite Integrals of Gaussian Q-Function Products and Some Applications. citation:-1
+title:Outage probability of MRC with unequal-power cochannel interferers in correlated Rayleigh fading. citation:-1
+title:Outage and BER of MRC diversity in bandlimited micro-cellular systems with CCI. citation:-1
+title:Closed-Form Expressions for the Exact Symbol Error Probability of 32-Cross-QAM in AWGN and in Slow Nakagami Fading. citation:-1
+title:A Noise Reduction Amplify-and-Forward Relay Protocol for Distributed Spatial Diversity. citation:-1
+title:BER optimization of pilot symbol assisted MRC PSK for slow fading channels. citation:-1
+title:CRLBs for NDA ML estimation of UWB channels. citation:-1
+title:Novel Nakagami-m parameter estimator for noisy channel samples. citation:-1
+title:Precise BER analysis of dual-channel reception of QPSK in Nakagami fading and cochannel interference. citation:-1
+title:NDA estimation of SINR for QAM signals. citation:-1
+title:Optimal 100% Excess Bandwidth Signaling in Cochannel Interference. citation:-1
+title:Sum-of-squares and sum-of-amplitudes antenna selection for correlated alamouti MIMO. citation:-1
+title:Reduced ICI in OFDM systems using the "better than" raised-cosine pulse. citation:-1
+title:Maximum likelihood estimation of local average SNR in Rician fading channels. citation:-1
+title:Exact BER analysis of bandlimited BPSK with EGC and SC diversity in cochannel interference and Nakagami fading. citation:-1
+title:Outage probability of MRC with equi-power cochannel interferers in correlated Rayleigh fading. citation:-1
+title:A simple, intuitive expression for the BER of a jointly optimal single cochannel interferer BPSK receiver. citation:-1
+title:Precise Calculation of the SEP of 128- and 512-Cross-QAM in AWGN. citation:-1
+title:Novel iterative receivers for TR UWB systems. citation:-1
+title:An approximate maximum likelihood estimator for SNR jointly using pilot and data symbols. citation:-1
+title:Performance Analysis of Decode-and-Forward Relaying with Selection Combining. citation:-1
+title:Novel partial decision combining schemes for Rayleigh fading. citation:-1
+title:Multidimensional Binary Repetition Codes. citation:-1
+title:ICI Mitigation in MIMO OFDM Systems. citation:-1
+title:On Jamming Capacity of General Multiuser CDMA Systems. citation:-1
+title:Node Switching Rates of Opportunistic Relaying and Switch-and-Examine Relaying in Rician and Nakagami-m Fading. citation:-1
+title:Semianalytical simulation for evaluation of block-error rates on fading channels. citation:-1
+title:Block differential space-time modulation with decision-feedback detection in Rayleigh fading. citation:-1
+title:Comparison of modulation schemes and rake receiver structures for UWB systems on an IEEE 802.15.3 indoor channel. citation:-1
+title:Error rate analysis of asynchronous multicode DS-CDMA systems. citation:-1
+title:Precise bit error probability analysis of DCT OFDM in the presence of carrier frequency offset on AWGN channels. citation:-1
+title:An analytical solution for the BER of an individually optimal single cochannel interferer BPSK receiver. citation:-1
+title:Error rate of OFDM signals on frequency selective Nakagami-m fading channel. citation:-1
+title:Performance of binary NCFSK with dual-branch S+N selection combining in Rician and Nakagami-m fading. citation:-1
+title:Receiver windowing for reduction of ICI in OFDM systems with carrier frequency offset. citation:-1
+title:BER analysis of BPSK signaling in Ricean-faded cochannel interference. citation:-1
+title:Bit error rate analysis of hybrid selection/maximal-ratio diversity combining with channel estimation error. citation:-1
+title:Improved BER performance in OFDM systems with frequency offset by novel pulse-shaping. citation:-1
+title:Optimum diversity receiver structures for combining with estimation errors. citation:-1
+title:A novel pulse design algorithm for ultra-wideband communications. citation:-1
+title:Error rate of S + N selection combining M-ary NCFSK in Nakagami fading. citation:-1
+title:A new intuitive result for the BEP of a jointly optimal single cochannel interferer BPSK receiver. citation:-1
+title:Reduced complexity peak-to-average power ratio reduction for OFDM by selective time domain filtering. citation:-1
+title:Exact analytical solution for end-to-end SNR of multihop AF relaying systems. citation:-1
+title:CCI mitigation using interference whitening in bandlimited micro-cellular BPSK systems. citation:-1
+title:Diversity ?/4-DQPSK on microcellular interference channels. citation:-1
+title:Comparison of diversity with simple block coding on correlated frequency-selective fading channels. citation:-1
+title:Exact Analysis of Multihop Amplify-and-Forward Relaying Systems over General Fading Links. citation:-1
+title:Exact Analysis of Dual-Hop AF Maximum End-to-End SNR Relay Selection. citation:-1
+title:On the Benefits of Multichannel/Wideband Spectrum Sensing with Non-Uniform Channel Sensing Durations for Cognitive Radio Networks. citation:-1
+title:A lower bound on the mean square error of symbol timing recovery for NRZ rectangular signals. citation:-1
+title:Correction to "Novel Representations for the Bivariate Rician Distribution". citation:-1
+title:The evaluation of error probabilities for low-frequency attenuation channels. citation:-1
+title:Optimization of offset for OQPSK with time limited pulses. citation:-1
+title:Nonparametric Doppler spread estimation for flat fading channels. citation:-1
+title:Receiver selection diversity schemes without channel estimation for alamouti MIMO systems. citation:-1
+title:Threshold-based hybrid selection/maximal-ratio combining in correlated Nakagami fading. citation:-1
+title:Maximum ratio combining with arbitrary correlated generalized Ricean branches. citation:-1
+title:Approximate SER of H-S/MRC in correlated Nakagami fading. citation:-1
+title:Optimization of PSAM for diversity 16-QAM. citation:-1
+title:Outage probability of dual-hop AF opportunistic relaying with directional antennas. citation:-1
+title:New results on maximal ratio combining in Nakagami-m fading channels. citation:-1
+title:Second-order statistics of an improved Jakes' fading simulator. citation:-1
+title:Error rate of BPSK in generalized fading channels with co-channel interference. citation:-1
+title:An investigation of Gaussian tail and Rayleigh tail density functions for importance sampling digital communication system simulation. citation:-1
+title:On the generalized multinomial distribution, optimal multinomial detectors, and generalized weighted partial decision detectors. citation:-1
+title:A composite importance sampling technique for digital communication system simulation. citation:-1
+title:Special Values of the Bivariate Gaussian Distribution. citation:-1
+title:Novel Estimator for the Location Parameter of the Generalized Gaussian Distribution. citation:-1
+title:A new two level differential unitary space-time modulation. citation:-1
+title:Sample rejection for efficient simulation of intersymbol interference channels with MLSD. citation:-1
+title:A new differential monomial space-time code. citation:-1
+title:Interference whitening receivers for bandlimited DS-CDMA systems in Nakagami fading. citation:-1
+title:Accurate BER analysis of bandlimited DS-CDMA system with EGC and SC diversity over Nakagami fading channels. citation:-1
+title:A closed-form result for the average pairwise error probability of t = 2, r = 1 differential cyclic unitary space-time modulation. citation:-1
+title:Space-time constellations matched to the receiver. citation:-1
+title:Performance analysis of a jointly optimal BPSK receiver in cochannel interference. citation:-1
+title:New Decoding Algorithms for Matrix C in the 802.16e WiMAX Standard. citation:-1
+title:Exact Analytical Solution for Dual-Hop and Opportunistic Dual-Hop AF Relaying Systems. citation:-1
+title:Towards Improved QoS in 802.16e Mobile WiMAX. citation:-1
+title:Performance Analysis of Opportunistic Relaying in a Poisson Field of Amplify-and-Forward Relays. citation:-1
+title:A New Solution for the SEP of MPSK. citation:-1
+title:Bounds to the error probability of hybrid diversity two-dimensional signaling. citation:-1
+title:Effects of IEEE 802.11a narrowband interference on a UWB communication system. citation:-1
+title:Accurate evaluation of multiple access performance in time-hopping UWB systems. citation:-1
+title:A Study of Generalized Receiver Selection Combining Schemes for Alamouti MIMO Systems with MPSK. citation:-1
+title:Average level crossing rate and average fade duration of MRC and EGC diversity. citation:-1
+title:Performance analysis of bandlimited DS-CDMA systems in Nakagami fading. citation:-1
+title:A simple efficient procedure for generating bivariate Nakagami-m fading samples. citation:-1
+title:Performance of Selection Diversity MFSK in the Presence of Estimation Errors. citation:-1
+title:Accurate Closed-Form Approximations for the Error Rate and Outage of Equal Gain Combining Diversity in Nakagami Fading Channels. citation:-1
+title:Average error rate evaluation of digital modulations in slow fading by Prony approximation. citation:-1
+title:BER of A Bandlimited Single-Interferer Maximum-Likelihood BPSK Receiver With Carrier Phase Error. citation:-1
+title:Exact BER analysis of a ?/4-DQPSK OFDM system in the presence of carrier frequency offset over frequency selective fast Rayleigh fading channels. citation:-1
+title:Asymptotic Error Rate Analysis for Dual-Branch Diversity Combining on Correlated Rician Channels. citation:-1
+title:A Method for Precise Bit-Error Probability Calculation of Asynchronous Multicode DS-CDMA Systems in Rayleigh Fading. citation:-1
+title:On the Connectivity and Average Delay of Mobile Ad Hoc Networks. citation:-1
+title:Antijamming Capacity and Performance Analysis of Multiple Access Spread Spectrum Systems in AWGN and Fading Environments. citation:-1
+title:Optimal diversity combining based on noisy channel estimation. citation:-1
+title:Simplified bit error rate analysis of PAPM-UWB with MRC and EGC in lognormal fading channel. citation:-1
+title:Efficient simulation of multidimensional communication systems by sample rejection. citation:-1
+title:Improved Pilot-Assisted Prediction of Unknown Time-Selective Rayleigh Channels. citation:-1
+title:Symbol error rate performance of M-ary NCFSK with S + N selection combining in Rician fading. citation:-1
+title:Multiple symbol differential detection of MPSK in the presence of frequency offset. citation:-1
+title:Effects of channel estimation errors on absolute threshold-generalized selection diversity combining. citation:-1
+title:Estimators for K Factor and Local Average SNR Using Noisy Correlated Samples. citation:-1
+title:Design of wide-sense stationary sum-of-sinusoids fading channel simulators. citation:-1

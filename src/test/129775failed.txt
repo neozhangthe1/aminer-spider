@@ -1,0 +1,105 @@
+title:Decomposition Techniques for Efficient ROBDD Construction. citation:-1
+title:Guest Editors' Introduction: Trends and Directions in Microelectronics. citation:-1
+title:VIS. citation:-1
+title:Models of IP's for Automotive Virtual Integration Platforms. citation:-1
+title:New Front-End and Line Justification Algorithm for Automatic Test Generation. citation:-1
+title:Espresso-Signature: A New Exact Minimizer for Logic Functions. citation:-1
+title:DA Algorithms in Non-EDA Applications: How Universal Are Our Techniques? (Panel). citation:-1
+title:Synthesis of software programs for embedded control applications. citation:-1
+title:Highlights of VLSI Research at Berkeley. citation:-1
+title:Use of Sensitivities and Generalized Substrate Models in Mixed-Signal IC Design. citation:-1
+title:Platform-Based and Derivative Design. citation:-1
+title:Cube-packing and two-level minimization. citation:-1
+title:Panel Session - The Future Car: Technology, Methods and Tools. citation:-1
+title:Automatic Synthesis of Interfaces Between Incompatible Protocols. citation:-1
+title:Remembering Richard [Obituary, Richard A.Newton]. citation:-1
+title:An Enhanced POLIS Framework for Fast Exploration and Implementation of I/O Subsystems on CSoC Platforms. citation:-1
+title:Fresh air: the emerging landscape of design for networked embedded systems. citation:-1
+title:Automotive networks: are new busses and gateways the answer or just another challenge? citation:-1
+title:Exact Minimization of Binary Decision Diagrams Using Implicit Techniques. citation:-1
+title:Equisolvability of Series vs. Controller's Topology in Synchronous Language Equations. citation:-1
+title:Support vector machines for analog circuit performance representation. citation:-1
+title:Modeling and Early Performance Estimation for Network Processor Applications. citation:-1
+title:Editor's Foreword. citation:-1
+title:Composing hybrid systems. citation:-1
+title:Chain Closure: A Problem in Molecular CAD. citation:-1
+title:VICTOR : A Fast VLSI Testability Analysis Program. citation:-1
+title:A structural approach to quasi-static schedulability analysis of communicating concurrent programs. citation:-1
+title:Comments on 'Simulation of nonlinear circuits in the frequency domain' [with reply]. citation:-1
+title:Learning Concepts by Synthesizing Minimal Threshold Gate Networks. citation:-1
+title:Task response time optimization using cost-based operation motion. citation:-1
+title:Grand challenges in embedded systems. citation:-1
+title:Nyquist data converter testing and yield analysis using behavioral simulation. citation:-1
+title:Time-domain non-Monte Carlo noise simulation for nonlinear dynamic circuits with arbitrary excitations. citation:-1
+title:A case study in computer-aided codesign of embedded controllers. citation:-1
+title:Modeling digital substrate noise injection in mixed-signal IC's. citation:-1
+title:Functional clock schedule optimization. citation:-1
+title:Circuit structure relations to redundancy and delay. citation:-1
+title:Implicit computation of compatible sets for state minimization of ISFSMs. citation:-1
+title:A new algorithm for the largest compositionally progressive solution of synchronous language equations. citation:-1
+title:Comparing models of computation. citation:-1
+title:Correction to "Multiple Constrained Folding of Programmable Logic Arrays: Theory and Applications". citation:-1
+title:A massively parallel algorithm for three-dimensional device simulation. citation:-1
+title:HW and SW in Embedded System Design: Loveboat, Shipwreck, or Ships Passing in the Night. citation:-1
+title:Correction to "Optimal State Assignment for Finite State Machines". citation:-1
+title:Testability Solutions: Who Really Wants Them? (Panel Abstract). citation:-1
+title:Testing Strategies for the 1990's (Panel Abstract). citation:-1
+title:Reasoning about the Trends and Challenges of Engineering Design Automation. citation:-1
+title:TimberWolf3.2: a new standard cell placement and global routing package. citation:-1
+title:Electronics: The New Differential in the Automotive Industry. citation:-1
+title:Definition of Task Allocation and Priority Assignment in Hard Real-Time Distributed Systems. citation:-1
+title:Hybrid Systems Applications: An Oxymoron? citation:-1
+title:Sequential Multi-Valued Network Simplification using Redundancy Removal. citation:-1
+title:Formal Verification of Combinational Circuit. citation:-1
+title:Models of Computation and Simulation of Hybrid Systems. citation:-1
+title:Floor planning systems (panel session). citation:-1
+title:PROTEUS : A Logic Verification System for Combinational Circuits. citation:-1
+title:Synthesis of Software Programs for Embedded Control Applications. citation:-1
+title:Dynamic Reordering in a Breadth-First Manipulation Based BDD Package: Challenges and Solutions. citation:-1
+title:Physical Architectures of Automotive Systems. citation:-1
+title:The importance of innovation in the economy of advanced countries. citation:-1
+title:Approximating Behaviors in Embedded System Design. citation:-1
+title:DAC Turns 40! citation:-1
+title:Time-domain non-Monte Carlo noise simulation for nonlinear dynamic circuits with arbitrary excitations. citation:-1
+title:Automotive electronics: steady growth for years to come! citation:-1
+title:Scheduling Reactive Task Graphs in Embedded Control Systems. citation:-1
+title:Panel: Complex System Verification: The Challenge Ahead. citation:-1
+title:Modeling of Substrate Noise Injected by Digital Libraries. citation:-1
+title:Analysis of the quantization noise effects on the SQNR behaviour in analog to digital conversion. citation:-1
+title:Solution of Parallel Language Equations for Logic Synthesis. citation:-1
+title:Uniprocessor Scheduling Under Precedence Constraints. citation:-1
+title:Implementing Synchronous Models on Loosely Time Triggered Architectures. citation:-1
+title:Using Conduction Modes Basis Functions for Efficient Electromagnetic Analysis of On-Chip and Off-Chip Interconnect. citation:-1
+title:Design Methods and Tools for Application Specific Integrated Circuits. citation:-1
+title:An Exact Input Encoding Algorithm for BDDs Representing FSMs. citation:-1
+title:Equisolvability of Series vs. Controller's Topology in Synchronous Language Equations. citation:-1
+title:The State of ESL Design [Roundtable]. citation:-1
+title:Embedded systems education (panel abstract). citation:-1
+title:ESPRESSO-SIGNATURE: a new exact minimizer for logic functions. citation:-1
+title:Languages and Tools for Hybrid Systems Design. citation:-1
+title:Embedded Software Design for Real-Time Applications. citation:-1
+title:Linear Programming for Optimum Hazard Elimination in Asynchronous Circuits. citation:-1
+title:Explicit and implicit algorithms for binate covering problems. citation:-1
+title:Analysis of DSP-Kernel Software by Implicit Cache Simulation. citation:-1
+title:Optimizing the Implementation of Communication in Synchronous Reactive Models. citation:-1
+title:Challenges and Solutions in the Development of Automotive Systems. citation:-1
+title:Some Results on the Complexity of Boolean Functions for Table Look Up Architectures. citation:-1
+title:Optimizing End-to-End Latencies by Adaptation of the Activation Events in Distributed Automotive Systems. citation:-1
+title:Education panel: designing the always connected car of the future. citation:-1
+title:All things are connected. citation:-1
+title:Embedded Software, Second International Conference, EMSOFT 2002, Grenoble, France, October 7-9, 2002, Proceedings citation:-1
+title:Iterative Node Deployment in an Unknown Environment. citation:-1
+title:HILAC: A framework for Hardware In the Loop simulation and multi-platform Automatic Code Generation of WSN Applications. citation:-1
+title:Optimal synthesis of communication procedures in real-time synchronous reactive models. citation:-1
+title:Stochastic Analysis of Distributed Real-time Automotive Systems. citation:-1
+title:A Design Flow for Building Automation and Control Systems. citation:-1
+title:A Platform-Based Methodology for System-Level Mixed-Signal Design. citation:-1
+title:Are logic synthesis tools robust? citation:-1
+title:A case study in computer-aided co-design of embedded controllers. citation:-1
+title:Robustness in analog systems: Design techniques, methodologies and tools. citation:-1
+title:Development of Building Automation and Control Systems. citation:-1
+title:EDA meets biology! The bumpy road ahead [Perscetives]. citation:-1
+title:Total and Peak Energy Consumption Minimization of Building HVAC Systems Using Model Predictive Control. citation:-1
+title:An Industrial System Engineering Process Integrating Model Driven Architecture and Model Based Design. citation:-1
+title:Optimization of task allocation and priority assignment in hard real-time distributed systems. citation:-1
+title:Adaptive sleep discipline for energy conservation and robustness in dense sensor networks. citation:-1

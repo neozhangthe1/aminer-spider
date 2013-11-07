@@ -1,0 +1,378 @@
+title:Possibilistic Logic: From nonmonotonicity to Logic Programming. citation:-1
+title:Bridging Logical, Comparative, and Graphical Possibilistic Representation Frameworks. citation:-1
+title:Formal handling of threats and rewards in a negotiation dialogue. citation:-1
+title:A Local Approach to Reasoning under Incosistency in Stratified Knowledge Bases. citation:-1
+title:Fusion: General concepts and characteristics. citation:-1
+title:Valid or Complete Information in Databases - A Possibility Theory-Based Analysis. citation:-1
+title:A General Framework for Revising Belief Bases Using Qualitative Jeffrey's Rule. citation:-1
+title:Representing preferences in the possibilistic setting. citation:-1
+title:Transitive Observation-Based Causation, Saliency, and the Markov Condition. citation:-1
+title:On the Problems of Representation and Propagation of Uncertainty in Expert Systems. citation:-1
+title:Using Fuzzy Sets in Database Systems: Why and How? citation:-1
+title:Bipolarity in Flexible Querying. citation:-1
+title:A Comparative Study of Six Formal Models of Causal Ascription. citation:-1
+title:Evaluating Trustworthiness from Past Performances: Interval-Based Approaches. citation:-1
+title:Approximate and Commonsense Reasoning: From Theory to Practice. citation:-1
+title:Possibility Theory. citation:-1
+title:Similarity-based Consequence Relations. citation:-1
+title:Qualitative decision theory: from savage's axioms to nonmonotonic reasoning. citation:-1
+title:An Ordinal View of Independence with Application to Plausible Reasoning. citation:-1
+title:Fusing Uncertain Structured Spatial Information. citation:-1
+title:Assessing the value of a candidate: Comparing belief function and possibility theories. citation:-1
+title:Null Values Revisited in Prospect of Data Integration. citation:-1
+title:Modeling uncertain and vague knowledge in possibility and evidence theories. citation:-1
+title:An Argumentation-Based Approach to Multiple Criteria Decision. citation:-1
+title:Decision-Making under Ordinal Preferences and Comparative Uncertainty. citation:-1
+title:Extrapolation of fuzzy values from incomplete data bases. citation:-1
+title:A characterization of generalized concordance rules in multicriteria decision making. citation:-1
+title:Comparative uncertainty, belief functions and accepted beliefs. citation:-1
+title:Imprecise Quantifiers and Conditional Probabilities. citation:-1
+title:Numerical representations of acceptance. citation:-1
+title:Towards a formal framework for the search of a consensus between autonomous agents. citation:-1
+title:An Information-Based Discussion of Vagueness. citation:-1
+title:Updating with belief functions, ordinal conditional functions and possibility measures. citation:-1
+title:A fuzzy relation-based extension of Reggia's relational model for diagnosis handling uncertain and incomplete information. citation:-1
+title:Belief Revision with Uncertain Inputs in the Possibilistic Setting. citation:-1
+title:A Symbolic Approach to Reasoning with Linguistic Quantifiers. citation:-1
+title:Qualitative Decision Theory with Sugeno Integrals. citation:-1
+title:Spatial Information Fusion: Coping with Uncertainty in Conceptual Structures. citation:-1
+title:Relating decision under uncertainty and multicriteria decision making models. citation:-1
+title:Using the transferable belief model and a qualitative possibility theory approach on an illustrative example: The assessment of the value of a candidate. citation:-1
+title:A new perspective on reasoning with fuzzy rules. citation:-1
+title:A systematic approach to the assessment of fuzzy association rules. citation:-1
+title:Fuzzy Modelling of Case-Based Reasoning and Decision. citation:-1
+title:Nonmonotonic Reasoning, Conditional Objects and Possibility Theory. citation:-1
+title:Qualitative pattern matching with linguistic terms. citation:-1
+title:Using Arguments for Making Decisions: A Possibilistic Logic Approach. citation:-1
+title:Implicative and conjunctive fuzzy rules - A tool for reasoning from knowledge and examples. citation:-1
+title:Enriching Relational Learning with Fuzzy Predicates. citation:-1
+title:Graphical readings of possibilistic logic bases. citation:-1
+title:Elicitating Sugeno Integrals: Methodology and a Case Study. citation:-1
+title:Logical handling of uncertain, ontology-based, spatial information. citation:-1
+title:Categorizing classes of signals by means of fuzzy gradual rules. citation:-1
+title:A two-layer fuzzy pattern matching procedure for the evaluation of conditions involving vague quantifiers. citation:-1
+title:Handling Analogical Proportions in Classical Logic and Fuzzy Logics Settings. citation:-1
+title:On Fuzzy Association Rules Bsed on Fuzzy Cardinalities. citation:-1
+title:Possibilistic Abduction. citation:-1
+title:Fuzzy Functional Dependencies and Redundancy Elimination. citation:-1
+title:Learning First Order Fuzzy Logic Rules. citation:-1
+title:Updating, Transition Constraints and Possibilistic Markov Chains. citation:-1
+title:Possibility theory. citation:-1
+title:Knowledge-Driven versus Data-Driven Logics. citation:-1
+title:Operations in a Fuzzy-Valued Logic citation:-1
+title:Bipolar Representations in Reasoning, Knowledge Extraction and Decision Processes. citation:-1
+title:Improving inductive logic programming by using simulated annealing. citation:-1
+title:Practical model-based diagnosis with qualitative possibilistic uncertainty. citation:-1
+title:Representation of soft constraints and fuzzy attribute values by means of possibility distributions in databases. citation:-1
+title:Reasoning Under Inconsistency Based on Implicitly-Specified Partial Qualitative Probability Relations: A Unified Framework. citation:-1
+title:Possibilistic and Standard Probabilistic Semantics of Conditional Knowledge. citation:-1
+title:A Qualitative Bipolar Argumentative View of Trust. citation:-1
+title:Book Review: "Handbook of Fuzzy Computation" by Enrique H. Ruspini, Piero P. Bonissone, Witold Pedrycz (Eds.). citation:-1
+title:Terminological difficulties in fuzzy set theory - The case of "Intuitionistic Fuzzy Sets". citation:-1
+title:Note from the Editors-in-Chief. citation:-1
+title:Refining Aggregation Functions for Improving Document Ranking in Information Retrieval. citation:-1
+title:Editorial. citation:-1
+title:A Synthetic View of Approximate Reasoning Techniques. citation:-1
+title:On the use of aggregation operations in information fusion processes. citation:-1
+title:Book Review: "Fuzzy sets and fuzzy information-granulation theory: key selected papers by Lotfi A. Zadeh" by Da Ruan and Chongfu Huang (Eds.). citation:-1
+title:Possibilistic Handling of Uncertain Default Rules with Applications to Persistence Modeling and Fuzzy Default Reasoning. citation:-1
+title:Possibilistic logic: a retrospective and prospective view . citation:-1
+title:Fuzzy Logic Techniques in Multimedia Databases. citation:-1
+title:Recent Literature. citation:-1
+title:Elicitation of Sugeno Integrals: A Version Space Learning Perspective. citation:-1
+title:Interval-Valued Fuzzy Formal Concept Analysis. citation:-1
+title:Towards a Possibilistic Logic Handling of Preferences. citation:-1
+title:How to Infer from Inconsisent Beliefs without Revising? citation:-1
+title:Encoding formulas with partially constrained weights in a possibilistic-like many-sorted propositional logic. citation:-1
+title:A Similarity and Fuzzy Logic-Based Approach to Cerebral Categorisation. citation:-1
+title:A New Perspective on Reasoning with Fuzzy Rules. citation:-1
+title:Soft computing, fuzzy logic, and artificial intelligence. citation:-1
+title:An ordinal approach to the processing of fuzzy queries with flexible quantifiers. citation:-1
+title:Bipolar Possibilistic Representations. citation:-1
+title:Argumentative inference in uncertain and inconsistent knowledge bases. citation:-1
+title:Coping with the Limitations of Rational Inference in the Framework of Possibility Theory. citation:-1
+title:Ordinal and absolute representations of positive information in possibilistic logic. citation:-1
+title:Possibility theory in information fusion. citation:-1
+title:Comments on An inquiry into computer understanding. citation:-1
+title:Dealing with Multi-Source Information in Possibilistic Logic. citation:-1
+title:On fuzzy syllogisms. citation:-1
+title:Measuring and updating information. citation:-1
+title:Formalizing Practical Reasoning Under Uncertainty: An Argumentation-Based Approach. citation:-1
+title:A Possibilistic Assumption-Based Truth Maintenance System with Uncertain Justifications, and its Application to Belief Revision. citation:-1
+title:Bipolar possibility theory in preference modeling: Representation, fusion and optimal solutions. citation:-1
+title:Weighted minimum and maximum operations in fuzzy set theory. citation:-1
+title:Testing Analogical Proportions with Google using Kolmogorov Information Theory. citation:-1
+title:On the representation of fuzzy rules in terms of crisp rules. citation:-1
+title:Gradual inference rules in approximate reasoning. citation:-1
+title:Possibilistic and Standard Probabilistic Semantics of Conditional Knowledge Bases. citation:-1
+title:Upper and lower images of a fuzzy set induced by a fuzzy relation: Applications to fuzzy inference and diagnosis. citation:-1
+title:Reasoning with Inconsistent Information in a Possibilistic Setting. citation:-1
+title:A Discussion of Indices for the Evaluation of Fuzzy Associations in Relational Databases. citation:-1
+title:Making Fuzzy Absoulute and Fuzzy Relative Orders of Magnitude Consistent. citation:-1
+title:A Note on Quality Measures for Fuzzy Asscociation Rules. citation:-1
+title:A fuzzy set approach to concept-based information retrieval. citation:-1
+title:In Search of a Modal System for Possibility Theory. citation:-1
+title:Possibilistic logic bases and possibilistic graphs. citation:-1
+title:Towards a Formal Framework for the Search of a Consensus Between Autonomous Agents. citation:-1
+title:Formal Handling of Threats and Rewards in a Negotiation Dialogue. citation:-1
+title:Quasi-Possibilistic Logic and its Measures of Information and Conflict. citation:-1
+title:Timed possibilistic logic. citation:-1
+title:Using Possibilistic Logic for Modeling Qualitative Decision: ATMS-based Algorithms. citation:-1
+title:Coping with exceptions in multiclass ILP problems using possibilistic logic. citation:-1
+title:Constraint Propagation with Imprecise Conditional Probabilities. citation:-1
+title:Imprecise Modelling Using Gradual Rules and Its Application to the Classification of Time Series. citation:-1
+title:Bipolarity in Possibilistic Logic and Fuzzy Rules. citation:-1
+title:An overview of the asymmetric bipolar representation of positive and negative information in possibility theory. citation:-1
+title:What Does Fuzzy Logic Bring to AI? citation:-1
+title:A Possibility-Theoretic View of Formal Concept Analysis. citation:-1
+title:Updating of a Possibilistic Knowledge Base by Crisp or Fuzzy Transition Rules. citation:-1
+title:An Information Retrieval Driven by Ontology: from Query to Document Expansion. citation:-1
+title:A fuzzy constraint satisfaction problem in the wine industry. citation:-1
+title:Imprecise specification of ill-known functions using gradual rules. citation:-1
+title:Case-Based Reasoning: A Fuzzy Approach. citation:-1
+title:Theorem Proving Under Uncertainty - A Possibility Theory-based Approach. citation:-1
+title:Qualitative Relevance and Independence: A Roadmap. citation:-1
+title:Approximate Reasoning in a Rule-Based Expert System using Possibility Theory: A Case Study. citation:-1
+title:The Place of Fuzzy Logic in AI. citation:-1
+title:Automated Reasoning Using Possibilistic Logic: Semantics, Belief Revision, and Variable Certainty Weights. citation:-1
+title:Towards Possibilistic Decision Theory. citation:-1
+title:Fuzzy Logic Techniques in Multimedia Database Querying: A Preliminary Investigation of the Potentials. citation:-1
+title:Possibilistic Logic, Preferential Models, Non-monotonicity and Related Issues. citation:-1
+title:Measure-Free Conditioning, Probability and Non-Monotonic Reasoning. citation:-1
+title:Combination and Propagation of Uncertainty with Belief Functions - A Reexamination. citation:-1
+title:Handling Uncertainty, Context, Vague Predicates, and Partial Inconsistency in Possibilistic Logic. citation:-1
+title:Possibility Theory, Belief Revision and Nonmonotonic Logic. citation:-1
+title:Belief Revision and Updates in Numerical Formalisms: An Overview, with new Results for the Possibilistic Framework. citation:-1
+title:Basic Issues on Fuzzy Rules and Their Application to Fuzzy Control. citation:-1
+title:About Flexible Matching and its Use in Analogical Reasoning. citation:-1
+title:Twofold Fuzzy Sets in Single and Multiple Fault Diagnosis, Using Information About Normal Values. citation:-1
+title:Toward Search Methods with Imprecise Estimates. citation:-1
+title:Online Diagnosis of Engine Dyno Test Benches: A Possibilistic Approach. citation:-1
+title:Flexible Control of Case-Based Prediction in the Framework of Possibility Theory. citation:-1
+title:Interval-valued Fuzzy Sets, Possibility Theory and Imprecise Probability. citation:-1
+title:A logical approach to interpolation based on similarity relations. citation:-1
+title:A synthetic view of belief revision with uncertain inputs in the framework of possibility theory. citation:-1
+title:Adjusting the Core and/or the Support of a Fuzzy Set - A New Approach to Fuzzy Modifiers. citation:-1
+title:Evidence, knowledge, and belief functions. citation:-1
+title:Consonant approximations of belief functions. citation:-1
+title:The logical view of conditioning and its application to possibility and evidence theories. citation:-1
+title:Resolution principles in possibilistic logic. citation:-1
+title:Ranking Alternatives on the Basis of Generic Constraints and Examples - A Possibilistic Approach. citation:-1
+title:On incomplete conjunctive information. citation:-1
+title:On the combination of uncertain or imprecise pieces of information in rule-based systems--A discussion in the framework of possibility theory. citation:-1
+title:In Memoriam: Philippe Smets (1938-2005). citation:-1
+title:Advances in Qualitative Decision Theory: Refined Rankings. citation:-1
+title:Bipolar version space learning. citation:-1
+title:Toward Multiple-agent Extensions of Possibilistic Logic. citation:-1
+title:A General Framework for Imprecise Regression. citation:-1
+title:Fuzzy interpolation and level 2 gradual rules. citation:-1
+title:Logique possibiliste et fusion d'informations. citation:-1
+title:Possibilistic Merging and Distance-Based Fusion of Propositional Information. citation:-1
+title:Modeling positive and negative information in possibility theory. citation:-1
+title:Can We Enforce Full Compositionality in Uncertainty Calculi? citation:-1
+title:Logical Representation and Computation of Optimal Decisions in a Qualitative Setting. citation:-1
+title:An introduction to bipolar representations of information and preference. citation:-1
+title:Foreword. citation:-1
+title:A Formal General Setting for Dialogue Protocols. citation:-1
+title:Flexible Queries in Relational Databases - The Example of the Division Operator. citation:-1
+title:Acceptance, Conditionals, and Belief Revision. citation:-1
+title:Fuzziness and Uncertainty in Temporal Reasoning. citation:-1
+title:Making Decision in a Qualitative Setting: from Decision under Uncertaintly to Case-based Decision. citation:-1
+title:Learning fuzzy rules with their implication operators. citation:-1
+title:Non-Standard Theories of Uncertainty in Knowledge Representation and Reasoning. citation:-1
+title:Conditional Objects and Non-Monontonic Reasoning. citation:-1
+title:Conditional Objects as Nonmonotonic Consequence Relations: Main Results. citation:-1
+title:A Possibilistic Logic Modeling of Autonomous Agents Negotiation. citation:-1
+title:On the transformation between possibilistic logic bases and possibilistic causal networks. citation:-1
+title:Qualitative evaluation of decisions in an argumentative manner - A general discussion in a unified setting. citation:-1
+title:Bipolar Representation and Fusion of Preferences on the Possibilistic Logic framework. citation:-1
+title:The Logical Handling of Threats, Rewards, Tips, and Warnings. citation:-1
+title:The development of a medical expert system and the treatment of imprecision in the framework of possibility theory. citation:-1
+title:Qualitative Reasoning with Imprecise Probabilities. citation:-1
+title:Introducing possibilistic logic in ILP for dealing with exceptions. citation:-1
+title:Improving Document Ranking in Information Retrieval Using Ordered Weighted Aggregation and Leximin Refinement. citation:-1
+title:Representing Default Rules in Possibilistic Logic. citation:-1
+title:A General Approach for Inconsistency Handling and Merging Information in Prioritized Knowledge Bases. citation:-1
+title:Lipski's approach to incomplete information databases restated and generalized in the setting of Zadeh's possibility theory. citation:-1
+title:Version Space Learning for Possibilistic Hypotheses. citation:-1
+title:Philippe Smets (1938-2005). citation:-1
+title:A Practical Approach to Fusing Prioritized Knowledge Bases. citation:-1
+title:Default Reasoning and Possibility Theory. citation:-1
+title:Fuzzy set and possibility theory-based methods in artificial intelligence. citation:-1
+title:Reaching Agreement Through Argumentation: A Possibilistic Approach. citation:-1
+title:Independence in qualitative uncertainty frameworks. citation:-1
+title:A Tentative Comparison of Numerical Approximate Reasoning Methodologies. citation:-1
+title:Relaxing Ceteris Paribus Preferences with Partially Ordered Priorities. citation:-1
+title:Analogical proportions: another logical view. citation:-1
+title:Generation and evaluation of different types of arguments in negotiation. citation:-1
+title:How Dirty Is Your Relational Database? An Axiomatic Approach. citation:-1
+title:Making Sense of a Sequence of Events: A Psychologically Supported AI Implementation. citation:-1
+title:A Fuzzy Approach to Flexible Case-based Querying: Methodology and Experimentation. citation:-1
+title:Interventions in Possibilistic Logic. citation:-1
+title:A Model Based on Possibilistic Certainty Levels for Incomplete Databases. citation:-1
+title:On the representation, measurement, and discovery of fuzzy associations. citation:-1
+title:Null values in fuzzy databases. citation:-1
+title:Extensions of the fuzzy pattern matching approach to diagnosis. citation:-1
+title:Refining aggregation operations in finite ordinal scales. citation:-1
+title:Handling uncertainty and defeasibility in a possibilistic logic setting. citation:-1
+title:Mastering the Processing of Preferences by Using Symbolic Priorities in Possibilistic Logic. citation:-1
+title:A Theoretical Framework for Possibilistic Independence in a Weakly Ordered Setting. citation:-1
+title:Possibility Theory and Formal Concept Analysis in Information Systems. citation:-1
+title:Reasoning in Inconsistent Stratified Knowledge Bases. citation:-1
+title:Gradual elements in a fuzzy set. citation:-1
+title:SimBa: A Fuzzy Similarity-Based Modelling Framework for Large-Scale Cerebral Networks. citation:-1
+title:A practical approach to revising prioritized knowledge bases. citation:-1
+title:Application of possibility and necessity measures to documentary information retrieval. citation:-1
+title:Improving Expressivity of Inductive Logic Programming by Learning Different Kinds of Fuzzy Rules. citation:-1
+title:An Introduction to the Fuzzy Set and Possibility Theory-Based Treatment of Flexible Queries and Uncertain or Imprecise Databases. citation:-1
+title:Some Syntactic Approaches to the Handling of Inconsistent Knowledge Bases: A Comparative Study Part 1: The Flat Case. citation:-1
+title:Explaining Qualitative Decision under Uncertainty by Argumentation. citation:-1
+title:A Practical Approach to Revising Prioritized Knowledge Bases. citation:-1
+title:Responses to Elkan (Didier Dubois, Henri Prade, Philippe Smets). citation:-1
+title:A Big-Stepped Probability Approach for Discovering Default Rules. citation:-1
+title:A principled analysis of merging operations in possibilistic logic. citation:-1
+title:Possibilistic Inductive Logic Programming. citation:-1
+title:Fuzzy methods for case-based recommendation and decision support. citation:-1
+title:On the Possibilistic Deceision Model: From Decesion under Uncertainty to Case-Based Decesion. citation:-1
+title:A Logic of Graded Possibility and Certainty Coping with Partial Inconsistency. citation:-1
+title:The Use of the Discrete Sugeno Integral in Decision-Making: A Survey. citation:-1
+title:Book Review: "Fuzzy Sets and Fuzzy Logic Theory and Applications", by George J. Klir, Bo Yuan. citation:-1
+title:Exception-Tolerant Reasoning and Decision under Uncertainty Using Qualitative Possibility Theory. citation:-1
+title:Towards Possibilistic Logic Programming. citation:-1
+title:On the Induction of Different Kinds of First-Order Fuzzy Rules. citation:-1
+title:Ordinal and Probabilistic Representations of Acceptance. citation:-1
+title:Uncertainty Handling and Fuzzy Logic Control in Navigation Problems. citation:-1
+title:Flexibility and Fuzzy Case-Based Evaluation in Querying: An Illustration in an Experimental Setting. citation:-1
+title:Inference in Possibilistic Hypergraphs. citation:-1
+title:Online Possibilistic Diagnosis Based on Expert Knowledge for Engine Dyno Test Benches. citation:-1
+title:A Probabilistic Approach to Ordering Formulas in a Possibilistic Knowledge Base. citation:-1
+title:DRUMS: Defeasible Reasoning and Uncertainty Management Systems. citation:-1
+title:Merging Conflicting Propositional Knowledge by Similarity. citation:-1
+title:Practical Handling of Exception-Tainted Rules and Independence Information in Possibilistic Logic. citation:-1
+title:Towards a Possibilistic Logic Handling of Preferences. citation:-1
+title:Compiling Possibilistic Knowledge Bases. citation:-1
+title:Possibilistic logic representation of preferences: relating prioritized goals and satisfaction levels expressions. citation:-1
+title:Encoding Information Fusion in Possibilistic Logic: A General Framework for Rational Syntactic Merging. citation:-1
+title:Expressing Independence in a Possibilistic Framework and its Application to Default Reasoning. citation:-1
+title:Kalman-like Filtering in a possibilistic Setting. citation:-1
+title:Assessing the Value of Candidate (A Qualitative Possibilistic Approach). citation:-1
+title:A Brief Overview of Possibilistic Logic. citation:-1
+title:New semantics for quantitative possibility theory. citation:-1
+title:Focusing vs. Belief Revision: A Fundamental Distinction When Dealing with Generic Knowledge. citation:-1
+title:Une approche de représentation de l'information en RI basée sur les sousarbres. citation:-1
+title:New Semantics for Quantitative Possibility Theory. citation:-1
+title:"Not Impossible" vs. "Guaranteed Possible" in Fusion and Revision. citation:-1
+title:Update Postulates without Inertia. citation:-1
+title:Fuzzy Clustering for Finding Fuzzy Partitions of Many-Valued Attribute Domains in a Concept Analysis Perspective. citation:-1
+title:The Possibilistic Approach to the Handling of Imprecison in Database Systems. citation:-1
+title:The principle of minimum specificity as a basis for evidential reasoning. citation:-1
+title:Conditioning in Possibility and Evidence Theories - A Logical Viewpoint. citation:-1
+title:Predicting causality ascriptions from background knowledge: model and experimental validation. citation:-1
+title:Robert Féron: A Pioneer in Soft Methods for Probability and Statistics. citation:-1
+title:Database Preferences Queries - A Possibilistic Logic Approach with Symbolic Priorities. citation:-1
+title:Using arguments for making and explaining decisions. citation:-1
+title:Fuzzy Sets and Possibility Theory: Some Applications to Inference and Decision Processes. citation:-1
+title:A Simulated Annealing Framework for ILP. citation:-1
+title:A definition of subjective possibility. citation:-1
+title:A Bipolar Possibilistic Representation of Knowledge and Preferences and Its Applications. citation:-1
+title:Handling threats, rewards, and explanatory arguments in a unified setting. citation:-1
+title:Rank-Ordering Documents According to Their Relevance in Information Retrieval Using Refinements of Ordered-Weighted Aggregations. citation:-1
+title:Background Default Knowledge and Causality Ascriptions. citation:-1
+title:An Inconsistency-Tolerant Approach to Information Merging Based on Proposition Relaxation. citation:-1
+title:Foundations of Information and Knowledge Systems, 6th International Symposium, FoIKS 2010, Sofia, Bulgaria, February 15-19, 2010. Proceedings citation:-1
+title:A Parallel between Extended Formal Concept Analysis and Bipartite Graphs Analysis. citation:-1
+title:Possibility Theory and Formal Concept Analysis: Context Decomposition and Uncertainty Handling. citation:-1
+title:Logical Proportions - Typology and Roadmap. citation:-1
+title:Multiple-Valued Logic Interpretations of Analogical, Reverse Analogical, and Paralogical Proportions. citation:-1
+title:Reasoning with Logical Proportions. citation:-1
+title:UAI '99: Proceedings of the Fifteenth Conference on Uncertainty in Artificial Intelligence, Stockholm, Sweden, July 30-August 1, 1999 citation:-1
+title:Handling Dirty Databases: From User Warning to Data Cleaning - Towards an Interactive Approach. citation:-1
+title:Scalable Uncertainty Management, First International Conference, SUM 2007, Washington, DC, USA, October 10-12, 2007, Proceedings citation:-1
+title:From Bayesian Classifiers to Possibilistic Classifiers for Numerical Data. citation:-1
+title:A Possibility Theory-Oriented Discussion of Conceptual Pattern Structures. citation:-1
+title:Soft Methods for Handling Variability and Imprecision, Selected papers from the 4th International Conference on Soft Methods in Probability and Statistics, SMPS 2008, Toulouse, France, September 8-10, 2008 citation:-1
+title:A Framework for Iterated Belief Revision Using Possibilistic Counterparts to Jeffrey's Rule. citation:-1
+title:Managing Information Fusion with Formal Concept Analysis. citation:-1
+title:Leximin optimality and fuzzy set-theoretic operations. citation:-1
+title:Revision Rules in the Theory of Evidence. citation:-1
+title:A Kolmogorov Complexity View of Analogy: From Logical Modeling to Experimentations. citation:-1
+title:Handling Bipolar Queries in Fuzzy Information Processing. citation:-1
+title:Handling Exceptions in Logic Programming without Negation as Failure. citation:-1
+title:Possibilistic Evidence. citation:-1
+title:Answer Set Programming for Computing Decisions Under Uncertainty. citation:-1
+title:Possibilistic Classifiers for Uncertain Numerical Data. citation:-1
+title:On Different Types of Fuzzy Skylines. citation:-1
+title:Preferences in AI: An overview. citation:-1
+title:Solving conflicts in information merging by a flexible interpretation of atomic propositions. citation:-1
+title:Corrections to "A Computational Approach to Approximate and Plausible Reasoning with Applications to Expert Systems". citation:-1
+title:Cataloguing/analogizing: A nonmonotonic view. citation:-1
+title:Bridging Jeffrey's Rule, AGM Revision and Dempster Conditioning in the Theory of Evidence. citation:-1
+title:Bridging gaps between several frameworks for the idea of granulation. citation:-1
+title:Generalized Possibilistic Logic. citation:-1
+title:Imprecise Regression Based on Possibilistic Likelihood. citation:-1
+title:Qualitative Reasoning about Incomplete Categorization Rules Based on Interpolation and Extrapolation in Conceptual Spaces. citation:-1
+title:Interpolation and Extrapolation in Conceptual Spaces: A Case Study in the Music Domain. citation:-1
+title:A possibilistic logic view of preference queries to an uncertain database. citation:-1
+title:Maximum-likelihood principle for possibility distributions viewed as families of probabilities. citation:-1
+title:A new factor for computing the relevance of a document to a query. citation:-1
+title:Numerical Information Fusion: Lattice of Answers with Supporting Arguments. citation:-1
+title:Handling Various Forms of Inconsistency in Possibilistic Logic. citation:-1
+title:An Exploratory Survey of Logic-Based Formalisms for Spatial Information. citation:-1
+title:Methods for Handling Imperfect Spatial Information citation:-1
+title:Abe Mamdani: A Pioneer of Soft Artificial Intelligence. citation:-1
+title:Introduction: Uncertainty Issues in Spatial Information. citation:-1
+title:Graduality, Uncertainty and Typicality in Formal Concept Analysis. citation:-1
+title:A Fuzzy Logic Approach to Topic Extraction in Texts. citation:-1
+title:Evaluation of analogical proportions through Kolmogorov complexity. citation:-1
+title:Representing partial ignorance. citation:-1
+title:Possibility theory and formal concept analysis: Characterizing independent sub-contexts. citation:-1
+title:Gradualness, uncertainty and bipolarity: Making sense of fuzzy sets. citation:-1
+title:Règles et métarègles en théorie des possibilités. De la logique possibiliste à la programmation par ensembles-réponses. citation:-1
+title:Database preference queries - a possibilistic logic approach with symbolic priorities. citation:-1
+title:Evaluating trustworthiness from past performances: interval-based approaches. citation:-1
+title:Qualitative and quantitative conditions for the transitivity of perceived causation: - Theoretical and experimental results. citation:-1
+title:Detecting Suspect Answers in the Presence of Inconsistent Information. citation:-1
+title:An uncertain database model and a query algebra based on possibilistic certainty. citation:-1
+title:Classification by means of fuzzy analogy-related proportions - A preliminary report. citation:-1
+title:Second International Conference of Soft Computing and Pattern Recognition, SoCPaR 2010, Cergy Pontoise / Paris, France, December 7-10, 2010 citation:-1
+title:Describing acceptable objects by means of Sugeno integrals. citation:-1
+title:Possibilistic contextual skylines with incomplete preferences. citation:-1
+title:Logical handling of analogical proportions in commonsense and transductive reasoning. citation:-1
+title:Making sense as a process emerging from perception-memory interaction: A model. citation:-1
+title:Using arguments for making decisions: A possibilistic logic approach citation:-1
+title:Preface. citation:-1
+title:When intelligence is just a matter of copying. citation:-1
+title:Decision-making with Sugeno integrals: DMU vs. MCDM. citation:-1
+title:Towards a Logic of Argumentation. citation:-1
+title:Comparing and Fusing Terrain Network Information. citation:-1
+title:Trying to Understand How Analogical Classifiers Work. citation:-1
+title:Clustering Sets of Objects Using Concepts-Objects Bipartite Graphs. citation:-1
+title:Oppositions in Rough Set Theory. citation:-1
+title:Homogeneous Logical Proportions: Their Uniqueness and Their Role in Similarity-Based Prediction. citation:-1
+title:Stable Models in Generalized Possibilistic Logic. citation:-1
+title:Logical Proportions - Further Investigations. citation:-1
+title:Qualitative Integrals and Desintegrals: How to Handle Positive and Negative Scales in Evaluation. citation:-1
+title:General Interpolation by Polynomial Functions of Distributive Lattices. citation:-1
+title:A Possibilistic Rule-Based Classifier. citation:-1
+title:Encoding Preference Queries to an Uncertain Database in Possibilistic Answer Set Programming. citation:-1
+title:Classification Based on Possibilistic Likelihood. citation:-1
+title:Sharing Online Cultural Experiences: An Argument-Based Approach. citation:-1
+title:Qualitative Integrals and Desintegrals - Towards a Logical View. citation:-1
+title:Experiences - A Forgotten Component of Epistemic States. citation:-1
+title:WeCurate: Designing For Synchronised Browsing And Social Negotiation. citation:-1
+title:Towards Community Browsing for Shared Experiences: The WeBrowse System. citation:-1
+title:Can AI Models Capture Natural Language Argumentation? citation:-1
+title:Bipolar Possibilistic Representations citation:-1
+title:A Principled Analysis of Merging Operations in Possibilistic Logic citation:-1
+title:Possibilistic logic bases and possibilistic graphs citation:-1
+title:Qualitative Decision Theory with Sugeno Integrals citation:-1
+title:Assessing the value of a candidate. Comparing belief function and possibility theories citation:-1
+title:Comparative Uncertainty, Belief Functions and Accepted Beliefs citation:-1
+title:Graphical readings of possibilistic logic bases citation:-1
+title:Looking for Analogical Proportions in a Formal Concept Analysis Setting. citation:-1
+title:Practical Model-Based Diagnosis with Qualitative Possibilistic Uncertainty citation:-1
+title:Decision-making Under Ordinal Preferences and Comparative Uncertainty citation:-1
+title:Coping with the Limitations of Rational Inference in the Framework of Possibility Theory citation:-1
+title:Belief Revision with Uncertain Inputs in the Possibilistic Setting citation:-1
+title:Numerical Representations of Acceptance citation:-1
+title:An Ordinal View of Independence with Application to Plausible Reasoning citation:-1

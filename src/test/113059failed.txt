@@ -1,0 +1,263 @@
+title:On the Complexity of Designing Distributed Protocols citation:-1
+title:Global Synchronization in Sensornets. citation:-1
+title:Competitive Distributed Decision-Making. citation:-1
+title:On Horn Envelopes and Hypergraph Transversals. citation:-1
+title:The performance of a precedence-based queuing discipline. citation:-1
+title:The Search for Equilibrium Concepts. citation:-1
+title:The complexity of restricted spanning tree problems. citation:-1
+title:The Complexity of Searching a Graph (Preliminary Version) citation:-1
+title:The Complexity of Games on Highly Regular Graphs. citation:-1
+title:Emerging opportunities for theoretical computer science. citation:-1
+title:On the complexity of price equilibria. citation:-1
+title:Distance-Based Reconstruction of Tree Models for Oncogenesis. citation:-1
+title:Cutting and Partitioning a Graph aifter a Fixed Pattern (Extended Abstract). citation:-1
+title:Correction to ``A Theorem in Database Concurrency Control'' citation:-1
+title:Decision-Making with Incomplete Information. citation:-1
+title:Efficient Search for Rationals. citation:-1
+title:On Certain Connectivity Properties of the Internet Topology. citation:-1
+title:The ACM PODS Alberto O. Mendelzon test-of-time-award 2009. citation:-1
+title:On the Random Walk Method for Protocol Testing. citation:-1
+title:An Optimality Theory of Concurrency Control for Databases. citation:-1
+title:On the Predictability of Coupled Automata: An Allegory about Chaos citation:-1
+title:The Complexity of Recognizing Polyhedral Scenes. citation:-1
+title:Information Caching for Delivery of Personalized Video Programs on Home Entertainment Channels. citation:-1
+title:Algorithmic Aspects of Multiversion Concurrency Control. citation:-1
+title:The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies. citation:-1
+title:The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies citation:-1
+title:Algorithmic Problems in Ad Hoc Networks. citation:-1
+title:The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies. citation:-1
+title:The complexity of low-distortion embeddings between point sets. citation:-1
+title:Computing equilibria in multi-player games. citation:-1
+title:Game theory, algorithms, and the Internet. citation:-1
+title:Congestion games with malicious players. citation:-1
+title:Approximately dominating representatives. citation:-1
+title:Computational Aspacts of Organization Theory (Extended Abstract). citation:-1
+title:Auditing Boolean attributes. citation:-1
+title:Segmentation Problems. citation:-1
+title:Topological Queries. citation:-1
+title:The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies. citation:-1
+title:Progress in approximate nash equilibria. citation:-1
+title:The future of computational complexity theory: part I. citation:-1
+title:The Concurrency Control Mechanism of SDD-1: A System for Distributed Databases (The Fully Redundant Case). citation:-1
+title:On a conjecture related to geometric routing. citation:-1
+title:Algorithmic Game Theory: A Snapshot. citation:-1
+title:Deciding stability and mortality of piecewise affine dynamical systems. citation:-1
+title:The Bisection Width of Grid Graphs. citation:-1
+title:Database metatheory: asking the big queries. citation:-1
+title:Balancing traffic load in wireless networks with curveball routing. citation:-1
+title:On the Hardness of Being Truthful. citation:-1
+title:Sharing the Cost of Multicast Transmissions. citation:-1
+title:On Finding Extensions of Default Theories. citation:-1
+title:The Complexity of Cubical Graphs (Extended Abstract). citation:-1
+title:The Parallel Complexity of Simple Logic Programs. citation:-1
+title:Novel Computational Approaches to Information Retrieval and Data Mining (Abstract). citation:-1
+title:An economic model of the worldwide web. citation:-1
+title:Combinatorial Optimization: Algorithms and Complexity citation:-1
+title:A Note on Approximate Nash Equilibria. citation:-1
+title:Towards an Architecture-Independent Analysis of Parallel Algorithms (Extended Abstract) citation:-1
+title:The Complexity of the Travelling Repairman Problem. citation:-1
+title:Optimization, Approximation, and Complexity Classes (Extended Abstract) citation:-1
+title:On a model of indexability and its bounds for range queries. citation:-1
+title:On the Value of Information in Distributed Decision-Making (Extended Abstract). citation:-1
+title:On complexity as bounded rationality (extended abstract). citation:-1
+title:Complexity Characterizations of Attribute Grammar Languages citation:-1
+title:Optimal Coteries. citation:-1
+title:The Joy of Theory. citation:-1
+title:Linear programming without the matrix. citation:-1
+title:Planar Topological Queries. citation:-1
+title:Some Complexity Results for the Traveling Salesman Problem citation:-1
+title:The Complexity of Distributed Concurrency Control. citation:-1
+title:Is Distributed Locking Harder? citation:-1
+title:On Stochastic Scheduling with In-Tree Precedence Constraints. citation:-1
+title:Communication Complexity citation:-1
+title:A Communication-Time Tradeoff. citation:-1
+title:A note on approximate Nash equilibria. citation:-1
+title:On the Complexity of Local Search (Extended Abstract) citation:-1
+title:The Complexity of Reliable Concurrency Control. citation:-1
+title:Reversible Simulation of Space-Bounded Computations. citation:-1
+title:On the approximability of the traveling salesman problem (extended abstract). citation:-1
+title:Worst-Case and Probabilistic Analysis of a Geometric Location Problem. citation:-1
+title:... The Interaction Between Algorithms and Game Theory. citation:-1
+title:Concurrency Control by Locking. citation:-1
+title:The Complexity of the Lin-Kernighan Heuristic for the Traveling Salesman Problem. citation:-1
+title:On Approximating a Scheduling Problem. citation:-1
+title:On the Complexity of Local Search for the Traveling Salesman Problem. citation:-1
+title:An Approximation Scheme for Planar Graph TSP. citation:-1
+title:Experiments with an Economic Model of the Worldwide Web. citation:-1
+title:Algorithmic Approaches to Information Retrieval and Data Mining (Abstract). citation:-1
+title:On the Greedy Algorithm for Satisfiability. citation:-1
+title:On the Complexity of Single-Rule Datalog Queries. citation:-1
+title:The 2-Evader Problem. citation:-1
+title:Theoretical Problems Related to the Internet. citation:-1
+title:The Complexity of Testing Whether a Graph is a Superconcentrator. citation:-1
+title:Networks and Games. citation:-1
+title:A Fast Algorithm for Testing for Safety and Detecting Deadlocks in Locked Transaction Systems. citation:-1
+title:Optimum Grip of a Polygon. citation:-1
+title:On the complexity of equilibria. citation:-1
+title:The myth of the folk theorem. citation:-1
+title:On Minimal Eulerian Graphs. citation:-1
+title:The Game World Is Flat: The Complexity of Nash Equilibria in Succinct Games. citation:-1
+title:The New Problems. citation:-1
+title:Nash Equilibria: Where We Stand. citation:-1
+title:Competitive Distributed Decision-Making. citation:-1
+title:An Optimality Theory of Concurrency Control for Databases. citation:-1
+title:Designing Secure Communication Protocols from Trust Specification. citation:-1
+title:The Power of Reflective Relational Machines citation:-1
+title:On the Optimal Bisection of a Polygon (Extended Abstract). citation:-1
+title:Optimal Piecewise Linear Motion of an Object Among Obstacles. citation:-1
+title:Incremental Recompilation of Knowledge. citation:-1
+title:Covering Graphs by Simple Circuits. citation:-1
+title:The Clique Problem for Planar Graphs. citation:-1
+title:Approximately Dominating Representatives. citation:-1
+title:Symmetric Space-Bounded Computation (Extended Abstract). citation:-1
+title:On the Floyd-Warshall Algorithm for Logic Programs. citation:-1
+title:Recent Developments in Equilibria Algorithms. citation:-1
+title:Topological Bandwidth. citation:-1
+title:Auditing Boolean Attributes. citation:-1
+title:Panarity, Revisited (Extended Abstract). citation:-1
+title:On the Performance of Balanced Hashing Functions When the Keys Are Not Equiprobable. citation:-1
+title:Modularity of Cycles and Paths in Graphs. citation:-1
+title:Selfish caching in distributed systems: a game-theoretic analysis. citation:-1
+title:Default Theories that Always Have Extensions. citation:-1
+title:On the Complexity of Reconfiguration Problems. citation:-1
+title:On oblivious PTAS's for nash equilibrium. citation:-1
+title:A note the expressive power of Prolog. citation:-1
+title:Finding Feasible Paths for a Two-Point Body. citation:-1
+title:Interval graphs and seatching. citation:-1
+title:The Myth of the Folk Theorem. citation:-1
+title:The Complexity of Recognizing Polyhedral Scenes (Extended Abstract) citation:-1
+title:Convergence of Sideways Query Evaluation. citation:-1
+title:Map graphs. citation:-1
+title:The Parallel Complexity of Simple Chain Queries. citation:-1
+title:The Synthesis of Communication Protocols. citation:-1
+title:On The Approximability Of The Traveling Salesman Problem. citation:-1
+title:Incentive-Compatible Interdomain Routing with Linear Utilities. citation:-1
+title:Optimal Information Delivery. citation:-1
+title:Planar Map Graphs. citation:-1
+title:The Computation of Equilibria. citation:-1
+title:Reflective Relational Machines. citation:-1
+title:Exploring an Unknown Graph (Extended Abstract) citation:-1
+title:Software Synthesis of Variable-length Code Decoder Using a Mixture of Programmed Logic and Table Lookups. citation:-1
+title:How to Learn an Unknown Environment (Extended Abstract) citation:-1
+title:VC v. VCG: Inapproximability of Combinatorial Auctions via Generalizations of the VC Dimension citation:-1
+title:In Memoriam: Paris C. Kanellakis. citation:-1
+title:On recognizing integer polyhedra. citation:-1
+title:On the complexity of protein folding (abstract). citation:-1
+title:Market equilibrium via a primal--dual algorithm for a convex program. citation:-1
+title:On the Complexity of Protein Folding (Extended Abstract). citation:-1
+title:Searching a Fixed Graph. citation:-1
+title:Learning the Internet. citation:-1
+title:On Two Geometric Problems Related to the Traveling Salesman Problem. citation:-1
+title:Discretized Multinomial Distributions and Nash Equilibria in Anonymous Games citation:-1
+title:Computing Equilibria in Anonymous Games citation:-1
+title:The Complexity of Distributed Concurrency Control citation:-1
+title:Exponential lower bounds for finding Brouwer fix points. citation:-1
+title:Database Metatheory: Asking the Big Queries. citation:-1
+title:Understanding the Internet. citation:-1
+title:The Traveling Salesman Problem with Many Visits to Few Cities. citation:-1
+title:On certain connectivity properties of the internet topology. citation:-1
+title:Topological Queries in Spatial Databases. citation:-1
+title:Computing Equilibria in Anonymous Games. citation:-1
+title:Optimization Problems in Congestion Control. citation:-1
+title:Multiobjective Query Optimization. citation:-1
+title:The Synthesis of Communication Protocols. citation:-1
+title:On Concurrency Control by Multiple Versions. citation:-1
+title:The Complexity of Multiway Cuts (Extended Abstract) citation:-1
+title:Computing the Throughput of a Network with Dedicated Lines. citation:-1
+title:On the Eigenvalue Power Law. citation:-1
+title:Map Graphs citation:-1
+title:Reducibility Among Equilibrium Problems citation:-1
+title:A Note on Strictly Competitive Games. citation:-1
+title:Multimedia Information Caching for Personalized Video-on-Demand. citation:-1
+title:Tie-Breaking Semantics and Structural Totality. citation:-1
+title:The Complexity of Reliable Concurrency Control. citation:-1
+title:Budget Feasible Mechanisms citation:-1
+title:Algorithmic Aspects of Multiversion Concurrency Control. citation:-1
+title:Discretized Multinomial Distributions and Nash Equilibria in Anonymous Games. citation:-1
+title:The Internet, the Web, and Algorithms. citation:-1
+title:The Comparative Linguistics of Knowledge Representation. citation:-1
+title:Some Recent Results in Algorithmic Game Theory. citation:-1
+title:Worst-Case Ratios for Planar Graphs and the Method of Induction on Faces (Extended Abstract) citation:-1
+title:On the Difficulty of Designing Good Classifiers. citation:-1
+title:Algorithmic problems related to the Internet. citation:-1
+title:Reminiscences on Influential Papers. citation:-1
+title:Scheduling Dags to Minimize Time and Communication. citation:-1
+title:Theory of concurrency control. citation:-1
+title:How Easy Is Local Search? (Extended Abstract) citation:-1
+title:Algebraic Dependencies. citation:-1
+title:The Complexity of Optimal Queueing Network Control. citation:-1
+title:On Limited Nondeterminism and the Complexity of the V.C Dimension (Extended Abstract). citation:-1
+title:On Total Functions, Existence Theorems and Computational Complexity. citation:-1
+title:Segmentation problems. citation:-1
+title:Algebraic Dependencies (Extended Abstract) citation:-1
+title:On the Difficulty of Designing Good Classifiers. citation:-1
+title:MythematiCS: in praise of storytelling in the teaching of computer science and math. citation:-1
+title:On a Network Generalization of the Minmax Theorem. citation:-1
+title:Locking Policies: Safety and Freedom from Deadlock citation:-1
+title:Game Theory and Mathematical Economics: A Theoretical Computer Scientist's Introduction. citation:-1
+title:On the Complexity of Unique Solutions citation:-1
+title:Games Against Nature (Extended Abstract) citation:-1
+title:Approximating the Distortion. citation:-1
+title:On Graph-Theoretic Lemmata and Complexity Classes (Extended Abstract) citation:-1
+title:On a Conjecture Related to Geometric Routing. citation:-1
+title:On Selecting a Satisfying Truth Assignment (Extended Abstract) citation:-1
+title:Games and Networks. citation:-1
+title:Reducibility among equilibrium problems. citation:-1
+title:On Concurrency Control by Multiple Versions. citation:-1
+title:The Bisection Width of Grid Graphs. citation:-1
+title:Some Computational Aspects of Circumscription citation:-1
+title:Motion Planning on a Graph (Extended Abstract) citation:-1
+title:Computing pure nash equilibria in graphical games via markov random fields. citation:-1
+title:A Communication-Time Tradeoff citation:-1
+title:A Linear Programming Approach to Reasoning about Probabilities. citation:-1
+title:On certain rigorous approaches to data mining (invited talk, abstract only). citation:-1
+title:On Kernels, Defaults and Even Graphs. citation:-1
+title:The 1-Steiner Tree Problem. citation:-1
+title:The complexity of game dynamics: BGP oscillations, sink equilibria, and beyond. citation:-1
+title:Designing Secure Communication Protocols from Trust Specifications. citation:-1
+title:Some Computational Aspects of Circumscription. citation:-1
+title:Games Other People Play. citation:-1
+title:Tie-Breaking Semantics and Structural Totality. citation:-1
+title:Comparing Trade-off Based Models of the Internet. citation:-1
+title:Linked decompositions of networks and the power of choice in Polya urns. citation:-1
+title:Recognizing Hole-Free 4-Map Graphs in Cubic Time. citation:-1
+title:Special Issue on PODS 1999 - Guest Editors' Foreword. citation:-1
+title:The Complexity of Restricted Minimum Spanning Tree Problems (Extended Abstract). citation:-1
+title:Communication Complexity. citation:-1
+title:Corrigendum: The Complexity of Cubical Graphs citation:-1
+title:Topological Queries in Spatial Databases. citation:-1
+title:The Complexity of Cubical Graphs citation:-1
+title:Is Distributed Locking Harder? citation:-1
+title:Incremental Recompilation of Knowledge. citation:-1
+title:Optimality of the Fast Fourier transform. citation:-1
+title:On the complexity of single-rule datalog queries. citation:-1
+title:On the complexity of unique solutions. citation:-1
+title:Incremental Recompilation of Knowledge citation:-1
+title:NP-Completeness: A Retrospective. citation:-1
+title:: storytelling in the teaching of computer science and mathematics. citation:-1
+title:A Worst-Case Analysis of Nearest Neighbor Searching by Projection. citation:-1
+title:A theorem in database concurrency control. citation:-1
+title:Inapproximability for VCG-Based Combinatorial Auctions. citation:-1
+title:Internet and Network Economics, 4th International Workshop, WINE 2008, Shanghai, China, December 17-20, 2008. Proceedings citation:-1
+title:Incentive-Compatible Interdomain Routing with Linear Utilities. citation:-1
+title:When the Players Are Not Expectation Maximizers. citation:-1
+title:On Optimal Single-Item Auctions citation:-1
+title:Algorithms. citation:-1
+title:Economies with non-convex production and complexity equilibria. citation:-1
+title:Mechanisms for complement-free procurement. citation:-1
+title:On optimal single-item auctions. citation:-1
+title:Modeling Social Networks through User Background and Behavior. citation:-1
+title:Games, algorithms, and the Internet. citation:-1
+title:On Oblivious PTAS's for Nash Equilibrium citation:-1
+title:On the complexity of reconfiguration problems. citation:-1
+title:The myth of the Folk Theorem. citation:-1
+title:Congestion games with malicious players. citation:-1
+title:Efficiency-Revenue Trade-offs in Auctions citation:-1
+title:Alan and I. citation:-1
+title:Multiplicative Updates in Coordination Games and the Theory of Evolution citation:-1
+title:Efficiency-Revenue Trade-Offs in Auctions. citation:-1
+title:The New Faces of Combinatorial Optimization. citation:-1
+title:The even-path problem for graphs and digraphs. citation:-1
+title:The complexity of the capacitated tree problem. citation:-1
+title:Multiplicative updates in coordination games and the theory of evolution. citation:-1
+title:Complexity characterizations of attribute grammar languages. citation:-1

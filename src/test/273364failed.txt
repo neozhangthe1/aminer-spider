@@ -1,0 +1,335 @@
+title:An efficient algorithm for a class of constraint satisfaction problems. citation:-1
+title:A comment on scheduling on uniform machines under chain-type precedence constraints. citation:-1
+title:On tiling under tomographic constraints. citation:-1
+title:Monge strikes again: optimal placement of web proxies in the internet. citation:-1
+title:It is tough to be a plumber. citation:-1
+title:A comment on a minmax location problem. citation:-1
+title:On the Equal-Subset-Sum Problem. citation:-1
+title:Combinatorial approximation algorithms: a comparative review. citation:-1
+title:UET-scheduling with constrained processor allocations. citation:-1
+title:There is no Asymptotic PTAS for Two-Dimensional Vector Packing. citation:-1
+title:Sometimes Travelling is Easy: The Master Tour Problem. citation:-1
+title:Scheduling with Time-Dependent Execution Times. citation:-1
+title:Inapproximability results for no-wait job shop scheduling. citation:-1
+title:DNA Sequencing, Eulerian Graphs, and the Exact Perfect Matching Problem. citation:-1
+title:Embeddings of planar graphs that minimize the number of long-face cycles. citation:-1
+title:Minimum Cost Dynamic Flows: The Series-Parallel Case. citation:-1
+title:The VC-dimension of Set Systems Defined by Graphs. citation:-1
+title:The geometric maximum traveling salesman problem. citation:-1
+title:Non-approximability Results for Scheduling Problems with Minsum Criteria. citation:-1
+title:Geometric Clusterings. citation:-1
+title:How hard is it to find extreme Nash equilibria in network congestion games? citation:-1
+title:The Fractional Greedy Algorithm for Data Compression. citation:-1
+title:Approximation of the supply scheduling problem. citation:-1
+title:Approximation Algorithms for Scheduling Malleable Tasks under Precedence Constraints. citation:-1
+title:An FPTAS for Agreeably Weighted Variance on a Single Machine. citation:-1
+title:Eliminating graphs by means of parallel knock-out schemes. citation:-1
+title:On the Approximability of Average Completion Time Scheduling under Precedence Constraints. citation:-1
+title:A polynomial time approximation scheme for the two-stage multiprocessor flow shop problem. citation:-1
+title:A PTAS for single machine scheduling with controllable processing times. citation:-1
+title:A Tight Bound for 3-Partitioning. citation:-1
+title:On the Euclidean two Paths Problem. citation:-1
+title:Parallel machine scheduling with nested job assignment restrictions. citation:-1
+title:The Constrained Minimum Weighted Sum of Job Completion Times Problem. citation:-1
+title:A PTAS for Minimizing the Weighted Sum of Job Completion Times on Parallel Machines. citation:-1
+title:Scheduling with step-improving processing times. citation:-1
+title:Buying a Constant Competitive Ratio for Paging. citation:-1
+title:On the Complexity of Function Learning. citation:-1
+title:Backbone Colorings for Networks. citation:-1
+title:A symmetry axiom for scientific impact indices. citation:-1
+title:Local search for the minimum label spanning tree problem with bounded color classes. citation:-1
+title:An axiomatic analysis of Egghe's g-index. citation:-1
+title:Partitioning Graphs into Connected Parts. citation:-1
+title:The hardness of train rearrangements. citation:-1
+title:Approximation algorithms for the multiprocessor open shop scheduling problem. citation:-1
+title:All-Norm Approximation Algorithms. citation:-1
+title:Double Digest Revisited: Complexity and Approximability in the Presence of Noisy Data. citation:-1
+title:An Optimal Algorithm for Preemptive On-line Scheduling. citation:-1
+title:The complexity of coloring graphs without long induced paths. citation:-1
+title:Computing Maximum Valued Regions. citation:-1
+title:Random Redundant Storage in Disk Arrays: Complexity of Retrieval Problems. citation:-1
+title:Greedy Algorithms for On-Line Data Compression. citation:-1
+title:The two-dimensional cutting stock problem revisited. citation:-1
+title:A faster off-line algorithm for the TCP acknowledgement problem. citation:-1
+title:The Traveling Salesman Problem with Few Inner Points. citation:-1
+title:Partitioning graphs into connected parts. citation:-1
+title:The mathematics of playing golf. citation:-1
+title:Drawing Graphs in the Plane with High Resolution. citation:-1
+title:Pseudo-Hamiltonian Graphs. citation:-1
+title:The approximability of three-dimensional assignment problems with bottleneck objective. citation:-1
+title:Scheduling with Incompatible Jobs. citation:-1
+title:Maximum Covering with D Cliques. citation:-1
+title:Approximability and in-approximability results for no-wait shop scheduling. citation:-1
+title:A Simple Solution to the Two Paths Problem in Planar Graphs. citation:-1
+title:Getting the best response for your erg. citation:-1
+title:On Minimizing the Sum of k Tardinesses. citation:-1
+title:The quadratic 0-1 knapsack problem with series-parallel support. citation:-1
+title:De Bruijn Graphs and DNA Graphs. citation:-1
+title:Finding the Closest Extreme Vertex to a Fixed Point. citation:-1
+title:Pseudo-Hamiltonian Graphs. citation:-1
+title:The Complexity of Finding Arborescences in Hypergraphs. citation:-1
+title:The reconstruction of polyominoes from their orthogonal projections. citation:-1
+title:Space and Time Complexity of Exact Algorithms: Some Open Problems (Invited Talk). citation:-1
+title:Linear time approximation scheme for the multiprocessor open shop problem. citation:-1
+title:Shelf Algorithms for On-Line Strip Packing. citation:-1
+title:Planar Graph Coloring with Forbidden Subgraphs: Why Trees and Paths Are Dangerous. citation:-1
+title:The complexity of computing the Muirhead-Dalton distance. citation:-1
+title:Steiner diagrams and k-star hubs. citation:-1
+title:Roll cutting in the curtain industry, or: A well-solvable allocation problem. citation:-1
+title:The Complexity of Graph Contractions. citation:-1
+title:Scheduling a pipelined operator graph. citation:-1
+title:Radio Labeling with Pre-assigned Frequencies. citation:-1
+title:Preface: Volume 13. citation:-1
+title:Which matrices are immune against the transportation paradox? citation:-1
+title:Preemptive Scheduling with Job-Dependent Setup Times. citation:-1
+title:The Maximum Travelling Salesman Problem on Symmetric Demidenko Matrices. citation:-1
+title:Resource augmentation for online bounded space bin packing. citation:-1
+title:The Travelling Salesman Problem on Permuted Monge Matrices. citation:-1
+title:Minimizing Makespan and Preemption Costs on a System of Uniform Machines. citation:-1
+title:05301 Summary - Exact Algorithms and Fixed-Parameter Tractability. citation:-1
+title:Exact Algorithms for NP-Hard Problems: A Survey. citation:-1
+title:Minimizing Makespan and Preemption Costs on a System of Uniform Machines. citation:-1
+title:The complexity of multiple wordlength assignment. citation:-1
+title:The Steiner Tree Problem in Kalmanson Matrices and in Circulant Matrices. citation:-1
+title:The Geometric Maximum Traveling Salesman Problem citation:-1
+title:Open problems in the theory of scheduling. citation:-1
+title:A Lower Bound for Cake Cutting. citation:-1
+title:The no-wait flow-shop paradox. citation:-1
+title:The Buffer Minimization Problem for Multiprocessor Scheduling with Conflicts. citation:-1
+title:Non-Approximability Results for Scheduling Problems with Minsum Criteria. citation:-1
+title:The two-machine open shop problem: To fit or not to fit, that is the question. citation:-1
+title:Detecting Cycles Through Three Fixed Vertices in a Graph. citation:-1
+title:Finding Minimum Area k-gons. citation:-1
+title:Makespan Minimization in Preemptive Two Machine Job Shops. citation:-1
+title:Seventeen Lines and One-Hundred-and-One Points. citation:-1
+title:The toughness of split graphs. citation:-1
+title:An Approximation Scheme for Cake Division with a Linear Number of Cuts. citation:-1
+title:Quadratic Programming and Combinatorial Minimum Weight Product Problems. citation:-1
+title:UET-scheduling with chain-type precedence constraints. citation:-1
+title:Well-solvable instances for the partition problem. citation:-1
+title:The complexity of economic equilibria for house allocation markets. citation:-1
+title:Roll Cutting in the Curtain Industry. citation:-1
+title:The computational complexity of graph contractions I: Polynomially solvable and NP-complete cases. citation:-1
+title:One, Two, Three, Many, or: Complexity Aspects of Dynamic Network Flows with Dedicated Arcs. citation:-1
+title:On-line and Off-line Approximation Algorithms for Vector Covering Problems. citation:-1
+title:Resource augmentation for online bounded space bin packing citation:-1
+title:The computational complexity of graph contractions II: Two tough polynomially solvable cases. citation:-1
+title:When does a dynamic programming formulation guarantee the existence of an FPTAS? citation:-1
+title:Solution of a problem in DNA computing. citation:-1
+title:Decomposition of integer matrices and multileaf collimator sequencing. citation:-1
+title:The problem of the moody chess players. citation:-1
+title:A comment on scheduling two parallel machines with capacity constraints. citation:-1
+title:Computing the optimum stock size. citation:-1
+title:On-Line Scheduling of Two-Machine Open Shops Where Jobs Arrive Over Time. citation:-1
+title:Project scheduling with irregular costs: complexity, approximability, and algorithms. citation:-1
+title:Project Scheduling with Irregular Costs: Complexity, Approximability, and Algorithms. citation:-1
+title:Complexity of Coloring Graphs without Forbidden Induced Subgraphs. citation:-1
+title:2-piercings via graph theory. citation:-1
+title:A comment on parallel-machine scheduling under a grade of service provision to minimize makespan. citation:-1
+title:On the reconstruction of simple polygons. citation:-1
+title:VC-Dimensions for Graphs (Extended Abstract). citation:-1
+title:The Complexity of Detecting Crossingfree Configurations in the Plane. citation:-1
+title:Minimum-cost strong network orientation problems: Classification, complexity, and algorithms. citation:-1
+title:Two Remarks on Reconstructing Binary Vectors from Their Absorbed Projections. citation:-1
+title:Timetabling problems at the TU Eindhoven. citation:-1
+title:A Lower Bound for On-Line Vector-Packing Algorithms. citation:-1
+title:The post correspondence problem over a unary alphabet. citation:-1
+title:Resource Augmentation for Online Bounded Space Bin Packing. citation:-1
+title:A Note on Fair Division under Interval Uncertainty. citation:-1
+title:How to detect a counterfeit coin: Adaptive versus non-adaptive solutions. citation:-1
+title:The Magnus-Derek game revisited. citation:-1
+title:Scheduling with Incompatible Jobs. citation:-1
+title:Some Geometric Clustering Problems. citation:-1
+title:Very Large-Scale Neighborhoods with Performance Guarantees for Minimizing Makespan on Parallel Machines. citation:-1
+title:Combinatorial Optimization Problems with Conflict Graphs. citation:-1
+title:One, two, three, many, or: complexity aspects of dynamic network flows with dedicated arcs. citation:-1
+title:Multigraph realizations of degree sequences: Maximization is easy, minimization is hard. citation:-1
+title:On-Line and Off-Line Approximation Algorithms for Vector Covering Problems. citation:-1
+title:Generalizations of Egghe's g-index. citation:-1
+title:Four point conditions and exponential neighborhoods for symmetric TSP. citation:-1
+title:A Lower Bound for Randomized On-Line Scheduling Algorithms. citation:-1
+title:Timetabling Problems at the TU Eindhoven. citation:-1
+title:Complexity and Approximability of Double Digest. citation:-1
+title:Recognizing DNA graphs is difficult. citation:-1
+title:Angle-Restricted Tours in the Plane. citation:-1
+title:A polynomial time equivalence between DNA sequencing and the exact perfect matching problem. citation:-1
+title:The Alcuin Number of a Graph. citation:-1
+title:On the complexity of cake cutting. citation:-1
+title:A Note on Semi-online Machine Covering. citation:-1
+title:Unit-Time Scheduling Problems with Time Dependent Resources. citation:-1
+title:On the Recognition of Permuted Bottleneck Monge Matrices. citation:-1
+title:Simple But Efficient Approaches for the Collapsing Knapsack Problem. citation:-1
+title:Counting Convex Polygons in Planar Point Sets. citation:-1
+title:The constrained minimum weighted sum of job completion times problem. citation:-1
+title:Sports tournaments, home-away assignments, and the break minimization problem. citation:-1
+title:On-line scheduling on a single machine: maximizing the number of early jobs. citation:-1
+title:On-Line Scheduling on a Single Machine: Minimizing the Total Completion Time. citation:-1
+title:A linear-time algorithm for the bottleneck transportation problem with a fixed number of sources. citation:-1
+title:A New Efficiently Solvable Special Case of the Three-Dimensional Axial Bottleneck Assignment Problem. citation:-1
+title:How to cut a cake almost fairly. citation:-1
+title:Timetabling problems at the TU Eindhoven. citation:-1
+title:Approximation Algorithms for Scheduling Malleable Tasks Under Precedence Constraints. citation:-1
+title:A very difficult scheduling problem with communication delays. citation:-1
+title:Some New Bounds for Epsilon-Nets. citation:-1
+title:When Does a Dynamic Programming Formulation Guarantee the Existence of an FPTAS? citation:-1
+title:Assigning chain-like tasks to a chain-like network. citation:-1
+title:Worst-Case Analysis for On-Line Data Compression. citation:-1
+title:Getting the Best Response for Your Erg. citation:-1
+title:On the nearest neighbor rule for the traveling salesman problem. citation:-1
+title:Seventeen lines and one-hundred-and-one points. citation:-1
+title:On the Complexity of Function Learning. citation:-1
+title:Preemptive Scheduling with Rejection. citation:-1
+title:A PTAS for Minimizing the Total Weighted Completion Time on Identical Parallel Machines. citation:-1
+title:Exact (Exponential) Algorithms for the Dominating Set Problem. citation:-1
+title:Introduction. citation:-1
+title:Sensitivity Analysis for Knapsack Problems: Another Negative Result. citation:-1
+title:Some Comments on Sequencing with Controllable Processing Times. citation:-1
+title:Tight bounds for break minimization in tournament scheduling. citation:-1
+title:An Algorithmic Study of Switch Graphs. citation:-1
+title:Quadratic programming and combinatorial minimum weight product problems. citation:-1
+title:A note on the depth function of combinatorial optimization problems. citation:-1
+title:On the Complexity of Function Learning citation:-1
+title:On the approximability of average completion time scheduling under precedence constraints. citation:-1
+title:The Traveling Salesman Problem Under Squared Euclidean Distances citation:-1
+title:On the Recognition of Permuted Supnick and Incomplete Monge Matrices. citation:-1
+title:Approximation Schemes for a Class of Subset Selection Problems. citation:-1
+title:An Approximation Scheme for Minimizing Agreeably Weighted Variance on a Single Machine. citation:-1
+title:Backbone colorings for graphs: Tree and path backbones. citation:-1
+title:Complexity of the job insertion problem in multi-stage scheduling. citation:-1
+title:The Maximum Traveling Salesman Problem Under Polyhedral Norms. citation:-1
+title:Sequencing jobs that require common resources on a single machine: A solvable case of the TSP. citation:-1
+title:05301 Abstracts Collection - Exact Algorithms and Fixed-Parameter Tractability. citation:-1
+title:Drawing Graphs in the Plane with High Resolution citation:-1
+title:Approximation Schemes for Broadcasting in Heterogenous Networks. citation:-1
+title:Complexity and approximability results for slicing floorplan designs. citation:-1
+title:Minimum-cost dynamic flows: The series-parallel case. citation:-1
+title:On the dimension of simple monotonic games. citation:-1
+title:A note on the bottleneck graph partition problem. citation:-1
+title:Uncapacitated single and multiple allocation p-hub center problems. citation:-1
+title:All-norm approximation algorithms. citation:-1
+title:The quadratic assignment problem with a monotone anti-Monge and a symmetric Toeplitz matrix: Easy and hard cases. citation:-1
+title:An Approximation Scheme For Cake Division With A Linear Number Of Cuts. citation:-1
+title:Counting Convex k-Gons in Planar Point Sets. citation:-1
+title:Polygons with inscribed circles and prescribed side lengths. citation:-1
+title:A Faster FPT Algorithm for Finding Spanning Trees with Many Leaves. citation:-1
+title:Counting k-Subsets and Convex k-gons in the Plane. citation:-1
+title:The Travelling Salesman and the PQ-Tree. citation:-1
+title:The Quadratic Assignment Problem with a Monotone Anti-Monge and a Symmetric Toeplitz Matrix: Easy and Hard Cases. citation:-1
+title:Planar Graph Coloring Avoiding Monochromatic Subgraphs: Trees and Paths Make It Difficult. citation:-1
+title:Scheduling with Incompatible Jobs citation:-1
+title:A Note on Tiling under Tomographic Constraints citation:-1
+title:Approximation schemes for a class of subset selection problems. citation:-1
+title:Caching for Web Searching. citation:-1
+title:Three-dimensional Axial Assignment Problems with Decomposable Cost Coefficients. citation:-1
+title:Improved Space for Bounded-Space, On-Line Bin-Packing. citation:-1
+title:Reconstructing sets of orthogonal line segments in the plane. citation:-1
+title:Performance of a Very Large-Scale Neighborhood for Minimizing Makespan on Parallel Machines. citation:-1
+title:The traveling salesman problem with few inner points. citation:-1
+title:How Hard Is It to Find Extreme Nash Equilibria in Network Congestion Games? citation:-1
+title:Almost Tight Bounds for epsilon-Nets. citation:-1
+title:Partitioning Graphs into Two Trees. citation:-1
+title:Off-line temporary tasks assignment. citation:-1
+title:Hamiltonian cycles in circulant digraphs with two stripes. citation:-1
+title:Minimizing the Number of Tardy Jobs. citation:-1
+title:Parallel Knock-Out Schemes in Networks. citation:-1
+title:The Complexity of Detecting Crossingfree Configurations in the Plane citation:-1
+title:Fully Decomposable Split Graphs. citation:-1
+title:The Disjoint Cliques Problem citation:-1
+title:A solvable case of the quadratic assignment problem. citation:-1
+title:A comment on consecutive-2-out-of- systems. citation:-1
+title:Heuristics for Parallel Machine Scheduling with Delivery Times. citation:-1
+title:On the robust assignment problem under a fixed number of cost scenarios. citation:-1
+title:Exact algorithms for the Hamiltonian cycle problem in planar graphs. citation:-1
+title:The Computational Complexity of the Minimum Weight Processor Assignment Problem. citation:-1
+title:A polynomially solvable special case of the unbounded knapsack problem. citation:-1
+title:Hardness of approximation of the discrete time-cost tradeoff problem. citation:-1
+title:Preface. citation:-1
+title:Sometimes Travelling is Easy: The Master Tour Problem. citation:-1
+title:Graph Coloring with Rejection. citation:-1
+title:Permuting Matrices to Avoid Forbidden Submatrices. citation:-1
+title:Optimal on-line algorithms for variable-sized bin covering. citation:-1
+title:on the Recognition of Permuted Bottleneck Monge Matrices. citation:-1
+title:Caching for Web Searching. citation:-1
+title:Epsilon-Nets for Halfplanes. citation:-1
+title:Open problems around exact algorithms. citation:-1
+title:Competitive Odds and Ends. citation:-1
+title:On-line scheduling of unit time jobs with rejection: minimizing the total completion time. citation:-1
+title:Competitive Analysis of Algorithms. citation:-1
+title:A general approach to avoiding two by two submatrices. citation:-1
+title:Online Algorithms, The State of the Art (the book grow out of a Dagstuhl Seminar, June 1996) citation:-1
+title:Exact Algorithms and Fixed-Parameter Tractability, 24.-27. July 2005 citation:-1
+title:Fair Division, 24.06. - 29.06.2007 citation:-1
+title:Algorithms - ESA '97, 5th Annual European Symposium, Graz, Austria, September 15-17, 1997, Proceedings citation:-1
+title:Caching Is Hard - Even in the Fault Model. citation:-1
+title:Integer Programming and Combinatorial Optimization, 7th International IPCO Conference, Graz, Austria, June 9-11, 1999, Proceedings citation:-1
+title:The Focus of Attention Problem. citation:-1
+title:The Traveling Salesman Problem under Squared Euclidean Distances. citation:-1
+title:Between a Rock and a Hard Place: The Two-to-One Assignment Problem. citation:-1
+title:An Algorithmic Analysis of the Honey-Bee Game. citation:-1
+title:The mathematics of playing golf, or: a new class of difficult non-linear mixed integer programs. citation:-1
+title:Preemptive scheduling with rejection. citation:-1
+title:A new family of scientific impact measures: The generalized Kosmulski-indices. citation:-1
+title:The Alcuin Number of a Graph and Its Connections to the Vertex Cover Number. citation:-1
+title:Pinpointing the complexity of the interval min-max regret knapsack problem. citation:-1
+title:Threshold aggregation of multi-graded rankings. citation:-1
+title:Radio Labeling with Preassigned Frequencies. citation:-1
+title:An Algorithmic Comparison of Three Scientific Impact Indices. citation:-1
+title:Domination When the Stars Are Out citation:-1
+title:Hamiltonian index is NP-complete. citation:-1
+title:Graph coloring with rejection. citation:-1
+title:How * not * to solve a Sudoku. citation:-1
+title:Analysis of the dial-a-ride problem of Hunsaker and Savelsbergh. citation:-1
+title:Domination When the Stars Are Out. citation:-1
+title:Analysis of multi-stage open shop processing systems. citation:-1
+title:An Algorithmic Analysis of the Honey-Bee Game citation:-1
+title:Analysis of multi-stage open shop processing systems citation:-1
+title:The Northwest corner rule revisited. citation:-1
+title:A well-solvable special case of the bounded knapsack problem. citation:-1
+title:Unbounded knapsack problems with arithmetic weight sequences. citation:-1
+title:The Wiener maximum quadratic assignment problem. citation:-1
+title:String execution time for finite languages: Max is easy, min is hard. citation:-1
+title:Charlemagne's Challenge: The Periodic Latency Problem. citation:-1
+title:Paths, trees and matchings under disjunctive constraints. citation:-1
+title:Two-Bounded-Space Bin Packing Revisited. citation:-1
+title:Unweighted Coalitional Manipulation under the Borda Rule Is NP-Hard. citation:-1
+title:Reachability and Deadlocking Problems in Multi-stage Scheduling. citation:-1
+title:Integer Programming and Combinatoral Optimization - 15th International Conference, IPCO 2011, New York, NY, USA, June 15-17, 2011. Proceedings citation:-1
+title:Complexity and approximation of an area packing problem. citation:-1
+title:The interval ordering problem citation:-1
+title:The Cinderella Game on Holes and Anti-holes. citation:-1
+title:Motion planning with pulley, rope, and baskets. citation:-1
+title:The Alcuin Number of a Graph and Its Connections to the Vertex Cover Number. citation:-1
+title:Caching Is Hard - Even in the Fault Model. citation:-1
+title:Guest Editorial to the special issue "Operations Research in Health Care" (EURO XXIII, July 5-8, 2009, Bonn). citation:-1
+title:Scheduling of pipelined operator graphs. citation:-1
+title:Banks winners in tournaments are difficult to recognize. citation:-1
+title:A note on scoring rules that respect majority in choice and elimination. citation:-1
+title:Faster algorithms for computing power indices in weighted voting games. citation:-1
+title:Four Non-Deterministic Programming Exercises. citation:-1
+title:Some Problems around Traveling Salesmen, Dart Boards, and Euro-coins. citation:-1
+title:The Freudenthal Problem and its Ramifications (Part III). citation:-1
+title:The Freudenthal Problem and its Ramifications (Part II). citation:-1
+title:The Freudenthal Problem and its Ramifications (Part I). citation:-1
+title:The interval ordering problem. citation:-1
+title:Divorcing Made Easy. citation:-1
+title:Another well-solvable case of the QAP: Maximizing the job completion time variance. citation:-1
+title:A note on the complexity of determining optimal strategies in games with common payoffs. citation:-1
+title:A note on the complexity of the transportation problem with a permutable demand vector. citation:-1
+title:Minimizing the weighted number of late jobs in UET open shops. citation:-1
+title:On-line bin packing - A restricted survey. citation:-1
+title:On the rate of taxation in a cooperative bin packing game. citation:-1
+title:The cone of Monge matrices: Extremal rays and applications. citation:-1
+title:An algorithmic study of switch graphs. citation:-1
+title:The x-and-y-axes travelling salesman problem. citation:-1
+title:Transportation under Nasty Side Constraints. citation:-1
+title:Parameterized and Exact Computation - 7th International Symposium, IPEC 2012, Ljubljana, Slovenia, September 12-14, 2012. Proceedings citation:-1
+title:Cinderella versus the Wicked Stepmother. citation:-1
+title:An algorithmic analysis of the Honey-Bee game. citation:-1
+title:Between a rock and a hard place: the two-to-one assignment problem. citation:-1
+title:The (Weighted) Metric Dimension of Graphs: Hard and Easy Cases. citation:-1
+title:Group Activity Selection Problem. citation:-1
+title:Fully decomposable split graphs. citation:-1
+title:Core stability in hedonic coalition formation citation:-1
+title:A hardness result for core stability in additive hedonic games. citation:-1
+title:Core Stability in Hedonic Coalition Formation. citation:-1
+title:A Complexity and Approximability Study of the Bilevel Knapsack Problem. citation:-1

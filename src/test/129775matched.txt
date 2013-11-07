@@ -1,0 +1,382 @@
+title1:Minimum padding to satisfy short path constraints. title2:Minimum padding to satisfy short path constraints citation:84 ncitation:82 pid2657024
+title1:An FSM Reengineering Approach to Sequential Circuit Synthesis by State Splitting. title2:An FSM reengineering approach to sequential circuit synthesis by state splitting citation:11 ncitation:11 pid283132
+title1:Graph algorithms for clock schedule optimization. title2:Graph algorithms for clock schedule optimization citation:55 ncitation:55 pid1086821
+title1:Cooperative Diversity with Disconnection Constraints and Sleep Discipline for Power Control in Wireless Sensor Networks. title2:Cooperative diversity with disconnection constraints and sleep discipline for power control in wireless sensor networks citation:10 ncitation:10 pid2772735
+title1:SPFD-based wire removal in standard-cell and network-of-PLA circuits. title2:SPFD-based wire removal in standard-cell and network-of-PLA circuits citation:5 ncitation:4 pid2179261
+title1:System-level design: orthogonalization of concerns andplatform-based design. title2:System-level design: Orthogonalization of concerns and platform-based design citation:875 ncitation:858 pid283131
+title1:Designing digital video systems: modeling and scheduling. title2:Designing digital video systems: Modeling and scheduling citation:14 ncitation:14 pid689662
+title1:Sequential Synthesis for Table Look Up Programmable Gate Arrays. title2:Sequential synthesis for table look up programmable gate arrays citation:16 ncitation:16 pid1084612
+title1:Optimum Functional Decomposition Using Encoding. title2:Optimum functional decomposition using encoding citation:55 ncitation:57 pid1084608
+title1:Logic Synthesis for Programmable Gate Arrays. title2:Logic synthesis for programmable gate arrays citation:242 ncitation:240 pid106200
+title1:Design methodology for PicoRadio networks. title2:Design methodology for PicoRadio networks citation:72 ncitation:72 pid2690162
+title1:Compact and complete test set generation for multiple stuck-faults. title2:Compact and complete test set generation for multiple stuck-faults citation:5 ncitation:3 pid2472627
+title1:Multiple-Valued Minimization for PLA Optimization. title2:Multiple-valued minimization for PLA optimization citation:385 ncitation:2 pid1819157
+title1:Techniques for multilayer channel routing. title2:Techniques for multilayer channel routing citation:22 ncitation:20 pid133281
+title1:An Improved Synthesis Algorithm for Multiplexor-Based PGA's. title2:An improved synthesis algorithm for multiplexor-based PGA's citation:49 ncitation:47 pid1573274
+title1:A Verification Strategy for Timing-Constrained Systems. title2:A verification strategy for timing constrained systems citation:25 ncitation:23 pid133283
+title1:Sequential synthesis using S1S. title2:Sequential synthesis using S1S citation:21 ncitation:25 pid2731781
+title1:MIS: A Multiple-Level Logic Optimization System. title2:MIS: A multiple-level logic optimization system citation:1097 ncitation:1089 pid143031
+title1:Iterative algorithms for formal verification of embedded real-time systems. title2:Iterative algorithms for formal verification of embedded real-time systems citation:8 ncitation:8 pid1769363
+title1:On the Automatic Computation of Network Invariants. title2:On the automatic computation of network invariants citation:12 ncitation:11 pid2243974
+title1:Modeling reactive systems in Java. title2:Modeling reactive systems in Java citation:39 ncitation:37 pid1546001
+title1:Electronic-System Design in the Automobile Industry. title2:Electronic-system design in the automobile industry citation:33 ncitation:28 pid281656
+title1:An Iterative Approach to Language Containment. title2:An iterative approach to language containment citation:90 ncitation:88 pid1085708
+title1:Timing Optimization with Testability Considerations. title2:Timing optimization with testability considerations citation:10 ncitation:9 pid1083556
+title1:Quasi-Static Scheduling of Embedded Software Using Equal Conflict Nets. title2:Quasi-static scheduling of embedded software using equal conflict nets citation:29 ncitation:27 pid79118
+title1:Software timing analysis using HW/SW cosimulation and instruction set simulator. title2:Software timing analysis using HW/SW cosimulation and instruction set simulator citation:83 ncitation:79 pid209250
+title1:Fault-Tolerant Distributed Deployment of Embedded Control Software. title2:Fault-tolerant distributed deployment of embedded control software citation:17 ncitation:14 pid1680549
+title1:Some Considerations on Field-Programmable Gate Arrays and Their Impact on System Design. title2:Some considerations on Field Programmable Gate Arrays and their impact on system design citation:9 ncitation:8 pid281650
+title1:An algorithm for improving partitions of pin-limited multi-chip systems. title2:An algorithm for improving partitions of pin-limited multi-chip systems citation:10 ncitation:10 pid1083562
+title1:Efficient analog platform characterization through analog constraint graphs. title2:Efficient analog platform characterization through analog constraint graphs citation:12 ncitation:8 pid281642
+title1:Theory of latency-insensitive design. title2:Theory of latency-insensitive design citation:294 ncitation:285 pid79128
+title1:Modeling micro-controller peripherals for high-level co-simulation and synthesis. title2:Modeling micro-controller peripherals for high-level co-simulation and synthesis citation:7 ncitation:7 pid106233
+title1:Automotive Virtual Integration Platforms: Why's, What's, and How's. title2:Automotive virtual integration platforms: Why's, what's, and how's citation:29 ncitation:26 pid1008706
+title1:An Iterative Approach to Verification of Real-Time Systems. title2:An iterative approach to verification of real-time systems citation:6 ncitation:6 pid2655138
+title1:Formula-Dependent Equivalence for Compositional CTL Model Checking. title2:Formula-dependent equivalence for compositional CTL model checking citation:12 ncitation:43 pid79123
+title1:A Parallel Simulated Annealing Algorithm for the Placement of Macro-Cells. title2:A parallel simulated annealing algorithm for the placement of macro-cells citation:185 ncitation:182 pid1696821
+title1:Fast Instruction Cache Simulation Strategies in a Hardware/Software Co-Design Environment. title2:Fast instruction cache simulation strategies in a hardware/software co-design environment citation:13 ncitation:13 pid1994652
+title1:Automated design management using traces. title2:Automated design management using traces citation:33 ncitation:30 pid1994653
+title1:A new aggregation technique for the solution of large systems of algebraic equations [IC simulation]. title2:A new aggregation technique for the solution of large systems of algebraic equations [IC simulation] citation:2 ncitation:1 pid2285079
+title1:Synthesis for testability techniques for asynchronous circuits. title2:Synthesis for testability techniques for asynchronous circuits citation:10 ncitation:21 pid2281262
+title1:A macromodeling algorithm for analog circuits. title2:A macromodeling algorithm for analog circuits citation:44 ncitation:40 pid209167
+title1:Learning Complex Boolean Functions: Algorithms and Applications. title2:Learning complex boolean functions: Algorithms and applications citation:10 ncitation:11 pid45568
+title1:Timing Analysis in a Logic Synthesis Environment. title2:Timing analysis in a logic synthesis environment citation:23 ncitation:22 pid1835409
+title1:Schedulability Analysis of Petri Nets Based on Structural Properties. title2:Schedulability analysis of Petri nets based on structural properties citation:20 ncitation:15 pid1086779
+title1:Circuit Simulation on the Connection Machine. title2:Circuit simulation on the connection machine citation:27 ncitation:23 pid1835417
+title1:VIS: A System for Verification and Synthesis. title2:VIS: A system for verification and synthesis citation:656 ncitation:645 pid2528862
+title1:Using the Minimum Description Length Principle to Infer Reduced Ordered Decision Graphs. title2:Using the minimum description length principle to infer reduced ordered decision graphs citation:2 ncitation:20 pid214668
+title1:'Zone-refining' techniques for IC layout compaction. title2:Zone-refining'techniques for IC layout compaction citation:11 ncitation:11 pid281667
+title1:A Detailed Router Based on Incremental Routing Modifications: Mighty. title2:A detailed router based on incremental routing modifications: Mighty citation:76 ncitation:74 pid2248221
+title1:Logic synthesis for large pass transistor circuits. title2:Logic synthesis for large pass transistor circuits citation:106 ncitation:101 pid281726
+title1:System Design: Traditional Concepts and New Paradigms. title2:System design: Traditional concepts and new paradigms citation:176 ncitation:163 pid1083622
+title1:A study of composition schemes for mixed apply/compose based construction of ROBDDs. title2:A study of composition schemes for mixed apply/compose based construction of ROBDDs citation:12 ncitation:10 pid106156
+title1:Integrated Electronics in the Car and the Design Chain Evolution or Revolution? title2:Integrated Electronics in the Car and the Design Chain Evolution or Revolution? citation:4 ncitation:4 pid286025
+title1:System level design paradigms: Platform-based design and communication synthesis. title2:System level design paradigms: Platform-based design and communication synthesis citation:35 ncitation:27 pid2651506
+title1:Convertibility verification and converter synthesis: two faces of the same coin. title2:Convertibility verification and converter synthesis: Two faces of the same coin citation:102 ncitation:93 pid286023
+title1:Diagnosability of Nonlinear Circuits and Systems - Part I: The dc Case. citation:22 ncitation:17 pid878830
+title1:A Survey of Techniques for Formal Verification of Combinational Circuits. title2:A survey of techniques for formal verification of combinational circuits citation:24 ncitation:22 pid878824
+title1:A hierarchical coordination language for interacting real-time tasks. title2:A hierarchical coordination language for interacting real-time tasks citation:45 ncitation:41 pid2081321
+title1:Synchronous approach to the functional equivalence of embeddedsystem implementations. title2:Synchronous approach to the functional equivalence of embedded system implementations citation:9 ncitation:10 pid2486079
+title1:A methodology for correct-by-construction latency insensitive design. title2:A methodology for correct-by-construction latency insensitive design citation:144 ncitation:141 pid1453040
+title1:Linear programming for hazard elimination in asynchronous circuits. title2:Linear programming for hazard elimination in asynchronous circuits citation:20 ncitation:21 pid1083637
+title1:Multi-level logic minimization using implicit don't cares. title2:Multi-level logic minimization using implicit don't cares citation:217 ncitation:203 pid52535
+title1:NOVA: State Assignment of Finite State Machines for Optimal Two-level Logic Implementations. title2:NOVA: state assignment of finite state machines for optimal two-level logic implementation citation:336 ncitation:244 pid1083638
+title1:Trace driven logic synthesis&mdashapplication to power minimization. citation:3 ncitation:3 pid2659034
+title1:Schedulability Analysis of Petri Nets Based on Structural Properties. title2:Schedulability analysis of Petri nets based on structural properties citation:20 ncitation:17 pid1083633
+title1:A Methodology for Constraint-Driven Synthesis of On-Chip Communications. title2:A methodology for constraint-driven synthesis of on-chip communications citation:16 ncitation:11 pid456345
+title1:A tool for describing and evaluating hierarchical real-time bus scheduling policies. title2:A tool for describing and evaluating hierarchical real-time bus scheduling policies citation:22 ncitation:21 pid1084604
+title1:On-chip communication design: roadblocks and avenues. title2:On-chip communication design: roadblocks and avenues citation:16 ncitation:15 pid1083634
+title1:LSAT-An Algorithm for the Synthesis of Two Level Threshold Gate Networks. title2:LSAT-An algorithm for the synthesis of two level threshold gate networks citation:29 ncitation:29 pid2486059
+title1:Combinational test generation using satisfiability. title2:Combinational test generation using satisfiability citation:50 ncitation:282 pid516570
+title1:Latency Insensitive Protocols. title2:Latency insensitive protocols citation:57 ncitation:56 pid134269
+title1:Communication by sampling in time-sensitive distributed systems. title2:Communication by sampling in time-sensitive distributed systems citation:6 ncitation:5 pid2768300
+title1:Concurrent execution semantics and sequential simulation algorithms for the metropolis meta-model. title2:Concurrent execution semantics and sequential simulation algorithms for the metropolis meta-model citation:34 ncitation:34 pid1804958
+title1:Automatic Generation of a Real-Time Operating System for Embedded Systems. title2:Automatic generation of a real-time operating system for embedded systems citation:11 ncitation:9 pid133170
+title1:Causality and Scheduling Constraints in Heterogeneous Reactive Systems Modeling. title2:Causality and scheduling constraints in heterogeneous reactive systems modeling citation:3 ncitation:3 pid883006
+title1:Optimizing Extensibility in Hard Real-Time Distributed Systems. title2:Optimizing extensibility in hard real-time distributed systems citation:13 ncitation:11 pid1804949
+title1:HW/SW partitioning and code generation of embedded control applications on a reconfigurable architecture platform. title2:HW/SW partitioning and code generation of embedded control applications on a reconfigurable architecture platform citation:94 ncitation:91 pid134260
+title1:Modeling reactive systems in Java. title2:Modeling reactive systems in Java citation:39 ncitation:37 pid79278
+title1:Separation of concerns: overhead in modeling and efficient simulation techniques. title2:Separation of concerns: overhead in modeling and efficient simulation techniques citation:19 ncitation:20 pid2620044
+title1:ORCA a Sea-of-Gates Place and Route System. title2:ORCA a sea-of-gates place and route system citation:24 ncitation:23 pid2547336
+title1:Fast Hardware/Software Co-Simulation for Virtual Prototyping and Trade-Off Analysis. title2:Fast hardware/software co-simulation for virtual prototyping and trade-off analysis citation:39 ncitation:36 pid2311242
+title1:Performance Directed Synthesis for Table Look Up Programmable Gate Arrays. title2:Performance directed synthesis for table look up programmable gate arrays citation:109 ncitation:110 pid1009714
+title1:Improved Logic Synthesis Algorithms for Table Look Up Architectures. title2:Improved logic synthesis algorithms for table look up architectures citation:203 ncitation:194 pid1085824
+title1:The Waveform Relaxation Method for Time-Domain Analysis of Large Scale Integrated Circuits. title2:The waveform relaxation method for time-domain analysis of large scale integrated circuits citation:601 ncitation:576 pid281779
+title1:On Clustering for Minimum Delay/Area. title2:On clustering for minimum delay/ara citation:80 ncitation:76 pid1835374
+title1:Automated Synthesis of Asynchronous Interface Circuits. title2:Automated synthesis of asynchronous interface circuits citation:6 ncitation:6 pid1894101
+title1:A Methodology for the Computation of an Upper Bound on Nose Current Spectrum of CMOS Switching Activity. title2:A methodology for the computation of an upper bound on nose current spectrum of CMOS switching activity citation:16 ncitation:16 pid286084
+title1:Formal Verification of Embedded Systems based on CFSM Networks. title2:Formal verification of embedded systems based on CFSM networks citation:64 ncitation:61 pid2256059
+title1:Schedule Validation for Embedded Reactive Real-Time Systems. title2:Schedule validation for embedded reactive real-time systems citation:30 ncitation:30 pid2269689
+title1:A communication synthesis infrastructure for heterogeneous networked control systems and its application to building automation and control. title2:A communication synthesis infrastructure for heterogeneous networked control systems and its application to building automation and control citation:14 ncitation:14 pid645677
+title1:Partitioned ROBDDs - a compact, canonical and efficiently manipulable representation for Boolean functions. citation:143 ncitation:131 pid1083441
+title1:Reachability analysis using partitioned-ROBDDs. title2:Reachability analysis using partitioned-ROBDDs citation:112 ncitation:108 pid2121823
+title1:A framework for comparing models of computation. title2:A framework for comparing models of computation citation:586 ncitation:535 pid1835376
+title1:On Thermal Effects in Deep Sub-Micron VLSI Interconnects. title2:On thermal effects in deep sub-micron VLSI interconnects citation:162 ncitation:153 pid1661479
+title1:HSIS: A BDD-Based Environment for Formal Verification. title2:HSIS: A BDD-based environment for formal verification citation:80 ncitation:76 pid1549487
+title1:Low power coordination in wireless ad-hoc networks. title2:Low power coordination in wireless ad-hoc networks citation:30 ncitation:28 pid142940
+title1:Equivalences for Fair Kripke Structures. title2:Equivalences for fair kripke structures citation:29 ncitation:29 pid2051918
+title1:Semi-analytical techniques for substrate characterization in the design of mixed-signal ICs. title2:Semi-analytical techniques for substrate characterization in the design of mixed-signal ICs citation:11 ncitation:12 pid1082518
+title1:Constraint-driven communication synthesis. title2:Constraint-driven communication synthesis citation:83 ncitation:84 pid286185
+title1:Generalized constraint generation in the presence of non-deterministic parasitics. title2:Generalized constraint generation in the presence of non-deterministic parasitics citation:3 ncitation:4 pid2051917
+title1:Generalized constraint generation for analog circuit design. title2:Generalized constraint generation for analog circuit design citation:44 ncitation:39 pid2245235
+title1:A Theoretical Framework for Simulated Annealing. title2:A theoretical framework for simulated annealing citation:149 ncitation:135 pid181541
+title1:Fast discrete function evaluation using decision diagrams. title2:Fast discrete function evaluation using decision diagrams citation:130 ncitation:127 pid1084436
+title1:Timing Analysis and Delay-Fault Test Generation using Path-Recursive Functions. title2:Timing analysis and delay-fault test generation using path-recursive functions citation:127 ncitation:121 pid2367737
+title1:Logical Reliability of Interacting Real-Time Tasks. title2:Logical reliability of interacting real-time tasks citation:16 ncitation:17 pid1166063
+title1:Performance Enhancement through the Generalized Bypass Transform. title2:Performance enhancement through the generalized bypass transform citation:46 ncitation:45 pid1083477
+title1:Efficient methods for embedded system design space exploration. title2:Efficient methods for embedded system design space exploration citation:13 ncitation:14 pid281803
+title1:System-Level Power/Performance Analysis of Portable Multimedia Systems Communicating over Wireless Channels. title2:System-level power/performance analysis of portable multimedia systems communicating over wireless channels citation:15 ncitation:15 pid2108517
+title1:Sequential optimisation without state space exploration. title2:Sequential optimisation without state space exploration citation:9 ncitation:8 pid25088
+title1:A Unified Signal Transition Graph Model for Asynchronous Control Circuit Synthesis. title2:A unified signal transition graph model for asynchronous control circuit synthesis citation:27 ncitation:45 pid1086858
+title1:Automatic compositional minimization in CTL model checking. title2:Automatic compositional minimization in CTL model checking citation:22 ncitation:23 pid106019
+title1:Mixed signal design space exploration through analog platforms. title2:Mixed signal design space exploration through analog platforms citation:39 ncitation:34 pid282907
+title1:Diagnosability of Nonlinear Circuits and Systems - Part II: Dynamical Systems. citation:18 ncitation:14 pid79305
+title1:Noise analysis of non-autonomous radio frequency circuits. title2:Noise analysis of non-autonomous radio frequency circuits citation:5 ncitation:6 pid133209
+title1:Automatic generation of parasitic constraints for performance-constrained physical design of analog circuits. title2:Automatic generation of parasitic constraints for performance-constrained physical design of analog circuits citation:38 ncitation:34 pid181530
+title1:Constraint-based channel routing for analog and mixed analog/digital circuits. title2:Constraint-based channel routing for analog and mixed analog/digital circuits citation:55 ncitation:56 pid106037
+title1:Automatic generation of analytical models for interconnect capacitances. title2:Automatic generation of analytical models for interconnect capacitances citation:79 ncitation:87 pid2484019
+title1:Constraint-Based Channel Routing for Analog and Mixed Analog/Digital Circuits. title2:Constraint-based channel routing for analog and mixed analog/digital circuits citation:55 ncitation:56 pid209341
+title1:Communication and co-simulation infrastructure for heterogeneous system integration. title2:Communication and co-simulation infrastructure for heterogeneous system integration citation:5 ncitation:5 pid106042
+title1:Aura II: Combining Negative Thinking and Branch-and-Bound in Unate Covering Problems. title2:Aura II: Combining Negative Thinking and Branch-and-Bound in Unate Covering Problems. citation:2 ncitation:3 pid1576006
+title1:Loosely time-triggered architectures based on communication-by-sampling. title2:Loosely time-triggered architectures based on communication-by-sampling citation:22 ncitation:22 pid1117937
+title1:Software Components for Reliable Automotive Systems. title2:Software components for reliable automotive systems citation:25 ncitation:22 pid181483
+title1:Free MDD-Based Software Optimization Techniques for Embedded Systems. title2:Free MDD-based software optimization techniques for embedded systems citation:5 ncitation:6 pid132476
+title1:Performance Optimization of Pipelined Circuits. title2:Performance optimization of pipelined circuits citation:21 ncitation:27 pid277
+title1:Scheduling for Embedded Real-Time Systems. title2:Scheduling for embedded real-time systems citation:130 ncitation:127 pid282854
+title1:A formal approach to fault tree synthesis for the analysis of distributed fault tolerant systems. title2:A formal approach to fault tree synthesis for the analysis of distributed fault tolerant systems citation:20 ncitation:21 pid2065365
+title1:Simulation of Nonlinear Circuits in the Frequency Domain. title2:Simulation of nonlinear circuits in the frequency domain citation:222 ncitation:203 pid282853
+title1:A Framework for Modeling the Distributed Deployment of Synchronous Designs. title2:A framework for modeling the distributed deployment of synchronous designs citation:7 ncitation:8 pid2572742
+title1:Conservative approximations for heterogeneous design. title2:Conservative approximations for heterogeneous design citation:3 ncitation:3 pid1084881
+title1:Using Multiple Levels of Abstractions in Embedded Software Design. title2:Using multiple levels of abstractions in embedded software design citation:22 ncitation:22 pid282851
+title1:Fast Hardware-Software Co-simulation Using VHDL Models. title2:Fast hardware-software co-simulation using VHDL models citation:23 ncitation:23 pid378546
+title1:A Fully Implicit Algorithm for Exact State Minimization. title2:A fully implicit algorithm for exact state minimization citation:64 ncitation:61 pid1526367
+title1:Wireless protocols design: challenges and opportunities. title2:Wireless protocols design: challenges and opportunities citation:25 ncitation:27 pid1398682
+title1:Delay fault coverage, test set size, and performance trade-offs. title2:Delay fault coverage, test set size, and performance trade-offs citation:78 ncitation:78 pid131360
+title1:A Routing Methodology for Analog Integrated Circuits. title2:A routing methodology for analog integrated circuits citation:33 ncitation:29 pid131361
+title1:Optimal Test Set Design for Analog Circuits. title2:Optimal test set design for analog circuits citation:71 ncitation:70 pid181502
+title1:Models for a New Profit-Based Methodology for Statistical Design of Integrated Circuits. title2:Models for a new profit-based methodology for statistical design of integrated circuits citation:4 ncitation:4 pid282871
+title1:Computing Parametric Yield Accurately and Efficiently. title2:Computing parametric yield accurately and efficiently citation:27 ncitation:27 pid1084869
+title1:Valid clock frequencies and their computation in wavepipelined circuits. title2:Valid clock frequencies and their computation in wavepipelined circuits citation:18 ncitation:16 pid133552
+title1:Constructive Induction Using a Non-Greedy Strategy for Feature Selection. title2:Constructive Induction Using a Non-Greedy Strategy for Feature Selection. citation:39 ncitation:37 pid1665231
+title1:Inferring Reduced Ordered Decision Graphs of Minimum Description Length. title2:Inferring reduced ordered decision graphs of minimal description length citation:14 ncitation:13 pid436919
+title1:Efficient Parallel Learning Algorithms for Neural Networks. title2:Efficient parallel learning algorithms for neural networks citation:163 ncitation:150 pid1086545
+title1:Efficient embedded software design with synchronous models. title2:Efficient embedded software design with synchronous models citation:34 ncitation:32 pid1989106
+title1:Behavioral simulation for noise in mixed-mode sampled-data systems. title2:Behavioral simulation for noise in mixed-mode sampled-data systems citation:5 ncitation:6 pid215009
+title1:A semantic-driven synthesis flow for platform-based design. title2:A semantic-driven synthesis flow for platform-based design citation:4 ncitation:4 pid267268
+title1:A New Symbolic Channel Router: YACR2. title2:A new symbolic channel router: YACR2 citation:143 ncitation:130 pid281889
+title1:Proximity templates for modeling of skin and proximity effects on packages and high frequency interconnect. title2:Proximity templates for modeling of skin and proximity effects on packages and high frequency interconnect citation:17 ncitation:16 pid133507
+title1:A parallel iterative linear solver for solving irregular grid semiconductor device matrices. title2:A parallel iterative linear solver for solving irregular grid semiconductor device matrices citation:4 ncitation:4 pid281891
+title1:Techniques for Including Dielectrics when Extracting Passive Low-Order Models of High Speed Interconnect. title2:Techniques for including dielectrics when extracting passive low-order models of high speed interconnect citation:6 ncitation:6 pid281893
+title1:Heterogeneous reactive systems modeling: capturing causality and the correctness of loosely time-triggered architectures (LTTA). title2:Heterogeneous reactive systems modeling: capturing causality and the correctness of loosely time-triggered architectures (LTTA) citation:29 ncitation:29 pid750629
+title1:An efficient heuristic procedure for solving the state assignment problem for event-based specifications. title2:An efficient heuristic procedure for solving the state assignment problem for event-based specifications citation:16 ncitation:15 pid1649696
+title1:Synthesis of hazard-free asynchronous circuits with bounded wire delays. title2:Synthesis of hazard-free asynchronous circuits with bounded wire delays citation:41 ncitation:38 pid106476
+title1:Tag machines. title2:Tag machines citation:31 ncitation:30 pid282842
+title1:A Behavioral Representation for Nyquist Rate A/D Converters. title2:A behavioral representation for nyquist rate A/D converters citation:23 ncitation:20 pid106465
+title1:Heterogeneous Reactive Systems Modeling and Correct-by-Construction Deployment. title2:Heterogeneous reactive systems modeling and correct-by-construction deployment citation:55 ncitation:54 pid143962
+title1:Task scheduling with RT constraints. title2:Task scheduling with RT constraints citation:5 ncitation:5 pid282838
+title1:PLATYPUS: a PLA test pattern generation tool. title2:PLATYPUS: a PLA test pattern generation tool citation:45 ncitation:42 pid2458639
+title1:Rialto: a bridge between description and implementation of control algorithms for wireless sensor networks. title2:Rialto: a bridge between description and implementation of control algorithms for wireless sensor networks citation:11 ncitation:11 pid132415
+title1:Exploring trade-off's between centralized versus decentralized automotive architectures using a virtual integration environment. title2:Exploring trade-off's between centralized versus decentralized automotive architectures using a virtual integration environment citation:11 ncitation:11 pid282786
+title1:Compositional Modeling in Metropolis. title2:Compositional modeling in Metropolis citation:43 ncitation:41 pid282787
+title1:Platform-Based Embedded Software Design for Multi-vehicle Multi-modal Systems. title2:Platform-based embedded software design for multi-vehicle multi-modal systems citation:5 ncitation:5 pid879070
+title1:Breath: A Self-Adapting Protocol for Wireless Sensor Networks in Control and Automation. title2:Breath: a self-adapting protocol for wireless sensor networks in control and automation citation:23 ncitation:20 pid143305
+title1:Embedded System Design for Automotive Applications. title2:Embedded system design for automotive applications citation:96 ncitation:83 pid281925
+title1:Satisfaction of input and output encoding constraints. title2:Satisfaction of input and output encoding constraints citation:28 ncitation:27 pid131450
+title1:A case study on modeling shared memory access effects during performance analysis of HW/SW systems. title2:A case study on modeling shared memory access effects during performance analysis of HW/SW systems citation:22 ncitation:21 pid131449
+title1:Substrate optimization based on semi-analytical techniques. title2:Substrate optimization based on semi-analytical techniques citation:42 ncitation:38 pid1083844
+title1:A compilation-based software estimation scheme for hardware/software co-simulation. title2:A compilation-based software estimation scheme for hardware/software co-simulation citation:84 ncitation:75 pid2239953
+title1:Outage-Based Rate Maximization in CDMA Wireless Networks. title2:Outage-based rate maximization in cdma wireless networks citation:2 ncitation:2 pid507277
+title1:Theory and algorithms for state minimization of nondeterministic FSMs. title2:Theory and algorithms for state minimization of nondeterministic FSMs citation:8 ncitation:7 pid281948
+title1:Contract-based system-level composition of analog circuits. title2:Contract-based system-level composition of analog circuits citation:11 ncitation:8 pid750660
+title1:Scheduling the FlexRay bus using optimization techniques. title2:Scheduling the FlexRay bus using optimization techniques citation:17 ncitation:14 pid1218770
+title1:Chameleon: a new multi-layer channel router. title2:Chameleon: A new multi-layer channel router citation:54 ncitation:49 pid2529096
+title1:A formal approach to system level design: metamodels and unified design environments. title2:A formal approach to system level design: metamodels and unified design environments citation:8 ncitation:7 pid378593
+title1:SAT sweeping with local observability don't-cares. title2:SAT sweeping with local observability don't-cares citation:70 ncitation:65 pid181426
+title1:Symmetric Displacement Algorithms for the Timing Analysis of Large Scale Circuits. title2:Symmetric displacement algorithms for the timing analysis of large scale circuits citation:3 ncitation:4 pid2239971
+title1:Multiple Constrained Folding of Programmable Logic Arrays: Theory and Applications. title2:Multiple constrained folding of programmable logic arrays: theory and applications citation:50 ncitation:48 pid143877
+title1:A fast and robust exact algorithm for face embedding. title2:A fast and robust exact algorithm for face embedding citation:2 ncitation:2 pid2372648
+title1:PLATYPUS: A PLA Test Pattern Generation Tool. title2:PLATYPUS: a PLA test pattern generation tool citation:45 ncitation:42 pid1619696
+title1:Negative thinking by incremental problem solving: application to unate covering. title2:Negative thinking by incremental problem solving: application to unate covering citation:14 ncitation:14 pid131421
+title1:Engineering Change in a Non-Deterministic FSM Setting. title2:Engineering change in a non-deterministic FSM setting citation:25 ncitation:24 pid282755
+title1:Minimizing production test time to detect faults in analog circuits. title2:Minimizing production test time to detect faults in analog circuits citation:160 ncitation:145 pid857843
+title1:A Novel VLSI Layout Fabric for Deep Sub-Micron Applications. title2:A novel VLSI layout fabric for deep sub-micron applications citation:102 ncitation:98 pid181378
+title1:Formal Models for Embedded System Design. title2:Formal models for embedded system design citation:110 ncitation:109 pid2651240
+title1:Optimal State Assignment for Finite State Machines. title2:Optimal state assignment for finite state machines citation:290 ncitation:291 pid1675039
+title1:Synthesis of Robust Control Systems under Resource Constraints. title2:Synthesis of robust control systems under resource constraints citation:40 ncitation:37 pid1084834
+title1:Metamodels in Europe: Languages, Tools, and Applications. title2:Metamodels in europe: Languages, tools, and applications citation:21 ncitation:19 pid2651262
+title1:Verification of Electronic Systems. title2:Verification of electronic systems citation:46 ncitation:42 pid879086
+title1:Fault-tolerant platforms for automotive safety-critical applications. title2:Fault-tolerant platforms for automotive safety-critical applications citation:70 ncitation:66 pid2441622
+title1:Benefits and challenges for platform-based design. title2:Benefits and challenges for platform-based design citation:137 ncitation:125 pid2651260
+title1:High Performance BDD Package By Exploiting Memory Hiercharchy. title2:High performance BDD package by exploiting memory hierarchy citation:80 ncitation:80 pid2211778
+title1:Performance analysis and optimization of latency insensitive systems. title2:Performance analysis and optimization of latency insensitive systems citation:70 ncitation:69 pid2285759
+title1:Is "Network" the next "Big Idea" in design? citation:3 ncitation:3 pid181347
+title1:Design Management Based on Design Traces. title2:Design management based on design traces citation:68 ncitation:65 pid143115
+title1:Analysis of Interference Effects in MB-OFDM UWB Systems. title2:Analysis of interference effects in mb-ofdm uwb systems citation:2 ncitation:2 pid1529659
+title1:System Level Design of Embedded Controllers: Knock Detection, A Case Study in the Automotive Domain. title2:System level design of embedded controllers: knock detection, a case study in the automotive domain citation:6 ncitation:4 pid1671993
+title1:JPEG Encoding on the Intel MXP5800: A Platform-Based Design Case Study. title2:Jpeg encoding on the intel mxp5800: A platform-based design case study citation:14 ncitation:13 pid106305
+title1:Interchange Format for Hybrid Systems: Abstract Semantics. title2:Interchange format for hybrid systems: Abstract semantics citation:25 ncitation:26 pid181362
+title1:Interchange Formats for Hybrid Systems: Review and Proposal. title2:Interchange formats for hybrid systems: Review and proposal citation:19 ncitation:20 pid2320184
+title1:Measurement and modeling of MOS transistor current mismatch in analog IC's. title2:Measurement and modeling of MOS transistor current mismatch in analog IC's citation:52 ncitation:48 pid2280096
+title1:Testing of analog systems using behavioral models and optimal experimental design techniques. title2:Testing of analog systems using behavioral models and optimal experimental design techniques citation:20 ncitation:17 pid1084748
+title1:Hierarchical statistical characterization of mixed-signal circuits using behavioral modeling. title2:Hierarchical statistical characterization of mixed-signal circuits using behavioral modeling citation:54 ncitation:52 pid282751
+title1:Platform based design for wireless sensor networks. title2:Platform based design for wireless sensor networks citation:31 ncitation:30 pid1085611
+title1:Performance optimization of pipelined logic circuits using peripheral retiming and resynthesis. title2:Performance optimization of pipelined logic circuits using peripheral retiming and resynthesis citation:19 ncitation:20 pid282748
+title1:Robust system level design with analog platforms. title2:Robust system level design with analog platforms citation:11 ncitation:11 pid1533046
+title1:Optimizations of an application-level protocol for enhanced dependability in FlexRay. title2:Optimizations of an application-level protocol for enhanced dependability in FlexRay citation:11 ncitation:7 pid2243622
+title1:Addressing the System-on-a-Chip Interconnect Woes Through Communication-Based Design. title2:Addressing the system-on-a-chip interconnect woes through communication-based design citation:385 ncitation:371 pid335378
+title1:Symbolic minimization of multilevel logic and the input encoding problem. title2:Symbolic minimization of multilevel logic and the input encoding problem citation:20 ncitation:19 pid1085613
+title1:Retiming and resynthesis: optimizing sequential networks with combinational techniques. title2:Retiming and resynthesis: Optimizing sequential networks with combinational techniques citation:232 ncitation:236 pid282746
+title1:Reduced offsets for minimization of binary-valued functions. title2:Reduced offsets for minimization of binary-valued functions citation:16 ncitation:15 pid2503928
+title1:A new procedure for exact ring closure. title2:A new procedure for exact ring closure citation:2 ncitation:2 pid1084744
+title1:Structural Detection of Symmetries in Boolean Functions. title2:Structural detection of symmetries in Boolean functions citation:13 ncitation:11 pid335380
+title1:A Methodology for System-Level Analog Design Space Exploration. title2:A methodology for system-level analog design space exploration citation:20 ncitation:17 pid106317
+title1:Yield prediction for 3D capacitive interconnections. title2:Yield prediction for 3D capacitive interconnections citation:6 ncitation:6 pid335382
+title1:Metamodeling: An Emerging Representation Paradigm for System-Level Design. title2:Metamodeling: An emerging representation paradigm for system-level design citation:20 ncitation:12 pid181314
+title1:Simultaneous Placement and Module Optimization of Analog IC's. title2:Simultaneous placement and module optimization of analog IC's citation:15 ncitation:14 pid282695
+title1:Resynthesis of Multi-Phase Pipelines. title2:Resynthesis of multi-phase pipelines citation:7 ncitation:7 pid492279
+title1:On the Temporal Equivalence of Sequential Circuits. title2:On the temporal equivalence of sequential circuits citation:20 ncitation:20 pid1604479
+title1:Addressing the Timing Closure Problem by Integrating Logic Optimization and Placement. title2:Addressing the timing closure problem by integrating logic optimization and placement citation:43 ncitation:41 pid2243613
+title1:Area routing for analog layout. title2:Area routing for analog layout citation:46 ncitation:44 pid2529208
+title1:Wireplanning in logic synthesis. title2:Wireplanning in logic synthesis citation:57 ncitation:55 pid1085588
+title1:Automation of IC layout with analog constraints. title2:Automation of IC layout with analog constraints citation:131 ncitation:119 pid282023
+title1:A Verification Technique for Gated Clock. title2:A verification technique for gated clock citation:4 ncitation:4 pid575536
+title1:Logic Synthesis for Manufacturability. title2:Logic synthesis for manufacturability citation:25 ncitation:24 pid181322
+title1:Simulation based deadlock analysis for system level designs. title2:Simulation based deadlock analysis for system level designs citation:12 ncitation:12 pid282697
+title1:System Level Design for Clustered Wireless Sensor Networks. title2:System level design for clustered wireless sensor networks citation:51 ncitation:45 pid181327
+title1:Period Optimization for Hard Real-time Distributed Automotive Systems. title2:Period optimization for hard real-time distributed automotive systems citation:61 ncitation:51 pid2529203
+title1:Optimal Logic Synthesis and Testability : Two Sides of the Same Coin. title2:Optimal logic synthesis and testability: two faces of the same coin citation:19 ncitation:-1 pid181325
+title1:Synthesis and Optimization Procedures for Fully and Easily Testable Sequential Machines. title2:Synthesis and optimization procedures for fully and easily testable sequential machines citation:82 ncitation:79 pid134495
+title1:State-Space Approach in Problem-solving Optimization. title2:State-space approach in problem-solving optimization citation:5 ncitation:5 pid1510953
+title1:Duty-Cycle Optimization in Unslotted 802.15.4 Wireless Sensor Networks. title2:Duty-cycle optimization in unslotted 802.15. 4 wireless sensor networks citation:12 ncitation:12 pid282037
+title1:Refinement preserving approximations for the design and verification of heterogeneous systems. title2:Refinement preserving approximations for the design and verification of heterogeneous systems citation:6 ncitation:4 pid181339
+title1:Source-Level Timing Annotation and Simulation for a Heterogeneous Multiprocessor. title2:Source-level timing annotation and simulation for a heterogeneous multiprocessor citation:46 ncitation:40 pid142200
+title1:Automatic Reduction in CTL Compositional Model Checking. title2:Automatic reduction in CTL compositional model checking citation:9 ncitation:13 pid181342
+title1:FSM re-engineering and its application in low power state encoding. title2:FSM re-engineering and its application in low power state encoding citation:17 ncitation:16 pid181340
+title1:Platform-based embedded software design and system integration for autonomous vehicles. title2:Platform-based embedded software design and system integration for autonomous vehicles citation:25 ncitation:23 pid727776
+title1:Sequential Circuit Design Using Synthesis and Optimization. title2:Sequential circuit design using synthesis and optimization citation:511 ncitation:510 pid809019
+title1:Complexity Reduction for the Design of Interacting Controllers. title2:Complexity reduction for the design of interacting controllers citation:4 ncitation:5 pid106259
+title1:HW/SW Codesign of an Engine Management System. title2:Hw/sw codesign of an engine management system citation:12 ncitation:10 pid1085681
+title1:Circuit Delay Models and Their Exact Computation Using Timed Boolean Functions. title2:Circuit delay models and their exact computation using timed boolean functions citation:34 ncitation:34 pid106256
+title1:Logic verification algorithms and their parallel implementation. title2:Logic verification algorithms and their parallel implementation citation:58 ncitation:57 pid1762177
+title1:Exact Minimum Cycle Times for Finite State Machines. title2:Exact minimum cycle times for finite state machines citation:16 ncitation:15 pid1913204
+title1:Correct-by-Construction Transformations across Design Environments for Model-Based Embedded Software Development. title2:Correct-by-construction transformations across design environments for model-based embedded software development citation:34 ncitation:32 pid1437062
+title1:Test generation for sequential circuits. title2:Test generation for sequential circuits citation:165 ncitation:166 pid1083725
+title1:Delay Fault Coverage and Performance Tradeoffs. title2:Delay fault coverage and performance tradeoffs citation:80 ncitation:80 pid645959
+title1:Retiming of Circuits with Single Phase Transparent Latches. title2:Retiming of circuits with single phase transparent latches citation:47 ncitation:43 pid2286677
+title1:MUSTANG: state assignment of finite state machines targeting multilevel logic implementations. title2:MUSTANG: State assignment of finite state machines targeting multilevel logic implementations citation:267 ncitation:257 pid2670036
+title1:Irredundant sequential machines via optimal logic synthesis. title2:Irredundant sequential machines via optimal logic synthesis citation:59 ncitation:55 pid106254
+title1:A synthesis and optimization procedure for fully and easily testable sequential machines. title2:Synthesis and optimization procedures for fully and easily testable sequential machines citation:82 ncitation:79 pid1605455
+title1:Binary decision diagrams on network of workstation. title2:Binary decision diagrams on network of workstations citation:45 ncitation:45 pid1085676
+title1:An embedded system for an eye-detection sensor. title2:An embedded system for an eye-detection sensor citation:45 ncitation:43 pid705727
+title1:Semantics-Preserving Design of Embedded Control Software from Synchronous Models. title2:Semantics-preserving design of embedded control software from synchronous models citation:12 ncitation:12 pid1241026
+title1:Constraint Generation for Routing Analog Circuits. title2:Constraint generation for routing analog circuits citation:55 ncitation:51 pid1241085
+title1:Interface-Based Design. title2:Interface-based design citation:359 ncitation:357 pid2457745
+title1:Binary and Multi-Valued SPFD-Based Wire Removal in PLA Networks. title2:Binary and multi-valued SPFD-based wire removal in PLA networks citation:10 ncitation:9 pid2657019
+title1:Platform-Based Design and Software Design Methodology for Embedded Systems. title2:Platform-based design and software design methodology for embedded systems citation:352 ncitation:319 pid234443
+title1:Circuit Structure Relations to Redundancy and Delay: The KMS Algorithm Revisited. title2:Circuit structure relations to redundancy and delay: The KMS algorithm revisited citation:24 ncitation:23 pid282645
+title1:Equivalence of Robust Delay-Fault and Single Stuck-Fault Test Generation. title2:Equivalence of robust delay-fault and single stuck-fault test generation citation:66 ncitation:61 pid131525
+title1:The Tides of EDA. title2:The tides of EDA citation:49 ncitation:43 pid492203
+title1:A Framework for Satisfying Input and Output Encoding Constraints. title2:A framework for satisfying input and output encoding constraints citation:43 ncitation:42 pid134423
+title1:Performance Optimization Using Exact Sensitization. title2:Performance optimization using exact sensitization citation:21 ncitation:18 pid1085160
+title1:Distributed Estimation over Wireless Sensor Networks with Packet Losses title2:Distributed estimation over wireless sensor networks with packet losses citation:2 ncitation:2 pid1085161
+title1:Multi-level Logic Simplification Using Don't Cares and Filters. title2:Multi-level logic simplification using don't cares and filters citation:34 ncitation:36 pid1688650
+title1:Contract-Based Design for Computation and Verification of a Closed-Loop Hybrid System. title2:Contract-based design for computation and verification of a closed-loop hybrid system citation:18 ncitation:16 pid282174
+title1:Methods, Tools and Standards for the Analysis, Evaluation and Design of Modern Automotive Architectures. title2:Methods, tools and standards for the analysis, evaluation and design of modern automotive architectures citation:8 ncitation:5 pid1086222
+title1:Efficient Synthesis of Networks On Chip. title2:Efficient synthesis of networks on chip citation:127 ncitation:127 pid1085162
+title1:Verification of Nyquist data converters using behavioral simulation. title2:Verification of Nyquist data converters using behavioral simulation citation:13 ncitation:11 pid1500415
+title1:Functional Model Exploration for Multimedia Applications via Algebraic Operators. title2:Functional model exploration for multimedia applications via algebraic operators citation:10 ncitation:10 pid1086219
+title1:Formal Models for Communication-Based Design. title2:Formal models for communication-based design citation:35 ncitation:33 pid132685
+title1:Optimal Control Using Bisimulations: Implementation. title2:Optimal control using bisimulations: Implementation citation:12 ncitation:13 pid1696365
+title1:A unified signal transition graph model for asynchronous control circuit synthesis. title2:A unified signal transition graph model for asynchronous control circuit synthesis citation:27 ncitation:48 pid858483
+title1:Theory of Optimal Control Using Bisimulations. title2:Theory of optimal control using bisimulations citation:23 ncitation:24 pid131594
+title1:Modeling and Designing Heterogeneous Systems. title2:Modeling and designing heterogeneous systems citation:73 ncitation:75 pid1085158
+title1:Fault-Tolerant Deployment of Embedded Software for Cost-Sensitive Real-Time Feedback-Control Applications. title2:Fault-tolerant deployment of embedded software for cost-sensitive real-time feedback-control applications citation:54 ncitation:54 pid1923323
+title1:Coping with Latency in SOC Design. title2:Coping with latency in SoC design citation:138 ncitation:137 pid1511502
+title1:Implicit state minimization of non-deterministic FSMs. title2:Implicit state minimization of non-deterministic FSMs citation:11 ncitation:12 pid1085159
+title1:Maximal Safe Set Computation for Idle Speed Control of an Automotive Engine. title2:Maximal safe set computation for idle speed control of an automotive engine citation:45 ncitation:46 pid257797
+title1:An Incomplete Scan Design Approach to Test Generation for Sequential Machines. title2:An incomplete scan design approach to test generation for sequential machines citation:58 ncitation:61 pid1818673
+title1:Design of Observers for Hybrid Systems. title2:Design of observers for hybrid systems citation:233 ncitation:214 pid1336784
+title1:Hybrid Modelling and Control of the Common Rail Injection System. title2:Hybrid modelling and control of the common rail injection system citation:8 ncitation:9 pid133768
+title1:Hybrid Control for Automotive Engine Management: The Cut-Off Case. title2:Hybrid control for automotive engine management: The cut-off case citation:37 ncitation:34 pid133767
+title1:Controller Synthesis on Non-uniform and Uncertain Discrete-Time Domains. citation:32 ncitation:32 pid133766
+title1:Combining Retiming and Recycling to Optimize the Performance of Synchronous Circuits. title2:Combining Retiming and Recycling to Optimize the Performance of Synchronous Circuits. citation:15 ncitation:16 pid133765
+title1:Synthesis for Idle Speed Control of an Automotive Engine. title2:Synthesis for idle speed control of an automotive engine citation:16 ncitation:17 pid133763
+title1:Techniques for maintaining connectivity in wireless ad-hoc networks under energy constraints. title2:Techniques for maintaining connectivity in wireless ad-hoc networks under energy constraints citation:6 ncitation:4 pid131611
+title1:Efficient Software Performance Estimation Methods for Hardware/Software Codesign. title2:Efficient software performance estimation methods for hardware/software codesign citation:124 ncitation:117 pid142482
+title1:Three-dimensional capacitance evaluation on a Connection Machine. title2:Three-dimensional capacitance evaluation on a connection machine citation:26 ncitation:26 pid131623
+title1:Microarchitecture Development via Metropolis Successive Platform Refinement. title2:Microarchitecture development via metropolis successive platform refinement citation:17 ncitation:18 pid2654090
+title1:FPGA architecture characterization for system level performance analysis. title2:FPGA architecture characterization for system level performance analysis citation:21 ncitation:20 pid735111
+title1:A Case Study in Embedded System Design: An Engine Control Unit. title2:A Case Study in Embedded Systems Design: An Engine Control Unit citation:15 ncitation:18 pid646349
+title1:A distributed minimum variance estimator for sensor networks. title2:A distributed minimum variance estimator for sensor networks citation:76 ncitation:65 pid2654080
+title1:Enriching an analog platform for analog-to-digital converter design. title2:Enriching an analog platform for analog-to-digital converter design citation:4 ncitation:3 pid142465
+title1:CADICS - Cyclic Analog-to-Digital Converter Synthesis. title2:CADICS-Cyclic analog-to-digital converter synthesis citation:48 ncitation:41 pid257827
+title1:Synthesis of task and message activation models in real-time distributed automotive systems. title2:Synthesis of task and message activation models in real-time distributed automotive systems citation:21 ncitation:17 pid282116
+title1:UMTS MPSoC design evaluation using a system level design framework. title2:UMTS MPSoC design evaluation using a system level design framework citation:5 ncitation:4 pid282117
+title1:Task generation and compile-time scheduling for mixed data-control embedded software. title2:Task generation and compile-time scheduling for mixed data-control embedded software citation:72 ncitation:72 pid2766753
+title1:Cross-Talk Immune VLSI Design Using a Network of PLAs Embedded in a Regular Layout Fabric. title2:Cross-talk immune VLSI design using a network of PLAs embedded in a regular layout fabric citation:65 ncitation:60 pid1012584
+title1:Timed Shannon Circuits: A Power-Efficient Design Style and Synthesis Tool. title2:Timed shared circuits: a power-efficient design style and synthesis tool citation:57 ncitation:55 pid2109142
+title1:Algorithms for Synthesis of Hazard-Free Asynchronous Circuits. title2:Algorithms for synthesis of hazard-free asynchronous circuits citation:146 ncitation:159 pid2339954
+title1:Solving the State Assignment Problem for Signal Transition Graphs. title2:Solving the state assignment problem for signal transition graphs citation:97 ncitation:81 pid1085097
+title1:A video driver system designed using a top-down, constraint-driven methodology. title2:A video driver system designed using a top-down, constraint-driven methodology citation:27 ncitation:23 pid1789354
+title1:Statistical analysis of Controller Area Network message response times. title2:Statistical analysis of controller area network message response times citation:5 ncitation:6 pid283545
+title1:Minimum Energy coding in CDMA Wireless Sensor Networks. title2:Minimum energy coding in CDMA wireless sensor networks citation:11 ncitation:9 pid1789355
+title1:Composing heterogeneous reactive systems. title2:Composing heterogeneous reactive systems citation:30 ncitation:27 pid1241474
+title1:Fault Tolerant Data Flow Modeling Using the Generic Modeling Environment. title2:Fault tolerant data flow modeling using the generic modeling environment citation:7 ncitation:6 pid133853
+title1:Implicit State Enumeration of Finite State Machines Using BDDs. title2:Implicit state enumeration of finite state machines using BDD's citation:472 ncitation:468 pid1085093
+title1:Compositionally Progressive Solutions of Synchronous FSM Equations. title2:Compositionally progressive solutions of synchronous FSM equations citation:9 ncitation:7 pid1085095
+title1:Is a Unified Methodology for System-Level Design Possible? title2:Is a unified methodology for system-level design possible? citation:13 ncitation:10 pid1085091
+title1:Extensible and Scalable Time Triggered Scheduling. title2:Extensible and scalable time triggered scheduling citation:24 ncitation:23 pid133835
+title1:Uniprocessor scheduling under precedence constraints for embedded systems design. title2:Uniprocessor scheduling under precedence constraints for embedded systems design citation:11 ncitation:8 pid286943
+title1:The best of both worlds: the efficient asynchronous implementation of synchronous specifications. title2:The best of both worlds: the efficient asynchronous implementation of synchronous specifications citation:119 ncitation:106 pid2282680
+title1:COSI: A Framework for the Design of Interconnection Networks. title2:COSI: A framework for the design of interconnection networks citation:17 ncitation:17 pid2415685
+title1:An Algorithm for Optimal PLA Folding. title2:An algorithm for optimal PLA folding citation:121 ncitation:107 pid283527
+title1:Synthesis for Testability Techniques for Asynchronous Circuits. title2:Synthesis for testability techniques for asynchronous circuits citation:10 ncitation:20 pid134795
+title1:FSM Encoding for BDD Representations. title2:FSM encoding for BDD representations citation:3 ncitation:4 pid1724345
+title1:Intellectual Property Re-use in Embedded System Co-design: An Industrial Case Study. title2:Intellectual property re-use in embedded system co-design: an industrial case study citation:22 ncitation:23 pid131690
+title1:Reduced Offsets for Two-Level Multi-Valued Logic Minimization. title2:Reduced offsets for two-level multi-valued logic minimization citation:10 ncitation:9 pid565687
+title1:Two-dimensional compaction by ``zone refining''. citation:54 ncitation:53 pid133878
+title1:Platform-Based Design: A Path to Efficient Design Re-Use. title2:Platform-based design: a path to efficient design re-use citation:5 ncitation:5 pid2528330
+title1:Overcoming Heterophobia: Modeling Concurrency in Heterogeneous Systems. title2:Overcoming heterophobia: Modeling concurrency in heterogeneous systems citation:47 ncitation:45 pid282185
+title1:DELIGHT.SPICE: an optimization-based system for the design of integrated circuits. title2:DELIGHT. SPICE: An optimization-based system for the design of integrated circuits citation:316 ncitation:291 pid282186
+title1:Guidelines for a graduate curriculum on embedded software and systems. title2:Guidelines for a graduate curriculum on embedded software and systems citation:59 ncitation:57 pid1785409
+title1:Heuristic Minimization of BDDs Using Don't Cares. title2:Heuristic minimization of BDDs using don't cares citation:104 ncitation:101 pid1085081
+title1:Analog System Verification in the Presence of Parasitics Using Behavioral Simulation. title2:Analog system verification in the presence of parasitics using behavioral simulation citation:12 ncitation:11 pid257901
+title1:Sequential synthesis using S1S. title2:Sequential synthesis using S1S citation:21 ncitation:25 pid858374
+title1:Complexity of two-level logic minimization. title2:Complexity of two-level logic minimization citation:41 ncitation:34 pid645330
+title1:A vision for embedded software. title2:A vision for embedded software citation:19 ncitation:21 pid645335
+title1:Optimization of analog IC test structures. title2:Optimization of analog IC test structures citation:5 ncitation:4 pid257898
+title1:A Computational Approach for the Diagnosability of Dynamical Circuits. title2:A computational approach for the diagnosability of dynamical circuits citation:17 ncitation:15 pid131715
+title1:A Heuristic Algorithm for the Fanout Problem. title2:A heuristic algorithm for the fanout problem citation:87 ncitation:85 pid1187431
+title1:NOVA: state assignment of finite state machines for optimal two-level logic implementation. title2:NOVA: state assignment of finite state machines for optimal two-level logic implementation citation:336 ncitation:244 pid133639
+title1:Symbolic two-level minimization. title2:Symbolic two-level minimization citation:20 ncitation:19 pid2659417
+title1:Digital sensitivity: predicting signal interaction using functional analysis. title2:Digital sensitivity: predicting signal interaction using functional analysis citation:45 ncitation:47 pid1572857
+title1:Techniques for crosstalk avoidance in the physical design of high-performance digital systems. title2:Techniques for crosstalk avoidance in the physical design of high-performance digital systems citation:103 ncitation:102 pid455767
+title1:Metropolis: An Integrated Electronic System Design Environment. title2:Metropolis: An integrated electronic system design environment citation:429 ncitation:415 pid2221364
+title1:Synthesis for Manufacturability: A Sanity Check. title2:Synthesis for manufacturability: a sanity check citation:16 ncitation:16 pid2264406
+title1:MIS-MV: Optimization of Multi-Level Logic with Multiple-Valued Inputs. title2:MIS-MV: optimization of multi-level logic with multiple-values inputs citation:41 ncitation:39 pid454138
+title1:Minimization of Logic Functions Using Essential Signature Sets. title2:Minimization of Logic Functions Using Essential Signature Sets. citation:2 ncitation:2 pid383230
+title1:The Tire as an Intelligent Sensor. title2:The tire as an intelligent sensor citation:37 ncitation:29 pid705414
+title1:An overview of embedded system design education at berkeley. title2:An overview of embedded system design education at Berkeley citation:25 ncitation:24 pid879118
+title1:Platform-based design of wireless sensor networks for industrial applications. title2:Platform-based design of wireless sensor networks for industrial applications citation:40 ncitation:41 pid1666823
+title1:Relaxation-Based Electrical Simulation. title2:Relaxation-based electrical simulation citation:100 ncitation:132 pid2284756
+title1:Negative thinking in branch-and-bound: the case of unate covering. title2:Negative thinking in branch-and-bound: the case of unate covering citation:17 ncitation:16 pid79785
+title1:Theory and algorithms for face hypercube embedding. title2:Theory and algorithms for face hypercube embedding citation:10 ncitation:11 pid53185
+title1:Two-Level Minimization of Multivalued Functions with Large Offsets. title2:Two-level minimization of multivalued functions with large offsets citation:3 ncitation:4 pid286769
+title1:Hybrid system reduction. title2:Hybrid system reduction citation:10 ncitation:8 pid257964
+title1:Logic Verification Algorithms and Their Parallel Implementation. title2:Logic verification algorithms and their parallel implementation citation:58 ncitation:57 pid141388
+title1:Valid clocking in wavepipelined circuits. title2:Valid clocking in wavepipelined circuits citation:27 ncitation:28 pid2152616
+title1:Mixed-level fault coverage estimation. title2:Mixed-level fault coverage estimation citation:3 ncitation:3 pid132860
+title1:Hybrid Systems: Computation and Control, 4th International Workshop, HSCC 2001, Rome, Italy, March 28-30, 2001, Proceedings title2:Hybrid Systems: Computation and Control: 4th International Workshop, HSCC 2001 Rome, Italy, March 28-30, 2001 Proceedings citation:70 ncitation:60 pid1085021
+title1:Peer-to-peer estimation over wireless sensor networks via Lipschitz optimization. title2:Peer-to-peer estimation over wireless sensor networks via Lipschitz optimization citation:9 ncitation:9 pid132863
+title1:Individual cylinder characteristic estimation for a spark injection engine. title2:Individual cylinder characteristic estimation for a spark injection engine citation:22 ncitation:20 pid286789
+title1:Hybrid control in automotive applications: the cut-off control. title2:Hybrid control in automotive applications: the cut-off control citation:48 ncitation:48 pid1084013
+title1:Efficient Solution of Optimal Control Problems Using Hybrid Systems. title2:Efficient solution of optimal control problems using hybrid systems citation:14 ncitation:11 pid2768840
+title1:Improving the size of communication buffers in synchronous models with time constraints. title2:Improving the size of communication buffers in synchronous models with time constraints citation:6 ncitation:-1 pid1084014
+title1:Synthesis of Multi-task Implementations of Simulink Models with Minimum Delays. title2:Synthesis of multitask implementations of simulink models with minimum delays citation:14 ncitation:5 pid834750
+title1:Optimizing the Software Architecture for Extensibility in Hard Real-time Distributed Systems. title2:Optimizing the software architecture for extensibility in hard real-time distributed systems citation:15 ncitation:9 pid1779548
+title1:Using Statistical Methods to Compute the Probability Distribution of Message Response Time in Controller Area Network. title2:Using statistical methods to compute the probability distribution of message response time in Controller Area Network citation:15 ncitation:11 pid2275862
+title1:CalCS: SMT solving for non-linear convex constraints. title2:Calcs: Smt solving for non-linear convex constraints citation:4 ncitation:3 pid1701828
+title1:A 2.2mW CMOS LNA for 6-8.5GHz UWB receivers. citation:4 ncitation:4 pid143756
+title1:Schedule Optimization of Time-Triggered Systems Communicating Over the FlexRay Static Segment. title2:Schedule optimization of time-triggered systems communicating over the FlexRay static segment citation:24 ncitation:17 pid131805
+title1:Modelling and simulation techniques for highly integrated, low-power wireless sensor networks. title2:Modelling and simulation techniques for highly integrated, low-power wireless sensor networks citation:2 ncitation:2 pid1970727
+title1:SERAN: a semi random protocol solution for clustered wireless sensor networks. title2:Seran: A semi random protocol solution for clustered wireless sensor networks citation:23 ncitation:21 pid133711
+title1:Medium Access Control Analytical Modeling and Optimization in Unslotted IEEE 802.15.4 Wireless Sensor Networks. title2:Medium access control analytical modeling and optimization in unslotted ieee 802.15. 4 wireless sensor networks citation:11 ncitation:10 pid286809
+title1:Component-based design for the future. title2:Component-based design for the future citation:13 ncitation:9 pid858518
+title1:Separate compilation of hierarchical real-time programs into linear-bounded Embedded Machine code. title2:Separate compilation of hierarchical real-time programs into linear-bounded embedded machine code citation:10 ncitation:10 pid2135208
+title1:Rapid-Prototyping of Embedded Systems via Reprogrammable Devices. title2:Rapid-prototyping of embedded systems via reprogrammable devices citation:17 ncitation:16 pid858515
+title1:A Case Study in Embedded Systems Design: An Engine Control Unit. title2:A Case Study in Embedded Systems Design: An Engine Control Unit citation:15 ncitation:18 pid1414620
+title1:Runtime deadlock analysis for system level design. title2:Runtime deadlock analysis for system level design citation:3 ncitation:3 pid133751
+title1:Modeling Cyber-Physical Systems. citation:57 ncitation:15 pid133750
+title1:A 6-Bit 50-MS/s Threshold Configuring SAR ADC in 90-nm Digital CMOS. title2:A 6-bit 50-MS/s threshold configuring SAR ADC in 90-nm digital CMOS citation:16 ncitation:8 pid858512
+title1:Automatic Code Generation for Synchronous Reactive Communication. title2:Automatic code generation for synchronous reactive communication citation:5 ncitation:4 pid2529296
+title1:E2RINA: an Energy Efficient and Reliable In-Network Aggregation for Clustered Wireless Sensor Networks. title2:E2rina: an energy efficient and reliable in-network aggregation for clustered wireless sensor networks citation:18 ncitation:9 pid2440497
+title1:PLEASURE: a computer program for simple/multiple constrained/unconstrained folding of Programmable Logic Arrays. title2:PLEASURE: a computer program for simple/multiple constrained/unconstrained folding of Programmable Logic Arrays citation:25 ncitation:24 pid2593471
+title1:Techniques for programmable logic array folding. title2:Techniques for programmable logic array folding citation:48 ncitation:42 pid133752
+title1:Relax: A new circuit for large scale MOS integrated circuits. title2:Relax: A new circuit for large scale MOS integrated circuits citation:46 ncitation:-1 pid828727
+title1:Embedded system education: a new paradigm for engineering schools? title2:Embedded system education: a new paradigm for engineering schools? citation:14 ncitation:12 pid133754
+title1:Taming Dr. Frankenstein: Contract-Based Design for Cyber-Physical Systems. title2:Taming Dr. Frankenstein: Contract-Based Design for Cyber-Physical Systems* citation:12 ncitation:2 pid286703
+title1:Hybrid Control of Networked Embedded Systems. title2:Hybrid control of networked embedded systems citation:15 ncitation:14 pid2402221
+title1:Maximizing the stability radius of a set of systems under real-time scheduling constraints. title2:Maximizing the stability radius of a set of systems under real-time scheduling constraints citation:28 ncitation:20 pid1084950
+title1:Moving From Federated to Integrated Architectures in Automotive: The Role of Standards, Methods and Tools. title2:Moving from federated to integrated architectures in automotive: The role of standards, methods and tools citation:34 ncitation:21 pid66721
+title1:Constraints specification at higher levels of abstraction. title2:Constraints specification at higher levels of abstraction citation:39 ncitation:38 pid858509
+title1:A new shortest path updating algorithm. title2:A new shortest path updating algorithm citation:27 ncitation:26 pid2528467

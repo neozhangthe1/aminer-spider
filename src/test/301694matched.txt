@@ -1,0 +1,22 @@
+title1:Symbol error probabilities for general Cooperative links. title2:Symbol error probabilities for general cooperative links citation:613 ncitation:560 pid1176565
+title1:Improving the performance of coded FDFR multi-antenna systems with turbo-decoding. citation:7 ncitation:7 pid1329972
+title1:Queuing with adaptive modulation and coding over wireless links: cross-Layer analysis and design. title2:Queuing with adaptive modulation and coding over wireless links: cross-layer analysis and design citation:402 ncitation:377 pid1175194
+title1:Cross-Layer combining of adaptive Modulation and coding with truncated ARQ over wireless links. title2:Cross-layer combining of adaptive modulation and coding with truncated ARQ over wireless links citation:685 ncitation:652 pid1330109
+title1:Blind and Semiblind Channel and Carrier Frequency-Offset Estimation in Orthogonally Space-Time Block Coded MIMO Systems. title2:Blind and semiblind channel and carrier frequency-offset estimation in orthogonally space-time block coded MIMO systems citation:7 ncitation:6 pid1177444
+title1:High-Performance Cooperative Demodulation With Decode-and-Forward Relays. title2:High-performance cooperative demodulation with decode-and-forward relays citation:377 ncitation:350 pid1109849
+title1:Frequency-Domain Oversampling for Zero-Padded OFDM in Underwater Acoustic Communications. title2:Frequency-domain oversampling for zero-padded OFDM in underwater acoustic communications citation:10 ncitation:5 pid701273
+title1:CSMA/CCA: A Modified CSMA/CA Protocol Mitigating the Fairness Problem for IEEE 802.11 DCF. title2:CSMA/CCA: a modified CSMA/CA protocol mitigating the fairness problem for IEEE 802.11 DCF citation:7 ncitation:10 pid2837007
+title1:A simple and general parameterization quantifying performance in fading channels. title2:A simple and general parameterization quantifying performance in fading channels citation:632 ncitation:598 pid3030847
+title1:Cyclic prefixing or zero padding for wireless multicarrier transmissions? title2:Cyclic prefixing or zero padding for wireless multicarrier transmissions? citation:619 ncitation:588 pid3030915
+title1:Space-time diversity systems based on linear constellation precoding. title2:Space-time diversity systems based on linear constellation precoding citation:319 ncitation:295 pid3079818
+title1:Parallel factor analysis in sensor array processing. title2:Parallel factor analysis in sensor array processing citation:324 ncitation:299 pid3105366
+title1:Blind PARAFAC receivers for DS-CDMA systems. title2:Blind PARAFAC receivers for DS-CDMA systems citation:355 ncitation:334 pid3139615
+title1:Optimal training for block transmissions over doubly selective wireless fading channels. title2:Optimal training for block transmissions over doubly selective wireless fading channels citation:338 ncitation:329 pid3173416
+title1:Space-time-frequency coded OFDM over frequency-selective fading channels. title2:Space-time-frequency coded OFDM over frequency-selective fading channels citation:388 ncitation:383 pid3244690
+title1:Optimal transmitter eigen-beamforming and space-time block coding based on channel mean feedback. title2:Optimal transmitter eigen-beamforming and space-time block coding based on channel mean feedback citation:363 ncitation:358 pid3245302
+title1:Optimal designs for space-time linear precoders and decoders. title2:Optimal designs for space-time linear precoders and decoders citation:715 ncitation:681 pid3246294
+title1:Statistical tests for presence of cyclostationarity. title2:Statistical tests for presence of cyclostationarity citation:479 ncitation:453 pid3306584
+title1:Resource Allocation for Interweave and Underlay CRs Under Probability-of-Interference Constraints. title2:Resource allocation for interweave and underlay CRs under probability-of-interference constraints citation:13 ncitation:5 pid3321033
+title1:Block-spreading codes for impulse radio multiple access through ISI channels. title2:Block-spreading codes for impulse radio multiple access through isi channels citation:7 ncitation:None pid3416054
+title1:Energy-efficient scheduling protocols for wireless sensor networks. title2:Energy-efficient scheduling protocols for wireless sensor networks citation:7 ncitation:None pid3460004
+title1:Symbol error probabilities for general cooperative links. title2:Symbol error probabilities for general cooperative links citation:613 ncitation:560 pid3471100

@@ -1,0 +1,357 @@
+title:Test Challenges for 3D Integrated Circuits. citation:-1
+title:Efficient Modular Testing of SOCs Using Dual-Speed TAM Architectures. citation:-1
+title:Hierarchy-aware and area-efficient test infrastructure design for core-based system chips. citation:-1
+title:Test Planning for Mixed-Signal SOCs with Wrapped Analog Cores. citation:-1
+title:Test pattern generation for width compression in BIST. citation:-1
+title:Synthesis of single-output space compactors for scan-based sequential circuits. citation:-1
+title:A Reconfigurable Scan Architecture With Weighted Scan-Enable Signals for Deterministic BIST. citation:-1
+title:Adaptive Cooling of Integrated Circuits Using Digital Microfluidics. citation:-1
+title:Defect-Aware Synthesis of Droplet-Based Microfluidic Biochips. citation:-1
+title:A Seed-Selection Method to Increase Defect Coverage for LFSR-Reseeding-Based Test Compression. citation:-1
+title:Design automation for microfluidics-based biochips. citation:-1
+title:Recent Advances in Test Planning for Modular Testing of Core-Based SOCs. citation:-1
+title:Test planning for the effective utilization of port-scalable testers for heterogeneous core-based SOCs. citation:-1
+title:TAM Optimization for Mixed-Signal SOCs using Analog Test Wrappers. citation:-1
+title:On-Line Testing of Lab-on-Chip Using Digital Microfluidic Compactors. citation:-1
+title:Multi-frequency wrapper design and optimization for embedded cores under average power constraints. citation:-1
+title:Cycle-Accurate Test Power Modeling and Its Application to SoC Test Architecture Design and Scheduling. citation:-1
+title:Scheduling of microfluidic operations for reconfigurabletwo-dimensional electrowetting arrays. citation:-1
+title:Combining Low-Power Scan Testing and Test Data Compression for System-on-a-Chip. citation:-1
+title:Test Planning for Mixed-Signal SOCs with Wrapped Analog Cores citation:-1
+title:Reduction of SOC test data volume, scan power and testing time using alternating run-length codes. citation:-1
+title:AWafer-Level Defect Screening Technique to Reduce Test and Packaging Costs for "Big-D/Small-A" Mixed-Signal SoCs. citation:-1
+title:Uncertainty-aware and coverage-oriented deployment for sensor networks. citation:-1
+title:Design of system-on-a-chip test access architectures under place-and-route and power constraints. citation:-1
+title:Yield Enhancement of Digital Microfluidics-Based Biochips Using Space Redundancy and Local Reconfiguration citation:-1
+title:High Performance Sensor Integration in Distributed Sensor Networks Using Mobile Agents. citation:-1
+title:DFBT: A Design-for-Testability Method Based on Balance Testing. citation:-1
+title:Design of Fault-Tolerant and Dynamically-Reconfigurable Microfluidic Biochips citation:-1
+title:Thermal-Aware Test Access Mechanism and Wrapper Design Optimization for System-on-Chips. citation:-1
+title:Testing and Diagnosis of Realistic Defects in Digital Microfluidic Biochips. citation:-1
+title:An evaluation of the impact of gate oxide tunneling on dual--based leakage reduction techniques. citation:-1
+title:Built-In Self Testing of Sequential Circuits Using Precomputed Test Sets. citation:-1
+title:Fault-Tolerant Self-organization in Sensor Networks. citation:-1
+title:Deviation-Based LFSR Reseeding for Test-Data Compression. citation:-1
+title:Design and Optimization of Multi-level TAM Architectures for Hierarchical SOCs. citation:-1
+title:Test cost reduction for SOCs using virtual TAMs and lagrange multipliers. citation:-1
+title:Built-in Self-test and Defect Tolerance in Molecular Electronics-based Nanofabrics. citation:-1
+title:Test Bus Sizing for System-on-a-Chip. citation:-1
+title:Optimization of Dual-Speed TAM Architectures for Efficient Modular Testing of SOCs. citation:-1
+title:Test-Pattern Grading and Pattern Selection for Small-Delay Defects. citation:-1
+title:Test Access Mechanism Optimization, Test Scheduling, and Tester Data Volume Reduction for System-on-Chip. citation:-1
+title:Wafer-Level Modular Testing of Core-Based SoCs. citation:-1
+title:Optimal Zero-Aliasing Space Compaction of Test Responses. citation:-1
+title:Test Data Compression Using Selective Encoding of Scan Slices. citation:-1
+title:Parallel Scan-Like Testing and Fault Diagnosis Techniques for Digital Microfluidic Biochips. citation:-1
+title:Automated design of digital microfluidic lab-on-chip under pin-count constraints. citation:-1
+title:IEEE P1500-Compliant Test Wrapper Design for Hierarchical Cores. citation:-1
+title:Introduction to joint ACM JETC/TODAES special issue on new, emerging, and specialized technologies. citation:-1
+title:Yield Enhancement of Digital Microfluidics-Based Biochips Using Space Redundancy and Local Reconfiguration. citation:-1
+title:Energy-Aware Target Localization in Wireless Sensor Networks. citation:-1
+title:Droplet routing in the synthesis of digital microfluidic biochips. citation:-1
+title:An ECO Technique for Removing Crosstalk Violations in Clock Networks. citation:-1
+title:Distributed Mobility Management for Target Tracking in Mobile Sensor Networks. citation:-1
+title:Precedence-Based, Preemptive, and Power-Constrained Test Scheduling for System-on-a-Chip. citation:-1
+title:A cross-referencing-based droplet manipulation method for high-throughput and pin-constrained digital microfluidic arrays. citation:-1
+title:Hybrid BIST Based on Repeating Sequences and Cluster Analysis. citation:-1
+title:Power-aware SoC test planning for effective utilization of port-scalable testers. citation:-1
+title:Optimal Space Compaction of Test Responses. citation:-1
+title:Deterministic built-in test pattern generation for high-performance circuits using twisted-ring counters. citation:-1
+title:Test Width Compression for Built-In Self Testing. citation:-1
+title:Efficient Test-Response Compression for Multiple-Output Cicuits. citation:-1
+title:Test Resource Optimization for Multi-Site Testing of SOCs Under ATE Memory Depth Constraints. citation:-1
+title:Generation of compact test sets with high defect coverage. citation:-1
+title:SOC test planning using virtual test access architectures. citation:-1
+title:A Partition-Based Approach for Identifying Failing Scan Cells in Scan-BIST with Applications to System-on-Chip Fault Diagnosis. citation:-1
+title:Nine-coded compression technique for testing embedded cores in SoCs. citation:-1
+title:Test infrastructure design for mixed-signal SOCs with wrapped analog cores. citation:-1
+title:SOC test-architecture optimization for the testing of embedded cores and signal-integrity faults on core-external interconnects. citation:-1
+title:An Interval-Based Diagnosis Scheme for Identifying Failing Vectors in a Scan-BIST Environment. citation:-1
+title:Diverse Routing: Exploiting Social Behavior for Routing in Delay-Tolerant Networks. citation:-1
+title:Design and analysis of compact dictionaries for diagnosis in scan-BIST. citation:-1
+title:Droplet-trace-based array partitioning and a pin assignment algorithm for the automated design of digital microfluidic biochips. citation:-1
+title:Test-Pattern Ordering for Wafer-Level Test-During-Burn-In. citation:-1
+title:Deterministic Built-in Pattern Generation for Sequential Circuits. citation:-1
+title:Test Scheduling for Wafer-Level Test-During-Burn-In of Core-Based SoCs. citation:-1
+title:Rapid Generation of Thermal-Safe Test Schedules. citation:-1
+title:Efficient test access mechanism optimization for system-on-chip. citation:-1
+title:System-on-a-chip test scheduling with precedence relationships, preemption, and power constraints. citation:-1
+title:Integrated Droplet Routing in the Synthesis of Microfluidic Biochips. citation:-1
+title:A Flexible Design Methodology for Analog Test Wrappers in Mixed-Signal SOCs. citation:-1
+title:Concurrent Testing of Droplet-Based Microfluidic Systems for Multiplexed Biomedical Assays. citation:-1
+title:Test-access mechanism optimization for core-based three-dimensional SOCs. citation:-1
+title:Design of reconfigurable composite microsystems based on hardware/software codesign principles. citation:-1
+title:Cooling of integrated circuits using droplet-based microfluidics. citation:-1
+title:Design and optimization of a digital microfluidic biochip for protein crystallization. citation:-1
+title:A unified approach for fault tolerance and dynamic power management in fixed-priority real-time embedded systems. citation:-1
+title:Synthesis of single-output space compactors with application to scan-based IP cores. citation:-1
+title:System-level design automation tools for digital microfluidic biochips. citation:-1
+title:Behavioral modeling and performance evaluation of microelectrofluidics-based PCR systems using SystemC. citation:-1
+title:Introduction to DAC 2007 special section. citation:-1
+title:Microfluidics-Based Biochips: Technology Issues, Implementation Platforms, and Design-Automation Challenges. citation:-1
+title:Integrated droplet routing and defect tolerance in the synthesis of digital microfluidic biochips. citation:-1
+title:Balance Testing of Logic Circuits. citation:-1
+title:A cocktail approach on random access scan toward low power and high efficiency test. citation:-1
+title:Design of Parameterizable Error-Propagating Space Compactors for Response Observation. citation:-1
+title:Robust Space Compaction of Test Responses. citation:-1
+title:Scan-BIST based on cluster analysis and the encoding of repeating sequences. citation:-1
+title:Cross-contamination avoidance for droplet routing in digital microfluidic biochips. citation:-1
+title:SOC Test Architecture Optimization for Signal Integrity Faults on Core-External Interconnects. citation:-1
+title:Test compression for scan circuits using scan polarity adjustment and pinpoint test relaxation. citation:-1
+title:Network flow techniques for dynamic voltage scaling in hard real-time systems. citation:-1
+title:Energy-conscious, deterministic I/O device scheduling in hard real-time systems. citation:-1
+title:Compact Dictionaries for Fault Diagnosis in Scan-BIST. citation:-1
+title:A Droplet-Manipulation Method for Achieving High-Throughput in Cross-Referencing-Based Digital Microfluidic Biochips. citation:-1
+title:Test-Length and TAM Optimization for Wafer-Level Reduced Pin-Count Testing of Core-Based SoCs. citation:-1
+title:Yield enhancement of reconfigurable microfluidics-based biochips using interstitial redundancy. citation:-1
+title:How Useful are the ITC 02 SoC Test Benchmarks? citation:-1
+title:Test Resource Partitioning for SOCs. citation:-1
+title:Automated design of pin-constrained digital microfluidic biochips under droplet-interference constraints. citation:-1
+title:Seed selection in LFSR-reseeding-based test compression for the detection of small-delay defects. citation:-1
+title:How Effective are Compression Codes for Reducing Test Data Volume? citation:-1
+title:Dual-threshold pass-transistor logic design. citation:-1
+title:Compact Dictionaries for Fault Diagnosis in BIST. citation:-1
+title:Zero-aliasing space compaction of test responses using multiple parity signatures. citation:-1
+title:Test-Architecture Optimization and Test Scheduling for SOCs with Core-Level Expansion of Compressed Test Patterns. citation:-1
+title:Editorial to special issue DAC 2006. citation:-1
+title:High-level synthesis of digital microfluidic biochips. citation:-1
+title:Balance testing and balance-testable design of logic circuits. citation:-1
+title:Introduction to joint ACM JETC/TODAES special issue on new, emerging, and specialized technologies. citation:-1
+title:Energy-Aware Fault Tolerance in Fixed-Priority Real-Time Embedded Systems. citation:-1
+title:Privacy-Preserving Detection of Sybil Attacks in Vehicular Ad Hoc Networks. citation:-1
+title:Coding Theory Framework for Target Location in Distributed Sensor Networks. citation:-1
+title:Guest Editorial. citation:-1
+title:Automated design of pin-constrained digital microfluidic arrays for lab-on-a-chip applications*. citation:-1
+title:Test set enrichment using a probabilistic fault model and the theory of output deviations. citation:-1
+title:Testing of SoCs with Hierarchical Cores: Common Fallacies, Test Access Optimization, and Test Scheduling. citation:-1
+title:Design, Testing, and Applications of Digital Microfluidics-Based Biochips. citation:-1
+title:On Combining Pinpoint Test Set Relaxation and Run-Length Codes for Reducing Test Data Volume. citation:-1
+title:Improving Thermal-Safe Test Scheduling for Core-Based Systems-on-Chip Using Shift Frequency Scaling. citation:-1
+title:Automated Design of Microfluidics-Based Biochips: Connecting Biochemistry to Electronics CAD. citation:-1
+title:Synthesis Of Transparent Circuits For Hierarchical An System-On-A-Chip Test. citation:-1
+title:Guest Editors' Introduction: Biochips and Integrated Biosensor Platforms. citation:-1
+title:Identification of error-capturing scan cells in scan-BIST with applications to system-on-chip. citation:-1
+title:Failing vector identification based on overlapping intervals of test vectors in a scan-BIST environment. citation:-1
+title:Target localization based on energy considerations in distributed sensor networks. citation:-1
+title:Bit-Operation-Based Seed Augmentation for LFSR Reseeding with High Defect Coverage. citation:-1
+title:Concurrent testing of digital microfluidics-based biochips. citation:-1
+title:Mathematical Modeling of Intellectual Property Protection Using Partially-Mergeable Cores. citation:-1
+title:Test Data Compression Using Dictionaries with Fixed-Length Indices. citation:-1
+title:Location-Aided Flooding: An Energy-Efficient Data Dissemination Protocol for Wireless Sensor Networks. citation:-1
+title:A Digital-Microfluidic Approach to Chip Cooling. citation:-1
+title:Built-in Test Pattern Generation For High-Performance Cir cuits Using Twisted-Ring Counters. citation:-1
+title:Design of System-on-a-Chip Test Access Architectures using Integer Linear Programming. citation:-1
+title:On Using Twisted-Ring Counters for Test Set Embedding in BIST. citation:-1
+title:Compact Test Generation for Small-Delay Defects Using Testable-Path Information. citation:-1
+title:An Efficient Finite-State Machine Implementation of Huffman Decoders. citation:-1
+title:Test infrastructure design for core-based system-on-chip under cycle-accurate thermal constraints. citation:-1
+title:Compact Dictionaries for Diagnosis of Unmodeled Faults in Scan-BIST. citation:-1
+title:Cumulative balance testing of logic circuits. citation:-1
+title:Test data compression using dictionaries with selective entries and fixed-length indices. citation:-1
+title:A synthesis-for-transparency approach for hierarchical and system-on-a-chip test. citation:-1
+title:EBIST: A Novel Test Generator with Built-In Fault Detection Capability. citation:-1
+title:Architectural-level synthesis of digital microfluidics-based biochips. citation:-1
+title:Energy-Aware Adaptive Checkpointing in Embedded Real-Time Systems. citation:-1
+title:Task Feasibility Analysis and Dynamic Voltage Scaling in Fault-Tolerant Real-Time Embedded Systems. citation:-1
+title:Reconfiguration-Based Defect Tolerance for Microfluidic Biochips. citation:-1
+title:Digital Microfluidic Logic Gates. citation:-1
+title:SoC testing using LFSR reseeding, and scan-slice-based TAM optimization and test scheduling. citation:-1
+title:Test set embedding for deterministic BIST using a reconfigurable interconnection network. citation:-1
+title:Pruning-based, energy-optimal, deterministic I/O device scheduling for hard real-time systems. citation:-1
+title:Efficient Wrapper/TAM Co-Optimization for Large SOCs. citation:-1
+title:A Unified Approach for SOC Testing Using Test Data Compression and TAM Optimization. citation:-1
+title:Experiences in Implementing an Energy-Driven Task Scheduler in RT-Linux. citation:-1
+title:Design of built-in test generator circuits using width compression. citation:-1
+title:Test planning for modular testing of hierarchical SOCs. citation:-1
+title:Nine-Coded Compression Technique with Application to Reduced Pin-Count Testing and Flexible On-Chip Decompression. citation:-1
+title:Rapid Generation of Thermal-Safe Test Schedules citation:-1
+title:On Using Exponential-Golomb Codes and Subexponential Codes for System-on-a-Chip Test Data Compression. citation:-1
+title:Test-Quality/Cost Optimization Using Output-Deviation-Based Reordering of Test Patterns. citation:-1
+title:A Selective Scan Slice Encoding Technique for Test Data Volume and Test Power Reduction. citation:-1
+title:Pruning-based energy-optimal device scheduling for hard real-time systems. citation:-1
+title:A Signature Analysis Technique for the Identification of Failing Vectors with Application to Scan-BIST. citation:-1
+title:Fault Recovery Based on Checkpointing for Hard Real-Time Embedded Systems. citation:-1
+title:Space Compaction of Test Responses for IP Cores Using Orthogonal Transmission Functions. citation:-1
+title:Zero-aliasing space compaction using linear compactors with bounded overhead. citation:-1
+title:Dynamic I/O power management for hard real-time systems. citation:-1
+title:On the quality of accumulator-based compaction of test responses. citation:-1
+title:Test response compaction using multiplexed parity trees. citation:-1
+title:Generalized Network Flow Techniques for Dynamic Voltage Scaling in Hard Real-Time Systems. citation:-1
+title:Efficient test data compression and decompression for system-on-a-chip using internal scan chains and Golomb coding. citation:-1
+title:Analysis of Test Application Time for Test Data Compression Methods Based on Compression Codes. citation:-1
+title:Testing of Droplet-Based Microelectrofluidic Systems. citation:-1
+title:A unified approach to reduce SOC test data volume, scan power and testing time. citation:-1
+title:Test Resource Partitioning and Reduced Pin-Count Testing Based on Test Data Compression. citation:-1
+title:On-Line Testing of Lab-on-Chip Using Reconfigurable Digital-Microfluidic Compactors. citation:-1
+title:Test Planning and Test Resource Optimization for Droplet-Based Microfluidic Systems. citation:-1
+title:Test data compression and decompression based on internal scanchains and Golomb coding. citation:-1
+title:Low-power scan testing and test data compression forsystem-on-a-chip. citation:-1
+title:Test-Length Selection and TAM Optimization for Wafer-Level, Reduced Pin-Count Testing of Core-Based Digital SoCs. citation:-1
+title:Scan-chain design and optimization for three-dimensional integrated circuits. citation:-1
+title:Efficient Space/Time Compression to Reduce Test Data Volume and Testing Time for IP Cores. citation:-1
+title:Optimal test access architectures for system-on-a-chip. citation:-1
+title:Test Wrapper Design and Optimization Under Power Constraints for Embedded Cores With Multiple Clock Domains. citation:-1
+title:Module placement for fault-tolerant microfluidics-based biochips. citation:-1
+title:Energy-aware deterministic fault tolerance in distributed real-time embedded systems. citation:-1
+title:Thermal-Safe Test Scheduling for Core-Based System-on-Chip Integrated Circuits. citation:-1
+title:Investigating the effect of voltage-switching on low-energy task scheduling in hard real-time systems. citation:-1
+title:Integrated LFSR Reseeding, Test-Access Optimization, and Test Scheduling for Core-Based System-on-Chip. citation:-1
+title:Wrapper/TAM co-optimization, constraint-driven test scheduling, and tester data volume reduction for SOCs. citation:-1
+title:Dynamic adaptation for fault tolerance and power management in embedded real-time systems. citation:-1
+title:Defect Tolerance for Gracefully-Degradable Microfluidics-Based Biochips. citation:-1
+title:Design of Fault-Tolerant and Dynamically-Reconfigurable Microfluidic Biochips. citation:-1
+title:Broadcast electrode-addressing for pin-constrained multi-functional digital microfluidic biochips. citation:-1
+title:Computing reliability and message delay for Cooperative wireless distributed sensor networks subject to random failures. citation:-1
+title:Unified high-level synthesis and module placement for defect-tolerant microfluidic biochips. citation:-1
+title:Deterministic BIST Based on a Reconfigurable Interconnection Network. citation:-1
+title:Design and Test of Microfluidic Biochips. citation:-1
+title:On the Covering of Vertices for Fault Diagnosis in Hypercubes. citation:-1
+title:Synchronization of washing operations with droplet routing for cross-contamination avoidance in digital microfluidic biochips. citation:-1
+title:Defect aware X-filling for low-power scan testing. citation:-1
+title:High-quality pattern selection for screening small-delay defects considering process variations and crosstalk. citation:-1
+title:Soft error-aware design optimization of low power and time-constrained embedded systems. citation:-1
+title:Layout-driven test-architecture design and optimization for 3D SoCs under pre-bond test-pin-count constraint. citation:-1
+title:Digital Microfluidic Biochips: A Vision for Functional Diversity and More than Moore. citation:-1
+title:Test-architecture optimization for TSV-based 3D stacked ICs. citation:-1
+title:Editorial. citation:-1
+title:Integrated control-path design and error recovery in the synthesis of digital microfluidic lab-on-chip. citation:-1
+title:RTL DFT Techniques to Enhance Defect Coverage for Functional Test Sequences. citation:-1
+title:Wafer-Level Defect Screening for "Big-D/Small-A" Mixed-Signal SoCs. citation:-1
+title:Power Management Using Test-Pattern Ordering for Wafer-Level Test During Burn-In. citation:-1
+title:A Noise-Aware Hybrid Method for SDD Pattern Grading and Selection. citation:-1
+title:Optimization and Selection of Diagnosis-Oriented Fault-Insertion Points for System Test. citation:-1
+title:Testing of Low-Cost Digital Microfluidic Biochips with Non-regular Array Layouts. citation:-1
+title:Mimicking of Functional State Space with Structural Tests for the Diagnosis of Board-Level Functional Failures. citation:-1
+title:Defect Coverage-Driven Window-Based Test Compression. citation:-1
+title:Circuit Topology-Based Test Pattern Generation for Small-Delay Defects. citation:-1
+title:Cost-effective integration of three-dimensional (3D) ICs emphasizing testing cost analysis. citation:-1
+title:Digital microfluidic biochips: A vision for functional diversity and more than moore. citation:-1
+title:Defect-Tolerant Design and Optimization of a Digital Microfluidic Biochip for Protein Crystallization. citation:-1
+title:Test-Pattern Selection for Screening Small-Delay Defects in Very-Deep Submicrometer Integrated Circuits. citation:-1
+title:Design Tools for Digital Microfluidic Biochips: Toward Functional Diversification and More Than Moore. citation:-1
+title:Gate-Sizing-Based Single V Test for Bridge Defects in Multivoltage Designs. citation:-1
+title:Test-access mechanism optimization for core-based three-dimensional SOCs. citation:-1
+title:Scalable infrastructure for distributed sensor networks. citation:-1
+title:Deterministic test for the reproduction and detection of board-level functional failures. citation:-1
+title:On residue removal in digital microfluidic biochips. citation:-1
+title:Digital Microfluidic Biochips: A Vision for Functional Diversity and More Than Moore. citation:-1
+title:Design-for-Testability for Digital Microfluidic Biochips. citation:-1
+title:RT-Level Deviation-Based Grading of Functional Test Sequences. citation:-1
+title:Board-level fault diagnosis using Bayesian inference. citation:-1
+title:Pin-count-aware online testing of digital microfluidic biochips. citation:-1
+title:A novel hybrid method for SDD pattern grading and selection. citation:-1
+title:A Metric to Target Small-Delay Defects in Industrial Circuits. citation:-1
+title:P2DAP - Sybil Attacks Detection in Vehicular Ad Hoc Networks. citation:-1
+title:Optimization of Dilution and Mixing of Biochemical Samples Using Digital Microfluidic Biochips. citation:-1
+title:Generation of Compact Stuck-At Test Sets Targeting Unmodeled Defects. citation:-1
+title:Fault Diagnosis in Lab-on-Chip Using Digital Microfluidic Logic Gates. citation:-1
+title:Guest Editorial. citation:-1
+title:Datacollection in Event-Driven Wireless Sensor Networks with Mobile Sinks. citation:-1
+title:An Energy-Efficient Data Delivery Scheme for Delay-Sensitive Traffic in Wireless Sensor Networks. citation:-1
+title:Space compaction of test responses using orthogonal transmission functions [logic testing]. citation:-1
+title:Parity bit signature in response data compaction and built-in self-testing of VLSI circuits with nonexhaustive test sets. citation:-1
+title:Data compression in space under generalized mergeability based on concepts of cover table and frequency ordering. citation:-1
+title:Advances in nanoelectronics circuits and systems [Editorial]. citation:-1
+title:Connecting fabrication defects to fault models and SPICE simulations for DNA self-assembled nanoelectronics. citation:-1
+title:Test-wrapper optimisation for embedded cores in through-silicon via-based three-dimensional system on chips. citation:-1
+title:MVP: Minimum-Violations Partitioning for Reducing Capture Power in At-Speed Delay-Fault Testing. citation:-1
+title:Broadcast Electrode-Addressing and Scheduling Methods for Pin-Constrained Digital Microfluidic Biochips. citation:-1
+title:Test-Architecture Optimization and Test Scheduling for TSV-Based 3-D Stacked ICs. citation:-1
+title:Defect-Oriented LFSR Reseeding to Target Unmodeled Defects Using Stuck-at Test Sets. citation:-1
+title:Design Automation and Test Solutions for Digital Microfluidic Biochips. citation:-1
+title:Test Planning in Digital Microfluidic Biochips Using Efficient Eulerization Techniques. citation:-1
+title:Critical Fault-Based Pattern Generation for Screening SDDs. citation:-1
+title:Ranking of Suspect Faulty Blocks Using Dataflow Analysis and Dempster-Shafer Theory for the Diagnosis of Board-Level Functional Failures. citation:-1
+title:Signature Analysis for Testing, Diagnosis, and Repair of Multi-mode Power Switches. citation:-1
+title:Waste-aware dilution and mixing of biochemical samples with digital microfluidic biochips. citation:-1
+title:A BIST scheme for testing and repair of multi-mode power switches. citation:-1
+title:Design and optimization methods for digital microfluidic biochips: A vision for functional diversity and more than moore. citation:-1
+title:A Maximum Likelihood Approach to Estimation of Vector Velocity in Doppler Radar Networks. citation:-1
+title:Simultaneous Optimization of Droplet Routing and Control-Pin Mapping to Electrodes in Digital Microfluidic Biochips. citation:-1
+title:On Generation of 1-Detect TDF Pattern Set with Significantly Increased SDD Coverage. citation:-1
+title:Testing and Design-for-Testability Techniques for 3D Integrated Circuits. citation:-1
+title:Test Scheduling for Multicore SoCs with Dynamic Voltage Scaling and Multiple Voltage Islands. citation:-1
+title:Analysis of Resistive Bridge Defect Delay Behavior in the Presence of Process Variation. citation:-1
+title:Testing of Clock-Domain Crossing Faults in Multi-core System-on-Chip. citation:-1
+title:Identification of Defective TSVs in Pre-Bond Testing of 3D ICs. citation:-1
+title:RTL DFT techniques to enhance defect coverage for functional test sequences. citation:-1
+title:A Robust and Reconfigurable Multi-mode Power Gating Architecture. citation:-1
+title:Layout-Aware Solution Preparation for Biochemical Analysis on a Digital Microfluidic Biochip. citation:-1
+title:The role of EDA in digital print automation and infrastructure optimization. citation:-1
+title:Reliability-oriented broadcast electrode-addressing for pin-constrained digital microfluidic biochips. citation:-1
+title:Optimization Methods for Post-Bond Testing of 3D Stacked ICs. citation:-1
+title:Test and Diagnosis for Small-Delay Defects. citation:-1
+title:SOC Test Optimization with Compression-Technique Selection. citation:-1
+title:Test-Access Solutions for Three-Dimensional SOCs. citation:-1
+title:Defect-oriented testing and diagnosis of digital microfluidics-based biochips. citation:-1
+title:Cycle-Accurate Test Power Modeling and its Application to SoC Test Scheduling. citation:-1
+title:Built-in Self-Test and Fault Diagnosis for Lab-on-Chip Using Digital Microfluidic Logic Gates. citation:-1
+title:Interconnect-Aware and Layout-Oriented Test-Pattern Selection for Small-Delay Defects. citation:-1
+title:RT-level design-for-testability and expansion of functional test sequences for enhanced defect coverage. citation:-1
+title:Defect-Oriented and Time-Constrained Wafer-Level Test-Length Selection for Core-Based Digital SoCs. citation:-1
+title:Smart diagnosis: Efficient board-level diagnosis and repair using artificial neural networks. citation:-1
+title:Optimization methods for post-bond die-internal/external testing in 3D stacked ICs. citation:-1
+title:Functional testing of digital microfluidic biochips. citation:-1
+title:Test data compression for IP embedded cores using selective encoding of scan slices. citation:-1
+title:Fabrication Defects and Fault Models for DNA Self-Assembled Nanoelectronics. citation:-1
+title:Board-level fault diagnosis using an error-flow dictionary. citation:-1
+title:Physical defect modeling for fault insertion in system reliability test. citation:-1
+title:Using built-in self-test and adaptive recovery for defect tolerance in molecular electronics-based nanofabrics. citation:-1
+title:Pre-bond probing of TSVs in 3D stacked ICs. citation:-1
+title:Digital microfluidic biochips: functional diversity, more than moore, and cyberphysical systems. citation:-1
+title:Digital microfluidic biochips: recent research and emerging challenges. citation:-1
+title:Cross-Contamination Avoidance for Droplet Routing in Digital Microfluidic Biochips. citation:-1
+title:Reproduction and Detection of Board-Level Functional Failure. citation:-1
+title:Defect-Aware High-Level Synthesis and Module Placement for Microfluidic Biochips. citation:-1
+title:Parallel Scan-Like Test and Multiple-Defect Diagnosis for Digital Microfluidic Biochips. citation:-1
+title:Fault Modeling and Functional Test Methods for Digital Microfluidic Biochips. citation:-1
+title:Digital Microfluidic Logic Gates and Their Application to Built-in Self-Test of Lab-on-Chip. citation:-1
+title:Guest Editorial - Selected Papers from the IEEE International Mixed-Signals, Sensors, and Systems Test Workshop (IMS3TW), 2008. citation:-1
+title:Optimization Techniques for the Synchronization of Concurrent Fluidic Operations in Pin-Constrained Digital Microfluidic Biochips. citation:-1
+title:Physical-Defect Modeling and Optimization for Fault-Insertion Test. citation:-1
+title:Testing of Low-cost Digital Microfluidic Biochips with Non-Regular Array Layouts. citation:-1
+title:The Quest for High-Yield IC Manufacturing. citation:-1
+title:Design of pin-constrained general-purpose digital microfluidic biochips. citation:-1
+title:TSV open defects in 3D integrated circuits: characterization, test, and optimal spare allocation. citation:-1
+title:A cyberphysical synthesis approach for error recovery in digital microfluidic biochips. citation:-1
+title:Test pin count reduction for NoC-based Test delivery in multicore SOCs. citation:-1
+title:Test generation for clock-domain crossing faults in integrated circuits. citation:-1
+title:Testing and design-for-testability solutions for 3D integrated circuits. citation:-1
+title:Testing bio-chips. citation:-1
+title:Test-wrapper optimization for embedded cores in TSV-based three-dimensional SOCs. citation:-1
+title:Diagnosis of Board-Level Functional Failures Under Uncertainty Using Dempster-Shafer Theory. citation:-1
+title:Functional Test-Sequence Grading at Register-Transfer Level. citation:-1
+title:Integrated Test-Architecture Optimization and Thermal-Aware Test Scheduling for 3-D SoCs Under Pre-Bond Test-Pin-Count Constraint. citation:-1
+title:Looking ahead at the role of electronic design automation in synthetic biology [From the EIC]. citation:-1
+title:Standards, Interoperability, and Innovation in a Disaggregated IC Industry. citation:-1
+title:Electronic Design Methods and Technologies for Green Buildings. citation:-1
+title:Digital Microfluidic Biochips - Design Automation and Optimization. citation:-1
+title:Design and Testing of Digital Microfluidic Biochips. citation:-1
+title:Digital Microfluidic Biochips - Synthesis, Testing, and Reconfiguration Techniques. citation:-1
+title:On-Chip Sample Preparation with Multiple Dilutions Using Digital Microfluidics. citation:-1
+title:Time-division multiplexing for testing SoCs with DVS and multiple voltage islands. citation:-1
+title:Diagnostic system based on support-vector machines for board-level functional diagnosis. citation:-1
+title:Re-using chip level DFT at board level. citation:-1
+title:Ping-pong test: Compact test vector generation for reversible circuits. citation:-1
+title:Accumulator-based output selection for test response compaction. citation:-1
+title:3D-Scalable Adaptive Scan (3D-SAS). citation:-1
+title:Pre-bond testing of die logic and TSVs in high performance 3D-SICs. citation:-1
+title:Congestion-aware layout design for high-throughput digital microfluidic biochips. citation:-1
+title:Test Schedule Optimization for Multicore SoCs: Handling Dynamic Voltage Scaling and Multiple Voltage Islands. citation:-1
+title:A Reagent-Saving Mixing Algorithm for Preparing Multiple-Target Biochemical Samples Using Digital Microfluidics. citation:-1
+title:Authentication of sensor network flooding based on neighborhood cooperation. citation:-1
+title:Counter-Based Output Selection for Test Response Compaction. citation:-1
+title:Error Recovery in Cyberphysical Digital Microfluidic Biochips. citation:-1
+title:Robust Timing-Aware Test Generation Using Pseudo-Boolean Optimization. citation:-1
+title:TSV Stress-Aware ATPG for 3D Stacked ICs. citation:-1
+title:Board-Level Functional Fault Diagnosis Using Learning Based on Incremental Support-Vector Machines. citation:-1
+title:Reduced-Complexity Transition-Fault Test Generation for Non-scan Circuits through High-Level Mutant Injection. citation:-1
+title:On-Line Error Detection in Digital Microfluidic Biochips. citation:-1
+title:Adaptive Board-Level Functional Fault Diagnosis Using Decision Trees. citation:-1
+title:Automated path planning for washing in digital microfluidic biochips. citation:-1
+title:Uncertainty-aware sensor deployment algorithms for surveillance applications. citation:-1
+title:Dictionary-based error recovery in cyberphysical digital-microfluidic biochips. citation:-1
+title:Design methodology for sample preparation on digital microfluidic biochips. citation:-1
+title:Scan test of die logic in 3D ICs using TSV probing. citation:-1
+title:A dynamic programming solution for optimizing test delivery in multicore SOCs. citation:-1
+title:Efficient Pattern Generation for Small-Delay Defects Using Selection of Critical Faults. citation:-1

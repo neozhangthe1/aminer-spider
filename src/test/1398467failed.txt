@@ -1,0 +1,200 @@
+title:Cryptographic Algorithms - Successes, Failures and Challenges. citation:-1
+title:Collision Attack. citation:-1
+title:The MESH Block Ciphers. citation:-1
+title:IS 2008 PC Co-chairs' Message. citation:-1
+title:An FPGA Implementation of a Montgomery Multiplier Over GF(2^m). citation:-1
+title:Attacks on Two Buyer-Seller Watermarking Protocols and an Improvement for Revocable Anonymity. citation:-1
+title:A Note on Weak Keys of PES, IDEA, and Some Extended Variants. citation:-1
+title:HW/SW co-design for public-key cryptosystems on the 8051 micro-controller. citation:-1
+title:Multi-party Computation from Any Linear Secret Sharing Scheme Unconditionally Secure against Adaptive Adversary: The Zero-Error Case. citation:-1
+title:Improving secure long-term archival of digitally signed documents. citation:-1
+title:Reliable Key Establishment Scheme Exploiting Unidirectional Links in Wireless Sensor Networks. citation:-1
+title:Extending the Selective MPEG Encryption Algorithm PVEA. citation:-1
+title:The Future of Cryptographic Algorithms. citation:-1
+title:Improved Distinguishing Attacks on HC-256. citation:-1
+title:Integrity Primitives for Secure Information Systems, Final Report of RACE Integrity Primitives Evaluation RIPE-RACE 1040 citation:-1
+title:An Attack on Two Hash Functions by Zheng-Matsumoto-Imai. citation:-1
+title:Differential Cryptanalysis of Hash Functions Based on Block Ciphers. citation:-1
+title:APES - Anonymity and Privacy in Electronic Services. citation:-1
+title:Cryptanalysis of Message Authentication Codes. citation:-1
+title:MAC Algorithms. citation:-1
+title:Fpga-Oriented Secure Data Path Design: Implementation of a Public Key Coprocessor. citation:-1
+title:Collision resistance. citation:-1
+title:Distinguishing Attacks on the Stream Cipher Py. citation:-1
+title:Large Superfluous Keys in Multivariate Quadratic Asymmetric Systems. citation:-1
+title:New European Schemes for Signature, Integrity and Encryption (NESSIE): A Status Report. citation:-1
+title:Cryptanalysis of Dynamic SHA(2). citation:-1
+title:Anonymous Buyer-Seller Watermarking Protocol wth Additive Homomorphism. citation:-1
+title:Practical Collisions for SHAMATA-256. citation:-1
+title:A Practical Attack on KeeLoq. citation:-1
+title:On Encryption and Authentication of the DC DCT Coefficient. citation:-1
+title:A Weakness in Some Oblivious Transfer and Zero-Knowledge Protocols. citation:-1
+title:New (Two-Track-)MAC Based on the Two Trails of RIPEMD. citation:-1
+title:Electronic Voting in Belgium: Past and Future. citation:-1
+title:Hardware implementation of an elliptic curve processor over GF(p) with Montgomery modular multiplier. citation:-1
+title:Preface. citation:-1
+title:Secure Communication for Secure Agent-Based Electronic Commerce Applications. citation:-1
+title:CBC-MAC and Variants. citation:-1
+title:Preimages for Reduced-Round Tiger. citation:-1
+title:Cryptanalysis of the Stream Cipher ABC v2. citation:-1
+title:Side-channel aware design: Algorithms and Architectures for Elliptic Curve Cryptography over GF(2). citation:-1
+title:New Attacks on the Stream Cipher TPy6 and Design of New Ciphers the TPy6-A and the TPy6-B. citation:-1
+title:Introduction to the Belgian EID Card: BELPIC. citation:-1
+title:Secure and Privacy-Friendly Logging for eGovernment Services. citation:-1
+title:The First 30 Years of Cryptographic Hash Functions and the NIST SHA-3 Competition. citation:-1
+title:MDC-2 and MDC-4. citation:-1
+title:Hash Functions and MAC Algorithms Based on Block Ciphers. citation:-1
+title:FSE'94 - Introduction. citation:-1
+title:Preimage Resistance. citation:-1
+title:Flexible hardware architectures for curve-based cryptography. citation:-1
+title:Setting up a Secure Web Server and Clients on an Intranet. citation:-1
+title:Case Study : A class E power amplifier for ISO-14443A. citation:-1
+title:Evaluating certificate status information mechanisms. citation:-1
+title:Correcting-block attack. citation:-1
+title:Technical Approaches to Thwart Computer Fraud. citation:-1
+title:Second preimage resistance. citation:-1
+title:Normality of Vectorial Functions. citation:-1
+title:Spectral characterization of cryptographic Boolean functions satisfying the (extended) propagation criterion of degree and order . citation:-1
+title:Cross-Context Delegation through Identity Federation. citation:-1
+title:NESSIE Project. citation:-1
+title:Towards Security Notions for White-Box Cryptography. citation:-1
+title:Classification of cubic (n-4)-resilient Boolean functions. citation:-1
+title:A New Approach to Cryptanalysis of Block Ciphers. citation:-1
+title:A new inequality in discrete Fourier theory. citation:-1
+title:A Side-channel Attack Resistant Programmable PKC Coprocessor for Embedded Applications. citation:-1
+title:Power Analysis of an FPGA: Implementation of Rijndael: Is Pipelining a DPA Countermeasure? citation:-1
+title:Secure Meeting Scheduling with agenTA. citation:-1
+title:Race Integrity Primitives Evaluation (RIPE): A Status Report. citation:-1
+title:On a Resynchronization Weakness in a Class of Combiners with Memory. citation:-1
+title:Hash functions. citation:-1
+title:Finding Collisions for a 45-Step Simplified HAS-V. citation:-1
+title:A Framework for the Analysis of Mix-Based Steganographic File Systems. citation:-1
+title:On the Practical Performance of Rateless Codes. citation:-1
+title:Side-channel resistant system-level design flow for public-key cryptography. citation:-1
+title:Modes of Operation of a Block Cipher. citation:-1
+title:ECRYPT: The Cryptographic Research Challenges for the Next Decade. citation:-1
+title:PAKE: A Tree-Based Group Password-Authenticated Key Exchange Protocol Using Different Passwords. citation:-1
+title:Applications of Multivariate Quadratic Public Key Systems. citation:-1
+title:On the Covering Radius of Second Order Binary Reed-Muller Code in the Set of Resilient Boolean Functions. citation:-1
+title:Mash Hash Functions (Modular Arithmetic Secure Hash). citation:-1
+title:Equivalent Keys of HPC. citation:-1
+title:Efficient pipelining for modular multiplication architectures in prime fields. citation:-1
+title:Improved Pairing Protocol for Bluetooth. citation:-1
+title:Cryptographic Challenges: The Past and the Future. citation:-1
+title:On the Security of HMAC and NMAC Based on HAVAL, MD4, MD5, SHA-0 and SHA-1 (Extended Abstract). citation:-1
+title:The State of Hash Functions and the NIST SHA-3 Competition. citation:-1
+title:Standardization of Cryptographic Techniques. citation:-1
+title:Davies-Meyer Hash Function. citation:-1
+title:Computer Security and Industrial Cryptography - State of the Art and Evolution, ESAT Course, Leuven, Belgium, May 21-23, 1991 citation:-1
+title:State of the Art in Applied Cryptography, Course on Computer Security and Industrial Cryptography, Leuven, Belgium, June 3-6, 1997. Revised Lectures citation:-1
+title:Secure Information Networks: Communications and Multimedia Security, IFIP TC6/TC11 Joint Working Conference on Communications and Multimedia Security (CMS '99), September 20-21, 1999, Leuven, Belgium citation:-1
+title:Topics in Cryptology - CT-RSA 2002, The Cryptographer's Track at the RSA Conference, 2002, San Jose, CA, USA, February 18-22, 2002, Proceedings citation:-1
+title:An embedded platform for privacy-friendly road charging applications. citation:-1
+title:Computer Security - ESORICS 2010, 15th European Symposium on Research in Computer Security, Athens, Greece, September 20-22, 2010. Proceedings citation:-1
+title:Advances in Cryptology - EUROCRYPT 2000, International Conference on the Theory and Application of Cryptographic Techniques, Bruges, Belgium, May 14-18, 2000, Proceeding citation:-1
+title:Shape-based features for image hashing. citation:-1
+title:Information Security, 9th International Conference, ISC 2006, Samos Island, Greece, August 30 - September 2, 2006, Proceedings citation:-1
+title:Cryptography for Network Security: Failures, Successes and Challenges. citation:-1
+title:Selected Areas in Cryptography, 12th International Workshop, SAC 2005, Kingston, ON, Canada, August 11-12, 2005, Revised Selected Papers citation:-1
+title:SOFSEM 2008: Theory and Practice of Computer Science, 34th Conference on Current Trends in Theory and Practice of Computer Science, Nový Smokovec, Slovakia, January 19-25, 2008, Proceedings citation:-1
+title:SOFSEM 2008: Theory and Practice of Computer Science, 34th Conference on Current Trends in Theory and Practice of Computer Science, Nový Smokovec, Slovakia, January 19-25, 2008, Volume II - Student Research Forum citation:-1
+title:Progress in Cryptology - AFRICACRYPT 2009, Second International Conference on Cryptology in Africa, Gammarth, Tunisia, June 21-25, 2009. Proceedings citation:-1
+title:Optimistic Fair Priced Oblivious Transfer. citation:-1
+title:A Secure Low-Delay Protocol for Wireless Body Area Networks. citation:-1
+title:Cryptanalysis of the ESSENCE Family of Hash Functions. citation:-1
+title:Public Key Infrastructures, Services and Applications - 6th European Workshop, EuroPKI 2009, Pisa, Italy, September 10-11, 2009, Revised Selected Papers citation:-1
+title:A novel video hash algorithm. citation:-1
+title:Increased Resilience in Threshold Cryptography: Sharing a Secret with Devices That Cannot Store Shares. citation:-1
+title:Galois geometries and applications. citation:-1
+title:Meet-in-the-Middle Attacks on Reduced-Round XTEA. citation:-1
+title:Cryptographic Hash Functions: Theory and Practice. citation:-1
+title:Cryptographic Hash Functions: Theory and Practice. citation:-1
+title:Cryptanalysis of a Perturbated White-Box AES Implementation. citation:-1
+title:A Privacy-Preserving ID-Based Group Key Agreement Scheme Applied in VPAN. citation:-1
+title:AES Data Encryption in a ZigBee Network: Software or Hardware? citation:-1
+title:A Provably Secure Anonymous Buyer-Seller Watermarking Protocol. citation:-1
+title:The Additive Differential Probability of ARX. citation:-1
+title:Security Properties of Domain Extenders for Cryptographic Hash Functions. citation:-1
+title:Cryptanalysis of the Two-Dimensional Circulation Encryption Algorithm. citation:-1
+title:MQ^*-IP: An Identity-based Identification Scheme without Number-theoretic Assumptions. citation:-1
+title:A Weakness in Some Oblivious Transfer and Zero-Knowledge Protocols. citation:-1
+title:Practical DPA Attacks on MDPL. citation:-1
+title:Increased Resilience in Threshold Cryptography: Sharing a Secret with Devices That Cannot Store Shares. citation:-1
+title:Cryptanalysis of Dynamic SHA(2). citation:-1
+title:Precise Bounded-Concurrent Zero-Knowledge in Almost Constant Rounds. citation:-1
+title:Revisiting Higher-Order DPA Attacks: Multivariate Mutual Information Analysis. citation:-1
+title:Hash Functions Based on Three Permutations: A Generic Security Analysis. citation:-1
+title:New Attacks on the Stream Cipher TPy6 and Design of New Ciphers the TPy6-A and the TPy6-B. citation:-1
+title:White-Box Cryptography: Formal Notions and (Im)possibility Results. citation:-1
+title:Threshold-Based Location-Aware Access Control. citation:-1
+title:Collision Attack. citation:-1
+title:AHS Competition/SHA-3. citation:-1
+title:CMAC. citation:-1
+title:Hash Functions. citation:-1
+title:MDC-2 and MDC-4. citation:-1
+title:NESSIE Project. citation:-1
+title:Second Preimage Resistance. citation:-1
+title:Modes of Operation of a Block Cipher. citation:-1
+title:MAC Algorithms. citation:-1
+title:CBC-MAC and Variants. citation:-1
+title:Universal One-Way Hash Functions (UOWHF). citation:-1
+title:MASH Hash Functions (Modular Arithmetic Secure Hash). citation:-1
+title:Correcting-Block Attack. citation:-1
+title:GMAC. citation:-1
+title:Preimage Resistance. citation:-1
+title:Davies-Meyer. citation:-1
+title:Collision Resistance. citation:-1
+title:Algebraic Techniques in Differential Cryptanalysis Revisited. citation:-1
+title:Finding Collisions for Reduced -256 v2 (Poster). citation:-1
+title:A Lightweight 256-Bit Hash Function for Hardware and Low-End Devices: Lesamnta-LW. citation:-1
+title:The NIST SHA-3 Competition: A Perspective on the Final Year. citation:-1
+title:Radon Transform-Based Secure Image Hashing. citation:-1
+title:A Modular Test Platform for Evaluation of Security Protocols in NFC Applications. citation:-1
+title:A Secure Perceptual Hash Algorithm for Image Content Authentication. citation:-1
+title:Advanced theory and practice for cryptography and future security. citation:-1
+title:An AES Based 256-bit Hash Function for Lightweight Applications: Lesamnta-LW. citation:-1
+title:Square Attacks on Reduced-Round Variants of the Skipjack Block Cipher. citation:-1
+title:Applying General Access Structure to Metering Schemes. citation:-1
+title:Multi-Party Computation from any Linear Secret Sharing Scheme Secure against Adaptive Adversary: The Zero-Error Case. citation:-1
+title:Applications of Multivariate Quadratic Public Key Systems. citation:-1
+title:On the (In)security of Stream Ciphers Based on Arrays and Modular Addition (Full Version). citation:-1
+title:Equivalent Keys in Multivariate Quadratic Public Key Systems. citation:-1
+title:Impossible Differential Cryptanalysis of the Lightweight Block Ciphers TEA, XTEA and HIGHT. citation:-1
+title:A note on Weak Keys of PES, IDEA and some Extended Variants. citation:-1
+title:Taxonomy of Public Key Schemes based on the problem of Multivariate Quadratic equations. citation:-1
+title:Classification of Highly Nonlinear Boolean Power Functions with a Randomised Algorithm for Checking Normality. citation:-1
+title:Classification of Cubic (n-4)-resilient Boolean Functions. citation:-1
+title:Superfluous Keys in Multivariate Quadratic Asymmetric Systems. citation:-1
+title:A Practical Attack on KeeLoq. citation:-1
+title:A taxonomy of self-modifying code for obfuscation. citation:-1
+title:Practical Attacks on a Cryptosystem Proposed in Patent WO/2009/066313. citation:-1
+title:DES Collisions Revisited. citation:-1
+title:On security arguments of the second round SHA-3 candidates. citation:-1
+title:On Security Arguments of the Second Round SHA-3 Candidates. citation:-1
+title:Privacy and Security in Smart Energy Grids (Dagstuhl Seminar 11511). citation:-1
+title:Symmetric Cryptography (Dagstuhl Seminar 12031). citation:-1
+title:A linux kernel cryptographic framework: decoupling cryptographic keys from applications. citation:-1
+title:A general model for hiding control flow. citation:-1
+title:Evaluating Tag-Based Preference Obfuscation Systems. citation:-1
+title:Toward More Secure and Reliable Access Control. citation:-1
+title:UNAF: A Special Set of Additive Differences with Application to the Differential Analysis of ARX. citation:-1
+title:A Model for Structure Attacks, with Applications to PRESENT and Serpent. citation:-1
+title:Robust Image Content Authentication with Tamper Location. citation:-1
+title:Soft Decision Error Correction for Compact Memory-Based PUFs Using a Single Enrollment. citation:-1
+title:Hash Functions Based on Three Permutations: A Generic Security Analysis. citation:-1
+title:Criteria towards metrics for benchmarking template protection algorithms. citation:-1
+title:It's Not My Fault - On Fault Attacks on Symmetric Cryptography. citation:-1
+title:Security Analysis and Comparison of the SHA-3 Finalists BLAKE, Grøstl, JH, Keccak, and Skein. citation:-1
+title:Impossible Differential Cryptanalysis of the Lightweight Block Ciphers TEA, XTEA and HIGHT. citation:-1
+title:A cross-protocol attack on the TLS protocol. citation:-1
+title:Robust Image Content Authentication Using Perceptual Hashing and Watermarking. citation:-1
+title:Differential and Linear Cryptanalysis Using Mixed-Integer Linear Programming. citation:-1
+title:Interface Design for Mapping a Variety of RSA Exponentiation Algorithms on a HW/SW Co-design Platform. citation:-1
+title:Equivalent keys in ?ultivariate uadratic public key systems. citation:-1
+title:Cryptanalysis of the Xiao - Lai White-Box AES Implementation. citation:-1
+title:Security implications in Kerberos by the introduction of smart cards. citation:-1
+title:Algebraic cryptanalysis of a small-scale version of stream cipher Lex. citation:-1
+title:End-To-End Security for Video Distribution: The Combination of Encryption, Watermarking, and Video Adaptation. citation:-1
+title:Preface. citation:-1
+title:For some eyes only: protecting online information sharing. citation:-1
+title:Flexible Design of a Modular Simultaneous Exponentiation Core for Embedded Platforms. citation:-1

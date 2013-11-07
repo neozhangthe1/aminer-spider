@@ -1,0 +1,20 @@
+title1:Minimum-Link Paths Among Obstacles in the Plan. title2:Minimum-link paths among obstacles in the plane citation:82 ncitation:82 pid750461
+title1:Approximability and Nonapproximability Results for Minimizing Total Flow Time on a Single Machine. title2:Approximability and nonapproximability results for minimizing total flow time on a single machine citation:117 ncitation:113 pid838647
+title1:Polynomial Graph-Colorings. title2:Polynomial graph-colorings citation:87 ncitation:87 pid1280154
+title1:More about Subcolorings. title2:MORE ABOUT SUBCOLORINGS citation:0 ncitation:16 pid623035
+title1:Approximability and Nonapproximability Results for Minimizing Total Flow Time on a Single Machine. title2:Approximability and nonapproximability results for minimizing total flow time on a single machine citation:117 ncitation:113 pid1077903
+title1:Makespan minimization in open shops: A polynomial time approximation scheme. title2:Makespan minimization in open shops: A polynomial time approximation scheme citation:84 ncitation:80 pid1014223
+title1:An On-Line Scheduling Heuristic With Better Worst Case Ratio Than Graham's List Scheduling. title2:An on-line scheduling heuristic with better worst-case ratio than Graham's list scheduling citation:106 ncitation:103 pid105179
+title1:Minimum-Link Paths Among Obstacles in the Plane. title2:Minimum-link paths among obstacles in the plane citation:82 ncitation:82 pid931187
+title1:On-line Packing and Covering Problems. title2:On-line packing and covering problems citation:145 ncitation:128 pid809829
+title1:Semi-online scheduling with decreasing job sizes. title2:Semi-online scheduling with decreasing job sizes citation:91 ncitation:88 pid186555
+title1:When Does a Dynamic Programming Formulation Guarantee the Existence of a Fully Polynomial Time Approximation Scheme (FPTAS)? title2:When does a dynamic programming formulation guarantee the existence of a fully polynomial time approximation scheme (FPTAS)? citation:113 ncitation:161 pid1025750
+title1:Approximation Schemes for Scheduling. title2:Approximation schemes for scheduling on parallel machines citation:98 ncitation:72 pid652588
+title1:Graph colorings. title2:Polynomial graph-colorings citation:87 ncitation:-1 pid1030120
+title1:On-Line Scheduling of Jobs with Fixed Start and End Times. title2:On-line scheduling of jobs with fixed start and end times citation:99 ncitation:97 pid1029508
+title1:Polynomial graph-colorings. title2:Polynomial graph-colorings citation:87 ncitation:87 pid750719
+title1:Randomized Online Scheduling on Two Uniform Machines. citation:81 ncitation:75 pid1144605
+title1:An axiomatic characterization of the Hirsch-index. title2:An axiomatic characterization of the Hirsch-index citation:90 ncitation:84 pid1013464
+title1:The Convex-Hull-and-k-Line Travelling Salesman Problem. title2:The Convex-hull-and-k-line Travelling Salesman Problem citation:0 ncitation:13 pid406765
+title1:More About Subcolorings. title2:MORE ABOUT SUBCOLORINGS citation:0 ncitation:16 pid1029394
+title1:Automata, Languages and Programming, 30th International Colloquium, ICALP 2003, Eindhoven, The Netherlands, June 30 - July 4, 2003. Proceedings title2:Automata, Languages and Programming: 30th International Colloquium, ICALP 2003, Eindhoven, The Netherlands, June 30-July 4, 2003: Proceedings citation:0 ncitation:2 pid1029393

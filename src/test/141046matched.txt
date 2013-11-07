@@ -1,0 +1,283 @@
+title1:Inexact graph matching using genetic search. title2:Inexact graph matching using genetic search citation:150 ncitation:136 pid1039084
+title1:Flow Complexity: Fast Polytopal Graph Complexity and 3D Object Clustering. title2:Flow complexity: Fast polytopal graph complexity and 3d object clustering citation:10 ncitation:8 pid1244025
+title1:Genetic algorithms for ambiguous labelling problems. title2:Genetic algorithms for ambiguous labelling problems citation:12 ncitation:18 pid1040678
+title1:Least-commitment graph matching with genetic algorithms. title2:Least-commitment graph matching with genetic algorithms citation:31 ncitation:29 pid1040679
+title1:Alignment using Spectral Clusters. title2:Alignment using Spectral Clusters. citation:8 ncitation:9 pid67197
+title1:Graph-Based Methods for Vision: A Yorkist Manifesto. title2:Graph-based methods for vision: A yorkist manifesto citation:27 ncitation:29 pid618873
+title1:Bayesian Extraction of Differential Surface Structure. title2:Bayesian extraction of differential surface structure citation:5 ncitation:6 pid73668
+title1:A Matrix Representation of Graphs and its Spectrum as a Graph Invariant. title2:A matrix representation of graphs and its spectrum as a graph invariant citation:21 ncitation:18 pid1547258
+title1:A unified framework for alignment and correspondence. title2:A unified framework for alignment and correspondence citation:31 ncitation:29 pid799630
+title1:Estimating the Surface Radiance Function from Single Images. title2:Estimating the surface radiance function from single images citation:21 ncitation:22 pid835137
+title1:Face Recognition using 2.5D Shape Information. title2:Face recognition using 2.5 D shape information citation:7 ncitation:8 pid4369
+title1:Face Recognition using Patch-based Spin Images. title2:Face recognition using patch-based spin images citation:5 ncitation:3 pid129097
+title1:Quasi-isometric parameterization for texture mapping. title2:Quasi-isometric parameterization for texture mapping citation:4 ncitation:4 pid347662
+title1:Recovering Facial Shape and Albedo Using a Statistical Model of Surface Normal Direction. title2:Recovering facial shape and albedo using a statistical model of surface normal direction citation:20 ncitation:18 pid1042834
+title1:Matching Delaunay Graphs. title2:Matching delaunay graphs citation:59 ncitation:52 pid293678
+title1:An expectation-maximisation framework for segmentation and grouping. citation:10 ncitation:10 pid311807
+title1:Graph matching using the interference of discrete-time quantum walks. title2:Graph matching using the interference of discrete-time quantum walks citation:9 ncitation:8 pid1249813
+title1:Surface Normals and Height from Non-Lambertian Image Data. title2:Surface normals and height from non-lambertian image data citation:7 ncitation:6 pid73705
+title1:Multi-View Surface Reconstruction Using Polarization. title2:Multi-view surface reconstruction using polarization citation:24 ncitation:17 pid4361
+title1:Feature tracking by multi-frame relaxation. title2:Feature tracking by multi-frame relaxation citation:11 ncitation:12 pid292844
+title1:Fuzzy Relational Distance for Large-Scale Object Recognition. title2:Fuzzy relational distance for large-scale object recognition citation:21 ncitation:22 pid73711
+title1:Surface Reconstruction Using Polarization and Photometric Stereo. title2:Surface reconstruction using polarization and photometric stereo citation:6 ncitation:5 pid128250
+title1:Combinatorial Surface Integration. title2:Combinatorial surface integration citation:8 ncitation:7 pid324296
+title1:Graph Spectral Approach for Learning View Structure. title2:Graph spectral approach for learning view structure citation:9 ncitation:7 pid347770
+title1:Graph spectral image smoothing using the heat kernel. title2:Graph spectral image smoothing using the heat kernel citation:36 ncitation:22 pid346673
+title1:The Independent and Principal Component of Graph Spectra. title2:The independent and principal component of graph spectra citation:6 ncitation:7 pid312773
+title1:Terrain Analysis Using Radar Shape-from-Shading. title2:Terrain analysis using radar shape-from-shading citation:46 ncitation:41 pid347760
+title1:Corner Detection Using a Mixture Model of Edge Orientation. title2:Corner detection using a mixture model of edge orientation citation:5 ncitation:5 pid1031184
+title1:Noise Models for Linear Feature Detection in SAR Images. title2:Noise models for linear feature detection in SAR images citation:11 ncitation:11 pid67104
+title1:Estimating 3D Facial Pose using the EM Algorithm. title2:Estimating 3D facial pose using the EM algorithm citation:11 ncitation:11 pid93269
+title1:Graph Clustering with Tree-Unions. title2:Graph clustering with tree-unions citation:8 ncitation:8 pid169003
+title1:Recovering facial pose with the EM algorithm. title2:Recovering facial pose with the EM algorithm citation:20 ncitation:20 pid73663
+title1:Tangent Fields from Population Coding. title2:Tangent fields from population coding citation:7 ncitation:7 pid311713
+title1:Pairwise Clustering with Matrix Factorisation and the EM Algorithm. title2:Pairwise clustering with matrix factorisation and the EM algorithm citation:9 ncitation:10 pid311723
+title1:Curvature Correction of the Hamilton-Jacobi Skeleton. title2:Curvature correction of the Hamilton-Jacobi skeleton citation:4 ncitation:3 pid311725
+title1:Probabilistic relaxation labelling using the Fokker-Planck equation. citation:14 ncitation:11 pid169165
+title1:Deterministic search for relational graph matching. title2:Deterministic search for relational graph matching citation:42 ncitation:39 pid129253
+title1:Matching Point-sets using Procrustes Alignment and the EM Algorithm. title2:Matching Point-sets using Procrustes Alignment and the EM Algorithm. citation:12 ncitation:10 pid1042746
+title1:A Bayesian interpretation for the exponential correlation associative memory. title2:A Bayesian interpretation for the exponential correlation associative memory citation:10 ncitation:10 pid1041902
+title1:Consistent topographic surface labelling. title2:Consistent topographic surface labelling citation:14 ncitation:14 pid67302
+title1:Shape-from-Shading Using Darboux Smoothing. title2:Shape-from-shading using darboux smoothing citation:4 ncitation:5 pid1041906
+title1:Rough Surface Correction and Re-illumination Using the Modified Beckmann Model. title2:Rough surface correction and re-illumination using the modified Beckmann model citation:5 ncitation:4 pid587412
+title1:Graph Matching with Hierarchical Discrete Relaxation. title2:Graph matching with hierarchical discrete relaxation citation:17 ncitation:16 pid73538
+title1:Improved Orientation Estimation for Texture Planes Using Multiple Vanishing Points. title2:Improved orientation estimation for texture planes using multiple vanishing points citation:9 ncitation:7 pid73539
+title1:Learning Shape-Classes Using a Mixture of Tree-Unions. title2:Learning shape-classes using a mixture of tree-unions citation:63 ncitation:59 pid517503
+title1:Probabilistic Phase Based Sparse Stereo. title2:Probabilistic phase based sparse stereo citation:5 ncitation:5 pid205978
+title1:Gender Classification Using Principal Geodesic Analysis and Gaussian Mixture Models. title2:Gender classification using principal geodesic analysis and Gaussian mixture models citation:4 ncitation:4 pid349035
+title1:Corner Detection Via Topographic Analysis of Vector Potential. title2:Corner detection via topographic analysis of vector-potential citation:57 ncitation:54 pid73589
+title1:Image Scale-Space from the Heat Kernel. title2:Image scale-space from the heat kernel citation:7 ncitation:7 pid93354
+title1:Testing new variants of the Beckmann-Kirchhoff model against radiance data. citation:17 ncitation:16 pid67294
+title1:Hypergraphs, Characteristic Polynomials and the Ihara Zeta Function. title2:Hypergraphs, characteristic polynomials and the ihara zeta function citation:4 ncitation:4 pid93364
+title1:Shape Retrieval by Inexact Graph Matching. title2:Shape retrieval by inexact graph matching citation:10 ncitation:10 pid835303
+title1:Correspondence matching using kernel principal components analysis and label consistency constraints. title2:Correspondence matching using kernel principal components analysis and label consistency constraints citation:17 ncitation:15 pid1238566
+title1:Graph-Based Object Class Discovery. title2:Graph-based object class discovery citation:6 ncitation:6 pid1041826
+title1:Spectral Feature Vectors for Graph Clustering. title2:Spectral feature vectors for graph clustering citation:35 ncitation:32 pid2420814
+title1:Alignment and Correspondence Using Singular Value Decomposition. title2:Alignment and correspondence using singular value decomposition citation:6 ncitation:6 pid312646
+title1:Population Coding of Multiple Edge Orientation. title2:Probabilistic population coding of multiple edge orientation citation:4 ncitation:1 pid1238595
+title1:Darboux smoothing for shape-from-shading. title2:Darboux smoothing for shape-from-shading citation:12 ncitation:11 pid618942
+title1:Spectral Simplification of Graphs. title2:Spectral simplification of graphs citation:15 ncitation:16 pid272060
+title1:Robust Multi-body Motion Tracking Using Commute Time Clustering. title2:Robust multi-body motion tracking using commute time clustering citation:14 ncitation:13 pid312648
+title1:Weighted Principal Geodesic Analysis for Facial Gender Classification. title2:Weighted principal geodesic analysis for facial gender classification citation:12 ncitation:10 pid1045647
+title1:Highlight Removal Using Shape-from-Shading. title2:Highlight removal using shape-from-shading citation:12 ncitation:13 pid169130
+title1:Reflectance correction for perspiring faces. title2:Reflectance correction for perspiring faces citation:5 ncitation:5 pid2206523
+title1:Symbolic Graph Matching Using the EM Algorithm and Singular Value Decomposition. title2:Symbolic graph matching using the em algorithm and singular value decomposition citation:4 ncitation:5 pid93412
+title1:Estimating the albedo map of a face from a single image. title2:Estimating the albedo map of a face from a single image citation:8 ncitation:7 pid169133
+title1:Shape recognition from large image libraries by inexact graph matching. title2:Shape recognition from large image libraries by inexact graph matching citation:32 ncitation:26 pid73530
+title1:Pairwise Similarity Propagation Based Graph Clustering for Scalable Object Indexing and Retrieval. title2:Pairwise similarity propagation based graph clustering for scalable object indexing and retrieval citation:4 ncitation:5 pid347848
+title1:Relational Matching with Dynamic Graph Structures. title2:Relational matching with dynamic graph structures citation:28 ncitation:28 pid348980
+title1:Terrain Feature Identification by Modeling Radar Image Statistics. title2:Terrain feature identification by modeling radar image statistics citation:4 ncitation:4 pid1244034
+title1:Graph Matching for Shape Retrieval. title2:Graph matching for shape retrieval citation:12 ncitation:11 pid1244037
+title1:Object Recognition from Large Structural Libraries. title2:Relational object recognition from large structural libraries citation:34 ncitation:2 pid293886
+title1:Polarization-based Surface Reconstruction via Patch Matching. title2:Polarization-based surface reconstruction via patch matching citation:7 ncitation:7 pid316508
+title1:Graph Matching using Spectral Embedding and Alignment. title2:Graph matching using spectral embedding and alignment citation:25 ncitation:24 pid515796
+title1:Correspondence Matching with Modal Clusters. title2:Correspondence matching with modal clusters citation:71 ncitation:66 pid316507
+title1:Discovering Shape Categories by Clustering Shock Trees. title2:Discovering shape categories by clustering shock trees citation:6 ncitation:7 pid127460
+title1:Spectral Clustering of Graphs. title2:Spectral clustering of graphs citation:8 ncitation:9 pid346029
+title1:Symbolic graph matching with the EM algorithm. title2:Symbolic graph matching with the EM algorithm citation:45 ncitation:42 pid262466
+title1:Matching delaunay graphs. title2:Matching delaunay graphs citation:59 ncitation:52 pid1033740
+title1:Registering Incomplete Radar Images using the EM Algorithm. title2:Registering incomplete radar images using the EM algorithm citation:24 ncitation:24 pid73427
+title1:Iterative Procrustes alignment with the EM algorithm. title2:Iterative procrustes alignment with the EM algorithm citation:40 ncitation:33 pid73428
+title1:Graph Edit Distance from Spectral Seriation. title2:Graph edit distance from spectral seriation citation:137 ncitation:120 pid73429
+title1:Spectral embedding of graphs. title2:Spectral embedding of graphs citation:182 ncitation:174 pid1039331
+title1:A spectral approach to learning structural variations in graphs. title2:A spectral approach to learning structural variations in graphs citation:23 ncitation:18 pid67401
+title1:An EM-like Algorithm for Motion Segmentation via Eigendecomposition. title2:An EM-like Algorithm for Motion Segmentation via Eigendecomposition. citation:6 ncitation:7 pid1032826
+title1:The modified Beckmann-Kirchhoff scattering theory for rough surface analysis. citation:28 ncitation:26 pid67392
+title1:Gender classification based on facial surface normals. title2:Learning mixture models for gender classification based on facial surface normals citation:10 ncitation:4 pid1040413
+title1:Shape from Periodic Texture Using the Eigenvectors of Local Affine Distortion. title2:Shape from periodic texture using the eigenvectors of local affine distortion citation:25 ncitation:25 pid1040415
+title1:Isotree: Tree clustering via metric embedding. title2:Isotree: Tree clustering via metric embedding citation:8 ncitation:6 pid312506
+title1:Shape Estimation Using Polarization and Shading from Two Views. title2:Shape estimation using polarization and shading from two views citation:26 ncitation:22 pid1042577
+title1:Correcting curvature-density effects in the Hamilton-Jacobi skeleton. citation:20 ncitation:18 pid349870
+title1:Probabilistic Fiber Tracking Using Particle Filtering. title2:Probabilistic fiber tracking using particle filtering citation:14 ncitation:11 pid1555686
+title1:A Light Scattering Model for Layered Dielectrics with Rough Surface Boundaries. title2:A light scattering model for layered dielectrics with rough surface boundaries citation:11 ncitation:10 pid1032815
+title1:A Skeletal Measure of 2D Shape Similarity. title2:A skeletal measure of 2D shape similarity citation:16 ncitation:64 pid917943
+title1:Clustering and Embedding Using Commute Times. title2:Clustering and embedding using commute times citation:105 ncitation:80 pid1033821
+title1:Model Acquisition Using Shape-from-Shading. title2:Model acquisition using Shape-from-Shading citation:6 ncitation:6 pid1102071
+title1:Ranking the local invariant features for the robust visual saliencies. title2:Ranking the local invariant features for the robust visual saliencies citation:11 ncitation:11 pid222696
+title1:Graph Matching using Adjacency Matrix Markov Chains. title2:Graph Matching using Adjacency Matrix Markov Chains. citation:13 ncitation:14 pid498616
+title1:Graph Matching With a Dual-Step EM Algorithm. title2:Graph matching with a dual-step EM algorithm citation:210 ncitation:200 pid466670
+title1:A Probabilistic Framework for Graph Clustering. title2:A probabilistic framework for graph clustering citation:19 ncitation:18 pid466667
+title1:Facial Shape-from-shading and Recognition Using Principal Geodesic Analysis and Robust Statistics. title2:Facial shape-from-shading and recognition using principal geodesic analysis and robust statistics citation:37 ncitation:32 pid1033803
+title1:Graph Embedding Using Quantum Commute Times. title2:Graph embedding using quantum commute times citation:18 ncitation:13 pid40376
+title1:Registering incomplete radar images using the EM algorithm. title2:Registering incomplete radar images using the EM algorithm citation:24 ncitation:24 pid349888
+title1:Estimating the surface radiance function from single images. title2:Estimating the surface radiance function from single images citation:21 ncitation:22 pid908160
+title1:Acquiring Height Maps of Faces from a Single Image. title2:Acquiring height maps of faces from a single image citation:14 ncitation:12 pid222718
+title1:Kernel Spectral Correspondence Matching Using Label Consistency Constraints. title2:Kernel spectral correspondence matching using label consistency constraints citation:4 ncitation:4 pid1652189
+title1:Skin Reflectance Modelling for Face Recognition. title2:Skin reflectance modelling for face recognition citation:10 ncitation:9 pid312572
+title1:Recovery of surface orientation from diffuse polarization. title2:Recovery of surface orientation from diffuse polarization citation:49 ncitation:37 pid40351
+title1:Pattern spaces from graph polynomials. title2:Pattern spaces from graph polynomials citation:7 ncitation:6 pid324374
+title1:Needle Map Recovery using Robust Regularizers. title2:Needle map recovery using robust regularizers citation:45 ncitation:41 pid312339
+title1:Region-Based Object Recognition Using Shape-from-Shading. title2:Region-based object recognition using shape-from-shading citation:6 ncitation:6 pid348078
+title1:A Radar Reflectance Model for Terrain Analysis Using Shape from Shading. title2:A radar reflectance model for terrain analysis using shape from shading citation:4 ncitation:4 pid262598
+title1:Heat Kernels, Manifolds and Graph Embedding. title2:Heat kernels, manifolds and graph embedding citation:16 ncitation:14 pid312351
+title1:Geometric Characterisation of Graphs. title2:Geometric characterisation of graphs citation:9 ncitation:8 pid67583
+title1:Inexact Graph Matching with Genetic Search. title2:Inexact graph matching with genetic search citation:5 ncitation:4 pid312350
+title1:Genetic Search for Structural Matching. title2:Genetic search for structural matching citation:44 ncitation:39 pid262650
+title1:Eigenvector method for texture recognition. title2:Eigenvector method for texture recognition citation:5 ncitation:6 pid312353
+title1:Edit Distance From Graph Spectra. title2:Edit distance from graph spectra citation:27 ncitation:23 pid618711
+title1:Grouping Line-segments using Eigenclustering. title2:Grouping-line segments using eigenclustering citation:11 ncitation:9 pid2618159
+title1:Separating Lambertian and Specular Reflectance Components using Iterated Conditional Modes. title2:Separating lambertian and specular reflectance components using iterated conditional modes citation:16 ncitation:16 pid618708
+title1:A skeletal measure of 2D shape similarity. title2:A skeletal measure of 2D shape similarity citation:16 ncitation:64 pid516105
+title1:Matching and Embedding through Edit-Union of Trees. title2:Matching and embedding through edit-union of trees citation:21 ncitation:22 pid322178
+title1:A Maximum Likelihood Framework for Iterative Eigendecomposition. title2:A maximum likelihood framework for iterative eigendecomposition citation:10 ncitation:11 pid168360
+title1:An Energy Function and Continuous Edit Process for Graph Matching. title2:An energy function and continuous edit process for graph matching citation:39 ncitation:36 pid168367
+title1:Two-dimensional BRDF estimation from polarisation. title2:Two-dimensional brdf estimation from polarisation citation:12 ncitation:11 pid316684
+title1:Detecting multiple texture planes using local spectral distortion. title2:Detecting multiple texture planes using local spectral distortion citation:7 ncitation:7 pid293594
+title1:Estimating the 3D orientation of texture planes using local spectral analysis. title2:Estimating the 3D orientation of texture planes using local spectral analysis citation:15 ncitation:10 pid67494
+title1:Detecting Multiple Texture Planes using Local Spectral Distortion. title2:Detecting multiple texture planes using local spectral distortion citation:7 ncitation:6 pid1031569
+title1:3-D Planar Orientation from Texture: Estimating Vanishing Point from Local Spectral Analysis. title2:3-D Planar Orientation from Texture: Estimating Vanishing Point from Local Spectral Analysis. citation:10 ncitation:10 pid323253
+title1:Matching Delauny Triangulations by Probabilistic Relaxation. title2:Matching delaunay triangulations by probabilistic relaxation citation:16 ncitation:16 pid293591
+title1:Riemannian Graph Diffusion for DT-MRI Regularization. title2:Riemannian graph diffusion for DT-MRI regularization citation:8 ncitation:7 pid1022903
+title1:A Coupled Statistical Model for Face Shape Recovery. title2:A coupled statistical model for face shape recovery from brightness images citation:30 ncitation:-1 pid578037
+title1:Graph simplification and matching using commute times. title2:Graph simplification and matching using commute times citation:22 ncitation:19 pid835717
+title1:A Spectral Approach to Learning Structural Variations in Graphs. title2:A spectral approach to learning structural variations in graphs citation:23 ncitation:18 pid946930
+title1:A Minimum-Variance Adaptive Surface Mesh. title2:A minimum-variance adaptive surface mesh citation:4 ncitation:4 pid946928
+title1:Estimating Cast Shadows using SFS and Class-based Surface Completion. title2:Estimating cast shadows using sfs and class-based surface completion citation:7 ncitation:5 pid618663
+title1:Histogram-Based Object Recognition Using Shape-from-Shading. title2:Histogram-based object recognition using shape-from-shading citation:7 ncitation:7 pid1042545
+title1:Data-Driven Shape-from-Shading Using Curvature Consistency. title2:Data-driven shape-from-shading using curvature consistency citation:5 ncitation:6 pid67512
+title1:Discovering Shape Classes using Tree Edit-Distance and Pairwise Clustering. title2:Discovering shape classes using tree edit-distance and pairwise clustering citation:32 ncitation:26 pid498469
+title1:Structural Matching with Active Triangulations. title2:Structural matching with active triangulations citation:25 ncitation:27 pid618646
+title1:Bias-Variance Analysis for Controlling Adaptive Surface Meshes. citation:8 ncitation:9 pid1042502
+title1:Gauging Relational Consistency and Correcting Structural Errors. title2:Gauging relational consistency and correcting structural errors citation:11 ncitation:9 pid129424
+title1:A Coupled Statistical Model for Face Shape Recovery From Brightness Images. title2:A coupled statistical model for face shape recovery from brightness images citation:30 ncitation:28 pid129437
+title1:Facial Gender Classification Using Shape from Shading and Weighted Principal Geodesic Analysis. title2:Facial gender classification using shape from shading and weighted principal geodesic analysis citation:7 ncitation:7 pid1394245
+title1:Edge-Labeling Using Dictionary-Based Relaxation. title2:Edge-labeling using dictionary-based relaxation citation:150 ncitation:141 pid578005
+title1:A Riemannian Weighted Filter for Edge-sensitive Image Smoothing. title2:A Riemannian weighted filter for edge-sensitive image smoothing citation:7 ncitation:6 pid577995
+title1:Iterative Curve Organisation with the EM Algorithm. title2:Iterative curve organisation with the EM algorithm citation:21 ncitation:20 pid312436
+title1:Empirical Modelling of Genetic Algorithms. title2:Empirical modelling of genetic algorithms citation:33 ncitation:31 pid908064
+title1:Learning Mixture Models for Gender Classification Based on Facial Surface Normals. title2:Learning mixture models for gender classification based on facial surface normals citation:10 ncitation:10 pid835508
+title1:Bayesian Graph Edit Distance. title2:Bayesian graph edit distance citation:150 ncitation:140 pid835509
+title1:An Improved Point Proximity Matrix for Modal Matching. title2:An improved point proximity matrix for modal matching citation:4 ncitation:5 pid67486
+title1:Registering Multiple Cartographic Models with the Hierarchical Mixture of Experts Algorithm. title2:Registering multiple cartographic models with the hierarchical mixture of experts algorithm citation:8 ncitation:1 pid618636
+title1:Measuring Graph Similarity Using Spectral Geometry. title2:Measuring graph similarity using spectral geometry citation:9 ncitation:8 pid323201
+title1:Texture Recognition through Modal Analysis of Spectral Peak Patterns. title2:Texture recognition through modal analysis of spectral peak patterns citation:5 ncitation:5 pid1102731
+title1:Pose Clustering with Density Estimation and Structural Constraints. title2:Pose clustering with density estimation and structural constraints citation:6 ncitation:7 pid313260
+title1:Terrain Modeling in Synthetic Aperture Radar Images Using Shape-from-Shading. title2:Terrain modeling in synthetic aperture radar images using shape-from-shading citation:5 ncitation:6 pid1031797
+title1:Pattern vectors from the Ihara zeta function. title2:Pattern vectors from the Ihara zeta function citation:6 ncitation:5 pid860830
+title1:Iterative curve organisation with the EM algorithm. title2:Iterative curve organisation with the EM algorithm citation:21 ncitation:20 pid1032522
+title1:Computing approximate tree edit distance using relaxation labeling. title2:Computing approximate tree edit distance using relaxation labeling citation:61 ncitation:53 pid1616953
+title1:Relational Histograms for Shape Indexing. title2:Relational histograms for shape indexing citation:41 ncitation:43 pid2330569
+title1:Single Image Estimation of Facial Albedo Maps. title2:Single image estimation of facial albedo maps citation:7 ncitation:4 pid128676
+title1:Birkhoff polytopes, heat kernels and graph complexity. title2:Birkhoff polytopes, heat kernels and graph complexity citation:12 ncitation:8 pid313218
+title1:Manifold Embedding of Graphs Using the Heat Kernel. title2:Manifold embedding of graphs using the heat kernel citation:6 ncitation:4 pid346232
+title1:A Bayesian Framework for Radar Shape-from-Shading. title2:A Bayesian framework for radar shape-from-shading citation:9 ncitation:10 pid128678
+title1:Spectral Clustering of Graphs. title2:Spectral clustering of graphs citation:8 ncitation:9 pid1921070
+title1:A Linear Generative Model for Graph Structure. title2:A linear generative model for graph structure citation:6 ncitation:6 pid578127
+title1:Contextual decision rule for region analysis. title2:Contextual decision rule for region analysis citation:13 ncitation:13 pid262706
+title1:Weighted Graph-Matching Using Modal Clusters. title2:Weighted graph-matching using modal clusters citation:17 ncitation:14 pid619281
+title1:Acquiring height data from a single image of a face using local shape indicators. title2:Acquiring height data from a single image of a face using local shape indicators citation:18 ncitation:14 pid350481
+title1:Recovering Perspective Pose with a Dual Step EM Algorithm. title2:Recovering perspective pose with a dual step EM algorithm citation:5 ncitation:5 pid619299
+title1:Recovering Facial Shape Using a Statistical Model of Surface Normal Direction. title2:Recovering facial shape using a statistical model of surface normal direction citation:86 ncitation:71 pid395953
+title1:Graph Seriation Using Semi-definite Programming. title2:Graph seriation using semi-definite programming citation:7 ncitation:7 pid1923228
+title1:Tree Edit Distance from Information Theory. title2:Tree edit distance from information theory citation:4 ncitation:4 pid293195
+title1:Multiple graph matching with Bayesian inference. title2:Multiple graph matching with Bayesian inference citation:41 ncitation:34 pid73089
+title1:Graph Matching Using Spectral Seriation and String Edit Distance. title2:Graph matching using spectral seriation and string edit distance citation:5 ncitation:5 pid1910668
+title1:A Bayesian compatibility model for graph matching. title2:A Bayesian compatibility model for graph matching citation:61 ncitation:60 pid2408075
+title1:Graph matching with hierarchical discrete relaxation. title2:Graph matching with hierarchical discrete relaxation citation:17 ncitation:16 pid69968
+title1:Graph Partition for Matching. title2:Graph partition for matching citation:5 ncitation:5 pid395936
+title1:Graph embedding using tree edit-union. title2:Graph embedding using tree edit-union citation:36 ncitation:30 pid313142
+title1:Shape-From-Shading Using the Heat Equation. title2:Shape-from-shading using the heat equation citation:16 ncitation:13 pid127579
+title1:Point Pattern Matching with Robust Spectral Correspondence. title2:Point pattern matching with robust spectral correspondence citation:41 ncitation:37 pid222750
+title1:Robust Estimation of Reflectance Functions from Polarization. title2:Robust estimation of reflectance functions from polarization citation:7 ncitation:6 pid222751
+title1:Eigenspaces for Graphs. title2:Eigenspaces for graphs citation:9 ncitation:-1 pid946585
+title1:A Simple Coupled Statistical Model for 3D Face Shape Recovery. title2:A simple coupled statistical model for 3d face shape recovery citation:7 ncitation:7 pid73072
+title1:Graph matching using the interference of continuous-time quantum walks. title2:Graph matching using the interference of continuous-time quantum walks citation:20 ncitation:15 pid181000
+title1:Line Pattern Retrieval Using Relational Histograms. title2:Line pattern retrieval using relational histograms citation:77 ncitation:70 pid222769
+title1:Corner detection via topographic analysis of vector-potential. title2:Corner detection via topographic analysis of vector-potential citation:57 ncitation:54 pid222772
+title1:Surface height recovery from surface normals using manifold embedding. title2:Surface height recovery from surface normals using manifold embedding citation:7 ncitation:5 pid1046209
+title1:A graph spectral approach to shape-from-shading. title2:A graph-spectral approach to shape-from-shading citation:19 ncitation:20 pid222761
+title1:A Riemannian approach to graph embedding. title2:A Riemannian approach to graph embedding citation:63 ncitation:60 pid127584
+title1:Bayesian Graph Edit Distance. title2:Bayesian graph edit distance citation:150 ncitation:140 pid262866
+title1:Clustering shapes using heat content invariants. title2:Clustering shapes using heat content invariants citation:5 ncitation:5 pid320785
+title1:Learning mixtures of point distribution models with the EM algorithm. title2:Learning mixtures of point distribution models with the EM algorithm citation:13 ncitation:12 pid346245
+title1:Spectral Embedding of Feature Hypergraphs. title2:Spectral embedding of feature hypergraphs citation:11 ncitation:9 pid348473
+title1:Structural Graph Matching Using the EM Algorithm and Singular Value Decomposition. title2:Structural graph matching using the EM algorithm and singular value decomposition citation:293 ncitation:281 pid348475
+title1:Coined Quantum Walks Lift the Cospectrality of Graphs and Trees. title2:Coined quantum walks lift the cospectrality of graphs and trees citation:6 ncitation:18 pid348474
+title1:A Graph-Spectral Method for Surface Height Recovery from Needle-maps. title2:A graph-spectral method for surface height recovery from needle-maps citation:10 ncitation:10 pid222785
+title1:A Probabilistic Framework for Specular Shape-from-Shading. title2:A probabilistic framework for specular shape-from-shading citation:48 ncitation:42 pid1031870
+title1:Genetic Algorithms for Ambiguous Labelling Problems. title2:Genetic algorithms for ambiguous labelling problems citation:12 ncitation:18 pid320819
+title1:String Edit Distance, Random Walks and Graph Matching. title2:String edit distance, random walks and graph matching citation:13 ncitation:30 pid320821
+title1:Grey Scale Image Skeletonisation from Noise-Damped Vector Potential. title2:Grey scale image skeletonisation from noise-damped vector potential citation:6 ncitation:6 pid262811
+title1:Scale space vector fields for symmetry detection. title2:Scale space vector fields for symmetry detection citation:18 ncitation:19 pid348446
+title1:A Robust Eigendecomposition Framework for Inexact Graph-Matching. title2:A robust eigendecomposition framework for inexact graph-matching citation:4 ncitation:5 pid348445
+title1:Estimating facial pose using shape-from-shading. title2:Estimating facial pose using shape-from-shading citation:13 ncitation:14 pid619102
+title1:Lambertian reflectance correction for rough and shiny surfaces. title2:Lambertian reflectance correction for rough and shiny surfaces citation:17 ncitation:17 pid128903
+title1:Efficiently Computing Weighted Tree Edit Distance Using Relaxation Labeling. title2:Efficiently computing weighted tree edit distance using relaxation labeling citation:29 ncitation:28 pid348401
+title1:A New Framework for Grayscale and Colour Non-lambertian Shape-from-Shading. title2:A new framework for grayscale and colour non-lambertian shape-from-shading citation:11 ncitation:9 pid180880
+title1:String Kernels for Matching Seriated Graphs. title2:String kernels for matching seriated graphs citation:6 ncitation:4 pid619083
+title1:Coarse view synthesis using shape-from-shading. title2:Coarse view synthesis using shape-from-shading citation:5 ncitation:6 pid619082
+title1:Surface topography using shape-from-shading, . title2:Surface topography using shape-from-shading citation:10 ncitation:11 pid619081
+title1:Deterministic Search Stragtegies for Relational Graph Matching. title2:Deterministic search strategies for relational graph matching citation:4 ncitation:3 pid313014
+title1:Spectral correspondence for point pattern matching. title2:Spectral correspondence for point pattern matching citation:179 ncitation:168 pid348388
+title1:Coined quantum walks lift the cospectrality of graphs and trees. title2:Coined quantum walks lift the cospectrality of graphs and trees citation:6 ncitation:18 pid619074
+title1:Relational matching by discrete relaxation. title2:Relational matching by discrete relaxation citation:50 ncitation:43 pid154134
+title1:Regression tracking with data relevance determination. title2:Regression tracking with data relevance determination citation:5 ncitation:6 pid180900
+title1:Graph Matching Using Manifold Embedding. title2:Graph matching using manifold embedding citation:8 ncitation:5 pid619124
+title1:Softening Discrete Relaxation. title2:Softening discrete relaxation citation:11 ncitation:11 pid312008
+title1:Graph Embedding Using Commute Time. title2:Graph embedding using commute time citation:5 ncitation:4 pid180915
+title1:A mixture model for pose clustering. title2:A mixture model for pose clustering citation:10 ncitation:12 pid1044212
+title1:3D Surface Topography from Intensity Images. title2:3D surface topography from intensity images citation:11 ncitation:11 pid180919
+title1:Multiple line-template matching with the EM algorithm. title2:Multiple line-template matching with the EM algorithm citation:23 ncitation:22 pid320651
+title1:Needle map recovery using robust regularizers. title2:Needle map recovery using robust regularizers citation:45 ncitation:41 pid320654
+title1:Estimating the perspective pose of texture planes using spectral analysis on the unit sphere. title2:Estimating the perspective pose of texture planes using spectral analysis on the unit sphere citation:10 ncitation:6 pid320653
+title1:Graph Characteristics from the Ihara Zeta Function. title2:Graph characteristics from the Ihara zeta function citation:5 ncitation:5 pid180942
+title1:New Constraints on Data-Closeness and Needle Map Consistency for Shape-from-Shading. title2:New constraints on data-closeness and needle map consistency for shape-from-shading citation:207 ncitation:204 pid349439
+title1:Improved orientation estimation for texture planes using multiple vanishing points. title2:Improved orientation estimation for texture planes using multiple vanishing points citation:9 ncitation:7 pid1041939
+title1:Genetic algorithm parameter sets for line labelling. title2:Genetic algorithm parameter sets for line labelling citation:20 ncitation:16 pid1041938
+title1:Graph matching and clustering using spectral partitions. title2:Graph matching and clustering using spectral partitions citation:42 ncitation:35 pid180951
+title1:3D Object Recognition Using Hyper-Graphs and Ranked Local Invariant Features. title2:3D object recognition using hyper-graphs and ranked local invariant features citation:16 ncitation:14 pid311988
+title1:Polytopal Graph Complexity, Matrix Permanents, and Embedding. title2:Polytopal graph complexity, matrix permanents, and embedding citation:6 ncitation:6 pid180953
+title1:Graph Characteristic from the Gauss-Bonnet Theorem. title2:Graph characteristic from the gauss-bonnet theorem citation:5 ncitation:4 pid947232
+title1:Learning Class Specific Graph Prototypes. title2:Learning class specific graph prototypes citation:6 ncitation:3 pid129852
+title1:Probabilistic population coding of multiple edge orientation. title2:Probabilistic population coding of multiple edge orientation citation:4 ncitation:4 pid619056
+title1:Clustering Using Class Specific Hyper Graphs. title2:Clustering using class specific hyper graphs citation:9 ncitation:6 pid313050
+title1:Pattern Vectors from Algebraic Graph Theory. title2:Pattern vectors from algebraic graph theory citation:159 ncitation:129 pid515428
+title1:Structural Matching by Discrete Relaxation. title2:Structural matching by discrete relaxation citation:308 ncitation:299 pid619050
+title1:Estimating Surface Characteristics using Physical Reflectance Models. title2:Estimating surface characteristics using physical reflectance models citation:11 ncitation:11 pid619052
+title1:Surface radiance correction for shape from shading. title2:Surface radiance correction for shape from shading citation:26 ncitation:21 pid293895
+title1:A probabilistic framework for specular shape-from-shading. title2:A probabilistic framework for specular shape-from-shading citation:48 ncitation:42 pid1045340
+title1:Scale-Space Vector Fields for Feature Analysis. title2:Scale-space vector fields for feature analysis citation:19 ncitation:20 pid396101
+title1:Relational object recognition from large structural libraries. title2:Relational object recognition from large structural libraries citation:34 ncitation:33 pid396102
+title1:String Edit Distance, Random Walks And Graph Matching. title2:String edit distance, random walks and graph matching citation:13 ncitation:30 pid1041050
+title1:A probabilistic spectral framework for grouping and segmentation. title2:A probabilistic spectral framework for grouping and segmentation citation:11 ncitation:15 pid1045415
+title1:Face Recognition using Shading-Based Curvature Attributes. title2:Face recognition using shading-based curvature attributes citation:16 ncitation:15 pid1041047
+title1:Graph characteristics from the heat kernel trace. title2:Graph characteristics from the heat kernel trace citation:33 ncitation:20 pid349239
+title1:A Kernel View of Spectral Point Pattern Matching. title2:A kernel view of spectral point pattern matching citation:24 ncitation:24 pid349237
+title1:A graph-spectral approach to shape-from-shading. title2:A graph-spectral approach to shape-from-shading citation:19 ncitation:20 pid619208
+title1:Learning Structural Variations in Shock Trees. title2:Learning structural variations in shock trees citation:9 ncitation:10 pid319405
+title1:Smoothing Tensor-Valued Images Using Anisotropic Geodesic Diffusion. title2:Smoothing tensor-valued images using anisotropic geodesic diffusion citation:5 ncitation:5 pid93115
+title1:Perspective Pose from Spectral Voting. title2:Perspective pose from spectral voting citation:5 ncitation:4 pid60633
+title1:A Spectral Generative Model for Graph Structure. title2:A spectral generative model for graph structure citation:9 ncitation:8 pid1041105
+title1:Semi-supervised Feature Selection for Gender Classification. title2:Semi-supervised feature selection for gender classification citation:4 ncitation:2 pid1780382
+title1:Graph Based Representations in Pattern Recognition, 4th IAPR International Workshop, GbRPR 2003, York, UK, June 30 - July 2, 2003, Proceedings title2:Graph Based Representations in Pattern Recognition: 4th IAPR International Workshop, GbRPR 2003, York, UK, June 30-July 2, 2003. Proceedings citation:10 ncitation:9 pid619160
+title1:Spherical Embedding and Classification. title2:Spherical embedding and classification citation:8 ncitation:5 pid619148
+title1:What Is the Complexity of a Network? The Heat Flow-Thermodynamic Depth Approach. title2:What is the complexity of a network? the heat flow-thermodynamic depth approach citation:6 ncitation:4 pid319466
+title1:Learning Large Scale Class Specific Hyper Graphs for Object Recognition. title2:Learning large scale class specific hyper graphs for object recognition citation:5 ncitation:3 pid349269
+title1:Geometric characterization and clustering of graphs using heat kernel embeddings. title2:Geometric characterization and clustering of graphs using heat kernel embeddings citation:12 ncitation:6 pid619194
+title1:Coupled Prediction Classification for Robust Visual Tracking. title2:Coupled prediction classification for robust visual tracking citation:9 ncitation:6 pid619171
+title1:New Riemannian techniques for directional and tensorial image data. title2:New Riemannian techniques for directional and tensorial image data citation:6 ncitation:2 pid312917
+title1:Spherical embeddings for non-Euclidean dissimilarities. title2:Spherical embeddings for non-euclidean dissimilarities citation:13 ncitation:13 pid619172
+title1:Shape and refractive index recovery from single-view polarisation images. title2:Shape and refractive index recovery from single-view polarisation images citation:16 ncitation:9 pid128895
+title1:A Supergraph-based Generative Model. title2:A supergraph-based generative model citation:9 ncitation:8 pid2774193
+title1:Heat Flow-Thermodynamic Depth Complexity in Networks. title2:Heat flow-thermodynamic depth complexity in networks citation:4 ncitation:3 pid2785776
+title1:Robust Computation of the Polarisation Image. title2:Robust Computation of the Polarisation Image citation:7 ncitation:5 pid2785777
+title1:A generative model for graph matching and embedding. title2:A generative model for graph matching and embedding citation:14 ncitation:10 pid2788840
+title1:Manifold embedding for shape analysis. title2:Manifold embedding for shape analysis citation:5 ncitation:5 pid2793999
+title1:Probabilistic white matter fiber tracking using particle filtering and von Mises-Fisher sampling. citation:47 ncitation:31 pid2816911
+title1:Tensor MRI Regularization via Graph Diffusion. title2:Tensor MRI Regularization via Graph Diffusion. citation:5 ncitation:4 pid2816928
+title1:Characterising Graphs using the Heat Kernel. title2:Characterising Graphs using the Heat Kernel. citation:5 ncitation:5 pid2816948
+title1:Fast Isometric Parametrization of 3D Triangular Mesh. title2:Fast Isometric Parametrization of 3D Triangular Mesh. citation:5 ncitation:3 pid2816967
+title1:Image Segmentation using Commute Times. title2:Image Segmentation using Commute Times. citation:31 ncitation:26 pid2816983
+title1:Learning Generative Graph Prototypes Using Simplified von Neumann Entropy. title2:Learning generative graph prototypes using simplified von neumann entropy citation:7 ncitation:4 pid2860899
+title1:A Graph-Based Approach to Feature Selection. title2:A graph-based approach to feature selection citation:4 ncitation:2 pid2862576
+title1:Feature Selection for Gender Classification. title2:Semi-supervised feature selection for gender classification citation:4 ncitation:2 pid2867389
+title1:A polynomial characterization of hypergraphs using the Ihara zeta function. title2:A polynomial characterization of hypergraphs using the Ihara zeta function citation:6 ncitation:4 pid2902673
+title1:Gender discriminating models from facial surface normals. title2:Gender discriminating models from facial surface normals citation:6 ncitation:4 pid2903033
+title1:Graph Characterization via Ihara Coefficients. title2:Graph characterization via Ihara coefficients citation:32 ncitation:12 pid2903128
+title1:Graph Clustering Using the Jensen-Shannon Kernel. title2:Graph Clustering Using the Jensen-Shannon Kernel citation:4 ncitation:2 pid3009236
+title1:Graph matching through entropic manifold alignment. title2:Graph matching through entropic manifold alignment citation:15 ncitation:7 pid3014701
+title1:A study of pattern recovery in recurrent correlation associative memories. title2:A study of pattern recovery in recurrent correlation associative memories citation:5 ncitation:5 pid3017243
+title1:Pattern analysis with graphs: Parallel work at Bern and York. title2:Pattern analysis with graphs: Parallel work at Bern and York citation:4 ncitation:3 pid3066724
+title1:Hypergraph based information-theoretic feature selection. title2:Hypergraph based information-theoretic feature selection citation:6 ncitation:3 pid3077916
+title1:Graph characterizations from von Neumann entropy. title2:Graph characterizations from von Neumann entropy citation:12 ncitation:2 pid3078012
+title1:Segmenting modulated line textures with S-Gabor filters. title2:Segmenting modulated line textures with S-Gabor filters citation:5 ncitation:None pid3508379

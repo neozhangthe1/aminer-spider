@@ -1,0 +1,283 @@
+title:Coherence in Modularly Composed Adaptive Learning Documents. citation:-1
+title:Keep It Small and Smart. citation:-1
+title:Perceived Consistency. citation:-1
+title:Caching Indices for Efficient Lookup in Structured Overlay Networks. citation:-1
+title:A Peer-to-Peer Content Distribution Network. citation:-1
+title:Building Structures of Reusable Educational Content Based on LOM. citation:-1
+title:GLASS: A Distributed MHEG-Based Multimedia System. citation:-1
+title:Human perception of audio-visual skew. citation:-1
+title:06131 Abstracts Collection -- Peer-to -Peer -Systems and -Applications. citation:-1
+title:06131 Executive Summary -- Peer-to-Peer-Systems and -Applications. citation:-1
+title:Demonstration of a Peer-to-Peer Approach for Spatial Queries. citation:-1
+title:Wiederverwendung von Lernressourcen mittels Authoring by Aggregation im ResourceCenter. citation:-1
+title:Evaluation von Datenbanken zur Speicherung von strukturierten Metadaten am Beispiel LOM. citation:-1
+title:Austausch von Lernressourcen durch Peer-to-Peer-Netzwerke mit Hilfe von lokalen Ontologie-basierten Repositorien. citation:-1
+title:Pattern-basierte Erstellung eines E-Learning Spiels am Beispiel Network Calculus. citation:-1
+title:Einsatz und Evaluation eines Zielmanagement-Werkzeugs bei der selbstregulierten Internet-Recherche. citation:-1
+title:Einsatz persönlicher Wissensnetze im Ressourcen-basierten Lernen. citation:-1
+title:Format-übergreifende Anpassungen von elektronischen Lerninhalten. citation:-1
+title:Sicherheitsaspekte bei der Einsatzplanung von Microsoft Windows 2000. citation:-1
+title:Background Knowledge, Indexing and Matching Interdependencies of Document Management and Ontology-Maintenance. citation:-1
+title:Management Requirements of Web Service Compositions. citation:-1
+title:Capturing, Management and Utilization of Lifecycle Information for Learning Resources. citation:-1
+title:Improving Authoring-by-Aggregation and Using Aggregation Context for Query Expansion. citation:-1
+title:The Macro Design as an Own Task in WBT Production: Ideas, Concepts and a Tool. citation:-1
+title:Improving Retrieval of Reusable Learning Resources by Estimating Adaptation Effort. citation:-1
+title:Categorizing Learning Objects Based On Wikipedia as Substitute Corpus. citation:-1
+title:Capture of Lifecycle Information to Support Personal Information Management. citation:-1
+title:Ontology Enrichment Evaluation. citation:-1
+title:Using a Multi-Layer Approach to Tackle the Service Interaction Problem in Telephony Scenarios. citation:-1
+title:Enhanced SIP Communication Services by Context Sharing. citation:-1
+title:Multimedia and Telecommunications Track. citation:-1
+title:A Framework for Group Integrity Management in Multimedia Multicasting. citation:-1
+title:Is Dynamic Multi-Rate Multicast Worthwhile the Effort?. citation:-1
+title:Polishing: A Technique to Reduce Variations in Cached Layer-Encoded Video. citation:-1
+title:Self-protection in P2P Networks: Choosing the Right Neighbourhood. citation:-1
+title:Enabling Interactive Multimedia-Based Collaborative Learning. citation:-1
+title:A Price Communication Protocol for a Multi-Service Internet. citation:-1
+title:Remote Camera Control in a Distributed Multimedia System. citation:-1
+title:Coherence in the Learning System k-med. citation:-1
+title:Experiences with the Heidelberg Multimedia Communication System: Multicast, Rate Enforcement and Performance. citation:-1
+title:A Content Modeling Approach as Basis for the Support of the Overall Content Creation Process. citation:-1
+title:Supporting Modularization and Aggregation of Learning Resources in a SCORM Compliance Mode. citation:-1
+title:Context-aware Communication Services: A Framework for Building Enhanced IP Telephony Services. citation:-1
+title:Transitivity Based Enrollment Strategy for Signature Verification. citation:-1
+title:On the Scalability of Audio Quality for Networked Multimedia Environments. citation:-1
+title:Interactive Panning and Zooming the Virtual Camera. citation:-1
+title:The ICOR Framework: A Top-Down Approach to Media Indexing and Retrieval. citation:-1
+title:Replication for a Distributed Multimedia System. citation:-1
+title:ECHoP2P: Emergency call handling over peer-to-peer overlays. citation:-1
+title:SkyEye.KOM: An Information Management Over-Overlay for Getting the Oracle View on Structured P2P Systems. citation:-1
+title:Towards Benchmarking of Structured Peer-to-Peer Overlays for Network Virtual Environments. citation:-1
+title:Multibook's test environment. citation:-1
+title:WSQoSX - A QoS Architecture for Web Service Workflows. citation:-1
+title:An Approach to the Analysis and Evaluation of an Enterprise Service Ecosystem. citation:-1
+title:A Novel Group Integrity Concept for Multimedia Multicasting. citation:-1
+title:Using DMIF for Abstracting from IP-Telephony Signaling Protocols. citation:-1
+title:MBone2Tel - Telephone Users Meeting the MBone. citation:-1
+title:Exploiting User Behaviour in Prefetching WWW Documents. citation:-1
+title:Design and Implementation of a QoS-Aware Replication Mechanism for a Distributed Multimedia System. citation:-1
+title:Worst-Case Performance Analysis of Web Service Workflows. citation:-1
+title:Network calculus meets queueing theory -a simulation based approach to bounded queues. citation:-1
+title:Preserving the Independence of Flows in General Topologies Using Turn-Prohibition. citation:-1
+title:A Peer-to-Peer Webcam Network. citation:-1
+title:A Reflective Media Server Design to Speedup TCP-Friendly Media Transmission at Start-Up. citation:-1
+title:XTP und Multimedia? citation:-1
+title:Peer-to-Peer-Systeme und -Anwendungen. citation:-1
+title:Multi-Period Resource Allocation at System Edges -- Capacity Management in a Multi-Provider Multi-Service Internet. citation:-1
+title:Comparative Analysis of Quality of Service Routing in Wireless Metropolitan Area Networks. citation:-1
+title:M^2 DR: A Near-optimal Multiclass Minimum-delay Routing Algorithm for Smart Radio Access Networks. citation:-1
+title:AntSec, WatchAnt, and AntRep: Innovative Security Mechanisms for Wireless Mesh Networks. citation:-1
+title:CORE: centrally optimized routing extensions for the IEEE 802.16 MeSH mode. citation:-1
+title:Overlay Bandwidth Management: Scheduling and Active Queue Management of Overlay Flows. citation:-1
+title:Designing a sensor network testbed for smart heterogeneous applications. citation:-1
+title:Bottleneck Estimation for Load Control Gateways. citation:-1
+title:Using Context Information to Avoid Service Interactions in IP Telephony. citation:-1
+title:The Digital Call Assistant: Determine Optimal Time Slots for Calls. citation:-1
+title:KOM ScenGen The Swiss Army Knife for Simulation and Emulation Experiments. citation:-1
+title:Observations on Equation-Based Estimation of TCP-Compatible Rate for Multi-rate Multicast Scenarios. citation:-1
+title:Associating network flows with user and application information. citation:-1
+title:Position paper: Internet VoD cache server design. citation:-1
+title:Automatic classification of didactic functions of e-learning resources. citation:-1
+title:Evaluation of a CPU Scheduling Mechanism for Synchronized Multimedia Streams. citation:-1
+title:Modeling Modifications of Multimedia Learning Resources Using Ontology-Based Representations. citation:-1
+title:An approach to pricing of connectionless network services. citation:-1
+title:Reducing Authoring Costs of Online Training in Microelectronics Design by Reusing Design Documentation Content. citation:-1
+title:Virtual context based services for support of interaction in virtual worlds. citation:-1
+title:An Introduction to HeiMAT: The Heidelberg Multimedia Application Toolkit. citation:-1
+title:Building the Semantic Utility with Standards and Semantic Web Services. citation:-1
+title:What Is This About? citation:-1
+title:Introduction. citation:-1
+title:On the Feasibility of RSVP as General Signalling Interface. citation:-1
+title:Automatic Recognition of Camera Zooms. citation:-1
+title:Resource Planning Heuristics for Service-Oriented Workflows. citation:-1
+title:The Ad Hoc On-Demand Distance Vector Protocol: An Analytical Model of the Route Acquisition Process. citation:-1
+title:Representation of Knowledge as Support for Authors of Reusable Educational Content. citation:-1
+title:Towards language-independent web genre detection. citation:-1
+title:Cooperation in P2P Systems through Sociological Incentive Patterns. citation:-1
+title:Detection of Colluding Misbehaving Nodes in Mobile Ad Hoc and Wireless Mesh Networks. citation:-1
+title:Worst-Case Workflow Performance Optimization. citation:-1
+title:General Requirements of Banks on IT Architectures and the Service-Oriented Architecture Paradigm. citation:-1
+title:Optimizing interconnection policies. citation:-1
+title:Decoupling different time scales of network QoS systems. citation:-1
+title:On the aggregation of deterministic service flows. citation:-1
+title:Guest editorial: Introduction to special issue on IDMS'97. citation:-1
+title:Peer-to-Peer application beyond file sharing: overlay network requirements and solutions. citation:-1
+title:Digitale Wasserzeichen - Aktuelles Schlagwort. citation:-1
+title:Visualisierungen und ihre Rolle in Multimedia-Anwendungen. citation:-1
+title:Integrierte verteilte Multimedia-Systeme. citation:-1
+title:Multimedia-Systems - Das aktuelle Schlagwort. citation:-1
+title:Netz-Betriebssystem/verteiltes Betriebssystem - Das aktuelle Schlagwort. citation:-1
+title:Peer-to-Peer-Networking & -Computing - Aktuelles Schlagwort. citation:-1
+title:Peer-to-Peer Systems (Peer-to-Peer-Systeme). citation:-1
+title:Benchmarking Platform for Peer-to-Peer Systems (Benchmarking Plattform für Peer-to-Peer Systeme). citation:-1
+title:Object-Oriented Communication Structures for Multimedia Data Transport. citation:-1
+title:Using Taxonomies to Support the Macro Design Process for the Production of Web Based Trainings. citation:-1
+title:Sampling cluster endurance for peer-to-peer based content distribution networks. citation:-1
+title:Adapting the User Context in Realtime: Tailoring Online Machine Learning Algorithms to Ambient Computing. citation:-1
+title:A Modular Approach to Mobile QoS Signaling- Motivation, Design & Implementation. citation:-1
+title:IP-Telefonie und Firewalls, Probleme und Lösungen. citation:-1
+title:VC Management for Heterogeneous QoS Multicast Transmissions. citation:-1
+title:A taxonomy of interaction models for Internet and ATM quality of service architectures. citation:-1
+title:Guest editorial: the international ACM Multimedia conference 1993 - ten years after. citation:-1
+title:Darstellung von Monitoren durch Petri Netze. citation:-1
+title:Ein Qualitätskriterium zur Partition von Petri-Netzen. citation:-1
+title:Interoperabilität und IT-Integration. citation:-1
+title:Capture, Management, and Utilization of Lifecycle Information for Learning Resources. citation:-1
+title:Implementing and Evaluating the Common Information Model in a Relational and RDF-based Database. citation:-1
+title:Governance of a service-oriented architecture for environmental and public security. citation:-1
+title:On NAT Traversal in Peer-to-Peer Applications. citation:-1
+title:Implementation and Evaluation of a Tool for Setting Goals in Self-regulated Learning with Web Resources. citation:-1
+title:On the Implications of Adaptive Transmission Power for Assisting MANET Security. citation:-1
+title:Underlay awareness in P2P systems: Techniques and challenges. citation:-1
+title:Quality Adaptive Peer-to-Peer Streaming Using Scalable Video Coding. citation:-1
+title:Cooperation Mechanisms for Monitoring Agents in Service-oriented Architectures. citation:-1
+title:The Impact of Service Pricing Models on Service Selection. citation:-1
+title:Virtual context based services for multiplayer online games to facilitate community participation. citation:-1
+title:GeoSec: quarantine zones for mobile ad hoc networks. citation:-1
+title:Dynamic voice communication support for multiplayer online games. citation:-1
+title:Trimming the Tree: Tailoring Adaptive Huffman Coding to Wireless Sensor Networks. citation:-1
+title:A Stochastic Analysis of Secure Joint Decision Processes in Peer-to-Peer Systems. citation:-1
+title:Unraveling BitTorrent's File Unavailability: Measurements, Analysis and Solution Exploration citation:-1
+title:Metadaten aus Autorensicht - ein Erfahrungsbericht über ein webbasiertes Multimedia-Lernsystem am Beispiel k-MED (Metadata from the Point of View of the Authors - Report of Experience from a Web-based Multimedia Learning System). citation:-1
+title:A Generic Metamodel for IT Security. citation:-1
+title:Communications and Multimedia Security Issues of the New Century, Proceedings of the IFIP TC6/TC11 International Conference on Communications and Multimedia Security Issues, May 21-22, 2001, Darmstadt, Germany citation:-1
+title:Peer-to-Peer-Systems and -Applications, 26.03. - 29.03.2006 citation:-1
+title:DeLFI 2006, 4. e-Learning Fachtagung Informatik, 11.-14. September 2006, Darmstadt, Germany citation:-1
+title:Durchgängige Integration einer Creative Commons Lizenzverwaltung in die Open Learning Content Authoring & Management Plattform docendo. citation:-1
+title:Extended Explicit Semantic Analysis for Calculating Semantic Relatedness of Web Resources. citation:-1
+title:Automatic Detection of Local Reuse. citation:-1
+title:Personalized, Adaptive Digital Educational Games Using Narrative Game-Based Learning Objects. citation:-1
+title:Cross-Organizational Security - The Service-Oriented Difference. citation:-1
+title:Interactive Distributed Multimedia Systems and Telecommunication Services, 4th International Workshop, IDMS '97, Darmstadt, Germany, September 10-12, 1997, Proceedings citation:-1
+title:Multimedia: Advanced Teleservices and High-Speed Communication Architectures, Second International Workshop, IWACA '94, Heidelberg, Germany, September 26-28, 1994, Proceedings citation:-1
+title:Kommunikation in Verteilten Systemen, ITG/GI-Fachtagung, Darmstadt, 2.-5. März 1999 citation:-1
+title:Leveraging the BPEL Event Model to Support QoS-aware Process Execution. citation:-1
+title:Incorporating spatial reuse into algorithms for bandwidth management and scheduling in IEEE 802.16j relay networks. citation:-1
+title:Distributed bandwidth reservation strategies to support efficient bandwidth utilization and QoS on a per-link basis in IEEE 802.16 Mesh Networks. citation:-1
+title:On the energy efficiency of lossless data compression in wireless sensor networks. citation:-1
+title:Proceedings of the 13th ACM International Conference on Multimedia, November 6-11, 2005, Singapore citation:-1
+title:A new QoE model and evaluation method for broadcast audio contribution over IP. citation:-1
+title:Peer-to-Peer Systems and Applications citation:-1
+title:Proceedings P2P'08, Eighth International Conference on Peer-to-Peer Computing, 8-11 September 2008, Aachen, Germany citation:-1
+title:Monitoring and Management of Structured Peer-to-Peer Systems. citation:-1
+title:LifeSocial.KOM: A P2P-Based Platform for Secure Online Social Networks. citation:-1
+title:A QoE-Aware P2P Streaming System Using Scalable Video Coding. citation:-1
+title:An Analytical Model of Routing, Misbehavior, and Countermeasures in Mobile Ad Hoc Networks. citation:-1
+title:Bridging the gaps towards structured mobile SOA. citation:-1
+title:Towards Seamless Binding of Context-aware Services to Ubiquitous Information Sources. citation:-1
+title:Study and Comparison of Adaptation Mechanisms for Performance Enhancements of Mobile Web Service Consumption. citation:-1
+title:LOG4SWS.KOM: Self-Adapting Semantic Web Service Discovery for SAWSDL. citation:-1
+title:Woodment: Web-Based Collaborative Multiplayer Serious Game. citation:-1
+title:Designing Benchmarks for P2P Systems. citation:-1
+title:Query Languages for Semantic Web Services. citation:-1
+title:Semantische Analyse zur Unterstützung von SOA-Governance. citation:-1
+title:QoS-Based Optimization of Service Compositions for Complex Workflows. citation:-1
+title:Adaptive matchmaking for RESTful services based on hRESTS and MicroWSMO. citation:-1
+title:Towards a Common Interface for Overlay Network Simulators. citation:-1
+title:Towards a P2P Cloud: Reliable Resource Reservations in Unreliable P2P Systems. citation:-1
+title:Adaptive server allocation for peer-assisted Video-on-Demand. citation:-1
+title:On energy-awareness for peer-assisted streaming with set-top boxes. citation:-1
+title:Structuring SOA Governance. citation:-1
+title:A Survey on Security in Mobile Peer-to-Peer Architectures - Overlay-Based vs. Underlay-Based Approaches. citation:-1
+title:Multibook - Multimedia-Technologie Powerpack. citation:-1
+title:Multimedia-Technologie - Grundlagen, Komponenten und Systeme (2. Aufl.). citation:-1
+title:Multimedia-Technologie - Einführung und Grundlagen. citation:-1
+title:Process Model Analysis Using Related Cluster Pairs. citation:-1
+title:Recommending and Finding Multimedia Resources in Knowledge Acquisition Based on Web Resources. citation:-1
+title:Does Proactive Secret Sharing Perform in Peer-to-Peer Systems?. citation:-1
+title:A concept for cross-layer optimization of wireless sensor networks in the logistics domain by exploiting business knowledge. citation:-1
+title:The rise and fall of the AODV protocol: A testbed study on practical routing attacks. citation:-1
+title:Lightweight remote procedure calls for wireless sensor and actuator networks. citation:-1
+title:Always Best Served: On the behaviour of QoS- and QoE-based algorithms for Web service adaptation. citation:-1
+title:Enabling resilient P2P video streaming: survey and analysis. citation:-1
+title:Multigranularity reuse of learning resources. citation:-1
+title:A security framework for wireless mesh networks. citation:-1
+title:CORE: centrally optimized routing extensions for efficient bandwidth management and network coding in the IEEE 802.16 MeSH mode. citation:-1
+title:Handwriting: Feature Correlation Analysis for Biometric Hashes. citation:-1
+title:Dynamische Authentifizierung für Provider-übergreifende VoIP-Kommunikation. citation:-1
+title:QoS-Controlled Dynamic Replication in Peer-to-Peer Systems. citation:-1
+title:iVu.KOM: A Framework for Viewer-centric Mobile Location-based Services. citation:-1
+title:Building a Distributed Trust Anchor in P2P Systems - Creating Trustworthy System Signatures without a Trusted Third Party. citation:-1
+title:Internet-Telefonie - Voice over IP. citation:-1
+title:Experiences in Using Patterns to Support Process Experts in Process Description and Wizard Creation. citation:-1
+title:Editorial notice. citation:-1
+title:Simulations, models, and testbeds: A mutual catalysis. citation:-1
+title:Harnessing delay tolerance to increase delivery ratios in mobile ad hoc networks with misbehaving nodes. citation:-1
+title:A Cross-Layer Approach towards Robustness of Mobile Peer-to-Peer Networks. citation:-1
+title:A Case for Joint Routing, Scheduling, and Network Coding in TDMA-based Wireless Mesh Networks: A Cross-layer Approach. citation:-1
+title:Evaluating the QoS Impact of Web Service Anonymity. citation:-1
+title:Complex Service Provisioning in Collaborative Cloud Markets. citation:-1
+title:Stream-oriented Lossless Packet Compression in Wireless Sensor Networks. citation:-1
+title:Automatic acquisition of taxonomies in different languages from multiple Wikipedia versions. citation:-1
+title:ICIMCS 2011, The Third International Conference on Internet Multimedia Computing and Service, Chengdu, China, August 5-7, 2011 citation:-1
+title:Seamless Learning in Serious Games - How to Improve Seamless Learning-content Integration in Serious Games. citation:-1
+title:Taxonomy of technological IT outsourcing risks: support for risk identification and quantification. citation:-1
+title:Automatic Identification of Tag Types in a Resource-Based Learning Scenario. citation:-1
+title:StreamSocial: A P2P streaming system with social incentives. citation:-1
+title:Enhancing the Caching of Web Service Responses on Wireless Clients. citation:-1
+title:Threat as a Service?: Virtualization's Impact on Cloud Security. citation:-1
+title:Self-Organization Mechanisms for Information Systems - A Survey. citation:-1
+title:An Approach for Replanning of Web Service Workflows. citation:-1
+title:The Impact of the P2P Paradigm on the New Media Industries. citation:-1
+title:An Approach for Capacity Planning of Web Service Workflows. citation:-1
+title:A Method for File Valuation in Information Lifecycle Management. citation:-1
+title:A Secure Quorum Based Membership Mechanism for P2P Systems. citation:-1
+title:The Implementation of Service-Oriented Architectures in the German Banking Industry - A Case Study. citation:-1
+title:Applied Service Engineering for Single Services and Corresponding Service Landscapes. citation:-1
+title:Simulation of Automated File Migratoon in Information Lifecycle Management. citation:-1
+title:Asymmetric Incentives in Peer-to-Peer Systems. citation:-1
+title:A Peer-to-Peer System for Location-based Services. citation:-1
+title:Service-Oriented Architecture Paradigm: Major Trend or Hype for the German Banking Industry? citation:-1
+title:Cost Impacts on Information Lifecycle Management Design. citation:-1
+title:Towards a Consistent Service Lifecycle Model in Service Governance. citation:-1
+title:Challenges in Serious Gaming as Emerging Multimedia Technology for Education, Training, Sports and Health - (Extended Abstract). citation:-1
+title:Patterns towards Making Web Material Accessible. citation:-1
+title:SmartMeter.KOM: A low-cost wireless sensor for distributed power metering. citation:-1
+title:Scoresheet-based event relevance determination for energy efficiency in wireless sensor networks. citation:-1
+title:Collaborative authoring of serious games for health. citation:-1
+title:On the impact of quality adaptation in SVC-based P2P video-on-demand systems. citation:-1
+title:Experiences in Using Patterns to Support Process Experts in Wizard Creation. citation:-1
+title:A Graphical Evaluation Tool for Semantic Web Service Matchmaking. citation:-1
+title:PROWIT - Kontext-sensitive Telekommunikation im Geschäftseinsatz. citation:-1
+title:Identifikation von Migrationsprozessen virtueller Maschinen. citation:-1
+title:Comparison and retrieval of process models using related cluster pairs. citation:-1
+title:COV4SWS.KOM: Information Quality-Aware Matchmaking for Semantic Services. citation:-1
+title:The Virtual Margin of Error - On the Limits of Virtual Machines in Scientific Research. citation:-1
+title:Towards a comparative performance evaluation of overlays for Networked Virtual Environments. citation:-1
+title:Designing Collaborative Multiplayer Serious Games for Collaborative Learning - Escape from Wilson Island - A Multiplayer 3D Serious Game for Collaborative Learning in Teams. citation:-1
+title:Quality Adaptation in P2P Video Streaming Based on Objective QoE Metrics. citation:-1
+title:Biometric applications based on handwriting. citation:-1
+title:Enabling cost-efficient Software Service Distribution in infrastructure clouds at run time. citation:-1
+title:Benchmarking decentralized monitoring mechanisms in peer-to-peer systems. citation:-1
+title:Plug-and-Play Virtual Factories. citation:-1
+title:Eine Dienstgüte unterstützende Webservice-Architektur für flexible Geschäftsprozesse. citation:-1
+title:PeerfactSim.KOM: A simulation framework for Peer-to-Peer systems. citation:-1
+title:Future Trends in Game Authoring Tools. citation:-1
+title:Towards Puzzle Templates for Multiplayer Adventures. citation:-1
+title:Game Mastering in Collaborative Multiplayer Serious Games. citation:-1
+title:Towards a Social Game Interaction Taxonomy - A Social Gaming Approach towards Peer Knowledge Sharing and Participation in Serious Games. citation:-1
+title:Authoring of Serious Adventure Games in StoryTec. citation:-1
+title:Modellierung eines generischen Prozesses für die Modularisierung vorhandener Lernressourcen. citation:-1
+title:Scaffolding von selbstreguliertem Lernen in einer Rechercheumgebung für internetbasierte Ressourcen. citation:-1
+title:Anwendungen und Nutzen der automatischen Erkennung von Web-Genres in persönlichen und Community-Wissensnetzen. citation:-1
+title:Von Tags zu semantischen Netzen - Einsatz im Ressourcen-basierten Lernen. citation:-1
+title:Interaktive, Community-unterstützte Wissensnetze für persönliches Wissensmanagement in Ressourcen-basierten Lernkontexten. citation:-1
+title:Vorwort des Herausgebers und der Tagungsleitung. citation:-1
+title:Ein System zur Realisierung expliziten Lerner-Autor Feedbacks im E-Learning. citation:-1
+title:Maximizing Cloud Provider Profit from Equilibrium Price Auctions. citation:-1
+title:Supervising Knowledge Sharing in the Classroom: Supporting Teachers' Individual Diagnosis and Instruction in a Peer Education Scenario. citation:-1
+title:ELWMS.KOM - Typisiertes Tagging in persönlichen Wissensnetzen. citation:-1
+title:Game Design und Game Development in einer Serious Games Vorlesung. citation:-1
+title:An Authoring Tool for Adaptive Digital Educational Games. citation:-1
+title:Ein Framework zur Entwicklung komponentenbasierter Groupware. citation:-1
+title:Cost-Driven Optimization of Complex Service-Based Workflows for Stochastic QoS Parameters. citation:-1
+title:Much Ado about Security Appeal: Cloud Provider Collaborations and Their Risks. citation:-1
+title:Let the Clouds Compute: Cost-Efficient Workload Distribution in Infrastructure Clouds. citation:-1
+title:Service-oriented Architectures Status Quo and Prospects for the German Banking Industry. citation:-1
+title:Per-flow guarantees under class-based priority queueing. citation:-1
+title:Multimedia Applications. citation:-1
+title:Distributed data filtering in logistics wireless sensor networks based on transmission relevance. citation:-1
+title:Role-based urban post-disaster mobility model for search and rescue operations. citation:-1
+title:Electric appliance classification based on distributed high resolution current sensing. citation:-1
+title:Retransmission scheduling in layered video caches. citation:-1

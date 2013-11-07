@@ -1,0 +1,279 @@
+title:Algorithms for Drawing Media citation:-1
+title:Delta-confluent Drawings citation:-1
+title:Cubic Partial Cubes from Simplicial Arrangements. citation:-1
+title:All Maximal Independent Sets and Dynamic Dominance for Sparse Graphs citation:-1
+title:Möbius-invariant natural neighbor interpolation. citation:-1
+title:Algorithms for Drawing Media. citation:-1
+title:Separating Thickness from Geometric Thickness. citation:-1
+title:Fast Hierarchical Clustering and Other Applications of Dynamic Closest Pairs citation:-1
+title:The distribution of loop lengths in graphical models for turbo decoding. citation:-1
+title:Delta-Confluent Drawings. citation:-1
+title:Hinged dissections of polyominoes and polyforms. citation:-1
+title:Confluent Layered Drawings. citation:-1
+title:Setting Parameters by Example citation:-1
+title:Improved Combinatorial Group Testing Algorithms for Real-World Problem Sizes. citation:-1
+title:Searching for Spaceships citation:-1
+title:Single-Strip Triangulation of Manifolds with Arbitrary Topology. citation:-1
+title:Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way. citation:-1
+title:Cubic Partial Cubes from Simplicial Arrangements citation:-1
+title:Regression Depth and Center Points. citation:-1
+title:Geometric Thickness of Complete Graphs. citation:-1
+title:Testing bipartiteness of geometric intersection graphs. citation:-1
+title:Recognizing partial cubes in quadratic time. citation:-1
+title:Separator Based Sparsification. I. Planary Testing and Minimum Spanning Trees. citation:-1
+title:Improved Combinatorial Group Testing for Real-World Problem Sizes. citation:-1
+title:Offline Algorithms for Dynamic Minimum Spanning Tree Problems. citation:-1
+title:The Traveling Salesman Problem for Cubic Graphs. citation:-1
+title:Finding the Smallest Spanning Trees. citation:-1
+title:The Weighted Maximum-Mean Subtree and Other Bicriterion Subtree Problems. citation:-1
+title:Finding Large Clique Minors is Hard. citation:-1
+title:Vertex-Unfoldings of Simplicial Manifolds citation:-1
+title:Flipping Cubical Meshes citation:-1
+title:Vertex-Unfoldings of Simplicial Polyhedra citation:-1
+title:Ununfoldable polyhedra. citation:-1
+title:Hinged Kite Mirror Dissection citation:-1
+title:Optimization Over Zonotopes and Training Support Vector Machines citation:-1
+title:The Effect of Faults on Network Expansion. citation:-1
+title:Algorithms for Coloring Quadtrees. citation:-1
+title:Optimal Moebius Transformations for Information Visualization and Meshing citation:-1
+title:The Fibonacci dimension of a graph citation:-1
+title:Asymptotic Speed-Ups in Constructive Solid Geometry. citation:-1
+title:Computing the Depth of a Flat citation:-1
+title:Motorcycle Graphs: Canonical Quad Mesh Partitioning. citation:-1
+title:Optimal Embedding into Star Metrics. citation:-1
+title:Edges and Switches, Tunnels and Bridges citation:-1
+title:Tree-weighted neighbors and geometric k smallest spanning trees. citation:-1
+title:The Minimum Expectation Selection Problem citation:-1
+title:Faster Circle Packing with Application to Non-Obtuse Triangulation. citation:-1
+title:On the Approximability of Geometric and Geographic Generalization and the Min-Max Bin Covering Problem. citation:-1
+title:Finding Minimum Area k-gons. citation:-1
+title:Geometric Lower Bounds for Parametric Matroid Optimization. citation:-1
+title:Studying (Non-Planar) Road Networks Through an Algorithmic Lens citation:-1
+title:The -Index of a Graph and Its Application to Dynamic Subgraph Statistics. citation:-1
+title:Self-overlapping curves revisited. citation:-1
+title:Drawings of planar graphs with few slopes and segments. citation:-1
+title:Algorithms for Media citation:-1
+title:Foreword to special issue on SODA 2002. citation:-1
+title:Going off-road: transversal complexity in road networks. citation:-1
+title:Orientation-Constrained Rectangular Layouts. citation:-1
+title:Linear-time algorithms for geometric graphs with sublinearly many crossings. citation:-1
+title:Isometric Diamond Subgraphs citation:-1
+title:Dynamic Connectivity in Digital Images. citation:-1
+title:Curvature Aware Fundamental Cycles. citation:-1
+title:Dynamic Half-Space Reporting, Geometric Optimization, and Minimum Spanning Trees citation:-1
+title:Improved Combinatorial Group Testing Algorithms for Real-World Problem Sizes citation:-1
+title:Clustering for faster network simplex pivots. citation:-1
+title:Quasiconvex analysis of multivariate recurrence equations for backtracking algorithms. citation:-1
+title:Optimization over Zonotopes and Training Support Vector Machines. citation:-1
+title:Geometric lower bounds for parametric matroid optimization. citation:-1
+title:Recognizing Partial Cubes in Quadratic Time citation:-1
+title:Graph-Theoretic Solutions to Computational Geometry Problems citation:-1
+title:Erratum: Polynomial-size nonobtuse triangulation of polygons. citation:-1
+title:Edges and Switches, Tunnels and Bridges. citation:-1
+title:The traveling salesman problem for cubic graphs citation:-1
+title:Optimal Möbius Transformations for Information Visualization and Meshing. citation:-1
+title:Separator-Based Sparsification II: Edge and Vertex Connectivity. citation:-1
+title:On the Number of Minimal 1-Steiner Trees. citation:-1
+title:Squarepants in a tree: Sum of subtree clustering and hyperbolic pants decomposition. citation:-1
+title:The minimum expectation selection problem. citation:-1
+title:Straight Skeletons of Three-Dimensional Polyhedra citation:-1
+title:Optimal Embedding Into Star Metrics citation:-1
+title:Ununfoldable polyhedra with convex faces. citation:-1
+title:Worst-Case Bounds for Subadditive Geometric Graphs. citation:-1
+title:Setting Parameters by Example. citation:-1
+title:Optimized color gamuts for tiled displays. citation:-1
+title:Multivariate regression depth. citation:-1
+title:Algorithms for Coloring Quadtrees citation:-1
+title:Beta-Skeletons have Unbounded Dilation citation:-1
+title:The Topology of Bendless Three-Dimensional Orthogonal Graph Drawing citation:-1
+title:The Centroid of Points with Approximate Weights. citation:-1
+title:Ununfoldable Polyhedra with Convex Faces citation:-1
+title:Beta-skeletons have unbounded dilation. citation:-1
+title:Graph-Theoretic Solutions to Computational Geometry Problems. citation:-1
+title:Lazy Algorithms for Dynamic Closest Pair with Arbitary Distance Measures. citation:-1
+title:Emerging Challenges in Computational Topology citation:-1
+title:The Weighted Maximum-Mean Subtree and Other Bicriterion Subtree Problems citation:-1
+title:Separating Geometric Thickness from Book Thickness citation:-1
+title:Separating Thickness from Geometric Thickness citation:-1
+title:Corrigendum: Maintenance of a Minimum Spanning Forest in a Dynamic Plane Graph. citation:-1
+title:Multivariate Regression Depth citation:-1
+title:Equipartitions of graphs. citation:-1
+title:One-Dimensional Peg Solitaire citation:-1
+title:Upright-Quad Drawing of st-Planar Learning Spaces. citation:-1
+title:One-Dimensional Peg Solitaire, and Duotaire citation:-1
+title:Approximate topological matching of quad meshes. citation:-1
+title:Algorithms for media. citation:-1
+title:Algorithms for Proximity Problems in Higher Dimensions. citation:-1
+title:Dilation, smoothed distance, and minimization diagrams of convex functions citation:-1
+title:Vertex-unfoldings of simplicial manifolds. citation:-1
+title:Self-overlapping Curves Revisited citation:-1
+title:Squarepants in a tree: sum of subtree clustering and hyperbolic pants decomposition. citation:-1
+title:Efficient Sequential and Parallel Algorithms for Computing Recovery Points in Trees and Paths. citation:-1
+title:Area-universal rectangular layouts. citation:-1
+title:Optimally fast incremental Manhattan plane embedding and planar tight span construction citation:-1
+title:Linear-Time Algorithms for Geometric Graphs with Sublinearly Many Crossings citation:-1
+title:Quasiconvex Programming citation:-1
+title:Paired approximation problems and incompatible inapproximabilities citation:-1
+title:Animating a continuous family of two-site Voronoi diagrams (and a proof of a bound on the number of regions). citation:-1
+title:Happy endings for flip graphs citation:-1
+title:Geometric Thickness of Complete Graphs citation:-1
+title:Studying (non-planar) road networks through an algorithmic lens. citation:-1
+title:Moebius-Invariant Natural Neighbor Interpolation citation:-1
+title:Space-Efficient Straggler Identification in Round-Trip Data Streams via Newton's Identities and Invertible Bloom Filters citation:-1
+title:Hinged dissection of polyominoes and polyforms. citation:-1
+title:Straight Skeletons of Three-Dimensional Polyhedra. citation:-1
+title:Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way citation:-1
+title:Sparsification-A Technique for Speeding up Dynamic Graph Algorithms (Extended Abstract) citation:-1
+title:Optimized Color Gamuts for Tiled Displays citation:-1
+title:Testing Bipartiteness of Geometric Intersection Graphs citation:-1
+title:Learning Sequences citation:-1
+title:Single Triangle Strip and Loop on Manifolds with Boundaries. citation:-1
+title:Setting Parameters by Example. citation:-1
+title:The Distribution of Cycle Lengths in Graphical Models for Iterative Decoding citation:-1
+title:Simultaneous Strong Separations of Probabilistic and Unambiguous Complexity Classes. citation:-1
+title:Squarepants in a Tree: Sum of Subtree Clustering and Hyperbolic Pants Decomposition citation:-1
+title:Space-Efficient Straggler Identification in Round-Trip Data Streams Via Newton's Identities and Invertible Bloom Filters. citation:-1
+title:Incremental and Decremental Maintenance of Planar Width. citation:-1
+title:Fast Approximation of Centrality citation:-1
+title:Offline Algorithms for Dynamic Minimum Spanning Tree Problems. citation:-1
+title:Minimum Range Balanced Cuts via Dynamic Subset Sums. citation:-1
+title:Single-Strip Triangulation of Manifolds with Arbitrary Topology citation:-1
+title:Choosing Subsets with Maximum Weighted Average. citation:-1
+title:Maintenance of a Minimum Spanning Forest in a Dynamic Plane Graph. citation:-1
+title:Skip-webs: efficient distributed data structures for multi-dimensional data sets. citation:-1
+title:Optimal Angular Resolution for Face-Symmetric Drawings citation:-1
+title:Regression Depth and Center Points citation:-1
+title:Incremental and Decremental Maintenance of Planar Width citation:-1
+title:Hinged Dissection of Polyominoes and Polyforms citation:-1
+title:On Verifying and Engineering the Well-gradedness of a Union-closed Family citation:-1
+title:Going Off-road: Transversal Complexity in Road Networks citation:-1
+title:Reset Sequences for Finite Automata with Application to Design of Parts Orienters. citation:-1
+title:Multivariate Regression Depth. citation:-1
+title:Orientation-Constrained Rectangular Layouts citation:-1
+title:Flipping Cubical Meshes. citation:-1
+title:Selected Open Problems in Graph Drawing. citation:-1
+title:Guard placement for efficient point-in-polygon proofs. citation:-1
+title:Improved Bounds for Intersecting Triangles and Halving Planes. citation:-1
+title:A Heuristic Approach to Program Inversion. citation:-1
+title:Steinitz Theorems for Orthogonal Polyhedra citation:-1
+title:Incremental and Decremental Maintenance of Planar Width. citation:-1
+title:The effect of faults on network expansion. citation:-1
+title:Fast Hierarchical Clustering and Other Applications of Dynamic Closest Pairs. citation:-1
+title:Sparse Dynamic Programming. citation:-1
+title:Using Sparsification for Parametric Minimum Spanning Tree Problems. citation:-1
+title:Area-Universal Rectangular Layouts citation:-1
+title:Clustering for Faster Network Simplex Pivots. citation:-1
+title:PREFACE: Festschrift for Zvi Galil. citation:-1
+title:Average Case Analysis of Dynamic Geometric Optimization. citation:-1
+title:Phutball Endgames are Hard citation:-1
+title:Maintenance of a Minimum Spanning Forest in a Dynamic Planar Graph. citation:-1
+title:Shortest Paths in an Arrangement with Line Orientations. citation:-1
+title:Upright-Quad Drawing of -Planar Learning Spaces. citation:-1
+title:Fast approximation of centrality. citation:-1
+title:Choosing Colors for Geometric Graphs via Color Space Embeddings citation:-1
+title:Interconnect Criticality-Driven Delay Relaxation. citation:-1
+title:Testing bipartiteness of geometric intersection graphs. citation:-1
+title:All maximal independent sets and dynamic dominance for sparse graphs. citation:-1
+title:Approximating the Minimum Weight Triangulation. citation:-1
+title:New Algorithms for Minimum Area -gons. citation:-1
+title:Confluent Layered Drawings. citation:-1
+title:Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way. citation:-1
+title:Guard Placement For Wireless Localization citation:-1
+title:Trees with Convex Faces and Optimal Angles citation:-1
+title:Fast Hierarchical Clustering and Other Applications of Dynamic Closest Pairs. citation:-1
+title:The Effect of Faults on Network Expansion citation:-1
+title:Geometric Thickness of Complete Graphs. citation:-1
+title:Finding Large Clique Minors is Hard citation:-1
+title:Choosing Colors for Geometric Graphs Via Color Space Embeddings. citation:-1
+title:Fast Approximation of Centrality. citation:-1
+title:Trees with Convex Faces and Optimal Angles. citation:-1
+title:Approximate topological matching of quadrilateral meshes. citation:-1
+title:Using Sparsification for Parametric Minimum Spanning Tree Problems. citation:-1
+title:Upright-Quad Drawing of st-Planar Learning Spaces citation:-1
+title:The h-Index of a Graph and its Application to Dynamic Subgraph Statistics citation:-1
+title:On the Approximability of Geometric and Geographic Generalization and the Min-Max Bin Covering Problem citation:-1
+title:The Traveling Salesman Problem for Cubic Graphs. citation:-1
+title:Nonrepetitive Paths and Cycles in Graphs with Application to Sudoku citation:-1
+title:Faster Geometric K-point MST Approximation. citation:-1
+title:Average Case Analysis of Dynamic Geometric Optimization. citation:-1
+title:The Farthest Point Delaunay Triangulation Minimizes Angles. citation:-1
+title:Isometric Diamond Subgraphs. citation:-1
+title:Single-strip triangulation of manifolds with arbitrary topology. citation:-1
+title:The Topology of Bendless Three-Dimensional Orthogonal Graph Drawing. citation:-1
+title:Finding the k Smallest Spanning Trees. citation:-1
+title:The skip quadtree: a simple dynamic data structure for multidimensional data. citation:-1
+title:Happy endings for flip graphs. citation:-1
+title:Skip-Webs: Efficient Distributed Data Structures for Multi-Dimensional Data Sets citation:-1
+title:Confluent Layered Drawings citation:-1
+title:The Skip Quadtree: A Simple Dynamic Data Structure for Multidimensional Data citation:-1
+title:Regular labelings and geometric structures. citation:-1
+title:Steinitz theorems for orthogonal polyhedra. citation:-1
+title:Cloning Voronoi Diagrams via Retroactive Data Structures. citation:-1
+title:Paired Approximation Problems and Incompatible Inapproximabilities. citation:-1
+title:Planar Voronoi Diagrams for Sums of Convex Functions, Smoothed Distance and Dilation. citation:-1
+title:Edges and switches, tunnels and bridges. citation:-1
+title:Cloning Voronoi Diagrams via Retroactive Data Structures citation:-1
+title:Listing All Maximal Cliques in Sparse Graphs in Near-optimal Time citation:-1
+title:Regular Labelings and Geometric Structures citation:-1
+title:Flows in One-Crossing-Minor-Free Graphs citation:-1
+title:All maximal independent sets and dynamic dominance for sparse graphs. citation:-1
+title:Privacy-preserving data-oblivious geometric algorithms for geographic data. citation:-1
+title:Optimal 3D Angular Resolution for Low-Degree Graphs citation:-1
+title:Drawing Graphs in the Plane with a Prescribed Outer Face and Polynomial Area citation:-1
+title:Lombardi Drawings of Graphs citation:-1
+title:Drawing Trees with Perfect Angular Resolution and Polynomial Area citation:-1
+title:Extended h-Index Parameterized Data Structures for Computing Dynamic Subgraph Statistics citation:-1
+title:Privacy-Preserving Data-Oblivious Geometric Algorithms for Geographic Data citation:-1
+title:Media theory - interdisciplinary applied mathematics. citation:-1
+title:Drawing Graphs in the Plane with a Prescribed Outer Face and Polynomial Area. citation:-1
+title:Optimal 3D Angular Resolution for Low-Degree Graphs. citation:-1
+title:Lombardi Drawings of Graphs. citation:-1
+title:Drawing Trees with Perfect Angular Resolution and Polynomial Area. citation:-1
+title:Regular Labelings and Geometric Structures. citation:-1
+title:Listing All Maximal Cliques in Sparse Graphs in Near-Optimal Time. citation:-1
+title:Flows in One-Crossing-Minor-Free Graphs. citation:-1
+title:Linear-Time Algorithms for Geometric Graphs with Sublinearly Many Edge Crossings. citation:-1
+title:Combinatorics and Geometry of Finite and Infinite Squaregraphs. citation:-1
+title:Bounds on the complexity of halfspace intersections when the bounded faces have small dimension. citation:-1
+title:Listing All Maximal Cliques in Large Sparse Real-World Graphs. citation:-1
+title:Listing All Maximal Cliques in Large Sparse Real-World Graphs citation:-1
+title:Bounds on the Complexity of Halfspace Intersections when the Bounded Faces have Small Dimension citation:-1
+title:Tracking Moving Objects with Few Handovers citation:-1
+title:Adjacency-Preserving Spatial Treemaps citation:-1
+title:Straggler Identification in Round-Trip Data Streams via Newton's Identities and Invertible Bloom Filters. citation:-1
+title:Happy Endings for Flip Graphs. citation:-1
+title:Succinct Greedy Geometric Routing Using Hyperbolic Geometry. citation:-1
+title:Category-Based Routing in Social Networks: Membership Dimension and the Small-World Phenomenon (Full) citation:-1
+title:Planar and Poly-Arc Lombardi Drawings citation:-1
+title:Category-Based Routing in Social Networks: Membership Dimension and the Small-World Phenomenon (Short) citation:-1
+title:Privacy-Enhanced Methods for Comparing Compressed DNA Sequences citation:-1
+title:Optimal Angular Resolution for Face-Symmetric Drawings. citation:-1
+title:Recognizing Partial Cubes in Quadratic Time. citation:-1
+title:What's the difference?: efficient set reconciliation without prior context. citation:-1
+title:Tracking Moving Objects with Few Handovers. citation:-1
+title:Adjacency-Preserving Spatial Treemaps. citation:-1
+title:Optimally Fast Incremental Manhattan Plane Embedding and Planar Tight Span Construction. citation:-1
+title:Densities of Minor-Closed Graph Families. citation:-1
+title:The Fibonacci Dimension of a Graph. citation:-1
+title:Randomized Speedup of the Bellman-Ford Algorithm citation:-1
+title:Lombardi Drawings of Graphs. citation:-1
+title:Proceedings of the Thirteenth Annual ACM-SIAM Symposium on Discrete Algorithms, January 6-8, 2002, San Francisco, CA, USA. citation:-1
+title:Category-based routing in social networks: Membership dimension and the small-world phenomenon. citation:-1
+title:Planar and Poly-arc Lombardi Drawings. citation:-1
+title:Solving Single-digit Sudoku Subproblems citation:-1
+title:Solving Single-Digit Sudoku Subproblems. citation:-1
+title:The Graphs of Planar Soap Bubbles citation:-1
+title:Planar Lombardi Drawings for Subcubic Graphs citation:-1
+title:Windows into Relational Events: Data Structures for Contiguous Subsequences of Edges citation:-1
+title:Near-Linear-Time Deterministic Plane Steiner Spanners and TSP Approximation for Well-Spaced Point Sets citation:-1
+title:Force-Directed Graph Drawing Using Social Gravity and Scaling citation:-1
+title:Near-Linear-Time Deterministic Plane Steiner Spanners and TSP Approximation for Well-Spaced Point Sets. citation:-1
+title:Area-Universal and Constrained Rectangular Layouts. citation:-1
+title:Inapproximability of Orthogonal Compaction. citation:-1
+title:The h-Index of a Graph and its Application to Dynamic Subgraph Statistics. citation:-1
+title:Drawing Graphs in the Plane with a Prescribed Outer Face and Polynomial Area. citation:-1
+title:UOBPRM: A uniformly distributed obstacle-based PRM. citation:-1
+title:Drawing Trees with Perfect Angular Resolution and Polynomial Area. citation:-1
+title:On the Density of Maximal 1-Planar Graphs. citation:-1
+title:Force-Directed Graph Drawing Using Social Gravity and Scaling. citation:-1
+title:Planar Lombardi Drawings for Subcubic Graphs. citation:-1

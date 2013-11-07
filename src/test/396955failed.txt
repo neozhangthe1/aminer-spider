@@ -1,0 +1,83 @@
+title:On Synchronizing Sequences and Unspecified Values in Output Responses of Synchronous Sequential Circuits. citation:-1
+title:The Multiple Observation Time Test Strategy. citation:-1
+title:Built-In Test Sequence Generation for Synchronous Sequential Circuits Based on Loading and Expansion of Input Sequences Using Single and Multiple Fault Detection Times. citation:-1
+title:Procedures for Static Compaction of Test Sequences for Synchronous Sequential Circuits. citation:-1
+title:A Class of Graphs for Processor Interconnection. citation:-1
+title:Techniques to Construct (2, 1) Separating Systems from Linear Error-Correcting Codes. citation:-1
+title:High Performance/Delay Testing. citation:-1
+title:Scan-Based Delay Test Types and Their Effect on Power Dissipation During Test. citation:-1
+title:ITEM: an iterative improvement test generation procedure for synchronous sequential circuits. citation:-1
+title:An Improved Markov Source Design for Scan BIST. citation:-1
+title:Design of Easily Testable Microprocessors : A Case Study. citation:-1
+title:Improved Delay Fault Coverage Using Subsets of Flip-flops to Launch Transitions. citation:-1
+title:Heuristics for the Placement of Flip-Flops in Partial Scan Designs and the Placement of Signal Boosters in Lossy Circuits. citation:-1
+title:Comments on ``Minimal Fault Tests for Combinational Networks''. citation:-1
+title:Design-for-Testability for Path Delay Faults in Large Combinatorial Circuits Using Test-Points. citation:-1
+title:Property-based test generation for scan designs and the effects ofthe test application scheme and scan selection on the number ofdetectable faults. citation:-1
+title:Fault Diagnosis and Fault Model Aliasing. citation:-1
+title:A Class of Graphs for Fault-Tolerant Processor Interconnections. citation:-1
+title:On the characterization and efficient computation of hard-to-detect bridging faults. citation:-1
+title:A comment on "Improving a nonenumerative method to estimate path delay fault coverage". citation:-1
+title:Design-for-testability for path delay faults in large combinational circuits using test points. citation:-1
+title:Low-complexity fault simulation under the multiple observation time and the restricted multiple observation time testing approaches. citation:-1
+title:Application of Tools Developed at the University of Iowa to ITC Benchmarks. citation:-1
+title:N-distinguishing Tests for Enhanced Defect Diagnosis. citation:-1
+title:Improved n-Detection Test Sequences Under Transparent Scan. citation:-1
+title:Using Dummy Bridging Faults to Define Reduced Sets of Target Faults. citation:-1
+title:On the fault coverage of gate delay fault detecting tests. citation:-1
+title:Scan-Based Delay Fault Tests for Diagnosis of Transition Faults. citation:-1
+title:A built-in self-test method for diagnosis of synchronous sequential circuits. citation:-1
+title:Resynthesis of combinational logic circuits for improved path delay fault testability using comparison units. citation:-1
+title:Properties of Output Sequences and their Use in Guiding Property-Based Test Generation for Synchronous Sequential Circuits. citation:-1
+title:Techniques for improving the efficiency of sequential circuit test generation. citation:-1
+title:Recovery During Concurrent On-Line Testing of Identical Circuits. citation:-1
+title:On the Use of Functional Test Generation in Diagnostic Test Generation for Synchronous Sequential Circuits. citation:-1
+title:Design-for-testability to achieve complete coverage of delay faults in standard full scan circuits. citation:-1
+title:Dynamic Test Compaction for Bridging Faults. citation:-1
+title:On Testable Design for CMOS Logic Circuits. citation:-1
+title:On Undetectable Faults in Partial Scan Circuits Using Transparent-Scan. citation:-1
+title:Testing of Fault-Tolerant Hardware. citation:-1
+title:EXTEST: a method to extend test sequences of synchronous sequential circuits to increase the fault coverage. citation:-1
+title:State persistence: a property for guiding test generation. citation:-1
+title:On Test Application Time and Defect Detection Capabilities of Test Sets for Scan Designs. citation:-1
+title:Testing-what's missing? An incomplete list of challenges. citation:-1
+title:A DFT Approach for Path Delay Faults in Interconnected Circuits. citation:-1
+title:Definitions of the numbers of detections of target faults and their effectiveness in guiding test generation for high defect coverage. citation:-1
+title:The Effect of Filling the Unspecified Values of a Test Set on the Test Set Quality. citation:-1
+title:A New Approach to Test Generation and Test Compaction for Scan Circuits. citation:-1
+title:Test Data Compression Based on Output Dependence. citation:-1
+title:Worst-Case and Average-Case Analysis of n-Detection Test Sets. citation:-1
+title:"Challenges in Testing". citation:-1
+title:Low-Complexity Fault Diagnosis Under the Multiple Observation Time Testing Approach. citation:-1
+title:TIGUAN: Thread-Parallel Integrated Test Pattern Generator Utilizing Satisfiability ANalysis. citation:-1
+title:On the fault coverage of delay fault detecting tests. citation:-1
+title:On the Design of Random Pattern Testable PLAs. citation:-1
+title:A Synthesis Procedure for Flexible Logic Functions. citation:-1
+title:On the Design of Testable Domino PLAs. citation:-1
+title:Design-for-Testability for Synchronous Sequential Circuits that Maintains Functional Switching Activity. citation:-1
+title:On Multipath Multistage Interconnection Networks. citation:-1
+title:Dynamic test compaction for a random test generation procedure with input cube avoidance. citation:-1
+title:Delay Fault Testing: How Robust are Our Models? citation:-1
+title:On Common-Mode Skewed-Load and Broadside Tests. citation:-1
+title:Forward-Looking Reverse Order Fault Simulation for n -Detection Test Sets. citation:-1
+title:Worst-Case and Average-Case Analysis of n-Detection Test Sets citation:-1
+title:Deterministic broadside test generation for transition path delay faults. citation:-1
+title:Test Sequences with Reduced and Increased Switching Activity. citation:-1
+title:Thread-Parallel Integrated Test Pattern Generator Utilizing Satisfiability Analysis. citation:-1
+title:On Bias in Transition Coverage of Test Sets for Path Delay Faults. citation:-1
+title:Reducing the switching activity of test sequences under transparent-scan. citation:-1
+title:On Functional Broadside Tests With Functional Propagation Conditions. citation:-1
+title:Broadside and Functional Broadside Tests for Partial-Scan Circuits. citation:-1
+title:Static Test Data Volume Reduction Using Complementation or Modulo- M Addition. citation:-1
+title:Test compaction methods for transition faults under transparent-scan. citation:-1
+title:Primary input cones based on test sequences in synchronous sequential circuits. citation:-1
+title:Ranking of input cubes based on their lingering synchronisation effects and their use in random sequential test generation. citation:-1
+title:Sizes of test sets for path delay faults using strong and weak non-robust tests. citation:-1
+title:Reducing the Storage Requirements of a Test Sequence by Using One or Two Background Vectors. citation:-1
+title:Diagnosis of Multiple Faults Based on Fault-Tuple Equivalence Tree. citation:-1
+title:Multiple fault activation cycle tests for transistor stuck-open faults. citation:-1
+title:On the saturation of n-detection test sets with increased n. citation:-1
+title:Max-Fill: A method to generate high quality delay tests. citation:-1
+title:On finding undetectable and redundant faults in synchronous sequential circuits. citation:-1
+title:Functional test of small-delay faults using SAT and Craig interpolation. citation:-1
+title:Reset and partial-reset-based functional broadside tests. citation:-1

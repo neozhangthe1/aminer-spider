@@ -1,0 +1,280 @@
+title:Getting real about speech: overdue or overhyped? citation:-1
+title:Using Treemaps to Visualize the Analytic Hierarchy Process. citation:-1
+title:Universal usability as a stimulus to advanced interface design. citation:-1
+title:Designing to Facilitate Browsing: A Look Back at the Hyperties Workstation Browser. citation:-1
+title:Data Sonification for Users with Visual Impairment: A Case Study with Georeferenced Data. citation:-1
+title:Which Comes First, Utility or Usability? citation:-1
+title:Using rhythms of relationships to understand e-mail archives. citation:-1
+title:Query Previews in Networked Information Systems. citation:-1
+title:Query Previews in Networked Information Systems: the Case of EOSDIS. citation:-1
+title:Incorporating String Search in a Hypertext System: User Interface and Signature File Design Issues. citation:-1
+title:Touchscreen Field Specification for Public Access Database Queries: Let Your Fingers do the Qalking. citation:-1
+title:A Spectrum of Automatic Hypertext Constructions. citation:-1
+title:Dynamic Queries: Database Searching by Direct Manipulation. citation:-1
+title:CHI@20: fighting our way from marginality to power. citation:-1
+title:Making a difference: integrating socially relevant projects into HCI teaching. citation:-1
+title:Polynomial Search. citation:-1
+title:25 years of CHI conferences: capturing the exchange of ideas. citation:-1
+title:The Durango Declarations Forum. citation:-1
+title:Organization overviews and role management: inspiration for future desktop environments. citation:-1
+title:MediaFinder: an interface for dynamic personal media management with semantic regions. citation:-1
+title:Dynamic query visualizations on World Wide Web clients: a DHTML solution for maps and scattergrams. citation:-1
+title:Confessions - What's Wrong with Our Systems. citation:-1
+title:Elastic Windows: Evaluation of Multi-Window Operations. citation:-1
+title:Strategies for evaluating information visualization tools: multi-dimensional in-depth long-term case studies. citation:-1
+title:Elastic Windows: A Hierarchical Multi-Window World-Wide Web Browser. citation:-1
+title:A Review of Design Techniques for Programs and Data. citation:-1
+title:Organization overviews and role management: inspiration for future desktop environments. citation:-1
+title:Designing trust into online experiences. citation:-1
+title:Representing Unevenly-Spaced Time Series Data for Visualization and Interactive Exploration. citation:-1
+title:Beyond the Graphical User Interface (abstract). citation:-1
+title:ACM's computing professionals face new challenges. citation:-1
+title:Universal Usability. citation:-1
+title:The limits of speech recognition. citation:-1
+title:Jump Searching: A Fast Sequential Search Technique. citation:-1
+title:Control Flow and Data Structure Documentation: Two Experiments. citation:-1
+title:Creativity support tools. citation:-1
+title:Optimum Data Base Reorganization Points. citation:-1
+title:Creativity challenges and opportunities in social computing. citation:-1
+title:Extreme visualization: squeezing a billion records into a million pixels. citation:-1
+title:Split Menus: Effectively Using Selection Frequency to Organize Menus. citation:-1
+title:Visualization Methods for Personal Photo Collections: Browsing and Searching in the PhotoFinder. citation:-1
+title:Interactive Sonification of Choropleth Maps. citation:-1
+title:Interacting with identification technology: can it make us more secure? citation:-1
+title:Path Expressions for Complex Queries and Automatic Database Program Conversion. citation:-1
+title:Human factors of interactive software. citation:-1
+title:Browsing hierarchical data with multi-level dynamic queries and pruning. citation:-1
+title:Intelligent User Interfaces: From Fantasy to Fact. citation:-1
+title:Learner-Centered System Design: HCI Perspective for the Future. citation:-1
+title:Engagement and Construction: Educational Strategies for the Post-TV Era. citation:-1
+title:Creating creativity: user interfaces for supporting innovation. citation:-1
+title:Response Time and Display Rate in Human Performance with Computers. citation:-1
+title:Advanced Graphic User Interfaces: Elastic and Tightly Coupled Windows. citation:-1
+title:Speech versus Mouse Commands for Word Processing: An Empirical Evaluation. citation:-1
+title:Visual Metaphor and the Problem of Complexity in the Design of Web Sites: Techniques for Generating, Recognizing and Visualizing Structure. citation:-1
+title:IEEE Multimedia: Visions and Views - Meeting Human Needs with New Digital Imaging Technologies. citation:-1
+title:User Interface Design and Evaluation for an Electronic Encyclopedia. citation:-1
+title:Visual and Textual Consistency Checking Tools for Graphical User Interfaces. citation:-1
+title:Experimental testing in programming languages, stylistic considerations and design techniques. citation:-1
+title:Integrating statistics and visualization: case studies of gaining clarity during exploratory data analysis. citation:-1
+title:Supporting statistical electronic table usage by citizens. citation:-1
+title:Selection devices for user of an electronic encyclopedia: An empirical comparison of four possibilities. citation:-1
+title:User interfaces for creativity support tools. citation:-1
+title:User Controlled Overviews of an Image Library: A Case Study of the Visible Human. citation:-1
+title:A rank-by-feature framework for interactive exploration of multidimensional data. citation:-1
+title:Meeting Human Needs with New Digital Imaging Technologie. citation:-1
+title:Query Previews for Networked Information Systems: A Case Study with NASA Environmental Data. citation:-1
+title:Is Bigger Better? The Effects of Display Size on Program Reading. citation:-1
+title:Database Program Conversion: A Framework for Research. citation:-1
+title:An Exploratory Evaluation of Three Interfaces for Browsing Large Hierarchical Tables of Contents. citation:-1
+title:A graphical query interface based on aggregation/generalization hierarchies. citation:-1
+title:A Knowledge Integration Framework for Information Visualization. citation:-1
+title:A dynamic query interface for finding patterns in time series data. citation:-1
+title:Low-Effort, High-Payoff User Interface Reengineering. citation:-1
+title:Project highlight: toward a statistical knowledge network--2004-05. citation:-1
+title:Image-Browser Taxonomy and Guidelines for Designers. citation:-1
+title:Sorting Out Searching: A User-Interface Framework for Text Searches. citation:-1
+title:Find that photo!: interface strategies to annotate, browse, and share. citation:-1
+title:Ecological Studies of Professional Programmers (Introduction to the Special Section). citation:-1
+title:Universal usability statements: Marking the trail for all users. citation:-1
+title:Experimental Investigations of the Utility of Detailed Flowcharts in Programming. citation:-1
+title:Pracniques: Designing Computer System Messages. citation:-1
+title:Between Hope and Fear. citation:-1
+title:Windows of Opportunity in Electronic Classrooms. citation:-1
+title:Interacting with eHealth: towards grand challenges for HCI. citation:-1
+title:Direct Manipulation: A Step Beyond Programming Languages. citation:-1
+title:Facilitating Understanding of Information Visualizations: Emerging Principles and Examples. citation:-1
+title:Structured Data Structures. citation:-1
+title:Workplace user frustration with computers: an exploratory investigation of the causes and severity. citation:-1
+title:Improving Accessibility and Usability of Geo-referenced Statistical Data. citation:-1
+title:Direct Manipulation for Comprehensible, Predictable and Controllable User Interfaces. citation:-1
+title:Improving Accessibility and Usability of Geo-referenced Statistical Data. citation:-1
+title:Interactively Exploring Hierarchical Clustering Results. citation:-1
+title:Designing semantic substrates for visual network exploration. citation:-1
+title:The Future of Graphic User Interfaces: Personal Role Managers. citation:-1
+title:Dynamic query tools for time series data sets: Timebox widgets for interactive exploration. citation:-1
+title:Interactive Entity Resolution in Relational Data: A Visual Analytic Tool and Its Evaluation. citation:-1
+title:Identifying Aggregates in Hypertext Structures. citation:-1
+title:Elastic windows: improved spatial layout and rapid multiple window operations. citation:-1
+title:D-Dupe: An Interactive Tool for Entity Resolution in Social Networks. citation:-1
+title:Data Structures for Dynamic Queries: An Analytical and Experimental Evaluation. citation:-1
+title:Finding governmental statistical data on the Web: A study of categorically organized links for the FedStats topics page. citation:-1
+title:Visualizing digital library search results with categorical and hierarchical axes. citation:-1
+title:Designing Interactive Multimedia (Panel). citation:-1
+title:Human-Centered Computing, Online Communities, and Virtual Environments. citation:-1
+title:Human-computer interaction themes in digital government: web site comprehension and statistics visualization. citation:-1
+title:Expandable indexes vs. sequential menus for searching hierarchies on the World Wide Web. citation:-1
+title:Discovering interesting usage patterns in text collections: integrating text mining with visualization. citation:-1
+title:Sonification of Geo-Referenced Data for Auditory Information Seeking: Design Principle and Pilot Study. citation:-1
+title:Visualization and analysis of microarray and gene ontology data with treemaps. citation:-1
+title:Users can change their web search tactics: Design guidelines for categorized overviews. citation:-1
+title:Hypertext and Software Engineering. citation:-1
+title:Aligning temporal data by sentinel events: discovering patterns in electronic health records. citation:-1
+title:Balancing Systematic and Flexible Exploration of Social Networks. citation:-1
+title:The Future of Graphic User Interfaces. citation:-1
+title:Evaluating three museum installations of a hypertext system. citation:-1
+title:A dual-view approach to interactive network visualization. citation:-1
+title:Intelligent Software Agents vs. User-Controlled Direct Manipulation: A Debate (Panel). citation:-1
+title:Dynamic Aggregation to Support Pattern Discovery: A Case Study with Web Logs. citation:-1
+title:Automatic database system conversion: schema revision, data translation, and source-to-source program transformation. citation:-1
+title:Temporal, Geographical, and Categorial Aggregations Viewed through Coordinated Displays: A Case Study with Highway Incident Data. citation:-1
+title:Personality and programming: Time-sharing vs. batch preference. citation:-1
+title:Human Responsibility for Autonomous Agents. citation:-1
+title:The Future of Graphical User Interfaces. citation:-1
+title:Meaningful presentations of photo libraries: rationale and applications of bi-level radial quantum layouts. citation:-1
+title:Designing information-abundant web sites: issues and recommendations. citation:-1
+title:Measuring Computer Program Quality and Comprehension. citation:-1
+title:Exploring personal media: A spatial interface supporting user-defined semantic regions. citation:-1
+title:An Experimental Comparison of a Mouse and Arrow-Jump Keys for an Interactive Encyclopedia. citation:-1
+title:Interface: A Framework for Search Interfaces. citation:-1
+title:Examining Usability for a Training-Oriented Hypertext: Can Hyper-Activity be Good? citation:-1
+title:Categorizing web search results into meaningful and stable categories using fast-feature techniques. citation:-1
+title:Interactively optimizing signal-to-noise ratios in expression profiling: project-specific algorithm selection and detection p-value weighting in Affymetrix microarrays. citation:-1
+title:Visual decision-making: using treemaps for the analytic hierarchy process. citation:-1
+title:Bibliography on Data Base Structures. citation:-1
+title:Potentials and Limitations of Pen-Based Computers. citation:-1
+title:High Precision Touchscreens: Design Strategies and Comparisons with a Mouse. citation:-1
+title:Temporal Summaries: Supporting Temporal Categorical Searching, Aggregation and Comparison. citation:-1
+title:First Steps to Netviz Nirvana: Evaluating Social Network Analysis with NodeXL. citation:-1
+title:Interface and Data Architecture for Query Preview in Networked Information Systems. citation:-1
+title:A Note on Human Factors Issues of Natural Language Interaction With Database Systems. citation:-1
+title:Recuced combined indexes for efficient multiple attribute retrieval. citation:-1
+title:Comprehension and Object Recognition Capabilities for Presentations of Simultaneous Video Key Frame Surrogates. citation:-1
+title:Embedded Menus: Selecting Items in Context. citation:-1
+title:Visual information seeking using the FilmFinder. citation:-1
+title:Helping Users Get Started with Visual Interfaces: Multi-Layered Interfaces, Integrated Initial Guidance and Video Demonstrations. citation:-1
+title:Natural Vs. Precise Concise Languages for Human Operation of Computers: Research Issues and Experimental Approaches. citation:-1
+title:The alphaslider: a compact and rapid selector. citation:-1
+title:New Approaches to Help Users Get Started with Visual Interfaces: Multi-Layered Interfaces and Integrated Initial Guidance. citation:-1
+title:The alphaslider: a compact and rapid selector. citation:-1
+title:Systematic yet flexible discovery: guiding domain experts through exploratory data analysis. citation:-1
+title:Interactive Exploration of Time Series Data. citation:-1
+title:Human Values for Shaping the Made World. citation:-1
+title:Show Me! Guidelines for Producing Recorded Demonstrations. citation:-1
+title:Dynamic Layout Management in a Multimedia Bulletin Board. citation:-1
+title:Program Indentation and Comprehensibility. citation:-1
+title:Exploring auction databases through interactive visualization. citation:-1
+title:Data Object and Label Placement For Information Abundant Visualizations. citation:-1
+title:Network Visualization by Semantic Substrates. citation:-1
+title:Designing a Metadata -Driven Visual Information Browser for Federal Statistics. citation:-1
+title:Data Exploration with Paired Hierarchical Visualizations: Initial Designs of Pair Trees. citation:-1
+title:Why Not Make Interfaces Better than 3D Reality? citation:-1
+title:An Information Architecture to Support the Visualization of Personal Histories. citation:-1
+title:An Experimental Comparison of Tabular and Graphic Data Presentation. citation:-1
+title:NASDAQ Velocity and Forces: An Interactive Visualization of Activity and Change. citation:-1
+title:Crisis and opportunity in computer science. citation:-1
+title:The Effect of Scope Delimiters on Program Comprehension. citation:-1
+title:Response to N. C. Rowe's Rewiew. citation:-1
+title:Domain Name Based Visualization of Web Histories in a Zoomable User Interface. citation:-1
+title:Scheduling Home Control Devices: Design Issues and Usability Evaluation of Four Touchscreen Interfaces. citation:-1
+title:Direct manipulation vs. interface agents. citation:-1
+title:Research Alerts. citation:-1
+title:An Applied Ethnographic Method for Redesigning User Interfaces. citation:-1
+title:Design: CUU: bridging the digital divide with universal usability. citation:-1
+title:Understanding human reactivites and relationships: an excerpt from Leonardo's laptop. citation:-1
+title:Designing for fun: how can we design user interfaces to be more fun? citation:-1
+title:Opportunities for Data Base Reorganization. citation:-1
+title:The End of Zero-hit Queries: Query Previews for NASA's Global Change Master Directory. citation:-1
+title:Lessons Learned from the ACM Hypertext on Hypertext Project. citation:-1
+title:Using interactive visualizations of WWW log data to characterize access patterns and inform site design. citation:-1
+title:Creativity support tools: accelerating discovery and innovation. citation:-1
+title:An Experiment Using Memorization/Reconstruction as a Measure of Programmer Ability. citation:-1
+title:Survival of the Fittest: The Evolution of Multimedia User Interfaces. citation:-1
+title:Anthropomorphism: From Eliza to Terminator 2. citation:-1
+title:Performance Benefits of Simultaneous Over Sequential Menus as Task Complexity Increases. citation:-1
+title:User Interface Design for the Hyperties Electronic Encyclopedia. citation:-1
+title:Incremental data Structures and Algorithms for Dynamic Query Interfaces. citation:-1
+title:The User Interface in a Hypertext, Multiwindow Program Browser. citation:-1
+title:Managing Design Processes for Successful User Interfaces. citation:-1
+title:Enabling teachers to explore grade patterns to identify individual needs and promote fairer student assessment. citation:-1
+title:Navigating in Hyperspace: Designing a Structure-Based Toolbox. citation:-1
+title:Web science: a provocative invitation to computer science. citation:-1
+title:Perspective-based Usability Inspection: An Empirical Validation of Efficacy. citation:-1
+title:Elastic Windows: Design, Implementation, and Evaluation of Multiwindow Operations. citation:-1
+title:iSonic: interactive sonification for non-visual data exploration. citation:-1
+title:A comparison of voice controlled and mouse controlled web browsing. citation:-1
+title:Previews and overviews in digital libraries: Designing surrogates to support visual information seeking. citation:-1
+title:Ordered Treemap Layouts. citation:-1
+title:Durango Declarations Forum Commentaries. citation:-1
+title:Bibliography on Data Structures. citation:-1
+title:Severity and impact of computer user frustration: A comparison of student and workplace users. citation:-1
+title:Snap-together visualization: can users construct and operate coordinated visualizations? citation:-1
+title:Knowledge Discovery in High-Dimensional Data: Case Studies and a User Survey for the Rank-by-Feature Framework. citation:-1
+title:Dynamic Queries and Brushing on Choropleth Maps. citation:-1
+title:Immediate usability: a case study of public access design for a community photo library. citation:-1
+title:Design and Evaluation of Incremental Data Structures and Algorithms for Dynamic Query Interfaces. citation:-1
+title:Cognitive Layouts of Windows and Multiple Screens for User Interfaces. citation:-1
+title:Automatically Transforming Regularly Structured Documents into Hypertext. citation:-1
+title:Extending the Utility of Treemaps with Flexible Hierarchy. citation:-1
+title:A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections. citation:-1
+title:A Graphical Filter/Flow Representation of Boolean Queries: A Prototype Implementation and Evaluation. citation:-1
+title:Integrating Statistics and Visualization for Exploratory Power: From Long-Term Case Studies to Design Guidelines. citation:-1
+title:Visual overviews for discovering key papers and influences across research fronts. citation:-1
+title:Supporting Creativity with Powerful Composition Tools for Artifacts and Performances. citation:-1
+title:Beyond accuracy, reliability, and efficiency: criteria for a good computer system. citation:-1
+title:A Framework for Automatic Conversion of Network Database Programs Under Schema Transformations. citation:-1
+title:The Advantages of Hypertext for Large Information Spaces; Where Are the Big Systems? (Panel). citation:-1
+title:Colour-coded pixel-based highly interactive Web mapping for georeferenced data exploration. citation:-1
+title:Dynamic Layout Management in a Multimedia Bulletin Board. citation:-1
+title:An Architecture for Automatic Relational Database System Conversion. citation:-1
+title:Batched Searching of Sequential and Tree Structured Files. citation:-1
+title:Design, development and utilization perspectives on database management systems. citation:-1
+title:Improving the Human Factors Aspect of Database Interactions. citation:-1
+title:Starfield Visualization with Interactive Smooth Zooming. citation:-1
+title:"I hear the pattern": interactive sonification of geographical data patterns. citation:-1
+title:Visualizing Threaded Conversation Networks: Mining Message Boards and Email Lists for Actionable Insights. citation:-1
+title:Technology-Mediated Social Participation: Deep Science and Extreme Technology. citation:-1
+title:ManyNets: an interface for multiple network analysis and visualization. citation:-1
+title:Proceedings of the 6th Conference on Creativity & Cognition, Washington, DC, USA, June 13-15, 2007 citation:-1
+title:Analyzing (social media) networks with NodeXL. citation:-1
+title:Determining Causes and Severity of End-User Frustration. citation:-1
+title:Creativity Support Tools: Report From a U.S. National Science Foundation Sponsored Workshop. citation:-1
+title:From Keyword Search to Exploration: Designing Future Search Interfaces for the Web. citation:-1
+title:From bowling alone to tweeting together: technology-mediated social participation. citation:-1
+title:Designing the User Interface - Strategies for Effective Human-Computer Interaction (5. ed.). citation:-1
+title:Cyberinfrastructure for Social Action on National Priorities. citation:-1
+title:Codex, Memex, Genex: The Pursuit of Transformational Technologies. citation:-1
+title:An experimental evaluation of three touch screen strategies within a hypertext database. citation:-1
+title:Future directions for human-computer interaction. citation:-1
+title:Review of "modelling in data base management systems": by G. M. Nijssen, North-Holland Publishing Company, Amsterdam, The Netherlands, 418 pages, US $35.00. citation:-1
+title:Designing the user interface - strategies for effective human-computer interaction (4. ed.). citation:-1
+title:Designing the user interface - strategies for effective human-computer interaction (2. ed.). citation:-1
+title:Hypertext Hands-on! - an introduction to a new way of organizing and accessing information. citation:-1
+title:Readings in information visualization - using vision to think. citation:-1
+title:Designing the user interface - strategies for effective human-computer interaction (3. ed.). citation:-1
+title:LifeFlow: visualizing an overview of event sequences. citation:-1
+title:From slacktivism to activism: participatory culture in the age of social media. citation:-1
+title:LifeFlow: visualizing an overview of event sequences (video preview). citation:-1
+title:Demonstrational interfaces: Coming soon? citation:-1
+title:Scheduling on-off home control devices. citation:-1
+title:EventGraphs: Charting Collections of Conference Connections. citation:-1
+title:Temporal Visualization of Social Network Dynamics: Prototypes for Nation of Neighbors. citation:-1
+title:Visual information seeking in multiple electronic health records: design recommendations and a process model. citation:-1
+title:Finding comparable temporal categorical records: A similarity measure with an interactive visualization. citation:-1
+title:A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events across Multiple Histories. citation:-1
+title:D-Dupe: An Interactive Tool for Entity Resolution in Social Networks. citation:-1
+title:Visual Exploration across Biomedical Databases. citation:-1
+title:Advances in computer programming management: Edited by Thomas A. Rullo, Heyden and Sons, Inc., Philadelphia, 1980, 238 pages. citation:-1
+title:A model for computer frustration: the role of instrumental and dispositional factors on incident, session, and post-session frustration and mood. citation:-1
+title:Realizing the value of social media requires innovative computing research. citation:-1
+title:The healthcare singularity and the age of semantic medicine. citation:-1
+title:Evaluating visual and statistical exploration of scientific literature networks. citation:-1
+title:TreeVersity: Comparing tree structures by topology and node's attributes differences. citation:-1
+title:Group-in-a-Box Layout for Multi-faceted Analysis of Communities. citation:-1
+title:Community Response Grids for Older Adults: Motivations, Usability, and Sociability. citation:-1
+title:User Frustration with Technology in the Workplace. citation:-1
+title:The design of history mechanisms and their use in collaborative educational simulations. citation:-1
+title:Exploratory experiments in programmer behavior. citation:-1
+title:A model for optimizing indexed file structures. citation:-1
+title:Syntactic/semantic interactions in programmer behavior: A model and experimental results. citation:-1
+title:Toward a theory of encoded data structures and data translation. citation:-1
+title:Querying event sequences by exact match or similarity search: Design and empirical evaluation. citation:-1
+title:A Temporal Pattern Search Algorithm for Personal History Event Visualization. citation:-1
+title:Clarifying Search: A User-Interface Framework for Text Searches. citation:-1
+title:Interactive dynamics for visual analysis. citation:-1
+title:Interactive color mosaic and dendrogram displays for signal/noise optimization in microarray data analysis. citation:-1
+title:Dynamic querying for pattern identification in microarray and genomic data. citation:-1
+title:Challenges for information visualization research: Visual quality and data quantity. citation:-1
+title:Handbook of Human Factors and Ergonomics (4th ed.). citation:-1
+title:Rapid understanding of scientific paper collections: Integrating statistics, text analytics, and visualization. citation:-1
+title:Interactive Network Exploration to Derive Insights: Filtering, Clustering, Grouping, and Simplification. citation:-1

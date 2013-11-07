@@ -1,0 +1,110 @@
+title1:Visibility with a Moving Point of View. title2:Visibility with a moving point of view citation:69 ncitation:70 pid610040
+title1:Dihedral Bounds for Mesh Generation in High Dimensions. title2:Dihedral bounds for mesh generation in high dimensions citation:64 ncitation:61 pid610039
+title1:On Triangulating Three-Dimensional Polygons. title2:On triangulating three-dimensional polygons citation:55 ncitation:50 pid110690
+title1:Edge Insertion for Optional Triangulations. title2:Edge insertion for optimal triangulations citation:55 ncitation:71 pid481155
+title1:Sparsification - a technique for speeding up dynamic graph algorithms. citation:325 ncitation:314 pid950211
+title1:Sparse Dynamic Programming II: Convex and Concave Cost Functions. title2:Sparse dynamic programming II: convex and concave cost functions citation:78 ncitation:69 pid950209
+title1:Deterministic sampling and range counting in geometric data streams. title2:Deterministic sampling and range counting in geometric data streams citation:45 ncitation:32 pid110676
+title1:Subgraph Isomorphism in Planar Graphs and Related Problems title2:Subgraph isomorphism in planar graphs and related problems citation:318 ncitation:305 pid818091
+title1:Skip Quadtrees: Dynamic Data Structures for Multidimensional Point Sets. title2:Skip quadtrees: Dynamic data structures for multidimensional point sets citation:91 ncitation:-1 pid905747
+title1:Sparse Dynamic Programming I: Linear Cost Functions. title2:Sparse dynamic programming I: linear cost functions citation:137 ncitation:155 pid950207
+title1:3-coloring in time O(1.3289). title2:3-coloring in time O (n1. 3289) citation:91 ncitation:85 pid952637
+title1:Optimal Point Placement for Mesh Smoothing. title2:Optimal point placement for mesh smoothing citation:139 ncitation:128 pid952590
+title1:The Crust and the beta-Skeleton: Combinatorial Curve Reconstruction. citation:399 ncitation:381 pid833631
+title1:An Efficient Algorithm for Shortest Paths in Vertical and Horizontal Segments. title2:An E cient Algorithm for Shortest Paths in Vertical and Horizontal Segments citation:0 ncitation:14 pid651271
+title1:Small Maximal Independent Sets and Faster Exact Graph Coloring. title2:Small maximal independent sets and faster exact graph coloring citation:77 ncitation:67 pid651267
+title1:Diameter and Treewidth in Minor-Closed Graph Families. title2:Diameter and treewidth in minor-closed graph families citation:173 ncitation:170 pid750021
+title1:On triangulating three-dimensional polygons. title2:On triangulating three-dimensional polygons citation:55 ncitation:50 pid803557
+title1:Internet Packet Filter Management and Rectangle Geometry title2:Internet packet filter management and rectangle geometry citation:172 ncitation:166 pid816624
+title1:Provably Good Mesh Generation. title2:Provably good mesh generation citation:396 ncitation:369 pid971519
+title1:Parallel Recognition of Series-Parallel Graphs title2:Parallel recognition of series-parallel graphs citation:60 ncitation:54 pid887781
+title1:Dynamic Three-Dimensional Linear Programming. title2:Dynamic three-dimensional linear programming citation:54 ncitation:50 pid1275444
+title1:On Nearest-Neighbor Graphs. title2:On nearest-neighbor graphs citation:91 ncitation:77 pid843324
+title1:Raising Roofs, Crashing Cycles, and Playing Pool: Applications of a Data Structure for Finding Pairwise Interactions. title2:Raising roofs, crashing cycles, and playing pool: Applications of a data structure for finding pairwise interactions citation:137 ncitation:120 pid843322
+title1:Iterated Nearest Neighbors and Finding Minimal Polytopes. title2:Iterated nearest neighbors and finding minimal polytopes citation:109 ncitation:101 pid843321
+title1:Dynamic Euclidean Minimum Spanning Trees and Extrema of Binary Functions. title2:Dynamic Euclidean minimum spanning trees and extrema of binary functions citation:71 ncitation:67 pid843319
+title1:Approximating the Minimum Weight Steiner Triangulation. title2:Approximating the minimum weight Steiner triangulation citation:53 ncitation:50 pid843318
+title1:Guest Editor's Foreword. title2:Special Issue on Selected Papers from the Seventeenth International Symposium on Graph Drawing, GD 2009: Guest Editors' Foreword citation:0 ncitation:-1 pid843317
+title1:Deterministic sampling and range counting in geometric data streams. title2:Deterministic sampling and range counting in geometric data streams citation:45 ncitation:32 pid1077343
+title1:Dynamic Generators of Topologically Embedded Graphs title2:Dynamic generators of topologically embedded graphs citation:55 ncitation:50 pid817982
+title1:Minimum dilation stars. title2:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars citation:0 ncitation:23 pid804023
+title1:Arboricity and Bipartite Subgraph Listing Algorithms. title2:Arboricity and bipartite subgraph listing algorithms citation:61 ncitation:57 pid931101
+title1:Approximating center points with iterative Radon points. title2:Approximating center points with iterative Radon points citation:75 ncitation:73 pid905392
+title1:3-Coloring in time O(1.3446): A no-MIS Algorithm title2:3-coloring in time 0 (1.3446< sup> n</sup>): a no-MIS algorithm citation:105 ncitation:105 pid861758
+title1:Quasiconvex Analysis of Backtracking Algorithms title2:Quasiconvex analysis of backtracking algorithms citation:65 ncitation:61 pid818008
+title1:Parallel Construction of Quadtrees and Quality Triangulations. title2:Parallel construction of quadtrees and quality triangulations citation:102 ncitation:51 pid651116
+title1:Separator based sparsification for dynamic planar graph algorithms. title2:Separator based sparsification for dynamic planar graph algorithms citation:46 ncitation:49 pid621926
+title1:Parallel Construction of Quadtrees and Quality Triangulations. title2:Parallel construction of quadtrees and quality triangulations citation:102 ncitation:51 pid905378
+title1:The expected extremes in a Delaunay triangulation. title2:The expected extremes in a Delaunay triangulation citation:56 ncitation:54 pid905380
+title1:Reset Sequences for Monotonic Automata. title2:Reset sequences for monotonic automata citation:130 ncitation:119 pid1059120
+title1:Finding the k Shortest Paths. title2:Finding the k shortest paths citation:1176 ncitation:763 pid1059121
+title1:Triangulating polygons without large angles. title2:Triangulating polygons without large angles citation:45 ncitation:43 pid905370
+title1:Optimal Point Placement for Mesh Smoothing. title2:Optimal point placement for mesh smoothing citation:139 ncitation:128 pid609796
+title1:Quadrilateral Meshing by Circle Packing. title2:Quadrilateral meshing by circle packing citation:67 ncitation:-1 pid905372
+title1:Polynomial-size nonobtuse triangulation of polygons. title2:Polynomial-size nonobtuse triangulation of polygons citation:68 ncitation:64 pid905374
+title1:Parametric and Kinetic Minimum Spanning Trees. title2:Parametric and kinetic minimum spanning trees citation:61 ncitation:56 pid209822
+title1:The lattice dimension of a graph title2:The lattice dimension of a graph citation:54 ncitation:55 pid818043
+title1:Memory reference caching for activity reduction on address buses. title2:Memory reference caching for activity reduction on address buses citation:0 ncitation:0 pid1152938
+title1:Planar Orientations with Low Out-degree and Compaction of Adjacency Matrices. title2:Planar orientations with low out-degree and compaction of adjacency matrices citation:63 ncitation:59 pid1090178
+title1:Triangulating Polygons without Large Angles. title2:Triangulating polygons without large angles citation:45 ncitation:43 pid110731
+title1:Polynomial-Size Nonobtuse Triangulation of Polygons. title2:Polynomial-size nonobtuse triangulation of polygons citation:68 ncitation:64 pid110734
+title1:The geometric thickness of low degree graphs. title2:The geometric thickness of low degree graphs citation:47 ncitation:45 pid110955
+title1:Quadrilateral Meshing by Circle Packing title2:Quadrilateral meshing by circle packing citation:67 ncitation:-1 pid816712
+title1:Minimum Dilation Stars title2:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars citation:0 ncitation:23 pid824272
+title1:The lattice dimension of a graph. title2:The lattice dimension of a graph citation:54 ncitation:55 pid864418
+title1:Computing the Discrepancy. title2:Computing the discrepancy with applications to supersampling patterns citation:49 ncitation:42 pid110936
+title1:Tiling space and slabs with acute tetrahedra. title2:Tiling space and slabs with acute tetrahedra citation:56 ncitation:49 pid803661
+title1:Computing the Discrepancy with Applications to Supersampling Patterns. title2:Computing the discrepancy with applications to supersampling patterns citation:49 ncitation:43 pid1119057
+title1:A steady state model for graph power laws title2:A steady state model for graph power laws citation:62 ncitation:53 pid817872
+title1:A Deterministic Linear Time Algorithm for Geometric Separators and its Applications. title2:A deterministic linear time algorithm for geometric separators and its applications citation:52 ncitation:50 pid881718
+title1:The Expected Extremes in a Delaunay Triangulation. title2:The expected extremes in a Delaunay triangulation citation:56 ncitation:54 pid267366
+title1:Tiling space and slabs with acute tetrahedra title2:Tiling space and slabs with acute tetrahedra citation:56 ncitation:49 pid816663
+title1:Speeding up Dynamic Programming title2:Speeding up dynamic programming citation:57 ncitation:55 pid210536
+title1:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars title2:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars citation:0 ncitation:0 pid821799
+title1:Finding the k Shortest Paths title2:Finding the k shortest paths citation:1176 ncitation:763 pid210534
+title1:Dynamic Three-Dimensional Linear Programming title2:Dynamic three-dimensional linear programming citation:54 ncitation:50 pid210533
+title1:The Geometric Thickness of Low Degree Graphs title2:The geometric thickness of low degree graphs citation:47 ncitation:45 pid816679
+title1:Deterministic Sampling and Range Counting in Geometric Data Streams title2:Deterministic sampling and range counting in geometric data streams citation:45 ncitation:32 pid816672
+title1:3-Coloring in Time O(1.3289^n) title2:3-coloring in time O (n1. 3289) citation:91 ncitation:85 pid817911
+title1:Sequence Comparison with Mixed Convex and Concave Costs. title2:Sequence comparison with mixed convex and concave costs citation:75 ncitation:72 pid952891
+title1:Improved Algorithms for 3-Coloring, 3-Edge-Coloring, and Constraint Satisfaction title2:Improved algorithms for 3-coloring, 3-edge-coloring, and constraint satisfaction citation:108 ncitation:105 pid817916
+title1:Small Maximal Independent Sets and Faster Exact Graph Coloring title2:Small maximal independent sets and faster exact graph coloring citation:77 ncitation:67 pid817918
+title1:Linear Complexity Hexahedral Mesh Generation title2:Linear complexity hexahedral mesh generation citation:57 ncitation:50 pid816692
+title1:Approximating Center Points with Iterated Radon Points. title2:Approximating center points with iterative Radon points citation:75 ncitation:73 pid110876
+title1:Optimal Point Placement for Mesh Smoothing title2:Optimal point placement for mesh smoothing citation:139 ncitation:128 pid816691
+title1:Parallel Algorithmic Techniques for Combinatorial Computation. title2:Parallel Algorithmic Techniques For Combinational Computation citation:117 ncitation:107 pid267907
+title1:Edge Insertion for Optimal Triangulations. title2:Edge insertion for optimal triangulations citation:55 ncitation:71 pid843053
+title1:3-Coloring in Time O(1.3446): A No-MIS Algorithm. title2:3-coloring in time 0 (1.3446< sup> n</sup>): a no-MIS algorithm citation:105 ncitation:105 pid210079
+title1:Visibility with a Moving Point of View. title2:Visibility with a moving point of view citation:69 ncitation:70 pid749760
+title1:Iterated Nearest Neighbors and Finding Minimal Polytopes. title2:Iterated nearest neighbors and finding minimal polytopes citation:109 ncitation:101 pid610454
+title1:Faster Construction of Planar Two-Centers. title2:Faster construction of planar two-centers citation:92 ncitation:85 pid610451
+title1:Subgraph Isomorphism in Planar Graphs and Related Problems. title2:Subgraph isomorphism in planar graphs and related problems citation:318 ncitation:305 pid610450
+title1:Internet packet filter management and rectangle geometry. title2:Internet packet filter management and rectangle geometry citation:172 ncitation:166 pid610458
+title1:Improved algorithms for 3-coloring, 3-edge-coloring, and constraint satisfaction. title2:Improved algorithms for 3-coloring, 3-edge-coloring, and constraint satisfaction citation:108 ncitation:105 pid610441
+title1:Dynamic generators of topologically embedded graphs. title2:Dynamic generators of topologically embedded graphs citation:55 ncitation:50 pid610442
+title1:Quasiconvex analysis of backtracking algorithms. title2:Quasiconvex analysis of backtracking algorithms citation:65 ncitation:61 pid610443
+title1:Succinct Greedy Graph Drawing in the Hyperbolic Plane. title2:Succinct greedy graph drawing in the hyperbolic plane citation:48 ncitation:39 pid225243
+title1:Subgraph Isomorphism in Planar Graphs and Related Problems. title2:Subgraph isomorphism in planar graphs and related problems citation:318 ncitation:305 pid981341
+title1:Small Maximal Independent Sets and Faster Exact Graph Coloring. title2:Small maximal independent sets and faster exact graph coloring citation:77 ncitation:67 pid981339
+title1:Provably Good Mesh Generation title2:Provably good mesh generation citation:396 ncitation:369 pid210120
+title1:Succinct Greedy Graph Drawing in the Hyperbolic Plane title2:Succinct greedy graph drawing in the hyperbolic plane citation:48 ncitation:39 pid827494
+title1:Linear complexity hexahedral mesh generation. title2:Linear complexity hexahedral mesh generation citation:57 ncitation:50 pid803719
+title1:Linear Complexity Hexahedral Mesh Generation. title2:Linear complexity hexahedral mesh generation citation:57 ncitation:50 pid110999
+title1:Raising Roofs, Crashing Cycles, and Playing Pool: Applications of a Data Structure for Finding Pairwise Interactions. title2:Raising roofs, crashing cycles, and playing pool: Applications of a data structure for finding pairwise interactions citation:137 ncitation:120 pid111000
+title1:A Deterministic Linear Time Algorithm for Geometric Separators and its Applications. title2:A deterministic linear time algorithm for geometric separators and its applications citation:52 ncitation:50 pid111003
+title1:Minimum dilation stars. title2:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars citation:0 ncitation:23 pid111004
+title1:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars. title2:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars citation:0 ncitation:-1 pid2780869
+title1:Graph Drawing, 17th International Symposium, GD 2009, Chicago, IL, USA, September 22-25, 2009. Revised Papers title2:Graph Drawing: 17th International Symposium, GD 2009, Chicago, IL, USA, September 22-25, 2009. Revised Papers citation:0 ncitation:0 pid2788953
+title1:Extended Dynamic Subgraph Statistics Using -Index Parameterized Data Structures. title2:Extended dynamic subgraph statistics using h-index parameterized data structures citation:0 ncitation:1 pid2953766
+title1:Questions answered. in theory.: http: //cstheory.stackexchange.com/. title2:Questions answered. in theory.: http://cstheory. stackexchange. com citation:0 ncitation:-1 pid2975886
+title1:On 2-Site Voronoi Diagrams under Geometric Distance Functions title2:Two-Site Voronoi Diagrams under Geometric Distance Functions citation:0 ncitation:1 pid3066179
+title1:Hardness of Approximate Compaction for Nonplanar Orthogonal Graph Drawings title2:Hardness of approximate compaction for nonplanar orthogonal graph drawings citation:0 ncitation:0 pid3152938
+title1:Confluent Hasse diagrams title2:Confluent hasse diagrams citation:3 ncitation:0 pid3154469
+title1:Guest Editor's Foreword. title2:Special Issue on Selected Papers from the Seventeenth International Symposium on Graph Drawing, GD 2009: Guest Editors' Foreword citation:0 ncitation:-1 pid3164408
+title1:Hardness of Approximate Compaction for Nonplanar Orthogonal Graph Drawings. title2:Hardness of approximate compaction for nonplanar orthogonal graph drawings citation:0 ncitation:0 pid3301461
+title1:Confluent Hasse Diagrams. title2:Confluent hasse diagrams citation:3 ncitation:0 pid3301483
+title1:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars. title2:Approximate Weighted Farthest Neighbors and Minimum Dilation Stars citation:0 ncitation:0 pid3448913
+title1:Diamond-Kite Meshes: Adaptive Quadrilateral Meshing and Orthogonal Circle Packing title2:Diamond-Kite Meshes: Adaptive Quadrilateral Meshing and Orthogonal Circle Packing citation:0 ncitation:0 pid3472176
+title1:Extended dynamic subgraph statistics using h-index parameterized data structures. title2:Extended dynamic subgraph statistics using h-index parameterized data structures citation:0 ncitation:1 pid3536837
+title1:On 2-Site Voronoi Diagrams under Geometric Distance Functions. title2:Two-Site Voronoi Diagrams under Geometric Distance Functions citation:0 ncitation:1 pid3565348
+title1:On 2-Site Voronoi Diagrams Under Geometric Distance Functions. title2:Two-Site Voronoi Diagrams under Geometric Distance Functions citation:0 ncitation:None pid3655143

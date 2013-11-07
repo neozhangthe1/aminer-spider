@@ -1,0 +1,181 @@
+title:A heterogeneous network architecture based Gnutella for mobile emergency preparedness applications. citation:-1
+title:Hierarchical schedulings of time-next-event heuristic on distributed memory machines. citation:-1
+title:A Novel Optimized Caching Technique for Mobile Gnutella Based Network to Support Large-Scale Collaborative Virtual Environment. citation:-1
+title:3D Web-Based Virtual Simulation Environments Extensibility through Interactive Non-Linear Stories. citation:-1
+title:A Capture and Access Mechanism for Accurate Recording and Playing of 3D Virtual Environment Simulations. citation:-1
+title:Experimental Studies in Load Balancing. citation:-1
+title:Virtual Time Synchronization in Distributed Database Systems Using a Cluster of Workstations. citation:-1
+title:A Client-Server Approach to Enhance Interactive Virtual Environments on Mobile Devices over Wireless Ad Hoc Networks. citation:-1
+title:A Synchronization and Session Control Based Protocol for 3D Multi-user Virtual Environments in a Peer-to-Peer Networks. citation:-1
+title:Improving Concurrency Control in Distributed Databases with Predeclared Tables. citation:-1
+title:A Delayed-Initiation Risk-Free Multiversion Temporally Correct Algorithm (Research Note). citation:-1
+title:Topic Introduction. citation:-1
+title:Partitioning PCS Networks for Distributed Simulation. citation:-1
+title:An FPGA-Based Accelerator for Multiple Biological Sequence Alignment with DIALIGN. citation:-1
+title:An Efficient Leader Election Protocol for Wireless Quasi-Static Mesh Networks: Proof of Correctness. citation:-1
+title:On the Use of Fuzzy Logic to Enhance Mobile Agents in Distributed E-Commerce. citation:-1
+title:Servers Reintegration in Disconnection-Resilient File Systems for Mobile Clients. citation:-1
+title:Multiple Coherence and Coordinated Checkpointing Protocols for DSM Systems. citation:-1
+title:PLT- Positional Lexicographic Tree: A New Structure for Mining Frequent Itemsets. citation:-1
+title:A distributed algorithm for the detection of local cycles and knots. citation:-1
+title:Human Immune Anomaly and Misuse Based Detection for Computer System Operations: PART II. citation:-1
+title:A multiple task allocation framework for biological sequence comparison in a grid environment. citation:-1
+title:An Adaptive Fault Identification Protocol for an Emergency/Rescue-Based Wireless and Mobile Ad-Hoc Network. citation:-1
+title:A mesh hybrid adaptive service discovery protocol (MesHASeDiP): Protocol design and proof of correctness. citation:-1
+title:A task allocation framework for biological sequence comparison applications in heterogeneous environments. citation:-1
+title:Performance analysis of a hybrid push-pull algorithm with QoS adaptations in wireless networks. citation:-1
+title:A Performance Evaluation of a Hybrid Multicast Transport Protocol for a Distributed Collaborative Virtual Simulation of a Brain Tumor Tele-Surgery Class of Applications. citation:-1
+title:The next generation wireless network challenges for an emergency preparedness and response class of applications: A necessary public safety and security. citation:-1
+title:Scalabilty of a Load Balancing Algorithm, and Its Implementation On an Intel Paragon. citation:-1
+title:A Distributed Synchronization Scheme for Multimedia Streams in Mobile Systems: Proof and Correctnes. citation:-1
+title:A Distributed Synchronization Scheme for Multimedia Streams in Mobile Systems: Proof and Correctness . citation:-1
+title:Knowledge discovery in Wireless Sensor Networks for Chronological Patterns. citation:-1
+title:A performance evaluation of OLSR and AODV routing protocols using a self-configuration mechanism for heterogeneous wireless mesh networks. citation:-1
+title:An Energy Saving and Coverage Preserving Protocol based on Function Layers For Wireless Sensor Networks. citation:-1
+title:Understanding and using mobility on Publish/Subscribe based architectures for MANETs. citation:-1
+title:Reconstructing the Plenoptic function from wireless multimedia sensor networks. citation:-1
+title:Buffer Management for 3D Image-based Rendering over Wireless Network with QoS Adaptation. citation:-1
+title:A Dynamic Load Balancing Algorithm for Conservative Parallel Simulations. citation:-1
+title:Performance Evaluation of Packet Scheduling and Synchronization Algorithms for Wireless Multimedia Systems. citation:-1
+title:A new in-network data reduction mechanism to gather data for mining wireless sensor networks. citation:-1
+title:QoS- based JPEG images transmission protocol for wireless CDMA communication systems. citation:-1
+title:A performance evaluation of a coverage compensation based algorithm for wireless sensor networks. citation:-1
+title:A performance analysis of a cache-based file prediction protocol for mobile file systems. citation:-1
+title:Performance evaluation of a hybrid adaptive service discovery protocol for next generation Heterogeneous Vehicular Networks (HVNs). citation:-1
+title:UARTP: a unicast--based self--adaptive reliable transmission protocol for wireless and mobile ad-hoc networks. citation:-1
+title:QoS and Scheduling Based Schemes for a Generalized Hybrid Request TDMA/CDMA Protocol for Wireless Multimedia. citation:-1
+title:Integrating Coordinated Checkpointing and Recovery Mechanisms into DSM Synchronization Barriers. citation:-1
+title:An Adaptive Rate Control Algorithm for Real-time Streaming of 3D Image-Based Rendering over Heterogeneous Wireless Networks. citation:-1
+title:An efficient joint dynamic detection technique for wireless transmission of JPEG2000 encoded images. citation:-1
+title:Context Interpretation in Wireless Actor and Sensor Networks. citation:-1
+title:Optimized PONG Caching Technique for Mobile Gnutella Network to Support Large-Scale Collaborative Virtual Environment. citation:-1
+title:V-Square: An Accurate Time Synchronization Protocol for Wireless Video Sensor Networks. citation:-1
+title:A Self-X Approach for OLSR Routing Protocol in Large-Scale Wireless Mesh Networks. citation:-1
+title:A buffer management technique for 3D image-based rendering on mobile devices. citation:-1
+title:Trust-based security for wireless ad hoc and sensor networks. citation:-1
+title:Corrigendum to "Trust-based security for wireless ad hoc and sensor networks" [Computer Communications 30 (2007) 2413-2427]. citation:-1
+title:RF-MVTC: an efficient risk-free multiversion concurrency control algorithm. citation:-1
+title:Towards building a conflict-free mobile distributed file system. citation:-1
+title:Prediction-based decorators for distributed collaborative haptic virtual environments. citation:-1
+title:Towards highly available and scalable high performance clusters. citation:-1
+title:An Adaptive Dynamic Grid-Based approach to DDM for large-scale distributed simulation systems. citation:-1
+title:Integrating coordinated checkpointing and recovery mechanisms into DSM synchronization barriers. citation:-1
+title:Load Balancing for Parallel PCS Network Simulations. citation:-1
+title:Performance of GZRP ad hoc Routing Protocol. citation:-1
+title:Wireless and mobile ad hoc networking and computing. citation:-1
+title:Special Issue on Wireless and Mobile Computing and Communications - Guest Editors' Introduction. citation:-1
+title:Routing in mobile and wireless ad hoc networks. citation:-1
+title:Dynamic Grid-Based Approach to Data Distribution Management. citation:-1
+title:A Distributed Algorithm for Dynamic Channel Allocation. citation:-1
+title:Local versus global lookahead in conservative parallel simulations. citation:-1
+title:Performance analysis of a novel hybrid push-pull algorithm with QoS adaptations in wireless networks. citation:-1
+title:Distributed systems performance. citation:-1
+title:Scalability and Performance Evaluation of DDM-Based Aggregation/Dissaggregation Protocols for Large-Scale Distributed Interactive Simulations Systems. citation:-1
+title:A Distributed Graph Algorithm for the Detection of Local Cycles and Knots. citation:-1
+title:An Efficient Adaptive Transmission Control Scheme for Large-Scale Distributed Simulation Systems. citation:-1
+title:A performance evaluation of distributed dynamic channel allocation protocols for mobile networks. citation:-1
+title:A Service Discovery protocol for vehicular ad hoc networks: A proof of correctness. citation:-1
+title:An on-line model to design heterogeneous wireless sensor networks based on small world concepts. citation:-1
+title:A WiFi-based wireless mesh network with inter-domain mobility management. citation:-1
+title:Target-based Association Rules for point-of-coverage wireless sensor networks. citation:-1
+title:Performance evaluation of a fast MAC handoff scheme using dynamic adjustment of scanning parameters. citation:-1
+title:An adaptive computational trust model for mobile ad hoc networks. citation:-1
+title:A novel bio-inspired load balancing algorithm with QoS assurance for large-scale peer-to-peer systems. citation:-1
+title:A grid-based DEVS approach to dynamic load balancing for large scale distributed simulations. citation:-1
+title:DEVS Approach to Real-time RTI Design for Large-scale Distributed Simulation Systems. citation:-1
+title:HLA Compliant Training Simulations Creation Tool. citation:-1
+title:Adaptive, direction-aware data dissemination for diverse sensor mobility. citation:-1
+title:Progressive image mosaicking in wireless image sensor networks. citation:-1
+title:A Novel Interactive Streaming Protocol for Image-Based 3D Virtual Environment Navigation. citation:-1
+title:Performance Analysis of Trust-Based Node Evaluation Schemes in Wireless and Mobile Ad Hoc Networks. citation:-1
+title:A Link-Reliability-Based Approach to Providing QoS Support for VANETs. citation:-1
+title:Weighted-NEAT: An efficient weighted node evaluation scheme with assistant trust mechanisms to secure wireless ad hoc networks. citation:-1
+title:Proceedings of the Second International Workshop on Mobility Management & Wireless Access Protocols, 2004, Philadelphia, PA, USA, October 1, 2004 citation:-1
+title:Proceedings of the 8th International Symposium on Modeling Analysis and Simulation of Wireless and Mobile Systems, MSWiM 2005, Montréal, Quebec, Canada, October 10-13, 2005 citation:-1
+title:Q2SWinet'05 - Proceedings of the First ACM Workshop on Q2S and Security for Wireless and Mobile Networks, Montreal, Quebec, Canada, October 13, 2005 citation:-1
+title:Q2SWinet'06 - Proceedings of the Second ACM Workshop on Q2S and Security for Wireless and Mobile Networks, Terromolinos, Spain, October 2, 2006 citation:-1
+title:Proceedings of the 3rd International Symposium on Modeling Analysis and Simulation of Wireless and Mobile Systems, MSWiM 2000, Boston, Massachusetts, USA, August 20, 2000 citation:-1
+title:Bag-of-Tasks Self-Scheduling over Range-Queriable Search Overlays. citation:-1
+title:Proceedings of the 6th ACM International Workshop on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks, PE-WASUN 2009, Tenerife, Canary Islands, Spain, October 28-29, 2009 citation:-1
+title:A Novel Message-oriented and SOA based Real-time Modeling and Simulation Framework for Peer-to-Peer Systems. citation:-1
+title:A Lightweight Iterative Positioning Algorithm for Context-Aware Wireless Sensor Networks: Proof of Correctness. citation:-1
+title:Reducing Handoff Latency for WiMAX Networks Using Mobility Patterns. citation:-1
+title:Design of a virtual environment aided by a model-based formal approach using DEVS. citation:-1
+title:A Novel Image Mosaicking Technique for Enlarging the Field of View of Images Transmitted over Wireless Image Sensor Networks. citation:-1
+title:Using Accuracy-Based Learning Classifier Systems for Adaptable Strategy Generation in Games and Interactive Virtual Simulations. citation:-1
+title:An Adaptive Dynamic Load Balancing Technique for Grid-Based Large Scale Distributed Simulations. citation:-1
+title:A supplying partner strategy for mobile networks-based 3D streaming - proof of concept. citation:-1
+title:A design aid and real-time measurement framework for Virtual collaborative simulation Environment. citation:-1
+title:A POMDP Based K-Coverage Dynamic Scheduling Protocol for Wireless Sensor Networks. citation:-1
+title:Probabilistic Estimation of Location Error in Wireless Ad Hoc Networks. citation:-1
+title:A Small World Model Based on Multi-Interface and Multi-Channel to Design Heterogeneous Wireless Sensor Networks. citation:-1
+title:Counteracting Wireless Congestion in Data Distribution with Adaptive Batching Techniques. citation:-1
+title:Understanding and Building Interoperable, Integrable and Composable Distributed Training Simulations. citation:-1
+title:A small world model to improve synchronization algorithms for wireless sensor networks. citation:-1
+title:A secure group management scheme for mobile ad hoc networks. citation:-1
+title:Context-aware and location-based service discovery protocol for Vehicular Networks: Proof of correctness. citation:-1
+title:Towards efficient and reliable context data distribution in disaster area scenarios. citation:-1
+title:A novel framework of secure network management for wireless and mobile networks. citation:-1
+title:A fast MAC layer handoff protocol for WiFi-based wireless networks. citation:-1
+title:Design and performance evaluation of QoS aware and location based service discovery protocol for vehicular networks. citation:-1
+title:TEASE: A novel Tunnel-based sEcure Authentication SchemE to support smooth handoff in IEEE 802.11 wireless networks. citation:-1
+title:HD Tree: A novel data structure to support multi-dimensional range query for P2P networks. citation:-1
+title:Target Association Rules: A New Behavioral Patterns for Point of Coverage Wireless Sensor Networks. citation:-1
+title:Security for QoS assured wireless and mobile networks. citation:-1
+title:Decreasing Communication Latency through Dynamic Measurement, Analysis, and Partitioning for Distributed Virtual Simulations. citation:-1
+title:Improving densely deployed wireless network performance in unlicensed spectrum through hidden-node aware channel assignment. citation:-1
+title:Call Admission Control Performance Analysis in Mobile Networks Using Stochastic Well-Formed Petri Nets. citation:-1
+title:Measuring Communication Delay for Dynamic Balancing Strategies of Distributed Virtual Simulations. citation:-1
+title:Design of a lightweight authentication scheme for IEEE 802.11p vehicular networks. citation:-1
+title:Hybrid MPI/OpenMP Strategy for Biological Multiple Sequence Alignment with DIALIGN-TX in Heterogeneous Multicore Clusters. citation:-1
+title:An efficient Markov decision process based mobile data gathering protocol for wireless sensor networks. citation:-1
+title:Performance Evaluation of Location-Based Service Discovery Protocols for Vehicular Networks. citation:-1
+title:Enhancing Path Stability Towards the Provision of Multimedia Support in Vehicular Ad Hoc Networks. citation:-1
+title:Time-space correlation for real-time, accurate, and energy-aware data reporting in wireless sensor networks. citation:-1
+title:Close-to-optimal energy balanced data propagation via limited, local network density information. citation:-1
+title:Hierarchically distributed tree. citation:-1
+title:Energy-aware analysis for supplying partner selection in mobile P2P 3D streaming. citation:-1
+title:Self-adaptive and time-constrained data distribution paths for emergency response scenarios. citation:-1
+title:A novel multi-hop clustering scheme for vehicular ad-hoc networks. citation:-1
+title:A soft-handoff management scheme for wireless multimedia systems using quasi-receivers. citation:-1
+title:Design and evaluation of a fast authentication scheme for WiFi-based wireless networks. citation:-1
+title:Predictive Dynamic Load Balancing for Large-Scale HLA-based Simulations. citation:-1
+title:Error-Resilient Routing for Supporting Multi-dimensional Range Query in HD Tree. citation:-1
+title:A tree-based approach to design Heterogeneous Sensor Networks based on small world concepts. citation:-1
+title:An energy-aware spatial correlation mechanism to perform efficient data collection in WSNs. citation:-1
+title:Dynamic and Scalable Routing to Perform Efficient Data Aggregation in WSNs. citation:-1
+title:An Energy Efficient Prediction-Based Technique for Tracking Moving Objects in WSNs. citation:-1
+title:E-TRAIL: Energy-Efficient Trail-Based Data Dissemination Protocol for Wireless Sensor Networks with Mobile Sinks. citation:-1
+title:Fused-Schedule-Buffer Based Data Preparation Mechanism for Generating Target Association Rules. citation:-1
+title:QoC-Based Context Data Caching for Disaster Area Scenarios. citation:-1
+title:A fragment based alignment in linear space. citation:-1
+title:Reducing Handoff Latency for NEMO-Based Vehicular Ad Hoc Networks. citation:-1
+title:Towards a Secure Trust Model for Vehicular Ad Hoc Networks Services. citation:-1
+title:Joint authentication and quality of service provisioning in cooperative communication networks. citation:-1
+title:Energy-Efficient Multi-hop Virtual MIMO Wireless Sensor Network. citation:-1
+title:A New Representation Structure for Mining Association Rules from Wireless Sensor Networks. citation:-1
+title:Topology-related modeling and characterization of wireless sensor networks. citation:-1
+title:Implementation of a Virtual Time Synchronizer for Distributed Databases on a Cluster of Workstations. citation:-1
+title:Direction-based adaptive data propagation for heterogeneous sensor mobility. citation:-1
+title:Service Discovery Protocols for VANET Based Emergency Preparedness Class of Applications: A Necessity Public Safety and Security. citation:-1
+title:Performance evaluation of an efficient fault tolerant service discovery protocol for vehicular networks. citation:-1
+title:Preserving Temporal Relationships of Events for Wireless Sensor Actor Networks. citation:-1
+title:A framework based on small world features to design HSNs topologies with QoS. citation:-1
+title:LIAITHON: A location-aware multipath video streaming scheme for urban vehicular networks. citation:-1
+title:An efficient certificate revocation validation scheme with k-means clustering for vehicular ad hoc networks. citation:-1
+title:Exploiting limited density information towards near-optimal energy balanced data propagation. citation:-1
+title:An architecture for P2P bag-of-tasks execution with multiple task allocation policies in desktop grids. citation:-1
+title:VIRTUS: A resilient location-aware video unicast scheme for vehicular networks. citation:-1
+title:Cooperative location verification for vehicular ad-hoc networks. citation:-1
+title:Vehicular movement patterns: A prediction-based route discovery technique for VANETs. citation:-1
+title:An efficient and robust data dissemination protocol for vehicular ad hoc networks. citation:-1
+title:A reactive solution with a redundancy-based error correction mechanism for video dissemination over vehicular ad hoc networks. citation:-1
+title:A reliable and robust gateway discovery mechanism for vehicular ad hoc networks. citation:-1
+title:A small world approach for scalable and resilient position estimation algorithms for wireless sensor networks. citation:-1
+title:16th IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications, DS-RT 2012, Dublin, Ireland, October 25-27, 2012 citation:-1
+title:From Behavior Modeling to Communication, 3D Presentation and Interaction: An M&S Life Cycle for Serious Games for Training. citation:-1
+title:3-D Streaming Supplying Partner Protocols for Mobile Collaborative Exergaming for Health. citation:-1
+title:An Adaptive Resource Allocation Scheme for Large-scale Distributed Simulation System. citation:-1
+title:Exploiting the Concept of Activity for Dynamic Reconfiguration of Distributed Simulation. citation:-1
+title:Efficient Load Balancing Schemes for Large-Scale Real-Time HLA/RTI Based Distributed Simulations. citation:-1
+title:DRINA: A Lightweight and Reliable Routing Approach for In-Network Aggregation in Wireless Sensor Networks. citation:-1

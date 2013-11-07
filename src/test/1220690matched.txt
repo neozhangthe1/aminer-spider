@@ -1,0 +1,106 @@
+title1:04122 Abstracts Collection -- Wireless Sensor Networks and Applications. title2:04122 Abstracts Collection--Wireless Sensor Networks and Applications. citation:0 ncitation:-1 pid139451
+title1:Linear Time Algorithms for Dominating Pairs in Asteroidal Triple-free Graphs. title2:Linear time algorithms for dominating pairs in asteroidal triple-free graphs citation:37 ncitation:64 pid267665
+title1:Scalable Cryptographic Key Management in Wireless Sensor Networks. title2:Scalable cryptographic key management in wireless sensor networks citation:35 ncitation:36 pid298889
+title1:On Providing Anonymity in Wireless Sensor Networks. title2:On providing anonymity in wireless sensor networks citation:35 ncitation:32 pid341679
+title1:Square Meshes Are Not Optimal For Convex Hull Computation. title2:Square meshes are not optimal for convex hull computation citation:18 ncitation:26 pid342366
+title1:A Fast Selection Algorithm for Meshes with Multiple Broadcasting. title2:A fast selection algorithm for meshes with multiple broadcasting citation:42 ncitation:46 pid342368
+title1:Energy-Efficient Initialization Protocols for Radio Networks with No Collision Detection. title2:Energy-efficient initialization protocols for radio networks with no collision detection citation:24 ncitation:-1 pid343901
+title1:Uniform Leader Election Protocols in Radio Networks. title2:Uniform leader election protocols for radio networks citation:17 ncitation:70 pid343902
+title1:A Time- and Cost-Optimal Algorithm for Overlap Graphs, with Applications. title2:A time-and cost-optimal algorithm for overlap graphs, with applications citation:0 ncitation:-1 pid343972
+title1:Design Guidelines for Maximizing Lifetime and Avoiding Energy Holes in Sensor Networks with Uniform Distribution and Uniform Reporting. title2:Design Guidelines for Maximizing Lifetime and Avoiding Energy Holes in Sensor Networks with Uniform Distribution and Uniform Reporting. citation:303 ncitation:248 pid403637
+title1:Time-Optimal Visibility-Related Algorithms on Meshes with Multiple Broadcasting. title2:Time-optimal visibility-related algorithms on meshes with multiple broadcasting citation:29 ncitation:33 pid408200
+title1:On Modeling Wireless Sensor Networks. title2:On modeling wireless sensor networks citation:28 ncitation:26 pid409158
+title1:Randomized Initialization Protocols for Packet Radio Networks. title2:Randomized initialization protocols for packet radio networks citation:53 ncitation:50 pid409265
+title1:Workshop on Advances in Parallel and Distributed Computational Models. title2:Workshop on Advances in Parallel and Distributed Computational Models citation:0 ncitation:-1 pid409368
+title1:Scalable Hardware-Algorithms for Binary Prefix Sums. title2:Scalable hardware-algorithms for binary prefix sums citation:26 ncitation:28 pid409856
+title1:A Time-Optimal Solution for the Path Cover Problem on Cographs. title2:A time-optimal solution for the path cover problem on cographs citation:17 ncitation:14 pid410189
+title1:Time-Optimal Proximity Algorithms on Meshes with Multiple Broadcasting. title2:Time-optimal proximity algorithms on meshes with multiple broadcasting citation:18 ncitation:19 pid410278
+title1:Fast Computer Vision Algorithms for Reconfigurable Meshes. title2:Fast computer vision algorithms for reconfigurable meshes citation:48 ncitation:46 pid410280
+title1:Information Assurance In Wireless Sensor Networks. title2:Information assurance in wireless sensor networks citation:32 ncitation:28 pid410282
+title1:On Training a Sensor Network. title2:On training a sensor network citation:35 ncitation:30 pid411176
+title1:Energy-Efficient Initialization Protocols for Ad-hoc Radio Networks. title2:Energy-efficient initialization protocols for Ad-hoc radio networks citation:19 ncitation:34 pid415131
+title1:Randomized Leader Election Protocols in Radio Networks with No Collision Detection. title2:Randomized leader election protocols in radio networks with no collision detection citation:38 ncitation:34 pid415833
+title1:Randomized O (log log n)-Round Leader Election Protocols in Packet Radio Networks. title2:Randomized O (log log n)-round leader election protocols in Packet Radio Networks citation:28 ncitation:25 pid415834
+title1:A Survey on Leader Election Protocols for Radio Networks. title2:A survey on leader election protocols for radio networks citation:34 ncitation:34 pid445891
+title1:Providing VANET security through active position detection. title2:Providing VANET security through active position detection citation:116 ncitation:97 pid505877
+title1:Traffic-adaptive packet relaying in VANET. title2:Traffic-adaptive packet relaying in VANET citation:21 ncitation:17 pid505939
+title1:ANSWER: autonomous wireless sensor network. title2:ANSWER: autonomous wireless sensor network citation:24 ncitation:25 pid509857
+title1:Towards a new paradigm for securing wireless sensor networks. title2:Towards a new paradigm for securing wireless sensor networks citation:33 ncitation:31 pid520523
+title1:A Unifying Look at Semigroup Computations on Meshes with Multiple Broadcasting. title2:A unifying look at semigroup computations on meshes with multiple broadcasting citation:29 ncitation:32 pid529948
+title1:A randomized leader election protocol for ad-hoc networks. title2:A randomized leader election protocol for ad-hoc networks. citation:24 ncitation:25 pid604724
+title1:On the parallel recognition of some tree-representable graphs. title2:On the parallel recognition of some tree-representable graphs citation:0 ncitation:-1 pid615226
+title1:On the Isomorphism of Graphs with Few P4s. title2:On the isomorphism of graphs with few P4s citation:26 ncitation:23 pid660427
+title1:NOTICE: An Architecture for the Notification of Traffic Incidents. title2:Notice: An architecture for the notification of traffic incidents citation:28 ncitation:28 pid690414
+title1:On the L(h, k)-Labeling of Co-comparability Graphs. citation:0 ncitation:2 pid701865
+title1:Group key management scheme for large-scale sensor networks. title2:Group key management scheme for large-scale sensor networks citation:55 ncitation:56 pid742917
+title1:Optimal Convex Hull Algorithms on Enhanced Meshes. title2:Optimal convex hull algorithms on enhanced meshes citation:53 ncitation:55 pid768254
+title1:A New BFS Parent Array Encoding of t-ary Trees. title2:A new BFS parent array encoding of t-ary trees citation:2 ncitation:3 pid781214
+title1:A Mergeable Double-Ended Priority Queue. title2:A mergeable double-ended priority queue citation:18 ncitation:17 pid791254
+title1:Cluster Maintenance in Mobile Ad-hoc Networks. title2:Cluster maintenance in mobile ad-hoc networks citation:21 ncitation:19 pid792969
+title1:Providing VANET security through active position detection. title2:Providing VANET security through active position detection citation:116 ncitation:95 pid803166
+title1:Fairness in DQDB revisited: a new solution. title2:Fairness in DQDB revisited: a new solution citation:0 ncitation:1 pid831997
+title1:On the Structure of Graphs with Few Ps. title2:On the structure of graphs with few< i> P</i>< sub> 4</sub>< i> s</i> citation:40 ncitation:38 pid835987
+title1:On the p-connectedness of Graphs - A Survey. citation:31 ncitation:29 pid835988
+title1:Upper bounds to the clique width of graphs. title2:Upper bounds to the clique width of graphs citation:354 ncitation:314 pid836522
+title1:Linear Time optimization Algorithms for P4-sparse Graphs. title2:Linear time optimization algorithms for< i> P</i>< sub> 4</sub>-sparse graphs citation:41 ncitation:37 pid837260
+title1:On a unique tree representation for P-extendible graphs. title2:On a unique tree representation for< i> P</i>< sub> 4</sub>-extendible graphs citation:50 ncitation:44 pid839190
+title1:A tree representation for P-sparse graphs. title2:A tree representation for< i> P</i>< sub> 4</sub>-sparse graphs citation:128 ncitation:119 pid839215
+title1:Efficient algorithms for graphs with few 's. title2:Efficient algorithms for graphs with few< i> P</i>< sub> 4</sub>'s citation:21 ncitation:21 pid846861
+title1:Weak bipolarizable graphs. title2:Weak bipolarizable graphs citation:34 ncitation:32 pid851204
+title1:Data Movement Techniques on Reconfigurable Meshes, with Applications. title2:Data movement techniques on reconfigurable meshes, with applications citation:17 ncitation:6 pid910145
+title1:Time-Optimal Digital Geometry Algorithms on Meshes with Multiple Broadcasting. title2:Time-optimal digital geometry algorithms on meshes with multiple broadcasting citation:0 ncitation:2 pid918800
+title1:Simple Linear Time Recognition of Unit Interval Graphs. title2:Simple linear time recognition of unit interval graphs citation:111 ncitation:100 pid930689
+title1:A Linear Time Algorithm to Compute a Dominating Path in an AT-Free Graph. title2:A linear time algorithm to compute a dominating path in an AT-free graph citation:27 ncitation:27 pid930691
+title1:Paw-Fee Graphs. title2:Paw-free graphs citation:52 ncitation:43 pid933197
+title1:An Optimal Greedy Heuristic to Color Interval Graphs. title2:An optimal greedy heuristic to color interval graphs citation:103 ncitation:94 pid933207
+title1:Fast computer vision algorithms for reconfigurable meshes. title2:Fast computer vision algorithms for reconfigurable meshes citation:48 ncitation:46 pid946848
+title1:Fast component labelling and convex hull computation on reconfigurable meshes. title2:Fast component labelling and convex hull computation on reconfigurable meshes citation:21 ncitation:16 pid946850
+title1:Computing the Hough transform on reconfigurable meshes. title2:Computing the Hough transform on reconfigurable meshes citation:17 ncitation:16 pid946852
+title1:No antitwins in minimal imperfect graphs. title2:No antitwins in minimal imperfect graphs citation:26 ncitation:26 pid977413
+title1:A Time-Optimal Multiple Search Algorithm on Enhanced Meshes, with Applications. title2:A time-optimal multiple search algorithm on enhanced meshes, with applications citation:38 ncitation:45 pid988379
+title1:An NC Recognition Algorithm for Cographs. title2:An NC recognition algorithm for cographs citation:24 ncitation:22 pid989289
+title1:ANSWER: AutoNomouS netWorked sEnsoR system. title2:ANSWER: AutoNomouS netWorked sEnsoR system citation:37 ncitation:36 pid990240
+title1:Training a Wireless Sensor Network. title2:Training a wireless sensor network citation:140 ncitation:129 pid1012914
+title1:Wireless sensor networks: leveraging the virtual infrastructure. title2:Wireless sensor networks: leveraging the virtual infrastructure citation:81 ncitation:74 pid1024110
+title1:A Unifying Look at Semigroup Computations on Meshes with Multiple Broadcasting. title2:A unifying look at semigroup computations on meshes with multiple broadcasting citation:29 ncitation:32 pid1037776
+title1:Convex Polygon Problems on Meshes with Multiple Broadcasting. title2:Convex polygon problems on meshes with multiple broadcasting citation:27 ncitation:28 pid1037779
+title1:Simulating Enhanced Meshes, with Applications. title2:Simulating enhanced meshes, with applications citation:34 ncitation:-1 pid1037985
+title1:On the Power of Two-Dimensional Processor Arrays with Reconfigurable Bus Systems. title2:On the power of two-dimensional processor arrays with reconfigurable bus systems citation:32 ncitation:32 pid1038077
+title1:Linear Time Algorithms for Dominating Pairs in Asteroidal Triple-free Graphs. title2:Linear time algorithms for dominating pairs in asteroidal triple-free graphs citation:37 ncitation:64 pid1058966
+title1:Recognizing P_4 Sparse Graphs in Linear Time. title2:Recognizing P_4-Sparse Graphs in Linear Time citation:59 ncitation:52 pid1059651
+title1:P-Components and the Homogeneous Decomposition of Graphs. title2:P-components and the homogeneous decomposition of graphs citation:36 ncitation:37 pid1061563
+title1:A time-optimal solution for the path cover problem on cographs. title2:A time-optimal solution for the path cover problem on cographs citation:17 ncitation:14 pid1093680
+title1:Efficient corona training protocols for sensor networks. title2:Efficient corona training protocols for sensor networks citation:18 ncitation:16 pid1096135
+title1:Enhanced Simulated Annealing Technique for the Single-Row Routing Problem. title2:Enhanced simulated annealing technique for the single-row routing problem citation:16 ncitation:15 pid1112055
+title1:Time-Optimal Visibility-Related Algorithms on Meshes with Multiple Broadcasting. title2:Time-optimal visibility-related algorithms on meshes with multiple broadcasting citation:29 ncitation:33 pid1124677
+title1:Square Meshes Are Not Optimal for Convex Hull Computation. title2:Square meshes are not optimal for convex hull computation citation:18 ncitation:25 pid1124683
+title1:A Fast Selection Algorithm for Meshes with Multiple Broadcasting. title2:A fast selection algorithm for meshes with multiple broadcasting citation:42 ncitation:48 pid1124686
+title1:A Rate-Based Borrowing Scheme for QoS Provisioning in Multimedia Wireless Networks. title2:Rate-based borrowing scheme for QoS provisioning in multimedia wireless networks citation:169 ncitation:163 pid1124954
+title1:Optimal Parallel Algorithms for Finding Proximate Points, with Applications. title2:Optimal parallel algorithms for finding proximate points, with applications citation:20 ncitation:20 pid1125094
+title1:Reconfigurable Buses with Shift Switching: Concepts and Applications. title2:Reconfigurable buses with shift switching: concepts and applications citation:52 ncitation:52 pid1125395
+title1:A Fair Resource Allocation Protocol for Multimedia Wireless Networks. title2:A fair resource allocation protocol for multimedia wireless networks citation:100 ncitation:87 pid1125456
+title1:Scalable Hardware-Algorithms for Binary Prefix Sums. title2:Scalable hardware-algorithms for binary prefix sums citation:26 ncitation:28 pid1125463
+title1:How to Sort Items Using a Sorting Network of Fixed I/O Size. title2:How to sort N items using a sorting network of fixed I/O size citation:29 ncitation:28 pid1125518
+title1:Optimal Parallel Algorithms for Problems Modeled by a Family of Intervals. title2:Optimal parallel algorithms for problems modeled by a family of intervals citation:40 ncitation:40 pid1125521
+title1:Optimal Parallel Initialization Algorithms for a Class of Priority Queues. title2:Optimal parallel initialization algorithms for a class of priority queues citation:21 ncitation:22 pid1125523
+title1:Localized Communication and Topology Protocols for Ad Hoc Networks: A Preface to the Special Section. citation:0 ncitation:2 pid1125533
+title1:Randomized Initialization Protocols for Ad Hoc Networks. title2:Randomized initialization protocols for ad hoc networks citation:123 ncitation:108 pid1125539
+title1:Energy-Efficient Initialization Protocols for Single-Hop Radio Networks with No Collision Detection. title2:Energy-efficient initialization protocols for single-hop radio networks with no Collision Detection citation:53 ncitation:71 pid1125541
+title1:Uniform Leader Election Protocols for Radio Networks. title2:Uniform leader election protocols for radio networks citation:17 ncitation:70 pid1125543
+title1:An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable Mesh, with Applications. title2:An optimal algorithm for the angle-restricted all nearest neighbor problem on the reconfigurable mesh, with applications citation:20 ncitation:20 pid1125545
+title1:Broadcast-Efficient Protocols for Mobile Radio Networks. title2:Broadcast-efficient protocols for mobile radio networks citation:42 ncitation:40 pid1125549
+title1:Energy-Efficient Permutation Routing in Radio Networks. title2:Energy-efficient permutation routing in radio networks citation:35 ncitation:32 pid1125551
+title1:Localized Communication and Topology Protocols for Ad Hoc Networks-Part II: A Preface to the Special Section. citation:0 ncitation:2 pid1125590
+title1:A Two-Zone Hybrid Routing Protocol for Mobile Ad Hoc Networks. title2:A two-zone hybrid routing protocol for mobile ad hoc networks citation:65 ncitation:65 pid1125992
+title1:A Framework for Reinforcement-Based Scheduling in Parallel Processor Systems. title2:A framework for reinforcement-based scheduling in parallel processor systems citation:42 ncitation:44 pid1126202
+title1:The LBFS Structure and Recognition of Interval Graphs. title2:The LBFS structure and recognition of interval graphs citation:37 ncitation:29 pid1341653
+title1:Wireless Sensor Networks and Applications title2:04122 Abstracts Collection--Wireless Sensor Networks and Applications. citation:0 ncitation:4 pid1377116
+title1:Privacy aware localization in VANET. title2:Privacy aware localization in VANET citation:0 ncitation:-1 pid1683964
+title1:Taking VANET to the clouds. title2:Taking VANET to the clouds citation:20 ncitation:13 pid2240242
+title1:Taking VANET to the clouds. title2:Taking VANET to the clouds citation:20 ncitation:13 pid2294297
+title1:Enhancing VANET Performance by Joint Adaptation of Transmission Power and Contention Window Size. title2:Enhancing VANET performance by joint adaptation of transmission power and contention window size citation:29 ncitation:17 pid2307265
+title1:OPERA: Opportunistic packet relaying in disconnected Vehicular Ad Hoc Networks. title2:Opera: Opportunistic packet relaying in disconnected vehicular ad hoc networks citation:30 ncitation:29 pid2372151
+title1:A Probabilistic Analysis of Link Duration in Vehicular Ad Hoc Networks. title2:A probabilistic analysis of link duration in vehicular ad hoc networks citation:29 ncitation:9 pid2396975
+title1:Neighborhood discovery in a wireless sensor networks. title2:Neighborhood discovery in a wireless sensor networks citation:0 ncitation:-1 pid2439580
+title1:NOTICE: An Architecture for the Notification of Traffic Incidents. title2:Notice: An architecture for the notification of traffic incidents citation:28 ncitation:-1 pid2822309
+title1:A study of beaconing mechanism for vehicle-to-infrastructure communications. title2:A study of beaconing mechanism for vehicle-to-infrastructure communications citation:0 ncitation:-1 pid2827196

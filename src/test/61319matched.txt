@@ -1,0 +1,377 @@
+title1:Quantifying COTS Component Functional Adaptation. title2:Quantifying COTS component functional adaptation citation:4 ncitation:4 pid366102
+title1:A set of QVT relations to transform PIM to PSM in the Design of Secure Data Warehouses. title2:A set of QVT relations to transform PIM to PSM in the Design of Secure Data Warehouses citation:22 ncitation:19 pid7661
+title1:Web Services-Based Security Requirement Elicitation. title2:Web services-based security requirement elicitation citation:3 ncitation:4 pid896332
+title1:Empirical studies to assess the understandability of data warehouse schemas using structural metrics. title2:Empirical studies to assess the understandability of data warehouse schemas using structural metrics citation:20 ncitation:14 pid1076065
+title1:Software process improvement in small and medium software enterprises: a systematic review. title2:Software process improvement in small and medium software enterprises: a systematic review citation:129 ncitation:110 pid1076074
+title1:Aplicando un Proceso de Ingeniería de Requisitos de Seguridad de Dominio para Líneas de Producto Software. citation:0 ncitation:-1 pid736560
+title1:Defining Complexity Metrics for Object-Relational Databases. title2:Defining Complexity Metrics for Object-Relational Databases citation:2 ncitation:2 pid521469
+title1:Developing web services security systems: a case study. title2:Developing web services security systems: a case study citation:3 ncitation:3 pid922102
+title1:Improving a portlet usability model. title2:Improving a portlet usability model citation:13 ncitation:11 pid1076050
+title1:Early Metrics for Object Oriented Information Systems. title2:Early metrics for object oriented information systems citation:13 ncitation:-1 pid521458
+title1:Evaluating the Effect of Composite States on the Understandability of UML Statechart Diagrams. title2:Evaluating the effect of composite states on the understandability of UML statechart diagrams citation:36 ncitation:30 pid635090
+title1:A Controlled Experiment for Validating Class Diagram Structural Complexity Metrics. title2:A controlled experiment for validating class diagram structural complexity metrics citation:20 ncitation:18 pid521456
+title1:Object Oriented Design Knowledge: Ontology and Measurement of Impact. title2:Object Oriented Design knowledge: Ontology and measurement of impact citation:1 ncitation:1 pid521454
+title1:Performances of Pair Designing on Software Evolution: a controlled experiment. title2:Performances of pair designing on software evolution: a controlled experiment citation:8 ncitation:7 pid125288
+title1:Principles and Patterns in the Object Oriented Design. title2:Principles and Patterns in the Object Oriented Design citation:1 ncitation:-1 pid521452
+title1:Evaluating performances of pair designing in industry. title2:Evaluating performances of pair designing in industry citation:33 ncitation:28 pid997673
+title1:Pair designing as practice for enforcing and diffusing design knowledge. title2:Pair designing as practice for enforcing and diffusing design knowledge citation:8 ncitation:8 pid1069191
+title1:Application of QVT for the Development of Secure Data Warehouses: A case study. title2:Application of QVT for the Development of Secure Data Warehouses: A case study citation:10 ncitation:9 pid7643
+title1:Assisting the Definition and Execution of Test Suites for Complex Systems. title2:Assisting the definition and execution of test suites for complex systems citation:4 ncitation:3 pid167376
+title1:An MDA-based approach for database re-engineering. citation:8 ncitation:-1 pid1069296
+title1:Applying a Security Requirements Engineering Process. title2:Applying a security requirements engineering process citation:19 ncitation:14 pid189339
+title1:Implementing a software measurement program in small and medium enterprises: a suitable framework. title2:Implementing a software measurement program in small and medium enterprises: a suitable framework citation:12 ncitation:8 pid1273191
+title1:Integrating techniques and tools for testing automation. title2:Integrating techniques and tools for testing automation citation:35 ncitation:30 pid1077107
+title1:A Process for Driving Process Improvement in VSEs. title2:A process for driving process improvement in VSEs citation:19 ncitation:14 pid447711
+title1:Designing Secure Databases for OLS. title2:Designing secure databases for OLS citation:12 ncitation:12 pid149609
+title1:Security patterns and requirements for internet-based applications. title2:Security patterns and requirements for internet-based applications citation:21 ncitation:19 pid1295072
+title1:Web services enterprise security architecture: a case study. title2:Web services enterprise security architecture: a case study citation:21 ncitation:21 pid713530
+title1:Table Oriented Metrics for Relational Databases. title2:Table oriented metrics for relational databases citation:27 ncitation:24 pid1075968
+title1:A family of experiments to validate metrics for software process models. title2:A family of experiments to validate metrics for software process models citation:61 ncitation:56 pid995835
+title1:Empirically Driven Use Case Metamodel Evolution. title2:Empirically driven use case metamodel evolution citation:8 ncitation:8 pid634999
+title1:An Empirical Study with Metrics for Object-Relational Databases. title2:An empirical study with metrics for object-relational databases citation:3 ncitation:3 pid174915
+title1:Using a qualitative research method for building a software maintenance methodology. title2:Using a qualitative research method for building a software maintenance methodology citation:27 ncitation:27 pid1074981
+title1:A Multi-agent System for Knowledge Management in Software Maintenance. title2:A multi-agent system for knowledge management in software maintenance citation:4 ncitation:5 pid475740
+title1:Representing Security and Audit Rules for Data Warehouses at the Logical Level by Using the Common Warehouse Metamodel. title2:Representing security and audit rules for data warehouses at the logical level by using the common warehouse metamodel citation:18 ncitation:16 pid7522
+title1:Building measure-based prediction models for UML class diagram maintainability. title2:Building measure-based prediction models for UML class diagram maintainability citation:60 ncitation:40 pid871990
+title1:Automated Support for Security Requirements Engineering in Software Product Line Domain Engineering. title2:Automated support for security requirements engineering in software product line domain engineering citation:5 ncitation:5 pid1236429
+title1:Balancing Stakeholder's Preferences on Measuring COTS Component Functional Suitability. title2:Balancing stakeholder's preferences on measuring COTS component functional suitability citation:7 ncitation:7 pid305971
+title1:Representing levels of abstraction to facilitate the Secure Multidimensional Modeling. title2:Representing levels of abstraction to facilitate the Secure Multidimensional Modeling citation:5 ncitation:3 pid7540
+title1:Quality of Password Management Policy. title2:Quality of password management policy citation:7 ncitation:4 pid7542
+title1:An ADM Approach to Reengineer Relational Databases towards Web Services. title2:An ADM Approach to Reengineer Relational Databases towards Web Services citation:10 ncitation:7 pid653434
+title1:Early detection of COTS component functional suitability. title2:Early detection of COTS component functional suitability citation:25 ncitation:21 pid925078
+title1:Early Detection of Cots Functional Suitability for an E-Payment Case Study. title2:Early detection of COTS functional suitability for an E-payment case study citation:1 ncitation:1 pid305972
+title1:Obtaining Web Services from Relational Databases. title2:Obtaining web services from relational databases citation:1 ncitation:1 pid125391
+title1:Practical Approach of a Secure Management System based on ISO/IEC 17799. title2:Practical approach of a secure management system based on ISO/IEC 17799 citation:6 ncitation:4 pid7501
+title1:A Comparative Study of Proposals for Establishing Security Requirements for the Development of Secure Information Systems. title2:A comparative study of proposals for establishing security requirements for the development of secure information systems citation:21 ncitation:21 pid291641
+title1:An Agent System to Manage Knowledge in CoPs. title2:An Agent System to Manage Knowledge in CoPs citation:0 ncitation:0 pid1169255
+title1:A Cognitive Perspective for Choosing Groupware Tools and Elicitation Techniques in Virtual Teams. title2:A cognitive perspective for choosing groupware tools and elicitation techniques in virtual teams citation:11 ncitation:8 pid290496
+title1:Object-Relational Database Metrics Formalization. title2:Object-relational database metrics formalization citation:8 ncitation:7 pid557351
+title1:Toward a definition of the competences for global requirements elicitation. title2:Toward a definition of the competences for global requirements elicitation citation:2 ncitation:1 pid699377
+title1:Quality in Conceptual Modeling - New Research Directions. citation:28 ncitation:27 pid183762
+title1:Refinement of a Tool to Assess the Data Quality in Web Portals. title2:Refinement of a tool to assess the data quality in Web portals citation:4 ncitation:3 pid557356
+title1:Assessment of portlet quality: Collecting real experience. title2:Assessment of portlet quality: Collecting real experience citation:5 ncitation:5 pid1232086
+title1:Evaluating advantages of test driven development: a controlled experiment with professionals. title2:Evaluating advantages of test driven development: a controlled experiment with professionals citation:65 ncitation:55 pid435165
+title1:A Metric-Based Approach for Predicting Conceptual Data Models Maintainability. title2:A metric-based approach for predicting conceptual data models maintainability citation:13 ncitation:12 pid920818
+title1:Managing Security and its Maturity in Small and Medium-sized Enterprises. title2:Managing Security and its Maturity in Small and Medium-sized Enterprises. citation:5 ncitation:4 pid1339971
+title1:PRECISO: A Reverse Engineering Tool to Discover Web Services from Relational Databases. title2:PRECISO: A Reverse Engineering Tool to Discover Web Services from Relational Databases citation:2 ncitation:1 pid1310170
+title1:Security Requirement with a UML 2.0 Profile. title2:Security requirement with a UML 2.0 profile citation:30 ncitation:20 pid7485
+title1:Including Routes in Web Information Systems as a Way to Improve the Navigability: An Empirical Study. title2:Including routes in web information systems as a way to improve the navigability: An empirical study citation:4 ncitation:3 pid664089
+title1:Managing software process measurement: A metamodel-based approach. title2:Managing software process measurement: A metamodel-based approach citation:37 ncitation:33 pid942807
+title1:A Study of Security Architectural Patterns. title2:A study of security architectural patterns citation:17 ncitation:-1 pid7487
+title1:A BPMN Extension for the Modeling of Security Requirements in Business Processes. title2:A bpmn extension for the modeling of security requirements in business processes citation:111 ncitation:101 pid896396
+title1:MANTOOL: a tool for supporting the software maintenance process. title2:MANTOOL: a tool for supporting the software maintenance process citation:6 ncitation:5 pid1069166
+title1:A Comparison of the Common Criteria with Proposals of Information Systems Security Requirements. title2:A comparison of the common criteria with proposals of information systems security requirements citation:10 ncitation:8 pid7433
+title1:Assessing the capability of internal metrics as early indicators of maintenance effort through experimentation. title2:Assessing the capability of internal metrics as early indicators of maintenance effort through experimentation citation:25 ncitation:20 pid1069137
+title1:Including Security Rules Support in an MDA Approach for Secure DWs. title2:Including Security Rules support in an MDA approach for Secure DWs citation:2 ncitation:1 pid1236404
+title1:Empirical Validation of Class Diagram Metrics. title2:Empirical validation of class diagram metrics citation:41 ncitation:33 pid435198
+title1:A UML 2.0/OCL Extension for Designing Secure Data Warehouses. title2:A UML 2.0/OCL extension for designing secure data warehouses citation:26 ncitation:24 pid739936
+title1:Towards Obtaining Analysis-Level Class and Use Case Diagrams from Business Process Models. title2:Towards obtaining analysis-level class and use case diagrams from business process models citation:9 ncitation:9 pid184420
+title1:Measuring Triggering-Interaction Complexity on Active Databases. title2:Measuring triggering-interaction complexity on active databases citation:14 ncitation:13 pid938428
+title1:Assessing the understandability of UML statechart diagrams with composite states - A family of empirical studies. citation:27 ncitation:19 pid1337088
+title1:PWSSec: Process for Web Services Security. title2:PWSSec: process for web services security citation:34 ncitation:30 pid371055
+title1:An Integrated Environment for Reengineering. title2:An integrated environment for reengineering citation:15 ncitation:14 pid364352
+title1:A Web Metrics Survey Using WQM. title2:A web metrics survey using WQM citation:56 ncitation:52 pid369149
+title1:Development Process of the Operational Version of PDQM. title2:Development process of the operational version of PDQM citation:5 ncitation:3 pid664112
+title1:A Set of Quality Indicators and Their Corresponding Metrics for Conceptual Models of Data Warehouses. title2:A set of quality indicators and their corresponding metrics for conceptual models of data warehouses citation:19 ncitation:16 pid144257
+title1:Using Agents to Confront Some of the Challenges of Knowledge Management Systems. title2:Using agents to confront some of the challenges of knowledge management systems citation:0 ncitation:-1 pid1327040
+title1:A Comparison of Effort Estimation Methods for 4gl Programs: Experiences with Statistics and Data Mining. title2:A comparison of effort estimation methods for 4GL programs: experiences with Statistics and Data Mining citation:4 ncitation:5 pid920836
+title1:Towards a UML 2.0 Extension for the Modeling of Security Requirements in Business Processes. title2:Towards a UML 2.0 extension for the modeling of security requirements in business processes citation:47 ncitation:39 pid631032
+title1:Do composite states improve the understanding of UML statechart diagrams? title2:Do composite states improve the understanding of UML statechart diagrams? citation:1 ncitation:1 pid470489
+title1:Assessment of Maintenance Maturity in IT Departments of Public Entities: Two Case Studies. title2:Assessment of maintenance maturity in IT departments of public entities: Two case studies citation:4 ncitation:4 pid552838
+title1:An Ontology For The Management Of Software Maintenance Projects. title2:An ontology for the management of software maintenance projects citation:77 ncitation:74 pid920848
+title1:Developing the Skills Needed for Requirement Elicitation in Global Software Development. title2:Developing the Skills Needed for Requirement Elicitation in Global Software Development. citation:1 ncitation:-1 pid308013
+title1:A Simulator for Education and Training in Global Requirements Engineering: A Work in Progress. title2:A Simulator for Education and Training in Global Requirements Engineering: a Work in Progress citation:6 ncitation:6 pid271116
+title1:An XMI-Based Repository for Software Process Meta-modeling. title2:An XMI-based repository for software process meta-modeling citation:9 ncitation:10 pid552853
+title1:A Formal Definition for Object-Relational Database Metrics. title2:A Formal Definition for Object-Relational Database Metrics. citation:21 ncitation:20 pid305806
+title1:Adaptación de las normas ISO/IEC 12207: 2002 e ISO/IEC 15504: 2003 para la evaluación de la madurez de procesos software en países en desarrollo. citation:16 ncitation:12 pid470454
+title1:Building a secure star schema in data warehouses by an extension of the relational package from CWM. title2:Building a secure star schema in data warehouses by an extension of the relational package from CWM citation:19 ncitation:18 pid1232183
+title1:Towards security requirements management for software product lines: A security domain requirements engineering process. title2:Towards security requirements management for software product lines: A security domain requirements engineering process citation:23 ncitation:19 pid1232179
+title1:Empirical Validation of Metrics for UML Statechart Diagrams. title2:Empirical validation of metrics for UML statechart diagrams citation:16 ncitation:13 pid306864
+title1:MIS-PyME Software Measurement Maturity Model-Supporting the Definition of Software Measurement Programs. title2:MIS-PyME Software Measurement Maturity Model-Supporting the Definition of Software Measurement Programs citation:7 ncitation:4 pid552934
+title1:Method for Obtaining Correct Metrics. title2:Method for Obtaining Correct Metrics. citation:40 ncitation:38 pid305919
+title1:The Effect of Coupling on Understanding and Modifying OCL Expressions: An Experimental Analysis. title2:The Effect of Coupling on Understanding and Modifying OCL Expressions: An Experimental Analysis citation:0 ncitation:0 pid470457
+title1:Analysis-Level Classes from Secure Business Processes Through Model Transformations. title2:Analysis-level classes from secure business processes through model transformations citation:10 ncitation:9 pid630935
+title1:Metrics for Data Warehouse Quality. title2:Metrics for Data Warehouse Quality. citation:9 ncitation:10 pid1291
+title1:Representación de Restricciones Difusas en un Modelo Conceptual. citation:0 ncitation:-1 pid470433
+title1:A cognitive-based approach to improve distributed requirements elicitation processes. title2:A cognitive-based approach to improve distributed requirements elicitation processes citation:16 ncitation:17 pid9007
+title1:A Probabilistic Approach to Web Portal?s Data Quality Evaluation. title2:A probabilistic approach to web portal's data quality evaluation citation:9 ncitation:6 pid1314016
+title1:A First Approach to a Data Quality Model for Web Portals. title2:A first approach to a data quality model for web portals citation:2 ncitation:2 pid290570
+title1:A UML 2.0 profile to define security requirements for Data Warehouses. title2:A UML 2.0 profile to define security requirements for data warehouses citation:15 ncitation:10 pid1232130
+title1:Software Measurement Programs in SMEs - Defining Software Indicators: A Methodological Framework. citation:2 ncitation:3 pid552916
+title1:Cognitive-Based Rules as a Means to Select Suitable Groupware Tools. title2:Cognitive-based rules as a means to select suitable groupware tools citation:10 ncitation:10 pid9208
+title1:An Experimental Replica to Validate a Set of Metrics for Software Process Models. title2:An experimental replica to validate a set of metrics for software process models citation:2 ncitation:2 pid198594
+title1:Web site visibility evaluation. title2:Web site visibility evaluation citation:23 ncitation:21 pid957837
+title1:Using Metrics to Predict OO Information Systems Maintainability. title2:Using metrics to predict OO information systems maintainability citation:56 ncitation:52 pid74181
+title1:No-redundant Metrics for UML Class Diagram Structural Complexity. title2:No-redundant metrics for UML class diagram structural complexity citation:36 ncitation:37 pid74182
+title1:Defining and Validating Measures for Conceptual Data Model Quality. title2:Defining and validating measures for conceptual data model quality citation:24 ncitation:22 pid74183
+title1:Applying Trust, Reputation and Intuition Aspects to Support Virtual Communities of Practice. title2:Applying Trust, Reputation and Intuition Aspects to Support Virtual Communities of Practice citation:3 ncitation:2 pid475978
+title1:Confirming the influence of educational background in pair-design knowledge through experiments. title2:Confirming the influence of educational background in pair-design knowledge through experiments citation:7 ncitation:6 pid566817
+title1:Productivity of Test Driven Development: A Controlled Experiment with Professionals. title2:Productivity of test driven development: A controlled experiment with professionals citation:8 ncitation:6 pid552749
+title1:MANTEMA: A Complete Rigorous Methodology for Supporting Maintenance Based On The ISO/IEC 12207 Standard. title2:MANTEMA: A complete rigorous methodology for supporting maintenance based on the ISO/IEC 12207 Standard citation:31 ncitation:31 pid125137
+title1:Secure information systems development - a survey and comparison. citation:28 ncitation:23 pid805210
+title1:Managing COTS Components Using a Six Sigma-Based Process. title2:Managing COTS components using a six sigma-based Process citation:7 ncitation:7 pid552759
+title1:Generating three-tier applications from relational databases: a formal and practical approach. title2:Generating three-tier applications from relational databases: a formal and practical approach citation:21 ncitation:23 pid924803
+title1:Towards a database body of knowledge: a study from Spain. title2:Towards a database body of knowledge: A study from Spain citation:7 ncitation:4 pid1064767
+title1:An Ontology for Understanding and Applying Object-Oriented Design Knowledge. title2:An ontology for understanding and applying object-oriented design knowledge citation:5 ncitation:5 pid920991
+title1:Entorno Global para la Gestión del Proceso de Mantenimiento del Software. citation:2 ncitation:2 pid470350
+title1:The Audit of the Data Warehouse Framework. title2:The Audit of the Data Warehouse Framework. citation:8 ncitation:8 pid158713
+title1:Choosing Groupware Tools and Elicitation Techniques According to Stakeholders' Features. title2:CHOOSING GROUPWARE TOOLS AND ELICITATION TECHNIQUES ACCORDING TO STAKEHOLDERS'FEATURES citation:6 ncitation:4 pid305676
+title1:Developing secure data warehouses with a UML extension. title2:Developing secure data warehouses with a UML extension citation:59 ncitation:55 pid939198
+title1:A Survey of Metrics for UML Class Diagrams. title2:A survey of metrics for UML class diagrams citation:93 ncitation:89 pid987719
+title1:FMESP: Framework for the modeling and evaluation of software processes. title2:FMESP: Framework for the modeling and evaluation of software processes citation:0 ncitation:25 pid990869
+title1:An ontological approach to describe the SQL: 2003 object-relational features. title2:An ontological approach to describe the SQL: 2003 object-relational features citation:33 ncitation:30 pid1232303
+title1:Using Virtual Agents for the Teaching of Requirements Elicitation in GSD. title2:Using Virtual Agents for the Teaching of Requirements Elicitation in GSD citation:1 ncitation:1 pid461574
+title1:Imitating the knowledge management of communities of practice. title2:Imitating the knowledge management of communities of practice citation:0 ncitation:-1 pid315683
+title1:Assurance of Conceptual Data Model Quality Based on Early Measures. title2:Assurance of conceptual data model quality based on early measures citation:8 ncitation:6 pid43559
+title1:Defining Security Architectural Patterns Based on Viewpoints. title2:Defining security architectural patterns based on viewpoints citation:2 ncitation:2 pid292396
+title1:Software Process Improvement: The Competisoft Project. title2:Software process improvement: The COMPETISOFT project citation:77 ncitation:65 pid808989
+title1:An Applicable Data Quality Model for Web Portal Data Consumers. title2:An applicable data quality model for web portal data consumers citation:11 ncitation:10 pid1142005
+title1:Maintainability of Software Process Models: An Empirical Study. title2:Maintainability of software process models: an empirical study citation:3 ncitation:2 pid125101
+title1:Extending OCL for Secure Database Development. title2:Extending OCL for secure database development citation:23 ncitation:23 pid635146
+title1:A Methodology for Multilevel Database Design. title2:A Methodology for Multilevel Database Design. citation:2 ncitation:2 pid74149
+title1:Introducing the Data Role in Models for Database Assessment. title2:Introducing the data role in models for database assessment citation:0 ncitation:0 pid552790
+title1:Strategies to Minimize Problems in Global Requirements Elicitation. title2:Strategies to minimize problems in global requirements elicitation citation:13 ncitation:10 pid792704
+title1:Towards CIM to PIM Transformation: From Secure Business Processes Defined in BPMN to Use-Cases. title2:Towards CIM to PIM transformation: from secure business processes defined in BPMN to use-cases citation:40 ncitation:31 pid68426
+title1:Classifying Software Architecture Quality Research. title2:Classifying software architecture quality research citation:2 ncitation:2 pid661740
+title1:Definition and Empirical Validation of Metrics for Software Process Models. title2:Definition and empirical validation of metrics for software process models citation:10 ncitation:10 pid552792
+title1:CALDEA: A Data Quality Model Based on Maturity Levels. title2:CALDEA: a data quality model based on maturity levels citation:1 ncitation:1 pid557176
+title1:A common criteria based security requirements engineering process for the development of secure information systems. title2:A common criteria based security requirements engineering process for the development of secure information systems citation:90 ncitation:85 pid1232257
+title1:Automatic Generation of Secure Multidimensional Code for Data Warehouses: An MDA Approach. title2:Automatic generation of secure multidimensional code for data warehouses: An MDA approach citation:6 ncitation:4 pid524964
+title1:Decreasing the cost of mutation testing with second-order mutants. citation:51 ncitation:45 pid1281270
+title1:Towards a consistent terminology for software measurement. title2:Towards a consistent terminology for software measurement citation:140 ncitation:134 pid924514
+title1:An Ontology for Microarchitectural Design Knowledge. title2:An ontology for microarchitectural design knowledge citation:16 ncitation:16 pid1070808
+title1:Towards a Data Quality Model for Web Portals. title2:Towards a Data Quality Model for Web Portals citation:1 ncitation:3 pid656017
+title1:Access control and audit model for the multidimensional modeling of data warehouses. title2:Access control and audit model for the multidimensional modeling of data warehouses citation:60 ncitation:57 pid857527
+title1:Towards a Process for Web Services Security. title2:Towards a process for web services security citation:15 ncitation:11 pid739514
+title1:Developing Data Quality Aware Applications. title2:Developing Data Quality Aware Applications citation:0 ncitation:0 pid1325199
+title1:A systematic review of software process tailoring. title2:A systematic review of software process tailoring citation:50 ncitation:40 pid1179435
+title1:An Empirical Study of the Nesting Level of Composite States Within UML Statechart Diagrams. title2:An empirical study of the nesting level of composite states within uml statechart diagrams citation:13 ncitation:9 pid183078
+title1:Using Code Metrics to Predict Maintenance of Legacy Programs: A Case Study. title2:Using code metrics to predict maintenance of legacy programs: A case study citation:33 ncitation:31 pid364631
+title1:Towards a quality model for grid portals. title2:Towards a Quality Model for Grid Portals citation:0 ncitation:0 pid365570
+title1:Towards Data Warehouse Quality Metrics. title2:Towards Data Warehouse Quality Metrics. citation:33 ncitation:29 pid158724
+title1:A systematic review measurement in software engineering: State-of-the-art in Measures. title2:A systematic review measurement in software engineering: state-of-the-art in measures citation:20 ncitation:19 pid365578
+title1:Using Verbal Protocols to Assess the Influence of Import-Coupling on the Comprehensibility of OCL Expressions. title2:Using verbal protocols to assess the influence of import-coupling on the comprehensibility of OCL expressions citation:2 ncitation:1 pid9270
+title1:Knowledge Discovery For Predicting Entity Relationship Diagram Maintainability. title2:Knowledge Discovery For Predicting Entity Relationship Diagram Maintainability. citation:8 ncitation:8 pid581916
+title1:Quality of UML models. title2:Research review: a systematic literature review on the quality of UML models citation:8 ncitation:-1 pid1275632
+title1:An engineering process for developing Secure Data Warehouses. title2:An engineering process for developing Secure Data Warehouses citation:18 ncitation:14 pid1275646
+title1:Empirical validation of referential integrity metrics. title2:Empirical validation of referential integrity metrics citation:44 ncitation:42 pid924469
+title1:Effective use of ontologies in software measurement. title2:Effective use of ontologies in software measurement citation:32 ncitation:26 pid1186507
+title1:Legal Requirements Reuse: A Critical Success Factor for Requirements Quality and Personal Data Protection. title2:Legal requirements reuse: a critical success factor for requirements quality and personal data protection citation:44 ncitation:39 pid558040
+title1:A Multi-agent Model to Develop Knowledge Management Systems. title2:A multi-agent model to develop knowledge management systems citation:27 ncitation:26 pid249106
+title1:Using cognitive techniques for assessing the influence of coupling on the maintainability of OCL expressions. title2:Using cognitive techniques for assessing the influence of coupling on the maintainability of OCL expressions citation:1 ncitation:1 pid9323
+title1:Ontology driven definition of a usability model for second generation portals. title2:Ontology driven definition of a usability model for second generation portals citation:6 ncitation:6 pid369479
+title1:Empirical Validation of Measures for UML Class Diagrams: A Meta-Analysis Study. title2:Empirical validation of measures for UML class diagrams: A meta-analysis study citation:10 ncitation:8 pid507546
+title1:Metrics for Managing Quality in Information Modeling. title2:Metrics for Managing Quality in Information Modeling. citation:3 ncitation:3 pid1557
+title1:Model driven development of secure XML databases. title2:Model driven development of secure XML databases citation:19 ncitation:18 pid1065943
+title1:MDE for BPM a systematic review. title2:MDE for BPM: a systematic review citation:4 ncitation:4 pid365643
+title1:Formal Definition of Measures for BPMN Models. title2:Formal definition of measures for BPMN models citation:3 ncitation:1 pid1251552
+title1:Using REFSENO to Represent Knowledge in the Software Maintenance Process. title2:Using REFSENO to represent knowledge in the software maintenance process citation:4 ncitation:4 pid152375
+title1:Quality of Data Warehouses. title2:Quality of Data Warehouses citation:2 ncitation:2 pid1298702
+title1:The Impact of Educational Background on Design Knowledge Sharing During Pair Programming: An Empirical Study. title2:The impact of educational background on design knowledge sharing during pair programming: an empirical study citation:6 ncitation:5 pid664627
+title1:Extending UML for Designing Secure Data Warehouses. title2:Extending UML for designing secure data warehouses citation:26 ncitation:24 pid183186
+title1:The Impact of Educational Background on Design Knowledge Sharing During Pair Programming: An Empirical Study. title2:The impact of educational background on design knowledge sharing during pair programming: an empirical study citation:6 ncitation:5 pid664629
+title1:CQA-ENV: An Integrated Environment for the Continuous Quality Assessment of Software Artifacts. title2:CQA-ENV: An Integrated Environment for the Continuous Quality Assessment of Software Artifacts. citation:2 ncitation:2 pid1261846
+title1:Using Controlled Experiments for Validating UML Statechart Diagrams Measures. title2:Using controlled experiments for validating uml statechart diagrams measures citation:8 ncitation:6 pid466236
+title1:How to implement multidimensional security into OLAP tools. title2:How to implement multidimensional security into OLAP tools citation:3 ncitation:3 pid904508
+title1:Measuring for Database Programs Maintainability. title2:Measuring for database programs maintainability citation:6 ncitation:7 pid150183
+title1:Assessing the Impact of Coupling on the Understandability and Modifiability of OCL Expressions within UML/OCL Combined Models. title2:Assessing the impact of coupling on the understandability and modifiability of OCL expressions within UML/OCL combined models citation:13 ncitation:12 pid492946
+title1:M-BPSec: A Method for Security Requirement Elicitation from a UML 2.0 Business Process Specification. title2:M-BPSec: a method for security requirement elicitation from a UML 2.0 business process specification citation:12 ncitation:9 pid184202
+title1:Improving the teaching of object-oriented design knowledge. title2:Improving the teaching of object-oriented design knowledge citation:4 ncitation:2 pid1182545
+title1:Validation of Metrics for Object-Relational Databases. title2:Validation of metrics for Object-Relational Databases citation:12 ncitation:12 pid173562
+title1:Evaluating the Ability of Novice Analysts to Understand Requirements Models. title2:Evaluating the ability of novice analysts to understand requirements models citation:1 ncitation:1 pid1325161
+title1:A Protoptype to Recommend Trustworthy Knowledge in Communities of Practice. title2:A protoptype to recommend trustworthy knowledge in communities of practice citation:2 ncitation:-1 pid365809
+title1:Using Practitioners for Assessing the Understandability of UML Statechart Diagrams with Composite States. title2:Using practitioners for assessing the understandability of UML statechart diagrams with composite states citation:16 ncitation:9 pid184196
+title1:Strategies to recommend groupware tools according to virtual team characteristics. title2:Strategies to recommend groupware tools according to virtual team characteristics citation:5 ncitation:6 pid9431
+title1:Metrics of Password Management Policy. title2:Metrics of password management policy citation:3 ncitation:1 pid292136
+title1:Implementing Software Measurement Programs in Non Mature Small Settings. title2:Implementing Software Measurement Programs in Non Mature Small Settings citation:2 ncitation:2 pid466240
+title1:Improving Object-Oriented Micro Architectural Design Through Knowledge Systematization. title2:Improving object-oriented micro architectural design through knowledge systematization citation:0 ncitation:0 pid183261
+title1:Using UML Packages for Designing Secure Data Warehouses. title2:Using UML packages for designing secure data warehouses citation:4 ncitation:2 pid292135
+title1:Measuring the Quality of Entity Relationship Diagrams. title2:Measuring the quality of entity relationship diagrams citation:26 ncitation:24 pid183271
+title1:A Bayesian network to represent a data quality model. title2:A bayesian network to represent a data quality model citation:4 ncitation:4 pid1168660
+title1:A Case Study with Relational Database Metrics. title2:A case study with relational database metrics citation:8 ncitation:8 pid32196
+title1:On the Measurement of COTS Functional Suitability. title2:On the measurement of COTS functional suitability citation:9 ncitation:9 pid284528
+title1:Filtering COTS Components Through an Improvement-Based Process. title2:Filtering COTS components through an improvement-based process citation:6 ncitation:6 pid284530
+title1:Assessing Object-Oriented Conceptual Models Maintainability. title2:Assessing object-oriented conceptual models maintainability citation:11 ncitation:9 pid183275
+title1:Defining Metrics for UML Statechart Diagrams in a Methodological Way. title2:Defining metrics for UML statechart diagrams in a methodological way citation:19 ncitation:14 pid183273
+title1:Applying a framework for the improvement of software process maturity. title2:Applying a framework for the improvement of software process maturity citation:20 ncitation:19 pid1075629
+title1:Modeling and Analysis of Knowledge Flows in Software Processes through the Extension of the Software Process Engineering Metamodel. title2:Modeling and analysis of knowledge flows in software processes through the extension of the software process engineering metamodel citation:4 ncitation:2 pid1274385
+title1:About Abstract Classes. title2:About Abstract Classes citation:0 ncitation:0 pid987450
+title1:Adapting the course "quality of information systems" to E.H.E.A guidelines. title2:Adapting the course quality of information systems to EHEA guidelines citation:0 ncitation:0 pid1182564
+title1:Defining a Data Quality Model for Web Portals. title2:Defining a data quality model for web portals citation:15 ncitation:15 pid663583
+title1:Model-Driven Software Measurement Framework: A Case Study. title2:Model-driven software measurement framework: A case study citation:5 ncitation:3 pid1325151
+title1:An Experimental Replication With Data Warehouse Metrics. title2:An experimental replication with data warehouse metrics citation:13 ncitation:11 pid1231642
+title1:Validating metrics for data warehouses. title2:Validating metrics for data warehouses citation:21 ncitation:16 pid893626
+title1:Metrics for Data Warehouse Quality. title2:Metrics for Data Warehouse Quality. citation:9 ncitation:10 pid827
+title1:Relaxing constraints in enhanced entity-relationship models using fuzzy quantifiers. title2:Relaxing constraints in enhanced entity-relationship models using fuzzy quantifiers citation:27 ncitation:22 pid1099774
+title1:Competencies Desirable for a Requirements Elicitation Specialist in a Global Software Development. title2:Competencies Desirable for a Requirements Elicitation Specialist in a Global Software Development. citation:0 ncitation:-1 pid365878
+title1:Implementing Multidimensional Security into OLAP Tools. title2:Implementing multidimensional security into OLAP tools citation:10 ncitation:8 pid7884
+title1:Classifying web metrics using the web quality model. title2:Classifying web metrics using the web quality model citation:83 ncitation:72 pid1293986
+title1:IQM3: Information Quality Management Maturity Model. title2:IQM3: Information Quality Management Maturity Model. citation:28 ncitation:23 pid1339831
+title1:Why Should I Trust in a Virtual Community Member? title2:Why should i trust in a virtual community member? citation:2 ncitation:2 pid1240343
+title1:Prediction Models for BPMN Usability and Maintainability. title2:Prediction models for BPMN usability and maintainability citation:10 ncitation:9 pid1310231
+title1:Understanding and Supporting Knowledge Flows in a Community of Software Developers. title2:Understanding and supporting knowledge flows in a community of software developers citation:33 ncitation:31 pid119170
+title1:A Methodology for Database Reengineering to Web Services. title2:A methodology for database reengineering to web services citation:5 ncitation:6 pid171968
+title1:Does object coupling really affect the understanding and modifying of OCL expressions? title2:Does object coupling really affect the understanding and modifying of OCL expressions? citation:8 ncitation:8 pid568368
+title1:Towards a Cognitive-Based Approach to Distributed Requirement Elicitation Processes. title2:Towards a Cognitive-Based Approach to Distributed Requirement Elicitation Processes. citation:13 ncitation:12 pid659311
+title1:PSecGCM: Process for the Development of Secure Grid Computing based Systems with Mobile Devices. title2:PSecGCM: Process for the development of Secure Grid Computing based Systems with Mobile devices citation:16 ncitation:16 pid7907
+title1:Problems and Solutions in Distributed Software Development: A Systematic Review. title2:Problems and Solutions in Distributed Software Development: A Systematic Review citation:7 ncitation:5 pid1259276
+title1:Defining a quality model for portal data. title2:Defining a quality model for portal data citation:4 ncitation:4 pid369164
+title1:Promoting business policies in object-oriented methods. title2:Promoting business policies in object-oriented methods citation:17 ncitation:17 pid995978
+title1:Organización de Conocimientos en Procesos de Ingeniería de Software por Medio de Modelado de Procesos: una Adaptación de SPEM. citation:2 ncitation:2 pid469925
+title1:Analyzing Stakeholders' Satisfaction When Choosing Suitable Groupware Tools for Requirements Elicitation. title2:Analyzing Stakeholders' Satisfaction When Choosing Suitable Groupware Tools for Requirements Elicitation citation:2 ncitation:1 pid1240330
+title1:Modeling Data Using Fuzzy Attributes. title2:Modeling data using fuzzy attributes citation:11 ncitation:12 pid577202
+title1:Evaluation measures for business process models. title2:Evaluation measures for business process models citation:35 ncitation:27 pid566468
+title1:Measures to Get Better Quality Databases. title2:Measures to get better quality databases citation:12 ncitation:10 pid306333
+title1:Improving Information Quality Management Using Caldea and Evamecal. title2:Improving Information Quality Management Using Caldea and Evamecal. citation:0 ncitation:-1 pid413504
+title1:Getting Better Information Quality By Assessing And Improving Information Quality Management. title2:Getting Better Information Quality By Assessing And Improving Information Quality Management. citation:29 ncitation:24 pid413506
+title1:A Systematic Review and Comparison of Security Ontologies. title2:A systematic review and comparison of security ontologies citation:47 ncitation:39 pid7833
+title1:Key processes to start software process improvement in small companies. title2:Key processes to start software process improvement in small companies citation:18 ncitation:12 pid569781
+title1:Conceptual Architecture for the Assessme NT and Improvement of Software Maintenance. title2:Conceptual architecture for the assessment and improvement of software maintenance citation:10 ncitation:11 pid306317
+title1:How to Choose Groupware Tools Considering Stakeholders' Preferences During Requirements Elicitation? title2:How to Choose Groupware Tools Considering Stakeholders' Preferences During Requirements Elicitation? citation:7 ncitation:7 pid119295
+title1:Fostering Knowledge Exchange in Virtual Communities by Using Agents. title2:Fostering knowledge exchange in virtual communities by using agents citation:6 ncitation:3 pid119239
+title1:CIM to PIM Transformation: A Reality. title2:CIM to PIM transformation: A reality citation:17 ncitation:16 pid384351
+title1:A proposal for a set of attributes relevant for Web portal data quality. title2:A proposal for a set of attributes relevant for Web portal data quality citation:38 ncitation:31 pid1342742
+title1:Applying MDA to the development of data warehouses. title2:Applying MDA to the development of data warehouses citation:73 ncitation:73 pid159932
+title1:Applying an MDA-Based Approach to Consider Security Rules in the Development of Secure DWs. title2:Applying an MDA-based approach to consider security rules in the development of secure DWs citation:5 ncitation:3 pid1236507
+title1:Un Conjunto de Transformaciones QVT para el Modelado de Almacenes de Datos Seguros. title2:Un Conjunto de Transformaciones QVT para el Modelado de Almacenes de Datos Seguros. citation:5 ncitation:5 pid731124
+title1:Web Services Security: Is the Problem Solved? title2:Web Services Security: is the problem solved? citation:22 ncitation:23 pid1187723
+title1:Capturing Security Requirements in Business Processes Through a UML 2.0 Activity Diagrams Profile. title2:Capturing security requirements in business processes through a UML 2.0 activity diagrams profile citation:11 ncitation:11 pid183855
+title1:Experimental Validation of Multidimensional Data Models Metrics. title2:Experimental validation of multidimensional data models metrics citation:16 ncitation:12 pid247972
+title1:Towards security requirements management for software product lines: a security domain requirements engineering process. title2:Towards security requirements management for software product lines: A security domain requirements engineering process citation:23 ncitation:19 pid1251586
+title1:A Three Dimensional Web Quality Model. title2:A three dimensional web quality model citation:18 ncitation:14 pid369333
+title1:Towards a Service-oriented and Model-driven Framework with Business Processes as First-class Citizens. title2:Towards a Service-oriented and Model-driven Framework with Business Processes as First-class Citizens. citation:14 ncitation:13 pid710642
+title1:Formal definition of measures for UML statechart diagrams using OCL. title2:Formal definition of measures for UML statechart diagrams using OCL citation:8 ncitation:6 pid569723
+title1:Towards a Classification of Security Metrics. title2:Towards a Classification of Security Metrics. citation:5 ncitation:5 pid604876
+title1:Towards Comprehensive Requirement Analysis for Data Warehouses: Considering Security Requirements. title2:Towards comprehensive requirement analysis for data warehouses: Considering security requirements citation:26 ncitation:21 pid7756
+title1:Types in objectbases development. title2:Types in objectbases development citation:0 ncitation:0 pid1028917
+title1:How to Manage Knowledge in the Software Maintenance Process. title2:How to manage knowledge in the software maintenance process citation:10 ncitation:9 pid487982
+title1:Integrated Measurement for the Evaluation and Improvement of Software Processes. title2:Integrated measurement for the evaluation and improvement of software processes citation:13 ncitation:14 pid200839
+title1:Estimating Object-Relational Database Understandability Using Structural Metrics. title2:Estimating object-relational database understandability using structural metrics citation:8 ncitation:8 pid149314
+title1:Predicting UML Statechart Diagrams Understandability Using Fuzzy Logic-Based Techniques. title2:Predicting UML Statechart Diagrams Understandability Using Fuzzy Logic-Based Techniques. citation:1 ncitation:1 pid581868
+title1:A Controlled Experiment for Selecting Transformations based on Quality Attributes in the context of MDA. title2:A controlled experiment for selecting transformations based on quality attributes in the context of MDA citation:3 ncitation:2 pid708215
+title1:Do Rules and Patterns Affect Design Maintainability? title2:Do rules and patterns affect design maintainability? citation:2 ncitation:1 pid1225910
+title1:Web Services Security: is the problem solved? title2:Web Services Security: is the problem solved? citation:22 ncitation:23 pid604913
+title1:Tailoring Data Quality Models Using Social Network Preferences. title2:Tailoring Data Quality Models Using Social Network Preferences citation:8 ncitation:8 pid1241193
+title1:Towards a Process for Web Services Security. title2:Towards a process for web services security citation:15 ncitation:11 pid604915
+title1:Metrics for data warehouse conceptual models understandability. title2:Metrics for data warehouse conceptual models understandability citation:37 ncitation:25 pid925324
+title1:A controlled experiment for corroborating the usefulness of class diagram metrics at the early phases of OO developments. title2:A controlled experiment for corroborating the usefulness of class diagram metrics at the early phases of OO developments. citation:7 ncitation:-1 pid27121
+title1:A Multi-Agent Knowledge Management System for Software Maintenance. title2:A Multi-Agent Knowledge Management System for Software Maintenance. citation:0 ncitation:0 pid27127
+title1:A Survey of Web Services Security. title2:A survey of web services security citation:18 ncitation:17 pid290845
+title1:Ontology Driven Definition of a Portlet Functionality Model. title2:Ontology Driven Definition of a Portlet Functionality Model citation:2 ncitation:2 pid177631
+title1:A Framework for the Development of Secure Data Warehouses based on MDA and QVT. title2:A Framework for the Development of Secure Data Warehouses based on MDA and QVT citation:16 ncitation:13 pid7704
+title1:Identifying Knowledge Management Needs in Software Maintenance Groups: A Qualitative Approach. title2:Identifying knowledge management needs in software maintenance groups: A qualitative approach citation:9 ncitation:9 pid181767
+title1:Evaluating Collaborative Applications from a Knowledge Management Approach. title2:Evaluating collaborative applications from a knowledge management approach citation:20 ncitation:17 pid660078
+title1:Improving the Development of Data Warehouses by Enriching Dimension Hierarchies with WordNet. title2:Improving the development of data warehouses by enriching dimension hierarchies with WordNet citation:4 ncitation:5 pid701774
+title1:Security Requirements Engineering Process for Software Product Lines: A Case Study. title2:Security requirements engineering process for software product lines: a case study citation:2 ncitation:1 pid678504
+title1:Supporting Software Maintenance in Web Repositories through a Multi-agent System. title2:Supporting software maintenance in web repositories through a multi-agent system citation:14 ncitation:16 pid61736
+title1:Using a Multi-agent Architecture to Manage Knowledge in the Software Maintenance Process. title2:Using a multi-agent architecture to manage knowledge in the software maintenance process citation:9 ncitation:10 pid475453
+title1:Comparing different quality models for portals. title2:Comparing different quality models for portals citation:42 ncitation:39 pid1293906
+title1:Empirical Validation of Class Diagram Complexity Metrics. title2:Empirical validation of class diagram complexity metrics citation:13 ncitation:10 pid577051
+title1:Building UML Class Diagram Maintainability Prediction Models Based on Early Metrics. title2:Building UML class diagram maintainability prediction models based on early metrics citation:57 ncitation:45 pid492767
+title1:A Reusability Model for Portlets. title2:A reusability model for portlets citation:4 ncitation:3 pid663825
+title1:Automatic extraction of the main terminology used in empirical software engineering through text mining techniques. title2:Automatic extraction of the main terminology used in empirical software engineering through text mining techniques citation:4 ncitation:4 pid708148
+title1:A framework to analyze information systems as knowledge flow facilitators. title2:A framework to analyze information systems as knowledge flow facilitators citation:18 ncitation:14 pid925395
+title1:Using XMI and MOF for Representation and Interchange of Software Processes. title2:Using XMI and MOF for representation and interchange of software process citation:8 ncitation:8 pid152147
+title1:Fuzzy Constraints using the Enhanced Entity-Relationship Model. title2:Fuzzy constraints using the enhanced entity-relationship model citation:17 ncitation:17 pid577039
+title1:Empirical Validation of Metrics for Conceptual Models of Data Warehouses. title2:Empirical validation of metrics for conceptual models of data warehouses citation:30 ncitation:23 pid74650
+title1:A Three Level Multi-agent Architecture to Foster Knowledge Exchange. title2:A three level multi-agent architecture to foster knowledge exchange citation:2 ncitation:2 pid582905
+title1:Security Requirements Variability for Software Product Lines. title2:Security requirements variability for software product lines citation:17 ncitation:15 pid7718
+title1:Incorporating Security Issues in the Information Systems Design. title2:Incorporating security issues in the information systems design citation:4 ncitation:3 pid181816
+title1:Managing the Asset Risk of SMEs. title2:Managing the asset risk of SMEs citation:1 ncitation:1 pid2772979
+title1:Analysis and Validation of Control-Flow Complexity Measures with BPMN Process Models. title2:Analysis and validation of control-flow complexity measures with bpmn process models citation:15 ncitation:9 pid2778045
+title1:Component-Based Software Quality - Methods and Techniques title2:Component-based software quality: methods and techniques citation:30 ncitation:30 pid2778443
+title1:An Educational Environment for Training Skills for Global Software Development. title2:An Educational Environment for Training Skills for Global Software Development citation:1 ncitation:1 pid2792216
+title1:MINERVA: Model drIveN and sErvice oRiented Framework for the Continuous Business Process improVement and relAted Tools. title2:MINERVA: model driven and service oriented framework for the continuous business process improvement and related tools citation:16 ncitation:12 pid2798779
+title1:MMPRO: A Methodology Based on ISO/IEC 15939 to Draw Up Data Quality Measurement Processes. title2:MMPRO: A Methodology Based on ISO/IEC 15939 to Draw Up Data Quality Measurement Processes. citation:9 ncitation:8 pid2801892
+title1:A Portal Data Quality Model For Users And Developers. title2:A Portal Data Quality Model For Users And Developers. citation:3 ncitation:4 pid2801925
+title1:A Data Quality Measurement Information Model Based On ISO/IEC 15939. title2:A Data Quality Measurement Information Model Based On ISO/IEC 15939. citation:28 ncitation:25 pid2801931
+title1:A Strategy for Painless Harmonization of Quality Standards: A Real Case. title2:A strategy for painless harmonization of quality standards: A real case citation:8 ncitation:8 pid2811207
+title1:On the use of patterns to recover business processes. title2:On the use of patterns to recover business processes citation:2 ncitation:1 pid2811886
+title1:Building ISMS through the Reuse of Knowledge. title2:Building ISMS through the Reuse of Knowledge citation:2 ncitation:-1 pid2817865
+title1:Designing a Simulator for the Training of Software Engineers in Global Requirements Elicitation. title2:Designing a Simulator for the Training of Software Engineers in Global Requirements Elicitation. citation:2 ncitation:2 pid2819039
+title1:A comparison of software design security metrics. title2:A comparison of software design security metrics citation:4 ncitation:3 pid2825431
+title1:Implementing Business Process Recovery Patterns through QVT Transformations. title2:Implementing business process recovery patterns through QVT transformations citation:11 ncitation:8 pid2829277
+title1:Encouraging the Reuse of Knowledge in Communities of Practice by Using a Trust Model. title2:Encouraging the reuse of knowledge in communities of practice by using a trust model citation:2 ncitation:2 pid2843834
+title1:Analysis of Secure Mobile Grid Systems: A systematic approach. title2:Analysis of secure mobile grid systems: a systematic approach citation:14 ncitation:9 pid2861980
+title1:The impact of structural complexity on the understandability of UML statechart diagrams. title2:The impact of structural complexity on the understandability of UML statechart diagrams citation:23 ncitation:17 pid2862278
+title1:Assessing the influence of import-coupling on OCL expression maintainability: A cognitive theory-based perspective. title2:Assessing the influence of import-coupling on OCL expression maintainability: A cognitive theory-based perspective citation:3 ncitation:1 pid2862445
+title1:Using Scrum to guide the execution of software process improvement in small organizations. title2:Using Scrum to guide the execution of software process improvement in small organizations citation:10 ncitation:6 pid2865153
+title1:Harmonizing maturity levels from CMMI-DEV and ISO/IEC 15504. citation:23 ncitation:22 pid2869047
+title1:A Personal Data Audit Method through Requirements Engineering. title2:A personal data audit method through requirements engineering citation:5 ncitation:3 pid2883091
+title1:Model-driven multidimensional modeling of secure data warehouses. title2:Model-driven multidimensional modeling of secure data warehouses citation:18 ncitation:16 pid2895339
+title1:A Tool for Training Students and Engineers in Global Software Development Practices. title2:A tool for training students and engineers in global software development practices citation:1 ncitation:1 pid2898732
+title1:Prediction of Business Process Model Quality Based on Structural Metrics. title2:Prediction of business process model quality based on structural metrics citation:8 ncitation:5 pid2899876
+title1:Towards an ontology for service oriented modeling supporting business processes. title2:Towards an ontology for service oriented modeling supporting business processes citation:15 ncitation:11 pid2909303
+title1:A Recommendation Algorithm for Knowledge Objects based on a Trust Model. title2:A recommendation algorithm for Knowledge Objects based on a trust model citation:2 ncitation:2 pid2909364
+title1:Security requirements engineering framework for software product lines. title2:Security requirements engineering framework for software product lines citation:8 ncitation:7 pid2923426
+title1:Assessment methodology for software process improvement in small organizations. title2:Assessment methodology for software process improvement in small organizations citation:30 ncitation:16 pid2923427
+title1:Semi-formal transformation of secure business processes into analysis class and use case models: An MDA approach. title2:Semi-formal transformation of secure business processes into analysis class and use case models: An MDA approach citation:14 ncitation:12 pid2923443
+title1:A framework to improve communication during the requirements elicitation process in GSD projects. title2:A framework to improve communication during the requirements elicitation process in GSD projects citation:5 ncitation:3 pid2926804
+title1:MIS-PyME software measurement capability maturity model - Supporting the definition of software measurement programs and capability determination. citation:4 ncitation:2 pid2933486
+title1:Soporte Automatizado a la Ingeniería de Requisitos de Seguridad. citation:2 ncitation:4 pid2956220
+title1:Experiencia en Transformación de Modelos de Procesos de Negocios desde BPMN a XPDL. citation:5 ncitation:5 pid2956221
+title1:Aplicación de QVT al Desarrollo de Almacenes de Datos Seguros: Un caso de Estudio. citation:5 ncitation:5 pid2956249
+title1:Validando la Usabilidad y Mantenibilidad de los Modelos de Procesos de Negocio: un Experimento y su Réplica. citation:0 ncitation:-1 pid2956250
+title1:A Multi-agent Recommender System to Suggest Documents in Communities of Practice. title2:A Multi-agent Recommender System to Suggest Documents in Communities of Practice citation:1 ncitation:0 pid2958520
+title1:Harmonizing Improvement Technologies: A Comparison between CMMI-ACQ and ISO/IEC 12207: 2008. title2:Harmonizing Improvement Technologies: A Comparison between CMMI-ACQ and ISO/IEC 12207: 2008. citation:4 ncitation:5 pid2959890
+title1:A Two-Layer Multi-agent Architecture to Facilitate Knowledge Sharing within Communities of Practice. title2:A two-layer multi-agent architecture to facilitate knowledge sharing within communities of practice citation:5 ncitation:3 pid2963316
+title1:Developing a Secure Mobile Grid System through a UML Extension. title2:Developing a Secure Mobile Grid System through a UML Extension. citation:9 ncitation:6 pid2974534
+title1:Toward Obtaining Event Logs from Legacy Code. title2:Toward Obtaining Event Logs from Legacy Code citation:4 ncitation:4 pid3009514
+title1:HProcessTOOL: A Support Tool in the Harmonization of Multiple Reference Models. title2:HProcessTOOL: a support tool in the harmonization of multiple reference models citation:6 ncitation:4 pid3018128
+title1:A Methodology for Continuos Quality Assessment of Software Artefacts. title2:A methodology for continuos quality assessment of software artefacts citation:6 ncitation:5 pid3026730
+title1:An empirical comparison of static and dynamic business process mining. title2:An empirical comparison of static and dynamic business process mining citation:2 ncitation:2 pid3027299
+title1:Harmonizing Quality Assurance Processes and Product Characteristics. title2:Harmonizing Quality Assurance Processes and Product Characteristics citation:3 ncitation:2 pid3063411
+title1:Secure business process model specification through a UML 2.0 activity diagram profile. title2:Secure business process model specification through a UML 2.0 activity diagram profile citation:15 ncitation:14 pid3067375
+title1:Process mining through dynamic analysis for modernising legacy systems. title2:Process mining through dynamic analysis for modernising legacy systems citation:7 ncitation:6 pid3069247
+title1:Graphical versus textual software measurement modelling: an empirical study. title2:Graphical versus textual software measurement modelling: an empirical study citation:0 ncitation:-1 pid3079304
+title1:Systematic design of secure Mobile Grid systems. title2:Systematic design of secure Mobile Grid systems citation:3 ncitation:1 pid3085294
+title1:Knowledge Discovery Metamodel-ISO/IEC 19506: A standard to modernize legacy systems. title2:Knowledge Discovery Metamodel-ISO/IEC 19506: A standard to modernize legacy systems citation:18 ncitation:10 pid3089674
+title1:Challenges and Improvements in Distributed Software Development: A Systematic Review. title2:Challenges and improvements in distributed software development: A systematic review citation:84 ncitation:74 pid3114558
+title1:Reengineering Technologies. title2:Reengineering Technologies citation:1 ncitation:1 pid3126743
+title1:Research Review: A Systematic Literature Review on the Quality of UML Models. title2:Research review: a systematic literature review on the quality of UML models citation:8 ncitation:2 pid3145155
+title1:Generating event logs from non-process-aware systems enabling business process mining. title2:Generating event logs from non-process-aware systems enabling business process mining citation:26 ncitation:16 pid3151173
+title1:Business process archeology using MARBLE. title2:Business process archeology using MARBLE citation:14 ncitation:9 pid3161774
+title1:Business Process Service Oriented Methodology (BPSOM) with Service Generation in SoaML. title2:Business process service oriented methodology (BPSOM) with service generation in SoaML citation:2 ncitation:2 pid3189353
+title1:Tools to Support Global Software Development Processes: A Survey. title2:Tools to support global software development processes: a survey citation:9 ncitation:7 pid3195752
+title1:Scrum-based Methodology for Distributed Software Development. title2:Scrum-based Methodology for Distributed Software Development citation:5 ncitation:1 pid3195757
+title1:An Architecture for Creating Simulators for Training Global Software Development. title2:An Architecture for Creating Simulators for Training Global Software Development citation:0 ncitation:0 pid3195809
+title1:Which Groupware Tool is the Most Suitable for this Group? title2:Which Groupware Tool is the most suitable for this group? citation:2 ncitation:2 pid3195825
+title1:Analyzing Ontology as a Facilitator During Global Requirements Elicitation. title2:Analyzing Ontology as a Facilitator During Global Requirements Elicitation citation:2 ncitation:1 pid3195827
+title1:Preparing Students and Engineers for Global Software Development: A Systematic Review. title2:Preparing students and engineers for global software development: a systematic review citation:17 ncitation:13 pid3195835
+title1:Technology Selection to Improve Global Collaboration. title2:Technology selection to improve global collaboration citation:13 ncitation:9 pid3195907
+title1:An Integrated Framework to Guide Software Process Improvement in Small Organizations. title2:An integrated framework to guide software process improvement in small organizations citation:5 ncitation:4 pid3197545
+title1:Homogenization, Comparison and Integration: A Harmonizing Strategy for the Unification of Multi-models in the Banking Sector. title2:Homogenization, comparison and integration: a harmonizing strategy for the unification of multi-models in the banking sector citation:7 ncitation:7 pid3210116
+title1:Managing Process Diversity by Applying Rationale Management in Variant Rich Processes. title2:Managing process diversity by applying rationale management in variant rich processes citation:3 ncitation:1 pid3210124
+title1:MARBLE. A business process archeology tool. title2:MARBLE. A business process archeology tool citation:7 ncitation:3 pid3215447
+title1:VENTURE: Towards a framework for simulating GSD in educational environments. title2:VENTURE: Towards a framework for simulating GSD in educational environments citation:0 ncitation:0 pid3227751
+title1:Security Culture in Small and Medium-Size Enterprise. title2:Security Culture in Small and Medium-Size Enterprise citation:0 ncitation:-1 pid3233003
+title1:Applying AOSE Concepts to Model Crosscutting Variability in Variant-Rich Processes. title2:Applying AOSE Concepts to Model Crosscutting Variability in Variant-Rich Processes citation:2 ncitation:-1 pid3239251
+title1:Un Simulador para la Enseñanza de la Elicitación de Requisitos en el Contexto del Desarrollo Global del Software. citation:0 ncitation:-1 pid3239546
+title1:Marco de Trabajo basado en MDA para la Medición Genérica del Software. citation:1 ncitation:1 pid3239602
+title1:Assessing the understandability of UML statechart diagrams with composite states - A family of empirical studies. citation:27 ncitation:19 pid3239622
+title1:Una Metodología Basada en ISO/IEC 15939 para la Elaboración de Planes de Medición de Calidad de Datos. citation:0 ncitation:0 pid3239663
+title1:An ontology for the harmonization of multiple standards and models. title2:An ontology for the harmonization of multiple standards and models citation:17 ncitation:6 pid3269360
+title1:A conceptual modeling quality framework. title2:A conceptual modeling quality framework citation:20 ncitation:10 pid3269687
+title1:Reflective Persistence. title2:Reflective Persistence (Reflective CRUD: Reflective Create, Read, Update and Delete) citation:4 ncitation:-1 pid3285445
+title1:Obtaining Thresholds for the Effectiveness of Business Process Mining. title2:Obtaining Thresholds for the Effectiveness of Business Process Mining citation:1 ncitation:1 pid3300492
+title1:A case study on business process recovery using an e-government system. citation:5 ncitation:4 pid3311257
+title1:Quality in Conceptual Modelling. title2:Quality in conceptual Modelling citation:4 ncitation:4 pid3322903
+title1:Metrics for databases: a way to assure the quality. title2:Metrics for databases: a way to assure the quality citation:7 ncitation:7 pid3322917
+title1:Integrating Outsourcing in the Maintenance Process. title2:Integrating outsourcing in the maintenance process citation:12 ncitation:12 pid3349327
+title1:A family of case studies on business process mining using MARBLE. title2:A family of case studies on business process mining using MARBLE citation:3 ncitation:1 pid3374159
+title1:Tools used in Global Software Engineering: A systematic mapping review. title2:Tools used in Global Software Engineering: A systematic mapping review citation:12 ncitation:5 pid3395833
+title1:Harmonization of ISO/IEC 9001: 2000 and CMMI-DEV: from a theoretical comparison to a real case application. title2:Harmonization of ISO/IEC 9001: 2000 and CMMI-DEV: from a theoretical comparison to a real case application citation:5 ncitation:2 pid3396990
+title1:Model transformations for Business-IT alignment: from collaborative business process to SoaML service model. title2:Model transformations for Business-IT alignment: from collaborative business process to SoaML service model citation:0 ncitation:0 pid3413366
+title1:Integrating event logs into KDM repositories. title2:Integrating event logs into KDM repositories citation:1 ncitation:1 pid3413537
+title1:Empirical Assessment of Business Model Transformations Based on Model Simulation. title2:Empirical assessment of business model transformations based on model simulation citation:0 ncitation:-1 pid3422571
+title1:Providing Training in GSD by Using a Virtual Environment. title2:Providing training in GSD by using a virtual environment citation:0 ncitation:0 pid3426349
+title1:Towards an ontology for global software development. title2:Towards an ontology for global software development citation:2 ncitation:-1 pid3463092
+title1:Cultural and linguistic problems in GSD: a simulator to train engineers in these issues. title2:Cultural and linguistic problems in GSD: a simulator to train engineers in these issues citation:4 ncitation:1 pid3485141
+title1:Database Schema Elicitation to Modernize Relational Databases. title2:Database Schema Elicitation to Modernize Relational Databases. citation:1 ncitation:0 pid3486650
+title1:Towards the Harmonization of Process and Product Oriented Software Quality Approaches. title2:Towards the Harmonization of Process and Product Oriented Software Quality Approaches citation:2 ncitation:-1 pid3504000
+title1:Capturing data quality requirements for web applications by means of DQ_WebRE. title2:Capturing data quality requirements for web applications by means of DQ_WebRE citation:3 ncitation:1 pid3505862
+title1:From chaos to the systematic harmonization of multiple reference models: A harmonization framework applied in two case studies. title2:From chaos to the systematic harmonization of multiple reference models: A harmonization framework applied in two case studies citation:4 ncitation:-1 pid3542622
+title1:A software maintenance methodology for small organizations: Agile_MANTEMA. title2:A software maintenance methodology for small organizations: Agile_MANTEMA citation:6 ncitation:4 pid3554629
+title1:Improving Event Correlation for Non-process Aware Information Systems. title2:Improving Event Correlation for Non-process Aware Information Systems. citation:0 ncitation:0 pid3565494
+title1:DPMTool: A Tool for Decisions Management in Distributed Software Projects. title2:DPMTool: A Tool for Decisions Management in Distributed Software Projects citation:0 ncitation:0 pid3567432
+title1:Test Automation. title2:Test Automation citation:0 ncitation:None pid3609943

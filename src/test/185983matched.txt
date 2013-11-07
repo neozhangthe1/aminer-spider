@@ -1,0 +1,223 @@
+title1:A machine vision approach for jacket launching angle measurement. title2:A machine vision approach for jacket launching angle measurement citation:0 ncitation:-1 pid706983
+title1:On Social Networks Reduction. title2:On social networks reduction citation:1 ncitation:1 pid2466564
+title1:Nature Inspired Multi-Swarm Heuristics for Multi-Knowledge Extraction. title2:Nature Inspired Multi-Swarm Heuristics for Multi-Knowledge Extraction citation:1 ncitation:1 pid463694
+title1:Special issue on 'Neural networks for enhanced intelligence'. title2:Special issue on 'Neural networks for enhanced intelligence' citation:0 ncitation:-1 pid1431476
+title1:MOVIH-IDS: A mobile-visualization hybrid intrusion detection system. title2:MOVIH-IDS: A mobile-visualization hybrid intrusion detection system citation:40 ncitation:34 pid2197915
+title1:Feature Selection and Intrusion Detection Using Hybrid Flexible Neural Tree. title2:Feature selection and intrusion detection using hybrid flexible neural tree citation:36 ncitation:34 pid1301264
+title1:A hybrid genetic algorithm and bacterial foraging approach for global optimization. title2:A hybrid genetic algorithm and bacterial foraging approach for global optimization citation:241 ncitation:213 pid2183616
+title1:Solving Shortest Capacitated Path Problem Using a Bi-Objective Heuristic Approach. title2:Solving Shortest Capacitated Path Problem Using a Bi-Objective Heuristic Approach citation:0 ncitation:0 pid496171
+title1:Spiking neural network and wavelets for hiding iris data in digital images. title2:Spiking neural network and wavelets for hiding iris data in digital images citation:30 ncitation:11 pid442028
+title1:Export Behaviour Modeling Using EvoNF Approach. title2:Export behaviour modeling using EvoNF approach citation:2 ncitation:3 pid2331671
+title1:Meta-Learning Evolutionary Artificial Neural Network for Selecting Flexible Manufacturing Systems. title2:Meta-learning evolutionary artificial neural network for selecting flexible manufacturing systems citation:2 ncitation:1 pid1412818
+title1:A novel Variable Neighborhood Particle Swarm Optimization for multi-objective Flexible Job-Shop Scheduling Problems. title2:Variable neighborhood particle swarm optimization for multi-objective flexible job-shop scheduling problems citation:48 ncitation:35 pid1070235
+title1:Nature Inspired Online Real Risk Assessment Models for Security Systems. title2:Nature Inspired Online Real Risk Assessment Models for Security Systems citation:1 ncitation:1 pid1387001
+title1:A Replication-Based Approach for the Improvement of the Online Learning Experience in Distributed Environments. title2:A Replication-based Approach for the Improvement of the Online Learning Experience in Distributed Environments citation:1 ncitation:-1 pid692474
+title1:Chaotic dynamic characteristics in swarm intelligence. title2:Chaotic dynamic characteristics in swarm intelligence citation:60 ncitation:43 pid698343
+title1:Stability of the chemotactic dynamics in bacterial foraging optimization algorithm. title2:On stability of the chemotactic dynamics in bacterial-foraging optimization algorithm citation:44 ncitation:32 pid2147310
+title1:Pharmaceutical Drug Design Using Dynamic Connectionist Ensemble Networks. title2:Pharmaceutical drug design using dynamic connectionist ensemble Networks citation:2 ncitation:2 pid278597
+title1:Flexible neural trees ensemble for stock index modeling. title2:Flexible neural trees ensemble for stock index modeling citation:56 ncitation:52 pid217907
+title1:Optimal design of hierarchical wavelet networks for time-series forecasting. title2:Optimal design of hierarchical wavelet networks for time-series forecasting. citation:1 ncitation:1 pid706876
+title1:Significance of Steganography on Data Security. title2:Significance of steganography on data security citation:53 ncitation:-1 pid464771
+title1:Feature selection and classification using flexible neural tree. title2:Feature selection and classification using flexible neural tree citation:60 ncitation:44 pid2202723
+title1:Tuning Struggle Strategy in Genetic Algorithms for Scheduling in Computational Grids. title2:Tuning struggle strategy in genetic algorithms for scheduling in computational grids citation:32 ncitation:27 pid2275415
+title1:Evolutionary Elementary Cooperative Strategy for Global Optimization. title2:Evolutionary elementary cooperative strategy for global optimization citation:0 ncitation:0 pid441946
+title1:Modeling intrusion detection system using hybrid intelligent systems. title2:Modeling intrusion detection system using hybrid intelligent systems citation:181 ncitation:139 pid2150385
+title1:On stability and convergence of the population-dynamics in differential evolution. title2:On stability and convergence of the population-dynamics in differential evolution citation:38 ncitation:27 pid1326602
+title1:Computational Intelligence in Medical Informatics title2:Computational intelligence in medical informatics citation:1 ncitation:1 pid917540
+title1:D-SCIDS: Distributed soft computing intrusion detection system. title2:D-SCIDS: Distributed soft computing intrusion detection system citation:119 ncitation:104 pid706924
+title1:An Hybrid Fuzzy Variable Neighborhood Particle Swarm Optimization Algorithm for Solving Quadratic Assignment Problems. title2:An Hybrid Fuzzy Variable Neighborhood Particle Swarm Optimization Algorithm for Solving Quadratic Assignment Problems. citation:42 ncitation:36 pid187525
+title1:Intrusion Detection Systems Using Adaptive Regression Splines. title2:Intrusion Detection Systems Using Adaptive Regression Spines citation:52 ncitation:44 pid462418
+title1:Hierarchical Takagi-Sugeno Models for Online Security Evaluation Systems. title2:Hierarchical Takagi-Sugeno Models for Online Security Evaluation Systems citation:2 ncitation:1 pid2298317
+title1:Automatic Clustering Using an Improved Differential Evolution Algorithm. title2:Automatic clustering using an improved differential evolution algorithm citation:244 ncitation:211 pid1202403
+title1:Intrusion detection using an ensemble of intelligent paradigms. title2:Intrusion detection using an ensemble of intelligent paradigms citation:202 ncitation:183 pid2204586
+title1:A New Approach for Solving Nonlinear Equations Systems. title2:A new approach for solving nonlinear equations systems citation:65 ncitation:44 pid760518
+title1:Automatic kernel clustering with a Multi-Elitist Particle Swarm Optimization Algorithm. title2:Automatic kernel clustering with a multi-elitist particle swarm optimization algorithm citation:70 ncitation:55 pid464841
+title1:Exploration of multiple roots for a polynomial system. title2:Exploration of Multiple Roots for a Polynomial System citation:1 ncitation:1 pid474410
+title1:Intelligent web traffic mining and analysis. title2:Intelligent web traffic mining and analysis citation:55 ncitation:51 pid760540
+title1:Optimizing Linear Prgramming Technique Using Fuzzy Logic. title2:Optimizing Linear Prgramming Technique Using Fuzzy Logic. citation:2 ncitation:3 pid694531
+title1:Swarm Intelligence in Data Mining title2:Swarm intelligence in data mining citation:34 ncitation:75 pid1168011
+title1:ANTIDS: Self Orga nized Ant-Based C lustering Model for Intrusion Det ection System. title2:ANTIDS: Self Orga nized Ant-Based C lustering Model for Intrusion Det ection System citation:42 ncitation:36 pid697999
+title1:Soft Modeling of Group Dynamics and Behavioral Attributes. title2:Soft Modeling of Group Dynamics and Behavioral Attributes citation:0 ncitation:1 pid2255178
+title1:Fuzzy Adaptive Turbulent Particle Swarm Optimization. title2:A fuzzy adaptive turbulent particle swarm optimisation citation:103 ncitation:89 pid1168016
+title1:Swarm intelligence based rough set reduction scheme for support vector machines. title2:Swarm intelligence based rough set reduction scheme for support vector machines citation:2 ncitation:1 pid1002447
+title1:Variable Neighborhood Particle Swarm Optimization for Multi-objective Flexible Job-Shop Scheduling Problems. title2:Variable neighborhood particle swarm optimization for multi-objective flexible job-shop scheduling problems citation:48 ncitation:35 pid251850
+title1:Feature deduction and ensemble design of intrusion detection systems. title2:Feature deduction and ensemble design of intrusion detection systems citation:303 ncitation:279 pid1260007
+title1:Automatic Programming Methodologies for Electronic Hardware Fault Monitoring. title2:Automatic Programming Methodologies for Electronic Hardware Fault Monitoring. citation:1 ncitation:1 pid1046944
+title1:Texture Classification Based on DCT and Soft Computing. title2:Texture classification based on DCT and soft computing citation:29 ncitation:26 pid694586
+title1:An ensemble of neural networks for weather forecasting. title2:An ensemble of neural networks for weather forecasting citation:106 ncitation:79 pid152708
+title1:Time-series forecasting using flexible neural tree model. title2:Time-series forecasting using flexible neural tree model citation:177 ncitation:170 pid1360265
+title1:Hybrid artificial neural network. title2:Hybrid artificial neural network citation:1 ncitation:1 pid251782
+title1:Adaptive Neuro-Fuzzy Intrusion Detection Systems. title2:Adaptive neuro-fuzzy intrusion detection systems citation:70 ncitation:59 pid721915
+title1:Hybrid Intelligent Systems for Stock Market Analysis. title2:Hybrid intelligent systems for stock market analysis citation:83 ncitation:73 pid804227
+title1:MARS: Still an Alien Planet in Soft Computing? title2:MARS: Still an Alien Planet in Soft Computing? citation:0 ncitation:23 pid251773
+title1:Cultural-Based Genetic Algorithm: Design and Real World Applications. title2:Cultural-Based Genetic Algorithm: Design and Real World Applications citation:0 ncitation:0 pid251724
+title1:Collaborative Agent Learning Using Neurocomputing. title2:Collaborative agent learning using neurocomputing citation:1 ncitation:2 pid2419921
+title1:Evolving Turbo Code Interleavers by Genetic Algorithms. title2:Evolving turbo code interleavers by genetic algorithms citation:2 ncitation:3 pid1184160
+title1:Swarm Intelligence Algorithms in Bioinformatics. title2:Swarm intelligence algorithms in bioinformatics citation:31 ncitation:26 pid760721
+title1:Comparison of Heuristics for Scheduling Independent Tasks on Heterogeneous Distributed Environments. title2:Comparison of heuristics for scheduling independent tasks on heterogeneous distributed environments citation:66 ncitation:44 pid2155532
+title1:Swarm Intelligence Algorithms for Data Clustering. title2:Swarm intelligence algorithms for data clustering citation:72 ncitation:59 pid1002356
+title1:GerAmi: Improving Healthcare Delivery in Geriatric Residences. title2:GerAmi: Improving healthcare delivery in geriatric residences citation:67 ncitation:52 pid221530
+title1:Exploration of Pareto Frontier Using a Fuzzy Controlled Hybrid Line Search. title2:Exploration of Pareto Frontier Using a Fuzzy Controlled Hybrid Line Search citation:2 ncitation:2 pid1201524
+title1:Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques. title2:Neuro fuzzy systems: State-of-the-art modeling techniques citation:177 ncitation:172 pid696846
+title1:Engineering hybrid soft computing systems. title2:Engineering Hybrid Soft Computing Systems (Studies in Fuzziness and Soft Computing) citation:1 ncitation:-1 pid1021792
+title1:Computational intelligence to model the export behavior of multinational corporation subsidiaries in Malaysia. title2:Computational intelligence to model the export behavior of multinational corporation subsidiaries in Malaysia citation:2 ncitation:4 pid692544
+title1:The N/R One Time Password System. title2:The N/R One Time Password System (PDF) citation:0 ncitation:16 pid1001430
+title1:Scheduling Jobs on Computational Grids Using Fuzzy Particle Swarm Algorithm. title2:Scheduling jobs on computational grids using fuzzy particle swarm algorithm citation:70 ncitation:57 pid463513
+title1:Traffic Accident Analysis Using Machine Learning Paradigms. title2:Traffic Accident Analysis Using Machine Learning Paradigms. citation:35 ncitation:29 pid371762
+title1:Automatic circle detection on images with an adaptive bacterial foraging algorithm. title2:Automatic circle detection on digital images with an adaptive bacterial foraging algorithm citation:32 ncitation:16 pid2421094
+title1:A Swarm-Based Rough Set Approach for Group Decision Support Systems. title2:A Swarm-based Rough Set Approach for Group Decision Support Systems citation:1 ncitation:-1 pid1022026
+title1:Hybrid flexible neural-tree-based intrusion detection systems. citation:57 ncitation:50 pid2204974
+title1:Design Methodology of a Fault Aware Controller Using an Incipient Fault Diagonizer. title2:Design Methodology of a Fault Aware Controller Using an Incipient Fault Diagonizer citation:2 ncitation:2 pid2433060
+title1:Artificial immune system inspired behavior-based anti-spam filter. title2:Artificial immune system inspired behavior-based anti-spam filter citation:33 ncitation:31 pid2197354
+title1:ANTIDS: Self-Organized Ant-based Clustering Model for Intrusion Detection System title2:ANTIDS: Self Orga nized Ant-Based C lustering Model for Intrusion Det ection System citation:42 ncitation:36 pid727338
+title1:Optimization of Turbo Codes by Differential Evolution and Genetic Algorithms. title2:Optimization of turbo codes by differential evolution and genetic algorithms citation:1 ncitation:-1 pid685349
+title1:Web Intelligence and Chance Discovery. title2:Web intelligence and chance discovery citation:0 ncitation:-1 pid277971
+title1:Analysis of Hybrid Soft and Hard Computing Techniques for Forex Monitoring Systems title2:Analysis of hybrid soft and hard computing techniques for forex monitoring systems citation:31 ncitation:26 pid277975
+title1:Business Intelligence from Web Usage Mining title2:Business intelligence from web usage mining citation:66 ncitation:55 pid2196284
+title1:EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using Neural Network Learning and Evolutionary Computation title2:EvoNF: A framework for optimization of fuzzy inference systems using neural network learning and evolutionary computation citation:46 ncitation:44 pid2122382
+title1:Optimization of Evolutionary Neural Networks Using Hybrid Learning Algorithms title2:Optimization of evolutionary neural networks using hybrid learning algorithms citation:32 ncitation:30 pid456794
+title1:Export Behaviour Modeling Using EvoNF Approach title2:Export behaviour modeling using EvoNF approach citation:2 ncitation:3 pid948672
+title1:Short Term Load Forecasting Models in Czech Republic Using Soft Computing Paradigms title2:Short Term Load Forecasting Models in Czech Republic Using Soft Computing Paradigms citation:0 ncitation:14 pid1321427
+title1:Decision Support Systems Using Intelligent Paradigms title2:Decision support systems using intelligent paradigms citation:3 ncitation:2 pid339627
+title1:Rough Set Granularity in Mobile Web Pre-caching. title2:Rough Set Granularity in Mobile Web Pre-Caching citation:2 ncitation:1 pid727379
+title1:IDEAS: Intrusion Detection based on Emotional Ants for Sensors. title2:IDEAS: intrusion detection based on emotional ants for sensors citation:35 ncitation:28 pid1200871
+title1:Meta learning evolutionary artificial neural networks. title2:Meta learning evolutionary artificial neural networks citation:132 ncitation:126 pid1316477
+title1:Swarm Intelligence in Data Mining. title2:Swarm intelligence in data mining citation:34 ncitation:75 pid1200853
+title1:Design of fractional order PID controllers with an improved differential evolution. citation:90 ncitation:72 pid875987
+title1:Modeling Intrusion Detection Systems Using Linear Genetic Programming Approach. title2:Modeling intrusion detection systems using linear genetic programming approach citation:62 ncitation:56 pid252029
+title1:L-wrappers: concepts, properties and construction. title2:L-wrappers: concepts, properties and construction citation:0 ncitation:6 pid2203926
+title1:Evolving a Stigmergic Self-Organized Data-Mining title2:Evolving a stigmergic self-organized data-mining citation:41 ncitation:38 pid1381540
+title1:Swarm Intelligence: Foundations, Perspectives and Applications. title2:Swarm intelligence: foundations, perspectives and applications citation:115 ncitation:101 pid917083
+title1:A Neuro-Fuzzy Approach for Modelling Electricity Demand in Victoria title2:A neuro-fuzzy approach for modelling electricity demand in Victoria citation:110 ncitation:101 pid461881
+title1:Foundations of Computational Intelligence - Volume 6: Data Mining title2:Foundations of Computational Intelligence: Volume 6: Data Mining citation:1 ncitation:1 pid461883
+title1:Intelligent Systems: Architectures and Perspectives title2:Intelligent systems: Architectures and perspectives citation:5 ncitation:46 pid2199373
+title1:Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques title2:Neuro fuzzy systems: State-of-the-art modeling techniques citation:177 ncitation:172 pid2405012
+title1:Economic Load Dispatch Using a Chemotactic Differential Evolution Algorithm. title2:Economic load dispatch using a chemotactic differential evolution algorithm citation:2 ncitation:-1 pid2262509
+title1:Modeling Chaotic Behavior of Stock Indices Using Intelligent Paradigms title2:Modeling chaotic behavior of stock indices using intelligent paradigms citation:56 ncitation:48 pid456879
+title1:Intrusion Detection Systems Using Adaptive Regression Splines title2:Intrusion Detection Systems Using Adaptive Regression Spines citation:52 ncitation:44 pid473972
+title1:Meta-Learning Evolutionary Artificial Neural Networks title2:Meta learning evolutionary artificial neural networks citation:132 ncitation:126 pid1362614
+title1:Extracting Multi-knowledge from fMRI Data through Swarm-Based Rough Set Reduction. title2:Extracting Multi-Knowledge from fMRI Data through Swarm-based Rough Set Reduction citation:1 ncitation:-1 pid227947
+title1:Decision Support Systems Using Ensemble Genetic Programming. title2:Decision Support Systems Using Ensemble Genetic Programming citation:2 ncitation:1 pid1323318
+title1:Optimal Design of Neural Nets Using Hybrid Algorithms. title2:Optimal design of neural nets using hybrid algorithms citation:40 ncitation:39 pid374609
+title1:A neuro-fuzzy approach for modelling electricity demand in Victoria. title2:A neuro-fuzzy approach for modelling electricity demand in Victoria citation:110 ncitation:101 pid434224
+title1:Synergy of PSO and Bacterial Foraging Optimization - A Comparative Study on Numerical Benchmarks. citation:122 ncitation:104 pid824315
+title1:Business Intelligence from Web Usage Mining. title2:Business intelligence from web usage mining citation:66 ncitation:55 pid1323273
+title1:Implicit User Modelling Using Hybrid Meta-Heuristics. title2:Implicit User Modelling Using Hybrid Meta-heuristics citation:2 ncitation:1 pid2242086
+title1:Collaborative agent learning using hybrid neurocomputing. title2:Collaborative agent learning using hybrid neurocomputing. citation:1 ncitation:1 pid631495
+title1:Evolutionary Design of Intrusion Detection Programs. title2:Evolutionary Design of Intrusion Detection Programs. citation:71 ncitation:61 pid816160
+title1:Genetic Algorithms Evolving Quasigroups with Good Pseudorandom Properties. title2:Genetic algorithms evolving quasigroups with good pseudorandom properties citation:2 ncitation:2 pid816167
+title1:Data Warehousing for Rough Web Caching and Pre-fetching. title2:Data Warehousing for Rough Web Caching and Pre-fetching citation:1 ncitation:1 pid816168
+title1:Testing the properties of large quasigroups. title2:Testing the properties of large quasigroups citation:1 ncitation:-1 pid251283
+title1:A Very Simple Approach for 3-D to 2-D Mapping title2:A Very Simple Approach for 3-D to 2-D Mapping citation:0 ncitation:0 pid909914
+title1:Computational models and heuristic methods for Grid scheduling problems. title2:Computational models and heuristic methods for Grid scheduling problems citation:131 ncitation:112 pid1323341
+title1:An auction method for resource allocation in computational grids. title2:An auction method for resource allocation in computational grids citation:45 ncitation:33 pid816147
+title1:An Improved Harmony Search Algorithm with Differential Mutation Operator. title2:An improved harmony search algorithm with differential mutation operator citation:34 ncitation:20 pid1234569
+title1:Rough Sets and Near Sets in Medical Imaging: A Review. title2:Rough sets and near sets in medical imaging: a review citation:74 ncitation:67 pid434268
+title1:Design of fractional-order PID controllers with an improved differential evolution. citation:90 ncitation:72 pid816149
+title1:Computational Intelligence for Technology Enhanced Learning title2:Computational intelligence for technology enhanced learning citation:1 ncitation:-1 pid1216427
+title1:Intelligent and Interactive Web-Based Tutoring System in Engineering Education: Reviews, Perspectives and Development. title2:Intelligent and interactive web-based tutoring system in engineering education: reviews, perspectives and development citation:3 ncitation:1 pid816155
+title1:Granular Mining of Student's Learning Behavior in Learning Management System Using Rough Set Technique. title2:Granular Mining of Student's Learning Behavior in Learning Management System Using Rough Set Technique citation:1 ncitation:1 pid816154
+title1:Foundations of Computational Intelligence, Volume 1: Learning and Approximation title2:Foundations of Computational Intelligence: Volume 1: Learning and Approximation citation:1 ncitation:-1 pid816153
+title1:Foundations of Computational Intelligence - Volume 2: Approximate Reasoning title2:Foundations of Computational Intelligence Volume 2: Approximate Reasoning citation:2 ncitation:0 pid816152
+title1:Foundations of Computational Intelligence - Volume 4: Bio-Inspired Data Mining title2:Foundations of Computational Intelligence: Volume 4: Bio-Inspired Data Mining citation:1 ncitation:1 pid816157
+title1:Bacterial Foraging Optimization Algorithm: Theoretical Foundations, Analysis, and Applications. title2:Bacterial foraging optimization algorithm: theoretical foundations, analysis, and applications citation:62 ncitation:34 pid911091
+title1:A vision-based navigation system of mobile tracking robot. title2:A vision-based navigation system of mobile tracking robot citation:0 ncitation:-1 pid1203134
+title1:Automatic shell clustering using a metaheuristic approach. title2:Automatic shell clustering using a metaheuristic approach citation:0 ncitation:-1 pid253407
+title1:Modified differential evolution algorithm for parameter estimation in mathematical models. title2:Modified differential evolution algorithm for parameter estimation in mathematical models citation:1 ncitation:-1 pid372329
+title1:Fuzzy C-means and fuzzy swarm for fuzzy clustering problem. title2:Fuzzy C-means and fuzzy swarm for fuzzy clustering problem citation:42 ncitation:25 pid2323481
+title1:Scheduling jobs on computational grids using a fuzzy particle swarm optimization algorithm. title2:Scheduling jobs on computational grids using a fuzzy particle swarm optimization algorithm citation:67 ncitation:51 pid1216373
+title1:Automatic circle detection on digital images with an adaptive bacterial foraging algorithm. title2:Automatic circle detection on digital images with an adaptive bacterial foraging algorithm citation:32 ncitation:16 pid722242
+title1:Adaptive Computational Chemotaxis in Bacterial Foraging Optimization: An Analysis. title2:Adaptive computational chemotaxis in bacterial foraging optimization: an analysis citation:87 ncitation:59 pid722243
+title1:Differential Evolution Using a Neighborhood-Based Mutation Operator. title2:Differential evolution using a neighborhood-based mutation operator citation:350 ncitation:293 pid1182254
+title1:MESFET DC model parameter extraction using Quantum Particle Swarm Optimization. title2:MESFET DC model parameter extraction using quantum particle swarm optimization citation:32 ncitation:26 pid457159
+title1:Artificial bee colony algorithm for small signal model parameter extraction of MESFET. title2:Artificial bee colony algorithm for small signal model parameter extraction of MESFET citation:64 ncitation:55 pid1200997
+title1:Evolving Quasigroups by Genetic Algorithms. title2:Evolving quasigroups by genetic algorithms citation:2 ncitation:2 pid760281
+title1:Testing Quasigroup Identities using Product of Sequence. title2:Testing Quasigroup Identities using Product of Sequence. citation:2 ncitation:2 pid1200993
+title1:Solving Multi Objective Stochastic Programming Problems Using Differential Evolution. title2:Solving Multi Objective Stochastic Programming Problems Using Differential Evolution citation:0 ncitation:0 pid1201001
+title1:Using heterogeneous wireless sensor networks in a telemonitoring system for healthcare. title2:Using heterogeneous wireless sensor networks in a telemonitoring system for healthcare citation:69 ncitation:45 pid2206785
+title1:On Stability of the Chemotactic Dynamics in Bacterial-Foraging Optimization Algorithm. title2:On stability of the chemotactic dynamics in bacterial-foraging optimization algorithm citation:44 ncitation:32 pid1203164
+title1:Particle swarm optimization: Hybridization perspectives and experimental illustrations. title2:Particle swarm optimization: Hybridization perspectives and experimental illustrations citation:52 ncitation:33 pid1203165
+title1:A Dynamic Priority Allocation Scheme of Messages for Differentiated Web Services Satisfying Service Level Agreement. title2:A Dynamic Priority Allocation Scheme of Messages for Differentiated Web Services Satisfying Service Level Agreement citation:2 ncitation:2 pid1415193
+title1:Web Services Practices. title2:Next Generation Web Services Practices citation:0 ncitation:-1 pid1182313
+title1:Impact of Node Mobility on MANET Routing Protocols Models. title2:Impact of node mobility on MANET routing protocols models citation:78 ncitation:57 pid2390737
+title1:Special issue on Digital Information Management. title2:Special issue on Digital Information Management. citation:0 ncitation:-1 pid457194
+title1:Enabling Automatic Just-in-time Evaluation of In-class Discussions in On-line Collaborative Learning Practices. title2:Enabling automatic just-in-time evaluation of in-class discussions in on-line collaborative learning practices citation:3 ncitation:-1 pid1655028
+title1:An Implementation of Differential Evolution for Independent Tasks Scheduling on GPU. title2:An implementation of differential evolution for independent tasks scheduling on GPU citation:2 ncitation:2 pid1203144
+title1:Clustering Categorical Data using a Swarm-based Method. title2:Clustering categorical data using a swarm-based method citation:3 ncitation:2 pid2311961
+title1:Convergence Analysis of Swarm Algorithm. title2:Dynamic trajectory and convergence analysis of swarm algorithm citation:3 ncitation:2 pid817222
+title1:IWO with Increased Deviation and Stochastic Selection (IWO-ID-SS) for Global Optimization of Noisy Fitness Functions. title2:IWO with Increased Deviation and Stochastic Selection (IWO-ID-SS) for global optimization of noisy fitness functions citation:2 ncitation:2 pid2791172
+title1:Large Quasigroups in Cryptography and their Properties Testing. title2:Large quasigroups in cryptography and their properties testing citation:1 ncitation:-1 pid2791173
+title1:Design of Optimal Digital IIR Filters by using a Bandwidth Adaptive Harmony Search Algorithm. title2:Design of optimal digital IIR filters by using a Bandwidth Adaptive Harmony Search algorithm citation:3 ncitation:4 pid2791176
+title1:Evolutionary Algorithms based Speed Optimization of Servo Motor in Optical Disc Systems. title2:Evolutionary Algorithms based speed optimization of servo motor in optical disc systems citation:1 ncitation:1 pid2791180
+title1:Prosima: Protein Similarity Algorithm. title2:Prosima: Protein similarity algorithm citation:2 ncitation:1 pid2793343
+title1:CAM based High-speed Compressed Data Communication System Development using FPGA. title2:CAM based high-speed compressed data communication system development using FPGA citation:1 ncitation:1 pid2802613
+title1:Multi swarms for neighbor selection in peer-to-peer overlay networks. title2:Multi swarms for neighbor selection in peer-to-peer overlay networks citation:3 ncitation:1 pid2835955
+title1:Exploratory Power of the Harmony Search Algorithm: Analysis and Improvements for Global Numerical Optimization. title2:Exploratory power of the harmony search algorithm: analysis and improvements for global numerical optimization citation:64 ncitation:34 pid2851366
+title1:Enabling Automatic Just-in-time Evaluation of In-class Discussions in On-line Collaborative Learning Practices. title2:Enabling automatic just-in-time evaluation of in-class discussions in on-line collaborative learning practices citation:3 ncitation:-1 pid2853341
+title1:Neuro-Fuzzy modelling of export behavior of multinational corporation subsidiaries. title2:Neuro-fuzzy modelling of export behaviour of multinational corporation subsidiaries citation:0 ncitation:1 pid2853374
+title1:Modeling chaotic behavior of stock indices using intelligent paradigms. title2:Modeling chaotic behavior of stock indices using intelligent paradigms citation:56 ncitation:48 pid2857275
+title1:Guest editorial: special issue on "Intelligent Systems, Design and Applications (ISDA'2009)". citation:0 ncitation:0 pid2859772
+title1:Image Watermarking Based on Invariant Representation of Polar Sine Transform. title2:Image Watermarking Based on Invariant Representation of Polar Sine Transform citation:1 ncitation:-1 pid2860086
+title1:Metaheuristic Clustering title2:Metaheuristic Clustering citation:33 ncitation:24 pid2860143
+title1:Fuzzy signatures organized using S-Tree. title2:Fuzzy signatures organized using S-Tree citation:2 ncitation:2 pid2869554
+title1:Advances in Computing and Communications - First International Conference, ACC 2011, Kochi, India, July 22-24, 2011. Proceedings title2:Advances in Computing and Communications, Part I: First International Conference, ACC 2011, Kochi, India, July 22-24, 2011. Proceedings citation:0 ncitation:-1 pid2896616
+title1:Self adaptive cluster based and weed inspired differential evolution algorithm for real world optimization. title2:Self adaptive cluster based and weed inspired differential evolution algorithm for real world optimization citation:0 ncitation:0 pid2896637
+title1:Peak-to-average power ratio reduction in OFDM systems using an adaptive differential evolution algorithm. title2:Peak-to-average power ratio reduction in OFDM systems using an adaptive differential evolution algorithm citation:1 ncitation:1 pid2896736
+title1:A Modified Discrete Differential Evolution based TDMA scheduling scheme for many to one communications in wireless sensor networks. title2:A Modified Discrete Differential Evolution based TDMA scheduling scheme for many to one communications in wireless sensor networks citation:3 ncitation:3 pid2896740
+title1:An Enhanced Fuzzy-Genetic Algorithm to Solve Satisfiability Problems. title2:An Enhanced Fuzzy-Genetic Algorithm to Solve Satisfiability Problems citation:0 ncitation:3 pid2896749
+title1:Programming Risk Assessment Models for Online Security Evaluation Systems. title2:Programming risk assessment models for online security evaluation systems citation:2 ncitation:2 pid2896787
+title1:Enhancing the Local Exploration Capabilities of Artificial Bee Colony Using Low Discrepancy Sobol Sequence. title2:Enhancing the local exploration capabilities of artificial bee colony using low discrepancy Sobol sequence citation:2 ncitation:1 pid2896789
+title1:Online Hand Gesture Recognition Using Surface Electromyography Based on Flexible Neural Trees. title2:Online hand gesture recognition using surface electromyography based on flexible neural trees citation:2 ncitation:1 pid2907813
+title1:Controller Tuning Using a Cauchy Mutated Artificial Bee Colony Algorithm. title2:Controller tuning using a cauchy mutated artificial bee colony algorithm citation:4 ncitation:2 pid2907990
+title1:Loop Strategies and Application of Rough Set Theory in Robot Soccer Game. title2:Loop strategies and application of rough set theory in robot soccer game citation:2 ncitation:2 pid2909492
+title1:Genetic search for quasigroups with heterogeneous power sequences. title2:Genetic search for quasigroups with heterogeneous power sequences citation:1 ncitation:-1 pid2929280
+title1:Known-plaintext attack of DES-16 using Particle Swarm Optimization. title2:Known-plaintext attack of DES-16 using Particle Swarm Optimization citation:1 ncitation:0 pid2929314
+title1:SVM-based soccer video summarization system. title2:SVM-based soccer video summarization system citation:2 ncitation:1 pid2942839
+title1:Cauchy movements for Artificial Bees for finding better food sources. title2:Cauchy movements for Artificial Bees for finding better food sources citation:1 ncitation:1 pid2948931
+title1:Design of fractional order PID controller using Sobol Mutated Artificial Bee Colony alogrithm. title2:Design of fractional order PID controller using Sobol Mutated Artificial Bee Colony alogrithm citation:0 ncitation:-1 pid2972387
+title1:A differential evolution based Memetic Algorithm for workload optimization in power generation plants. title2:A differential evolution based Memetic Algorithm for workload optimization in power generation plants citation:0 ncitation:0 pid2977692
+title1:Evolutionary improvement of search queries and its parameters. title2:Evolutionary improvement of search queries and its parameters citation:3 ncitation:2 pid2977705
+title1:An efficient memetic algorithm for parameter tuning of PID controller in AVR system. title2:An efficient memetic algorithm for parameter tuning of PID controller in AVR system citation:0 ncitation:0 pid2981564
+title1:Distributed Multiple Description Coding - Principles, Algorithms and Systems. title2:Distributed multiple description coding: principles, algorithms and systems citation:3 ncitation:0 pid2981667
+title1:Intelligent Networking, Collaborative Systems and Applications title2:Intelligent Networking, Collaborative Systems and Applications citation:2 ncitation:2 pid2981685
+title1:Flexible Neural Trees for Online Hand Gesture Recognition using surface Electromyography. title2:Flexible Neural Trees for Online Hand Gesture Recognition using surface Electromyography citation:2 ncitation:0 pid3054726
+title1:Using structural information and citation evidence to detect significant plagiarism cases in scientific publications. title2:Using structural information and citation evidence to detect significant plagiarism cases in scientific publications citation:3 ncitation:-1 pid3054733
+title1:Fuzzified Aho-Corasick search automata. title2:Fuzzified Aho-Corasick Search Automata citation:1 ncitation:-1 pid3054844
+title1:Fast intrusion detection system based on Flexible Neural Tree. title2:Fast intrusion detection system based on Flexible Neural Tree citation:2 ncitation:2 pid3055010
+title1:Link suggestions in terrorists networks using Semi Discrete Decomposition. title2:Link suggestions in terrorists networks using semi discrete decomposition citation:2 ncitation:2 pid3055062
+title1:Hybrid Artificial Intelligent Systems - 7th International Conference, HAIS 2012, Salamanca, Spain, March 28-30th, 2012. Proceedings, Part II title2:Hybrid Artificial Intelligent Systems: 7th International Conference, HAIS 2012, Salamanca, Spain, March 28-30th, 2012, Proceedings citation:1 ncitation:-1 pid3058712
+title1:Hybrid Artificial Intelligent Systems - 7th International Conference, HAIS 2012, Salamanca, Spain, March 28-30th, 2012. Proceedings, Part I title2:Hybrid Artificial Intelligent Systems: 7th International Conference, HAIS 2012, Salamanca, Spain, March 28-30th, 2012, Proceedings citation:1 ncitation:-1 pid3058768
+title1:Research of Neural Network Classifier Based on FCM and PSO for Breast Cancer Classification. title2:Research of neural network classifier based on FCM and PSO for breast cancer classification citation:2 ncitation:1 pid3058964
+title1:Improvement of hub strategy in robot soccer game. title2:Improvement of hub strategy in robot soccer game citation:1 ncitation:-1 pid3069896
+title1:Heavy facilities tension prediction using Flexible Neural Trees. title2:Heavy facilities tension prediction using Flexible Neural Trees citation:1 ncitation:-1 pid3071403
+title1:The deactivation network in brain during acute stress. title2:The deactivation network in brain during acute stress citation:1 ncitation:1 pid3080571
+title1:YAPS: Yet Another Protein Similarity. title2:YAPS: Yet Another Protein Similarity citation:1 ncitation:1 pid3091161
+title1:Concentric Circular Antenna Array synthesis using a differential Invasive Weed Optimization algorithm. title2:Concentric circular antenna array synthesis using a differential invasive weed optimization algorithm citation:2 ncitation:1 pid3111408
+title1:Solving stochastic programming problems using modified differential evolution algorithms. title2:Solving stochastic programming problems using modified differential evolution algorithms citation:2 ncitation:2 pid3111474
+title1:Special issue: Hybrid approaches for approximate reasoning. title2:Special issue: Hybrid approaches for approximate reasoning citation:1 ncitation:-1 pid3132088
+title1:A fuzzy matching approach for design pattern mining. title2:A fuzzy matching approach for design pattern mining citation:1 ncitation:1 pid3134538
+title1:Total time minimization of fuzzy transportation problem. title2:Total time minimization of fuzzy transportation problem citation:2 ncitation:2 pid3139058
+title1:Artificial Weed Colonies with Neighbourhood Crowding Scheme for Multimodal Optimization. title2:Artificial Weed Colonies with Neighbourhood Crowding Scheme for Multimodal Optimization citation:1 ncitation:0 pid3175689
+title1:Resolving mixed pixels by hybridization of biogeography based optimization and ant colony optimization. title2:Resolving mixed pixels by hybridization of biogeography based optimization and ant colony optimization citation:4 ncitation:-1 pid3175928
+title1:Meaningless to meaningful Web log data for generation of Web pre-caching decision rules using Rough Set. title2:Meaningless to meaningful Web log data for generation of Web pre-caching decision rules using Rough Set citation:1 ncitation:-1 pid3176040
+title1:Designing Beta Basis Function Neural Network for optimization using Artificial Bee Colony (ABC). title2:Designing Beta Basis Function Neural Network for Optimization Using Artificial Bee Colony (ABC) citation:2 ncitation:0 pid3178143
+title1:Special issue: New trends in ambient intelligence and bio-inspired systems. title2:Editorial: Special issue: New trends in ambient intelligence and bio-inspired systems citation:0 ncitation:0 pid3178172
+title1:Design Optimization of Induction Motors with differential Evolution Algorithms with an Application in Textile spinning. title2:Design optimization of induction motors with differential evolution algorithms with an application in textile spinning citation:1 ncitation:0 pid3178176
+title1:Learning the Classification of Traffic Accident Types. title2:Learning the classification of traffic accident types citation:6 ncitation:1 pid3194663
+title1:Enriching Ontology Concepts Based on Texts from WWW and Corpus. title2:Enriching Ontology Concepts Based on Texts from WWW and Corpus. citation:0 ncitation:-1 pid3194801
+title1:Elitist Teaching Learning Opposition based algorithm for global optimization. title2:Elitist Teaching Learning Opposition based algorithm for global optimization citation:1 ncitation:-1 pid3198357
+title1:Twitter part-of-speech tagging using pre-classification Hidden Markov model. title2:Twitter part-of-speech tagging using pre-classification Hidden Markov model citation:0 ncitation:0 pid3198373
+title1:Design of Adaptive IDS with Regulated Retraining Approach. title2:Design of Adaptive IDS with Regulated Retraining Approach citation:0 ncitation:-1 pid3198377
+title1:Self-Organizing Multi-Agent System for Management and Planning Surveillance Routes. title2:Self-Organizing Multi-Agent System for Management and Planning Surveillance Routes citation:0 ncitation:-1 pid3198455
+title1:Dynamic Trajectory and Convergence Analysis of Swarm Algorithm. title2:Dynamic trajectory and convergence analysis of swarm algorithm citation:3 ncitation:None pid3198460
+title1:Taxonomy of nature inspired computational intelligence: A remote sensing perspective. title2:Taxonomy of nature inspired computational intelligence: A remote sensing perspective citation:0 ncitation:None pid3210478
+title1:Degree-constrained minimum spanning tree problem using genetic algorithm. title2:Degree-constrained minimum spanning tree problem using genetic algorithm citation:0 ncitation:None pid3212325
+title1:A secure and lightweight approach for critical data security in cloud. title2:A secure and lightweight approach for critical data security in cloud citation:1 ncitation:None pid3212375
+title1:Searching similar images - Vector quantization with S-tree. citation:0 ncitation:-1 pid3220109
+title1:Toward a lightweight framework for monitoring public clouds. title2:Toward a lightweight framework for monitoring public clouds citation:3 ncitation:None pid3235482
+title1:Multi-knowledge extraction from violent crime datasets using swarm rough algorithm. title2:Multi-knowledge extraction from violent crime datasets using swarm rough algorithm citation:0 ncitation:None pid3235490
+title1:Entropy analysis on multiple description video coding based on pre- and post-processing. title2:Entropy analysis on multiple description video coding based on pre-and post-processing citation:0 ncitation:None pid3236756
+title1:Agent based adaptive firefly back-propagation neural network training method for dynamic systems. title2:Agent based adaptive firefly back-propagation neural network training method for dynamic systems citation:0 ncitation:None pid3240388
+title1:A novel genetic algorithm based on immunity and its application. title2:A novel genetic algorithm based on immunity and its application citation:0 ncitation:None pid3256689
+title1:Analysis of loop strategies in robot soccer game. title2:Analysis of loop strategies in robot soccer game citation:0 ncitation:-1 pid3263960
+title1:Soft Computing Models in Industrial and Environmental Applications, 7th International Conference, SOCO'12, Ostrava, Czech Republic, September 5th-7th, 2012 citation:0 ncitation:-1 pid3276355

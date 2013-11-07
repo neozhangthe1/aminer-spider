@@ -1,0 +1,344 @@
+title:Object-Relational Spatial Indexing. citation:-1
+title:Efficient Similarity Search in Digital Libraries. citation:-1
+title:Semi-Supervised Threshold Queries on Pharmacogenomics Time Sequences. citation:-1
+title:Supervised Ensembles of Prediction Methods for Subcellular Localization. citation:-1
+title:Formal translations and the containment problem for Szilard languages. citation:-1
+title:Potentials for Improving Query Processing in Spatial Database Systems (article invité). citation:-1
+title:Query Processing in Spatial Database Systems. citation:-1
+title:Spatial Data Management for Virtual Product Development. citation:-1
+title:Eine Speicher- und Zugriffsarchitektur zur effizienten Anfragebearbeitung in Geo-Datenbanksystemen. citation:-1
+title:Section Coding: Ein Verfahren zur Ähnlichkeitssuche in CAD-Datenbanken. citation:-1
+title:Database Primitives for Spatial Data Mining. citation:-1
+title:Formbasierte Suche nach komplementären 3D-Oberflächen in einer Protein-Datenbank. citation:-1
+title:Efficient Similarity Search on Vector Sets. citation:-1
+title:Visualisierungstechniken zur Exploration und Analyse sehr großer Datenbanken. citation:-1
+title:Measuring the Quality of Approximated Clusterings. citation:-1
+title:The Paradigm of Relational Indexing: a Survey. citation:-1
+title:The TR-Tree: A New Representation of Polygonal Objects Supporting Spatial Queries and Operations. citation:-1
+title:High Performance Clustering Based on the Similarity Join. citation:-1
+title:Efficient and effective server-sided distributed clustering. citation:-1
+title:Selecting Relevant Instances for Efficient and Accurate Collaborative Filtering. citation:-1
+title:Removing redundancy and inconsistency in memory-based collaborative filtering. citation:-1
+title:3DString: a feature string kernel for 3D object classification on voxelized data. citation:-1
+title:Query Translation Supporting the Migration of Legacy Databases into Cooperative Information Systems. citation:-1
+title:Knowledge Discovery in Spatial Databases. citation:-1
+title:Adaptable Similarity Search in Large Image Databases. citation:-1
+title:Effective Similarity Search on Voxelized CAD Object. citation:-1
+title:Statistic Driven Acceleration of Object-Relational Space-Partitioning Index Structures. citation:-1
+title:Distributed Intersection Join of Complex Interval Sequences. citation:-1
+title:Probabilistic Similarity Join on Uncertain Data. citation:-1
+title:Spatial Query Processing for High Resolutions. citation:-1
+title:A Cost Model for Spatial Intersection Queries on RI-Trees. citation:-1
+title:Multi-represented NN-Classification for Large Class Sets. citation:-1
+title:Probabilistic Nearest-Neighbor Query on Uncertain Objects. citation:-1
+title:Interval-Focused Similarity Search in Time Series Databases. citation:-1
+title:Detection and Visualization of Subspace Cluster Hierarchies. citation:-1
+title:Index-Supported Similarity Search Using Multiple Representations. citation:-1
+title:Approximate Clustering of Time Series Using Compact Model-Based Descriptions. citation:-1
+title:Analysis of Time Series Using Compact Model-Based Descriptions. citation:-1
+title:Periodic Pattern Analysis in Time Series Databases. citation:-1
+title:Techniques for Efficiently Searching in Spatial, Temporal, Spatio-temporal, and Multimedia Databases. citation:-1
+title:Optimal Multidimensional Query Processing Using Tree Striping. citation:-1
+title:Implementation of Multidimensional Index Structures for Knowledge Discovery in Relational Databases. citation:-1
+title:The Pruning Power: Theory and Heuristics for Mining Databases with Multiple -Nearest-Neighbor Queries. citation:-1
+title:Determining the Convex Hull in Large Multidimensional Databases. citation:-1
+title:Efficient Bulk Loading of Large High-Dimensional Indexes. citation:-1
+title:Optimal Dimension Order: A Generic Technique for the Similarity Join. citation:-1
+title:Adaptable Similarity Search Using Vector Quantization. citation:-1
+title:Incremental OPTICS: Efficient Computation of Updates in a Hierarchical Cluster Ordering. citation:-1
+title:Similarity Search in Structured Data. citation:-1
+title:Konzepte zur Suche geometrisch ähnlicher Bauteile. citation:-1
+title:Spatial Access Methods based on Dynamic Hashing. citation:-1
+title:Effective Decompositioning of Complex Spatial Objects into Intervals. citation:-1
+title:A Quality Measure for Distributed Clustering. citation:-1
+title:Classification of Websites as Sets of Feature Vectors. citation:-1
+title:Using Visualization to Support Data Mining of Large Existing Databases. citation:-1
+title:Object-Oriented Querying of Existing Relations Databases. citation:-1
+title:Query Processing of Geometric Objects with Free Form Boundaries in Spatial Datbases. citation:-1
+title:A Flexible and Extensible Index Manager for Spatial Database Systems. citation:-1
+title:Design, Implementation and Performance Comparison of the Buddy-Tree. citation:-1
+title:A Flexible and Extensible Index Manager for Spatial Database Systems. citation:-1
+title:The Performance of Object Decomposition Techniques for Spatial Query Processing. citation:-1
+title:The Combination of Spatial Access Methods and Computational Geometry in Geographic Database Systems. citation:-1
+title:Variational Bayesian Dirichlet-Multinomial Allocation for Exponential Family Mixtures. citation:-1
+title:Dynamically Optimizing High-Dimensional Index Structures. citation:-1
+title:MUSCLE: Music Classification Engine with User Feedback. citation:-1
+title:Improving the Query Performance of High-Dimensional Index Structures by Bulk-Load Operations. citation:-1
+title:VICO: Visualizing Connected Object Orderings. citation:-1
+title:Similarity Search on Time Series Based on Threshold Queries. citation:-1
+title:TQuEST: Threshold Query Execution for Large Sets of Time Series. citation:-1
+title:DBDC: Density Based Distributed Clustering. citation:-1
+title:Efficient Similarity Search for Hierarchical Data in Large Databases. citation:-1
+title:Reverse k-nearest neighbor search in dynamic and general metric databases. citation:-1
+title:Spiral Recurrent Neural Network for Online Learning. citation:-1
+title:The Inverted File Tree Machine: Efficient Multi-Key Retrieval for VLSI. citation:-1
+title:Retrieving of Parts with Geometric Similarity. citation:-1
+title:Feature Based Classification of Protein Docking Sites: An Algorithm for Large Databases and Experimental Results. citation:-1
+title:Similarity Search in 3D Protein Databases. citation:-1
+title:Efficient Query Processing on the Relational Quadtree. citation:-1
+title:Stochastic Driven Relational R-Tree. citation:-1
+title:Ein System zur postoperativen Erfassung von Narkoseprotokollen. citation:-1
+title:Multidimensional B-tree: An Efficient Dynamic File Structure for Exact Match Queries. citation:-1
+title:Measuring the Complexity of Polygonal Objects. citation:-1
+title:Object-relational management of complex geographical objects. citation:-1
+title:Proximity queries in large traffic networks. citation:-1
+title:Continuous proximity monitoring in road networks. citation:-1
+title:Ein zerlegungsbasierter Anfrageprozessor für Geo-Objekte und sein Leistungsverhalten. citation:-1
+title:Homogene Triangulation von Polygonen und deren Einbettung in einen Anfrageprozessor für Raumobjekte. citation:-1
+title:Eine effiziente und robuste Zugriffsstruktur für große Mengen polygonaler Objekte. citation:-1
+title:Effiziente Punkt- und Raumzugriffsstrukturen für Geo-Datenbanksysteme - Ein Leistungsvergleich. citation:-1
+title:Zeitversionen geometrischer Szenen in Datenbanksystemen. citation:-1
+title:Browsing and Sorting Digital Pictures Using Automatic Image Classification and Quality Analysis. citation:-1
+title:Left-Fitting Translations. citation:-1
+title:Threshold Similarity Queries in Large Time Series Databases. citation:-1
+title:A Cost Model and Index Architecture for the Similarity Join. citation:-1
+title:Independent Quantization: An Index Compression Technique for High-Dimensional Data Spaces. citation:-1
+title:Fast Nearest Neighbor Search in High-Dimensional Space. citation:-1
+title:BOSS: Browsing OPTICS-Plots for Similarity Search. citation:-1
+title:Efficiently Supporting Multiple Similarity Queries for Mining in Metric Databases. citation:-1
+title:Comparison of Approximations of Complex Objects Used for Approximation-based Query Processing in Spatial Database Systems. citation:-1
+title:Parallel Processing of Spatial Joins Using R-trees. citation:-1
+title:The DC-Tree: A Fully Dynamic Index Structure for Data Warehouses. citation:-1
+title:Efficient Similarity Search in Large Databases of Tree Structured Objects. citation:-1
+title:Supporting Data Mining of Large Databases by Visual Feedback Queries. citation:-1
+title:ViEWNet: Visual Exploration of Region-Wide Traffic Networks. citation:-1
+title:DIVE: Database Integration for Virtual Engineering. citation:-1
+title:Multidimensional Dynamic Quantile Hashing is Very Efficient for Non-Uniform Record Distributions. citation:-1
+title:PLOP-Hashing: A Grid File without Directory. citation:-1
+title:A Distribution-Based Clustering Algorithm for Mining in Large Spatial Databases. citation:-1
+title:MUSE: Multi-Represented Similarity Estimation. citation:-1
+title:T-Time: Threshold-Based Data Mining on Time Series. citation:-1
+title:Efficient Query Processing in Large Traffic Networks. citation:-1
+title:Incremental Reverse Nearest Neighbor Ranking. citation:-1
+title:Online Hierarchical Clustering in a Data Warehouse Environment. citation:-1
+title:Subspace Selection for Clustering High-Dimensional Data. citation:-1
+title:Density Connected Clustering with Local Subspace Preferences. citation:-1
+title:Shortest-Path Kernels on Graphs. citation:-1
+title:Efficient Density-Based Clustering of Complex Objects. citation:-1
+title:Effective and Efficient Distributed Model-Based Clustering. citation:-1
+title:A Generic Framework for Efficient Subspace Clustering of High-Dimensional Data. citation:-1
+title:Hierarchical Density-Based Clustering of Uncertain Data. citation:-1
+title:Hierarchy-Regularized Latent Semantic Indexing. citation:-1
+title:Pattern Mining in Frequent Dynamic Subgraphs. citation:-1
+title:COSMIC: Conceptually Specified Multi-Instance Clusters. citation:-1
+title:Metropolis Algorithms for Representative Subgraph Sampling. citation:-1
+title:On Optimizing Nearest Neighbor Queries in High-Dimensional Data Spaces. citation:-1
+title:Multidimensional Order Preserving Linear Hashing with Partial Expansions. citation:-1
+title:Efficient Join Processing for Complex Rasterized Objects. citation:-1
+title:Hierarchical Genre Classification for Large Music Collections. citation:-1
+title:Dirichlet enhanced relational learning. citation:-1
+title:Collaborative ordinal regression. citation:-1
+title:Approximations for a Multi-Step Processing of Spatial Joins. citation:-1
+title:Integrating structured biological data by Kernel Maximum Mean Discrepancy. citation:-1
+title:Nearest Neighbor Classification in 3D Protein Databases. citation:-1
+title:Solvent Accessible Surface Representation in a Database System for Protein Docking. citation:-1
+title:Visual Classification: An Interactive Approach to Decision Tree Construction. citation:-1
+title:Deriving quantitative models for correlation clusters. citation:-1
+title:Towards an effective cooperation of the user and the computer for classification. citation:-1
+title:Algorithms for Characterization and Trend Detection in Spatial Databases. citation:-1
+title:Web site mining: a new way to spot competitors, customers and suppliers in the world wide web. citation:-1
+title:Density-Connected Sets and their Application for Trend Detection in Spatial Databases. citation:-1
+title:A Database Interface for Clustering in Large Spatial Databases. citation:-1
+title:Density-based clustering of uncertain data. citation:-1
+title:Supervised probabilistic principal component analysis. citation:-1
+title:Angle-based outlier detection in high-dimensional data. citation:-1
+title:Content-Based Image Retrieval Using Multiple Representations. citation:-1
+title:Knowledge Discovery in Spatial Databases. citation:-1
+title:Weighted Multidimensional B-trees Used as Nearly Optimal Dynamic Dictionaries. citation:-1
+title:Knowing a tree from the forest: art image retrieval using a society of profiles. citation:-1
+title:Database Support for Haptic Exploration in Very Large Virtual Environments. citation:-1
+title:Effective similarity search in multimedia databases using multiple representations. citation:-1
+title:Similarity Search in Multimedia Time Series Data Using Amplitude-Level Features. citation:-1
+title:Distribution-Based Similarity for Multi-represented Multimedia Objects. citation:-1
+title:Clustering Multi-represented Objects Using Combination Trees. citation:-1
+title:Parallel Density-Based Clustering of Complex Objects. citation:-1
+title:Clustering Multi-represented Objects with Noise. citation:-1
+title:Approximated Clustering of Distributed High-Dimensional Data. citation:-1
+title:An EM-Approach for Clustering Multi-Instance Objects. citation:-1
+title:Multi-represented Classification Based on Confidence Estimation. citation:-1
+title:Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data. citation:-1
+title:Hot Item Detection in Uncertain Data. citation:-1
+title:Finding Hierarchies of Subspace Clusters. citation:-1
+title:OPTICS-OF: Identifying Local Outliers. citation:-1
+title:Fast Hierarchical Clustering Based on Compressed Data and OPTICS. citation:-1
+title:Scalable Density-Based Distributed Clustering. citation:-1
+title:Ranking Interesting Subspaces for Clustering High Dimensional Data. citation:-1
+title:A Probabilistic Clustering-Projection Model for Discrete Data. citation:-1
+title:Database Support for Concurrent Digital Mock-up. citation:-1
+title:Class Prediction from Time Series Gene Expression Profiles Using Dynamical Systems Kernels. citation:-1
+title:Graph Kernels For Disease Outcome Prediction From Protein-Protein Interaction Networks. citation:-1
+title:Integration of Relational Databases in a Multidatabase System based on Schema Enrichment. citation:-1
+title:Visually Mining through Cluster Hierarchies. citation:-1
+title:Using Support Vector Machines for Classifying Large Sets of Multi-Represented Objects. citation:-1
+title:Advanced Prototype Machines: Exploring Prototypes for Classification. citation:-1
+title:Instance Selection Techniques for Memory-based Collaborative Filtering. citation:-1
+title:Robust, Complete, and Efficient Correlation Clustering. citation:-1
+title:Statistical Density Prediction in Traffic Networks. citation:-1
+title:Fast Parallel Similarity Search in Multimedia Databases. citation:-1
+title:The Pyramid-Technique: Towards Breaking the Curse of Dimensionality. citation:-1
+title:S3: Similarity Search in CAD Database Systems. citation:-1
+title:Epsilon Grid Order: An Algorithm for the Similarity Join on Massive High-Dimensional Data. citation:-1
+title:VGM: visual graph mining. citation:-1
+title:Data Bubbles: Quality Preserving Performance Boosting for Hierarchical Clustering. citation:-1
+title:GENESYS: A System for Efficient Spatial Query Processing. citation:-1
+title:VisDB: A System for Visualizing Large Databases. citation:-1
+title:Performance Comparison of Index Structures for Multi-Key Retrieval. citation:-1
+title:Using Sets of Feature Vectors for Similarity Search on Voxelized CAD Objects. citation:-1
+title:Spatial Data Management for Computer Aided Design. citation:-1
+title:Handling geometric objects with free form curves in spatial databases. citation:-1
+title:Accurate and Efficient Similarity Search on 3D Objects Using Point Sampling, Redundancy, and Proportionality. citation:-1
+title:XZ-Ordering: A Space-Filling Curve for Objects with Spatial Extension. citation:-1
+title:Selectivity Estimation of High Dimensional Window Queries via Clustering. citation:-1
+title:A Storage and Access Architecture for Efficient Query Processing in Spatial Database Systems. citation:-1
+title:Combination of Spatial Access Methods and Computational Geometry in Geographic Database Systems. citation:-1
+title:The Performance of Object Decomposition Techniques for Spatial Query Processing. citation:-1
+title:Interval Sequences: An Object-Relational Approach to Manage Spatial Data. citation:-1
+title:Object-Relational Indexing for General Interval Relationships. citation:-1
+title:Performance Comparison of Point and Spatial Access Methods. citation:-1
+title:3D Similarity Search by Shape Approximation. citation:-1
+title:Query Processing of Spatial Objects: Complexity versus Redundancy. citation:-1
+title:A 3D Molecular Surface Representation Supporting Neighborhood Queries. citation:-1
+title:Generalizing the Optimality of Multi-step -Nearest Neighbor Query Processing. citation:-1
+title:Acceleration of Relational Index Structures Based on Statistics. citation:-1
+title:Efficient Query Processing on Relational Data-Partitioning Index Structures. citation:-1
+title:Spatial Join for High-Resolution Objects. citation:-1
+title:Clustering Moving Objects via Medoid Clusterings. citation:-1
+title:Fuzzy Decomposition of Spatially Extended Objects. citation:-1
+title:A Cost Model for Interval Intersection Queries on RI-Trees. citation:-1
+title:Efficient Query Processing in Arbitrary Subspaces Using Vector Approximations. citation:-1
+title:On Exploring Complex Relationships of Correlation Clusters. citation:-1
+title:Hierarchical Graph Embedding for Efficient Query Processing in Very Large Traffic Networks. citation:-1
+title:A General Framework for Increasing the Robustness of PCA-Based Correlation Clustering Algorithms. citation:-1
+title:Time Series Analysis Using the Concept of Adaptable Threshold Similarity. citation:-1
+title:ProUD: Probabilistic Ranking in Uncertain Databases. citation:-1
+title:ELKI: A Software System for Evaluation of Subspace Clustering Algorithms. citation:-1
+title:Dynamic k-Dimensional Multiway Search under Time-Varying Access Frequencies. citation:-1
+title:Infinite Hidden Relational Models. citation:-1
+title:Entwurf eines Bioindikations-Datenbanksystems. citation:-1
+title:Possibilities and Limits in Visualizing Large Databases. citation:-1
+title:Visual Feedback in Querying Large Databases. citation:-1
+title:Improving Adaptable Similarity Query Processing by Using Approximations. citation:-1
+title:The Impact of Global Clustering on Spatial Database Systems. citation:-1
+title:Accurate and Efficient Crawling for Relevant Websites. citation:-1
+title:Managing Intervals Efficiently in Object-Relational Databases. citation:-1
+title:Techniques for Design and Implementation of Efficient Spatial Access Methods. citation:-1
+title:Fast Inference in Infinite Hidden Relational Models. citation:-1
+title:An Efficient Sampling Scheme For Comparison of Large Graphs. citation:-1
+title:Optimum Multiway Search Trees. citation:-1
+title:Spatial Data Mining: Database Primitives, Algorithms and Efficient DBMS Support. citation:-1
+title:A Fast Parallel Clustering Algorithm for Large Spatial Databases. citation:-1
+title:Future trends in data mining. citation:-1
+title:Immer größere und komplexere Datenmengen: Herausforderungen für Clustering-Algorithmen. citation:-1
+title:Der virtualle Prototyp: Datenbankunterstützung für CAD-Anwendungen. citation:-1
+title:Komplexe Objektbeschreibungen zur Suche in Multimedia-Datenbanken. citation:-1
+title:Efficient Spatial Query Processing in Geographic Database Systems. citation:-1
+title:Similarity Search in Biological and Engineering Databases. citation:-1
+title:Approximation-Based Similarity Search for 3-D Surface Segments. citation:-1
+title:Formal Translations and Szilard Languages citation:-1
+title:Optimale Dimensionswahl bei der Bearbeitung des Similarity Join. citation:-1
+title:Perception-Based Classification. citation:-1
+title:Bioinformatik - Aktuelles Schlagwort. citation:-1
+title:Insertion-Safeness in Balanced Trees. citation:-1
+title:Multidimensional quantile hashing is very efficient for nonuniform distributions. citation:-1
+title:Space and time optimal algorithms for a class of rectangle intersection problems. citation:-1
+title:Multidimensional Index Structures in Relational Databases. citation:-1
+title:Combining Approximation Techniques and Vector Quantization for Adaptable Similarity Search. citation:-1
+title:Multi-step density-based clustering. citation:-1
+title:Extending metric index structures for efficient range query processing. citation:-1
+title:Feature Weighting and Instance Selection for Collaborative Filtering: An Information-Theoretic Approach*. citation:-1
+title:Clustering for Mining in Large Spatial Databases. citation:-1
+title:Indexing the Solution Space: A New Technique for Nearest Neighbor Search in High-Dimensional Space. citation:-1
+title:A Multistep Approach for Shape Similarity Search in Image Databases. citation:-1
+title:Multiple Similarity Queries: A Basic DBMS Operation for Mining in Metric Databases. citation:-1
+title:Visualization Techniques for Mining Large Databases: A Comparison. citation:-1
+title:Probabilistic Memory-Based Collaborative Filtering. citation:-1
+title:Multi-Output Regularized Feature Projection. citation:-1
+title:Using Extended Feature Objects for Partial Similarity Retrieval. citation:-1
+title:Detecting clusters in moderate-to-high dimensional data: subspace clustering, pattern-based clustering, and correlation clustering. citation:-1
+title:R*-Tree. citation:-1
+title:Indexing, X-Tree. citation:-1
+title:Probabilistic frequent itemset mining in uncertain databases. citation:-1
+title:Near-optimal Supervised Feature Selection among Frequent Subgraphs. citation:-1
+title:Incremental Reverse Nearest Neighbor Ranking in Vector Spaces. citation:-1
+title:ELKI in Time: ELKI 0.2 for the Performance Evaluation of Distance Measures for Time Series. citation:-1
+title:Probabilistic Similarity Search for Uncertain Time Series. citation:-1
+title:Reverse k-Nearest Neighbor Search Based on Aggregate Point Access Methods. citation:-1
+title:Extraction of semantic biomedical relations from text using conditional random fields. citation:-1
+title:LoOP: local outlier probabilities. citation:-1
+title:OSSOBOOK: database and knowledgemanagement techniques for archaeozoology. citation:-1
+title:Probabilistic Ranking in Uncertain Vector Spaces. citation:-1
+title:Constrained reverse nearest neighbor search on mobile objects. citation:-1
+title:Scalable Probabilistic Similarity Ranking in Uncertain Databases (Technical Report) citation:-1
+title:Supervised Ensembles of Prediction Methods for Subcellular Localization. citation:-1
+title:KDD Pipeline. citation:-1
+title:Hierarchical Bayesian Models for Collaborative Tagging Systems. citation:-1
+title:Subspace and projected clustering: experimental evaluation and analysis. citation:-1
+title:State-of-the-Art in Content-Based Image and Video Retrieval [Dagstuhl Seminar, 5-10 December 1999] citation:-1
+title:Visual Evaluation of Outlier Detection Models. citation:-1
+title:Techniques for efficiently searching in spatial, temporal, spatio-temporal, and multimedia databases. citation:-1
+title:Route skyline queries: A multi-preference path planning approach. citation:-1
+title:PAROS: pareto optimal route selection. citation:-1
+title:Boosting spatial pruning: on optimal pruning of MBRs. citation:-1
+title:Can Shared-Neighbor Distances Defeat the Curse of Dimensionality? citation:-1
+title:Towards Archaeo-informatics: Scientific Data Management for Archaeobiology. citation:-1
+title:Similarity Estimation Using Bayes Ensembles. citation:-1
+title:Optimizing All-Nearest-Neighbor Queries with Trigonometric Pruning. citation:-1
+title:Subspace Similarity Search: Efficient k-NN Queries in Arbitrary Subspaces. citation:-1
+title:Theoretical Computer Science, 6th GI-Conference, Dortmund, Germany, January 5-7, 1983, Proceedings citation:-1
+title:Probabilistic Frequent Pattern Growth for Itemset Mining in Uncertain Databases (Technical Report) citation:-1
+title:Investigating a Correlation between Subcellular Localization and Fold of Proteins. citation:-1
+title:Scalable Probabilistic Similarity Ranking in Uncertain Databases. citation:-1
+title:Similarity Search and Mining in Uncertain Databases. citation:-1
+title:Digging for knowledge with information extraction: a case study on human gene-disease associations. citation:-1
+title:Similarity Search in Time Series of Dynamical Model-based Systems. citation:-1
+title:Memory-efficient A*-search using sparse embeddings. citation:-1
+title:Reverse k-Nearest Neighbor monitoring on mobile objects. citation:-1
+title:Exploiting local node cache in top-k queries within wireless sensor networks. citation:-1
+title:Subspace similarity search using the ideas of ranking and top-k retrieval. citation:-1
+title:Discriminative frequent subgraph mining with optimality guarantees. citation:-1
+title:A Novel Probabilistic Pruning Approach to Speed Up Similarity Queries in Uncertain Databases citation:-1
+title:Metric spaces in data mining: applications to clustering. citation:-1
+title:On the impact of flash SSDs on spatial indexing. citation:-1
+title:A novel probabilistic pruning approach to speed up similarity queries in uncertain databases. citation:-1
+title:Multivariate Prediction for Learning on the Semantic Web. citation:-1
+title:Inverse Queries For Multidimensional Spaces citation:-1
+title:Maximum Gain Round Trips with Cost Constraints citation:-1
+title:Efficient Probabilistic Reverse Nearest Neighbor Query Processing on Uncertain Data. citation:-1
+title:Interpreting and Unifying Outlier Scores. citation:-1
+title:Continuous Inverse Ranking Queries in Uncertain Streams. citation:-1
+title:Density Based Subspace Clustering over Dynamic Data. citation:-1
+title:2D Image Registration in CT Images Using Radial Image Descriptors. citation:-1
+title:Spatial Outlier Detection: Data, Algorithms, Visualizations. citation:-1
+title:A Visual Evaluation Framework for Spatial Pruning Methods. citation:-1
+title:Continuous Probabilistic Count Queries in Wireless Sensor Networks. citation:-1
+title:Inverse Queries for Multidimensional Spaces. citation:-1
+title:MARiO: Multi-Attribute Routing in Open Street Map. citation:-1
+title:Quality of Similarity Rankings in Time Series. citation:-1
+title:Managing and Mining Multiplayer Online Games. citation:-1
+title:Region of Interest Queries in CT Scans. citation:-1
+title:TiP: Analyzing Periodic Time Series Patterns. citation:-1
+title:Revealing Cluster Formation over Huge Volatile Robotic Data. citation:-1
+title:Robust segmentation of relevant regions in low depth of field images. citation:-1
+title:A Three-Way Model for Collective Learning on Multi-Relational Data. citation:-1
+title:LOCAR: local compression of alternative routes. citation:-1
+title:gRecs: A Group Recommendation System Based on User Clustering. citation:-1
+title:Discovering global and local bursts in a stream of news. citation:-1
+title:Factorizing YAGO: scalable machine learning for linked data. citation:-1
+title:Knowing: a generic data analysis application. citation:-1
+title:Probabilistic Frequent Pattern Growth for Itemset Mining in Uncertain Databases. citation:-1
+title:Continuous Probabilistic Sum Queries in Wireless Sensor Networks with Ranges. citation:-1
+title:Subspace clustering. citation:-1
+title:A survey on unsupervised outlier detection in high-dimensional numerical data. citation:-1
+title:Efficient Traffic Density Prediction in Road Networks Using Suffix Trees. citation:-1
+title:Scalable Relation Prediction Exploiting Both Intrarelational Correlation and Contextual Information. citation:-1
+title:On Evaluation of Outlier Rankings and Outlier Scores. citation:-1
+title:Density-based Projected Clustering over High Dimensional Data Streams. citation:-1
+title:Evaluation of Clusterings - Metrics and Visual Support. citation:-1
+title:Querying Uncertain Spatio-Temporal Data. citation:-1
+title:Fast Group Recommendations by Applying User Clustering. citation:-1
+title:A Framework for Time-Aware Recommendations. citation:-1
+title:Indexing uncertain spatio-temporal data. citation:-1
+title:Exploration of monte-carlo based probabilistic query processing in uncertain graphs. citation:-1
+title:Probabilistic ranking in fuzzy object databases. citation:-1
+title:Outlier Detection in Arbitrarily Oriented Subspaces. citation:-1
+title:Robust Image Segmentation in Low Depth Of Field Images citation:-1

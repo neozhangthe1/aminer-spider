@@ -1,0 +1,282 @@
+title1:Combinatorial Aspects of Minimal DNA Expressions. title2:Combinatorial aspects of minimal DNA expressions citation:7 ncitation:7 pid159257
+title1:The Breakpoint Graph in Ciliates. title2:The breakpoint graph in ciliates citation:8 ncitation:8 pid111667
+title1:On the Generative Power of Regular Pattern Grammars. title2:On the generative power of regular pattern grammars citation:38 ncitation:35 pid741068
+title1:Graph Grammars with Neighbourhood-Controlled Embedding. title2:Graph grammars with neighbourhood-controlled embedding citation:72 ncitation:63 pid2248317
+title1:Restricting the complexity of regular DNLC languages. title2:Restricting the complexity of regular DNLC languages citation:3 ncitation:3 pid2396769
+title1:Tutorial on DNA Computing and Graph Transformation. title2:Tutorial on DNA Computing and Graph Transformation-Computational Nature of Gene Assembly in Ciliates citation:3 ncitation:0 pid1698000
+title1:Tutorial on DNA Computing and Graph Transformation - Computational Nature of Gene Assembly in Ciliates. title2:Tutorial on DNA Computing and Graph Transformation-Computational Nature of Gene Assembly in Ciliates citation:3 ncitation:3 pid228626
+title1:Computing Morphisms by Spiking Neural P Systems. title2:Computing morphisms by spiking neural P systems citation:5 ncitation:4 pid1716964
+title1:Basic Notions of Reaction Systems. title2:Basic notions of reaction systems citation:15 ncitation:12 pid228618
+title1:Graph Grammars Based on Node Rewriting: An Introduction to NLC Graph Grammars. title2:Graph grammars based on node rewriting: An introduction to NLC graph grammars citation:60 ncitation:61 pid228617
+title1:Membrane systems with carriers. title2:Membrane systems with carriers citation:42 ncitation:39 pid1711199
+title1:L Systems, Sequences and Languages. title2:L Systems, Sequences and Languages. citation:5 ncitation:5 pid2312223
+title1:On ET0L Systems with Rank. title2:On< i> ET</i> 0< i> L</i> Systems with rank citation:4 ncitation:4 pid158283
+title1:Finite Languages for the Representation of Finite Graphs. title2:Finite languages for the representation of finite graphs citation:6 ncitation:7 pid2400539
+title1:Petri nets and their relation to graph grammars. title2:Petri nets and their relation to graph grammars citation:10 ncitation:11 pid228668
+title1:On the Structure of Derivations in Deterministic ET0L Systems. title2:On the structure of derivations in deterministic ET0L systems citation:2 ncitation:1 pid1469239
+title1:Vector controlled concurrent systems, part II: comparisons. title2:Vector controlled concurrent systems, part II: comparisons citation:7 ncitation:7 pid228670
+title1:Shuffle on Trajectories: Syntactic Constraints. title2:Shuffle on trajectories: syntactic constraints citation:98 ncitation:97 pid1093259
+title1:Some Aspects of Random Context Grammars. title2:Some aspects of random context grammars citation:7 ncitation:8 pid860348
+title1:A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars. title2:A characterization of context-free string languages by directed node-label controlled graph grammars citation:29 ncitation:27 pid1721679
+title1:Fixed Point Languages, Equality Languages, and Representation of Recursively Enumerable Languages. title2:Fixed point languages, equality languages, and representation of recursively enumerable languages citation:98 ncitation:88 pid860347
+title1:A survey of equivalence notions for net based systems. title2:A survey of equivalence notions for net based systems citation:140 ncitation:126 pid1619892
+title1:Node Replacement Graph Grammars. title2:Node replacement graph grammars citation:116 ncitation:115 pid228651
+title1:Context-free Handle-rewriting Hypergraph Grammars. title2:Context-free handle-rewriting hypergraph grammars citation:31 ncitation:28 pid231175
+title1:DNA Computing, Sticker Systems, and Universality. title2:DNA computing, sticker systems, and universality citation:109 ncitation:105 pid1438193
+title1:Tree Transducers, L Systems, and Two-Way Machines. title2:Tree transducers,< i> L</i> systems, and two-way machines citation:163 ncitation:149 pid971850
+title1:Cycles and communicating classes in membrane systems and molecular dynamics. title2:Cycles and communicating classes in membrane systems and molecular dynamics citation:8 ncitation:8 pid228700
+title1:Grammars Based on the Shuffle Operation. title2:Grammars based on the shuffle operation citation:5 ncitation:5 pid881963
+title1:A Morphic Representation of Complements of Recursively Enumerable Sets. title2:A morphic representation of complements of recursively enumerable sets citation:6 ncitation:6 pid971847
+title1:The Sequence Equivalence Problem is Decidable for 0S Systems. title2:The Sequence Equivalence Problem is Decidable for 0S Systems citation:3 ncitation:3 pid1093350
+title1:The many facets of natural computing. title2:The many facets of natural computing citation:125 ncitation:116 pid231176
+title1:Embedding in Switching Classes with Skew Gains. title2:Embedding in switching classes with skew gains citation:4 ncitation:4 pid1619916
+title1:Modelling in Molecular Biology title2:Modelling in molecular biology citation:13 ncitation:12 pid1627448
+title1:Topics in the theory of DNA computing. title2:Topics in the theory of DNA computing citation:57 ncitation:48 pid950203
+title1:On Recursion in ET0L Systems. title2:On recursion in ETOL systems citation:3 ncitation:2 pid228672
+title1:Context-Free Grammars with Graph-Controlled Tables. title2:Context-free grammars with graph-controlled tables citation:13 ncitation:14 pid1402252
+title1:Some Properties of the Class of L Languages with Interactions. title2:Some properties of the class of< i> L</i> languages with interactions citation:12 ncitation:12 pid933632
+title1:DNA Processing in Ciliates - the Wonders of DNA Computing in vivo. citation:4 ncitation:-1 pid228723
+title1:A Comparison of Boundary Graph Grammars and Context-Free Hypergraph Grammars title2:A comparison of boundary graph grammars and context-free hypergraph grammars citation:64 ncitation:58 pid1404198
+title1:From Micro to Macro: How the Overlap Graph Determines the Reduction Graph in Ciliates. title2:From micro to macro: how the overlap graph determines the reduction graph in ciliates citation:3 ncitation:3 pid971875
+title1:Equality Languages and Fixed Point Languages title2:Equality languages and fixed point languages citation:33 ncitation:26 pid159339
+title1:ReMembrane Systems with Coupled Transport: Universality and Normal Forms. title2:Membrane systems with coupled transport: universality and normal forms citation:32 ncitation:32 pid1095543
+title1:A Tranlsational Theorem for the Class of EOL Languages title2:A translational theorem for the class of EOL languages citation:3 ncitation:3 pid839154
+title1:Dynamic change within workflow systems. title2:Dynamic change within workflow systems citation:570 ncitation:558 pid1002174
+title1:Application of Mismatch Detection Methods in DNA Computing. title2:Application of mismatch detection methods in DNA computing citation:4 ncitation:3 pid950163
+title1:Protein output for DNA computing. title2:Protein output for DNA computing citation:14 ncitation:12 pid228754
+title1:Modelling Simple Operations for Gene Assembly. title2:Modelling simple operations for gene assembly citation:20 ncitation:19 pid1096542
+title1:Parallel Generation of Maps: Developmental Systems for Cell Layers. title2:Parallel generation of maps: Developmental systems for cell layers citation:75 ncitation:66 pid3160
+title1:Graph grammars with node-label controlled rewriting and embedding. title2:Graph grammars with node-label controlled rewriting and embedding citation:43 ncitation:38 pid972892
+title1:Hypergraph systems generating graph languages. title2:Hypergraph systems generating graph languages citation:3 ncitation:3 pid972891
+title1:Structured Transformations and Computation Graphs for Actor Grammars. title2:Structured transformations and computation graphs for actor grammars citation:11 ncitation:11 pid634983
+title1:Parallelism in Gene Assembly. title2:Parallelism in gene assembly citation:17 ncitation:23 pid2396921
+title1:Reducibility of Gene Patterns in Ciliates using the Breakpoint Graph title2:Reducibility of gene patterns in ciliates using the breakpoint graph citation:20 ncitation:19 pid887776
+title1:Patterns of simple gene assembly in ciliates. title2:Patterns of simple gene assembly in ciliates citation:13 ncitation:12 pid494462
+title1:Repetition of Subwords in DOL Languages title2:Repetition of subwords in DOL languages citation:31 ncitation:30 pid887774
+title1:An Easy Proof of Greibach Normal Form title2:An easy proof of Greibach normal form citation:13 ncitation:11 pid1600350
+title1:Events and modules in reaction systems. title2:Events and modules in reaction systems citation:32 ncitation:27 pid882125
+title1:An Introduction to Dynamic Labled 2-Structures. title2:An introduction to dynamic labeled 2-structures citation:5 ncitation:5 pid887775
+title1:Continuous Grammars title2:Continuous grammars citation:11 ncitation:11 pid237120
+title1:The Number of Occurrences of Letters Versus Their Distribution in Some E0L Languages title2:The number of occurrences of letters versus their distribution in some EOL languages citation:19 ncitation:20 pid494461
+title1:Simplifications of Homomorphisms title2:Simplifications of homomorphisms citation:41 ncitation:40 pid2401751
+title1:On Basic Properties of DOS Systems and Languages title2:On basic properties of DOS systems and languages citation:12 ncitation:12 pid1021459
+title1:Chain code picture languages. title2:Chain code picture languages citation:18 ncitation:17 pid1096562
+title1:Combinatorial Properties of Dependence Graphs title2:Combinatorial properties of dependence graphs citation:3 ncitation:2 pid1021457
+title1:Fundamentals of edge-label controlled graph grammars. title2:Fundamentals of edge-label controlled graph grammars citation:4 ncitation:5 pid709871
+title1:Computational Processes in Living Cells: Gene Assembly in Ciliates. title2:Computational processes in living cells: gene assembly in ciliates citation:21 ncitation:18 pid1093130
+title1:Introducing time in reaction systems. title2:Introducing time in reaction systems citation:29 ncitation:23 pid909755
+title1:Pure interpretations for EOL forms. title2:Pure interpretations of EOL forms citation:5 ncitation:-1 pid228769
+title1:On the (Combinatorial) Structure of L Languages without Interactions title2:On the (combinatorial) structure of L languages without interactions citation:5 ncitation:6 pid158442
+title1:An introduction to the NLC way of rewriting graphs. title2:An introduction to the NLC way of rewriting graphs citation:29 ncitation:26 pid1227598
+title1:The Construction of Minimal DNA Expressions. title2:The construction of minimal DNA expressions citation:4 ncitation:4 pid1615371
+title1:Net-Based Description Of Parallel Object-Based Systems, or POTs and POPs. title2:Net-based description of parallel object-based systems, or POTs and POPs citation:51 ncitation:51 pid228770
+title1:Prescribed Teams of Grammars. title2:Prescribed teams of grammars citation:29 ncitation:24 pid2410280
+title1:Current Trends in Theoretical Computer Science, Entering the 21th Century title2:Current Trends in Theoretical Computer Science: Entering the 21st Century citation:3 ncitation:1 pid821747
+title1:Geometric Transformations on Language Families: The Power of Symmetry. title2:Geometric Transformations of Language Families: The Power of Symmetry citation:2 ncitation:2 pid887737
+title1:Formalizing Spherical Membrane Structures and Membrane Proteins Populations. title2:Formalizing spherical membrane structures and membrane proteins populations citation:7 ncitation:7 pid2396839
+title1:Incremental construction of 2-structures. title2:Incremental construction of 2-structures citation:8 ncitation:7 pid2246182
+title1:Grammatical constructions in selective substitution grammars. title2:Grammatical constructions in selective substitution grammars citation:8 ncitation:6 pid493509
+title1:Pattern Systems. title2:Pattern systems citation:14 ncitation:12 pid887729
+title1:Spike Trains in Spiking Neural P Systems. title2:Spike trains in spiking neural P systems citation:80 ncitation:76 pid887731
+title1:Computing by Communication in Networks of Membranes. title2:Computing by communication in networks of membranes citation:30 ncitation:-1 pid887733
+title1:On Subwords of Formal Languages. title2:On subwords of formal languages citation:11 ncitation:11 pid887735
+title1:Towards a Petri Net Semantics for Membrane Systems. title2:Towards a Petri net semantics for membrane systems citation:56 ncitation:53 pid1619803
+title1:Current Trends in Concurrency, Overviews and Tutorials title2:Current trends in concurrency: overviews and tutorials citation:5 ncitation:21 pid228806
+title1:Two-Level Meta-Controlled Substitution Grammars. title2:Two-level meta-controlled substitution grammars citation:3 ncitation:3 pid887727
+title1:Elementary Transition Systems and Refinement. title2:Elementary transition systems and refinement citation:21 ncitation:12 pid621924
+title1:Team automata for spatial access control. title2:Team automata for spatial access control citation:18 ncitation:18 pid2179182
+title1:Hairpin Languages. title2:Hairpin languages citation:23 ncitation:22 pid1671747
+title1:Grammatical Codes of Trees and Terminally Coded Grammars. title2:Grammatical codes of trees and terminally coded grammars citation:2 ncitation:2 pid1668296
+title1:Square Systems. title2:Square systems citation:3 ncitation:3 pid2397903
+title1:Generalised DOL Trees. title2:Generalized DOL trees citation:3 ncitation:2 pid621909
+title1:Sequences of languages in forbidding-enforcing families. citation:10 ncitation:10 pid1566940
+title1:Two-Level Meta-Controlled Substitution Grammars. title2:Two-level meta-controlled substitution grammars citation:3 ncitation:3 pid2399833
+title1:Cooperating Grammar Systems. title2:Cooperating grammar systems citation:94 ncitation:95 pid2281348
+title1:Nanotechnology: Science and Computation title2:Nanotechnology: Science and Computation citation:38 ncitation:36 pid1096502
+title1:CTS Systems and Petri Nets. title2:CTS systems and Petri nets citation:3 ncitation:4 pid559600
+title1:Direct Proofs of the Undecidability of the Equivalence Problem for Sentential Forms of Linear Context-Free Grammars and the Equivalence Problem for 0L Systems. title2:Direct proofs of the undecidability of the equivalence problem for sentential forms of linear context-free grammars and the equivalence problem for OL systems citation:15 ncitation:12 pid1516640
+title1:The Equivalence Problem for Deterministic T0L-Systems is Undecidable. title2:The equivalence problem for deterministic T0L-systems is undecidable citation:31 ncitation:25 pid941203
+title1:Theory of Traces. title2:Theory of traces citation:212 ncitation:211 pid741334
+title1:Hyperedge Channels are Abelian. title2:Hyperedge channels are abelian citation:2 ncitation:2 pid3773
+title1:Clans and Regions in 2-Structures. title2:Clans and regions in 2-structures citation:5 ncitation:5 pid941204
+title1:Multiset-Based Self-Assembly of Graphs. title2:Multiset-based self-assembly of graphs citation:8 ncitation:8 pid909314
+title1:Diamond properties of elementary net systems. title2:Diamond properties of elementary net systems citation:22 ncitation:17 pid492099
+title1:Behaviour of Elementary Net Systems. title2:Behaviour of elementary net systems citation:107 ncitation:98 pid492097
+title1:Structuring Grammar Systems by Priorities and Hierarchies. title2:Structuring grammar systems by priorities and hierarchies citation:9 ncitation:7 pid854874
+title1:Some Properties of Duplication Grammars. title2:Some properties of duplication grammars citation:8 ncitation:8 pid661566
+title1:Three Useful Results Concerning L Languages Without Interactions. title2:Three useful results concerning L languages without interactions citation:13 ncitation:12 pid1514432
+title1:D0L Systems With Rank. title2:DOL systems with rank citation:13 ncitation:12 pid909374
+title1:Theory of L Systems: from the point of view of formal language theory. title2:Theory of L systems: from the point of view of formal language theory citation:13 ncitation:11 pid2401363
+title1:On Coordinated Selective Substitutions: Towards a Unified Theory of Grammars and Machines. title2:On coordinated selective substitutions: Towards a unified theory of grammars and machines citation:9 ncitation:8 pid2401371
+title1:On the Subword Complexity and Square-Freeness of Formal Languages. title2:On the subword complexity and square-freeness of formal languages citation:4 ncitation:3 pid741273
+title1:Subset Languages of Petri Nets Part I: The Relationship to String Languages and Normal Forms. title2:Subset languages of petri nets part I: The relationship to string languages and normal forms citation:44 ncitation:45 pid1096322
+title1:Subset Languages of Petri Nets Part II: Closure Properties. title2:Subset languages of petri nets part II: Closure properties citation:11 ncitation:9 pid1405425
+title1:On Pure, Terminal Invariant and Nonterminal Invariant Interpretations of E0L Forms. title2:On pure, terminal invariant and nonterminal invariant interpretations of EOL forms citation:3 ncitation:4 pid2147990
+title1:Covers from Templates. title2:Covers from templates citation:4 ncitation:2 pid881705
+title1:Membrane systems with proteins embedded in membranes. title2:Membrane systems with proteins embedded in membranes citation:13 ncitation:11 pid1565165
+title1:Informal Introduction to Petri Nets. title2:Informal introduction to petri nets citation:30 ncitation:25 pid881707
+title1:A Study in Parallel Rewriting Systems title2:A study in parallel rewriting systems citation:19 ncitation:20 pid1186244
+title1:Sequential, Continuous and Parallel Grammars title2:Sequential, continuous and parallel grammars citation:13 ncitation:12 pid881706
+title1:Direction Independent Context-Sensitive Grammars title2:Direction independent context-sensitive grammars citation:4 ncitation:4 pid2396958
+title1:The Bounded Degree Problem for NLC Grammars is Decidable. title2:The bounded degree problem for NLC grammars is decidable citation:23 ncitation:20 pid66377
+title1:Invariants of Inversive 2-Structures on Groups of Labels. title2:Invariants of inversive 2-structures on groups of labels citation:2 ncitation:2 pid1428253
+title1:String and Graph Reduction Systems for Gene Assembly in Ciliates. title2:String and graph reduction systems for gene assembly in ciliates citation:63 ncitation:57 pid1069530
+title1:Decision Problems for Node Label Controlled Graph Grammars. title2:Decision problems for node label controlled graph grammars citation:44 ncitation:41 pid2326138
+title1:Membrane systems with promoters/inhibitors. title2:Membrane systems with promoters/inhibitors citation:69 ncitation:65 pid709924
+title1:Gene Assembly in Ciliates: Computing by Folding. title2:Gene assembly in ciliates: Computing by folding and recombination citation:8 ncitation:-1 pid2413438
+title1:A guide to membrane computing. title2:A guide to membrane computing citation:278 ncitation:274 pid933630
+title1:Generative Models for Parallel Processes. title2:Generative models for parallel processes citation:4 ncitation:4 pid2253137
+title1:Graph Transformation Units - An Overview. citation:13 ncitation:10 pid1321511
+title1:The Complexity of Regular DNLC Graph Languages. title2:The complexity of regular DNLC graph languages citation:9 ncitation:13 pid1088608
+title1:A General Framework for Comparing Sequential and Parallel Rewriting. title2:A general framework for comparing sequential and parallel rewriting citation:3 ncitation:2 pid1090535
+title1:On coordinated rewriting. title2:On coordinated rewriting citation:2 ncitation:2 pid882734
+title1:Context-Free Like Restrictions on Selective Rewriting. title2:Context-free like restrictions on selective rewriting citation:30 ncitation:24 pid882725
+title1:Simple EOL Forms under Uniform Interpretation Generating CF Languages. title2:Simple EOL forms under uniform interpretation generating CF languages citation:7 ncitation:5 pid881888
+title1:Complexity Measures for Gene Assembly. title2:Complexity measures for gene assembly citation:19 ncitation:19 pid1390063
+title1:Formal properties of PA-matching. title2:Formal properties of PA-matching citation:10 ncitation:10 pid17733
+title1:Interpreted Trajectories. title2:Interpreted trajectories citation:4 ncitation:4 pid932499
+title1:Permutations, parenthesis words, and Schröder numbers. citation:11 ncitation:11 pid742039
+title1:Node-Label Controllel Graph Grammars. title2:Node-Label Controllel Graph Grammars. citation:13 ncitation:11 pid742041
+title1:Membrane Systems with Marked Membranes. title2:Membrane systems with marked membranes citation:9 ncitation:11 pid11086
+title1:Description of Developmental Languages Using Recurrence Systems. title2:Description of developmental languages using recurrence systems citation:32 ncitation:34 pid11088
+title1:Pumping Lemmas for Regular Sets. title2:Pumping lemmas for regular sets citation:35 ncitation:33 pid1564941
+title1:On ET0L Systems with Finite Tree-Rank. title2:On Etol Systems with Finite Tree-Rank citation:2 ncitation:3 pid1555560
+title1:On Representing RE Languages by One-Sided Internal Contextual Languages. title2:3n representing RE languages by one-sided internal contextual languages citation:9 ncitation:8 pid11098
+title1:Reducibility of gene patterns in ciliates using the breakpoint graph. title2:Reducibility of gene patterns in ciliates using the breakpoint graph citation:20 ncitation:19 pid1094292
+title1:Commutative One-Counter Languages are Regular. title2:Commutative one-counter languages are regular citation:16 ncitation:14 pid1094293
+title1:Adding Global Forbidding Context to Context-Free Grammars. title2:Adding global forbidding context to context-free grammars citation:4 ncitation:3 pid2240687
+title1:Synchronizations in Team Automata for Groupware Systems. title2:Synchronizations in team automata for groupware systems citation:77 ncitation:71 pid881853
+title1:Simple Splicing Systems. title2:Simple splicing systems citation:55 ncitation:56 pid2400481
+title1:On Regularity of Context-Free Languages. title2:On regularity of context-free languages citation:88 ncitation:79 pid1096203
+title1:Using String Languages to Describe Picture Languages title2:Using string languages to describe picture languages citation:102 ncitation:105 pid1094291
+title1:Gene assembly through cyclic graph decomposition. title2:Gene assembly through cyclic graph decomposition citation:26 ncitation:22 pid1094300
+title1:Increasing the Similarity of EOL Form Interpretations title2:Increasing the similarity of EOL form interpretations citation:5 ncitation:6 pid1094301
+title1:Formal systems for gene assembly in ciliates. title2:Formal systems for gene assembly in ciliates citation:71 ncitation:64 pid2372745
+title1:Membrane Computing with External Output. title2:Membrane computing with external output citation:92 ncitation:87 pid1094302
+title1:Restrictions on NLC Graph Grammars. title2:Restrictions on NLC graph grammars citation:31 ncitation:28 pid1714827
+title1:Elementary Transition Systems. title2:Elementary transition systems and refinement citation:21 ncitation:177 pid1094296
+title1:Properties of Grammatical Codes of Trees. title2:Properties of grammatical codes of trees citation:4 ncitation:4 pid1094297
+title1:Contextual Grammars: Parallelism and Blocking of Derivation. title2:Contextual grammars: parallelism and blocking of derivation citation:25 ncitation:21 pid1094298
+title1:On Representing Recursively Enumerable Languages by Internal Contextual Languages. title2:On representing recursively enumerable languages by internal contextual languages citation:35 ncitation:-1 pid1094299
+title1:Double-Pullback Graph Transitions: A Rule-Based Framework with Incomplete Information. title2:Double-pullback graph transitions: A rule-based framework with incomplete information citation:7 ncitation:7 pid1643340
+title1:Forbidding-enforcing systems. citation:23 ncitation:24 pid1096211
+title1:Complexity Issues in Switching of Graphs. title2:Complexity issues in switching of graphs citation:14 ncitation:13 pid17724
+title1:Circularity and Other Invariants of Gene Assembly in Ciliates. title2:Circularity and Other Invariants of Gene Assembly in Ciliates. citation:32 ncitation:30 pid888531
+title1:Pattern Grammars. title2:On the generative power of regular pattern grammars citation:38 ncitation:8 pid1445779
+title1:Handle NLC Grammars and R.E. Languages. title2:Handle NLC grammars and re languages citation:11 ncitation:9 pid1096188
+title1:Elementary Homomorphisms and a Solution of the D0L Sequence Equivalence Problem. title2:Elementary homomorphisms and a solution of the D0L sequence equivalence problem citation:87 ncitation:70 pid1469814
+title1:On Ambiguity in E0L Systems. title2:On ambiguity in E0L systems citation:5 ncitation:5 pid1014702
+title1:Dynamic Labeled 2-Structures with Variable Domains. title2:Dynamic labeled 2-structures with variable domains citation:3 ncitation:3 pid1528042
+title1:Every Two Equivalent D0L Systems have a Regular True Envelope. title2:Every two equivalent D0L systems have a regular true envelope citation:8 ncitation:9 pid941007
+title1:On a Bound for the D0L Sequence Equivalence Problem. title2:On a bound for the D0L sequence equivalence problem citation:21 ncitation:17 pid972319
+title1:Context-free Text Grammars. title2:Context-free text grammars citation:13 ncitation:13 pid2441965
+title1:Pancyclicity in switching classes. title2:Pancyclicity in switching classes citation:8 ncitation:8 pid2249097
+title1:On the Subword Complexity of Square-Free D0L Languages. title2:On the subword complexity of square-free DOL languages citation:43 ncitation:41 pid740574
+title1:Completeness of 0 Forms is Decidable. title2:Vompleteness of E0L forms is decidable citation:3 ncitation:3 pid1596089
+title1:Representation Theorems Using DOS Languages. title2:Representation theorems using DOS languages citation:4 ncitation:4 pid494026
+title1:Theory of 2-Structures, Part I: Clans, Basic Subclasses, and Morphisms. title2:Theory of 2-structures, part i: Clans, basic subclasses, and morphisms citation:109 ncitation:108 pid889021
+title1:On the Subword Complexity of m-Free D0L Languages. title2:On the subword complexity of m-free D0L languages citation:16 ncitation:12 pid1573868
+title1:Context-Free Grammars With Selective Rewriting. title2:Context-free grammars with selective rewriting citation:18 ncitation:16 pid239441
+title1:On 0L-Languages title2:On 0< i> L</i>-Languages citation:76 ncitation:69 pid1538660
+title1:Direction Controlled Programmed Grammars title2:Direction controlled programmed grammars citation:8 ncitation:5 pid1619453
+title1:On ET0L Systems of Finite Index title2:On ETOL systems of finite index citation:33 ncitation:30 pid1093937
+title1:Developmental Systems with Locally Catenative Formulas title2:Developmental systems with locally catenative formulas citation:62 ncitation:59 pid1093938
+title1:Theory of 2-Structures, Part II: Representation Through Labeled Tree Families. title2:Theory of 2-structures, part II: Representation through labeled tree families citation:68 ncitation:62 pid791479
+title1:A Note on Universal Grammars title2:A note on universal grammars citation:8 ncitation:6 pid66610
+title1:A characterization of poly-slender context-free languages. title2:A characterization of poly-slender context-free languages citation:24 ncitation:25 pid971277
+title1:Primitivity is Hereditary for 2-Structures. title2:Primitivity is hereditary for 2-structures citation:97 ncitation:90 pid204221
+title1:Behavioural Notions for Elementary Net Systems. title2:Behavioural notions for elementary net systems citation:44 ncitation:41 pid616003
+title1:On the Subword Complexity of Locally Catenative D0L Languages. title2:On the subword complexity of locally catenative DOL languages citation:12 ncitation:11 pid493963
+title1:Angular 2-Structures. title2:Angular 2-structures citation:23 ncitation:21 pid1356199
+title1:A Relationship between ET0L and EDT0L Languages. title2:A relationship between ET0L and EDT0L languages citation:22 ncitation:19 pid204126
+title1:Restrictions, extensions, and variations of NLC grammars. title2:Restrictions, extensions, and variations of NLC grammars citation:83 ncitation:77 pid820094
+title1:Parikh Prime Words and GO-like Territories. title2:Parikh prime words and GO-like territories citation:5 ncitation:4 pid1455324
+title1:On Inherently Ambiguous E0L Languages. title2:On inherently ambiguous E0L languages citation:2 ncitation:2 pid1092623
+title1:On the structure of node-label-controlled graph languages. title2:On the structure of node-label-controlled graph languages citation:173 ncitation:168 pid1015651
+title1:Nonterminal Separation in Graph Grammars. title2:Nonterminal separation in graph grammars citation:13 ncitation:12 pid838515
+title1:Boundary NLC Graph Grammars-Basic Definitions, Normal Forms, and Complexity citation:143 ncitation:114 pid1096038
+title1:On Fixed, Terminal Fixed and Nonterminal Fixed Interpretations of EOL Forms title2:On fixed, terminal fixed and nonterminal fixed interpretations of E0L forms citation:2 ncitation:2 pid2468133
+title1:Synchronized, Desynchronized and Coordinated EOL Systems title2:Synchronized, desynchronized and coordinated E0L systems citation:2 ncitation:2 pid1410192
+title1:A Survey of NLC Grammars. title2:A survey of NLC grammars citation:13 ncitation:11 pid1597028
+title1:On the Effect of the Finite Index Restriction on Several Families of Grammars title2:On the effect of the finite index restriction on several families of grammars citation:21 ncitation:21 pid1651309
+title1:Graph Grammar-Based Description of Object-Based Systems. title2:Graph grammar-based description of object-based systems citation:6 ncitation:8 pid940879
+title1:Hypergraph Systems and Their Extensions. title2:Hypergraph systems and their extensions citation:5 ncitation:4 pid2402288
+title1:Petri Nets: Basic Notions, Structure, Behaviour. title2:Petri nets: Basic notions, structure, behaviour citation:134 ncitation:134 pid267251
+title1:A Systematic Approach to Formal Language Theory Through Parallel Rewriting. title2:A systematic approach to formal language theory through parallel rewriting citation:4 ncitation:4 pid1514542
+title1:DNA Computing: New Ideas and Paradigms. title2:DNA computing: new ideas and paradigms citation:16 ncitation:14 pid882685
+title1:Extending the Notion of Finite Index. title2:Extending the notion of finite index citation:2 ncitation:3 pid852077
+title1:Infinitary Languages: Basic Theory an Applications to Concurrent Systems. title2:Infinitary languages: Basic theory and applications to concurrent systems citation:51 ncitation:43 pid940880
+title1:Repetitions in Homomorphisms and Languages. title2:Repetitions in homomorphisms and languages citation:8 ncitation:6 pid493891
+title1:On the (Generalized) Post Correspondence Problem with Lists of Length 2. title2:On the (generalized) Post correspondence problem with lists of length 2 citation:9 ncitation:10 pid867246
+title1:Equality Languages, Fixed Point Languages and Representations of Recursively Enumerable Languages title2:Equality languages, fixed point languages and representations of recursively enumerable languages citation:3 ncitation:2 pid869542
+title1:Graph Theoretic Closure Properties of the Family of Boundary NLC Graph Languages. title2:Graph theoretic closure properties of the family of boundary NLC graph languages citation:49 ncitation:39 pid932291
+title1:Trade-off between the Use of Nonterminals, Codings and Homomorphisms in Defining Languages for Some Classes of Rewriting Systems. title2:Trade-off between the use of nonterminals, codings and homomorphisms in defining languages for some classes of rewriting systems citation:4 ncitation:3 pid2401232
+title1:Conditions Enforcing Regularity of Context-Free Languages. title2:Conditions enforcing regularity of context-free languages citation:9 ncitation:7 pid1015606
+title1:How ciliates manipulate their own DNA - A splendid example of natural computing. citation:25 ncitation:21 pid1059102
+title1:Process Semantics for Membrane Systems. title2:Process semantics for membrane systems citation:24 ncitation:24 pid741838
+title1:On strongly context-free languages. title2:On strongly context-free languages citation:2 ncitation:2 pid1089695
+title1:Apex Graph Grammars and Attribute Grammars. title2:Apex graph grammars and attribute grammars citation:24 ncitation:25 pid1361506
+title1:Characterization and Complexity of Uniformly Non Primitive Labeled 2-Structures. title2:Characterization and complexity of uniformly nonprimitive labeled 2-structures citation:17 ncitation:17 pid2397393
+title1:Decompostion of Infinite Labeled 2-Structures. title2:Decomposition of infinite labeled 2-structures citation:13 ncitation:11 pid1090813
+title1:Two Models for Gene Assembly in Ciliates. title2:Two models for gene assembly in ciliates citation:9 ncitation:8 pid1090810
+title1:Formal Properties of Gene Assembly: Equivalence Problem for Overlap Graphs. title2:Formal properties of gene assembly: Equivalence problem for overlap graphs citation:13 ncitation:12 pid1090807
+title1:Behavior and Realization Construction for Petri Nets Based on Free Monoid and Power Set Graphs. title2:Behavior and realization construction for Petri nets based on free monoid and power set graphs citation:5 ncitation:18 pid1090804
+title1:Characterizing the Micronuclear Gene Patterns in Ciliates. title2:Characterizing the micronuclear gene patterns in ciliates citation:35 ncitation:32 pid831561
+title1:Developmental Systems and Languages title2:Developmental systems and languages citation:76 ncitation:76 pid837598
+title1:The Linear Landscape of External Contextual Languages. title2:The linear landscape of external contextual languages citation:7 ncitation:5 pid2238153
+title1:Programs for Instruction Machines title2:Programs for instruction machines citation:3 ncitation:2 pid1090801
+title1:Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems title2:Nonterminals versus homomorphisms in defining languages for some classes of rewriting systems citation:22 ncitation:25 pid888837
+title1:On Proving that Certain Languages are not ETOL. title2:On proving that certain languages are not ETOL citation:16 ncitation:16 pid888836
+title1:TOL Schemes and Control Sets title2:TOL schemes and control sets citation:52 ncitation:48 pid1090791
+title1:A Characterization of Set Representable Labeled Partial 2-Structures Through Decompositions. title2:A characterization of set representable labeled partial 2-structures through decompositions citation:2 ncitation:1 pid882258
+title1:String Tile Models for DNA Computing by Self-Assembly. title2:String tile models for DNA computing by self-assembly citation:57 ncitation:55 pid1090818
+title1:Strong Iterative Pairs and The Regularity of Context-Free Languages. title2:Strong iterative pairs and the regularity of context-free languages citation:6 ncitation:5 pid1093757
+title1:Each Regular Code Is Included in A Maximal Regular Code. title2:Each regular code is included in a maximal regular code citation:19 ncitation:16 pid2284896
+title1:Parallelism in Gene Assembly. title2:Parallelism in gene assembly citation:17 ncitation:23 pid1090821
+title1:Simple EOL forms under uniform interpretation generating CF languages. title2:Simple EOL forms under uniform interpretation generating CF languages citation:7 ncitation:5 pid882260
+title1:Application of Mismatch Detection Methods in DNA Computing. title2:Application of mismatch detection methods in DNA computing citation:4 ncitation:3 pid1090827
+title1:Generalized Handle Grammars and Their Relation to Petri Nets. title2:Generalized handle grammars and their relation to Petri nets citation:6 ncitation:5 pid931032
+title1:Main Concepts of Networks of Transformation Units with Interlinking Semantics. title2:Main concepts of networks of transformation units with interlinking semantics citation:7 ncitation:6 pid65811
+title1:Patterns of Micronuclear Genes in ciliates. title2:Patterns of micronuclear genes in ciliates citation:25 ncitation:24 pid1090835
+title1:Coordinated Pair Systems; Part II: Sparse Structure of Dyck Words and Ogden's Lemma. title2:Coordinated pair systems; Part II: Sparse structure of Dyck words and Ogden's Lemma citation:2 ncitation:2 pid1090832
+title1:Coordinated Pair Systems; Part I: Dyck Works and Classical Pumping. title2:Coordinated pair systems; part I: Dyck works and classical pumping citation:4 ncitation:5 pid2399642
+title1:Combinatorial Properties of Texts. title2:Combinatorial properties of texts citation:10 ncitation:10 pid931035
+title1:On Some Context Free Languages That Are Not Deterministic ETOL Languages. title2:On some context free languages that are not deterministic ETOL languages citation:28 ncitation:30 pid228925
+title1:A Pumping Theorem for Deterministic Etol Languages. title2:A pumping theorem for deterministic ETOL languages citation:11 ncitation:6 pid65812
+title1:On Subword Complexities of Homomorphic Images of Languages. title2:On subword complexities of homomorphic images of languages citation:27 ncitation:23 pid931038
+title1:FPOL Systems Generating Counting Languages. title2:FPOL Systems Generating Counting Languages citation:2 ncitation:1 pid1090837
+title1:Priorities on context conditions in rewriting systems. title2:Priorities on context conditions in rewriting systems citation:13 ncitation:14 pid740835
+title1:On the Separating Power of Eol Systems. title2:On the separating power of EOL systems citation:20 ncitation:19 pid740834
+title1:Concurrency and Hardware Design, Advances in Petri Nets title2:Concurrency and hardware design: Advances in Petri nets citation:5 ncitation:4 pid1090851
+title1:Application of Petri Nets to Communication Networks, Advances in Petri Nets title2:Application of Petri nets to communication networks: advances in Petri nets citation:91 ncitation:81 pid841525
+title1:Structures in Logic and Computer Science, A Selection of Essays in Honor of Andrzej Ehrenfeucht title2:Structures in logic and computer science: a selection of essays in honor of A. Ehrenfeucht citation:5 ncitation:5 pid931040
+title1:Jewels are Forever, Contributions on Theoretical Computer Science in Honor of Arto Salomaa title2:Jewels are Forever, Contributions on Theoretical Computer Science in Honor of Arto Salomaa citation:7 ncitation:5 pid2183826
+title1:Aspects of Molecular Computing, Essays Dedicated to Tom Head on the Occasion of His 70th Birthday title2:Aspects of Molecular Computing: Essays Dedicated to Tom Head on the Occasion of His 70th Birthday (Lecture Notes in Computer Science, 2950) citation:8 ncitation:9 pid931046
+title1:Concurrent Object-Oriented Programming and Petri Nets, Advances in Petri Nets. title2:Concurrent object-oriented programming and petri nets: advances in petri nets citation:61 ncitation:57 pid940738
+title1:Developments in Language Theory, Foundations, Applications, and Perspectives, Aachen, Germany, 6-9 July 1999 citation:3 ncitation:6 pid1090866
+title1:Developments in Language Theory, 5th International Conference, DLT 2001, Vienna, Austria, July 16-21, 2001, Revised Papers title2:Developments in Language Theory: 5th International Conference, DLT 2001, Vienna, Austria, July 16-21, 2001. Revised Papers citation:5 ncitation:4 pid940736
+title1:Reaction Systems: A Model of Computation Inspired by Biochemistry. title2:Reaction systems: a model of computation inspired by biochemistry citation:5 ncitation:5 pid1090869
+title1:Lectures on Embedded Systems, European Educational Forum, School on Embedded Systems, Veldhoven, The Netherlands, November 25-29, 1996 title2:Lectures on Embedded Systems: European Educational Forum School on Embedded Systems, Veldhoven, The Netherlands, November 25-29, 1996 citation:12 ncitation:13 pid94949
+title1:Graph-Grammars and Their Application to Computer Science and Biology, International Workshop, Bad Honnef, October 30 - November 3, 1978 title2:Graph-grammars and their application to computer science and biology: international workshop, Bad Honnef, October 30-November 3, 1978 citation:114 ncitation:91 pid889299
+title1:Graph-Grammars and Their Application to Computer Science, 3rd International Workshop, Warrenton, Virginia, USA, December 2-6, 1986 title2:Graph-grammars and Their Application to Computer Science: 3rd International Workshop, Warrenton, Virginia, USA, December 2-6, 1986 citation:160 ncitation:-1 pid889297
+title1:Graph-Grammars and Their Application to Computer Science, 4th International Workshop, Bremen, Germany, March 5-9, 1990, Proceedings title2:Graph Grammars and Their Application to Computer Science: 4th International Workshop, Bremen, Germany, March 5-9, 1990. Proceedings citation:42 ncitation:207 pid2246970
+title1:Handbook of Graph Grammars and Computing by Graph Transformations, Volume 1: Foundations title2:Handbook of graph grammars and computing by graph transformation, vol 1: Foundations citation:1504 ncitation:-1 pid70727
+title1:Graph Transformations, 4th International Conference, ICGT 2008, Leicester, United Kingdom, September 7-13, 2008. Proceedings title2:Graph Transformations: 4th International Conference, ICGT 2008, Leicester, United Kingdom, September 7-13, 2008, Proceedings citation:4 ncitation:17 pid3049
+title1:Stepwise Refinement of Distributed Systems, Models, Formalisms, Correctness, REX Workshop, Mook, The Netherlands, May 29 - June 2, 1989, Proceedings title2:Stepwise Refinement of Distributed Systems: Models, Formalisms, Correctness. REX Workshop, Mook, The Netherlands, May 29-June 2, 1989. Proceedings citation:44 ncitation:39 pid267869
+title1:A Decade of Concurrency, Reflections and Perspectives, REX School/Symposium, Noordwijkerhout, The Netherlands, June 1-4, 1993, Proceedings title2:A Decade of Concurrency: Reflections and Perspectives. REX School/Symposium Noordwijkerhout, The Netherlands, June 1-4, 1993. Proceedings citation:4 ncitation:4 pid267861
+title1:Unconventional Computation, 8th International Conference, UC 2009, Ponta Delgada, Azores, Portugal, September 7-11, 2009. Proceedings title2:Unconventional Computation: 8th International Conference, UC 2009, Ponta Delgada, Portugal, September 7-11, 2009, Proceedings citation:26 ncitation:9 pid953979
+title1:Combinatorics of Life and Death for Reaction Systems. title2:Combinatorics of life and death for reaction systems citation:18 ncitation:18 pid953971
+title1:DNA computing of solutions to knapsack problems. title2:DNA computing of solutions to knapsack problems citation:23 ncitation:16 pid65939
+title1:Functions Defined by Reaction Systems. title2:Functions defined by reaction systems citation:17 ncitation:12 pid65937
+title1:A Note on Causalities in Reaction Systems. title2:A note on causalities in reaction systems citation:9 ncitation:8 pid1397097
+title1:The Theory of 2-Structures - A Framework for Decomposition and Transformation of Graphs. title2:The Theory of 2-structures: A Framework for Decomposition and Transformation of Graphs citation:75 ncitation:67 pid2400935
+title1:Cornerstones of undecidability. title2:Cornerstones of undecidability citation:98 ncitation:77 pid622642
+title1:The book of L. title2:The book of L citation:53 ncitation:48 pid1551144
+title1:DNA computing - new computing paradigms. title2:DNA computing: new computing paradigms citation:276 ncitation:917 pid740691
+title1:A Tour of reaction Systems. title2:A tour of reaction systems citation:17 ncitation:10 pid1561652
+title1:Universal and simple operations for gene assembly in ciliates. title2:Universal and simple operations for gene assembly in ciliates citation:61 ncitation:59 pid1615158
+title1:Reaction Systems with Duration. title2:Reaction systems with duration citation:11 ncitation:8 pid945441
+title1:Membrane Computing - 12th International Conference, CMC 2011, Fontainebleau, France, August 23-26, 2011, Revised Selected Papers title2:Membrane Computing: 12th International Conference, CMC 2011, Fontainebleau, France, August 23-26, 2011, Revised Selected Papers citation:2 ncitation:-1 pid1406748
+title1:Extension of tabled 0-systems and languages. title2:Extension of tabled 0L-systems and languages citation:101 ncitation:90 pid159205
+title1:Petri Nets for Biologically Motivated Computing. title2:Petri Nets for Biologically Motivated Computing citation:5 ncitation:3 pid1517205
+title1:Contextual Array Grammars. title2:Contextual array grammars citation:8 ncitation:None pid1404575

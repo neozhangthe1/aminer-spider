@@ -1,0 +1,463 @@
+title:Exploring both Content and Link Quality for Anti-Spamming. citation:-1
+title:XRank: Learning More fromWeb User Behaviors. citation:-1
+title:Towards Composing Information Providing Services. citation:-1
+title:Automatic Detecting/Correcting Errors in Chinese Text by an Approximate Word-Matching Algorithm. citation:-1
+title:Clustering Categorical Data Using Coverage Density. citation:-1
+title:Providing an Uncertainty Reasoning Service for Semantic Web Application. citation:-1
+title:Integrating Web Services into Ontology-Based Web Portal. citation:-1
+title:A Semantic Rewriting Approach to Automatic Information Providing Web Service Composition. citation:-1
+title:Catriple: Extracting Triples from Wikipedia Categories. citation:-1
+title:Ranking web objects from multiple communities. citation:-1
+title:Search-based query suggestion. citation:-1
+title:Scalable Markov model-based image annotation. citation:-1
+title:Concurrent Subspaces Analysis. citation:-1
+title:Coupled Kernel-Based Subspace Learning. citation:-1
+title:Directional independent component analysis with tensor representation. citation:-1
+title:SPortS: Semantic + Portal + Service. citation:-1
+title:Exclusive Strategy for Generalization Algorithms in Micro-data Disclosure. citation:-1
+title:A Fair Energy Conserving Routing Algorithm for Wireless Sensor Networks. citation:-1
+title:Towards a Framework for Automatic Service Composition in Manufacturing Grid. citation:-1
+title:An Adaptive Service Strategy Based on User Rating in P2P. citation:-1
+title:Locally Linear Discriminant Embedding for Tumor Classification. citation:-1
+title:Temporal color video demosaicking via motion estimation and optimal data fusing. citation:-1
+title:WMQ: Towards A Fine-grained QoS Control for E-Business Servers. citation:-1
+title:Block Independent Component Analysis for Face Recognition. citation:-1
+title:Dark line detection with line width extraction. citation:-1
+title:Natural Image Retrieval with Sketches. citation:-1
+title:Retrieving Web Images to Enrich Music Representation. citation:-1
+title:A Modified Clustering Algorithm Based on Swarm Intelligence. citation:-1
+title:Adaptive pore model for fingerprint pore extraction. citation:-1
+title:Semantic image clustering using relevance feedback. citation:-1
+title:Design and Analysis of a k-Connected Topology Control Algorithm for Ad Hoc Networks. citation:-1
+title:Gene Expression Data Classification Using Independent Variable Group Analysis. citation:-1
+title:Global Exponential Convergence of Time-Varying Delayed Neural Networks with High Gain. citation:-1
+title:A K-Connected Energy-Saving Topology Control Algorithm for Wireless Sensor Networks. citation:-1
+title:Flexible Cycle Synchronized Algorithm in Parallel and Distributed Simulation. citation:-1
+title:A High Performance Strategy for Constructing Dynamic MIB. citation:-1
+title:A Statistical Characterization of CMOS Process Fluctuations in Subthreshold Current Mirrors. citation:-1
+title:Scalable relevance feedback using click-through data for web image retrieval. citation:-1
+title:IGroup: a web image search engine with semantic clustering of search results. citation:-1
+title:Multi-graph enabled active learning for multimodal web image retrieval. citation:-1
+title:Similarity space projection for web image search and annotation. citation:-1
+title:Graph-based multiple-instance learning for object-based image retrieval. citation:-1
+title:Iteratively clustering web images based on link and attribute reinforcements. citation:-1
+title:A Novel Gabor-LDA Based Face Recognition Method. citation:-1
+title:FBCC: An Image Similarity Algorithm Based on Regions. citation:-1
+title:Salient Feature Selection for Visual Concept Learning. citation:-1
+title:A Novel Rollback Algorithm in Parallel and Distributed System Simulation. citation:-1
+title:A Distributed Topology Control Algorithm for Heterogeneous Ad Hoc Networks. citation:-1
+title:A Framework for Maximizing Utility of Sanitized Documents Based on Meta-labeling. citation:-1
+title:SBIA: search-based image annotation by leveraging web-scale images. citation:-1
+title:Delivering online advertisements inside images. citation:-1
+title:Parallel Image Matrix Compression for Face Recognition. citation:-1
+title:Multiple UAV Simulation With Multiresolution Multistage Models And Decision Support. citation:-1
+title:A System to Enable Relational Persistence and Semantic Web style Access Simultaneously for Objects. citation:-1
+title:UMRR: Towards an Enterprise-Wide Web of Models. citation:-1
+title:ORIENT: Integrate Ontology Engineering into Industry Tooling Environment. citation:-1
+title:Joint Spatial-Temporal Color Demosaicking. citation:-1
+title:Dynamic Feature Space Selection in Relevance Feedback Using Support Vector Machines. citation:-1
+title:An Integrity Lock Architecture for Supporting Distributed Authorizations in Database Federations. citation:-1
+title:Answering Queries Based on Imprecision and Uncertainty Trade-Offs in Numeric Databases. citation:-1
+title:Simulatable Binding: Beyond Simulatable Auditing. citation:-1
+title:Image annotation using search and mining technologies. citation:-1
+title:A study on combination of block importance and relevance to estimate page relevance. citation:-1
+title:Larger is better: seed selection in link-based anti-spamming algorithms. citation:-1
+title:Improving relevance judgment of web search results with image excerpts. citation:-1
+title:Explorations in the use of semantic web technologies for product information management. citation:-1
+title:LSM: Language Sense Model for Information Retrieval. citation:-1
+title:An Approach to RDF(S) Query, Manipulation and Inference on Databases. citation:-1
+title:A Provably Secure Ring Signature Scheme in Certificateless Cryptography. citation:-1
+title:Searching One Billion Web Images by Content: Challenges and Opportunities. citation:-1
+title:Ranking community answers via analogical reasoning. citation:-1
+title:Minimizing Transferred Data for Code Update on Wireless Sensor Network. citation:-1
+title:Automated Retinal Vessel Segmentation Using Gabor Filters and Scale Multiplication. citation:-1
+title:Modeling semantics and structure of discussion threads. citation:-1
+title:Dataplorer: a scalable search engine for the data web. citation:-1
+title:TART: Traffic-Aware Routing Tree for Geographic Routing. citation:-1
+title:A Constrained Dynamic Evolutionary Algorithm with Adaptive Penalty Coefficient. citation:-1
+title:Wavelet Based Analysis of Doppler Ultrasonic Wrist-pulse Signals. citation:-1
+title:A Modified CMAC Algorithm Based on Credit Assignment. citation:-1
+title:Scalable search-based image annotation. citation:-1
+title:Sequential row-column independent component analysis for face recognition. citation:-1
+title:A joint demosaicking-zooming scheme for single chip digital color cameras. citation:-1
+title:Improvement of Color Video Demosaicking in Temporal Domain. citation:-1
+title:Temporal color video demosaicking via motion estimation and data fusion. citation:-1
+title:Real-time lossless compression of mosaic video sequences. citation:-1
+title:On the application of cross correlation function to subsample discrete time delay estimation. citation:-1
+title:FPGA Acceleration of RankBoost in Web Search Engines. citation:-1
+title:Direct Pore Matching for Fingerprint Recognition. citation:-1
+title:Novel Efficient Certificateless Aggregate Signatures. citation:-1
+title:A CORBA-based simulation and control framework for mobile robots. citation:-1
+title:Wavelet Estimation of Fractional Brownian Motion Embedded in a Noisy Environment. citation:-1
+title:Comments on "On Image Matrix Based Feature Extraction Algorithms". citation:-1
+title:Solving the CLM Problem by Discrete-Time Linear Threshold Recurrent Neural Networks. citation:-1
+title:Visualizing textual travelogue with location-relevant images. citation:-1
+title:Argo: intelligent advertising made possible from users' photos. citation:-1
+title:Argo: intelligent advertising by mining a user's interest from his photo collections. citation:-1
+title:Generating location overviews with images and tags by mining user-generated travelogues. citation:-1
+title:Multimedia content analysis: model-based approaches vs. data-driven approaches. citation:-1
+title:L-Cover: Preserving Diversity by Anonymity. citation:-1
+title:TravelScope: standing on the shoulders of dedicated travelers. citation:-1
+title:Certificateless One-Way Authenticated Two-Party Key Agreement Protocol. citation:-1
+title:Identity-Based Verifiably Encrypted Signatures without Random Oracles. citation:-1
+title:Feature extraction using fuzzy inverse FDA. citation:-1
+title:Some multistability properties of bidirectional associative memory recurrent neural networks with unsaturating piecewise linear transfer functions. citation:-1
+title:Incorporating site-level knowledge for incremental crawling of web forums: a list-wise strategy. citation:-1
+title:Improved turbo equalization based on soft ISI cancellation. citation:-1
+title:Representations of Continuous Attractors of Recurrent Neural Networks. citation:-1
+title:Energy-Saving Topology Control for Heterogeneous Ad Hoc Networks. citation:-1
+title:Rotation Invariant Texture Classification Using Binary Filter Response Pattern (BFRP). citation:-1
+title:Is White Light the Best Illumination for Palmprint Recognition? citation:-1
+title:Exploiting bidirectional links: making spamming detection easier. citation:-1
+title:ILP optimal scheduling for multi-module memory. citation:-1
+title:Multiplicative nonnegative greph embedding. citation:-1
+title:Curvature and singularity driven diffusion for oriented pattern enhancement with singular points. citation:-1
+title:Security Model for Certificateless Aggregate Signature Schemes. citation:-1
+title:On emerging techniques for multimedia content sharing, search and understanding. citation:-1
+title:IP-Explorer: A Semantic Web Based Intellectual Property Knowledge Base and Trading Platform. citation:-1
+title:Annotation-based Image Retrieval. citation:-1
+title:Relevance Feedback for Content-Based Information Retrieval. citation:-1
+title:Application and performance analysis of various AEAD techniques for space telecommand authentication. citation:-1
+title:Variable Partitioning and Scheduling for MPSoC with Virtually Shared Scratch Pad Memory. citation:-1
+title:Global Variable Partition with Virtually Shared Scratch Pad Memory to Minimize Schedule Length. citation:-1
+title:A 3D Curve Grouping Methods and Its Application. citation:-1
+title:Independent components extraction from image matrix. citation:-1
+title:Robust Color Demosaicking With Adaptation to Varying Spectral Correlations. citation:-1
+title:A Unified Relevance Feedback Framework for Web Image Retrieval. citation:-1
+title:A Storage Algorithm of Code Parameters in Embedded System Based on Dynamic Programming. citation:-1
+title:A Multi-scale Bilateral Structure Tensor Based Corner Detector. citation:-1
+title:Iterated Graph Cuts for Image Segmentation. citation:-1
+title:A Three-Phase Approach to Photometric Calibration for Multi-projector Display Using LCD Projectors. citation:-1
+title:Identity-Based Authenticated Asymmetric Group Key Agreement Protocol. citation:-1
+title:Inferring the Transcriptional Modules Using Penalized Matrix Decomposition. citation:-1
+title:Context-based bias removal of statistical models of wavelet coefficients for image denoising. citation:-1
+title:Palmprint verification using consistent orientation coding. citation:-1
+title:Principal line based ICP alignment for palmprint verification. citation:-1
+title:Advertising based on users' photos. citation:-1
+title:A lexica family with small semantic gap. citation:-1
+title:Advances in Multimedia Modeling, 16th International Multimedia Modeling Conference, MMM 2010, Chongqing, China, January 6-8, 2010. Proceedings citation:-1
+title:Mining adjacent markets from a large-scale ads video collection for image advertising. citation:-1
+title:Three Dimensional Palmprint Recognition. citation:-1
+title:Diversifying landmark image search results by learning interested views from community photos. citation:-1
+title:MindFinder: image search by interactive sketching and tagging. citation:-1
+title:A pattern tree-based approach to learning URL normalization rules. citation:-1
+title:An orthogonal multi-objective evolutionary algorithm with lower-dimensional crossover. citation:-1
+title:Diabetes Identification and Classification by Means of a Breath Analysis System. citation:-1
+title:Retinal Vessel Centerline Extraction Using Multiscale Matched Filter and Sparse Representation-Based Classifier. citation:-1
+title:Search Result Clustering Based Relevance Feedback for Web Image Retrival. citation:-1
+title:A unified distance measurement for orientation coding in palmprint verification. citation:-1
+title:Certificateless threshold signature scheme from bilinear maps. citation:-1
+title:High resolution partial fingerprint alignment using pore-valley descriptors. citation:-1
+title:Adaptive fingerprint pore modeling and extraction. citation:-1
+title:Push-Pull marginal discriminant analysis for feature extraction. citation:-1
+title:A Modified Matched Filter With Double-Sided Thresholding for Screening Proliferative Diabetic Retinopathy. citation:-1
+title:Context-based adaptive image resolution upconversion. citation:-1
+title:Ad hoc broadcast encryption. citation:-1
+title:Probabilistic models for supervised dictionary learning. citation:-1
+title:Efficient joint 2D and 3D palmprint matching with alignment refinement. citation:-1
+title:Interest seam image. citation:-1
+title:Max-Margin Dictionary Learning for Multiclass Image Categorization. citation:-1
+title:An efficient location extraction algorithm by leveraging web contextual information. citation:-1
+title:Robust semantic sketch based specific image retrieval. citation:-1
+title:A novel ant-based clustering algorithm with an artificial force field. citation:-1
+title:Parallel versus Hierarchical Fusion of Extended Fingerprint Features. citation:-1
+title:Face Recognition Using a Multi-manifold Discriminant Analysis Method. citation:-1
+title:Fingerprint Pore Matching Based on Sparse Representation. citation:-1
+title:Microaneurysm (MA) Detection via Sparse Representation Classifier with MA and Non-MA Dictionary Learning. citation:-1
+title:Feature Band Selection for Multispectral Palmprint Recognition. citation:-1
+title:Monogenic Binary Pattern (MBP): A Novel Feature Extraction and Representation Model for Face Recognition. citation:-1
+title:On the Dimensionality Reduction for Sparse Representation Based Face Recognition. citation:-1
+title:Gene expression data classification based on non-negative matrix factorization. citation:-1
+title:MindFinder: interactive sketch-based image search on millions of images. citation:-1
+title:Understanding multimedia content using web scale social media data. citation:-1
+title:Photo2Trip: an interactive trip planning system based on geo-tagged photos. citation:-1
+title:Video Painting via Motion Layer Manipulation. citation:-1
+title:Feature extraction based on fuzzy 2DLDA. citation:-1
+title:Empirical study of light source selection for palmprint recognition. citation:-1
+title:Threshold Public-Key Encryption with Adaptive Security and Short Ciphertexts. citation:-1
+title:A comparative study on quality assessment of high resolution fingerprint images. citation:-1
+title:Rotation invariant texture classification using adaptive LBP with directional statistical features. citation:-1
+title:Texture classification via patch-based sparse texton learning. citation:-1
+title:RFSIM: A feature based image quality assessment metric using Riesz transforms. citation:-1
+title:Monogenic-LBP: A new approach for rotation invariant texture classification. citation:-1
+title:The Semantic Web - ISWC 2010 - 9th International Semantic Web Conference, ISWC 2010, Shanghai, China, November 7-11, 2010, Revised Selected Papers, Part I citation:-1
+title:Summary Models for Routing Keywords to Linked Data Sources. citation:-1
+title:Enhancing the Open-Domain Classification of Named Entity Using Linked Open Data. citation:-1
+title:The Semantic Web - ISWC 2010 - 9th International Semantic Web Conference, ISWC 2010, Shanghai, China, November 7-11, 2010, Revised Selected Papers, Part II citation:-1
+title:Automatic Image Segmentation by Dynamic Region Merging citation:-1
+title:Laplacian bidirectional PCA for face recognition. citation:-1
+title:Constructing Concept Lexica With Small Semantic Gaps. citation:-1
+title:Studies on Hyperspectral Face Recognition in Visible Spectrum With Feature Band Selection. citation:-1
+title:Continuous attractors of a class of recurrent neural networks. citation:-1
+title:SignBright: a storytelling application to connect deaf children and hearing parents. citation:-1
+title:Hierarchical Certificateless Signatures. citation:-1
+title:Sparsely Encoded Local Descriptor for face recognition. citation:-1
+title:Designing for Cultural Connections. citation:-1
+title:An Evaluation of SignBright: A Storytelling Application for Sign Language Acquisition and Interpersonal Bonding amongst Deaf and Hard of Hearing Youth and Caregivers. citation:-1
+title:A Method with Triaxial Acceleration Sensor for Fall Detection of the Elderly in Daily Activities. citation:-1
+title:Analysis and Implementation of Embedded SNMP Agent. citation:-1
+title:Live demonstration: Spatial-temporal color video reproduction from noisy CFA sequence track: Digital signal processing. citation:-1
+title:Frame Rate Up-conversion with Edge-weighted Motion Estimation and Trilateral Interpolation. citation:-1
+title:Neighbor discovery in wireless networks using compressed sensing with Reed-Muller codes. citation:-1
+title:Performance evaluation for software migration. citation:-1
+title:LivePulse: tapping social media for sentiments in real-time. citation:-1
+title:Adoption of social software for collaboration. citation:-1
+title:Remote physiological monitoring of first responders with intermittent network connectivity. citation:-1
+title:Hierarchical multiple sensor fusion using structurally learned Bayesian network. citation:-1
+title:Sensor fusion for remote health assessment of first responders. citation:-1
+title:An environment model-based robust speech recognition. citation:-1
+title:Real-time Traffic Monitoring with Magnetic Sensor Networks. citation:-1
+title:Non-Negative Semi-Supervised Learning. citation:-1
+title:Image retrieval based on micro-structure descriptor. citation:-1
+title:From classifiers to discriminators: A nearest neighbor rule induced discriminant analysis. citation:-1
+title:Spatial-Temporal Color Video Reconstruction From Noisy CFA Sequence. citation:-1
+title:Frame Rate Up-Conversion Using Trilateral Filtering. citation:-1
+title:A Biologically Inspired Sensor Wakeup Control Method for Wireless Sensor Networks. citation:-1
+title:3-D Palmprint Recognition With Joint Line and Orientation Features. citation:-1
+title:Variable assignment and instruction scheduling for processor with multi-module memory. citation:-1
+title:Performance Analysis for Finite Sample MVDR Beamformer With Forward Backward Processing. citation:-1
+title:Time-frequency characteristics based motion estimation and imaging for high speed spinning targets via narrowband waveforms. citation:-1
+title:The optimal filtering of a class of dynamic multiscale systems. citation:-1
+title:Computerized Wrist Pulse Signal Diagnosis Using Modified Auto-Regressive Models. citation:-1
+title:Evolutionary Discriminant Feature Extraction with Application to Face Recognition. citation:-1
+title:Emerging Methods for Color Image and Video Quality Enhancement. citation:-1
+title:Global Energy Matching Method for Atomistic-to-Continuum Modeling of Self-Assembling Biopolymer Aggregates. citation:-1
+title:Homogenization of Parabolic Equations with a Continuum of Space and Time Scales. citation:-1
+title:Diffuse-interface approach to predicting morphologies of critical nucleus and equilibrium structure for cubic to tetragonal transformations. citation:-1
+title:Interference Suppression Algorithm for SAR Based on Time-Frequency Transform. citation:-1
+title:Band-Subset-Based Clustering and Fusion for Hyperspectral Imagery Classification. citation:-1
+title:High-Resolution ISAR Imaging With Sparse Stepped-Frequency Waveforms. citation:-1
+title:Modeling PSInSAR Time Series Without Phase Unwrapping. citation:-1
+title:Provably-secure electronic cash based on certificateless partially-blind signatures. citation:-1
+title:EasiTia: A Pervasive Traffic Information Acquisition System Based on Wireless Sensor Networks. citation:-1
+title:Robust forward backward based beamformer for a general-rank signal model with real-valued implementation. citation:-1
+title:Generalized eigenvector problem for Hermitian Toeplitz matrices and its application to beamforming. citation:-1
+title:A parallel evolving algorithm for flexible neural tree. citation:-1
+title:On the channel usability of Wireless Mesh Networks: when stability plays with you. citation:-1
+title:Generation of Multiple Weights in the Opportunistic Beamforming Systems. citation:-1
+title:A novel ant-based clustering algorithm using the kernel method. citation:-1
+title:Provably secure one-round identity-based authenticated asymmetric group key agreement protocol. citation:-1
+title:Identity-Based Authenticated Asymmetric Group Key Agreement Protocol. citation:-1
+title:Generating dense and super-resolution ISAR image by combining bandwidth extrapolation and compressive sensing. citation:-1
+title:Initial Alignment for SINS based on Low-cost IMU. citation:-1
+title:Key Information Expansion Applied in Spoken Document Classification based on Lattice. citation:-1
+title:Asymmetric group key agreement protocol for open networks and its application to broadcast encryption. citation:-1
+title:Automatic Image Segmentation by Dynamic Region Merging. citation:-1
+title:RepSnapping: Efficient Image Cutout for Repeated Scene Elements. citation:-1
+title:Molecular Pattern Discovery Based on Penalized Matrix Decomposition. citation:-1
+title:Metasample-Based Sparse Representation for Tumor Classification. citation:-1
+title:Desktop Software for Patch-Clamp Raw Binary Data Conversion and Preprocessing. citation:-1
+title:Beyond sparsity: The role of L-optimizer in pattern classification. citation:-1
+title:Design of 24-GHz High-Gain Receiver Front-End Utilizing ESD-Split Input Matching Network. citation:-1
+title:Injection-Locking-Based Power and Speed Optimization of CML Dividers. citation:-1
+title:Preserving Security and Privacy in Large-Scale VANETs. citation:-1
+title:APPA: Aggregate Privacy-Preserving Authentication in Vehicular Ad Hoc Networks. citation:-1
+title:A fully integrated CMOS nanoscale biosensor microarray. citation:-1
+title:Study on Linear Regression Prediction Model of County Highway Passenger Transport Volume. citation:-1
+title:Impact of imperfect channel state information on TDD downlink Multiuser MIMO system. citation:-1
+title:Research of Product Design Based and Core Value on User Based on Information Technology. citation:-1
+title:Construct Mobile Barriers of Enterprise Based on Sport Media Function of Technical Knowledge. citation:-1
+title:A robust lane boundaries detection algorithm based on gradient distribution features. citation:-1
+title:Array enhanced logical stochastic resonance in the presence of delta correlated noise. citation:-1
+title:Fully Distributed Broadcast Encryption. citation:-1
+title:Segmentation of fingerprint image by using polarimetric feature. citation:-1
+title:Authenticated Asymmetric Group Key Agreement Protocol and Its Application. citation:-1
+title:An improved back propagation neural network in objects recognition. citation:-1
+title:From one tree to a forest: a unified solution for structured web data extraction. citation:-1
+title:Query by document via a decomposition-based two-level retrieval approach. citation:-1
+title:Fabrication of vanadium oxide for uncooled FPAs using dual magnetron AC sputtering. citation:-1
+title:Design of hollow-core photonic band-gap fibers for CH4 and C2H2 optical fiber sensors. citation:-1
+title:The crack-tip higher order field of functionally graded circular plates based on Reissner's plate theory. citation:-1
+title:The higher order crack-tip field of functionally graded reissner's spherical shell. citation:-1
+title:Research on lightweight outer baffle for coaxial space camera. citation:-1
+title:Linear regression prediction model of prefecture level highway passenger transport volume. citation:-1
+title:Passenger recognition system based on body pressure distribution information. citation:-1
+title:Steering trapezoid mechanism design based on Monte Carlo method. citation:-1
+title:The higher order asymptotic fields for anti-plane oblique crack with physical weak-discontinuity. citation:-1
+title:Live Memory Acquisition through FireWire. citation:-1
+title:Rank-SIFT: Learning to rank repeatable local interest points. citation:-1
+title:Understanding dynamic behavior of mm-wave CML divider with injection-locking concept. citation:-1
+title:A Robust Multi-Modal Emotion Recognition Framework for Intelligent Tutoring Systems. citation:-1
+title:Stiffness Analysis of a Building Drum Linkage Mechanism. citation:-1
+title:Robust ICP Registration Using Biunique Correspondence. citation:-1
+title:Secure compression of privacy-preserving witnesses in vehicular ad hoc networks. citation:-1
+title:The upper bounds of punctured ring convolutional coded continuous phase modulation. citation:-1
+title:Optimization methods for resources allocation in real-time strategy games. citation:-1
+title:User browsing behavior-driven web crawling. citation:-1
+title:Capacity of TDD MISO Beamforming Systems with Channel Estimation Error and Delay. citation:-1
+title:On BER of TDD Multiuser MIMO System with Channel Estimation Error and Delay. citation:-1
+title:An Optimal Scheme for TDD Beamforming Systems with Imperfect Channel State Information. citation:-1
+title:A neighborhood condition for graphs to be maximally k-restricted edge connected. citation:-1
+title:Arcimboldo-like collage using internet images. citation:-1
+title:Misbehavior Detection Algorithm in CCSDS Space Telecommand System. citation:-1
+title:Delegation of signing rights using certificateless proxy signatures. citation:-1
+title:Secret color images sharing schemes based on XOR operation. citation:-1
+title:Topic Mining based on Word Posterior Probability in Spoken Document. citation:-1
+title:Bayesian Inverse Synthetic Aperture Radar Imaging. citation:-1
+title:A Novel Strategy of Nonnegative-Matrix-Factorization-Based Polarimetric Ship Detection. citation:-1
+title:A Variable-Decoupling- and MSR-Based Imaging Algorithm for a SAR of Curvilinear Orbit. citation:-1
+title:Energy Efficient Security Algorithm for Power Grid Wide Area Monitoring System. citation:-1
+title:Preliminary numerical simulation of pulsatile flow in aortic arch with left subciavian artery. citation:-1
+title:Cryptanalysis of a Certificateless Multi-Proxy Signature Scheme - (Short Paper). citation:-1
+title:Data Warehouse (DWH) Efficiency Evaluation Using Fuzzy Data Envelopment Analysis (FDEA). citation:-1
+title:The Impact of Internal Entrepreneurship on IS Implementation. citation:-1
+title:Applying Fuzzy Composite Programming to Assess and Compare Organizational Effectiveness of Knowledge Management Strategy. citation:-1
+title:A multi-modal emotion recognition system for persistent and non-invasive personal health monitoring. citation:-1
+title:Sensor fusion for remote health assessment of first responders. citation:-1
+title:Does Loss Rate Really Matter? An Experimental Study on Time Synchronization Protocol in Wireless Sensor Networks. citation:-1
+title:Centralized sparse representation for image restoration. citation:-1
+title:Sparsity-based image deblurring with locally adaptive and nonlocally robust regularization. citation:-1
+title:Optimal Uplink Pilot Time Interval Design for TDD MISO Beamforming Systems with Channel Estimation Error and Delay. citation:-1
+title:Grassmann Hashing for approximate nearest neighbor search in high dimensional space. citation:-1
+title:Bridging Broadcast Encryption and Group Key Agreement. citation:-1
+title:Towards Quality Based Solution Recommendation in Decision-Centric Architecture Design. citation:-1
+title:Detecting Architecture Erosion by Design Decision of Architectural Pattern. citation:-1
+title:Human Focused Video Description. citation:-1
+title:Towards coherent natural language description of video streams. citation:-1
+title:Video scene classification based on natural language description. citation:-1
+title:Adaptive Pattern-driven Compression of Large-Area High-Resolution Terrain Data. citation:-1
+title:Multi-feature pLSA for combining visual features in image annotation. citation:-1
+title:Semantic point detector. citation:-1
+title:Sketch2Cartoon: composing cartoon images by sketching. citation:-1
+title:Contextual synonym dictionary for visual object retrieval. citation:-1
+title:Web-image driven best views of 3D shapes. citation:-1
+title:Non-Shift Edge Based Ratio (NSER): An Image Quality Assessment Metric Based on Early Vision Features. citation:-1
+title:Localized Bases for Finite-Dimensional Homogenization Approximations with Nonseparated Scales and High Contrast. citation:-1
+title:Calibration of an InSAR-Derived Coseimic Deformation Map Associated With the 2011 Mw-9.0 Tohoku-Oki Earthquake. citation:-1
+title:Sparse neighbor representation for classification. citation:-1
+title:Intelligent Video Event Analysis and Understanding citation:-1
+title:Strategy of Statistics-Based Visualization for Segmented 3D Cardiac Volume Data Set. citation:-1
+title:Selecting an Appropriate Interestingness Measure to Evaluate the Correlation between Syndrome Elements and Symptoms. citation:-1
+title:Expected Error Based MMSE Detection Ordering for Iterative Detection-Decoding MIMO Systems. citation:-1
+title:Classifier fusion framework using genetic algorithms. citation:-1
+title:An intelligent multi-modal affect recognition system for persistent and non-invasive personal health monitoring. citation:-1
+title:Gene expression data classification using locally linear discriminant embedding. citation:-1
+title:Feature Band Selection for Online Multispectral Palmprint Recognition. citation:-1
+title:Security analysis and enhancement for three-party password-based authenticated key exchange protocol. citation:-1
+title:Sparse Representation Classifier for microaneurysm detection and retinal blood vessel extraction. citation:-1
+title:Grasping the structure of journal articles: Utilizing the functions of information units. citation:-1
+title:Collaborative Representation based Classification for Face Recognition citation:-1
+title:Regularized Robust Coding for Face Recognition citation:-1
+title:Rotation-Invariant Nonrigid Point Set Matching in Cluttered Scenes. citation:-1
+title:A Novel Breath Analysis System Based on Electronic Olfaction. citation:-1
+title:Noisy Signal Compression by Wavelet Transform with Optimal Downsampling. citation:-1
+title:Preface. citation:-1
+title:Phase congruency induced local features for finger-knuckle-print recognition. citation:-1
+title:Design and Implementation of Ultralow Current-Mode Amplifier for Biosensor Applications. citation:-1
+title:Performance evaluation for software migration (abstracts only). citation:-1
+title:EXCOL: An EXtract-and-COmplete Layering Approach to Cartoon Animation Reusing. citation:-1
+title:Research of Neural Network Classifier Based on FCM and PSO for Breast Cancer Classification. citation:-1
+title:Wireless peer-to-peer mutual broadcast via sparse recovery. citation:-1
+title:Capacity of Gaussian channels with duty cycle and power constraints. citation:-1
+title:CompSC: live migration with pass-through devices. citation:-1
+title:A Mathematical Model for Human Flesh Search Engine. citation:-1
+title:Integrating Temporal Usage Pattern into Personalized Tag Prediction. citation:-1
+title:An efficient memorization scheme for relevance feedback in image retrieval. citation:-1
+title:A pivot-based filtering algorithm for enhancing query performance of LSH. citation:-1
+title:Content Adaptive Subsampling for Stereo Interleaving Video Coding. citation:-1
+title:A Robust Motion Compensation Approach for UAV SAR Imagery. citation:-1
+title:Low-Dose X-ray CT Reconstruction via Dictionary Learning. citation:-1
+title:Self-adaptive Monte Carlo localization for mobile robots using range finders. citation:-1
+title:Robust beamforming for coherent signals based on the spatial-smoothing technique. citation:-1
+title:Color demosaicking with an image formation model and adaptive PCA. citation:-1
+title:Provably secure threshold public-key encryption with adaptive security and short ciphertexts. citation:-1
+title:Performance improvement in multi-ship imaging for ScanSAR based on sparse representation. citation:-1
+title:Coherent processing for ISAR imaging with sparse apertures. citation:-1
+title:Activity Invariant Sets and Exponentially Stable Attractors of Linear Threshold Discrete-Time Recurrent Neural Networks. citation:-1
+title:Duplicate-Search-Based Image Annotation Using Web-Scale Data. citation:-1
+title:Capacity of Gaussian Channels with Duty Cycle and Power Constraints citation:-1
+title:Constructing L2-Graph For Subspace Learning and Segmentation citation:-1
+title:A framework for merging and ranking of answers in DeepQA. citation:-1
+title:Structured data and inference in DeepQA. citation:-1
+title:Typing candidate answers using type coercion. citation:-1
+title:Finding Celebrities in Billions of Web Images. citation:-1
+title:A probabilistic graphical model for topic and preference discovery on social media. citation:-1
+title:A Modified Statistically Optimal Null Filter Method for Recognizing Protein-coding Regions. citation:-1
+title:Arbitrary body segmentation in static images. citation:-1
+title:CRAC: Cognitive Radio Assisted Cooperation for Downlink Transmissions in OFDMA-Based Cellular Networks. citation:-1
+title:Incremental Shared Subspace Learning for Multi-label Classification. citation:-1
+title:A study of human flesh search with epidemic models. citation:-1
+title:A perceptual quality based rate distortion model. citation:-1
+title:Sequence-Based Prediction of Protein-Protein Interactions Using Random Tree and Genetic Algorithm. citation:-1
+title:Query Range Sensitive Probability Guided Multi-probe Locality Sensitive Hashing. citation:-1
+title:Reconfigurable Designs for Networking Silicon. citation:-1
+title:Mobile device positioning using learning and cooperation. citation:-1
+title:LogisticLDA: Regularizing Latent Dirichlet Allocation by Logistic Regression. citation:-1
+title:A three-level component model in component based software development. citation:-1
+title:Research on a Method of Combat Simulation Creditability Evaluation Based on Event Logic Analysis. citation:-1
+title:Hybrid flexible neural tree for exchange rates forecasting. citation:-1
+title:Associative classification using an immune optimization algorithm. citation:-1
+title:True random bit generator based on cell phone recording and chaotic encryption. citation:-1
+title:Application of improved HU moments in object recognition. citation:-1
+title:Energy Efficient k-Anycast Routing in Multi-sink Wireless Networks with Guaranteed Delivery. citation:-1
+title:Efficient Tag Mining via Mixture Modeling for Real-Time Search-Based Image Annotation. citation:-1
+title:Trip Mining and Recommendation from Geo-tagged Photos. citation:-1
+title:Spatio-temporal SIFT and Its Application to Human Action Classification. citation:-1
+title:Pairwise Rotation Invariant Co-occurrence Local Binary Pattern. citation:-1
+title:Efficient Misalignment-Robust Representation for Real-Time Face Recognition. citation:-1
+title:Free Hand-Drawn Sketch Segmentation. citation:-1
+title:Robust Point Matching Revisited: A Concave Optimization Approach. citation:-1
+title:Evaluation of Image Segmentation Quality by Adaptive Ground Truth Composition. citation:-1
+title:3D visual phrases for landmark recognition. citation:-1
+title:Semi-coupled dictionary learning with applications to image super-resolution and photo-sketch synthesis. citation:-1
+title:QsRank: Query-sensitive hash code ranking for efficient ?-neighbor search. citation:-1
+title:The scale of edges. citation:-1
+title:PartBook for image parsing. citation:-1
+title:Relaxed collaborative representation for pattern classification. citation:-1
+title:A transformer-based filtering technique to lower LC-oscillator phase noise. citation:-1
+title:Moment Exponential Stability of Neutral Impulsive Nonlinear Stochastic Delay Partial Differential Equations. citation:-1
+title:Classification of Innovative Companies in Chinese Sporting Goods Manufacturing Industry - Analysis Based on Patent Application. citation:-1
+title:MAXSAT Heuristics for Cost Optimal Planning. citation:-1
+title:Area Spectral Efficiency of Cooperative Network with Opportunistic Relaying. citation:-1
+title:Monogenic Binary Coding: An Efficient Local Feature Extraction Approach to Face Recognition. citation:-1
+title:Image reconstruction with locally adaptive sparsity and nonlocal robust regularization. citation:-1
+title:Research on Diagnosis of AC Engine Wear Fault Based on Support Vector Machine and Information Fusion. citation:-1
+title:l Restoration of l-Decoded Images Via Soft-Decision Estimation. citation:-1
+title:Hierarchical Narrative Collage For Digital Photo Album. citation:-1
+title:A survey of graph theoretical approaches to image segmentation. citation:-1
+title:Analogical Reasoning for Answer Ranking in Social Question Answering. citation:-1
+title:Collaborative neighbor representation based classification using l-minimization approach. citation:-1
+title:Decomposition of Automorphisms of Certain Solvable Subalgebra of Symplectic Lie Algebra over Commutative Rings. citation:-1
+title:SSIM-Based Error Resilient Video Coding over Packet-Switched Networks. citation:-1
+title:The Research of the Face's Depth Information Generation Technology Based on the Candide Model. citation:-1
+title:Dedal-CDL: Modeling First-class Architectural Changes in Dedal. citation:-1
+title:A unified model and direct extraction methodologies of various CPWs for CMOS mm-wave applications. citation:-1
+title:FPGA-based Accelerator Design for RankBoost in Web Search Engines. citation:-1
+title:Lock-Visor: An Efficient Transitory Co-scheduling for MP Guest. citation:-1
+title:Practical Privacy for Value-Added Applications in Vehicular Ad Hoc Networks. citation:-1
+title:Data Independent Method of Constructing Distributed LSH for Large-Scale Dynamic High-Dimensional Indexing. citation:-1
+title:MyStore: A High Available Distributed Storage System for Unstructured Data. citation:-1
+title:CAR: Contour-based routing in wireless sensor networks. citation:-1
+title:A teleoperation system for mobile robot BCAR-01 with multiple viewpoints virtual scene. citation:-1
+title:A stochastic scattering particle swarm optimizer. citation:-1
+title:An effective approach for active tracking with a PTZ camera. citation:-1
+title:A networked teleoperation system for mobile robot with wireless serial communication. citation:-1
+title:Feasibility of Along-Track Displacement Measurement From Sentinel-1 Interferometric Wide-Swath Mode. citation:-1
+title:Compact Integrated Energy Systems for Distributed Generation. citation:-1
+title:Head pose estimation based on Active Shape Model and Relevant Vector Machine. citation:-1
+title:Sketch2Tag: automatic hand-drawn sketch recognition. citation:-1
+title:Query-adaptive shape topic mining for hand-drawn sketch recognition. citation:-1
+title:A rapid flower/leaf recognition system. citation:-1
+title:Towards indexing representative images on the web. citation:-1
+title:Construction and Sharp Consistency Estimates for Atomistic/Continuum Coupling Methods with General Interfaces: A Two-Dimensional Model Problem. citation:-1
+title:Stereoscopic Perceptual Video Coding Based on Just-Noticeable-Distortion Profile. citation:-1
+title:Regularized Discriminant Embedding for Visual Descriptor Learning citation:-1
+title:Distribution-Aware Locality Sensitive Hashing. citation:-1
+title:An Error Resilient Depth Map Coding Scheme Using Adaptive Wyner-Ziv Frame. citation:-1
+title:SSIM-Based End-to-End Distortion Model for Error Resilient Video Coding over Packet-Switched Networks. citation:-1
+title:ILP security optimization method for embedded systems with timing constraints. citation:-1
+title:S-FTL: An efficient address translation for flash memory by exploiting spatial locality. citation:-1
+title:Formation Flight of Multi-agent Based on Formation Feedback Control. citation:-1
+title:Corrigendum: "Provably-secure electronic cash based on certicateless partially-blind signatures". citation:-1
+title:Sparse Representation Based Image Interpolation With Nonlocal Autoregressive Modeling. citation:-1
+title:Nonlocally Centralized Sparse Representation for Image Restoration. citation:-1
+title:A Multiscale Approach to Retinal Vessel Segmentation Using Gabor Filters and Scale Multiplication. citation:-1
+title:Land cover classification using decision tree techniques at mesoscale structure in Three Gorge Dam, China. citation:-1
+title:Hyperspectral image classification based on Multiple Improved particle swarm cooperative optimization and SVM. citation:-1
+title:High order co-occurrence of visualwords for action recognition. citation:-1
+title:A comprehensive evaluation of full reference image quality assessment algorithms. citation:-1
+title:Generating coherent natural language annotations for video streams. citation:-1
+title:Gifts from Chinese Medicine for diabetic nephropathy: Ancient formulas in modern times. citation:-1
+title:A model and dynamics for reticulated supply chain based on multi-agent system. citation:-1
+title:Task Scheduling Based on PSO Algorithm in Computational Grid. citation:-1
+title:Generalization Bounds for Domain Adaptation. citation:-1

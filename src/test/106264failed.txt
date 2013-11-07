@@ -1,0 +1,352 @@
+title:Design, Analysis and Performance Evaluation of Group Key Establishment in Wireless Sensor Networks. citation:-1
+title:Graph Properties that Facilitate Travelling citation:-1
+title:Efficient Algorithms for Constant Well Supported Approximate Equilibria in Bimatrix Games. citation:-1
+title:The Diameter of Connected Components of Random Graphs. citation:-1
+title:On the Random Generation and Counting of Matchings in Dense Graphs. citation:-1
+title:Efficient Distributed Algorithms by Using The Archimedean Time Assumption. citation:-1
+title:Efficient Sequential and Parallel Algorithms for the Negative Cycle Problem. citation:-1
+title:The chromatic and clique numbers of random scaled sector graphs. citation:-1
+title:Efficient sensor network design for continuous monitoring of moving objects. citation:-1
+title:The Dynamics of Probabilistic Population Protocols citation:-1
+title:Combining Tentative and Definite Executions for Very Fast Dependable Parallel Computing (Extended Abstract) citation:-1
+title:On the Fault Tolerance of Fat-Trees. citation:-1
+title:Efficient Robust Parallel Computations (Extended Abstract) citation:-1
+title:Optimal Parallel Algorithms for Sparse Graphs. citation:-1
+title:Distributed Pursuit-Evasion: Some Aspects of Privacy and Security in Distributed Computing. citation:-1
+title:On the Support Size of Stable Strategies in Random Games. citation:-1
+title:Efficient Computations on Fault-Prone BSP Machines. citation:-1
+title:MaxMin Fair Flow Control Sensitive to Priorities. citation:-1
+title:Best Response Algorithms for Selfish Routing. citation:-1
+title:Parallel Text Retrieval on a High Performance Super Computer Using the Vector Space Model. citation:-1
+title:``Dynamic-Fault-Prone BSP'': A Paradigm for Robust Computations in Changing Environments. citation:-1
+title:Preface. citation:-1
+title:Unbounded Speed Variability in Distributed Communication Systems. citation:-1
+title:Distributed Algorithms for Synchronizing Interprocess Communication within Real Time citation:-1
+title:Strong NP-Hardness of Moving Many Discs. citation:-1
+title:Random Matroids citation:-1
+title:Random sampling of colourings of sparse random graphs with a constant number of colours citation:-1
+title:An Efficient Routing Protocol for Hierarchical Ad-hoc Mobile Networks. citation:-1
+title:Efficient Communication Establishment in Adverse Communication Environments. citation:-1
+title:The Global Efficiency of Distributed, Rate-Based, Flow Control Algorithms. citation:-1
+title:Short Vertex Disjoint Paths and Multiconnectivity in Random Graphs: Reliable Network Computing. citation:-1
+title:Stocastic Graphs Have Short Memory: Fully Dynamic Connectivity in Poly-Log Expected Time. citation:-1
+title:The Existence and Efficient Construction of Large Independent Sets in General Random Intersection Graphs. citation:-1
+title:The price of optimum in Stackelberg games on arbitrary single commodity networks and latency functions. citation:-1
+title:Atomic Congestion Games: Fast, Myopic and Concurrent. citation:-1
+title:Approximate Equilibria for Strategic Two Person Games. citation:-1
+title:Efficiency of Oblivious Versus Non-Oblivious Schedules for Optimistic, Rate-Based Flow Control (Extended Abstract). citation:-1
+title:Extreme Nash Equilibria. citation:-1
+title:Parallel Complexity of the Connected Subgraph Problem. citation:-1
+title:Optimal Parallel Randomized Algorithms for Addition Sparse Addition and Identification citation:-1
+title:Near-Optimal Dominating Sets in Dense Random Graphs in Polynomial Expected Time. citation:-1
+title:Direct Routing: Algorithms and Complexity. citation:-1
+title:A Graph Spectral Approach for Computing Approximate Nash Equilibria citation:-1
+title:Unbounded Speed Variability in Distributed Communications Systems. citation:-1
+title:A Network Game with Attackers and a Defender. citation:-1
+title:On the performance of approximate equilibria in congestion games citation:-1
+title:A Trust-Centered Approach for Building E-Voting Systems. citation:-1
+title:Preface. citation:-1
+title:FIFO is Unstable at Arbitrarily Low Rates citation:-1
+title:Max-min Fair Flow Control Sensitive to Priorities. citation:-1
+title:Cost Sharing Mechanisms for Fair Pricing of Resource Usage. citation:-1
+title:Simple Atomic Snapshots: A Linear Complexity Solution with Unbounded Time-Stamps. citation:-1
+title:Algorithms for pure Nash equilibria in weighted congestion games. citation:-1
+title:Radiocoloring in planar graphs: Complexity and approximations. citation:-1
+title:Selfish unsplittable flows. citation:-1
+title:The Impact of Network Structure on the Stability of Greedy Protocols. citation:-1
+title:Radiocolorings in periodic planar graphs: PSPACE-completeness and efficient approximations for the optimal range of frequencies. citation:-1
+title:Hardness Results and Efficient Approximations for Frequency Assignment Problems: Radio Labelling and Radio Coloring. citation:-1
+title:Real Time Resource Allocation in Distributed Systems. citation:-1
+title:Expander properties and the cover time of random intersection graphs. citation:-1
+title:Efficient Parallel Algorithms for some Tree Layout Problems. citation:-1
+title:Counting Stable Strategies in Random Evolutionary Games. citation:-1
+title:Robust Parallel Computations through Randomization. citation:-1
+title:The Parallel Complexity of Deadlock Detection. citation:-1
+title:STEPS: Supporting Traditional Education Procedures-A TCP/IP Multimedia Networks-Based Model. citation:-1
+title:A step-wise refinement approach for enhancing e-voting acceptance. citation:-1
+title:Distributed Protocols Against Mobile Eavesdroppers. citation:-1
+title:Symmetry Breaking in Asynchronous Rings with O(n) Messages. citation:-1
+title:Direct Routing: Algorithms and Complexity. citation:-1
+title:Hammock-on-Ears Decomposition: A Technique for the Efficient Parallel Solution of Shortest Paths and Other Problems. citation:-1
+title:Introduction. citation:-1
+title:The Complexity of The Reliable Connectivity Problem. citation:-1
+title:Performance Models for Perfect and Imperfect Clocks on Timestamp Ordering in Distributed Databases. citation:-1
+title:Optimal, Distributed Decision-Making: The Case of No Communication. citation:-1
+title:On the Performance of Approximate Equilibria in Congestion Games. citation:-1
+title:Efficiency of Oblivious versus Nonoblivious Schedulers for Optimistic, Rate-based Flow Control. citation:-1
+title:An Application of the Monotone Linearizability Lemma. citation:-1
+title:A Cost Mechanism for Fair Pricing of Resource Usage. citation:-1
+title:A Game Theoretic Approach for Efficient Graph Coloring. citation:-1
+title:Queueing Delays in Buffered Multistage Interconnection Networks. citation:-1
+title:SPEED: Scalable Protocols for Efficient Event Delivery in Sensor Networks. citation:-1
+title:The Impact of Network Structure on the Stability of Greedy Protocols. citation:-1
+title:A Hamiltonian Approach to the Assignment of Non-reusable Frequencies. citation:-1
+title:A probabilistic algorithm for efficient and robust data propagation in wireless sensor networks. citation:-1
+title:Computing on a Partially Eponymous Ring. citation:-1
+title:Preface. citation:-1
+title:Efficient Scheduling of DAGs and Sets of Chains on a Simple Asymmetric Multicore Model citation:-1
+title:Reading Many Variables in One Atomic Operation: Solutions With Linear or Sublinear Complexity. citation:-1
+title:A Graph-Theoretic Network Security Game. citation:-1
+title:Polynomial algorithms for approximating Nash equilibria of bimatrix games. citation:-1
+title:Reading Many Variables in One Atomic Operation: Solutions with Linear or Sublinear Complexity. citation:-1
+title:On the Stability of Compositions of Universally Stable, Greedy Contention-Resolution Protocols. citation:-1
+title:Polynomial Algorithms for Approximating Nash Equilibria of Bimatrix Games. citation:-1
+title:The Price of Defense and Fractional Matchings. citation:-1
+title:The Threshold Behaviour of the Fixed Radius Random Graph Model and Applications to the Key Management Problem of Sensor Networks. citation:-1
+title:On the robustness of interconnections in random graphs: a symbolic approach. citation:-1
+title:How to Tell a Good Neighborhood from a Bad One: Satisfiability of Boolean Formulas. citation:-1
+title:Efficient Convergence to Pure Nash Equilibria in Weighted Network Congestion Games. citation:-1
+title:Atomic Selfish Routing in Networks: A Survey. citation:-1
+title:Stability Issues in Heterogeneous and FIFO Networks under the Adversarial Queueing Model. citation:-1
+title:Expander Properties and the Cover Time of Random Intersection Graphs. citation:-1
+title:NanoPeer Networks and P2P Worlds. citation:-1
+title:Combinatorial properties for efficient communication in distributed networks with local interactions. citation:-1
+title:Stackelberg Games: The Price of Optimum. citation:-1
+title:Performance and Stability Bounds for Dynamic Networks. citation:-1
+title:Attack Modelling in Open Network Environments. citation:-1
+title:The Fourth Moment in Luby's Distribution. citation:-1
+title:The Cost of Concurrent, Low-Contention Read-Modify-Write. citation:-1
+title:Hamilton Cycles in Random Intersection Graphs. citation:-1
+title:Computing on a partially eponymous ring. citation:-1
+title:Book review. citation:-1
+title:Polynomial Algorithms for Approximating Nash Equilibria of Bimatrix Games. citation:-1
+title:Colouring Non-sparse Random Intersection Graphs. citation:-1
+title:Advances in Rate-Based Flow Control. citation:-1
+title:Attack propagation in networks. citation:-1
+title:Distributed communication algorithms for ad hoc mobile networks. citation:-1
+title:Distributed Communication Algorithms. citation:-1
+title:Recent Advances in Population Protocols. citation:-1
+title:The Global Efficiency of Distributed, Rate-Based, Flow Control Algorithms. citation:-1
+title:Efficient Information Propagation Algorithms in Smart Dust and NanoPeer Networks. citation:-1
+title:The Survival of the Weakest in Networks. citation:-1
+title:Distributed System Simulator (DSS). citation:-1
+title:On Radiocoloring Hierarchically Specified Planar Graphs: PSPACE-Completeness and Approximations. citation:-1
+title:A Very Fast, Practical Algorithm for Finding a Negative Cycle in a Digraph. citation:-1
+title:Efficient Distributed Algorithms by Using the Archemedean Time Assumption. citation:-1
+title:Fast Parallel Algorithms for Coloring Random Graphs. citation:-1
+title:Evolutionary Games: An Algorithmic View. citation:-1
+title:Input Sensitive, Optimal Parallel Randomized Algorithms for Addition and Identification. citation:-1
+title:The Volume of the Union of Many Sheres and Point Inclusion Problems. citation:-1
+title:Atomic congestion games among coalitions. citation:-1
+title:An Analytical Performance Model for Multistage Interconnection Networks with Finite, Infinite and Zero Length Buffers. citation:-1
+title:Performance Modeling of Distributed Timestamp Ordering: Perfect and Imperfect Clocks. citation:-1
+title:Trade-Offs between Density and Robustness in Random Interconnection Graphs. citation:-1
+title:Enabling Distance Education over the World Wide Web. citation:-1
+title:The infection time of graphs. citation:-1
+title:Probabilistic Techniques in Algorithmic Game Theory. citation:-1
+title:Hardness Results and Efficient Appromixations for Frequency Assignment Problems and the Radio Coloring Problem. citation:-1
+title:Optimal, Distributed Decision-Making: The Case of no Communication. citation:-1
+title:Minimum Congestion Redundant Assignments. citation:-1
+title:Randomized Adaptive Video on Demand (Abstract). citation:-1
+title:Myopic Distributed Protocols for Singleton and Independent-Resource Congestion Games. citation:-1
+title:The Range of Stability for Heterogeneous and FIFO Queueing Networks citation:-1
+title:Approximation schemes for scheduling and covering on unrelated machines. citation:-1
+title:Tight RNC Approximations to Max Flow. citation:-1
+title:Full and Local Information in Distributed Decision Making. citation:-1
+title:Expected Parallel Time and Sequential Space Complexity of Graph and Digraph Problems. citation:-1
+title:Competitive Video on Demand Schedulers for Popular Movies. citation:-1
+title:Brief Announcement: Decidable Graph Languages by Mediated Population Protocols. citation:-1
+title:Editor's Foreword. citation:-1
+title:A New Scheduling Algorithm for General Strict Multithreaded Computations. citation:-1
+title:The Parallel Complexity of the Subgraph Connectivity Problem citation:-1
+title:The Approximability of Problems Complete for P. citation:-1
+title:The Performance of Multistage Interconnection Networks with Finite Buffers. citation:-1
+title:Approximate Queueing Models for the Load Balancing Problem. citation:-1
+title:Computing 1/3-approximate Nash equilibria of bimatrix games in polynomial time.. citation:-1
+title:A Security Model for Internet-Based Digital Asset Management Systems. citation:-1
+title:The Parallel Complexity of Deadlock Detection. citation:-1
+title:The Second Eigenvalue of Random Walks On Symmetric Random Intersection Graphs. citation:-1
+title:Cost Sharing Mechanisms for Fair Pricing of Resources Usage. citation:-1
+title:A Cost Mechanism for Fair Pricing of Resource Usage. citation:-1
+title:Efficient Communication Establishment in Extremely Unreliable Large Networks citation:-1
+title:Real-Time Synchronization of Interprocess Communications. citation:-1
+title:Independent Sets in Random Intersection Graphs. citation:-1
+title:The price of optimum in Stackelberg games on arbitrary single commodity networks and latency functions. citation:-1
+title:A probabilistic key agreement scheme for sensor networks without key predistribution citation:-1
+title:On the support size of stable strategies in random games. citation:-1
+title:Structure and complexity of extreme Nash equilibria. citation:-1
+title:Cost-Balancing Tolls for Atomic Network Congestion Games. citation:-1
+title:Wormhole Versus Deflection Routing: A Case Study on the Mesh. citation:-1
+title:Analysis of the Information Propagation Time Among Mobile Hosts. citation:-1
+title:Connectivity Properties in Random Regular Graphs with Edge Faults. citation:-1
+title:Symmetry in Network Congestion Games: Pure Equilibria and Anarchy Cost. citation:-1
+title:A Competitive Symmetrical Transfer Policy for Load Sharing. citation:-1
+title:Positive Linear Programming Extensions: Parallel Complexity and Applications (Research Note). citation:-1
+title:Parallel Processing of Multiple Text Queries on Hypercube Interconnection Networks. citation:-1
+title:Instability of Networks with Quasi-Static Link Capacities. citation:-1
+title:Parallel Processing of Multiple Text Queries on Hypercube Interconnection Networks. citation:-1
+title:Wormhole Routing Simulation on a Mesh. citation:-1
+title:Randomized Competitive Algorithms for Admission Control in General Networks (Abstract). citation:-1
+title:The Price of Optimum in Stackelberg Games citation:-1
+title:Minimum Congestion Redundant Assignments to Tolerate Random Faults. citation:-1
+title:Scheduling Algorithms for Strict Multithreaded Computations. citation:-1
+title:The Logical "First Mile-Last Mile" Digital Termination Systems (Abstract only). citation:-1
+title:Selfish Load Balancing Under Partial Knowledge. citation:-1
+title:Not All Fair Probabilistic Schedulers Are Equivalent. citation:-1
+title:The Price of Defense. citation:-1
+title:The cost of concurrent, low-contention Read&Modify&Write. citation:-1
+title:Efficient Parallel Algorithms for Shortest Paths in Planar Digraphs. citation:-1
+title:Hammock-on-Ears Decomposition: A Technique for the Efficient Parallel Solution of Shortest Paths and Other Problems. citation:-1
+title:Tentative and Definite Distributed Computations: An Optimistic Approach to Network Synchronization. citation:-1
+title:On the Existence of Hamiltonian Cycles in Random Intersection Graphs. citation:-1
+title:Well Supported Approximate Equilibria in Bimatrix Games: A Graph Theoretic Approach. citation:-1
+title:Efficient Parallel Algorithms for Shortest Paths in Planar Graphs. citation:-1
+title:Radiocolorings in Periodic Planar Graphs: PSPACE-Completeness and Efficient Approximations for the Optimal Range of Frequencies. citation:-1
+title:Performance Evaluation of a Descent Algorithm for Bi-matrix Games. citation:-1
+title:Performance and stability bounds for dynamic networks. citation:-1
+title:Experimental Results for Stackelberg Scheduling Strategies. citation:-1
+title:Network Game with Attacker and Protector Entities. citation:-1
+title:Expander Properties in Random Regular Graphs with Edge Faults. citation:-1
+title:Agent-based Distributed Group Key Establishment in Wireless Sensor Networks. citation:-1
+title:Tentative and Definite Distributed Computations: An Optimistic Approach to Network Synchronization. citation:-1
+title:Algorithms and Experiments on Colouring Squares of Planar Graphs. citation:-1
+title:Lower Bounds and Efficient Algorithms for Multiprocessor Scheduling of Directed Acyclic Graphs with Communication Delays citation:-1
+title:Efficient Scheduling of Strict Multithreaded Computations. citation:-1
+title:Pure Greedy Hot-Potato Routing in the 2-D Mesh with Random Destinations. citation:-1
+title:BSP versus LogP. citation:-1
+title:The Dynamics of Probabilistic Population Protocols. citation:-1
+title:Fast Parallel Algorithms for Processing of Joins. citation:-1
+title:The Perfect and Imperfect Clocks Approach to Performance Analysis of Basic Timestamp Ordering in Distributed Databases. citation:-1
+title:The "Hot Potato" Case: Challenges in Multiplayer Pervasive Games Based on Ad hoc Mobile Sensor Networks and the Experimental Evaluation of a Prototype Game citation:-1
+title:Keynote Talk Summary: Algorithmic Aspects of Sensor Networks. citation:-1
+title:The Power of the Defender. citation:-1
+title:Efficient Methods for Selfish Network Design. citation:-1
+title:A Comparative Study Of Protocols For Efficient Data Propagation In Smart Dust Networks. citation:-1
+title:The Impact of Social Ignorance on Weighted Congestion Games. citation:-1
+title:Distributed Algorithm Engineering. citation:-1
+title:Implementation and Testing Eavesdropper Protocols Using the DSP Tool. citation:-1
+title:The increase of the instability of networks due to Quasi-Static link capacities. citation:-1
+title:Counting in Mobile Networks: Theory and Experimentation. citation:-1
+title:Probabilistic Bidding Gives Optimal Distributed Resource Allocation. citation:-1
+title:Algorithmic and Foundational Aspects of Sensor Systems: (Invited Talk). citation:-1
+title:Mediated Population Protocols. citation:-1
+title:Efficient Sensor Network Design for Continuous Monitoring of Moving Objects. citation:-1
+title:Random sampling of colourings of sparse random graphs with a constant number of colours. citation:-1
+title:Fast parallel algorithms and the complexity of parallelism (Basic issues and recent advances). citation:-1
+title:A Conceptual DataBase Approach for Modelling 3D Objects of Irregular Geometry. citation:-1
+title:A Parallel Algorithm for Two Processors Precedence Constraint Scheduling. citation:-1
+title:Probabilistic Log-Space Reductions and Problems Probabilistically Hard for P. citation:-1
+title:Optimal Algorithms for Detecting Network Stability. citation:-1
+title:Efficient and Robust Protocols for Local Detection and Propagation in Smart Dust Networks. citation:-1
+title:Simple and Efficient Greedy Algorithms for Hamilton Cycles in Random Intersection Graphs. citation:-1
+title:Intrusion detection: Approach and performance issues of the SECURENET system. citation:-1
+title:Equilibrium Points in Fear of Correlated Threats. citation:-1
+title:An efficient deterministic parallel algorithm for two processors precedence constraint scheduling. citation:-1
+title:Optimal High-Performance Parallel Text Retrieval via Fat-Trees. citation:-1
+title:Attack Propagation in Networks. citation:-1
+title:Implementation an Experimental Evaluation of Graph Connectivity Algorithms Using LEDA. citation:-1
+title:Randomized Approximation Schemes for Scheduling Unrelated Parallel Machines citation:-1
+title:A hierarchical adaptive distributed algorithm for load balancing. citation:-1
+title:k-connectivity in random undirected graphs. citation:-1
+title:Game authority for robust andscalable distributed selfish-computer systems. citation:-1
+title:Selfish Unsplittable Flows. citation:-1
+title:Analysis and Experimental Evaluation of an Innovative and Efficient Routing Protocol for Ad-hoc Mobile Networks. citation:-1
+title:Electronic National Lotteries. citation:-1
+title:A Semantic Approach to Correctness of Concurrent Transaction Executions. citation:-1
+title:An Experimental Study of Basic Communication Protocols in Ad-hoc Mobile Networks. citation:-1
+title:Strategies for repeated games with subsystem takeovers: implementable by deterministic and self-stabilizing automata (extended abstract). citation:-1
+title:Atomic Congestion Games Among Coalitions. citation:-1
+title:A glimpse at Christos H. Papadimitriou. citation:-1
+title:Fundamental Distributed Protocols in Mobile Networks. citation:-1
+title:Random Walks, Conditional Hitting Sets and Partial Derandomization citation:-1
+title:Surveillance and Protection in IBC Management: The Applicability of Two RACE Security Projects - SecureNet II and SESAME. citation:-1
+title:A General Performance Model for Multistage Interconnection Networks. citation:-1
+title:A note on proofs of existence of Nash equilibria in finite strategic games, of two players. citation:-1
+title:The Complexity of the Reliable Connectivity Problem. citation:-1
+title:The Characteristic Algorithmic Approach for Ad-hoc Mobile Networks (Column: Distributed Computing). citation:-1
+title:Developing multiplayer pervasive games and networked interactive installations using ad hoc mobile sensor nets. citation:-1
+title:Large independent sets in general random intersection graphs. citation:-1
+title:Fast Parallel Approximations of hte Maximum Weighted Cut Problem through Derandomization. citation:-1
+title:Brain Data Base (BDB). citation:-1
+title:The Contribution of Game Theory to Complex Systems. citation:-1
+title:A Comparative Study of Protocols for Efficient Data Propagation in Smart Dust Networks. citation:-1
+title:Parallel Techniques For Efficient Searching Over Very Large Text Collections. citation:-1
+title:Simple Atomic Snapshots: A Linear Complexity Solution with Unbounded Time-Stamps. citation:-1
+title:On-Demand Hypermedia/Multimedia Service over Broadband Networks. citation:-1
+title:"Trust Engineering: " From Requirements to System Design and Maintenance - A Working National Lottery System Experience. citation:-1
+title:Trust in global computing systems as a limit property emerging from short range random interactions. citation:-1
+title:Multiplayer pervasive games and networked interactive installations using ad hoc mobile sensor networks. citation:-1
+title:An Object-Oriented Data Model for the Intelligent Support of Three-Dimensional Objects. citation:-1
+title:(poly(log log n), poly(log log n))-Restricted Verifiers are Unlikely to Exist for Languages in NP. citation:-1
+title:Exploiting Concavity in Bimatrix Games: New Polynomially Tractable Subclasses. citation:-1
+title:VLSI Algorithms and Architectures, Aegean Workshop on Computing, Loutraki, Greece, July 8-11, 1986, Proceedings citation:-1
+title:Distributed Computing in Sensor Systems, First IEEE International Conference, DCOSS 2005, Marina del Rey, CA, USA, June 30 - July 1, 2005, Proceedings citation:-1
+title:Information security for sensors by overwhelming random sequences and permutations. citation:-1
+title:Algorithms - ESA '95, Third Annual European Symposium, Corfu, Greece, September 25-27, 1995, Proceedings citation:-1
+title:Automata, Languages and Programming, 28th International Colloquium, ICALP 2001, Crete, Greece, July 8-12, 2001, Proceedings citation:-1
+title:Automata, Languages and Programming, 37th International Colloquium, ICALP 2010, Bordeaux, France, July 6-10, 2010, Proceedings, Part I citation:-1
+title:Automata, Languages and Programming, 37th International Colloquium, ICALP 2010, Bordeaux, France, July 6-10, 2010, Proceedings, Part II citation:-1
+title:All Symmetric Predicates in () Are Stably Computable by the Mediated Population Protocol Model. citation:-1
+title:SIROCCO'96, The 3rd International Colloquium on Structural Information & Communication Complexity, Siena, Italy, June 6-8, 1996 citation:-1
+title:SIROCCO 7, Proceedings of the 7th International Colloquium on Structural Information and Communication Complexity, Laquila, Italy, June 20-22, 2000 citation:-1
+title:SPAA 2005: Proceedings of the 17th Annual ACM Symposium on Parallel Algorithms, July 18-20, 2005, Las Vegas, Nevada, USA citation:-1
+title:Brief announcement: fun in numbers - a platform for sensor-based multiplayer pervasive games. citation:-1
+title:Stably Decidable Graph Languages by Mediated Population Protocols. citation:-1
+title:Algorithmic Verification of Population Protocols. citation:-1
+title:Internet and Network Economics, Second International Workshop, WINE 2006, Patras, Greece, December 15-17, 2006, Proceedings citation:-1
+title:Passively Mobile Communicating Logarithmic Space Machines citation:-1
+title:Atomic Congestion Games: Fast, Myopic and Concurrent. citation:-1
+title:Game authority for robust and scalable distributed selfish-computer systems. citation:-1
+title:Sharp thresholds for Hamiltonicity in random intersection graphs. citation:-1
+title:Cost-Balancing Tolls for Atomic Network Congestion Games. citation:-1
+title:Preface to special issue on cooperation in selfish systems. citation:-1
+title:The survival of the weakest in networks. citation:-1
+title:Information security for sensors by overwhelming random sequences and permutations. citation:-1
+title:Algorithmic Game Theory - Third International Symposium, SAGT 2010, Athens, Greece, October 18-20, 2010. Proceedings citation:-1
+title:Well Supported Approximate Equilibria in Bimatrix Games. citation:-1
+title:A Graph Spectral Approach for Computing Approximate Nash Equilibria. citation:-1
+title:Distributed Game-Theoretic Vertex Coloring. citation:-1
+title:Practical and Efficient Approximations of Nash Equilibria for Win-Lose Games Based on Graph Spectra. citation:-1
+title:Passively Mobile Communicating Machines that Use Restricted Space citation:-1
+title:Probabilistic Distributed Algorithms for Energy Efficient Routing and Tracking in Wireless Sensor Networks. citation:-1
+title:Passively mobile communicating machines that use restricted space. citation:-1
+title:Rationality authority for provable rational behavior. citation:-1
+title:Approximability of Symmetric Bimatrix Games and Related Experiments. citation:-1
+title:Can Formalism Alone Provide an Answer to the Quest of a Viable Definition of Trust in the WWW Society? citation:-1
+title:On the Performance of Approximate Equilibria in Congestion Games. citation:-1
+title:Natural Models for Evolution on Networks citation:-1
+title:Random input helps searching predecessors citation:-1
+title:Mediated population protocols. citation:-1
+title:Computational models for networks of tiny artifacts: A survey. citation:-1
+title:Robust and scalable middleware for selfish-computer systems. citation:-1
+title:Introduction to the special issue on foundations of adaptive networked societies of tiny artefacts. citation:-1
+title:Innovative approaches for security of small artefacts. citation:-1
+title:Selfish splittable flows and NP-completeness. citation:-1
+title:Passively mobile communicating machines that use restricted space. citation:-1
+title:On the independence number and Hamiltonicity of uniform random intersection graphs. citation:-1
+title:Elliptic Curve Based Zero Knowledge Proofs and Their Applicability on Resource Constrained Devices citation:-1
+title:Elliptic Curve Based Zero Knowledge Proofs and their Applicability on Resource Constrained Devices. citation:-1
+title:Random Bimatrix Games Are Asymptotically Easy to Solve (A Simple Proof). citation:-1
+title:Selected Combinatorial Properties of Random Intersection Graphs. citation:-1
+title:The Computational Power of Simple Protocols for Self-awareness on Graphs. citation:-1
+title:Communication and security in random intersection graphs models. citation:-1
+title:Proceedings on 33rd Annual ACM Symposium on Theory of Computing, July 6-8, 2001, Heraklion, Crete, Greece citation:-1
+title:Approximating Fixation Probabilities in the Generalized Moran Process citation:-1
+title:The Impact of Social Ignorance on Weighted Congestion Games. citation:-1
+title:Approximating fixation probabilities in the generalized Moran process. citation:-1
+title:Natural Models for Evolution on Networks. citation:-1
+title:New Models for Population Protocols citation:-1
+title:Strategies for repeated games with subsystem takeovers implementable by deterministic and self-stabilising automata. citation:-1
+title:A graph-theoretic network security game. citation:-1
+title:Can Fixation be Guaranteed in the Generalized Moran Process? citation:-1
+title:Algorithms and Almost Tight Results for 3-Colorability of Small Diameter Graphs citation:-1
+title:Maximum Cliques in Graphs with Small Intersection Number and Random Intersection Graphs citation:-1
+title:Recent Advances in Approximability of Bimatrix Nash. citation:-1
+title:Eight Open Problems in Distributed Computing. citation:-1
+title:On the Hardness of Network Design for Bottleneck Routing Games citation:-1
+title:Causality, Influence, and Computation in Possibly Disconnected Dynamic Networks citation:-1
+title:Naming and Counting in Anonymous Unknown Dynamic Networks citation:-1
+title:Paradigms for fast parallel approximability (Reprint from 1997). citation:-1
+title:Euro-Par 2012 Parallel Processing - 18th International Conference, Euro-Par 2012, Rhodes Island, Greece, August 27-31, 2012. Proceedings citation:-1
+title:Maximum Cliques in Graphs with Small Intersection Number and Random Intersection Graphs. citation:-1
+title:Brief Announcement: Naming and Counting in Anonymous Unknown Dynamic Networks. citation:-1
+title:On the Hardness of Network Design for Bottleneck Routing Games. citation:-1
+title:Terminating Population Protocols via Some Minimal Global Knowledge Assumptions. citation:-1
+title:Efficient methods for selfish network design. citation:-1
+title:On mutual concavity and strategically-zero-sum bimatrix games. citation:-1
+title:Strong Bounds for Evolution in Undirected Graphs citation:-1
+title:A Probabilistic Key Agreement Scheme for Sensor Networks without Key Predistribution. citation:-1
+title:Adaptive Hierarchical Network Structures for Wireless Sensor Networks. citation:-1
+title:Causality, Influence, and Computation in Possibly Disconnected Synchronous Dynamic Networks. citation:-1
+title:Algorithms and Almost Tight Results for 3-Colorability of Small Diameter Graphs. citation:-1
+title:Playing a Game to Bound the Chromatic Number. citation:-1

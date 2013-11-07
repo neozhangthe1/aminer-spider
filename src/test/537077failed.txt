@@ -1,0 +1,174 @@
+title:ToMAS: A System for Adapting Mappings while Schemas Evolve. citation:-1
+title:Tracing and Validating Goal Aspects. citation:-1
+title:Using Aspects to Simplify iModels. citation:-1
+title:Deriving Architectures from Requirements. citation:-1
+title:Goal-Oriented Requirements Engineering. citation:-1
+title:A Lightweight Approach to Semantic Web Service Synthesis. citation:-1
+title:An ECA Rule Rewriting Mechanism for Peer Data Management Systems. citation:-1
+title:Developing an Expert System Technology for Industrial Process Control: An Experience Report. citation:-1
+title:Object-Orientation and Knowledge Representation. citation:-1
+title:ST-Tool: A CASE Tool for Modeling and Analyzing Trust Requirements. citation:-1
+title:Applying Software Analysis Technology to Lightweight Semantic Markup of Document Text. citation:-1
+title:Required Knowledge for Delivering Services. citation:-1
+title:Experimenting with Linguistic Tools for Conceptual Modelling: Quality of the Models and Critical Features. citation:-1
+title:A Panel on AI and Databases. citation:-1
+title:Implementing Telos. citation:-1
+title:Supporting Requirements Model Evolution throughout the System Life-Cycle. citation:-1
+title:RETR: Reverse Engineering to Requirements. citation:-1
+title:End-to-end E-commerce Application Development Based on XML Tools. citation:-1
+title:A Lightweight Approach to Semantic Annotation of Research Papers. citation:-1
+title:Knowledge Base Management Systems: Discussions from the Working Group. citation:-1
+title:A Datawarehouse for Managing Commercial Software Release. citation:-1
+title:Complete and Equivalent Query Rewriting Using Views. citation:-1
+title:Measuring and Comparing Effectiveness of Data Quality Techniques. citation:-1
+title:Towards a Compositional Semantic Account of Data Quality Attributes. citation:-1
+title:Requirements-Driven Software Re-engineering Framework. citation:-1
+title:Theory of Regulatory Compliance for Requirements Engineering citation:-1
+title:Software Maintenance and Reengineering in the Days of Software Agents. citation:-1
+title:Security Design Based on Social Modeling. citation:-1
+title:Editorial - International Semantic Web Conference 2003. citation:-1
+title:From E-R to ``A-R'' - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:-1
+title:Decision Making in Uncertain Real-World Domains Using DT-Golog. citation:-1
+title:Requirements Traceability in Agent Oriented Development. citation:-1
+title:Developing Intelligent Information Systems: A Workshop Summary. citation:-1
+title:Preface. citation:-1
+title:From Organizational Models to Software Requirements. citation:-1
+title:CAA: A Knowledge Based System Using Causal Knowledge to Diagnose Cardiac Rhythm Disorders. citation:-1
+title:Conceptual Schema Design. citation:-1
+title:Migration of procedural systems to network-centric platforms. citation:-1
+title:Improving Multi-Agent Architectural Design. citation:-1
+title:Database Design. citation:-1
+title:Information Services: Coping with the Information Crisis - Guest Editors' Introduction. citation:-1
+title:Information Services for the Web: Building and Maintaining Domain Models. citation:-1
+title:Databases and the Semantic Web: Data Semantics Revisited. citation:-1
+title:Higher order generalization and its application in program verification. citation:-1
+title:Knowbel: A Hybrid Tool for Building Expert Systems. citation:-1
+title:Editorial. citation:-1
+title:Managing Models through Macromodeling. citation:-1
+title:A Lightweight Approach to Semantic Tagging. citation:-1
+title:Software self-reconfiguration: a BDI-based approach. citation:-1
+title:Agent Oriented Software Development. citation:-1
+title:Toward Web-Based Application Management Systems. citation:-1
+title:Annotating Accommodation Advertisements Using CERNO. citation:-1
+title:Ontologies for Knowledge Management: An Information Systems Perspective. citation:-1
+title:Conceptual Modeling in the Time of the Revolution: Part II. citation:-1
+title:A Language Facility for Designing Interactive Database-Intensive Applications (Abstract). citation:-1
+title:Relationships Between and Among Models (discussion). citation:-1
+title:A Perspective for Research on Conceptual Modelling. citation:-1
+title:Panel on Next Generation Database Systems Won't Work Without Semantics! citation:-1
+title:Cooperative Information Systems: A Research Agenda (Tutorial). citation:-1
+title:A conceptual modelling approach to authoring-in-the-large for hypertext documents. citation:-1
+title:Tutorial on Artificial Intelligence Research. citation:-1
+title:Monitoring and Diagnosing Malicious Attacks with Autonomic Software. citation:-1
+title:The Future Direction of AI Tools (Panel). citation:-1
+title:Towards Augmenting Requirements Models with Preferences. citation:-1
+title:Making XML document markup international. citation:-1
+title:Knowledge Bases vs. Databases. citation:-1
+title:Quantitative Evaluation of a Transaction Facility for a Knowledge Base Management System. citation:-1
+title:Organizational Patterns for Early Requirements Analysis. citation:-1
+title:From Organization Models to System Requirements: A 'Cooperating Agents' Approach. citation:-1
+title:A Multi-perspective Framework for Organizational Patterns. citation:-1
+title:Analysis of Multi-Party Agreement in Requirements Validation. citation:-1
+title:Modeling and Evaluating Cooperation Strategies in P2P Agent Systems. citation:-1
+title:Towards a Theory of Requirements Elicitation: Acceptability Condition for the Relative Validity of Requirements citation:-1
+title:Integrating Organizational Requirements and Socio-Intentional Architectural Styles. citation:-1
+title:Detailing Architectural Design in the Tropos Methodology. citation:-1
+title:Introduction to special issue with best papers from CAiSE 2002. citation:-1
+title:Efficient Algorithms and Performance Results for Multi-User Knowledge Bases. citation:-1
+title:Automated EJB Client Code Generation Using Database Query Rewriting. citation:-1
+title:Semantic Models for Knowledge Management. citation:-1
+title:Expert Systems for Industrial Process Control: A Study in Technology Transfer. citation:-1
+title:Aligning Information Strategy with Business Strategy - A Technical Perspective. citation:-1
+title:Tenth Anniversasy of CoopIS: Cooperative Information Systems Then and Now. citation:-1
+title:AI Models for Business Process Reengineering. citation:-1
+title:Removing false code dependencies to speedup software build processes. citation:-1
+title:Translating XML Web Data into Ontologies. citation:-1
+title:Environments for the Development of Specifications (Panel). citation:-1
+title:Modeling Software. citation:-1
+title:Towards Extensible Information Brokers Based on XML. citation:-1
+title:Exploring the Dimensions of Variability: a Requirements Engineering Perspective. citation:-1
+title:Tropos at the Age of Eight: On-going Research at FBK, UniTN and UT. citation:-1
+title:Desert Island Column: A Trip to Carthea. citation:-1
+title:SWWS 2007 PC Co-chairs' Message. citation:-1
+title:A Service-oriented Approach for the i* Framework. citation:-1
+title:A design framework for generating BDI-agents from goal models. citation:-1
+title:Information System Design at the Conceptual Level - The Taxis Project. citation:-1
+title:Software Repositories. citation:-1
+title:Annotating Regulations Using Cerno: An Application to Italian Documents - Extended Abstract. citation:-1
+title:A Distributed Rule Mechanism for Multidatabase Systems. citation:-1
+title:Traceability for the maintenance of secure software. citation:-1
+title:Task-Oriented Development of Intelligent Information Systems. citation:-1
+title:Partitioning Information Bases with Contexts. citation:-1
+title:Information Services for the Web: Building and Maintaining Domain Models. citation:-1
+title:Aspects across Software Life Cycle: A Goal-Driven Approach. citation:-1
+title:Supporting Requirements Analysis in Tropos: A Planning-Based Approach. citation:-1
+title:The Migration of Multi-tier E-commerce Applications to an Enterprise Java Environment. citation:-1
+title:Reducing Build Time through Precompilations for Evolving Large Software. citation:-1
+title:Towards a framework for law-compliant software requirements. citation:-1
+title:From E-R to "A-R" - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:-1
+title:Agent-Oriented Software Development. citation:-1
+title:Knowledge Bases and Databases: Current Trends and Future Directions. citation:-1
+title:Knowledge Reperesentation as the Basis for Requirements Specification (Reprint). citation:-1
+title:Representing Partial Spatial Information in Databases. citation:-1
+title:Database Programming by Formal Refinement of Conceptual Designs. citation:-1
+title:l.Pak: A SNOBOL-Dased Programming Language for Artificial Intelligence Applications. citation:-1
+title:Advanced separation of concerns in agent-oriented design patterns. citation:-1
+title:Goal-Oriented Requirements Engineering. citation:-1
+title:Requirements Engineering editorial. citation:-1
+title:Extensible Information Brokers. citation:-1
+title:On Knowledge Base Management Systems. citation:-1
+title:From Capability Specifications to Code for Multi-Agent Software. citation:-1
+title:Socio-Intentional Architectures for Multi-Agent Systems: the Mobile Robot Control case. citation:-1
+title:The Need for a Knowledge Representation Framework. citation:-1
+title:Advanced Information Systems Engineering, 14th International Conference, CAiSE 2002, Toronto, Canada, May 27-31, 2002, Proceedings citation:-1
+title:On Conceptual Modelling, Perspectives from Artificial Intelligence, Databases, and Programming Languages, Book resulting from the Intervale Workshop 1982 citation:-1
+title:On Knowledge Base Management Systems: Integrating Artificial Intelligence and Database Technologies, Book resulting from the Islamorada Workshop 1985 citation:-1
+title:Conceptual Modeling - ER 2005, 24th International Conference on Conceptual Modeling, Klagenfurt, Austria, October 24-28, 2005, Proceedings citation:-1
+title:Data Quality By Design: A Goal-Oriented Approach. citation:-1
+title:Proceedings, Tenth International Conference on Principles of Knowledge Representation and Reasoning, Lake District of the United Kingdom, June 2-5, 2006 citation:-1
+title:On the Move to Meaningful Internet Systems 2005: CoopIS, DOA, and ODBASE, OTM Confederated International Conferences, CoopIS, DOA, and ODBASE 2005, Agia Napa, Cyprus, October 31 - November 4, 2005, Proceedings, Part II citation:-1
+title:On the Move to Meaningful Internet Systems 2005: CoopIS, DOA, and ODBASE, OTM Confederated International Conferences CoopIS, DOA, and ODBASE 2005, Agia Napa, Cyprus, October 31 - November 4, 2005, Proceedings, Part I citation:-1
+title:Code forking in open-source software: a requirements perspective citation:-1
+title:Journal on Data Semantics VIII citation:-1
+title:Journal on Data Semantics IX citation:-1
+title:Secure-I*: Engineering Secure Software Systems through Social Analysis. citation:-1
+title:Security Requirements Engineering: The SI* Modeling Language and the Secure Tropos Methodology. citation:-1
+title:Reasoning with Optional and Preferred Requirements. citation:-1
+title:Extending Organizational Modeling with Business Services Concepts: An Overview of the Proposed Architecture. citation:-1
+title:Establishing Regulatory Compliance for Information System Requirements: An Experience Report from the Health Care Domain. citation:-1
+title:A Context-Based Model for the Interpretation of Polysemous Terms. citation:-1
+title:Log filtering and interpretation for root cause analysis. citation:-1
+title:Integrated system diagnosis and root cause analysis. citation:-1
+title:Diagnosing software using statecharts. citation:-1
+title:Next generation business intelligence (BI) tools. citation:-1
+title:The brave new world of design requirements. citation:-1
+title:Digital privacy: theory, policies and technologies. citation:-1
+title:Requirements evolution drives software evolution. citation:-1
+title:Goal-Based Behavioral Customization of Information Systems. citation:-1
+title:An Extended Ontology for Security Requirements. citation:-1
+title:Modeling Design Patterns with Description Logics: A Case Study. citation:-1
+title:Capturing Contextual Variability in * Models. citation:-1
+title:Proceedings of the 4 International * Workshop, Hammamet, Tunisia, June 07-08, 2010 citation:-1
+title:On the use of the Goal-Oriented Paradigm for System Design and Law Compliance Reasoning. citation:-1
+title:Proceedings of the 5 International * Workshop 2011, Trento, Italy, August 28-29, 2011 citation:-1
+title:The Evolution of Tropos: Contexts, Commitments and Adaptivity. citation:-1
+title:Nòmos: from Strategic Dependencies to Obligations. citation:-1
+title:Composite Indicators for Business Intelligence. citation:-1
+title:Strategic Models for Business Intelligence. citation:-1
+title:Establishing Regulatory Compliance for Software Requirements. citation:-1
+title:Reasoning with Key Performance Indicators. citation:-1
+title:Goal-oriented Requirements Engineering. citation:-1
+title:Supporting queries spanning across phases of evolving artifacts using Steiner forests. citation:-1
+title:From intentions to code: exploring the life of user goals in two web-based systems. citation:-1
+title:On Modeling and Querying Concept Evolution. citation:-1
+title:Proceedings of the 12th International Joint Conference on Artificial Intelligence. Sydney, Australia, August 24-30, 1991 citation:-1
+title:Monitoring strategic goals in data warehouses with awareness requirements. citation:-1
+title:Agile Requirements Evolution via Paraconsistent Reasoning. citation:-1
+title:Requirements-Driven Root Cause Analysis Using Markov Logic Networks. citation:-1
+title:Business Intelligence Modeling in Action: A Hospital Case Study. citation:-1
+title:Capturing Variability of Law with Nómos 2. citation:-1
+title:Requirements, Intentions, Goals and Applicable Norms. citation:-1
+title:On Modeling and Querying Concept Evolution. citation:-1
+title:ALVEN: A Study on Motion Understanding by Computer. citation:-1
+title:Making Data Meaningful: The Business Intelligence Model and Its Formal Semantics in Description Logics. citation:-1
+title:Requirements-Driven Qualitative Adaptation. citation:-1

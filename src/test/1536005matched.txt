@@ -1,0 +1,12 @@
+title1:On calculating connected dominating set for efficient routing in ad hoc wireless networks. title2:On calculating connected dominating set for efficient routing in ad hoc wireless networks citation:1006 ncitation:979 pid155455
+title1:On Reducing Broadcast Redundancy in Ad Hoc Wireless Networks. title2:On reducing broadcast redundancy in ad hoc wireless networks citation:357 ncitation:343 pid246561
+title1:On Calculating Power-Aware Connected Dominating Sets for Efficient Routing in Ad Hoc Wireless Networks. title2:On calculating power-aware connected dominating sets for efficient routing in ad hoc wireless networks citation:374 ncitation:1125 pid344712
+title1:Broadcasting in Ad Hoc Networks Based on Self-Pruning. title2:Broadcasting in ad hoc networks based on self-pruning citation:278 ncitation:265 pid402258
+title1:EECS: an energy efficient clustering scheme in wireless sensor networks. title2:EECS: an energy efficient clustering scheme in wireless sensor networks citation:554 ncitation:503 pid693191
+title1:Broadcasting in Ad Hoc Networks Based on Self-Pruning. title2:Broadcasting in ad hoc networks based on self-pruning citation:278 ncitation:265 pid909131
+title1:Energy-efficient coverage problems in wireless ad-hoc sensor networks. title2:Energy-efficient coverage problems in wireless ad-hoc sensor networks citation:402 ncitation:371 pid800077
+title1:An Extended Localized Algorithm for Connected Dominating Set Formation in Ad Hoc Wireless Networks. title2:An extended localized algorithm for connected dominating set formation in ad hoc wireless networks citation:438 ncitation:409 pid1124878
+title1:On Reducing Broadcast Redundancy in Ad Hoc Wireless Networks. title2:On reducing broadcast redundancy in ad hoc wireless networks citation:357 ncitation:343 pid1114247
+title1:A Dominating-Set-Based Routing Scheme in Ad Hoc Wireless Networks. title2:A dominating-set-based routing scheme in ad hoc wireless networks citation:259 ncitation:265 pid1099216
+title1:An Energy Efficient Clustering Scheme in Wireless Sensor Networks. title2:EECS: an energy efficient clustering scheme in wireless sensor networks citation:554 ncitation:503 pid1189096
+title1:An energy-efficient unequal clustering mechanism for wireless sensor networks. title2:An energy-efficient unequal clustering mechanism for wireless sensor networks citation:278 ncitation:253 pid2677102

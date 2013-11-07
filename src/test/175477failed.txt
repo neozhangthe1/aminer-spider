@@ -1,0 +1,221 @@
+title:Preface. citation:-1
+title:An Introduction to Context-free Text Grammars. citation:-1
+title:Computational Nature of Biochemical Reactions. citation:-1
+title:Apex Graph Grammars. citation:-1
+title:Gene Assembly in Celiates. Part I. Molecular Operations (Column: Natural Computing). citation:-1
+title:Gene Assembly in Ciliates Part I. Molecular Operations. citation:-1
+title:Workshop on Petri Nets and Graph Transformations. citation:-1
+title:Workshop on Petri Nets and Graph Transformations. citation:-1
+title:Context Free Normal Systems and ETOL Systems. citation:-1
+title:A Note on K-Iteration Grammars. citation:-1
+title:More on ET0L Systems versus Random Context Grammars. citation:-1
+title:Simple Operations for Gene Assembly. citation:-1
+title:Grammatical codes of trees. citation:-1
+title:Preface. citation:-1
+title:2-Structures - A Framework For Decomposition And Transformation Of Graphs. citation:-1
+title:Gheorghe Paun and the Windmill Curiosity. citation:-1
+title:Preface. citation:-1
+title:Acceptors for Iteration Languages. citation:-1
+title:Context-Free Programmed Grammars and ETOL Systems. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Reduction Graphs from Overlap Graphs for Gene Assembly in Ciliates. citation:-1
+title:Contextual Grammars: Erasing, Determinism, One-Side Contexts. citation:-1
+title:Preface. citation:-1
+title:Basic notions of actor grammars: A graph grammar model for actor computation. citation:-1
+title:Syntactic and Semantic Aspects of Parallelism. citation:-1
+title:Shuffle-like Operations on omega-words. citation:-1
+title:Tree Transducers, L Systems and Two-Way Machines (Extended Abstract) citation:-1
+title:Modeling Interactions between Biochemical Reactions. citation:-1
+title:On (Un)predictability of Formal Languages (Extended Abstract) citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Parallelism and synchronization in two-level metacontrolled substitution grammars. citation:-1
+title:Models of Molecular Computing Based on Molecular Reactions. citation:-1
+title:Persistent ET0L systems. citation:-1
+title:Membrane Systems with External Control. citation:-1
+title:Theory Inspired by Gene Assembly in Ciliates. citation:-1
+title:Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems citation:-1
+title:On the role of blocking in rewriting systems. citation:-1
+title:Preface. citation:-1
+title:Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. II. Nondeterministic Systems citation:-1
+title:Transitivity of local complementation and switching on graphs. citation:-1
+title:Semantics of Nonsequential Tree-Based Computation Schemes. citation:-1
+title:Foreword. citation:-1
+title:Labeled 2-Structures. citation:-1
+title:Preface: Insightful Theory. citation:-1
+title:On Slicing of K-Iteration Grammars. citation:-1
+title:Errata: The Equivalence Problem for Deterministic T0L-Systems is Undecidable. citation:-1
+title:In Memory of Professor Zdzislaw Pawlak. citation:-1
+title:Computational Nature of Processes Induced by Biochemical Reactions. citation:-1
+title:Reaction Systems. citation:-1
+title:Elementary Net Systems. citation:-1
+title:The Length Sets of D0L Languages are Uniformly Bounded. citation:-1
+title:The Embedding Problem for Switching Classes of Graphs. citation:-1
+title:Generatively Deterministic L Languages. Subword Point of View. citation:-1
+title:Selective Substitution Grammars (Towards a Framework for Rewriting Systems). Part 1: Definitions and Examples. citation:-1
+title:Bibliography on L Systems. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Reductions for Primitive 2-Structures. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:On Simulation and Propagating E0L Forms. citation:-1
+title:Bibliography of L Systems. citation:-1
+title:ICALP, EATCS and Maurice Nivat. citation:-1
+title:DNA computing by blocking. citation:-1
+title:Corrigendum: Sequential, Continuous and Parallel Grammars citation:-1
+title:Preface. citation:-1
+title:Dynamic Labeled 2-Structures. citation:-1
+title:TIL systems and languages. citation:-1
+title:Computation Graphs for Actor Grammars. citation:-1
+title:On the Constructive Description of Graph Languages Accepted by Finite Automata. citation:-1
+title:Transition Systems, Event Structures and Unfoldings citation:-1
+title:Computing by Splicing. citation:-1
+title:Sticker Systems. citation:-1
+title:Generating Graph Languages Using Hypergraph Grammars. citation:-1
+title:DNA Processing in Ciliates - A Computational Point of View (invited abstract). citation:-1
+title:On the Role of Selectors in Selective Substitution Grammars. citation:-1
+title:How Overlap Determines the Macronuclear Genes in Ciliates citation:-1
+title:Actor Grammars. citation:-1
+title:Finite metrics in switching classes. citation:-1
+title:Preface. citation:-1
+title:On structured graph grammars. I. citation:-1
+title:On structured graph grammars. II. citation:-1
+title:Preface. citation:-1
+title:Contagious Creativity. citation:-1
+title:Note on Node-Rewriting Graph Grammars. citation:-1
+title:Natural Computing: A Natural and Timely Trend for Natural Sciences and Science of Computation. citation:-1
+title:Subword Complexities of Various Classes of Deterministic Developmental Languages without Interactions. citation:-1
+title:The (Generalized) Post Correspondence Problem with Lists Consisting of two Words is Decidable. citation:-1
+title:On the Active and Full Use of Memory in Right-Boundary Grammars and Push-Down Automata. citation:-1
+title:A Note on Binary Grammatical Codes of Trees. citation:-1
+title:Edge-Label Controlled Graph Grammars. citation:-1
+title:Group Based Graph Transformations and Hierarchical Representations of Graphs. citation:-1
+title:A Limit Theorem for Sets of Subwords in Deterministic T0L Languages. citation:-1
+title:E0L Languages are not Codings of FP0L Languages. citation:-1
+title:An Observation on Scattered Grammars. citation:-1
+title:Summary of the Workshop on Natural Computing and Graph Transformations. citation:-1
+title:Finding a Homomorphism Between Two Words is NP-Complete. citation:-1
+title:Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata. citation:-1
+title:Embedding linear orders in grids. citation:-1
+title:T0L Systems and Languages citation:-1
+title:On the Subword Complexity of D0L Languages with a Constant Distribution. citation:-1
+title:On the Emptiness of the Intersection of Two D0S Languages Problem. citation:-1
+title:Biochemical Reactions as Computations. citation:-1
+title:Preface. citation:-1
+title:L Systems of Finite Index (Extended Abstract). citation:-1
+title:DOS Systems and Languages. citation:-1
+title:Theory of 2-Structures. citation:-1
+title:Communication Membrane Systems with Active Symports. citation:-1
+title:Semantics of Trees. citation:-1
+title:A Combinatorial Property of EOL Languages. citation:-1
+title:Preface. citation:-1
+title:Handle-Rewriting Hypergraph Grammars. citation:-1
+title:Subset Languages of Petri Nets. citation:-1
+title:Partial (Set) 2-Structures. Part I: Basic Notions and the Representation Problem. citation:-1
+title:Reaction Systems: A Formal Framework for Processes. citation:-1
+title:Partial (Set) 2-Structures. Part II: State Spaces of Concurrent Systems. citation:-1
+title:Boundary NLC Grammars. citation:-1
+title:On sequential and parallel node-rewriting graph grammars, II. citation:-1
+title:Recursion and pumping in L Forms. citation:-1
+title:Rewriting systems with a clocking mechanism. citation:-1
+title:A hierarchy of ETOL languages with rank. citation:-1
+title:Preface. citation:-1
+title:A note on M-growth functions of FTOL systems with rank. citation:-1
+title:Studies in uniformity. citation:-1
+title:On Ambiguity in Dos Systems. citation:-1
+title:On metalinear ETOL systems. citation:-1
+title:On the Structure of Recognizable Languages of Dependence Graphs. citation:-1
+title:New squeezing mechanisms for L systems. citation:-1
+title:L Systems, Most of the papers were presented at a conference in Aarhus, Denmark, January 14-25, 1974 citation:-1
+title:Petri Nets: Central Models and Their Properties, Advances in Petri Nets 1986, Part I, Proceedings of an Advanced Course, Bad Honnef, 8.-19. September 1986 citation:-1
+title:Petri Nets: Central Models and Their Properties, Advances in Petri Nets 1986, Part II, Proceedings of an Advanced Course, Bad Honnef, 8.-19. September 1986 citation:-1
+title:Lectures on Petri Nets I: Basic Models, Advances in Petri Nets, the volumes are based on the Advanced Course on Petri Nets, held in Dagstuhl, September 1996 citation:-1
+title:Lectures on Petri Nets II: Applications, Advances in Petri Nets, the volumes are based on the Advanced Course on Petri Nets, held in Dagstuhl, September 1996 citation:-1
+title:Lectures on Concurrency and Petri Nets, Advances in Petri Nets [This tutorial volume originates from the 4th Advanced Course on Petri Nets, ACPN 2003, held in Eichstätt, Germany in September 2003. In addition to lectures given at ACPN 2003, additional chapters have been commissioned] citation:-1
+title:Applications and Theory of Petri Nets, Selected Papers from the 3rd European Workshop on Applications and Theory of Petri Nets, Varenna, Italy, September 27-30, 1982 citation:-1
+title:Advances in Petri Nets 1984, European Workshop on Applications and Theory in Petri Nets, covers the last two years which include the workshop 1983 in Toulouse and the workshop 1984 in Aarhus, selected papers citation:-1
+title:Advances in Petri Nets 1985, covers the 6th European Workshop on Applications and Theory in Petri Nets, Espoo, Finland in June 1985, selected papers citation:-1
+title:Advances in Petri Nets 1987, covers the 7th European Workshop on Applications and Theory of Petri Nets, Oxford, UK, June 1986 citation:-1
+title:Advances in Petri Nets 1988, covers the 8th European Workshop on Applications and Theory of Petri Nets, held in Zaragoza, Spain in June 1987, selected papers citation:-1
+title:Advances in Petri Nets 1989, covers the 9th European Workshop on Applications and Theory in Petri Nets, held in Venice, Italy in June 1988, selected papers citation:-1
+title:Advances in Petri Nets 1990 [10th International Conference on Applications and Theory of Petri Nets, Bonn, Germany, June 1989, Proceedings] citation:-1
+title:Advances in Petri Nets 1991, Papers from the 11th International Conference on Applications and Theory of Petri Nets, Paris, France, June 1990 citation:-1
+title:Advances in Petri Nets 1993, Papers from the 12th International Conference on Applications and Theory of Petri Nets, Gjern, Denmark, June 1991 citation:-1
+title:Advances in Petri Nets 1992, The DEMON Project citation:-1
+title:Unifying Petri Nets, Advances in Petri Nets citation:-1
+title:Results and Trends in Theoretical Computer Science, Colloquium in Honor of Arto Salomaa, Graz, Austria, June 10-11, 1994, Proceedings citation:-1
+title:Theory Is Forever, Essays Dedicated to Arto Salomaa on the Occasion of His 70th Birthday citation:-1
+title:Formal Methods in Software and Systems Modeling, Essays Dedicated to Hartmut Ehrig, on the Occasion of His 60th Birthday citation:-1
+title:Petri Net Technology for Communication-Based Systems - Advances in Petri Nets citation:-1
+title:DNA Computing, 6th International Workshop on DNA-Based Computers, DNA 2000, Leiden, The Netherlands, June 13-17, 2000, Revised Papers citation:-1
+title:Graph-Grammars and Their Application to Computer Science, 2nd International Workshop, Haus Ohrbeck [near Osnabrück], Germany, October 4-8, 1982 citation:-1
+title:Graph Transformation, First International Conference, ICGT 2002, Barcelona, Spain, October 7-12, 2002, Proceedings citation:-1
+title:Graph Transformations, Second International Conference, ICGT 2004, Rome, Italy, September 28 - October 2, 2004, Proceedings citation:-1
+title:Graph Transformations, Third International Conference, ICGT 2006, Natal, Rio Grande do Norte, Brazil, September 17-23, 2006, Proceedings citation:-1
+title:Membrane Computing, International Workshop, WMC 2003, Tarragona, Spain, July 17-22, 2003, Revised Papers citation:-1
+title:Membrane Computing, 5th International Workshop, WMC 2004, Milan, Italy, June 14-16, 2004, Revised Selected and Invited Papers citation:-1
+title:Membrane Computing, 6th International Workshop, WMC 2005, Vienna, Austria, July 18-21, 2005, Revised Selected and Invited Papers citation:-1
+title:Membrane Computing, 10th International Workshop, WMC 2009, Curtea de Arges, Romania, August 24-27, 2009. Revised Selected and Invited Papers citation:-1
+title:Membrane Computing - 9th International Workshop, WMC 2008, Edinburgh, UK, July 28-31, 2008, Revised Selected and Invited Papers citation:-1
+title:Membrane Computing, 7th International Workshop, WMC 2006, Leiden, The Netherlands, July 17-21, 2006, Revised, Selected, and Invited Papers citation:-1
+title:Membrane Computing, 8th International Workshop, WMC 2007, Thessaloniki, Greece, June 25-28, 2007 Revised Selected and Invited Papers citation:-1
+title:Linear Time, Branching Time and Partial Order in Logics and Models for Concurrency, School/Workshop, Noordwijkerhout, The Netherlands, May 30 - June 3, 1988, Proceedings citation:-1
+title:Foundations of Object-Oriented Languages, REX School/Workshop, Noordwijkerhout, The Netherlands, May 28 - June 1, 1990, Proceedings citation:-1
+title:Real-Time: Theory in Practice, REX Workshop, Mook, The Netherlands, June 3-7, 1991, Proceedings citation:-1
+title:Sematics: Foundations and Applications, REX Workshop, Beekbergen, The Netherlands, June 1-4, 1992, Proceedings citation:-1
+title:Graph Gramars and Their Application to Computer Science, 5th International Workshop, Williamsburg, VA, USA, November 13-18, 1994, Selected Papers citation:-1
+title:Theory and Application of Graph Transformations, 6th International Workshop, TAGT'98, Paderborn, Germany, November 16-20, 1998, Selected Papers citation:-1
+title:Unconventional Computation, 4th International Conference, UC 2005, Sevilla, Spain, October 3-7, 2005, Proceedings citation:-1
+title:Unconventional Computing, 7th International Conference, UC 2008, Vienna, Austria, August 25-28, 2008. Proceedings citation:-1
+title:Unconventional Computation, 5th International Conference, UC 2006, York, UK, September 4-8, 2006, Proceedings citation:-1
+title:Unconventional Computation, 6th International Conference, UC 2007, Kingston, Canada, August 13-17, 2007, Proceedings citation:-1
+title:Multiset Processing, Mathematical, Computer Science, and Molecular Computing Points of View [Workshop on Multiset Processing, WMP 2000, Curtea de Arges, Romania, August 21-25, 2000] citation:-1
+title:Membrane Computing, International Workshop, WMC-CdeA 2002, Curtea de Arges, Romania, August 19-23, 2002, Revised Papers citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Gene assembly in Ciliates. citation:-1
+title:Graph Transformations - 5th International Conference, ICGT 2010, Enschede, The Netherlands, September 27 - - October 2, 2010. Proceedings citation:-1
+title:Membrane Computing - 11th International Conference, CMC 2010, Jena, Germany, August 24-27, 2010. Revised Selected Papers citation:-1
+title:Unconventional Computation - 9th International Conference, UC 2010, Tokyo, Japan, June 21-25, 2010. Proceedings citation:-1
+title:Preface. citation:-1
+title:Reaction Systems: a Formal Framework for Processes Based on Biochemical Interactions. citation:-1
+title:Unconventional Computation - 10th International Conference, UC 2011, Turku, Finland, June 6-10, 2011. Proceedings citation:-1
+title:A Formal Framework for Bioprocesses in Living Cells. citation:-1
+title:On aggregation in multiset-based self-assembly of graphs. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Petri Nets and Bio-Modelling - and how to benefit from their synergy citation:-1
+title:Rainbow of Computer Science - Dedicated to Hermann Maurer on the Occasion of His 70th Birthday citation:-1
+title:Subword complexities of various classes of deterministic developmental languages with interactions. citation:-1
+title:Preface. citation:-1
+title:Representing Reaction Systems by Trees. citation:-1
+title:Preface. citation:-1
+title:Words, Graphs, Automata, and Languages; Special Issue Honoring the 60th Birthday of Professor Tero Harju. citation:-1
+title:Zdzislaw Pawlak (1926-2006). citation:-1
+title:Preface. citation:-1
+title:Graph Transformations - 6th International Conference, ICGT 2012, Bremen, Germany, September 24-29, 2012. Proceedings citation:-1
+title:A Formal Framework for Processes Inspired by the Functioning of Living Cells. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Preface. citation:-1
+title:Stability and Chaos in reaction Systems. citation:-1
+title:Membrane Systems and Petri Net Synthesis citation:-1
+title:Minimal Reaction Systems. citation:-1
+title:Step semantics of boolean nets. citation:-1
+title:Relevance of Entities in Reaction Systems. citation:-1
+title:Membrane Computing - 13th International Conference, CMC 2012, Budapest, Hungary, August 28-31, 2012, Revised Selected Papers citation:-1

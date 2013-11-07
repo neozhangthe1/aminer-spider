@@ -1,0 +1,457 @@
+title:Network On-Chip Design for Gigascale Systems-on-Chip. citation:-1
+title:Mapping and physical planning of networks-on-chip architectures with quality-of-service guarantees. citation:-1
+title:Exploration of Low Power Adders for a SIMD Data Path. citation:-1
+title:Reliability-aware design for nanometer-scale devices. citation:-1
+title:Techniques for Enhancing Computation of DNA Curvature Molecules. citation:-1
+title:Enhanced pClustering and Its Applications to Gene Expression Data. citation:-1
+title:Polynomial-time algorithm for on-chip scratchpad memory partitioning. citation:-1
+title:A post-compiler approach to scratchpad mapping of code. citation:-1
+title:System lifetime extension by battery management: an experimental work. citation:-1
+title:Low Power Control Techniques For TFT LCD Displays. citation:-1
+title:Lightweight barrier-based parallelization support for non-cache-coherent MPSoC platforms. citation:-1
+title:Computer-Aided Evaluation of Protein Expression in Pathological Tissue Images. citation:-1
+title:MPSoC ECG biochip: a multiprocessor system-on-chip for real-time human heart monitoring and analysis. citation:-1
+title:Evolving tuis with smart objects for multi-context interaction. citation:-1
+title:Processor frequency setting for energy minimization of streaming multimedia application. citation:-1
+title:Low-power task scheduling for multiple devices. citation:-1
+title:Performance analysis and design space exploration for high-end biomedical applications: challenges and solutions. citation:-1
+title:Allocation and Scheduling for MPSoCs via Decomposition and No-Good Generation. citation:-1
+title:A Constraint Programming Approach for Allocation and Scheduling on the CELL Broadband Engine. citation:-1
+title:Allocation, Scheduling and Voltage Scaling on Energy Aware MPSoCs. citation:-1
+title:Multi-stage Benders Decomposition for Optimizing Multicore Architectures. citation:-1
+title:Throughput Constraint for Synchronous Data Flow Graphs. citation:-1
+title:A fast HW/SW FPGA-based thermal emulation framework for multi-processor system-on-chip. citation:-1
+title:Computational Kernels and their Application to Sequential Power Optimization. citation:-1
+title:From Architecture to Layout: Partitioned Memory Synthesis for Embedded Systems-on-Chip. citation:-1
+title:Kernel-Based Power Optimization of RTL Components: Exact and Approximate Extraction Algorithms. citation:-1
+title:Energy-aware design techniques for differential power analysis protection. citation:-1
+title:Synthesis of application-specific memories for power optimization in embedded systems. citation:-1
+title:Synthesis of Low-Overhead Interfaces for Power-Efficient Communication over Wide Buses. citation:-1
+title:Telescopic Units: Increasing the Average Throughput of Pipelined Designs by Adaptive Latency Control. citation:-1
+title:Power Estimation of Cell-Based CMOS Circuits. citation:-1
+title:Statistical Design Space Exploration for Application-Specific Unit Synthesis. citation:-1
+title:Hardware/software IP protection. citation:-1
+title:Virtual Simulation of Distributed IP-based Designs. citation:-1
+title:Clock-tree power optimization based on RTL clock-gating. citation:-1
+title:An integrated hardware/software approach for run-time scratchpad management. citation:-1
+title:A multiprocessor system-on-chip for real-time biomedical monitoring and analysis: architectural design space exploration. citation:-1
+title:In-Place Power Optimization for LUT-Based FPGAs. citation:-1
+title:A multi-path routing strategy with guaranteed in-order packet delivery and fault-tolerance for networks on chip. citation:-1
+title:Policy Optimization for Dynamic Power Management. citation:-1
+title:Dynamic Voltage Scaling and Power Management for Portable Systems. citation:-1
+title:Cycle-Accurate Simulation of Energy Consumption in Embedded Systems. citation:-1
+title:Analysis of power consumption on switch fabrics in network routers. citation:-1
+title:05141 Summary - Power-aware Computing Systems. citation:-1
+title:05141 Abstracts Collection - Power-aware Computing Systems. citation:-1
+title:07041 Abstracts Collection - Power-aware Computing Systems. citation:-1
+title:07041 Summary - Power-aware Computing Systems. citation:-1
+title:Application specific NoC design. citation:-1
+title:Hardware-Assisted Data Compression for Energy Minimization in Systems with Embedded Processors. citation:-1
+title:A Discrete-Time Battery Model for High-Level Power Estimation. citation:-1
+title:A Scalable ODC-Based Algorithm for RTL Insertion of Gated Clocks. citation:-1
+title:An adaptive algorithm for low-power streaming multimedia processing. citation:-1
+title:Sizing and Characterization of Leakage-Control Cells for Layout-Aware Distributed Power-Gating. citation:-1
+title:Enabling fine-grain leakage management by voltage anchor insertion. citation:-1
+title:An integrated open framework for heterogeneous MPSoC design space exploration. citation:-1
+title:Contrasting a NoC and a traditional interconnect fabric with layout awareness. citation:-1
+title:Scaling into Ambient Intelligence. citation:-1
+title:Extending lifetime of portable systems by battery scheduling. citation:-1
+title:Block-Enabled Memory Macros: Design Space Exploration and Application-Specific Tuning. citation:-1
+title:Glitch Power Minimization by Gate Freezing. citation:-1
+title:Address Bus Encoding Techniques for System-Level Power Optimization. citation:-1
+title:Low Power Error Resilient Encoding for On-Chip Data Buses. citation:-1
+title:Transport Protocol Optimization for Energy Efficient Wireless Embedded Systems. citation:-1
+title:Characterization-Free Behavioral Power Modeling. citation:-1
+title:Specification and Validation of Distributed IP-Based Designs with JavaCAD. citation:-1
+title:Virtual Fault Simulation of Distributed IP-Based Designs. citation:-1
+title:Dynamic Power Management for non-stationary service requests. citation:-1
+title:×pipesCompiler: A Tool for Instantiating Application Specific Networks on Chip. citation:-1
+title:Combining simulation and formal methods for system-level performance analysis. citation:-1
+title:Analyzing On-Chip Communication in a MPSoC Environment. citation:-1
+title:Quantitative Comparison of Power Management Algorithms. citation:-1
+title:On-the-fly layout generation for PTL macrocells. citation:-1
+title:SDRAM-Energy-Aware Memory Allocation for Dynamic Multi-Media Applications on Multi-Processor Platforms. citation:-1
+title:Component selection and matching for IP-based design. citation:-1
+title:A Simulation-Based Power-Aware Architecture Exploration of a Multiprocessor System-on-Chip Design. citation:-1
+title:Networks on Chip: A New Paradigm for Systems on Chip Design. citation:-1
+title:Exploring "temperature-aware" design in low-power MPSoCs. citation:-1
+title:3dID: a low-power, low-cost hand motion capture device. citation:-1
+title:Dynamic Power Management of Laptop Hard Disk. citation:-1
+title:Hardware-Software Design of a Smart Sensor for Fully-Electronic DNA Hybridization Detection. citation:-1
+title:Packetized On-Chip Interconnect Communication Analysis for MPSoC. citation:-1
+title:Interactive presentation: Efficient computation of discharge current upper bounds for clustered sleep transistor sizing. citation:-1
+title:Interactive presentation: Capturing the interaction of the communication, memory and I/O subsystems in memory-centric industrial MPSoC platforms. citation:-1
+title:Dynamic reconfiguration in sensor networks with regenerative energy sources. citation:-1
+title:Adaptive power management in energy harvesting systems. citation:-1
+title:Interactive presentation: Improving the fault tolerance of nanometric PLA designs. citation:-1
+title:Temperature Control of High-Performance Multi-core Platforms Using Convex Optimization. citation:-1
+title:Thermal Balancing Policy for Streaming Computing on Multiprocessor Architectures. citation:-1
+title:Serialized Asynchronous Links for NoC. citation:-1
+title:HOT TOPIC - 3D Integration or How to Scale in the 21st Century. citation:-1
+title:An Efficient Solar Energy Harvester for Wireless Sensor Nodes. citation:-1
+title:Process Variation Tolerant Pipeline Design Through a Placement-Aware Multiple Voltage Island Design Style. citation:-1
+title:Developing Mesochronous Synchronizers to Enable 3D NoCs. citation:-1
+title:A Scalable Algorithmic Framework for Row-Based Power-Gating. citation:-1
+title:Robust and Low Complexity Rate Control for Solar Powered Sensors. citation:-1
+title:Optimal MTCMOS Reactivation Under Power Supply Noise and Performance Constraints. citation:-1
+title:Adaptive least mean square behavioral power modeling. citation:-1
+title:Symbolic synthesis of clock-gating logic for power optimization of control-oriented synchronous networks. citation:-1
+title:Real-Time Scheduling with Regenerative Energy. citation:-1
+title:Communication-aware stochastic allocation and scheduling framework for conditional task graphs in multi-processor systems-on-chip. citation:-1
+title:DBS4video: dynamic luminance backlight scaling based on multi-histogram frame characterization for video streaming application. citation:-1
+title:MP-Queue: an Efficient Communication Library for Embedded Streaming Multimedia Platforms. citation:-1
+title:Region Compression: A New Scheme for Memory Energy Minimization in Embedded Systems. citation:-1
+title:Analysis of Audio Streaming Capability of Zigbee Networks. citation:-1
+title:Activity Recognition from On-Body Sensors: Accuracy-Power Trade-Off by Dynamic Sensor Selection. citation:-1
+title:Reducing Power Consumption of Dedicated Processors Through Instruction Set Encoding. citation:-1
+title:Timed Supersetting and the Synthesis of Telescopic Units. citation:-1
+title:A novel architecture for power maskable arithmetic units. citation:-1
+title:Asymptotic Zero-Transition Activity Encoding for Address Busses in Low-Power Microprocessor-Based Systems. citation:-1
+title:Low-overhead state-retaining elements for low-leakage MTCMOS design. citation:-1
+title:Regression-based RTL power models for controllers. citation:-1
+title:Supporting system-level power exploration for DSP applications. citation:-1
+title:Exploring the energy efficiency of cache coherence protocols in single-chip multi-processors. citation:-1
+title:Cycle-accurate power analysis for multiprocessor systems-on-a-chip. citation:-1
+title:STV-Cache: a leakage energy-efficient architecture for data caches. citation:-1
+title:A lightweight parallel java execution environment for embedded multiprocessor systems-on-chip. citation:-1
+title:Design of a family of sleep transistor cells for a clustered power-gating flow in 65nm technology. citation:-1
+title:Multi-processor operating system emulation framework with thermal feedback for systems-on-chip. citation:-1
+title:Optimal sleep transistor synthesis under timing and area constraints. citation:-1
+title:Capturing topology-level implications of link synthesis techniques for nanoscale networks-on-chip. citation:-1
+title:Approximate Control Design for Solar Driven Sensor Nodes. citation:-1
+title:Node sampling: a robust RTL power modeling approach. citation:-1
+title:Dynamic power management of electronic systems. citation:-1
+title:Fast power estimation for deterministic input streams. citation:-1
+title:Dynamic power management using adaptive learning tree. citation:-1
+title:Reducing cache misses by application-specific re-configurable indexing. citation:-1
+title:Generalized matching from theory to application. citation:-1
+title:Designing application-specific networks on chips with floorplan information. citation:-1
+title:A low-overhead fault tolerance scheme for TSV-based 3D network on chip links. citation:-1
+title:Legacy SystemC Co-Simulation of Multi-Processor Systems-on-Chip. citation:-1
+title:Distributed EDA Tool Integration: The PPP Paradigm. citation:-1
+title:xpipes: a Latency Insensitive Parameterized Network-on-chip Architecture For Multi-Processor SoCs. citation:-1
+title:Analyzing Power Consumption of Message Passing Primitives in a Single-Chip Multiprocessor. citation:-1
+title:Application-Specific Power-Aware Workload Allocation for Voltage Scalable MPSoC Platforms. citation:-1
+title:Reliability Support for On-Chip Memories Using Networks-on-Chip. citation:-1
+title:Resource Management Policy Handling Multiple Use-Cases in MPSoC Platforms Using Constraint Programming. citation:-1
+title:Design and Implementation of WiMoCA Node for a Body Area Wireless Sensor Network. citation:-1
+title:Lazy Scheduling for Energy Harvesting Sensor Nodes. citation:-1
+title:Allocation and Scheduling for MPSoCs via decomposition and no-good generation. citation:-1
+title:Improving Java Performance Using Dynamic Method Migration on FPGAs. citation:-1
+title:Automated DNA sizing in atomic force microscope images. citation:-1
+title:A novel approach for network on chip emulation. citation:-1
+title:Energy-efficient and reliable low-swing signaling for on-chip buses based on redundant coding. citation:-1
+title:An adaptive data compression scheme for memory traffic minimization in processor-based systems. citation:-1
+title:On quantifying the figures of merit of power-gating for leakage power minimization in nanometer CMOS circuits. citation:-1
+title:A Wireless Body Area Sensor Network for Posture Detection. citation:-1
+title:Mining Gene Sets for Measuring Similarities. citation:-1
+title:Efficient switching activity computation during high-level synthesis of control-dominated designs. citation:-1
+title:Energy-efficient data scrambling on memory-processor interfaces. citation:-1
+title:System-level power estimation and optimization. citation:-1
+title:Transformation and synthesis of FSMs for low-power gated-clock implementation. citation:-1
+title:Discharge current steering for battery lifetime optimization. citation:-1
+title:System-level power optimization: techniques and tools. citation:-1
+title:Selective instruction compression for memory energy reduction in embedded systems. citation:-1
+title:System-level power optimization of special purpose applications: the beach solution. citation:-1
+title:Post-layout leakage power minimization based on distributed sleep transistor insertion. citation:-1
+title:Cached-code compression for energy minimization in embedded processors. citation:-1
+title:Monitoring system activity for OS-directed dynamic power management. citation:-1
+title:A recursive algorithm for low-power memory partitioning. citation:-1
+title:Parametric timing and power macromodels for high level simulation of low-swing interconnects. citation:-1
+title:Gate-level current waveform simulation of CMOS integrated circuits. citation:-1
+title:Automatic source code specialization for energy reduction. citation:-1
+title:Contents provider-assisted dynamic voltage scaling for low energy multimedia applications. citation:-1
+title:Analysis of glitch power dissipation in CMOS ICs. citation:-1
+title:Operating-system directed power reduction. citation:-1
+title:Energy-efficient design of battery-powered embedded systems. citation:-1
+title:Clock skew optimization for peak current reduction. citation:-1
+title:Re-mapping for low power under tight timing constraints. citation:-1
+title:Dynamic thermal clock skew compensation using tunable delay buffers. citation:-1
+title:Multiple power-gating domain (multi-VGND) architecture for improved leakage power reduction. citation:-1
+title:Synchronization-driven dynamic speed scaling for MPSoCs. citation:-1
+title:Timing-driven row-based power gating. citation:-1
+title:Battery-Driven Dynamic Power Management of Portable Systems. citation:-1
+title:Powering networks on chips. citation:-1
+title:Synthesis of Low-Power Selectively-Clocked Systems from High-Level Specification. citation:-1
+title:Source code transformation based on software cost analysis. citation:-1
+title:Requester-Aware Power Reduction. citation:-1
+title:Event-Driven Power Management of Portable Systems. citation:-1
+title:Source Code Optimization and Profiling of Energy Consumption in Embedded Systems. citation:-1
+title:Hardw are Implementation of Data Compression Algorithms for Memory Energy Optimization. citation:-1
+title:Introducing tangerine: a tangible interactive natural environment. citation:-1
+title:Dynamic power management for portable systems. citation:-1
+title:Networks on Chips: A Synthesis Perspective. citation:-1
+title:Statistical Power Estimation of Behavioral Descriptions. citation:-1
+title:Offline Data Profiling Techniques to Enhance Memory Compression in Embedded Systems. citation:-1
+title:Energy-Efficient Value-Based Selective Refresh for Embedded DRAMs. citation:-1
+title:Temporal Discharge Current Driven Clustering for Improved Leakage Power Reduction in Row-Based Power-Gating. citation:-1
+title:Bio-feedback System for Rehabilitation Based on a Wireless Body Area Network. citation:-1
+title:Gesture Signature for Ambient Intelligence Applications: A Feasibility Study. citation:-1
+title:Compilation and Simulation Tool Chain for Memory Aware Energy Optimizations . citation:-1
+title:Fault tolerance overhead in network-on-chip flow control schemes. citation:-1
+title:Advanced power management of SoC platforms. citation:-1
+title:Energy efficient NoC design. citation:-1
+title:A smart wireless glove for gesture interaction. citation:-1
+title:A Traffic Injection Methodology with Support for System-Level Synchronization. citation:-1
+title:Designing Message-Dependent Deadlock Free Networks on Chips for Application-Specific Systems on Chips. citation:-1
+title:A Complete Multi-Processor System-on-Chip FPGA-Based Emulation Framework. citation:-1
+title:Architectural, System Level and Protocol Level Techniques for Power Optimization for Networked Embedded Systems. citation:-1
+title:Tutorial 5: SoC Communication Architectures: Technology, Current Practice, Research, and Trends. citation:-1
+title:Reducing Interconnect Cost in NoC through Serialized Asynchronous Links. citation:-1
+title:NoC Design and Implementation in 65nm Technology. citation:-1
+title:Exploring High-Dimensional Topologies for NoC Design Through an Integrated Analysis and Synthesis Framework. citation:-1
+title:Statistical Significance in Omic Data Analyses - Alternative/Complementary Method for Efficient Automatic Identification of Statistically Significant Tests in High Throughput Biological Studies. citation:-1
+title:A High-Performance Wireless Sensor Node for Industrial Control Applications. citation:-1
+title:TOM: enhancement and extension of a tool suite for approaches to multigenic hereditary disorders. citation:-1
+title:SystemC Cosimulation and Emulation of Multiprocessor SoC Designs. citation:-1
+title:Networks on Chips: A New SoC Paradigm. citation:-1
+title:Battery-Driven Dynamic Power Management. citation:-1
+title:Increasing Energy Efficiency of Embedded Systems by Application-Specific Memory Hierarchy Generation. citation:-1
+title:Saving Power by Synthesizing Gated Clocks for Sequential Circuits. citation:-1
+title:Virtual Simulation of Distributed IP-Based Designs. citation:-1
+title:Integrated Task Scheduling and Data Assignment for SDRAMs in Dynamic Applications. citation:-1
+title:Analysis of Error Recovery Schemes for Networks on Chips. citation:-1
+title:Electronic Detection of DNA Hybridization: Toward CMOS Microarrays. citation:-1
+title:The State of ESL Design [Roundtable]. citation:-1
+title:Measuring Efficiency and Executability of Allocation and Scheduling in Multi-Processor Systems-on-Chip. citation:-1
+title:Pervasive Computing for Interactive Virtual Heritage. citation:-1
+title:Optimized Technique for Dna Structural Properties Discovering. citation:-1
+title:A Fast and Accurate Technique for Mapping Parallel Applications on Stream-Oriented MPSoC Platforms with Communication Awareness. citation:-1
+title:Efficient system-level prototyping of power-aware dynamic memory managers for embedded systems. citation:-1
+title:Guest Editorial. citation:-1
+title:Network-on-Chip design and synthesis outlook. citation:-1
+title:Packetization and routing analysis of on-chip multiprocessor networks. citation:-1
+title:Bringing NoCs to 65 nm. citation:-1
+title:Interfacing human and computer with wireless body area sensor networks: the WiMoCA solution. citation:-1
+title:TOM: a web-based integrated approach for identification of candidate disease genes. citation:-1
+title:Real-time scheduling for energy harvesting sensor nodes. citation:-1
+title:Energy characterization of embedded real-time operating systems. citation:-1
+title:Discharge Current Steering for Battery Lifetime Optimization. citation:-1
+title:Automatic Synthesis of Large Telescopic Units Based on Near-Minimum Timed Supersetting. citation:-1
+title:A Class of Code Compression Schemes for Reducing Power Consumption in Embedded Microprocessor Systems. citation:-1
+title:Dynamic Power Management for Nonstationary Service Requests. citation:-1
+title:Energy-Efficient Multiprocessor Systems-on-Chip for Embedded Computing: Exploring Programming Models and Their Architectural Support. citation:-1
+title:Software-controlled processor speed setting for low-power streamingmultimedia. citation:-1
+title:An efficient profile-based algorithm for scratchpad memory partitioning. citation:-1
+title:A scalable algorithm for RTL insertion of gated clocks based on ODCs computation. citation:-1
+title:Error control schemes for on-chip communication links: the energy-reliability tradeoff. citation:-1
+title:Policy optimization for dynamic power management. citation:-1
+title:Automatic synthesis of low-power gated-clock finite-state machines. citation:-1
+title:Synthesis of power-managed sequential components based oncomputational kernel extraction. citation:-1
+title:A multilevel engine for fast power simulation of realistic inputstreams. citation:-1
+title:Telescopic units: a new paradigm for performance optimization of VLSI designs. citation:-1
+title:Architectures and synthesis algorithms for power-efficient businterfaces. citation:-1
+title:Iterative remapping for logic circuits. citation:-1
+title:Value-sensitive automatic code specialization for embedded software. citation:-1
+title:Dynamic frequency scaling with buffer insertion for mixed workloads. citation:-1
+title:Event-driven power management. citation:-1
+title:A Pattern-Mining Method for High-Throughput Lab-on-a-Chip Data Analysis. citation:-1
+title:Reducing Conflict Misses by Application-Specific Reconfigurable Indexing. citation:-1
+title:Timing-Error-Tolerant Network-on-Chip Design Methodology. citation:-1
+title:An Application-Specific Design Methodology for On-Chip Crossbar Generation. citation:-1
+title:A Layout-Aware Analysis of Networks-on-Chip and Traditional Interconnects for MPSoCs. citation:-1
+title:A Reactive and Cycle-True IP Emulator for MPSoC Exploration. citation:-1
+title:Reducing the Abstraction and Optimality Gaps in the Allocation and Scheduling for Variable Voltage/Frequency MPSoC Platforms. citation:-1
+title:Discovering Coherent Biclusters from Gene Expression Data Using Zero-Suppressed Binary Decision Diagrams. citation:-1
+title:Energy-aware design of embedded memories: A survey of technologies, architectures, and optimization techniques. citation:-1
+title:Cache coherence tradeoffs in shared-memory MPSoCs. citation:-1
+title:A control theoretic approach to energy-efficient pipelined computation in MPSoCs. citation:-1
+title:Power macromodeling of MPSoC message passing primitives. citation:-1
+title:Automated DNA fragments recognition and sizing through AFM image processing. citation:-1
+title:Co-clustering: A Versatile Tool for Data Analysis in Biomedical Informatics. citation:-1
+title:System-level power optimization: techniques and tools. citation:-1
+title:Synthesis of low-power selectively-clocked systems from high-level specification. citation:-1
+title:A survey of Boolean matching techniques for library binding. citation:-1
+title:Symbolic synthesis of clock-gating logic for power optimization of synchronous controllers. citation:-1
+title:Regression-based RTL power modeling. citation:-1
+title:HW-SW emulation framework for temperature-aware design in MPSoCs. citation:-1
+title:A multiprocessor system-on-chip for real-time biomedical monitoring and analysis: ECG prototype architectural design space exploration. citation:-1
+title:NoC Synthesis Flow for Customized Domain Specific Multiprocessor Systems-on-Chip. citation:-1
+title:Memory energy minimization by data compression: algorithms, architectures and implementation. citation:-1
+title:Synthesis of Predictable Networks-on-Chip-Based Interconnect Architectures for Chip Multiprocessors. citation:-1
+title:Gate-level power and current simulation of CMOS integrated circuits. citation:-1
+title:Power optimization of core-based systems by address bus encoding. citation:-1
+title:Robust RTL power macromodels. citation:-1
+title:Glitch power minimization by selective gate freezing. citation:-1
+title:A survey of design techniques for system-level dynamic power management. citation:-1
+title:Energy-efficient design of battery-powered embedded systems. citation:-1
+title:Discrete-time battery models for system-level low-power design. citation:-1
+title:Power-aware operating systems for interactive systems. citation:-1
+title:Minimizing memory access energy in embedded systems by selective instruction compression. citation:-1
+title:Layout-driven memory synthesis for embedded systems-on-chip. citation:-1
+title:Scheduling battery usage in mobile systems. citation:-1
+title:Guest editorial. citation:-1
+title:Dynamic Thermal Clock Skew Compensation Using Tunable Delay Buffers. citation:-1
+title:Wireless sensor networks: Enabling technology for ambient intelligence. citation:-1
+title:Energy-Efficient Value Based Selective Refresh for Embedded DRAMS. citation:-1
+title:MPARM: Exploring the Multi-Processor SoC Design Space with SystemC. citation:-1
+title:Clock Skew Optimization for Peak Current Reduction. citation:-1
+title:Improving Java performance using dynamic method migration on FPGAs. citation:-1
+title:Exploring temperature-aware design in low-power MPSoCs. citation:-1
+title:Power-aware computing systems. citation:-1
+title:Hardware/Software Architecture for Real-Time ECG Monitoring and Analysis Leveraging MPSoC Technology. citation:-1
+title:Synthesis of networks on chips for 3D systems on chips. citation:-1
+title:Predictability vs. Efficiency in the Multicore Era: Fight of Titans or Happy Ever after?. citation:-1
+title:Hidden Markov Models Implementation for Tangible Interfaces. citation:-1
+title:MM-Correction: Meta-analysis-Based Multiple Hypotheses Correction in Omic Studies. citation:-1
+title:Multimodal Abandoned/Removed Object Detection for Low Power Video Surveillance Systems. citation:-1
+title:Minimization of the reconfiguration latency for the mapping of applications on FPGA-based systems. citation:-1
+title:NoC topology synthesis for supporting shutdown of voltage islands in SoCs. citation:-1
+title:System-level power/performance evaluation of 3D stacked DRAMs for mobile applications. citation:-1
+title:Effectiveness of adaptive supply voltage and body bias as post-silicon variability compensation techniques for full-swing and low-swing on-chip communication channels. citation:-1
+title:SunFloor 3D: A tool for Networks On Chip topology synthesis for 3D systems on chips. citation:-1
+title:Robust non-preemptive hard real-time scheduling for clustered multicore platforms. citation:-1
+title:Adaptive idleness distribution for non-uniform aging tolerance in MultiProcessor Systems-on-Chip. citation:-1
+title:Physically clustered forward body biasing for variability compensation in nanometer CMOS design. citation:-1
+title:Synthesis of low-overhead configurable source routing tables for network interfaces. citation:-1
+title:Efficient OpenMP support and extensions for MPSoCs with explicitly managed memory hierarchy. citation:-1
+title:Visual quality analysis for dynamic backlight scaling in LCD systems. citation:-1
+title:Cellflow: A Parallel Application Development Environment with Run-Time Support for the Cell BE Processor. citation:-1
+title:Analysis of Power Management Strategies for a Large-Scale SoC Platform in 65nm Technology. citation:-1
+title:How to Live with Uncertainties: Exploiting the Performance Benefits of Self-Timed Logic In Synchronous Design. citation:-1
+title:A Solar-powered Video Sensor Node for Energy Efficient Multimodal Surveillance. citation:-1
+title:: human visual system-aware dynamic luminance backlight scaling for video streaming applications. citation:-1
+title:Variability-tolerant workload allocation for MPSoC energy minimization under real-time constraints. citation:-1
+title:OpenMP Support for NBTI-Induced Aging Tolerance in MPSoCs. citation:-1
+title:Enhancing the spatial resolution of presence detection in a PIR based wireless surveillance network. citation:-1
+title:Distributed video surveillance using hardware-friendly sparse large margin classifiers. citation:-1
+title:Designing Regular Network-on-Chip Topologies under Technology, Architecture and Software Constraints. citation:-1
+title:Thermal Balancing Policy for Multiprocessor Stream Computing Platforms. citation:-1
+title:A Feedback-Based Approach to DVFS in Data-Flow Applications. citation:-1
+title:Methods for Designing Reliable Probe Arrays. citation:-1
+title:Variability-tolerant run-time workload allocation for MPSoC energy minimization under real-time constraints. citation:-1
+title:Networks on Chips: from research to products. citation:-1
+title:Power-aware Computing Systems, 3.-8. April 2005 citation:-1
+title:Power-aware Computing Systems, 21.01. - 26.01.2007 citation:-1
+title:Efficient OpenMP data mapping for multicore platforms with vertically stacked memory. citation:-1
+title:Design space exploration of a mesochronous link for cost-effective and flexible GALS NOCs. citation:-1
+title:An efficient and complete approach for throughput-maximal SDF allocation and scheduling on multi-core platforms. citation:-1
+title:A method to remove deadlocks in Networks-on-Chips with Wormhole flow control. citation:-1
+title:Parallel subdivision surface rendering and animation on the Cell BE processor. citation:-1
+title:An efficient distributed memory interface for many-core platform with 3D stacked DRAM. citation:-1
+title:A new physical routing approach for robust bundled signaling on NoC links. citation:-1
+title:A virtual platform environment for exploring power, thermal and reliability management control strategies in high-performance multicores. citation:-1
+title:A method for calculating hard QoS guarantees for Networks-on-Chip. citation:-1
+title:Automatic synthesis of near-threshold circuits with fine-grained performance tunability. citation:-1
+title:Comparing tightly and loosely coupled mesochronous synchronizers in a NoC switch architecture. citation:-1
+title:Scalable instruction set simulator for thousand-core architectures running on GPGPUs. citation:-1
+title:A hardware/software framework for supporting transactional memory in a MPSoC environment. citation:-1
+title:Adaptive Power Management for Environmentally Powered Systems. citation:-1
+title:Photovoltaic scavenging systems: Modeling and optimization. citation:-1
+title:Exploiting Temporal Discharge Current Information to Improve the Efficiency of Clustered Power-Gating. citation:-1
+title:A Refinement Methodology for Clock Gating Optimization at Layout Level in Digital Circuits. citation:-1
+title:A low-power wireless video sensor node for distributed object detection. citation:-1
+title:Evaluating OpenMP Support Costs on MPSoCs. citation:-1
+title:Energy aware multimodal embedded video surveillance. citation:-1
+title:Stochastic allocation and scheduling for conditional task graphs in multi-processor systems-on-chip. citation:-1
+title:Collecting Datasets from Ambient Intelligence Environments. citation:-1
+title:Design of networks on chips for 3D ICs. citation:-1
+title:Vertical stealing: robust, locality-aware do-all workload distribution for 3D MPSoCs. citation:-1
+title:Exploring programming model-driven QoS support for NoC-based platforms. citation:-1
+title:Energy Efficient Cooperative Multimodal Ambient Monitoring. citation:-1
+title:Compressive sensing optimization over ZigBee networks. citation:-1
+title:GENESI: Green sEnsor NEtworks for Structural monItoring. citation:-1
+title:Fast Computation of Discharge Current Upper Bounds for Clustered Power Gating. citation:-1
+title:Performability/Energy Tradeoff in Error-Control Schemes for On-Chip Networks. citation:-1
+title:Accelerometer-based fall detection using optimized ZigBee data streaming. citation:-1
+title:Comparison of energy intake prediction algorithms for systems powered by photovoltaic harvesters. citation:-1
+title:Capacitance DNA bio-chips improved by new probe immobilization strategies. citation:-1
+title:Joint co-clustering: Co-clustering of genomic and clinical bioimaging data. citation:-1
+title:Memory design techniques for low energy embedded systems. citation:-1
+title:Dynamic power management - design techniques and CAD tools. citation:-1
+title:Precedence Constraint Posting for Cyclic Scheduling Problems. citation:-1
+title:Adaptive TDMA bus allocation and elastic scheduling: A unified approach for enhancing robustness in multi-core RT systems. citation:-1
+title:3D NoCs - Unifying inter & intra chip communication. citation:-1
+title:Load Optimization of an Inductive Power Link for Remote Powering of Biomedical Implants. citation:-1
+title:Rapid and efficient application design using a signal processing framework for WSN. citation:-1
+title:Bus Access Design for Combined Worst and Average Case Execution Time Optimization of Predictable Real-Time Applications on Multiprocessor Systems-on-Chip. citation:-1
+title:Parallel Rendering and Animation of Subdivision Surfaces on the Cell BE Processor. citation:-1
+title:SunFloor 3D: A Tool for Networks on Chip Topology Synthesis for 3-D Systems on Chips. citation:-1
+title:Characterization and Implementation of Fault-Tolerant Vertical Links for 3-D Networks-on-Chip. citation:-1
+title:Guest Editorial: Special Section on the ACM/IEEE Symposium on Networks-on-Chip 2010. citation:-1
+title:Row-Based Power-Gating: A Novel Sleep Transistor Insertion Methodology for Leakage Power Optimization in Nanometer CMOS Circuits. citation:-1
+title:Optimal resource allocation and scheduling for the CELL BE platform. citation:-1
+title:Linux-Based Data Acquisition and Processing on Palmtop Computer. citation:-1
+title:MOCA: A Low-Power, Low-Cost Motion Capture System Based on Integrated Accelerometers. citation:-1
+title:Exploring architectural solutions for energy optimisations in bus-based system-on-chip. citation:-1
+title:Area and Power Modeling for Networks-on-Chip with Layout Awareness. citation:-1
+title:A Method for Routing Packets Across Multiple Paths in NoCs with In-Order Delivery and Fault-Tolerance Gaurantees. citation:-1
+title:Variability compensation for full-swing against low-swing on-chip communication. citation:-1
+title:Comparative Analysis of NoCs for Two-Dimensional Versus Three-Dimensional SoCs Supporting Multiple Voltage and Frequency Islands. citation:-1
+title:A DRAM Centric NoC Architecture and Topology Design Approach. citation:-1
+title:A Simulation Based Buffer Sizing Algorithm for Network on Chips. citation:-1
+title:A Method for Integrating Network-on-Chip Topologies with 3D ICs. citation:-1
+title:Power/Performance Exploration of Single-core and Multi-core Processor Approaches for Biomedical Signal Processing. citation:-1
+title:A System Level Approach to Multi-core Thermal Sensors Calibration. citation:-1
+title:A distributed and topology-agnostic approach for on-line NoC testing. citation:-1
+title:Merging RFID, visual and gesture recognition technologies to generate and manage smart environments. citation:-1
+title:GPGPU-Accelerated Parallel and Fast Simulation of Thousand-Core Platforms. citation:-1
+title:SCC Thermal Sensor Characterization and Calibration. citation:-1
+title:MPOpt-Cell: a high-performance data-flow programming environment for the CELL BE processor. citation:-1
+title:A Cost-effective Indoor Vibrotactile Navigation System for the Blind. citation:-1
+title:An efficient on-line task allocation algorithm for QoS and energy efficiency in multicore multimedia platforms. citation:-1
+title:Design space exploration for 3D-stacked DRAMs. citation:-1
+title:A distributed and self-calibrating model-predictive controller for energy and thermal management of high-performance multicores. citation:-1
+title:ReliNoC: A reliable network for priority-based on-chip communication. citation:-1
+title:An effective multi-source energy harvester for low power applications. citation:-1
+title:A fully-synthesizable single-cycle interconnection network for Shared-L1 processor clusters. citation:-1
+title:Thermal-aware system-level modeling and management for Multi-Processor Systems-on-Chip. citation:-1
+title:A floorplan-aware interactive tool flow for NoC design and synthesis. citation:-1
+title:A Constraint Based Approach to Cyclic RCPSP. citation:-1
+title:Neuron Constraints to Model Complex Real-World Problems. citation:-1
+title:Dual-Polarized TerraSAR-X Data for Oil-Spill Observation. citation:-1
+title:Supporting OpenMP on a multi-cluster embedded MPSoC. citation:-1
+title:Performance Analysis of Arbitration Policies for SoC Communication Architectures. citation:-1
+title:A Framework for Modeling and Estimating the Energy Dissipation of VLIW-Based Embedded Systems. citation:-1
+title:An OpenMP Compiler for Efficient Use of Distributed Scratchpad Memory in MPSoCs. citation:-1
+title:Distributed Compressive Sampling for Lifetime Optimization in Dense Wireless Sensor Networks. citation:-1
+title:A kinetic energy harvester with fast start-up for wearable body-monitoring sensors. citation:-1
+title:Wearable assistant for load monitoring: recognition of on - body load placement from gait alterations. citation:-1
+title:A wireless system for gait and posture analysis based on pressure insoles and Inertial Measurement Units. citation:-1
+title:SoC-TM: integrated HW/SW support for transactional memory programming on embedded MPSoCs. citation:-1
+title:Variability-Aware Task Allocation for Energy-Efficient Quality of Service Provisioning in Embedded Streaming Multimedia Applications. citation:-1
+title:Design Issues and Considerations for Low-Cost 3-D TSV IC Technology. citation:-1
+title:A Buffer-Sizing Algorithm for Network-on-Chips with Multiple Voltage-Frequency Islands. citation:-1
+title:Design of a Flexible Reactivation Cell for Safe Power-Mode Transition in Power-Gated Circuits. citation:-1
+title:Design of a Solar-Harvesting Circuit for Batteryless Embedded Systems. citation:-1
+title:Platform 2012, a many-core computing accelerator for embedded SoCs: performance evaluation of visual analytics applications. citation:-1
+title:Static Thermal Model Learning for High-Performance Multicore Servers. citation:-1
+title:An energy efficient DRAM subsystem for 3D integrated SoCs. citation:-1
+title:Analysis of instruction-level vulnerability to dynamic voltage and temperature variations. citation:-1
+title:Quantifying the impact of frequency scaling on the energy efficiency of the single-chip cloud computer. citation:-1
+title:Design of a collective communication infrastructure for barrier synchronization in cluster-based nanoscale MPSoCs. citation:-1
+title:A resilient architecture for low latency communication in shared-L1 processor clusters. citation:-1
+title:Smart power unit with ultra low power radio trigger capabilities for wireless sensor networks. citation:-1
+title:Fast and lightweight support for nested parallelism on cluster-based embedded many-cores. citation:-1
+title:P2012: Building an ecosystem for a scalable, modular and high-efficiency embedded computing accelerator. citation:-1
+title:Global Cyclic Cumulative Constraint. citation:-1
+title:Reconfigurable natural interaction in smart environments: approach and prototype implementation. citation:-1
+title:Row-based FBB: A design-time optimization for post-silicon tunable circuits. citation:-1
+title:Automatic intrinsic DNA curvature computation from AFM images. citation:-1
+title:Robust Near-Threshold Design With Fine-Grained Performance Tunability. citation:-1
+title:Combined methods to extend the lifetime of power hungry WSN with multimodal sensors and nanopower wakeups. citation:-1
+title:Procedure hopping: a low overhead solution to mitigate variability in shared-L1 processor clusters. citation:-1
+title:Advanced power management techniques: going beyond intelligent shutdown. citation:-1
+title:Energy-aware objects abandon / removal detection. citation:-1
+title:Optimization and Controlled Systems: A Case Study on Thermal Aware Workload Dispatching. citation:-1
+title:Network-Level Power-Performance Trade-Off in Wearable Activity Recognition: A Dynamic Sensor Selection Approach. citation:-1
+title:Thermal and Energy Management of High-Performance Multicores: Distributed and Self-Calibrating Model-Predictive Controller. citation:-1
+title:Robust Scheduling of Task Graphs under Execution Time Uncertainty. citation:-1
+title:Opportunistic hierarchical classification for power optimization in wearable movement monitoring systems. citation:-1
+title:Simultaneous memory and bus partitioning for SoC architectures. citation:-1
+title:OpenMP-based Synergistic Parallelization and HW Acceleration for On-Chip Shared-Memory Clusters. citation:-1
+title:A high-throughput and low-latency interconnection network for multi-core Clusters with 3-D stacked L2 tightly-coupled data memory. citation:-1
+title:3D-LIN: A configurable low-latency interconnect for multi-core clusters with 3D stacked L1 memory. citation:-1
+title:Xpipes: A latency insensitive parameterized network-on-chip architecture for multi-processor SoCs. citation:-1
+title:A retrospective look at xpipes: The exciting ride from a design experience to a design platform for nanoscale networks-on-chip. citation:-1
+title:A distributed interleaving scheme for efficient access to WideIO DRAM memory. citation:-1
+title:Don't burn your mobile!: safe computational re-sprinting via model predictive control. citation:-1
+title:Variability-tolerant workload allocation for MPSoC energy minimization under real-time constraints. citation:-1
+title:Online thermal control methods for multiprocessor systems. citation:-1
+title:Computing Accurate Performance Bounds for Best Effort Networks-on-Chip. citation:-1
+title:Variation-Tolerant Architecture for Ultra Low Power Shared-L1 Processor Clusters. citation:-1
+title:A tightly-coupled multi-core cluster with shared-memory HW accelerators. citation:-1
+title:PRO3D, Programming for Future 3D Manycore Architectures: Project's Interim Status. citation:-1
+title:Fine-Grained Power and Body-Bias Control for Near-Threshold Deep Sub-Micron CMOS Circuits. citation:-1
+title:SoC Communication Architectures: From Interconnection Buses to Packet-Switched NoCs. citation:-1
+title:Networks-on-Chip: an Interconnect Fabric for Multiprocessor Systems-on-Chip. citation:-1

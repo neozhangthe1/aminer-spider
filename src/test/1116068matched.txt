@@ -1,0 +1,101 @@
+title1:Image Matching by Multiscale Oriented Corner Correlation. title2:Image matching by multiscale oriented corner correlation citation:11 ncitation:9 pid18286
+title1:Illumination Normalization for Robust Face Recognition Against Varying Lighting Conditions. title2:Illumination normalization for robust face recognition against varying lighting conditions citation:247 ncitation:200 pid40632
+title1:AdaBoost Gabor Fisher Classifier for Face Recognition. title2:AdaBoost Gabor Fisher classifier for face recognition citation:66 ncitation:58 pid40633
+title1:Online Selecting Discriminative Tracking Features Using Particle Filter. title2:Online selecting discriminative tracking features using particle filter citation:95 ncitation:80 pid129347
+title1:Locally Assembled Binary (LAB) feature with feature-centric cascade for fast and accurate face detection. title2:Locally assembled binary (lab) feature with feature-centric cascade for fast and accurate face detection citation:61 ncitation:44 pid130201
+title1:Manifold-Manifold Distance with application to face recognition based on image set. title2:Manifold-manifold distance with application to face recognition based on image set citation:112 ncitation:73 pid130550
+title1:Transition Movement Models for Large Vocabulary Continuous Sign Language Recognition. title2:Transition movement models for large vocabulary continuous sign language recognition citation:49 ncitation:44 pid205351
+title1:Curse of Mis-alignment in Face Recognition: Problem and a Novel Mis-alignment Learning Solution. title2:Curse of mis-alignment in face recognition: problem and a novel mis-alignment learning solution citation:77 ncitation:68 pid205650
+title1:Face Recognition Using Ada-Boosted Gabor Features. title2:Face recognition using ada-boosted gabor features citation:152 ncitation:137 pid205746
+title1:An Approach Based on Phonemes to Large Vocabulary Chinese Sign Language Recognition. title2:An approach based on phonemes to large vocabulary Chinese sign language recognition citation:71 ncitation:65 pid205713
+title1:Local Linear Regression (LLR) for Pose Invariant Face Recognition. title2:Locally linear regression for pose-invariant face recognition citation:116 ncitation:101 pid205905
+title1:Enhance the Alignment Accuracy of Active Shape Models Using Elastic Graph Matching. title2:Enhance the alignment accuracy of active shape models using elastic graph matching citation:13 ncitation:10 pid274318
+title1:Local Gabor Binary Pattern Histogram Sequence (LGBPHS): A Novel Non-Statistical Model for Face Representation and Recognition. title2:Local Gabor binary pattern histogram sequence (LGBPHS): A novel non-statistical model for face representation and recognition citation:430 ncitation:315 pid294018
+title1:Hierarchical Ensemble of Global and Local Classifiers for Face Recognition. title2:Hierarchical ensemble of global and local classifiers for face recognition citation:144 ncitation:102 pid294386
+title1:An implemented architecture of deblocking filter for H.264/AVC. title2:An implemented architecture of deblocking filter for H. 264/AVC citation:107 ncitation:106 pid321186
+title1:Rate control for JVT video coding scheme with HRD considerations. title2:Rate control for JVT video coding scheme with HRD considerations citation:71 ncitation:58 pid319386
+title1:Error resilience video coding in H.264 encoder with potential distortion tracking. title2:Error resilience video coding in H. 264 encoder with potential distortion tracking citation:44 ncitation:44 pid322589
+title1:An adaptive skin color detection algorithm with confusing backgrounds elimination. title2:An adaptive skin color detection algorithm with confusing backgrounds elimination citation:9 ncitation:7 pid323290
+title1:An Efficient Reference Frame Storage Scheme for H.264 HDTV Decoder. title2:An efficient reference frame storage scheme for H. 264 HDTV decoder citation:10 ncitation:9 pid332094
+title1:Generating Video Sequence from Photo Image for Mobile Screens by Content Analysis. title2:Generating video sequence from photo image for mobile screens by content analysis citation:10 ncitation:10 pid332655
+title1:A Real-Time Score Detection and Recognition Approach for Broadcast Basketball Video. title2:A real-time score detection and recognition approach for broadcast basketball video citation:11 ncitation:9 pid332858
+title1:Recognition of sign language subwords based on boosted hidden Markov models. title2:Recognition of sign language subwords based on boosted hidden Markov models citation:11 ncitation:10 pid334254
+title1:An Improved Active Shape Model for Face Alignment. title2:An improved active shape model for face alignment citation:48 ncitation:45 pid334187
+title1:Review the Strength of Gabor Features for Face Recognition from the Angle of Its Robustness to Mis-Alignment. title2:Review the strength of gabor features for face recognition from the angle of its robustness to mis-alignment citation:61 ncitation:52 pid348653
+title1:2D Cascaded AdaBoost for Eye Localization. title2:2d cascaded adaboost for eye localization citation:66 ncitation:55 pid348151
+title1:Ensemble of Piecewise FDA Based on Spatial Histograms of Local (Gabor) Binary Patterns for Face Recognition. title2:Ensemble of piecewise FDA based on spatial histograms of local (Gabor) binary patterns for face recognition citation:47 ncitation:42 pid348657
+title1:Robust Head Pose Estimation Using LGBP. title2:Robust head pose estimation using LGBP citation:42 ncitation:35 pid347808
+title1:Symmetric segment-based stereo matching of motion blurred images with illumination variations. title2:Symmetric segment-based stereo matching of motion blurred images with illumination variations citation:9 ncitation:8 pid350412
+title1:Rate control for advance video coding (AVC) standard. title2:Rate control for advance video coding (AVC) standard citation:59 ncitation:62 pid422686
+title1:The fast close-loop video transcoder with limited drifting error. title2:The fast close-loop video transcoder with limited drifting error citation:10 ncitation:9 pid425090
+title1:Real-time scheduling on scalable media stream delivery. title2:Real-time scheduling on scalable media stream delivery citation:10 ncitation:10 pid421260
+title1:Enhanced direct mode coding for bi-predictive pictures. title2:Enhanced direct mode coding for bi-predictive pictures citation:12 ncitation:11 pid421840
+title1:Low-delay View Random Access for Multi-view Video Coding. title2:Low-delay view random access for multi-view video coding citation:12 ncitation:9 pid429172
+title1:Seamless switching of scalable video bitstreams for efficient streaming. title2:Seamless switching of scalable video bitstreams for efficient streaming citation:58 ncitation:58 pid427735
+title1:A texture-based tamper detection scheme by fragile watermark. title2:A texture-based tamper detection scheme by fragile watermark citation:9 ncitation:11 pid427401
+title1:Using Score Normalization to Solve the Score Variation Problem in Face Authentication. title2:Using score normalization to solve the score variation problem in face authentication citation:10 ncitation:8 pid463260
+title1:Watermark Detection Schemes with High Security. title2:Watermark detection schemes with high security citation:9 ncitation:6 pid457019
+title1:Research on the Discrimination of Pornographic and Bikini Images. title2:Research on the discrimination of pornographic and bikini images citation:10 ncitation:10 pid437528
+title1:Wavelet based distributed video coding with spatial scalability. title2:Wavelet based distributed video coding with spatial scalability citation:10 ncitation:8 pid431144
+title1:Online Selection of Discriminative Features Using Bayes Error Rate for Visual Tracking. title2:Online selection of discriminative features using Bayes error rate for visual tracking citation:12 ncitation:10 pid531687
+title1:A Novel Method to Compensate Variety of Illumination in Face Detection. title2:A Novel Method to Compensate Variety of Illumination in Face Detection. citation:10 ncitation:11 pid468351
+title1:Video2Cartoon: generating 3D cartoon from broadcast soccer video. title2:Video2Cartoon: generating 3D cartoon from broadcast soccer video citation:10 ncitation:9 pid502576
+title1:Diversifying the image retrieval results. title2:Diversifying the image retrieval results citation:43 ncitation:37 pid503501
+title1:Effective and efficient object-based image retrieval using visual phrases. title2:Effective and efficient object-based image retrieval using visual phrases citation:83 ncitation:73 pid503271
+title1:Trajectory based event tactics analysis in broadcast sports video. title2:Trajectory based event tactics analysis in broadcast sports video citation:51 ncitation:43 pid503524
+title1:Region-based visual attention analysis with its application in image browsing on small displays. title2:Region-based visual attention analysis with its application in image browsing on small displays citation:54 ncitation:51 pid503557
+title1:Multi-view Video Coding with Flexible View-Temporal Prediction Structure for Fast Random Access. title2:Multi-view video coding with flexible view-temporal prediction structure for fast random access citation:9 ncitation:9 pid531715
+title1:A Study on the Quantization Scheme in H.264/AVC and Its Application to Rate Control. title2:A study on the quantization scheme in H. 264/AVC and its application to rate control citation:11 ncitation:8 pid531750
+title1:Baseline Evaluations on the CAS-PEAL-R1 Face Database. title2:Baseline evaluations on the CAS-PEAL-R1 face database citation:11 ncitation:10 pid603968
+title1:Sign Language Recognition Based on HMM/ANN/DP. title2:Sign language recognition based on HMM/ANN/DP citation:67 ncitation:64 pid918893
+title1:Fast and robust text detection in images and video frames. title2:Fast and robust text detection in images and video frames citation:193 ncitation:169 pid947347
+title1:Shape-based Adult Image Detection. title2:Shape-based adult image detection citation:39 ncitation:34 pid910461
+title1:Object detection using spatial histogram features. title2:Object detection using spatial histogram features citation:68 ncitation:51 pid947389
+title1:HandTalker II: a Chinese sign language recognition and synthesis system. title2:HandTalker II: a Chinese sign language recognition and synthesis system citation:9 ncitation:9 pid733760
+title1:Exploiting the kernel trick to correlate fragment ions for peptide identification via tandem mass spectrometry. title2:Exploiting the kernel trick to correlate fragment ions for peptide identification via tandem mass spectrometry citation:65 ncitation:64 pid763759
+title1:Rate-distortion analysis for H.264/AVC video coding and its application to rate control. title2:Rate-distortion analysis for H. 264/AVC video coding and its application to rate control citation:209 ncitation:161 pid1097143
+title1:Wyner-Ziv Switching Scheme for Multiple Bit-Rate Video Streaming. citation:10 ncitation:9 pid1097763
+title1:Wyner-Ziv-Based Multiview Video Coding. citation:53 ncitation:47 pid1097804
+title1:Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model. title2:Robust moving object segmentation on H. 264/AVC compressed video using the block-based MRF model citation:112 ncitation:105 pid1052841
+title1:Face detection and location based on skin chrominance and lip chrominance transformation from color images. title2:Face detection and location based on skin chrominance and lip chrominance transformation from color images citation:47 ncitation:45 pid1042066
+title1:Efficient 3D reconstruction for face recognition. title2:Efficient 3D reconstruction for face recognition citation:153 ncitation:124 pid1039803
+title1:A Chinese sign language recognition system based on SOFM/SRN/HMM. title2:A Chinese sign language recognition system based on SOFM/SRN/HMM citation:47 ncitation:35 pid1039330
+title1:Thresholding technique with adaptive window selection for uneven lighting image. title2:Thresholding technique with adaptive window selection for uneven lighting image citation:53 ncitation:50 pid1044706
+title1:Adaptive rate control for H.264. title2:Adaptive rate control for H. 264 citation:133 ncitation:69 pid1143496
+title1:An image fragile watermark scheme based on chaotic image pattern and pixel-pairs. title2:An image fragile watermark scheme based on chaotic image pattern and pixel-pairs citation:68 ncitation:55 pid1146030
+title1:On guaranteed smooth switching for buffered crossbar switches. title2:On guaranteed smooth switching for buffered crossbar switches citation:48 ncitation:41 pid1123129
+title1:Large vocabulary sign language recognition based on fuzzy decision trees. title2:Large vocabulary sign language recognition based on fuzzy decision trees citation:59 ncitation:52 pid1131050
+title1:The CAS-PEAL Large-Scale Chinese Face Database and Baseline Evaluations. title2:The CAS-PEAL large-scale Chinese face database and baseline evaluations citation:347 ncitation:343 pid1133051
+title1:Large-Vocabulary Continuous Sign Language Recognition Based on Transition-Movement Models. title2:Large-vocabulary continuous sign language recognition based on transition-movement models citation:47 ncitation:40 pid1132760
+title1:Modeling Background and Segmenting Moving Objects from Compressed Video. title2:Modeling background and segmenting moving objects from compressed video citation:75 ncitation:53 pid1097853
+title1:Locally Linear Regression for Pose-Invariant Face Recognition. title2:Locally linear regression for pose-invariant face recognition citation:116 ncitation:101 pid1102562
+title1:Seamless switching of scalable video bitstreams for efficient streaming. title2:Seamless switching of scalable video bitstreams for efficient streaming citation:58 ncitation:58 pid1116600
+title1:Human Behavior Analysis for Highlight Ranking in Broadcast Racket Sports Video. title2:Human behavior analysis for highlight ranking in broadcast racket sports video citation:44 ncitation:44 pid1116761
+title1:Joint Source-Channel Rate-Distortion Optimization for H.264 Video Coding Over Error-Prone Networks. title2:Joint source-channel rate-distortion optimization for H. 264 video coding over error-prone networks citation:101 ncitation:91 pid1116698
+title1:Hierarchical Ensemble of Global and Local Classifiers for Face Recognition. title2:Hierarchical ensemble of global and local classifiers for face recognition citation:144 ncitation:102 pid1540950
+title1:Are Gabor phases really useless for face recognition? title2:Are Gabor phases really useless for face recognition? citation:61 ncitation:45 pid1421604
+title1:A dataset and evaluation methodology for visual saliency in video. title2:A dataset and evaluation methodology for visual saliency in video citation:11 ncitation:7 pid1329946
+title1:WLD: A Robust Local Image Descriptor. title2:WLD: A robust local image descriptor citation:156 ncitation:91 pid1300737
+title1:A Motion-Aligned Auto-Regressive Model for Frame Rate Up Conversion. title2:A motion-aligned auto-regressive model for frame rate up conversion citation:12 ncitation:8 pid2266719
+title1:AVS Video Coding Standard. title2:Context-based entropy coding in AVS video coding standard citation:11 ncitation:6 pid2269100
+title1:Measuring visual saliency by Site Entropy Rate. title2:Measuring visual saliency by site entropy rate citation:64 ncitation:50 pid2210419
+title1:Building contextual visual vocabulary for large-scale image applications. title2:Building contextual visual vocabulary for large-scale image applications citation:48 ncitation:41 pid2201817
+title1:Learning long term face aging patterns from partially dense aging databases. title2:Learning long term face aging patterns from partially dense aging databases citation:12 ncitation:12 pid1610178
+title1:Group-sensitive multiple kernel learning for object categorization. title2:Group-sensitive multiple kernel learning for object categorization citation:76 ncitation:60 pid2679242
+title1:Complexity-Constrained H.264 Video Encoding. title2:Complexity-constrained H. 264 video encoding citation:44 ncitation:29 pid2298905
+title1:Sequence Multi-Labeling: A Unified Video Annotation Scheme With Spatial and Temporal Context. title2:Sequence multi-labeling: A unified video annotation scheme with spatial and temporal context citation:10 ncitation:6 pid2290714
+title1:Multi-strategy data mining on Mandarin prosodic patterns. title2:Multi-strategy data mining on Mandarin prosodic patterns. citation:9 ncitation:4 pid2559389
+title1:Window-Level Rate Control for Smooth Picture Quality and Smooth Buffer Occupancy. title2:Window-level rate control for smooth picture quality and smooth buffer occupancy citation:10 ncitation:6 pid2794733
+title1:Joint video/depth rate allocation for 3D video coding based on view synthesis distortion model. title2:Joint video/depth rate allocation for 3D video coding based on view synthesis distortion model citation:62 ncitation:46 pid2795886
+title1:Context-based entropy coding in AVS video coding standard. title2:Context-based entropy coding in AVS video coding standard citation:11 ncitation:6 pid2807477
+title1:Per-Sample Multiple Kernel Approach for Visual Concept Learning. title2:Per-sample multiple kernel approach for visual concept learning citation:11 ncitation:7 pid2809657
+title1:Distributed Video Coding: Trends and Perspectives. title2:Distributed video coding: trends and perspectives citation:42 ncitation:34 pid2856950
+title1:Maximal Linear Embedding for Dimensionality Reduction. title2:Maximal linear embedding for dimensionality reduction citation:12 ncitation:5 pid2867213
+title1:Generating Descriptive Visual Words and Visual Phrases for Large-Scale Image Applications. title2:Generating descriptive visual words and visual phrases for large-scale image applications citation:12 ncitation:6 pid2896630
+title1:Coupled Bias-Variance Tradeoff for Cross-Pose Face Recognition. citation:15 ncitation:6 pid2944821
+title1:Face identification from a single example image based on Face-Specific Subspace (FSS). title2:Face identification from a single example image based on face-specific subspace (FSS) citation:11 ncitation:11 pid3070187
+title1:Color image segmentation using density-based clustering. title2:Color image segmentation using density-based clustering citation:56 ncitation:52 pid3080995
+title1:Network Adapted Selective Frame-Dropping Algorithm for Streaming Media. title2:Network adapted selective frame-dropping algorithm for streaming media citation:9 ncitation:None pid3251040
+title1:Fast disparity and motion estimation based on correlations for multiview video coding. title2:Fast disparity and motion estimation based on correlations for multiview video coding citation:42 ncitation:-1 pid3253029
+title1:An efficient hardware implementation for motion estimation of AVC standard. title2:An efficient hardware implementation for motion estimation of AVC standard citation:57 ncitation:-1 pid3270354
+title1:An efficient and robust adaptive deinterlacing technique. title2:An efficient and robust adaptive deinterlacing technique citation:9 ncitation:-1 pid3287249

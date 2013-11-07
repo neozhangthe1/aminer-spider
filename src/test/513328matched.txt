@@ -1,0 +1,27 @@
+title1:Modified Branching Programs and Their Computational Power title2:Modified branching programs and their computational power citation:80 ncitation:80 pid3417
+title1:Efficient OBDD-Based Boolean Manipulation in CAD beyond Current Limits. title2:Efficient OBDD-based Boolean manipulation in CAD beyond current limits citation:64 ncitation:63 pid131447
+title1:Linear Sifting of Decision Diagrams. title2:Linear sifting of decision diagrams citation:47 ncitation:40 pid133193
+title1:Authors vs. readers: a comparative study of document metadata and content in the www. title2:Authors vs. readers: a comparative study of document metadata and content in the www citation:44 ncitation:40 pid159785
+title1:Speeding up Variable Reordering of OBDDs. title2:Speeding up variable reordering of OBDDs citation:68 ncitation:59 pid286531
+title1:Modular Partitioning and Dynamic Conjunction Scheduling in Image Computation. title2:Modular Partitioning and Dynamic Conjunction Scheduling in Image Computation Christoph Meinel Christian Stangier citation:0 ncitation:4 pid465047
+title1:Separating the Eraser Turing Machine Classes L, NL, co-NL and P. title2:Separating the eraser Turing machine classes< i> Le</i>,< i> NLe</i>,< i> co-NLe</i> and< i> Pe</i> citation:74 ncitation:70 pid494024
+title1:On the Complexity of Constructing Optimal Ordered Binary Decision Diagrams. title2:On the complexity of constructing optimal ordered binary decision diagrams citation:47 ncitation:45 pid494281
+title1:Web Search Personalization Via Social Bookmarking and Tagging. title2:Web search personalization via social bookmarking and tagging citation:121 ncitation:89 pid583830
+title1:tele-TASK: teleteaching anywhere solution kit. title2:tele-TASK: teleteaching anywhere solution kit citation:51 ncitation:41 pid602601
+title1:Structure and Importance of Logspace-MOD-Classes. title2:Structure and importance of logspace-MOD class citation:100 ncitation:112 pid620002
+title1:Frontiers of Feasible and Probabilistic Feasible Boolean Manipulation with Branching Programs. title2:Frontiers of feasible and probabilistic feasible boolean manipulation with branching programs citation:59 ncitation:58 pid620284
+title1:An Approach to Distributed Functionality - The Smart Data Server. title2:An Approach to Distributed Functionality The Smart Data Server citation:0 ncitation:8 pid657945
+title1:Mod-2-OBDDs - A Data Structure that Generalizes EXOR-Sum-of-Products and Ordered Binary Decision Diagrams. citation:56 ncitation:53 pid878860
+title1:Structure and Importance of Logspace-MOD Class. title2:Structure and importance of logspace-MOD class citation:100 ncitation:112 pid1015329
+title1:Efficient Boolean Manipulation With OBDD's can be Extended to FBDD's. title2:Efficient Boolean Manipulation with OBDD's Can be Extended to FBDD's citation:162 ncitation:155 pid1079379
+title1:Separating the Eraser Turing Machine Classes L_e, NL_e, co-NL_e and P_e. title2:Separating the eraser Turing machine classes< i> Le</i>,< i> NLe</i>,< i> co-NLe</i> and< i> Pe</i> citation:74 ncitation:70 pid1092743
+title1:Efficient Boolean Manipulation with OBDD's can be Extended to FBDD's title2:Efficient Boolean Manipulation with OBDD's Can be Extended to FBDD's citation:162 ncitation:155 pid1196644
+title1:tele-TASK - Teleteaching Anywhere Solution Kit title2:tele-TASK: teleteaching anywhere solution kit citation:51 ncitation:3 pid1196673
+title1:Efficient OBDD-Based Boolean Manipulation in CAD Beyond Current Limits title2:Efficient OBDD-based Boolean manipulation in CAD beyond current limits citation:64 ncitation:63 pid1196701
+title1:Speeding up Variable Reordering of OBDDs title2:Speeding up variable reordering of OBDDs citation:68 ncitation:59 pid1196765
+title1:Linear Sifting of Decision Diagrams title2:Linear sifting of decision diagrams citation:47 ncitation:41 pid1196767
+title1:Telling experts from spammers: expertise ranking in folksonomies. title2:Telling experts from spammers: expertise ranking in folksonomies citation:44 ncitation:34 pid1213995
+title1:Model-driven business process security requirement specification. title2:Model-driven business process security requirement specification citation:74 ncitation:58 pid1226016
+title1:Security Requirements Specification in Service-Oriented Business Process Management. title2:Security requirements specification in service-oriented business process management citation:51 ncitation:38 pid1236477
+title1:Intrusion Detection in the Cloud. title2:Intrusion detection in the cloud citation:62 ncitation:37 pid2907310
+title1:Increasing Spot Instances Reliability Using Dynamic Scalability. title2:Increasing Spot instances reliability using dynamic scalability citation:1 ncitation:-1 pid3209306

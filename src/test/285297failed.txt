@@ -1,0 +1,170 @@
+title:Preimage Attack on the Parallel FFT-Hashing Function. citation:-1
+title:Methods for Linear and Differential Cryptanalysis of Elastic Block Ciphers. citation:-1
+title:Fair Off-Line e-cash Made Easy. citation:-1
+title:Group Encryption. citation:-1
+title:Towards Signature-Only Signature Schemes. citation:-1
+title:Crypto-integrity. citation:-1
+title:Fast Parallel and Sequential Algorithms for Edge-Coloring Planar Graphs. citation:-1
+title:Friendly Observers Ease Off-Line E-Cash. citation:-1
+title:How to Say "YES" with Smart Cards. citation:-1
+title:Funkspiel schemes: an alternative to conventional tamper resistance. citation:-1
+title:Revokable and Versatile Electronic Money (extended abstract). citation:-1
+title:On Crafty Pirates and Foxy Tracers. citation:-1
+title:Bandwidth-Optimal Kleptographic Attacks. citation:-1
+title:Key Evolution Systems in Untrusted Update Environments. citation:-1
+title:A Remark on Implementing the Weil Pairing. citation:-1
+title:Constructing Variable-Length PRPs and SPRPs from Fixed-Length PRPs. citation:-1
+title:A Timing-Resistant Elliptic Curve Backdoor in RSA. citation:-1
+title:On the Evolution of User Authentication: Non-bilateral Factors. citation:-1
+title:Distributed Computing in Asynchronous Networks with Byzantine Edges. citation:-1
+title:Auto-recoverable Auto-certifiable Cryptosystems (A Survey). citation:-1
+title:Systematic Design of Two-Party Authentication Protocols. citation:-1
+title:Perfectly-Secure Key Distribution for Dynamic Conferences. citation:-1
+title:One-Way Group Actions. citation:-1
+title:Abritrated Unconditionally Secure Authentication Can Be Unconditionally Protected Against Arbiter's Attacks (Extended Abstract). citation:-1
+title:Proactive RSA. citation:-1
+title:Perfect Zero-Knowledge Arguments for NP Can Be Based on General Complexity Assumptions (Extended Abstract). citation:-1
+title:Cryptoprotocols: Subscription to a Public Key, the Secret Blocking and the Multi-Player Mental Poker Game (Extended Abstract). citation:-1
+title:Intrusion-Resilient Public-Key Encryption. citation:-1
+title:A Key Recovery System as Secure as Factoring. citation:-1
+title:Public-key traitor tracing from efficient decoding and unbounded enrollment: extended abstract. citation:-1
+title:Adaptively-Secure Distributed Public-Key Systems. citation:-1
+title:Everything in NP can be Argued in Zero-Knowledge in a Number of Rounds (Extended Abstract). citation:-1
+title:Weakness of Undeniable Signature Schemes (Extended Abstract). citation:-1
+title:A Secure Public-key Authentication Scheme. citation:-1
+title:The Blinding of Weak Signatures (Extended Abstract). citation:-1
+title:Traceable Signatures. citation:-1
+title:Distributed "Magic Ink" Signatures. citation:-1
+title:Kleptography: Using Cryptography Against Cryptography. citation:-1
+title:Zero-Knowledge Proofs of Computational Power (Extended Summary). citation:-1
+title:Cryptosystems Robust against "Dynamic Faults" Meet Enterprise Needs for Organizational "Change Control". citation:-1
+title:On Assurance Structures for WWW Commerce. citation:-1
+title:Retrofitting Fairness on the Original RSA-Based E-cash. citation:-1
+title:Beyond Identity: Warranty-Based Digital Signature Transactions. citation:-1
+title:Payment Systems: The Next Generation. citation:-1
+title:-Anonymous Multi-party Secret Handshakes. citation:-1
+title:Real Electronic Cash Versus Academic Electronic Cash Versus Paper Cash (Panel Report). citation:-1
+title:Construction Through Decomposition: A Divide-and-Conquer Algoithm for the N-Queens Problem. citation:-1
+title:Eavesdropping Games: A Graph-Theoretic Approach to Privacy in Distributed Systems citation:-1
+title:A Private Interactive Test of a Boolean Predicate and Minimum-Knowledge Public-Key Cryptosystems (Extended Abstract) citation:-1
+title:The TrustedFlow (TM) Protocol-Idiosyncratic Signatures for Authenticated Execution. citation:-1
+title:On Characterization of Escrow Encryption Schemes. citation:-1
+title:Secure and Efficient Off-Line Digital Money (Extended Abstract). citation:-1
+title:Cryptographic Hardness Based on the Decoding of Reed-Solomon Codes. citation:-1
+title:Image Density is Complete for Non-Interactive-SZK (Extended Abstract). citation:-1
+title:Hash to the Rescue: Space Minimization for PKI Directories. citation:-1
+title:Hiding Information Hiding. citation:-1
+title:Space-Efficient Kleptography Without Random Oracles. citation:-1
+title:Checking Programs Discreetly: Demonstrating Result-Correctness Efficiently while Concealing it. citation:-1
+title:DISSECT: DIStribution for SECurity Tool. citation:-1
+title:The Security of Elastic Block Ciphers Against Key-Recovery Attacks. citation:-1
+title:Questionable Encryption and Its Applications. citation:-1
+title:Adaptive Security for the Additive-Sharing Based Proactive RSA. citation:-1
+title:Lower Bounds on Term-Based Divisible Cash Systems. citation:-1
+title:A PVSS as Hard as Discrete Log and Shareholder Separability. citation:-1
+title:Distributing the Power of a Government to Enhance the Privacy of Voters (Extended Abstract). citation:-1
+title:Witness-Based Cryptographic Program Checking and Applications (an Announcement). citation:-1
+title:How to Withstand Mobile Virus Attacks (Extended Abstract). citation:-1
+title:Time-Optimal Message-Efficient Work Performance in the Presence of Faults (Extended Summary). citation:-1
+title:Polynomial Reconstruction Based Cryptography. citation:-1
+title:Privacy Preserving Data Mining within Anonymous Credential Systems. citation:-1
+title:Communication Complexity of Secure Computation (Extended Abstract) citation:-1
+title:Secure hypergraphs: privacy from partial broadcast (Extended Abstract). citation:-1
+title:Self-Stabilizing Symmetry Breaking in Constant-Space (Extended Abstract) citation:-1
+title:Self-Testing/Correcting Protocols (Extended Abstract). citation:-1
+title:Secure Distributed Computing: Theory and Practice. citation:-1
+title:Evaluation of voting systems. citation:-1
+title:Access regulation mechanism for switch-based LAN. citation:-1
+title:Convergence routing on disjoint spanning trees. citation:-1
+title:Cryptographic Hardness based on the Decoding of Reed-Solomon Codes with Applications citation:-1
+title:Constant-Round Concurrently-Secure rZK in the (Real) Bare Public-Key Model citation:-1
+title:Perfectly Secure Key Distribution for Dynamic Conferences. citation:-1
+title:Eavesdropping games: a graph-theoretic approach to privacy in distributed systems. citation:-1
+title:Corrigendum: Maintenance of a Minimum Spanning Forest in a Dynamic Plane Graph. citation:-1
+title:Characterization of Security Notions for Probabilistic Private-Key Encryption. citation:-1
+title:Combined Asynchronous/Synchronous Packet Switching Architecture: QoS Guarantees for Integrated Parallel Computing and Real-Time Traffic. citation:-1
+title:On Monotone Formula Composition of Perfect Zero-Knowledge Languages. citation:-1
+title:Secure Hypergraphs: Privacy from Partial Broadcast. citation:-1
+title:Adaptively secure distributed public-key systems. citation:-1
+title:Cryptographic Hardness Based on the Decoding of Reed-Solomon Codes. citation:-1
+title:Local and congestion-driven fairness algorithm in arbitrary topology networks. citation:-1
+title:On Fundamental Limitations of Proving Data Theft. citation:-1
+title:Privacy-Preserving Information Markets for Computing Statistical Data. citation:-1
+title:Secure Function Collection with Sublinear Storage. citation:-1
+title:How to Guard the Guards Themselves. citation:-1
+title:Reverse Public Key Encryption. citation:-1
+title:Applied Cryptography and Network Security, First International Conference, ACNS 2003. Kunming, China, October 16-19, 2003, Proceedings citation:-1
+title:Applied Cryptography and Network Security, Second International Conference, ACNS 2004, Yellow Mountain, China, June 8-11, 2004, Proceedings citation:-1
+title:Applied Cryptography and Network Security, 5th International Conference, ACNS 2007, Zhuhai, China, June 5-8, 2007, Proceedings citation:-1
+title:Applied Cryptography and Network Security, 4th International Conference, ACNS 2006, Singapore, June 6-9, 2006, Proceedings citation:-1
+title:Applied Cryptography and Network Security, 8th International Conference, ACNS 2010, Beijing, China, June 22-25, 2010. Proceedings citation:-1
+title:Proceedings of the 2nd ACM Workshop on Scalable Trusted Computing, STC 2007, Alexandria, VA, USA, November 2, 2007 citation:-1
+title:Proceedings of the 1st ACM Workshop on Scalable Trusted Computing, STC 2006, Alexandria, VA, USA, November 3, 2006 citation:-1
+title:Information Security and Cryptology, First SKLOIS Conference, CISC 2005, Beijing, China, December 15-17, 2005, Proceedings citation:-1
+title:Information Security and Cryptology, Second SKLOIS Conference, Inscrypt 2006, Beijing, China, November 29 - December 1, 2006, Proceedings citation:-1
+title:Information Security and Cryptology, 4th International Conference, Inscrypt 2008, Beijing, China, December 14-17, 2008, Revised Selected Papers citation:-1
+title:Information Security and Cryptology, Third SKLOIS Conference, Inscrypt 2007, Xining, China, August 31 - September 5, 2007, Revised Selected Papers citation:-1
+title:Proceedings of the 2003 ACM workshop on Digital rights management 2003, Washington, DC, USA, October 27, 2003 citation:-1
+title:Proceedings of the 2004 ACM Workshop on Digital Rights Management 2004, Washington, DC, USA, October 25, 2004 citation:-1
+title:Proceedings of the Fifth ACM Workshop on Digital Rights Management, Alexandria, VA, USA, November 7, 2005 citation:-1
+title:Proceedings of the Sixth ACM Workshop on Digital Rights Management, Alexandria, VA, USA, October 30, 2006 citation:-1
+title:Proceedings of the Seventh ACM Workshop on Digital Rights Management, Alexandria, VA, USA, October 29, 2007 citation:-1
+title:Digital Rights Management: Technologies, Issues, Challenges and Systems, First International Conference, DRMTICS 2005, Sydney, Australia, October 31 - November 2, 2005, Revised Selected Papers citation:-1
+title:Cryptography between Wonderland and Underland. citation:-1
+title:Financial Cryptography and Data Security, 9th International Conference, FC 2005, Roseau, The Commonwealth of Dominica, February 28 - March 3, 2005, Revised Papers citation:-1
+title:Automata, Languages and Programming, 32nd International Colloquium, ICALP 2005, Lisbon, Portugal, July 11-15, 2005, Proceedings citation:-1
+title:Progress in Cryptology - INDOCRYPT 2007, 8th International Conference on Cryptology in India, Chennai, India, December 9-13, 2007, Proceedings citation:-1
+title:Public Key Cryptography - PKC 2006, 9th International Conference on Theory and Practice of Public-Key Cryptography, New York, NY, USA, April 24-26, 2006, Proceedings citation:-1
+title:Security and Cryptography for Networks, 5th International Conference, SCN 2006, Maiori, Italy, September 6-8, 2006, Proceedings citation:-1
+title:Kleptography from Standard Assumptions and Applications. citation:-1
+title:Stabilization, Safety, and Security of Distributed Systems - 12th International Symposium, SSS 2010, New York, NY, USA, September 20-22, 2010. Proceedings citation:-1
+title:Information Security Applications, 4th International Workshop, WISA 2003, Jeju Island, Korea, August 25-27, 2003, Revised Papers citation:-1
+title:Information Security Applications, 5th International Workshop, WISA 2004, Jeju Island, Korea, August 23-25, 2004, Revised Selected Papers citation:-1
+title:Information Security Applications, 6th International Workshop, WISA 2005, Jeju Island, Korea, August 22-24, 2005, Revised Selected Papers citation:-1
+title:Information Security Applications, 9th International Workshop, WISA 2008, Jeju Island, Korea, September 23-25, 2008, Revised Selected Papers citation:-1
+title:Information Security Applications, 7th International Workshop, WISA 2006, Jeju Island, Korea, August 28-30, 2006, Revised Selected Papers citation:-1
+title:Information Security Applications, 10th International Workshop, WISA 2009, Busan, Korea, August 25-27, 2009, Revised Selected Papers citation:-1
+title:Information Security Applications, 8th International Workshop, WISA 2007, Jeju Island, Korea, August 27-29, 2007, Revised Selected Papers citation:-1
+title:Trusted Systems, First International Conference, INTRUST 2009, Beijing, China, December 17-19, 2009. Revised Selected Papers citation:-1
+title:The Vector-Ballot Approach for Online Voting Procedures. citation:-1
+title:Preface. citation:-1
+title:Information Security and Cryptology - 5th International Conference, Inscrypt 2009, Beijing, China, December 12-15, 2009. Revised Selected Papers citation:-1
+title:Information Security Applications - 11th International Workshop, WISA 2010, Jeju Island, Korea, August 24-26, 2010, Revised Selected Papers citation:-1
+title:Leakage-Resilient RFID Authentication with Forward-Privacy. citation:-1
+title:Key Evolution Systems in Untrusted Update Environments. citation:-1
+title:Key dependent message security: recent results and applications. citation:-1
+title:Group Encryption. citation:-1
+title:Cryptographic Hardness based on the Decoding of Reed-Solomon Codes. citation:-1
+title:A Block Cipher based PRNG Secure Against Side-Channel Key Recovery. citation:-1
+title:A Unified Framework for the Analysis of Side-Channel Key Recovery Attacks (extended version). citation:-1
+title:Do We Need to Vary the Constants? (Methodological Investigation of Block-Cipher Based Hash Functions). citation:-1
+title:Copyrighting Public-key Functions and Applications to Black-box Traitor Tracing. citation:-1
+title:Constructing Variable-Length PRPs and SPRPs from Fixed-Length PRPs. citation:-1
+title:From Protecting a System to Protecting a Global Ecosystem. citation:-1
+title:Trusted Systems - Second International Conference, INTRUST 2010, Beijing, China, December 13-15, 2010, Revised Selected Papers citation:-1
+title:Traceable Signatures. citation:-1
+title:Elastic Block Ciphers. citation:-1
+title:A zero-knowledge based framework for RFID privacy. citation:-1
+title:Robust Verifiable non-Interactive Zero-Sharing - A Plug-in Utility for Enhanced Voters' Privacy. citation:-1
+title:Information Security Applications - 12th International Workshop, WISA 2011, Jeju Island, Korea, August 22-24, 2011. Revised Selected Papers citation:-1
+title:Adaptive Preimage Resistance Analysis Revisited: \\ Requirements, Subtleties and Implications. citation:-1
+title:Cryptographic Protocols: From the Abstract to the Practical to the Actual. citation:-1
+title:Multi-location Leakage Resilient Cryptography. citation:-1
+title:Contextual OTP: Mitigating Emerging Man-in-the-Middle Attacks with Wireless Hardware Tokens. citation:-1
+title:"Metaproofs" (and their Cryptographic Applications). citation:-1
+title:Group Signatures with Almost-for-free Revocation. citation:-1
+title:Sequential Aggregate Signatures with Short Public Keys: Design, Analysis and Implementation Studies. citation:-1
+title:On the (Im)Plausibility of Constant-Round Public-Coin Straight-Line-Simulatable Zero-Knowledge Proofs. citation:-1
+title:Group Signatures with Almost-for-Free Revocation. citation:-1
+title:Trusted Systems - Third International Conference, INTRUST 2011, Beijing, China, November 27-29, 2011, Revised Selected Papers citation:-1
+title:Multifactor Authenticated Key Renewal. citation:-1
+title:Computer Security - ESORICS 2012 - 17th European Symposium on Research in Computer Security, Pisa, Italy, September 10-12, 2012. Proceedings citation:-1
+title:The Efficient Dual Receiver Cryptosystem and Its Applications. citation:-1
+title:Resource-based Corruptions and the Combinatorics of Hidden Diversity. citation:-1
+title:Aggregating CL-Signatures Revisited: Extended Functionality and Better Efficiency. citation:-1
+title:Information Security and Cryptology - 7th International Conference, Inscrypt 2011, Beijing, China, November 30 - December 3, 2011. Revised Selected Papers citation:-1
+title:Adaptively Secure Forward-Secure Non-interactive Threshold Cryptosystems. citation:-1
+title:Configuration and performance issues in the MetaNet design. citation:-1
+title:Sequential Aggregate Signatures with Short Public Keys: Design, Analysis and Implementation Studies. citation:-1
+title:Resource-based corruptions and the combinatorics of hidden diversity. citation:-1
+title:Key-insulated symmetric key cryptography and mitigating attacks against cryptographic cloud software. citation:-1

@@ -1,0 +1,432 @@
+title:On the Complexity and Axiomatizability of Consistent Database States. citation:-1
+title:What is View-Based Query Rewriting? citation:-1
+title:Automata theory: its relevance to computer science students and course contents. citation:-1
+title:In memory of Seymour Ginsburg 1928 - 2004. citation:-1
+title:Bisimulation Minimization in an Automata-Theoretic Verification Framework. citation:-1
+title:Query Answering Using Views for Data Integration over the Web. citation:-1
+title:Module Checking. citation:-1
+title:A Model-Theoretic Analysis of Knowledge. citation:-1
+title:Knowledge-Based Programs. citation:-1
+title:Relating linear and branching model checking. citation:-1
+title:What Can Machines Know? On the Properties of Knowledge in Distributed Systems. citation:-1
+title:Computing with Infinitary Logic. citation:-1
+title:A simple proof that connectivity of finite graphs is not first-order definable. citation:-1
+title:The Taming of Converse: Reasoning about Two-way Computations. citation:-1
+title:05241 Abstracts Collection - Synthesis and Planning. citation:-1
+title:Revisiting the publication culture in computing research. citation:-1
+title:05241 Executive Summary - Synthesis and Planning. citation:-1
+title:Deterministic Dynamic Monitors for Linear-Time Assertions. citation:-1
+title:Updating Logical Databases. citation:-1
+title:Deeper Bound in BMC by Combining Constant Propagation and Abstraction. citation:-1
+title:Branching vs. Linear Time: Final Showdown. citation:-1
+title:Infinitary Logics and 0-1 Laws citation:-1
+title:Yet Another Process Logic (Preliminary Version). citation:-1
+title:View-Based Query Answering and Query Containment over Semistructured Data. citation:-1
+title:View-Based Query Processing and Constraint Satisfaction. citation:-1
+title:Enhanced Vacuity Detection in Linear Temporal Logic. citation:-1
+title:Multi-objective Model Checking of Markov Decision Processes. citation:-1
+title:Database Logic Programming. citation:-1
+title:A New Heuristic for Bad Cycle Detection Using BDDs. citation:-1
+title:In Memoriam Paris C. Kanellakis. citation:-1
+title:Trace Semantics is Fully Abstract. citation:-1
+title:Verification of Open Systems. citation:-1
+title:Let us---together---make CACM exciting. citation:-1
+title:Modular Model Checking. citation:-1
+title:Property-Driven Partitioning for Abstraction Refinement. citation:-1
+title:Automata-Theoretic Model Checking Revisited. citation:-1
+title:Formal Verification of Backward Compatibility of Microcode. citation:-1
+title:Efficient LTL compilation for SAT-based model checking. citation:-1
+title:Weak alternating automata are not that weak. citation:-1
+title:View-based query processing: On the relationship between rewriting, answering and losslessness. citation:-1
+title:From linear time to branching time. citation:-1
+title:More debate, please! citation:-1
+title:Bisimulation Minimization and Symbolic Model Checking. citation:-1
+title:Fair Equivalence Relations. citation:-1
+title:An automata-theortetic approach to modular model checking. citation:-1
+title:A Model-Theoretic Analysis of Knowledge: Preliminary Report citation:-1
+title:The Complexity of the Graded µ-Calculus. citation:-1
+title:Regular Vacuity. citation:-1
+title:The Büchi Complementation Saga. citation:-1
+title:On Monadic NP vs. Monadic co-NP citation:-1
+title:Symbolic Decision Procedures for QBF. citation:-1
+title:Verification of Concurrent Programs: The Automata-Theoretic Framework. citation:-1
+title:First-Order Logic with Two Variables and Unary Temporal Logic. citation:-1
+title:Coverage Metrics for Formal Verification. citation:-1
+title:Falsification of LTL Safety Properties in Hybrid Systems. citation:-1
+title:Büchi Complementation and Size-Change Termination. citation:-1
+title:Vacuity Detection in Temporal Model Checking. citation:-1
+title:Tools for Datalog Boundedness. citation:-1
+title:A Framework for Inherent Vacuity. citation:-1
+title:View-Based Query Processing: On the Relationship Between Rewriting, Answering and Losslessness. citation:-1
+title:Decidable Containment of Recursive Queries. citation:-1
+title:An Internal Semantics for Modal Logic: Preliminary Report citation:-1
+title:Bisimulation and Model Checking. citation:-1
+title:"Where do you come from? and where are you going?". citation:-1
+title:Weak Alternating Automata Are Not That Weak. citation:-1
+title:On the Equivalence of Logical Databases. citation:-1
+title:A New Approach to Database Logic. citation:-1
+title:On the Expressive Power of the Logical Data Model (Preliminary Report). citation:-1
+title:The Revenge of the JD. citation:-1
+title:Logical Query Optimization by Proff-Tree Transformation. citation:-1
+title:Safraless Decision Procedures. citation:-1
+title:Benefits of Bounded Model Checking at an Industrial Setting. citation:-1
+title:A Measured Collapse of the Modal µ-Calculus Alternation Hierarchy. citation:-1
+title:On the Complexity of Queries in the Logical Data Model (Extended Abstract). citation:-1
+title:Polynomial-Time Implication Problems for Unary Inclusion Dependencies citation:-1
+title:Verifying omega-Regular Properties of Markov Chains. citation:-1
+title:On the Expressive Power of Datalog: Tools and a Case Study. citation:-1
+title:A Note on Decompositions of Relational Databases. citation:-1
+title:The Complexity of Enriched Mu-Calculi citation:-1
+title:Model Checking: A Complexity-Theoretic Perspective (invited talk). citation:-1
+title:Automata-Theoretic Model Checking Revisited. citation:-1
+title:From Bidirectionality to Alternation. citation:-1
+title:The Complexity of Set Constraints. citation:-1
+title:A Practical Approach to Coverage in Model Checking. citation:-1
+title:SAT-based Induction for Temporal Safety Properties. citation:-1
+title:Random 3-SAT: The Plot Thickens. citation:-1
+title:The Planning Spectrum - One, Two, Three, Infinity. citation:-1
+title:Notions of dependency satisfaction. citation:-1
+title:Model Checking as A Reachability Problem. citation:-1
+title:Search vs. Symbolic Techniques in Satisfiability Solving. citation:-1
+title:Model Checking of Safety Properties. citation:-1
+title:Search vs. Symbolic Techniques in Satisfiability Solving. citation:-1
+title:Fixpoint Logics, Relational Machines, and Computational Complexity. citation:-1
+title:Special Selection in Logic in Computer Science. citation:-1
+title:LTL Satisfiability Checking. citation:-1
+title:Church's problem revisited. citation:-1
+title:Alternating Refinement Relations. citation:-1
+title:Panel: logic in the computer science curriculum. citation:-1
+title:Pi cap Sigma equiv AFMC. citation:-1
+title:On the decision problem for two-variable first-order logic. citation:-1
+title:In Memoriam: Paris C. Kanellakis. citation:-1
+title:From Church and Prior to PSL. citation:-1
+title:On the Power of Bounded Concurrency~III: Reasoning About Programs (Preliminary Report) citation:-1
+title:Fair Equivalence Relations. citation:-1
+title:Multiple-Counterexample Guided Iterative Abstraction Refinement: An Industrial Evaluation. citation:-1
+title:Decidable Optimization Problems for Database Logic Programs (Preliminary Report) citation:-1
+title:Computing with Infinitary Logic. citation:-1
+title:Synthesis from Component Libraries. citation:-1
+title:Reasoning about Fair Concurrent Programs citation:-1
+title:Infinitary Logic for Computer Science. citation:-1
+title:Evaluating Semi-Exhaustive Verification Techniques for Bug Hunting. citation:-1
+title:On the unusual effectiveness of logic in computer science. citation:-1
+title:Is There a Best Symbolic Cycle-Detection Algorithm? citation:-1
+title:Random 3-SAT: The Plot Thickens. citation:-1
+title:The Implication Problem for Data Dependencies. citation:-1
+title:Linear-Time Model Checking: Automata Theory in Practice. citation:-1
+title:Coverage metrics for temporal logic model checking. citation:-1
+title:On Complementing Nondeterministic Büchi Automata. citation:-1
+title:A Temporal Language for SystemC. citation:-1
+title:Undecidable Optimization Problems for Database Logic Programs. citation:-1
+title:What is Query Rewriting? citation:-1
+title:On the Complexity of Parity Word Automata. citation:-1
+title:On the Expressive Power of Data Dependencies. citation:-1
+title:On the Properties of Join Dependencies. citation:-1
+title:Reasoning about Infinite Computation Paths (Extended Abstract) citation:-1
+title:Complete Axiomatizations for Reasoning about Knowledge and Time. citation:-1
+title:The Complexity of Enriched -Calculi. citation:-1
+title:Büchi Complementation Made Tighter. citation:-1
+title:Discrete Search Leading Continuous Exploration for Kinodynamic Motion Planning. citation:-1
+title:Alternation. citation:-1
+title:Rewriting of Regular Expressions and Regular Path Queries. citation:-1
+title:View-Based Query Processing for Regular Path Queries with Inverse. citation:-1
+title:View-based query containment. citation:-1
+title:Büchi Complementation Made Tighter. citation:-1
+title:Lossless Regular Views. citation:-1
+title:Undecidable Optimization Problems for Database Logic Programs citation:-1
+title:Logic Programs as Types for Logic Programs citation:-1
+title:"Yes, it can be done". citation:-1
+title:On the Equivalence of Recursive and Nonrecursive Datalog Programs. citation:-1
+title:Optimization of Conjunctive Queries. citation:-1
+title:On the Complexity of Equivalence between Recursive and Nonrecursive Datalog Programs. citation:-1
+title:From Complementation to Certification. citation:-1
+title:Complementation Constructions for Nondeterministic Automata on Infinite Words. citation:-1
+title:Automata Theoretic Techniques for Modal Logics of Programs (Extended Abstract) citation:-1
+title:A Note on Lossless Database Decompositions. citation:-1
+title:Improved Upper and Lower Bounds for Modal Logics of Programs: Preliminary Report citation:-1
+title:The Implication and Finite Implication Problems for Typed Template Dependencies. citation:-1
+title:Open Implication. citation:-1
+title:An Automata-Theoretic Approach to Branching-Time Model Checking (Extended Abstract). citation:-1
+title:Querying Logical Databases. citation:-1
+title:Formal Systems for Tuple and Equality Generating Dependencies. citation:-1
+title:Homomorphism Closed vs. Existential Positive. citation:-1
+title:First-Order Logic with Two Variables and Unary Temporal Logic. citation:-1
+title:Reasoning on regular path queries. citation:-1
+title:0-1 Laws and Decision Problems for Fragments of Second-Order Logic citation:-1
+title:Branching vs. Linear Time: Semantical Perspective. citation:-1
+title:A Proof Procedure for Data Dependencies. citation:-1
+title:The Complexity of Relational Query Languages (Extended Abstract) citation:-1
+title:The Decision Problem for Database Dependencies. citation:-1
+title:How are we doing? citation:-1
+title:The Complexity of Enriched Mu-Calculi. citation:-1
+title:Model Checking vs. Theorem Proving: A Manifesto. citation:-1
+title:educational response to offshore outsourcing. citation:-1
+title:Multi-Objective Model Checking of Markov Decision Processes. citation:-1
+title:Hybrid Systems: From Verification to Falsification. citation:-1
+title:A Call to Regularity. citation:-1
+title:Automata Theory for Database Theoreticans. citation:-1
+title:In Memoriam: Paris C. Kanellakis (1953-1995). citation:-1
+title:The Weakness of Self-Complementation. citation:-1
+title:Proving that programs eventually do something good. citation:-1
+title:From Liveness to Promptness. citation:-1
+title:A Note on the Reduction of Two-Way Automata to One-Way Automata. citation:-1
+title:Endmarkers can Make a Difference. citation:-1
+title:Relating word and tree automata. citation:-1
+title:The financial meltdown and computing. citation:-1
+title:From Philosophical to Industrial Logics. citation:-1
+title:In Memoriam: Paris C. Kanellakis. citation:-1
+title:Towards an Efficient Library for SAT: a Manifesto. citation:-1
+title:µ-Calculus Synthesis. citation:-1
+title:An Automata-Theoretic Approach to Regular XPath. citation:-1
+title:On Acyclic Database Decompositions citation:-1
+title:Symbolic Techniques in Satisfiability Solving. citation:-1
+title:Answering Regular Path Queries Using Views. citation:-1
+title:Common Knowledge Revisited. citation:-1
+title:A Nonstandard Approach to the Logical Omniscience Problem. citation:-1
+title:Knowledge and Implicit Knowledge in a Distributed Environment: Preliminary Report. citation:-1
+title:Alternating Automata and Program Verification. citation:-1
+title:Micro-Macro Stack Systems: A New Frontier of Elementary Decidability for Sequential Systems. citation:-1
+title:Global Decision Problems for Relational Databases citation:-1
+title:The Expressive Power of the Kierarchical Approach to Modeling Knowledge and Common Knowledge. citation:-1
+title:On Decomposition of Relational Databases citation:-1
+title:07441 Summary -- Algorithmic-Logical Theory of Infinite Structures. citation:-1
+title:07441 Abstracts Collection -- Algorithmic-Logical Theory of Infinite Structures. citation:-1
+title:Query Containment Using Views. citation:-1
+title:On omega-Automata and Temporal Logic (Preliminary Report) citation:-1
+title:Rewriting of Regular Path Queries. citation:-1
+title:The Planning Spectrum - One, Two, Three, Infinity. citation:-1
+title:From complementation to certification. citation:-1
+title:Common knowledge revisited citation:-1
+title:Vacuity detection in temporal model checking. citation:-1
+title:On the Complexity of Verifying Concurrent Transition Systems. citation:-1
+title:On the Complexity of Verifying Concurrent Transition Systems. citation:-1
+title:On the Complexity of Queries in the Logical Data Model. citation:-1
+title:The Decision Problem for the Probabilities of Higher-Order Properties citation:-1
+title:Impact of workspace decompositions on discrete search leading continuous exploration (DSLX) motion planning. citation:-1
+title:A Space-Efficient On-the-fly Algorithm for Real-Time Model Checking. citation:-1
+title:Conferences vs. journals in computing research. citation:-1
+title:Global Model-Checking of Infinite-State Systems. citation:-1
+title:Weak Alternating Automata and Tree Automata Emptiness. citation:-1
+title:Fixed-Parameter Hierarchies inside PSPACE. citation:-1
+title:0-1 Laws for Fragments of Existential Second-Order Logic: A Survey. citation:-1
+title:Automated Verification = Graphs, Automata, and Logic. citation:-1
+title:Open Systems in Reactive Environments: Control and Synthesis. citation:-1
+title:Extended Temporal Logic Revisited. citation:-1
+title:On the Complexity of Branching Modular Model Checking (Extended Abstract). citation:-1
+title:Knowledge-Based Programs. citation:-1
+title:Robust Satisfaction. citation:-1
+title:Global Optimization Problems for Database Logic Programs. citation:-1
+title:Verification by Augmented Abstraction: The Automata-Theoretic View. citation:-1
+title:Reasoning about Actions and Planning in LTL Action Theories. citation:-1
+title:Hybrid systems: from verification to falsification by combining motion planning and discrete search. citation:-1
+title:Logic and Automata: A Match Made in Heaven. citation:-1
+title:Containment of Conjunctive Regular Path Queries with Inverse. citation:-1
+title:From liveness to promptness. citation:-1
+title:Eliminating Incoherence from Subjective Estimates of Chance. citation:-1
+title:Treewidth in Verification: Local vs. Global. citation:-1
+title:Random 3-SAT and BDDs: The Plot Thickens Further. citation:-1
+title:GSTE Is Partitioned Model Checking. citation:-1
+title:A responce to "A complete axiomatisation for full join dependencies in relations". citation:-1
+title:Symbolic Systems, Explicit Properties: On Hybrid Approaches for LTL Symbolic Model Checking. citation:-1
+title:A Logical Approach to Constraint Satisfaction. citation:-1
+title:From Verification to Synthesis. citation:-1
+title:Alternating Automata: Unifying Truth and Validity Checking for Temporal Logics. citation:-1
+title:A Nonstandard Approach to the Logical Omniscience Problem. citation:-1
+title:GSTE is partitioned model checking. citation:-1
+title:Constraint Propagation as a Proof System. citation:-1
+title:Open, closed, or clopen access? citation:-1
+title:The ForSpec Temporal Logic: A New Temporal Property-Specification Language. citation:-1
+title:A Temporal Fixpoint Calculus. citation:-1
+title:On the Expressive Power of Datalog: Tools and a Case Study. citation:-1
+title:Resets vs. Aborts in Linear Temporal Logic. citation:-1
+title:Database Research: Lead, Follow, or Get Out of the Way? - Panel Abstract. citation:-1
+title:On the Expressive Power of Variable-Confined Logics. citation:-1
+title:Response to a Letter to the Editor. citation:-1
+title:The Universal-Relation Data Model for Logical Independence. citation:-1
+title:Coverage metrics for formal verification. citation:-1
+title:From Monadic Logic to PSL. citation:-1
+title:The Complementation Problem for Büchi Automata with Applications to Temporal Logic (Extended Abstract). citation:-1
+title:On Monadic NP vs. Monadic co-NP (Extended Abstract). citation:-1
+title:0-1 Laws and Decision Problems for Fragments of Second-Order Logic citation:-1
+title:0-1 Laws for Infinitary Logics (Preliminary Report) citation:-1
+title:BDD-based decision procedures for the modal logic K. citation:-1
+title:Fixpoint Logic vs. Infinitary Logic in Finite-Model Theory citation:-1
+title:Automata-Theoretic Approach to Planning for Temporally Extended Goals. citation:-1
+title:An Automata-Theoretic Approach to Fair Realizability and Synthesis. citation:-1
+title:Unary Inclusion Dependencies have Polynomial Time Inference Problems (Extended Abstract) citation:-1
+title:Complete Axiomatizations for Reasoning About Knowledge and Time citation:-1
+title:Algorithmic Knowledge. citation:-1
+title:Fixpoint logics, relational machines, and computational complexity. citation:-1
+title:Constraints, Graphs, Algebra, Logic, and Complexity. citation:-1
+title:Formal Techniques for SystemC Verification; Position Paper. citation:-1
+title:Strong Cyclic Planning Revisited. citation:-1
+title:Freedom, Weakness, and Determinism: From Linear-Time to Branching-Time. citation:-1
+title:Memoryful Branching-Time Logic. citation:-1
+title:Synthesizing Distributed Systems. citation:-1
+title:Coverage Metrics for Temporal Logic Model Checking. citation:-1
+title:Relating Word and Tree Automata. citation:-1
+title:Constraint Satisfaction, Bounded Treewidth, and Finite-Variable Logics. citation:-1
+title:From bidirectionality to alternation. citation:-1
+title:What Can Machines Know? On the Epistemic Properties of Machines. citation:-1
+title:An Operational Semantics for Knowledge Bases. citation:-1
+title:The Hybrid µ-Calculus. citation:-1
+title:Multi-Objective Model Checking of Markov Decision Processes citation:-1
+title:Improved Automata Generation for Linear Temporal Logic. citation:-1
+title:Rewriting of Regular Expressions and Regular Path Queries. citation:-1
+title:Black Box Checking. citation:-1
+title:Undecidable Boundedness Problems for Datalog Programs. citation:-1
+title:A continuous-discontinuous second-order transition in the satisfiability of random Horn-SAT formulas. citation:-1
+title:Verification of Fair Transition Systems. citation:-1
+title:The Complexity of Problems on Graphs Represented as OBDDs. citation:-1
+title:Formal Systems for Join Dependencies. citation:-1
+title:Rank Predicates vs. Progress Measures in Concurrent-Program Verification. citation:-1
+title:The Complexity of Reasoning about Knowledge and Time: Extended Abstract citation:-1
+title:Reasoning about Knowledge and Time in Asynchronous Systems citation:-1
+title:The Logical Data Model. citation:-1
+title:CACM: past, present, and future. citation:-1
+title:Unified Verification Theory. citation:-1
+title:Projection Pushing Revisited. citation:-1
+title:Probabilistic Linear-Time Model Checking: An Overview of the Automata-Theoretic Approach. citation:-1
+title:Common Knowledge Revisited. citation:-1
+title:Is the image crisis over? citation:-1
+title:Intelligate: Scalable Dynamic Invariant Learning for Power Reduction. citation:-1
+title:Prioritized Traversal: Efficient Reachability Analysis for Verification and Falsification. citation:-1
+title:Safety of Datalog Queries over Infinite Databases. citation:-1
+title:Model Checking for Database Theoreticians. citation:-1
+title:Nontraditional Applications of Automata Theory. citation:-1
+title:Pushdown Specifications. citation:-1
+title:On Bounded Specifications. citation:-1
+title:Pushdown Module Checking with Imperfect Information. citation:-1
+title:On Locally Checkable Properties. citation:-1
+title:Parametric real-time reasoning. citation:-1
+title:Second-Order Dependency Theory. citation:-1
+title:Decision Problems for Data Dependencies. citation:-1
+title:What Is an Inference Rule? citation:-1
+title:A Rice University perspective on software engineering licensing. citation:-1
+title:A Motion Planner for a Hybrid Robotic System with Kinodynamic Constraints. citation:-1
+title:Inferring Multivalued Dependencies From Functional and Join Dependencies. citation:-1
+title:Decidable containment of recursive queries. citation:-1
+title:Computational Model Theory: An Overview. citation:-1
+title:Armstrong Databases for Functional and Inclusion Dependencies. citation:-1
+title:Symbolic Techniques in Propositional Satisfiability Solving. citation:-1
+title:Reminiscences on Influential Papers. citation:-1
+title:Proof-Tree Transformation Theorems and Their Applications. citation:-1
+title:Interactive presentation: PowerQuest: trace driven data mining for power optimization. citation:-1
+title:Linear vs. Branching Time: A Complexity-Theoretic Perspective. citation:-1
+title:An Automata-Theoretic Approach to Protocol Verification (Abstract). citation:-1
+title:On the Complexity of Modular Model Checking citation:-1
+title:Sometimes and Not Never Re-revisited: On Branching Versus Linear Time. citation:-1
+title:The Theory of Data Dependencies - An Overview. citation:-1
+title:An Automata-Theoretic Approach to Automatic Program Verification (Preliminary Report) citation:-1
+title:The 2008 CAV Award citation. citation:-1
+title:On the Complexity of Epistemic Reasoning citation:-1
+title:Verification of Concurrent Programs: The Automata-Theoretic Framework citation:-1
+title:Complexity of Problems on Graphs Represented as OBDDs (Extended Abstract). citation:-1
+title:Model Checking and Transitive-Closure Logic. citation:-1
+title:Implementing Knowledge-Based Programs. citation:-1
+title:On Epistemic Logic and Logical Omniscience. citation:-1
+title:An Analysis of Slow Convergence in Interval Propagation. citation:-1
+title:Black Box Checking. citation:-1
+title:The Implication Problem for Functional and Inclusion Dependencies is Undecidable. citation:-1
+title:On the Equivalence of Recursive and Nonrecursive Datalog Programs. citation:-1
+title:A Continuous-Discontinuous Second-Order Transition in the Satisfiability of Random Horn-SAT Formulas. citation:-1
+title:Synthesis from Knowledge-Based Specifications (Extended Abstract). citation:-1
+title:The Complexity of Ordering Subgoals. citation:-1
+title:A Game-Theoretic Approach to Constraint Satisfaction. citation:-1
+title:Decidability and Undecidability Results for Boundedness of Linear Recursive Queries. citation:-1
+title:On the Integrity of Databases with Incomplete Information. citation:-1
+title:Querying Logical Databases. citation:-1
+title:The Implication and Finite Implication Problems for Typed Template Dependencies. citation:-1
+title:Constraint Satisfaction and Database Theory: a Tutorial. citation:-1
+title:Experimental Evaluation of Classical Automata Constructions. citation:-1
+title:On the Complexity of Bounded-Variable Queries. citation:-1
+title:Automata Theory for Database Theoreticans. citation:-1
+title:Database Logic Programming, Deductive Databases, and Expert Database Systems. citation:-1
+title:A Model-Theoretic Analysis of Monotonic Knowledge. citation:-1
+title:Automated Verification: Graphs, Logic, and Automata. citation:-1
+title:Model Checking Linear Properties of Prefix-Recognizable Systems. citation:-1
+title:An Automata-Theoretic Approach to Reasoning about Infinite-State Systems. citation:-1
+title:Safraless Compositional Synthesis. citation:-1
+title:Verification of Fair Transisiton Systems. citation:-1
+title:Module Checking. citation:-1
+title:Optimizing a BDD-Based Modal Solver. citation:-1
+title:Model Checking of Safety Properties. citation:-1
+title:BDD-Based Decision Procedures for K. citation:-1
+title:Model Checking Revisited. citation:-1
+title:Node Selection Query Languages for Trees. citation:-1
+title:From Automated Verification to Automated Design. citation:-1
+title:An Automata-Theoretic Approach to Infinite-State Systems. citation:-1
+title:Computer Aided Verification, 10th International Conference, CAV '98, Vancouver, BC, Canada, June 28 - July 2, 1998, Proceedings citation:-1
+title:Synthesis and Planning, 12.-17. June 2005 citation:-1
+title:Algorithmic-Logical Theory of Infinite Structures, 28.10. - 02.11.2007 citation:-1
+title:Formal Techniques for Networked and Distributed Systems - FORTE 2002, 22nd IFIP WG 6.1 International Conference Houston, Texas, USA, November 11-14, 2002, Proceedings citation:-1
+title:Database Theory - ICDT'95, 5th International Conference, Prague, Czech Republic, January 11-13, 1995, Proceedings citation:-1
+title:Sampling-based motion planning with temporal goals. citation:-1
+title:Logic for Programming, Artificial Intelligence, and Reasoning, 10th International Conference, LPAR 2003, Almaty, Kazakhstan, September 22-26, 2003, Proceedings citation:-1
+title:Efficient Büchi Universality Checking. citation:-1
+title:Proceedings of the 2nd Conference on Theoretical Aspects of Reasoning about Knowledge, Pacific Grove, CA, March 1988 citation:-1
+title:revisited. citation:-1
+title:Hypercriticality. citation:-1
+title:View Synthesis from Schema Mappings citation:-1
+title:Intelligate: An Algorithm for Learning Boolean Functions for Dynamic Power Reduction. citation:-1
+title:Motion Planning With Dynamics by a Synergistic Combination of Layers of Planning. citation:-1
+title:Science has only two legs. citation:-1
+title:2009 CAV award announcement. citation:-1
+title:LTL satisfiability checking. citation:-1
+title:Automata: from logics to algorithms. citation:-1
+title:Constraints, Graphs, Algebra, Logic, and Complexity. citation:-1
+title:Reasoning About Strategies. citation:-1
+title:Simplifying schema mappings. citation:-1
+title:Relentful Strategic Reasoning in Alternating-Time Temporal Logic. citation:-1
+title:Synthesis of Trigger Properties. citation:-1
+title:Monitoring temporal SystemC properties. citation:-1
+title:State of Büchi Complementation. citation:-1
+title:On P, NP, and computational complexity. citation:-1
+title:Where have all the workshops gone? citation:-1
+title:The Only Way Is Up. citation:-1
+title:A Multi-encoding Approach for LTL Symbolic Satisfiability Checking. citation:-1
+title:Temporal Synthesis for Bounded Systems and Environments. citation:-1
+title:Motion planning with hybrid dynamics and temporal goals. citation:-1
+title:Technology has social consequences. citation:-1
+title:Fumbling the future. citation:-1
+title:The Complexity of Integer Bound Propagation. citation:-1
+title:Is Moore's Party over? citation:-1
+title:Computing for humans. citation:-1
+title:Solving the unsolvable. citation:-1
+title:Are you talking to me? citation:-1
+title:The Planning Spectrum - One, Two, Three, Infinity citation:-1
+title:Büchi Complementation and Size-Change Termination citation:-1
+title:Synthesis from Recursive-Components Libraries citation:-1
+title:Symbolic systems, explicit properties: on hybrid approaches for LTL symbolic model checking. citation:-1
+title:Dynamic Reactive Modules. citation:-1
+title:Model Checking Buechi Specifications. citation:-1
+title:Temporal Property Verification as a Program Analysis Task. citation:-1
+title:Unifying Büchi Complementation Constructions. citation:-1
+title:Synthesis from Probabilistic Components. citation:-1
+title:Branching vs. Linear Time: Semantical Perspective. citation:-1
+title:Artificial intelligence: past and future. citation:-1
+title:Reasoning About Strategies: On the Model-Checking Problem citation:-1
+title:Optimized temporal monitors for SystemC. citation:-1
+title:Constraints, Graphs, Algebra, Logic, and Complexity (Invited Talk). citation:-1
+title:The hierarchical approach to modeling knowledge and common knowledge. citation:-1
+title:Aggregating disparate estimates of chance. citation:-1
+title:Fair access. citation:-1
+title:What is an algorithm? citation:-1
+title:A Decidable Fragment of Strategy Logic citation:-1
+title:Modeling, Analysis, and Verification - The Formal Methods Manifesto 2010 (Dagstuhl Perspectives Workshop 10482). citation:-1
+title:Once and for all. citation:-1
+title:2010 CAV award announcement. citation:-1
+title:Synthesizing Probabilistic Composers. citation:-1
+title:Predatory scholarly publishing. citation:-1
+title:Why ACM? citation:-1
+title:Temporal property verification as a program analysis task - Extended Version. citation:-1
+title:2011 CAV award announcement. citation:-1
+title:What Makes Atl* Decidable? A Decidable Fragment of Strategy Logic. citation:-1
+title:Bma: Visual Tool for Modeling and Analyzing Biological Networks. citation:-1
+title:Will MOOCs destroy academia? citation:-1
+title:Compositional Temporal Synthesis. citation:-1
+title:Optimized temporal monitors for SystemC. citation:-1
+title:Pushdown module checking with imperfect information. citation:-1
+title:Who begat computing? citation:-1
+title:To boycott or not to boycott. citation:-1
+title:Unifying Büchi Complementation Constructions citation:-1

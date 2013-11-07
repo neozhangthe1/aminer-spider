@@ -1,0 +1,90 @@
+title1:Gait Analysis for Human Identification. title2:Gait analysis for human identification citation:189 ncitation:166 pid60668
+title1:Robust Face Recognition in the Presence of Clutter. title2:Robust face recognition in the presence of clutter citation:1 ncitation:-1 pid60735
+title1:Towards a View Invariant Gait Recognition Algorithm. title2:Towards a view invariant gait recognition algorithm citation:121 ncitation:101 pid61493
+title1:View Invariants for Human Action Recognition. title2:View invariance for human action recognition citation:210 ncitation:183 pid128733
+title1:Face Verification across Age Progression. title2:Face verification across age progression citation:172 ncitation:140 pid128855
+title1:Modeling Age Progression in Young Faces. title2:Modeling age progression in young faces citation:153 ncitation:134 pid128857
+title1:Activity Recognition Using the Dynamics of the Configuration of Interacting Objects. title2:Activity recognition using the dynamics of the configuration of interacting objects citation:122 ncitation:113 pid129309
+title1:Role of Shape and Kinematics in Human Movement Analysis. title2:Role of shape and kinematics in human movement analysis citation:97 ncitation:87 pid129314
+title1:Illumination-Insensitive Face Recognition Using Symmetric Shape-from-Shading. title2:Illumination-insensitive face recognition using symmetric shape-from-shading citation:165 ncitation:159 pid129686
+title1:Empirical Performance Analysis of Linear Discriminant Classifiers. title2:Empirical performance analysis of linear discriminant classifiers citation:89 ncitation:83 pid129688
+title1:Statistical analysis on Stiefel and Grassmann manifolds with applications in computer vision. title2:Statistical analysis on Stiefel and Grassmann manifolds with applications in computer vision citation:79 ncitation:57 pid130224
+title1:What Is the Range of Surface Reconstructions from a Gradient Field? title2:What is the range of surface reconstructions from a gradient field? citation:150 ncitation:119 pid168154
+title1:Accuracy vs. Efficiency Trade-offs in Optical Flow Algorithms. title2:Accuracy vs efficiency trade-offs in optical flow algorithms citation:161 ncitation:152 pid168883
+title1:Probabilistic Human Recognition from Video. title2:Probabilistic human recognition from video citation:67 ncitation:64 pid169552
+title1:Compressive Sensing for Background Subtraction. title2:Compressive sensing for background subtraction citation:128 ncitation:93 pid169651
+title1:SFS Based View Synthesis for Robust Face Recognition. title2:SFS based view synthesis for robust face recognition citation:135 ncitation:126 pid205767
+title1:Discriminant Analysis of Principal Components for Face Recognition. title2:Discriminant analysis of principal components for face recognition citation:620 ncitation:568 pid205768
+title1:An Algebraic Approach to Surface Reconstruction from Gradient Fields. title2:An algebraic approach to surface reconstruction from gradient fields citation:84 ncitation:73 pid292814
+title1:Structure From Motion Using Sequential Monte Carlo Methods. title2:Structure from motion using sequential Monte Carlo methods citation:89 ncitation:46 pid293525
+title1:Fast Bilinear SfM with Side Information. title2:Fast bilinear SfM with side information citation:1 ncitation:1 pid294243
+title1:Tumor Detection in Digital Mammograms. title2:Tumor detection in digital mammograms citation:2 ncitation:2 pid316275
+title1:Spatio-temporal Moments and Generalized Spectral Analysis of Divergent Images for Motion Estimation. title2:Spatio-temporal moments and generalized spectral analysis of divergent images for motion estimation citation:1 ncitation:1 pid316612
+title1:Non-Gaussian CFAR Techniques for Target Detection in High Resolution SAR Images. title2:Non-Gaussian CFAR techniques for target detection in high resolution SAR images citation:77 ncitation:69 pid318920
+title1:Stability and sensitivity of topographic features for SAR target characterization. title2:Stability and sensitivity of topographic features for SAR target characterization citation:1 ncitation:4 pid319763
+title1:A hidden Markov model based framework for recognition of humans from gait sequences. title2:A hidden markov model based framework for recognition of humans from gait sequences citation:141 ncitation:120 pid321519
+title1:Probabilistic recognition of human faces from video. title2:Probabilistic recognition of human faces from video citation:253 ncitation:224 pid322725
+title1:A System Identification Approach for Video-based Face Recognition. title2:A system identification approach for video-based face recognition citation:109 ncitation:92 pid345881
+title1:Accurate Dense Optical Flow Estimation Using Adaptive Structure Tensors and a Parametric Model. title2:Accurate dense optical flow estimation using adaptive structure tensors and a parametric model citation:67 ncitation:65 pid347697
+title1:Face recognition: A literature survey. title2:Face recognition: A literature survey citation:4749 ncitation:4432 pid833250
+title1:Accuracy vs Efficiency Trade-offs in Optical Flow Algorithms. title2:Accuracy vs efficiency trade-offs in optical flow algorithms citation:161 ncitation:152 pid835105
+title1:Probabilistic recognition of human faces from video. title2:Probabilistic recognition of human faces from video citation:253 ncitation:224 pid835558
+title1:Structure from Motion Using Sequential Monte Carlo Methods. title2:Structure from motion using sequential Monte Carlo methods citation:89 ncitation:46 pid907803
+title1:Symmetric Shape-from-Shading Using Self-ratio Image. title2:Symmetric shape-from-shading using self-ratio image citation:89 ncitation:87 pid907951
+title1:View Invariance for Human Action Recognition. title2:View invariance for human action recognition citation:210 ncitation:183 pid907999
+title1:Automatic feature point extraction and tracking in image sequences for arbitrary camera motion. title2:Automatic feature point extraction and tracking in image sequences for arbitrary camera motion citation:99 ncitation:94 pid908382
+title1:Hierarchical stereo and motion correspondence using feature groupings. title2:Hierarchical stereo and motion correspondence using feature groupings citation:84 ncitation:77 pid908389
+title1:Performance analysis of a simple vehicle detection algorithm. title2:Performance analysis of a simple vehicle detection algorithm citation:91 ncitation:81 pid946794
+title1:Estimating the Kinematics and Structure of a Rigid Object from a Sequence of Monocular Images. title2:Estimating the kinematics and structure of a rigid object from a sequence of monocular images citation:205 ncitation:187 pid1031175
+title1:Multiscale Segmentation of Unstructured Document Pages Using Soft Decision Integration. title2:Multiscale segmentation of unstructured document pages using soft decision integration citation:106 ncitation:102 pid1031536
+title1:A Method for Enforcing Integrability in Shape from Shading Algorithms. title2:A method for enforcing integrability in shape from shading algorithms citation:710 ncitation:586 pid1031605
+title1:Unsupervised Texture Segmentation Using Markov Random Field Models. title2:Unsupervised texture segmentation using Markov random field models citation:386 ncitation:377 pid1032387
+title1:Direct Analytical Methods for Solving Poisson Equations in Computer Vision Problems. title2:Direct analytical methods for solving Poisson equations in computer vision problems citation:140 ncitation:114 pid1032995
+title1:Matching Shape Sequences in Video with Applications in Human Movement Analysis. title2:Matching shape sequences in video with applications in human movement analysis citation:214 ncitation:167 pid1033247
+title1:Extraction of Straight Lines in Aerial Images. title2:Extraction of straight lines in aerial images citation:119 ncitation:115 pid1033255
+title1:3-D Motion Estimation Using a Sequence of Noisy Stereo Images: Models, Estimation, and Uniqueness Results. title2:3-D motion estimation using a sequence of noisy stereo images: Models, estimation, and uniqueness results citation:145 ncitation:133 pid1033431
+title1:Statistical Analysis of Inherent Ambiguities in Recovering 3-D Motion from a Noisy Flow Field. title2:Statistical analysis of inherent ambiguities in recovering 3-D motion from a noisy flow field citation:101 ncitation:99 pid1033433
+title1:Estimation of Illuminant Direction, Albedo, and Shape from Shading. title2:Estimation of illuminant direction, albedo, and shape from shading citation:480 ncitation:446 pid1033538
+title1:From Sample Similarity to Ensemble Similarity: Probabilistic Distance Measures in Reproducing Kernel Hilbert Space. title2:From sample similarity to ensemble similarity: Probabilistic distance measures in reproducing kernel hilbert space citation:111 ncitation:97 pid1033547
+title1:Edge Detection and Linear Feature Extraction Using a 2-D Random Field Model. title2:Edge detection and linear feature extraction using a 2-D random field model citation:103 ncitation:97 pid1033551
+title1:Appearance Characterization of Linear Lambertian Objects, Generalized Photometric Stereo, and Illumination-Invariant Face Recognition. title2:Appearance characterization of linear lambertian objects, generalized photometric stereo, and illumination-invariant face recognition citation:75 ncitation:57 pid1033653
+title1:Evaluation of pattern classifiers for fingerprint and OCR applications. title2:Evaluation of pattern classifiers for fingerprint and OCR applications citation:172 ncitation:161 pid1038603
+title1:A new approach to image feature detection with applications. title2:A new approach to image feature detection with applications citation:136 ncitation:126 pid1040491
+title1:Multisensor image registration by feature consensus. title2:Multisensor image registration by feature consensus citation:66 ncitation:56 pid1041315
+title1:Performance Characterization of Image Stabilization Algorithms. title2:Performance Characterization of Image Stabilization Algorithms citation:1 ncitation:50 pid1052558
+title1:Machine Recognition of Human Activities: A Survey. title2:Machine recognition of human activities: A survey citation:528 ncitation:439 pid1097860
+title1:Separability-based multiscale basis selection and feature extraction for signal and image classification. title2:Separability-based multiscale basis selection and feature extraction for signal and image classification citation:86 ncitation:70 pid1100765
+title1:Identification of humans using gait. title2:Identification of humans using gait citation:406 ncitation:358 pid1101050
+title1:A generic approach to simultaneous tracking and verification in video. title2:A generic approach to simultaneous tracking and verification in video citation:90 ncitation:85 pid1101164
+title1:Multiresolution Gauss-Markov random field models for texture segmentation. title2:Multiresolution Gauss-Markov random field models for texture segmentation citation:230 ncitation:212 pid1101234
+title1:Accurate dense optical flow estimation using adaptive structure tensors and a parametric model. title2:Accurate dense optical flow estimation using adaptive structure tensors and a parametric model citation:67 ncitation:65 pid1101356
+title1:Optimal edge-based shape detection. title2:Optimal edge-based shape detection citation:92 ncitation:83 pid1101467
+title1:Segmentation of polarimetric synthetic aperture radar data. title2:Segmentation of polarimetric synthetic aperture radar data citation:141 ncitation:133 pid1101847
+title1:Visual tracking and recognition using appearance-adaptive models in particle filters. title2:Visual tracking and recognition using appearance-adaptive models in particle filters citation:576 ncitation:505 pid1102274
+title1:Tracking a dynamic set of feature points. title2:Tracking a dynamic set of feature points citation:79 ncitation:73 pid1102322
+title1:A computational vision approach to image registration. title2:A computational vision approach to image registration citation:249 ncitation:229 pid1102365
+title1:Face Verification Across Age Progression. title2:Face verification across age progression citation:172 ncitation:140 pid1102411
+title1:Face Recognition, Video-Based. title2:Face recognition, video-based citation:1 ncitation:-1 pid1300151
+title1:Gait Biometrics, Overview. title2:Gait biometrics, overview citation:1 ncitation:-1 pid1300332
+title1:Factorized variational approximations for acoustic multi source localization. title2:Factorized variational approximations for acoustic multi source localization citation:1 ncitation:1 pid1330052
+title1:Enhancing sparsity using gradients for compressive sensing. title2:Enhancing sparsity using gradients for compressive sensing citation:2 ncitation:2 pid1372852
+title1:Simulation and Analysis of Human Walking Motion. title2:Simulation and analysis of human walking motion citation:1 ncitation:1 pid1488854
+title1:Coarse-to-Fine Event Model for Human Activities. title2:Coarse-to-fine event model for human activities citation:1 ncitation:1 pid1492712
+title1:An architectural level design methodology for smart camera applications. title2:An architectural level design methodology for smart camera applications citation:1 ncitation:2 pid2209763
+title1:Advances in Video-Based Human Activity Analysis: Challenges and Approaches. title2:Advances in video-based human activity analysis: challenges and approaches citation:1 ncitation:0 pid2279217
+title1:Recent advances in age and height estimation from still images and video. title2:Recent advances in age and height estimation from still images and video citation:1 ncitation:1 pid2381233
+title1:Estimation of Object Motion Parameters from Noisy Images. title2:Estimation of object motion parameters from noisy images citation:426 ncitation:376 pid2428088
+title1:Compressed Synthetic Aperture Radar. title2:Compressed synthetic aperture radar citation:122 ncitation:70 pid2837351
+title1:Face Recognition from Still Images and Video. title2:Face recognition from still images and videos citation:2 ncitation:-1 pid2867190
+title1:Semantic Video Content Analysis. title2:Semantic Video Content Analysis citation:1 ncitation:0 pid2899196
+title1:Blurring-invariant Riemannian metrics for comparing signals and images. title2:Blurring-invariant Riemannian metrics for comparing signals and images citation:1 ncitation:-1 pid2899742
+title1:Face Detection. title2:Face detection citation:2 ncitation:0 pid2978234
+title1:Towards a criterion for evaluating the quality of 3D reconstructions. title2:Towards a criterion for evaluating the quality of 3D reconstructions citation:1 ncitation:1 pid3014089
+title1:Combining multiple evidences for gait recognition. title2:Combining multiple evidences for gait recognition citation:73 ncitation:65 pid3077449
+title1:Manifold Precis: An Annealing Technique for Diverse Sampling of Manifolds. citation:2 ncitation:1 pid3080974
+title1:A Unified Approach for Modeling and Recognition of Individual Actions and Group Activities title2:A unified approach for modeling and recognition of individual actions and group activities citation:2 ncitation:1 pid3105654
+title1:Modeling and Detection of Wrinkles in Aging Human Faces Using Marked Point Processes. title2:Modeling and detection of wrinkles in aging human faces using marked point processes citation:1 ncitation:0 pid3110688
+title1:Sparse Embedding: A Framework for Sparsity Promoting Dimensionality Reduction. title2:Sparse embedding: a framework for sparsity promoting dimensionality reduction citation:3 ncitation:0 pid3132427
+title1:Spatiotemporal Alignment of Visual Signals on a Special Manifold. title2:Spatio-Temporal Alignment of Visual Signals on a Special Manifold citation:2 ncitation:None pid3286485
+title1:Average relative radiance transform for subpixel detection. title2:Average relative radiance transform for subpixel detection citation:1 ncitation:None pid3287316
+title1:Performance characterization of image stabilization algorithms. title2:Performance Characterization of Image Stabilization Algorithms citation:1 ncitation:50 pid3402223

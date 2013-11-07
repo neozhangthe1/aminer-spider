@@ -1,0 +1,76 @@
+title:Algorithmic Motion Planning in Robotics. citation:-1
+title:Finding Maximally Consistent Sets of Halfspaces. citation:-1
+title:On Critical Orientations in the Kedem-Sharir Motion Planning Algorithm for a Convex Polygon in the Plane. citation:-1
+title:Arrangements of Surfaces in Higher Dimensions: Envelopes Single Cells and Other Recent Developments. citation:-1
+title:On the union of kapa-round objects. citation:-1
+title:On the Complexity of the Union of Fat Objects in the Plane. citation:-1
+title:Linear Time Algorithms for Visibility and Shortest Path Problems Inside Simple Polygons. citation:-1
+title:Almost Tight Upper Bounds for the Single Cell and Zone Problems in Three Dimensions. citation:-1
+title:The 2-center problem with obstacles. citation:-1
+title:Optical Computational Geometry. citation:-1
+title:Lenses in arrangements of pseudo-circles and their applications. citation:-1
+title:Vertical Decomposition of a Single Cell in a Three-Dimensional Arrangement of Surfaces and Its Applications. citation:-1
+title:On Shortest Paths Amidst Convex Polyhedra. citation:-1
+title:On regular vertices on the union of planar objects. citation:-1
+title:Implementation of a Motion Planning System in Three Dimensions. citation:-1
+title:Ray Shooting and Stone Throwing. citation:-1
+title:Output-Sensitive Hidden Surface Removal citation:-1
+title:Almost Tight Bound for the Union of Fat Tetrahedra in Three Dimensions. citation:-1
+title:Computing a Center-Transversal Line. citation:-1
+title:A Singly-Expenential Stratification Scheme for Real Semi-Algebraic Varieties and Its Applications. citation:-1
+title:On the Bivariate Function Minimization Problem And Its Applications to Motion Planning. citation:-1
+title:Arrangements of Curves and Surfaces in Computational Geometry. citation:-1
+title:Efficient Generation of k-Directional Assembly Sequences. citation:-1
+title:Computing maximally separated sets in the plane and independent sets in the intersection graph of unit disks. citation:-1
+title:Computing a Face in an Arrangement of Line Segments. citation:-1
+title:Online point location in planar arrangements and its applications. citation:-1
+title:The interface between computational and combinatorial geometry. citation:-1
+title:Improved bounds on weak epsilon-nets for convex sets. citation:-1
+title:Probabilistic Temporal Logics for Finite and Bounded Models citation:-1
+title:Retraction: A New Approach to Motion-Planning (Extended Abstract) citation:-1
+title:Applications of a New Space Partitioning Technique. citation:-1
+title:A Survey of Motion Planning and Related Geometric Algorithms. citation:-1
+title:Planar Geometric Location Problems. citation:-1
+title:Optimized-motion planning - theory and implementation by Cherif Ahrikencheikh and Ali Seireg : John Wiley & Sons Inc., Chichester (1994) 366 pp, ISBN 0-471-01903-8. citation:-1
+title:The Caratheodory number for the k-core. citation:-1
+title:On Graphs That Do Not Contain The Cube And Related Problems. citation:-1
+title:On the number of views of translates of a cube and related problems. citation:-1
+title:Algorithmic Motion Planning in Robotics. citation:-1
+title:Approximation Algorithms for Minimum-Width Annuli and Shells. citation:-1
+title:An Invariant Property of Balls in Arrangements of Hyperplanes. citation:-1
+title:Cutting Circles into Pseudo-Segments and Improved Bounds for Incidences% and Complexity of Many Faces. citation:-1
+title:Cell Complexities in Hyperplane Arrangements. citation:-1
+title:Applications of a New Space-Partitioning Technique. citation:-1
+title:The Overlay of Lower Envelopes and Its Applications. citation:-1
+title:Improved Bounds on Weak epsilon-Nets for Convex Sets. citation:-1
+title:Almost Tight Upper Bounds for the Single Cell and Zone Problems in Three Dimensions. citation:-1
+title:Online Point Location in Planar Arrangements and Its Applications. citation:-1
+title:k-Sets in Four Dimensions. citation:-1
+title:The Upper Envelope of Piecewise Linear Functions and the Boundary of a Region Enclosed by Convex Plates: Combinatorial Analysis. citation:-1
+title:On the Union of kappa-Round Objects in Three and Four Dimensions. citation:-1
+title:Circular visibility of a simple polygon from a fixed point. citation:-1
+title:Fast Composition of Sparse Maps. citation:-1
+title:Excess in Arrangements of Segments. citation:-1
+title:Lenses in arrangements of pseudo-circles and their applications. citation:-1
+title:The 2-Center Problem with Obstacles. citation:-1
+title:Penetration Depth of Two Convex Polytopes in 3D. citation:-1
+title:Selecting Heavily Covered Points. citation:-1
+title:On Shortest Paths Amidst Convex Polyhedra. citation:-1
+title:Computing Maximally Separated Sets in the Plane. citation:-1
+title:A Singly Exponential Stratification Scheme for Real Semi-Algebraic Varieties and its Applications. citation:-1
+title:Transformational Derivation of a Garbage Collection Algorithm. citation:-1
+title:An Automatic Technique for Selection of Data Structures in SETL Programs. citation:-1
+title:An improved bound on the number of unit area triangles. citation:-1
+title:Relative (p,epsilon)-Approximations in Geometry citation:-1
+title:An Improved Bound on the Number of Unit Area Triangles citation:-1
+title:An efficient and simple motion planning algorithm for a ladder moving in two-dimensional space amidst polygonal barriers (extended abstract). citation:-1
+title:The 2-center problem in three dimensions. citation:-1
+title:Approximate Halfspace Range Counting. citation:-1
+title:Guarding a Terrain by Two Watchtowers. citation:-1
+title:An Improved Bound on the Number of Unit Area Triangles. citation:-1
+title:The 2-Center Problem in Three Dimensions citation:-1
+title:Combinatorial Complexity Bounds for Arrangements of Curves and Surfaces (reprint). citation:-1
+title:Algorithm Derivation by Transformations (reprint). citation:-1
+title:Davenport-Schinzel sequences and their geometric applications. citation:-1
+title:Incidences between points and non-coplanar circles citation:-1
+title:Distinct distances on two lines citation:-1

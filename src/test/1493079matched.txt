@@ -1,0 +1,106 @@
+title1:Extraction and Tracking of Surfaces in Range Image Sequences. title2:A new technique for the extraction and tracking of surfaces in range image sequences citation:0 ncitation:-1 pid3982
+title1:Subgraph Isomorphism Detection in Polynominal Time on Preprocessed Model Graphs. title2:Subgraph isomorphism detection in polynomial time on preprocessed model graphs citation:108 ncitation:101 pid18035
+title1:Knowledge Based Pictorial Pattern Recognition. title2:Knowledge based pictorial pattern recognition citation:0 ncitation:1 pid54451
+title1:A Set of Novel Features for Writer Identification. title2:A set of novel features for writer identification citation:58 ncitation:47 pid60615
+title1:A Graph Matching Based Approach to Fingerprint Classification Using Directional Variance. title2:A graph matching based approach to fingerprint classification using directional variance citation:38 ncitation:34 pid60805
+title1:Generierung von Entscheidungsbäumen aus CAD-Modellen für Erkennunsaufgaben. citation:3 ncitation:3 pid135535
+title1:Automatische Erkennung und Ausführung von Korrekturanweisungen in Textdokumenten. citation:0 ncitation:1 pid136063
+title1:Model-Based Multisensory Robot Vision. title2:Model-based multisensory robot vision citation:0 ncitation:-1 pid137057
+title1:A New Technique for the Extraction and Tracking of Surfaces in Range Image Sequences. title2:A new technique for the extraction and tracking of surfaces in range image sequences citation:0 ncitation:1 pid137607
+title1:Towards Smarter Cars. citation:0 ncitation:8 pid138341
+title1:Similarity Measures for Structured Representations. title2:Similarity measures for structured representations citation:123 ncitation:117 pid199892
+title1:Graph Edit Distance with Node Splitting and Merging, and Its Application to Diatom Idenfication. title2:Graph edit distance with node splitting and merging, and its application to diatom identification citation:71 ncitation:66 pid222692
+title1:Graph Clustering Using the Weighted Minimum Common Supergraph. title2:Graph clustering using the weighted minimum common supergraph citation:67 ncitation:64 pid222713
+title1:Bipartite Graph Matching for Computing the Edit Distance of Graphs. title2:Bipartite graph matching for computing the edit distance of graphs citation:68 ncitation:55 pid222776
+title1:Graph Embedding in Vector Spaces by Means of Prototype Selection. title2:Graph embedding in vector spaces by means of prototype selection citation:68 ncitation:56 pid222784
+title1:An Efficient Implementation of Graph Grammars Based on the RETE Matching Algorithm. title2:An efficient implementation of graph grammars based on the RETE matching algorithm citation:43 ncitation:35 pid228697
+title1:Automatic Learning and Recognition of Graphical Symbols in Engineering Drawings. title2:Automatic learning and recognition of graphical symbols in engineering drawings citation:89 ncitation:76 pid236553
+title1:Synthesis of Representative Graphical Symbols by Computing Generalized Median Graph. title2:Synthesis of representative graphical symbols by computing generalized median graph citation:41 ncitation:44 pid236632
+title1:Comparison of Two Different Prediction Schemes for the Analysis of Time Series of Graphs. title2:Comparison of two different prediction schemes for the analysis of time series of graphs citation:0 ncitation:0 pid262498
+title1:Comparing Curved-Surface Range Image Segmenters. title2:Comparing curved-surface range image segmenters citation:54 ncitation:54 pid293506
+title1:Recognition of Cursive Roman Handwriting - Past, Present and Future. title2:Recognition of cursive Roman handwriting: past, present and future citation:150 ncitation:129 pid294570
+title1:Optimizing the Number of States, Training Iterations and Gaussians in an HMM-based Handwritten Word Recognizer. title2:Optimizing the number of states, training iterations and Gaussians in an HMM-based handwritten word recognizer citation:41 ncitation:35 pid294848
+title1:Skew Detection of Document Images by Focused Nearest-Neighbor Clustering. title2:Skew detection of document images by focused nearest-neighbor clustering citation:41 ncitation:37 pid294933
+title1:IAM-OnDB - an On-Line English Sentence Database Acquired from Handwritten Text on a Whiteboard. title2:IAM-OnDB-an on-line English sentence database acquired from handwritten text on a whiteboard citation:65 ncitation:57 pid295091
+title1:Text Line Segmentation and Word Recognition in a System for General Writer Independent Handwriting Recognition. title2:Text line segmentation and word recognition in a system for general writer independent handwriting recognition citation:64 ncitation:60 pid295203
+title1:A Full English Sentence Database for Off-line Handwriting Recognition. title2:A full English sentence database for off-line handwriting recognition citation:170 ncitation:152 pid295205
+title1:Writer Identification Using Text Line Based Features. title2:Writer identification using text line based features citation:111 ncitation:100 pid295206
+title1:Classification of Web Documents Using a Graph Model. title2:Classification of web documents using a graph model citation:67 ncitation:59 pid295459
+title1:Identification of Text on Colored Book and Journal Covers. title2:Identification of text on colored book and journal covers citation:91 ncitation:79 pid295507
+title1:Generation of Synthetic Training Data for an HMM-based Handwriting Recognition System. title2:Generation of synthetic training data for an HMM-based handwriting recognition system citation:67 ncitation:58 pid295635
+title1:Efficient Attributed Graph Matching and Its Application to Image Analysis. title2:Efficient attributed graph matching and its application to image analysis citation:40 ncitation:37 pid311670
+title1:Classifying Range Images of Human Faces with Hausdorff Distance. title2:Classifying range images of human faces with Hausdorff distance citation:67 ncitation:61 pid345862
+title1:Recent Developments in Graph Matching. title2:Recent developments in graph matching citation:171 ncitation:150 pid346194
+title1:Handwritten Sentence Recognition. title2:Handwritten sentence recognition citation:66 ncitation:55 pid347912
+title1:A Probabilistic Approach to Learning Costs for Graph Edit Distance. title2:A probabilistic approach to learning costs for graph edit distance citation:39 ncitation:35 pid348085
+title1:Off-line Handwriting Identification Using HMM Based Recognizers. title2:Off-line handwriting identification using HMM based recognizers citation:59 ncitation:51 pid348608
+title1:Automatic Segmentation o the IAM Off-Line Database orHandwrittenEnglishText. title2:Automatic segmentation of the IAM off-line database for handwritten English text citation:71 ncitation:66 pid349678
+title1:Unconstrained On-line Handwriting Recognition with Recurrent Neural Networks. title2:Unconstrained on-line handwriting recognition with recurrent neural networks citation:46 ncitation:32 pid517842
+title1:Error-Tolerant Graph Matching: A Formal Framework and Algorithms. title2:Error-tolerant graph matching: a formal framework and algorithms citation:45 ncitation:40 pid618765
+title1:A Comparison of Algorithms for Maximum Common Subgraph on Randomly Connected Graphs. title2:A comparison of algorithms for maximum common subgraph on randomly connected graphs citation:79 ncitation:68 pid618767
+title1:Non-Euclidean or Non-metric Measures Can Be Informative. title2:Non-Euclidean or non-metric measures can be informative citation:53 ncitation:34 pid618993
+title1:An Error-Tolerant Approximate Matching Algorithm for Attributed Planar Graphs and Its Application to Fingerprint Classification. title2:An error-tolerant approximate matching algorithm for attributed planar graphs and its application to fingerprint classification citation:47 ncitation:39 pid619030
+title1:Fast Suboptimal Algorithms for the Computation of Graph Edit Distance. title2:Fast suboptimal algorithms for the computation of graph edit distance citation:80 ncitation:66 pid619034
+title1:Combining SVM and Graph Matching in a Bayesian Multiple Classifier System for Image Content Recognition. title2:Combining SVM and graph matching in a bayesian multiple classifier system for image content recognition citation:0 ncitation:0 pid619103
+title1:Transforming Strings to Vector Spaces Using Prototype Selection. title2:Transforming strings to vector spaces using prototype selection citation:49 ncitation:44 pid619133
+title1:IAM Graph Database Repository for Graph Based Pattern Recognition and Machine Learning. title2:IAM graph database repository for graph based pattern recognition and machine learning citation:113 ncitation:86 pid619271
+title1:Multiple Classifier Systems for Embedded String Patterns. title2:Multiple classifier systems for embedded string patterns citation:0 ncitation:0 pid678315
+title1:Perturbation Models: A New Approach to Improving Handwriting Recognition. title2:Perturbation Models: A New Approach to Improving Handwriting Recognition. citation:0 ncitation:1 pid715121
+title1:Classes of Cost Functions for String Edit Distance. title2:Classes of cost functions for string edit distance citation:46 ncitation:43 pid750617
+title1:Optimal Implementation of Morphological Operations on Neighborhood-Connected Parallel Computers. title2:Optimal implementation of morphological operations on neighborhood-connected parallel computers citation:0 ncitation:1 pid751722
+title1:Weighted Mean of a Pair of Graphs. title2:Weighted mean of a pair of graphs citation:45 ncitation:42 pid809515
+title1:On the Minimum Common Supergraph of Two Graphs. title2:On the minimum common supergraph of two graphs citation:70 ncitation:66 pid809517
+title1:Edge Detection in Range Images Based on Scan Line Approximation. title2:Edge detection in range images based on scan line approximation citation:202 ncitation:194 pid835055
+title1:Data mining in software metrics databases. title2:Data mining in software metrics databases citation:45 ncitation:43 pid879617
+title1:The IAM-database: an English sentence database for offline handwriting recognition. title2:The IAM-database: an English sentence database for offline handwriting recognition citation:301 ncitation:254 pid908724
+title1:Text extraction from colored book and journal covers. title2:Text extraction from colored book and journal covers citation:44 ncitation:44 pid908748
+title1:Recent Advances in Graph Matching. title2:Recent advances in graph matching citation:82 ncitation:72 pid918705
+title1:Using a Statistical Language Model to Improve the Performance of an HMM-Based Cursive Handwriting Recognition System. title2:Using a statistical language model to improve the performance of an HMM-based cursive handwriting recognition system citation:280 ncitation:247 pid919221
+title1:Classification Of Web Documents Using Graph Matching. title2:Classification of web documents using graph matching citation:54 ncitation:48 pid919306
+title1:Automatic learning of cost functions for graph edit distance. title2:Automatic learning of cost functions for graph edit distance citation:59 ncitation:45 pid942475
+title1:Matching graphs with unique node labels. title2:Matching graphs with unique node labels citation:49 ncitation:41 pid1030275
+title1:A writer identification and verification system using HMM based recognizers. title2:A writer identification and verification system using HMM based recognizers citation:55 ncitation:39 pid1030418
+title1:Off-Line, Handwritten Numeral Recognition by Perturbation Method. title2:Off-line, handwritten numeral recognition by perturbation method citation:147 ncitation:136 pid1031155
+title1:Error Correcting Graph Matching: On the Influence of the Underlying Cost Function. title2:Error correcting graph matching: On the influence of the underlying cost function citation:197 ncitation:182 pid1031199
+title1:An Experimental Comparison of Range Image Segmentation Algorithms. title2:An experimental comparison of range image segmentation algorithms citation:784 ncitation:770 pid1031794
+title1:On Median Graphs: Properties, Algorithms, and Applications. title2:An median graphs: properties, algorithms, and applications citation:197 ncitation:189 pid1031977
+title1:A New Algorithm for Error-Tolerant Subgraph Isomorphism Detection. title2:A new algorithm for error-tolerant subgraph isomorphism detection citation:338 ncitation:324 pid1032383
+title1:Offline Grammar-Based Recognition of Handwritten Sentences. title2:Offline grammar-based recognition of handwritten sentences citation:41 ncitation:34 pid1033580
+title1:Applications of approximate string matching to 2D shape recognition. title2:Applications of approximate string matching to 2D shape recognition citation:130 ncitation:113 pid1038671
+title1:Off-line cursive handwriting recognition using hidden markov models. title2:Off-line cursive handwriting recognition using hidden Markov models citation:152 ncitation:137 pid1038675
+title1:Introduction. title2:INTRODUCTION TO ADIAC AND THIS BOOK citation:0 ncitation:10 pid1038677
+title1:HMM-based handwritten word recognition: on the optimization of the number of states, training iterations and Gaussian components. title2:HMM-based handwritten word recognition: on the optimization of the number of states, training iterations and Gaussian components citation:62 ncitation:54 pid1039446
+title1:Off-line handwritten numeral string recognition by combining segmentation-based and segmentation-free methods. title2:Off-line handwritten numeral string recognition by combining segmentation-based and segmentation-free methods citation:72 ncitation:65 pid1039502
+title1:Simple and fast computation of moments. title2:Simple and fast computation of moments citation:145 ncitation:139 pid1039799
+title1:A decision tree approach to graph and subgraph isomorphism detection. title2:A decision tree approach to graph and subgraph isomorphism detection citation:130 ncitation:119 pid1040591
+title1:Video indexing and similarity retrieval by largest common subgraph detection using decision trees. title2:Video indexing and similarity retrieval by largest common subgraph detection using decision trees citation:92 ncitation:81 pid1041310
+title1:Edit distance-based kernel functions for structural pattern classification. title2:Edit distance-based kernel functions for structural pattern classification citation:63 ncitation:50 pid1042280
+title1:Hidden Markov model-based ensemble methods for offline handwritten text line recognition. title2:Hidden Markov model-based ensemble methods for offline handwritten text line recognition citation:47 ncitation:36 pid1042858
+title1:On a relation between graph edit distance and maximum common subgraph. title2:On a relation between graph edit distance and maximum common subgraph citation:383 ncitation:322 pid1044040
+title1:Mean and maximum common subgraph of two graphs. title2:Mean and maximum common subgraph of two graphs citation:51 ncitation:50 pid1044041
+title1:Combinatorial search versus genetic algorithms: A case study based on the generalized median graph problem. title2:Combinatorial search versus genetic algorithms: A case study based on the generalized median graph problem citation:42 ncitation:39 pid1044042
+title1:A graph distance metric based on the maximal common subgraph. title2:A graph distance metric based on the maximal common subgraph citation:521 ncitation:445 pid1044043
+title1:Self-organizing map for clustering in the graph domain. title2:Self-organizing map for clustering in the graph domain citation:101 ncitation:96 pid1044591
+title1:Validation indices for graph clustering. title2:Validation indices for graph clustering citation:110 ncitation:101 pid1044592
+title1:Feature selection algorithms for the generation of multiple classifier systems and their application to handwritten word recognition. title2:Feature selection algorithms for the generation of multiple classifier systems and their application to handwritten word recognition citation:45 ncitation:41 pid1044593
+title1:Efficient Subgraph Isomorphism Detection: A Decomposition Approach. title2:Efficient subgraph isomorphism detection: a decomposition approach citation:140 ncitation:121 pid1113242
+title1:Self-organizing maps for learning the edit costs in graph matching. title2:Self-organizing maps for learning the edit costs in graph matching citation:39 ncitation:34 pid1131760
+title1:A Novel Connectionist System for Unconstrained Handwriting Recognition. title2:A novel connectionist system for unconstrained handwriting recognition citation:130 ncitation:85 pid1226765
+title1:Graph-Based -Means Clustering: A Comparison of the Set Median versus the Generalized Median Graph. title2:Graph-based k-means clustering: A comparison of the set versus the generalized median graph citation:0 ncitation:11 pid1238614
+title1:Kernel PCA for HMM-Based Cursive Handwriting Recognition. title2:Kernel PCA for HMM-based cursive handwriting recognition citation:0 ncitation:0 pid1238633
+title1:Improving Graph Classification by Isomap. title2:Improving Graph Classification by Isomap citation:0 ncitation:0 pid1244049
+title1:Approximate graph edit distance computation by means of bipartite graph matching. title2:Approximate graph edit distance computation by means of bipartite graph matching citation:148 ncitation:97 pid1276993
+title1:Generalized median graph computation by means of graph embedding in vector spaces. title2:Generalized median graph computation by means of graph embedding in vector spaces citation:0 ncitation:27 pid1551097
+title1:An Iterative Algorithm for Approximate Median Graph Computation. title2:An iterative algorithm for approximate median graph computation citation:0 ncitation:-1 pid1696072
+title1:Fast segmentation of range images into planar regions by scan line grouping. title2:Fast segmentation of range images into planar regions by scan line grouping citation:207 ncitation:195 pid2204264
+title1:A Knowledge Based System for Analysis of Gated Blood Pool Studies. title2:A knowledge based system for analysis of gated blood pool studies citation:82 ncitation:73 pid2285749
+title1:Distance Measures for Image Segmentation Evaluation. title2:Distance measures for image segmentation evaluation citation:74 ncitation:67 pid2379256
+title1:Parametric string edit distance and its application to pattern recognition. title2:Parametric string edit distance and its application to pattern recognition citation:47 ncitation:45 pid2462725
+title1:Structural performance evaluation of curvilinear structure detection algorithms with application to retinal vessel segmentation. title2:Structural performance evaluation of curvilinear structure detection algorithms with application to retinal vessel segmentation citation:0 ncitation:0 pid2782614
+title1:Using HMM based recognizers for writer identification and verification. title2:Using HMM based recognizers for writer identification and verification citation:70 ncitation:65 pid2782665
+title1:Hidden Markov model length optimization for handwriting recognition systems. title2:Hidden Markov model length optimization for handwriting recognition systems citation:56 ncitation:51 pid2812245
+title1:Creation of classifier ensembles for handwritten word recognition using feature selection algorithms. title2:Creation of classifier ensembles for handwritten word recognition using feature selection algorithms citation:49 ncitation:46 pid2820482
+title1:Attributed Programmed Graph Grammars and Their Application to Schematic Diagram Interpretation. title2:Attributed programmed graph grammars and their application to schematic diagram interpretation citation:146 ncitation:131 pid2867426
+title1:Semi-supervised Learning for Cursive Handwriting Recognition Using Keyword Spotting. title2:Semi-supervised learning for cursive handwriting recognition using keyword spotting citation:2 ncitation:None pid2902763
+title1:Long-short term memory neural networks language modeling for handwriting recognition. title2:Long-short term memory neural networks language modeling for handwriting recognition citation:1 ncitation:None pid2903517
+title1:Label-noise reduction with support vector machines. title2:Label-noise reduction with support vector machines citation:0 ncitation:None pid2962652

@@ -1,0 +1,269 @@
+title1:Indexing Techniques for Advanced Database Systems title2:Indexing techniques for advanced database systems citation:121 ncitation:109 pid1985
+title1:A Data Access Structure for Filtering Distance Queries in Image Retrieval. title2:A data access structure for filtering distance queries in image retrieval citation:2 ncitation:2 pid3029
+title1:A Fine-Grained Access Control Model for Web Services. title2:A fine-grained access control model for web services citation:29 ncitation:27 pid10014
+title1:Intrusion Detection in RBAC-administered Databases. title2:Intrusion detection in RBAC-administered databases citation:87 ncitation:78 pid24131
+title1:User Preferences VS Minimality in PPDL. title2:User Preferences VS Minimality in PPDL. citation:4 ncitation:3 pid30488
+title1:Purpose based access control for privacy protection. title2:Purpose based access control for privacy protection in database systems citation:4 ncitation:-1 pid62417
+title1:High Assurance Discretionary Access Control for Object Bases. title2:High assurance discretionary access control for object bases citation:42 ncitation:41 pid83719
+title1:Authorizations in Relational Database Management Systems. title2:Authorizations in relational database management systems citation:58 ncitation:53 pid83802
+title1:A Temporal Authorization Model. title2:A temporal authorization model citation:64 ncitation:59 pid83832
+title1:A temporal key management scheme for secure broadcasting of XML documents. title2:A temporal key management scheme for secure broadcasting of XML documents citation:63 ncitation:59 pid83834
+title1:An Advanced Commit Protocol for MLS Distributed Database Systems. title2:An advanced commit protocol for MLS distributed database systems citation:56 ncitation:14 pid84067
+title1:Secure collaboration in mediator-free environments. title2:Secure collaboration in mediator-free environments citation:53 ncitation:52 pid84129
+title1:D-algebra for composing access control policy decisions. title2:D-algebra for composing access control policy decisions citation:32 ncitation:25 pid84566
+title1:Generalized Relational Algebra: Modeling Spatial Queries in Constraint Databases. title2:Generalized relational algebra: Modeling spatial queries in constraint databases citation:4 ncitation:6 pid84622
+title1:Securing XML data in third-party distribution systems. title2:Securing XML data in third-party distribution systems citation:30 ncitation:28 pid95054
+title1:An Access Control Model for Video Database Systems. title2:An access control model for video database systems citation:33 ncitation:31 pid95094
+title1:Enhanced Nested-Inherited Index for OODBMS. title2:Enhanced nested-inherited index for OODBMS citation:3 ncitation:4 pid95096
+title1:Data Security. title2:Data security citation:68 ncitation:64 pid111766
+title1:Hybrid Role Hierarchy for Generalized Temporal Role Based Access Control Model. title2:Hybrid role hierarchy for generalized temporal role based access control model citation:39 ncitation:36 pid112210
+title1:Introducing External Functions in Constraint Query Languages. title2:Introducing external functions in constraint query languages citation:3 ncitation:3 pid117277
+title1:A Decentralized Approach for Controlled Sharing of Resources in Virtual Communities. title2:A decentralized approach for controlled sharing of resources in virtual communities citation:1 ncitation:1 pid122562
+title1:A Logical Framework for Reasoning on Data Access Control Policies. title2:A logical framework for reasoning on data access control policies citation:75 ncitation:67 pid123874
+title1:Purpose Based Access Control for Privacy Protection in Database Systems. title2:Purpose based access control for privacy protection in database systems citation:4 ncitation:4 pid140471
+title1:Introducing Cooperation and Actions in Amalgamated Knowledge Bases. title2:Introducing cooperation and actions in amalgamated knowledge bases citation:1 ncitation:2 pid140475
+title1:Efficient -Anonymization Using Clustering Techniques. title2:Efficient k-anonymization using clustering techniques citation:155 ncitation:124 pid141152
+title1:Achieving Stricter Correctness Requirements in Multilevel Secure Databases: The Dynamic Case. title2:Achieving stricter correctness requirements in multilevel secure databases: The dynamic case citation:3 ncitation:3 pid145312
+title1:Providing Different Degrees of Recency Options to Transactions in Multilevel Secure Databases. title2:Providing different degrees of recency options to transactions in multilevel secure databases citation:4 ncitation:5 pid145316
+title1:An Execution Model for Multilevel Seccure Workflows. title2:An execution model for multilevel secure workflows citation:32 ncitation:32 pid145322
+title1:Author-X: A Java-Based System for XML Data Protection. citation:88 ncitation:82 pid145372
+title1:A Decentralized Approach for Controlled Sharing of Resources in Virtual Communities. title2:A decentralized approach for controlled sharing of resources in virtual communities citation:1 ncitation:1 pid145383
+title1:Static Analysis of Transactional Intensional Databases. title2:Static Analysis of Transactional Intensional Databases. citation:4 ncitation:9 pid148035
+title1:Establishing and protecting digital identity in federation systems. title2:Establishing and protecting digital identity in federation systems citation:70 ncitation:66 pid156409
+title1:Privacy preserving multi-factor authentication with biometrics. title2:Privacy preserving multi-factor authentication with biometrics citation:61 ncitation:53 pid156421
+title1:Integration of Virtual Reality and Database System Techniques. title2:Integration of virtual reality and database system techniques citation:2 ncitation:1 pid159381
+title1:Extending the ODMG Object Model with Time. title2:Extending the ODMG object model with time citation:51 ncitation:47 pid172949
+title1:Objects with Multiple Most Specific Classes. title2:Objects with multiple most specific classes citation:71 ncitation:75 pid172951
+title1:An Approach to Classify Semi-structured Objects. title2:An approach to classify semi-structured objects citation:29 ncitation:30 pid172955
+title1:Exception Handling in Object-Oriented Databases. title2:Exception Handling in Object-Orienteda Databases citation:2 ncitation:4 pid174216
+title1:A Formal Temporal Object-Oriented Data Model. title2:A formal temporal object-oriented data model citation:65 ncitation:59 pid176169
+title1:Views and Security in Distributed Database Management Systems. title2:Views and security in distributed database management systems citation:27 ncitation:24 pid176171
+title1:Towards a Logical-Object Oriented Programming Language for Databases. title2:Towards a logical-object oriented programming language for databases citation:47 ncitation:49 pid176173
+title1:Optimization of Queries using Nested Indices. title2:Optimization of queries using nested indices citation:30 ncitation:32 pid176254
+title1:A View Mechanism for Object-Oriented Databases. title2:A view mechanism for object-oriented databases citation:288 ncitation:288 pid176292
+title1:DiXeminator: A Profile-Based Selective Dissemination System for XML Documents. citation:2 ncitation:4 pid176948
+title1:Evolving a Set of DTDs According to a Dynamic Set of XML Documents. title2:Evolving a Set of DTDs according to a Dynamic Set of XML Documents citation:30 ncitation:34 pid176950
+title1:Distributed Database Design Using the Entity-Relationship Model. title2:Distributed database design using the entity-relationship model. citation:3 ncitation:3 pid182761
+title1:Towards a Logical Model for Patterns. title2:Towards a logical model for patterns citation:54 ncitation:53 pid183840
+title1:An Authorization Model and Its Formal Semantics. title2:An authorization model and its formal semantics citation:29 ncitation:28 pid189241
+title1:Mark-and-Sweep Garbage Collection in Multilevel Secure Object-Oriented Database Systems. title2:Mark-and-sweep garbage collection in multilevel secure object-oriented database systems citation:2 ncitation:1 pid189293
+title1:Conditional Privacy-Aware Role Based Access Control. title2:Conditional privacy-aware role based access control citation:42 ncitation:37 pid189366
+title1:Privacy-Preserving Database Systems. title2:Privacy-preserving database systems citation:44 ncitation:38 pid213604
+title1:A Flexible Access Control Model for Web Services. title2:A flexible access control model for web services citation:3 ncitation:1 pid216700
+title1:An authorization model for geographical maps. title2:An authorization model for geographical maps citation:35 ncitation:23 pid232798
+title1:A multigranular spatiotemporal data model. title2:A multigranular spatiotemporal data model citation:51 ncitation:45 pid232845
+title1:Method precomputation in object-oriented databases. title2:Method precomputation in object-oriented databases citation:40 ncitation:41 pid237136
+title1:Trust Negotiations with Customizable Anonymity. title2:Trust negotiations with customizable anonymity citation:2 ncitation:2 pid261297
+title1:An Indexing Technique for Object-Oriented Databases. title2:An indexing techniques for object-oriented databases citation:72 ncitation:68 pid299517
+title1:Data Hiding and Security in Object-Oriented Databases. title2:Data hiding and security in object-oriented databases citation:67 ncitation:60 pid299519
+title1:Indexing Constraint Databases by Using a Dual Representation. title2:Indexing constraint databases by using a dual representation citation:3 ncitation:4 pid299521
+title1:Privacy and Ownership Preserving of Outsourced Medical Data. title2:Privacy and ownership preserving of outsourced medical data citation:81 ncitation:73 pid299525
+title1:On the Selection of Optimal Index Configuration in OO Databases. title2:On the selection of optimal index configuration in OO databases citation:36 ncitation:37 pid299729
+title1:Technique for Optimal Adaptation of Time-Dependent Workflows with Security Constraints. title2:Technique for Optimal Adaptation of Time-Dependent Workflows with Security Constraints citation:1 ncitation:2 pid300996
+title1:Continuous Intersection Joins Over Moving Objects. title2:Continuous intersection joins over moving objects citation:33 ncitation:20 pid301920
+title1:Privately Updating Suppression and Generalization based k-Anonymous Databases. title2:Privately updating suppression and generalization based k-anonymous databases citation:1 ncitation:1 pid301958
+title1:A Hybrid Approach to Private Record Linkage. title2:A hybrid approach to private record linkage citation:45 ncitation:36 pid301984
+title1:A Security Punctuation Framework for Enforcing Access Control on Streaming Data. title2:A security punctuation framework for enforcing access control on streaming data citation:29 ncitation:25 pid302070
+title1:Protecting Databases from Query Flood Attacks. title2:Protecting databases from query flood attacks citation:4 ncitation:3 pid302117
+title1:A Trust-based Context-Aware Access Control Model for Web-Services. title2:A trust-based context-aware access control model for web-services citation:72 ncitation:80 pid370568
+title1:Access Control in Dynamic XML-Based Web-Services with X-RBAC. title2:Access Control in Dynamic XML-Based Web-Services with X-RBAC. citation:75 ncitation:67 pid370570
+title1:Access Control and Authorization Constraints for WS-BPEL. title2:Access control and authorization constraints for ws-bpel citation:69 ncitation:64 pid371038
+title1:User Tasks and Access Control overWeb Services. title2:User tasks and access control overweb services citation:27 ncitation:23 pid371164
+title1:A Trigger-Based Approach for Communication Personalization. title2:A trigger-based approach for communication personalization citation:2 ncitation:2 pid372686
+title1:Fuzzy and Presentation Algebras for Web and Multimedia Data. title2:Fuzzy and presentation algebras for web and multimedia data citation:4 ncitation:3 pid372688
+title1:An Integrated Approach to Rating and Filtering Web Content. title2:An integrated approach to rating and filtering web content citation:3 ncitation:3 pid373603
+title1:Hiding Association Rules by Using Confidence and Support. title2:Hiding association rules by using confidence and support citation:200 ncitation:186 pid385578
+title1:A Practical and Flexible Key Management Mechanism For Trusted Collaborative Computing. title2:A practical and flexible key management mechanism for trusted collaborative computing citation:38 ncitation:31 pid403876
+title1:Spatial Knowledge-Based Applications and Technologies: Research Issues. title2:Spatial knowledge-based applications and technologies: Research issues citation:2 ncitation:2 pid474050
+title1:Achieving Anonymity in Mobile Ad Hoc Networks Using Fuzzy Position Information. title2:Achieving anonymity in mobile ad hoc networks using fuzzy position information citation:6 ncitation:4 pid508684
+title1:Generic Methods in Deductive Object Databases. title2:Generic Methods in Deductive Object Databases citation:4 ncitation:6 pid521430
+title1:Extending the ODMG Object Model with Composite Objects. title2:Extending the ODMG object model with composite objects citation:29 ncitation:31 pid521851
+title1:Managing Risks in RBAC Employed Distributed Environments. title2:Managing risks in RBAC employed distributed environments citation:5 ncitation:2 pid524908
+title1:Preserving User Location Privacy in Mobile Data Management Infrastructures. title2:Preserving user location privacy in mobile data management infrastructures citation:171 ncitation:142 pid539689
+title1:Anonymity Preserving Techniques in Trust Negotiations. title2:Anonymity preserving techniques in trust negotiations citation:2 ncitation:2 pid539718
+title1:A System to Specify and Manage Multipolicy Access Control Models. title2:A system to specify and manage multipolicy access control models citation:45 ncitation:45 pid545673
+title1:X-TNL: An XML-based Language for Trust Negotiations. title2:&Xscr;-TNL: an XML-based language for trust negotiations citation:68 ncitation:67 pid545675
+title1:PDL with Preferences. title2:PDL with Preferences citation:27 ncitation:27 pid545677
+title1:EXAM: An Environment for Access Control Policy Analysis and Management. title2:EXAM: an environment for access control policy analysis and management citation:3 ncitation:1 pid545775
+title1:Beyond -Anonymity: A Decision Theoretic Framework for Assessing Privacy Risk. title2:Beyond k-anonymity: A decision theoretic framework for assessing privacy risk citation:3 ncitation:12 pid554667
+title1:A flexible model supporting the specification and enforcement of role-based authorization in workflow management systems. title2:A flexible model supporting the specification and enforcement of role-based authorization in workflow management systems citation:121 ncitation:117 pid557948
+title1:Integration of Heterogeneous Data Repositories by Using Object-Oriented Views. title2:Integration of heterogeneous data repositories by using object-oriented views citation:84 ncitation:84 pid559754
+title1:An Access Control System for a Web Map Management Service. title2:An access control system for a web map management service citation:31 ncitation:24 pid559760
+title1:Architectural issues for a location-aware role-based access control system. title2:Architectural issues for a location-aware role-based access control system citation:1 ncitation:1 pid567027
+title1:On specifying security policies for web documents with an XML-based language. title2:On specifying security policies for web documents with an XML-based language citation:137 ncitation:133 pid570162
+title1:A logical framework for reasoning about access control models. title2:A logical framework for reasoning about access control models citation:251 ncitation:241 pid570164
+title1:Security for grid-based computing systems issues and challenges. title2:Security for grid-based computing systems issues and challenges citation:2 ncitation:2 pid570166
+title1:X-GTRBAC admin: a decentralized administration model for enterprise wide access control. title2:X-gtrbac admin: A decentralized administration model for enterprise-wide access control citation:55 ncitation:49 pid570174
+title1:Purpose based access control of complex data for privacy protection. title2:Purpose based access control of complex data for privacy protection citation:190 ncitation:162 pid570182
+title1:SERAT: SEcure role mApping technique for decentralized secure interoperability. title2:SERAT: SEcure role mApping technique for decentralized secure interoperability citation:50 ncitation:46 pid570194
+title1:Fine-grained role-based delegation in presence of the hybrid role hierarchy. title2:Fine-grained role-based delegation in presence of the hybrid role hierarchy citation:39 ncitation:37 pid570249
+title1:Temporal hierarchies and inheritance semantics for GTRBAC. title2:Temporal hierarchies and inheritance semantics for GTRBAC citation:107 ncitation:107 pid570251
+title1:Dependencies and separation of duty constraints in GTRBAC. title2:Dependencies and separation of duty constraints in GTRBAC citation:78 ncitation:74 pid570253
+title1:XACML policy integration algorithms: not to be confused with XACML policy combination algorithms! title2:XACML policy integration algorithms: not to be confused with XACML policy combination algorithms! citation:51 ncitation:47 pid570273
+title1:An approach to evaluate policy similarity. title2:An approach to evaluate policy similarity citation:44 ncitation:42 pid570288
+title1:An obligation model bridging access control policies and privacy policies. title2:An obligation model bridging access control policies and privacy policies citation:68 ncitation:55 pid570297
+title1:Mining roles with semantic meanings. title2:Mining roles with semantic meanings citation:92 ncitation:81 pid570314
+title1:Secure Anonymization for Incremental Datasets. title2:Secure anonymization for incremental datasets citation:127 ncitation:111 pid579359
+title1:An Approach to Evaluate Data Trustworthiness Based on Data Provenance. title2:An approach to evaluate data trustworthiness based on data provenance citation:46 ncitation:39 pid579399
+title1:ARUBA: A Risk-Utility-Based Algorithm for Data Disclosure. title2:ARUBA: A Risk-Utility-Based Algorithm for Data Disclosure citation:4 ncitation:4 pid579400
+title1:ViRdB: integrating virtual reality and multimedia databases for customized visualization of cultural heritage. title2:ViRdB: integrating virtual reality and multimedia databases for customized visualization of cultural heritage citation:3 ncitation:1 pid593668
+title1:Composite Objects Revisted. title2:Composite objects revisited citation:366 ncitation:358 pid599047
+title1:Privacy preserving schema and data matching. title2:Privacy preserving schema and data matching citation:69 ncitation:61 pid600134
+title1:Supporting Multiple Access Control Policies in Database Systems. title2:Supporting multiple access control policies in database systems citation:127 ncitation:124 pid613524
+title1:Providing flexibility in information flow control for object oriented systems. title2:Providing flexibility in information flow control for object oriented systems citation:83 ncitation:81 pid613563
+title1:Manipulating Spatial Data in Constraint Databases. title2:Manipulating spatial data in constraint databases citation:43 ncitation:44 pid617575
+title1:On the Correctness Criteria of Fine-Grained Access Control in Relational Databases. title2:On the correctness criteria of fine-grained access control in relational databases citation:55 ncitation:43 pid644182
+title1:Reasoning about RDF statements with default rules. title2:Reasoning about RDF statements with default rules citation:3 ncitation:3 pid650038
+title1:Controlled Access and Dissemination of XML Documents. title2:Controlled access and dissemination of XML documents citation:95 ncitation:94 pid661950
+title1:Access control enforcement for conversation-based web services. title2:Access control enforcement for conversation-based web services citation:48 ncitation:46 pid674450
+title1:Index Configurations in Object-Oriented Databases. title2:Index configuration in object-oriented databases citation:49 ncitation:-1 pid684720
+title1:Profiling Database Application to Detect SQL Injection Attacks. title2:Profiling database application to detect sql injection attacks citation:28 ncitation:23 pid693363
+title1:Privacy-preserving management of transactions' receipts for mobile environments. title2:Privacy-preserving management of transactions' receipts for mobile environments citation:3 ncitation:3 pid717096
+title1:Cryptanalysis of the LCSS RFID Authentication Protocol. title2:Cryptanalysis of the LCSS RFID authentication protocol citation:2 ncitation:2 pid720086
+title1:Foreword. title2:Foreword for the special issue of selected papers from the 1st ACM SIGSPATIAL Workshop on Security and Privacy in GIS and LBS citation:2 ncitation:-1 pid743240
+title1:An integrated approach to federated identity and privilege management in open systems. title2:An integrated approach to federated identity and privilege management in open systems citation:48 ncitation:42 pid777488
+title1:A roadmap for comprehensive online privacy policy management. title2:A roadmap for comprehensive online privacy policy management citation:54 ncitation:48 pid777627
+title1:An Evaluation of Precompilation and Interpretation in Distributed Database Management Systems. title2:An evaluation of precompilation and interpretation in distributed database management systems citation:3 ncitation:3 pid789856
+title1:RBAC models - concepts and trends. citation:49 ncitation:46 pid804251
+title1:Object-Oriented Database Management Systems: Concepts and Issues. title2:Object-oriented database management systems: concepts and issues citation:217 ncitation:214 pid805836
+title1:XML-Based Specification for Web Services Document Security. title2:XML-based specification for Web services document security citation:95 ncitation:90 pid805854
+title1:A Framework for Evaluating Privacy Preserving Data Mining Algorithms. title2:A framework for evaluating privacy preserving data mining algorithms* citation:96 ncitation:85 pid839524
+title1:Query Processing Based on Complex Object Types. title2:Query processing based on complex object types citation:3 ncitation:4 pid844384
+title1:An Approach to Authorization Modeling in Object-Oriented Database Systems. title2:An approach to authorization modeling in object-oriented database systems citation:50 ncitation:46 pid845484
+title1:Data Security. title2:Data security citation:68 ncitation:64 pid845568
+title1:Protection and administration of XML data sources. title2:Protection and administration of XML data sources citation:32 ncitation:32 pid845571
+title1:Path-Index: An Approach to the Efficient Execution of Object-Oriented Queries. title2:Path-index: An approach to the efficient execution of object-oriented queries citation:39 ncitation:37 pid845603
+title1:Modeling Spatio-Temporal Constraints for Multimedia Objects. title2:Modeling spatio-temporal constraints for multimedia objects citation:26 ncitation:25 pid845886
+title1:Applications of Object-Oriented Technology to the Integration of Heterogeneous Database Systems. title2:Applications of object-oriented technology to the integration of heterogeneous database systems citation:26 ncitation:27 pid856009
+title1:Guest Editors' Introduction. title2:Guest Editors' Introduction: Data Dissemination on the Web citation:3 ncitation:-1 pid856011
+title1:Workflow Architecture for Interactive Video Management Systems. title2:Workflow architecture for interactive video management systems citation:3 ncitation:2 pid856013
+title1:A Trust-Based Context-Aware Access Control Model for Web-Services. title2:A trust-based context-aware access control model for web-services citation:72 ncitation:80 pid856017
+title1:A multigranular object-oriented framework supporting spatio-temporal granularity conversions. citation:29 ncitation:24 pid884157
+title1:Quality of Service Specification in Video Databases. title2:A Logical Approach to Quality of Service Specification in Video Databases citation:2 ncitation:5 pid893729
+title1:A Critique of the ANSI Standard on Role-Based Access Control. title2:A critique of the ANSI standard on role-based access control citation:68 ncitation:63 pid894816
+title1:Trust Negotiation in Identity Management. title2:Trust negotiation in identity management citation:47 ncitation:39 pid894879
+title1:A system for securing push-based distribution of XML documents. title2:A system for securing push-based distribution of XML documents citation:4 ncitation:3 pid911233
+title1:Integrating XML and Databases. title2:Integrating XML and databases citation:125 ncitation:118 pid928472
+title1:XML and Data Integration. title2:XML and data integration citation:69 ncitation:69 pid928479
+title1:Securing XML Documents with Author-X. title2:Securing XML documents with Author-X citation:238 ncitation:233 pid928482
+title1:Guest Editors' Introduction: Data Dissemination on the Web. title2:Guest Editors' Introduction: Data Dissemination on the Web citation:3 ncitation:3 pid928495
+title1:A matching algorithm for measuring the structural similarity between an XML document and a DTD and its applications. title2:A matching algorithm for measuring the structural similarity between an XML document and a DTD and its applications citation:127 ncitation:125 pid938284
+title1:Database Security: Research and Practice title2:Database security: research and practice citation:56 ncitation:54 pid938291
+title1:Integration of heterogeneous database applications through an object-oriented interface. title2:Integration of heterogeneous database applications through an object-oriented interface citation:74 ncitation:67 pid938327
+title1:A Semantic-Based Execution Model for Multilevel Secure Workflows. title2:A semantic-based execution model for multilevel secure workflows citation:33 ncitation:30 pid970470
+title1:A Logic-Based Approach for Enforcing Access Control. citation:25 ncitation:25 pid970484
+title1:An Extended Authorization Model for Object Databases. title2:An Extended Authorization Model for Object Databases citation:1 ncitation:1 pid970492
+title1:Establishing and protecting digital identity in federation systems. title2:Establishing and protecting digital identity in federation systems citation:70 ncitation:66 pid970671
+title1:Privacy preserving multi-factor authentication with biometrics. title2:Privacy preserving multi-factor authentication with biometrics citation:61 ncitation:53 pid970697
+title1:Towards structure discovering in video data. title2:Towards structure discovering in video data citation:2 ncitation:1 pid980517
+title1:A Knowledge-Based Approach to Visual Information. title2:A knowledge-based approach to visual information citation:2 ncitation:2 pid982136
+title1:A Formal Definition of the Chimera Object-Oriented Data Model. title2:A formal definition of the chimera object-oriented data model citation:28 ncitation:28 pid982183
+title1:Measuring the structural similarity among XML documents and DTDs. title2:Measuring the structural similarity among XML documents and DTDs citation:27 ncitation:26 pid982448
+title1:An Access-Control Framework for WS-BPEL. title2:An access-control framework for WS-BPEL citation:41 ncitation:35 pid1003307
+title1:Access Control in Object-Oriented Database Systems - Some Approaches and Issues. citation:30 ncitation:32 pid1007045
+title1:A Logical Approach to Quality of Service Specification in Video Databases. title2:A Logical Approach to Quality of Service Specification in Video Databases citation:2 ncitation:2 pid1016716
+title1:Micro-views, or on how to protect privacy while enhancing data usability: concepts and challenges. title2:Micro-views, or on how to protect privacy while enhancing data usability: concepts and challenges citation:39 ncitation:36 pid1064751
+title1:State-of-the-art in privacy preserving data mining. title2:State-of-the-art in privacy preserving data mining citation:569 ncitation:530 pid1065796
+title1:T_Chimera: A Temporal Object-Oriented Data Model. title2:T_Chimera: a temporal object-oriented data model citation:39 ncitation:39 pid1077750
+title1:Database Security-Concepts, Approaches, and Challenges. title2:Database security-concepts, approaches, and challenges citation:257 ncitation:230 pid1097956
+title1:An Analysis of Expressiveness and Design Issues for the Generalized Temporal Role-Based Access Control Model. title2:An analysis of expressiveness and design issues for the generalized temporal role-based access control model citation:32 ncitation:29 pid1097988
+title1:Security Analysis of the SASI Protocol. title2:Security analysis of the SASI protocol citation:57 ncitation:49 pid1098036
+title1:Achieving Privacy in Trust Negotiations with an Ontology-Based Approach. title2:Achieving privacy in trust negotiations with an ontology-based approach citation:45 ncitation:42 pid1098051
+title1:A nested transaction model for multilevel secure database management systems. title2:A nested transaction model for multilevel secure database management systems citation:26 ncitation:25 pid1103563
+title1:A logical framework for reasoning about access control models. title2:A logical framework for reasoning about access control models citation:251 ncitation:241 pid1103565
+title1:Secure and selective dissemination of XML documents. title2:Secure and selective dissemination of XML documents citation:322 ncitation:304 pid1103567
+title1:The Specification and Enforcement of Authorization Constraints in Workflow Management Systems. title2:The specification and enforcement of authorization constraints in workflow management systems citation:552 ncitation:533 pid1103569
+title1:Exception-Based Information Flow Control in Object-Oriented Systems. title2:Exception-based information flow control in object-oriented systems citation:44 ncitation:44 pid1103571
+title1:X-GTRBAC: an XML-based policy specification framework and architecture for enterprise-wide access control. title2:X-GTRBAC: an XML-based policy specification framework and architecture for enterprise-wide access control citation:108 ncitation:105 pid1103573
+title1:X-gtrbac admin: A decentralized administration model for enterprise-wide access control. title2:X-gtrbac admin: A decentralized administration model for enterprise-wide access control citation:55 ncitation:49 pid1103575
+title1:PP-trust-X: A system for privacy preserving trust negotiations. title2:PP-trust-X: A system for privacy preserving trust negotiations citation:56 ncitation:51 pid1103671
+title1:A Content-Based Authorization Model for Digital Libraries. title2:A content-based authorization model for digital libraries citation:123 ncitation:114 pid1112328
+title1:An Extended Algebra for Constraint Databases. title2:An extended algebra for constraint databases citation:43 ncitation:48 pid1112382
+title1:On Modeling Cost Functions for Object-Oriented Databases. title2:On modeling cost functions for object-oriented databases citation:42 ncitation:40 pid1112414
+title1:A Temporal Access Control Mechanism for Database Systems. title2:A temporal access control mechanism for database systems citation:134 ncitation:130 pid1112416
+title1:Selective and Authentic Third-Party Distribution of XML Documents. title2:Selective and authentic third-party distribution of XML documents citation:129 ncitation:127 pid1112418
+title1:Index Organizations for Object-Oriented Database Systems. title2:Index organizations for object-oriented database systems citation:89 ncitation:87 pid1112420
+title1:Temporal Synchronization Models for Multimedia Data. title2:Temporal synchronization models for multimedia data citation:87 ncitation:82 pid1112422
+title1:MPGS: An Interactive Tool for the Specification and Generation of Multimedia Presentations. title2:MPGS: An interactive tool for the specification and generation of multimedia presentations citation:32 ncitation:32 pid1112426
+title1:Trust-X: A Peer-to-Peer Framework for Trust Establishment. title2:Trust-&Xscr;;: a peer-to-peer framework for trust establishment citation:270 ncitation:265 pid1112430
+title1:Advanced Transaction Processing in Multilevel Secure File Stores. title2:Advanced transaction processing in multilevel secure file stores citation:31 ncitation:33 pid1112437
+title1:Indexing Techniques for Queries on Nested Objects. title2:Indexing techniques for queries on nested objects citation:321 ncitation:319 pid1112439
+title1:Object-Oriented Query Languages: The Notion and the Issues. title2:Object-oriented query languages: The notion and the issues citation:168 ncitation:159 pid1112443
+title1:An Extended Authorization Model for Relational Databases. title2:An extended authorization model for relational databases citation:117 ncitation:114 pid1112447
+title1:Static Analysis of Logical Languages with Deferred Update Semantics. title2:Static analysis of logical languages with deferred update semantics citation:2 ncitation:3 pid1112549
+title1:A Generalized Temporal Role-Based Access Control Model. title2:A generalized temporal role-based access control model citation:492 ncitation:462 pid1113013
+title1:Transactions and Updates in Deductive Databases. title2:Transactions and updates in deductive databases citation:33 ncitation:33 pid1113262
+title1:An Authorization Model for a Distributed Hypertext System. title2:An authorization model for a distributed hypertext system citation:97 ncitation:92 pid1113529
+title1:Secure Interoperation in a Multidomain Environment Employing RBAC Policies. title2:Secure interoperation in a multidomain environment employing RBAC policies citation:165 ncitation:155 pid1113542
+title1:Association Rule Hiding. title2:Association rule hiding citation:339 ncitation:313 pid1113666
+title1:Watermarking Relational Databases Using Optimization-Based Techniques. title2:Watermarking relational databases using optimization-based techniques citation:57 ncitation:44 pid1114014
+title1:An Access Control Model Supporting Periodicity Constraints and Temporal Reasoning. title2:An access control model supporting periodicity constraints and temporal reasoning citation:247 ncitation:244 pid1118286
+title1:A Model of Authorization for Next-Generation Database Systems. title2:A model of authorization for next-generation database systems citation:395 ncitation:388 pid1118615
+title1:A hierarchical access control model for video database systems. title2:A hierarchical access control model for video database systems citation:40 ncitation:37 pid1120063
+title1:A Flexible Authorization Mechanism for Relational Data Management Systems. title2:A flexible authorization mechanism for relational data management systems citation:139 ncitation:130 pid1120065
+title1:Query Processing in a Multimedia Document System. title2:Query processing in a multimedia document system citation:153 ncitation:140 pid1120067
+title1:Secure Collaboration in a Mediator-Free Distributed Environment. title2:Secure collaboration in a mediator-free distributed environment citation:4 ncitation:4 pid1126407
+title1:Secure knowledge management: confidentiality, trust, and privacy. title2:Secure knowledge management: confidentiality, trust, and privacy citation:81 ncitation:72 pid1132681
+title1:Index Configuration in Object-Oriented Databases title2:Index configuration in object-oriented databases citation:49 ncitation:49 pid1138044
+title1:Detecting anomalous access patterns in relational databases. title2:Detecting anomalous access patterns in relational databases citation:73 ncitation:53 pid1138360
+title1:Specifying and enforcing access control policies for XML document sources. title2:Specifying and enforcing access control policies for XML document sources citation:222 ncitation:215 pid1141836
+title1:Guest Editors' Introduction. title2:Guest Editors' Introduction: Data Dissemination on the Web citation:3 ncitation:-1 pid1141838
+title1:A secure framework for publishing virtual community contracts. title2:A secure framework for publishing virtual community contracts citation:1 ncitation:1 pid1171338
+title1:Structural signatures for tree data structures. title2:Structural signatures for tree data structures citation:47 ncitation:44 pid1186010
+title1:Foreword for the special issue of selected papers from the 1st ACM SIGSPATIAL Workshop on Security and Privacy in GIS and LBS. title2:Foreword for the special issue of selected papers from the 1st ACM SIGSPATIAL Workshop on Security and Privacy in GIS and LBS citation:2 ncitation:2 pid1188478
+title1:An algebra for fine-grained integration of XACML policies. title2:An algebra for fine-grained integration of XACML policies citation:46 ncitation:41 pid1213242
+title1:Access control policy combining: theory meets practice. title2:Access control policy combining: theory meets practice citation:43 ncitation:33 pid1213243
+title1:Supporting RBAC with XACML+OWL. title2:Supporting rbac with xacml+ owl citation:40 ncitation:24 pid1213261
+title1:Adaptive Management of Multigranular Spatio-Temporal Object Attributes. title2:Adaptive management of multigranular spatio-temporal object attributes citation:4 ncitation:5 pid1214427
+title1:Preventing velocity-based linkage attacks in location-aware applications. title2:Preventing velocity-based linkage attacks in location-aware applications citation:36 ncitation:25 pid1244116
+title1:An Access Control Language for a General Provenance Model. title2:An access control language for a general provenance model citation:31 ncitation:20 pid1255136
+title1:A Federated Digital Identity Management Approach for Business Processes. title2:A federated digital identity management approach for business processes citation:2 ncitation:2 pid1258143
+title1:TIAMAT: a Tool for Interactive Analysis of Microdata Anonymization Techniques. title2:TIAMAT: a tool for interactive analysis of microdata anonymization techniques citation:2 ncitation:2 pid1286860
+title1:Privacy Preserving OLAP over Distributed XML Documents. title2:Privacy Preserving OLAP over Distributed XML Documents citation:1 ncitation:1 pid1320470
+title1:Beyond k-Anonymity: A Decision Theoretic Framework for Assessing Privacy Risk. title2:Beyond k-anonymity: A decision theoretic framework for assessing privacy risk citation:3 ncitation:12 pid1345641
+title1:Risk-based access control systems built on fuzzy inferences. title2:Risk-based access control systems built on fuzzy inferences citation:46 ncitation:28 pid1394432
+title1:Private record matching using differential privacy. title2:Private record matching using differential privacy citation:46 ncitation:30 pid1573920
+title1:Computer Security - ESORICS 96, 4th European Symposium on Research in Computer Security, Rome, Italy, September 25-27, 1996, Proceedings title2:Computer Security-ESORICS 96: 4th European Symposium on Research in Computer Security, Rome, Italy, September 25-27, 1996, Proceedings citation:3 ncitation:3 pid1589897
+title1:A privacy-preserving approach to policy-based content dissemination. title2:A privacy-preserving approach to policy-based content dissemination citation:37 ncitation:32 pid1604188
+title1:Credibility-enhanced curated database: Improving the value of curated databases. title2:Credibility-enhanced curated database: Improving the value of curated databases citation:1 ncitation:0 pid1612505
+title1:Privacy-Aware Location-Aided Routing in Mobile Ad Hoc Networks. title2:Privacy-aware location-aided routing in mobile ad hoc networks citation:4 ncitation:4 pid1706586
+title1:Privilege States Based Access Control for Fine-Grained Intrusion Response. title2:Privilege states based access control for fine-grained intrusion response citation:2 ncitation:2 pid1735749
+title1:Trustworthy Information: Concepts and Mechanisms. title2:Trustworthy information: concepts and mechanisms citation:3 ncitation:3 pid2148732
+title1:Biometrics-based identifiers for digital identity management. title2:Biometrics-based identifiers for digital identity management citation:4 ncitation:3 pid2195466
+title1:Efficient and privacy-preserving enforcement of attribute-based access control. title2:Efficient and privacy-preserving enforcement of attribute-based access control citation:3 ncitation:2 pid2195698
+title1:A General Framework for Web Content Filtering. title2:A general framework for web content filtering citation:6 ncitation:4 pid2225352
+title1:Assured Information Sharing Life Cycle. title2:Assured information sharing life cycle citation:2 ncitation:1 pid2280882
+title1:PEAR: a hardware based protocol authentication system. title2:PEAR: a hardware based protocol authentication system citation:3 ncitation:2 pid2377064
+title1:The PROBE Framework for the Personalized Cloaking of Private Locations. title2:The PROBE Framework for the Personalized Cloaking of Private Locations. citation:41 ncitation:29 pid2399577
+title1:Multifactor Identity Verification Using Aggregated Proof of Knowledge. title2:Multifactor identity verification using aggregated proof of knowledge citation:2 ncitation:2 pid2783720
+title1:A Flexible Approach to Multisession Trust Negotiations. title2:A flexible approach to multisession trust negotiations citation:3 ncitation:1 pid2785281
+title1:Approximate and exact hybrid algorithms for private nearest-neighbor queries with database protection. title2:Approximate and exact hybrid algorithms for private nearest-neighbor queries with database protection citation:3 ncitation:1 pid2785364
+title1:Privacy Preserving OLAP over Distributed XML Data: A Theoretically-Sound Secure-Multiparty-Computation Approach. title2:Privacy preserving OLAP over distributed XML data: A theoretically-sound secure-multiparty-computation approach citation:3 ncitation:1 pid2786222
+title1:ACConv - An Access Control Model for Conversational Web Services. title2:ACConv--An Access Control Model for Conversational Web Services citation:3 ncitation:2 pid2789925
+title1:Security for Web Services and Service-Oriented Architectures. title2:Security for Web Services and Service-Oriented Architectures citation:62 ncitation:48 pid2793574
+title1:A Survey of Quantification of Privacy Preserving Data Mining Algorithms. title2:A survey of quantification of privacy preserving data mining algorithms citation:40 ncitation:25 pid2793586
+title1:Protecting information systems from insider threats - concepts and issues. title2:Protecting information systems from insider threats-concepts and issues citation:2 ncitation:3 pid2793592
+title1:Profile-Based Selection of Accountability Policies in Grid Computing Systems. title2:Profile-Based Selection of Accountability Policies in Grid Computing Systems citation:2 ncitation:1 pid2803191
+title1:Efficient privacy preserving reputation protocols inspired by secure sum. title2:Efficient privacy preserving reputation protocols inspired by secure sum citation:3 ncitation:1 pid2811916
+title1:A selective encryption approach to fine-grained access control for P2P file sharing. title2:A selective encryption approach to fine-grained access control for P2P file sharing citation:1 ncitation:0 pid2814678
+title1:Location-based access control systems for mobile users: concepts and research directions. title2:Location-based access control systems for mobile users: concepts and research directions citation:4 ncitation:1 pid2828920
+title1:Research issues in data provenance for streaming environments. title2:Research issues in data provenance for streaming environments citation:4 ncitation:4 pid2869957
+title1:PUF ROKs: a hardware approach to read-once keys. title2:PUF ROKs: A hardware approach to read-once keys citation:4 ncitation:3 pid2900389
+title1:Resilient Authenticated Execution of Critical Applications in Untrusted Environments. title2:Resilient authenticated execution of critical applications in untrusted environments citation:3 ncitation:1 pid2910305
+title1:Integration of virtual reality and database systems for cultural heritage dissemination. title2:Integration of virtual reality and database systems for cultural heritage dissemination citation:2 ncitation:2 pid2915115
+title1:A New Approach to Weighted Multi-Secret Sharing. title2:A New Approach to Weighted Multi-Secret Sharing citation:1 ncitation:0 pid2943938
+title1:A role-involved purpose-based access control model. title2:A role-involved purpose-based access control model citation:3 ncitation:1 pid2986103
+title1:Defending against insider threats and internal data leakage. title2:Defending against insider threats and internal data leakage citation:2 ncitation:0 pid3006476
+title1:Using automated individual white-list to protect web digital identities. title2:Using automated individual white-list to protect web digital identities citation:4 ncitation:1 pid3007861
+title1:Data Protection from Insider Threats title2:Data Protection from Insider Threats citation:2 ncitation:1 pid3027366
+title1:A Comprehensive Model for Provenance. title2:A comprehensive model for provenance citation:1 ncitation:0 pid3060291
+title1:Privacy-Preserving and Content-Protecting Location Based Queries. title2:Privacy-preserving and content-protecting location based queries citation:1 ncitation:-1 pid3063299
+title1:A Game-Theoretic Approach for High-Assurance of Data Trustworthiness in Sensor Networks. title2:A Game-Theoretic Approach for High-Assurance of Data Trustworthiness in Sensor Networks citation:5 ncitation:2 pid3068994
+title1:A Comprehensive Model for Provenance. title2:A comprehensive model for provenance citation:1 ncitation:0 pid3080440
+title1:Private searching for single and conjunctive keywords on streaming data. title2:Private searching for single and conjunctive keywords on streaming data citation:4 ncitation:-1 pid3081514
+title1:An Analytic Approach to People Evaluation in Crowdsourcing Systems title2:An Analytic Approach to People Evaluation in Crowdsourcing Systems citation:1 ncitation:0 pid3125994
+title1:Preserving privacy of feedback providers in decentralized reputation systems. title2:Preserving privacy of feedback providers in decentralized reputation systems citation:5 ncitation:1 pid3138455
+title1:Research issues in authorization models for hypertext systems. title2:Research issues in authorization models for hypertext systems citation:3 ncitation:3 pid3161241
+title1:Vulnerabilities leading to denial of services attacks in grid computing systems: a survey. title2:Vulnerabilities leading to denial of services attacks in grid computing systems: a survey citation:2 ncitation:None pid3223481
+title1:An assessment of accountability policies for large-scale distributed computing systems. title2:An assessment of accountability policies for large-scale distributed computing systems citation:1 ncitation:None pid3228049
+title1:Collaboration in Multicloud Computing Environments: Framework and Security Issues. title2:Collaboration in multicloud computing environments: Framework and security issues citation:6 ncitation:None pid3238537
