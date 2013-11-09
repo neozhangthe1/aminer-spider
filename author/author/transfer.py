@@ -12,7 +12,7 @@ class matching:
 
 	def __init__(self):
 		self.conn_mon = pymongo.Connection(host='10.1.1.111',port=12345)
-		self.conn_my = MySQLdb.connect(host='10.1.1.110',user='root',passwd='keg2012',db='arnet_db')
+		self.conn_my = MySQLdb.connect(host='166.111.134.53',user='root',passwd='eserver4009',db='arnet_db')
 		self.db_mon = self.conn_mon['arnet_db']
 		self.table_mon='pubication_test'
 
@@ -39,21 +39,13 @@ class matching:
 			title = cursor_my.fetchall()
 			if len(title) >=1:
 			  title = title[0]
+			  title = {'title':title[0],'ncitation':title[1],'pid':perid}
 			  paperList.append(title)
 			else:
 				continue
 			#print title
-			
-		
-		items=[]
-		count = 0
-		
-		for paper in paperList:
-			item={'title':paper[0],'pid':pid[count],'ncitation':paper[1]}
-			count += 1
-			items.append(item)
 
-		return [items,aid]
+		return [paperList,aid]
 
 
 
@@ -78,6 +70,7 @@ class matching:
 	
 
 	def matchPub(self, golist, mylist,aid):
+		cursor_my = self.conn_my.cursor()
 		print 'matching'
 		'''
 		automatically updates the database
@@ -91,8 +84,9 @@ class matching:
 		print_not_matched = False
 		pubs_matched = []
 		pubs_not_matched = []
-		fw1 = open('C:\\Python27\\tutorial\\tutorial\\test\\%dmatched.txt'%aid,'w')
-		fw2 = open('C:\\Python27\\tutorial\\tutorial\\test\\%dfailed.txt'%aid,'w')
+		#fw1 = open('C:\\Python27\\tutorial\\tutorial\\test\\%dmatched.txt'%aid,'w')
+		#fw2 = open('C:\\Python27\\tutorial\\tutorial\\test\\%dfailed.txt'%aid,'w')
+		fw3 = open('C:\\Python27\\author\\author\\error_report\\%dmulmatched.txt'%aid,'w')
 
 
 
@@ -101,7 +95,9 @@ class matching:
 			mytitle = mydic['title']
 			mytitleCleaned = self.cleanGoogleTitle(mytitle)
 			short_key = mytitleCleaned[1]		
-			matchedlist = []			
+			matchedlist = []
+			pid = mydic['pid']
+			pid = pid[0]	
 			for godic in godics:				
 				gotitle = godic['title']
 				_gotitle = ''
@@ -117,12 +113,14 @@ class matching:
 					if key_title.find(short_key) != -1:
 						exactmatched = True
 						matchedlist.append(godic)
+						godics.remove(godic)
 				
 				else:
 					
 					if key_title == short_key:
 						exactmatched = True
 						matchedlist.append(godic)
+						godics.remove(godic)
 
 				if not exactmatched:#if can not be critical matched, try by calculate Levenshtein distance
 					ed = editdist.distance(short_key, key_title)
@@ -132,22 +130,49 @@ class matching:
 						
 						if looseValue > ed:
 							matchedlist.append(godic)
+							godics.remove(godic)
 
 
 			if len(matchedlist) == 1:
-				pid = mydic['pid']
-				try:#pubs_matched.append({'title':gotitle,'pid_in_mysql':pid[0],'citation':godic['citation'],'essay_others':godic['essay_others']})
-				  fw1.write('title1:%s title2:%s citation:%s ncitation:%s pid%d\n'%(mytitle,matchedlist[0]['title'],matchedlist[0]['citation'],ncitation,pid[0]))
+
+				try:
+				  pubs_matched.append({'title':matchedlist[0]['title'],'pid_in_mysql':pid,'citation':matchedlist[0]['citation'],'essay_others':godic['essay_others']})
+				  #fw1.write('title1:%s title2:%s citation:%s ncitation:%s pid%d\n'%(mytitle,matchedlist[0]['title'],matchedlist[0]['citation'],ncitation,pid[0]))
 				except:
-				  fw1.write('title1:%s citation:%s ncitation:%s pid%d\n'%(mytitle,matchedlist[0]['citation'],ncitation,pid[0]))
+					pass
+				  #fw1.write('title1:%s citation:%s ncitation:%s pid%d\n'%(mytitle,matchedlist[0]['citation'],ncitation,pid[0]))
+			elif len(matchedlist) >=2:
+				same = False
+				num = len(matchedlist)
+				for i in range(0,num):
+					if i == num:
+						same = True
+						break
+					if matchedlist[i] == matchedlist[i+1]:
+						continue
+					else:
+						break
+				if same:
+				  try:
+				    pubs_matched.append({'title':matchedlist[0]['title'],'pid_in_mysql':pid,'citation':matchedlist[0]['citation'],'essay_others':godic['essay_others']})  
+				  except:
+				  	pass
+
+				else:
+					for paper in matchedlist:
+						godics.append(paper)
+						fw3.write('title1:%s citation:%s ncitation:%s pid%d\n'%(mytitle,matchedlist[0]['citation'],ncitation,pid))
+
 
 			else:
-				fw2.write('title:%s citation:-1\n'%mytitle)
-		fw1.close()
-		fw2.close()
-
+				#fw2.write('title:%s citation:-1\n'%mytitle)
+				#pubs_not_matched.append({'title':matchedlist[0]['title'],'citation':matchedlist[0]['citation'],'essay_others':godic['essay_others']})
+				continue
+		#fw1.close()
+		#fw2.close()
+		fw3.close()
 		print  aid,':',' ',len(pubs_matched),'(',len(mytitles),')'
-		pubs_matched.extend(pubs_not_matched)
+		pubs_matched.extend(godics)
 		return pubs_matched
 
 	def cleanGoogleTitle(self,title):
@@ -185,7 +210,7 @@ class matching:
 		mylist = self.findpublication8name(aid)
 		if golist is not None:
 			pubs_matched = self.matchPub(golist,mylist,aid)
-			#table_mon.update({'_id':aid},{"$set":{'paper':pubs_matched}})
+			table_mon.update({'_id':aid},{"$set":{'paper':pubs_matched}})
 
         
 	
@@ -193,12 +218,16 @@ class matching:
 
 
 if __name__ == "__main__":
-	i = 2
-	while i <= 3000:
-		aid = PriorityPeople[i]
-		a = matching()
-		a.matcher(aid)
-		i +=1
+
+	a = matching()
+	papers = a.matcher(185983)
+
+	#i = 100
+	#while i <= 3000:
+	#	aid = PriorityPeople[i]
+	#	a = matching()
+	#	a.matcher(aid)
+	#	i +=1
 
 
 
