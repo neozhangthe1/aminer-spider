@@ -1,0 +1,12 @@
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:0 ncitation:32 pid173971
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:0 ncitation:32 pid173971
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:0 ncitation:32 pid173971
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:1 ncitation:32 pid173429
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:1 ncitation:32 pid173429
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:1 ncitation:32 pid173429
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:20 ncitation:32 pid173433
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:20 ncitation:32 pid173433
+title1:Quality of UML models. citation:8 ncitation:-1 pid1275632
+title1:Quality of UML models. citation:8 ncitation:-1 pid1275632
+title1:Validation of Metrics for Object-Relational Databases. citation:12 ncitation:12 pid173562
+title1:Validation of Metrics for Object-Relational Databases. citation:12 ncitation:12 pid173562

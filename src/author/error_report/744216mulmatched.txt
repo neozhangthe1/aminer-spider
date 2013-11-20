@@ -1,0 +1,562 @@
+title1:Decision making beyond arrow's "impossibility theorem, " with the analysis of effects of collusion and mutual attraction. citation:8 ncitation:9 pid911200
+title1:Decision making beyond arrow's "impossibility theorem, " with the analysis of effects of collusion and mutual attraction. citation:8 ncitation:9 pid911200
+title1:Towards Intuitive Understanding of the Cauchy Deviate Method for Processing Interval and Fuzzy Uncertainty. citation:1 ncitation:1 pid1312572
+title1:Towards Intuitive Understanding of the Cauchy Deviate Method for Processing Interval and Fuzzy Uncertainty. citation:1 ncitation:1 pid1312572
+title1:Fuzzy Control is Often Better Than Manual Control of the Very Experts Whose Knowledge it Uses: An Explanation. citation:3 ncitation:3 pid367233
+title1:Fuzzy Control is Often Better Than Manual Control of the Very Experts Whose Knowledge it Uses: An Explanation. citation:3 ncitation:3 pid367233
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922007
+title1:Editorial. citation:0 ncitation:-1 pid948687
+title1:Editorial. citation:0 ncitation:-1 pid948687
+title1:Editorial. citation:0 ncitation:-1 pid948687
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922013
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922013
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922013
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922013
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922013
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922013
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922013
+title1:Towards Feasible Approach to Plan Checking under Probabilistic Uncertainty: Interval Methods. citation:8 ncitation:9 pid15260
+title1:Towards Feasible Approach to Plan Checking under Probabilistic Uncertainty: Interval Methods. citation:8 ncitation:9 pid15260
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921984
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921984
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921984
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921984
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921984
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921984
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921984
+title1:Research on advanced soft computing and its applications. citation:1 ncitation:1 pid1069766
+title1:Research on advanced soft computing and its applications. citation:1 ncitation:1 pid1069766
+title1:Research on advanced soft computing and its applications. citation:1 ncitation:1 pid1069766
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922022
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922022
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922022
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922022
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922022
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922022
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922022
+title1:Decision making under interval probabilities. citation:77 ncitation:70 pid904077
+title1:Decision making under interval probabilities. citation:77 ncitation:70 pid904077
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922020
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922020
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922020
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922020
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922020
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922020
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922020
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid922020
+title1:On-line algorithms for computing mean and variance of interval data, and their use in intelligent systems. citation:22 ncitation:20 pid942720
+title1:On-line algorithms for computing mean and variance of interval data, and their use in intelligent systems. citation:22 ncitation:20 pid942720
+title1:Trade-Off between Sample Size and Accuracy: Case of Static Measurements under Interval Uncertainty. citation:8 ncitation:7 pid1202850
+title1:Trade-Off between Sample Size and Accuracy: Case of Static Measurements under Interval Uncertainty. citation:8 ncitation:7 pid1202850
+title1:Trade-Off between Sample Size and Accuracy: Case of Static Measurements under Interval Uncertainty. citation:8 ncitation:7 pid1202850
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921935
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921935
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921935
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921935
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921935
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921935
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921935
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921924
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921924
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921924
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921924
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921924
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921924
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921924
+title1:Checking If There Exists a Monotonic Function That Is Consistent with the Measurements: An Efficient Algorithm. citation:2 ncitation:2 pid1050932
+title1:Checking If There Exists a Monotonic Function That Is Consistent with the Measurements: An Efficient Algorithm. citation:2 ncitation:2 pid1050932
+title1:Computational Complexity of Planning Based on Partial Information about the System's Present and Past States. citation:0 ncitation:0 pid98726
+title1:Computational Complexity of Planning Based on Partial Information about the System's Present and Past States. citation:0 ncitation:0 pid98726
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921974
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921974
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921974
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921974
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921974
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921974
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921961
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921961
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921961
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921961
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921961
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921961
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921961
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921952
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921952
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921952
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921952
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921952
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921952
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921958
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921958
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921958
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921958
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921958
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921958
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921958
+title1:Trade-Off between Sample Size and Accuracy: Case of Dynamic Measurements under Interval Uncertainty. citation:8 ncitation:5 pid1202839
+title1:Trade-Off between Sample Size and Accuracy: Case of Dynamic Measurements under Interval Uncertainty. citation:8 ncitation:5 pid1202839
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921886
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921886
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921886
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921886
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921886
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921886
+title1:Towards more realistic (e.g., non-associative) "and"- and "or"-operations in fuzzy logic. citation:12 ncitation:11 pid1069648
+title1:Towards more realistic (e.g., non-associative) "and"- and "or"-operations in fuzzy logic. citation:12 ncitation:11 pid1069648
+title1:Towards more realistic (e.g., non-associative) "and"- and "or"-operations in fuzzy logic. citation:12 ncitation:11 pid1069648
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274415
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274415
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274415
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274415
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274415
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274415
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921870
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921870
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921870
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921870
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921870
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921870
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921870
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921864
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921864
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921864
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921864
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921864
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921864
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921864
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274424
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274424
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274424
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274424
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274424
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid1274424
+title1:Preface. citation:0 ncitation:-1 pid1050959
+title1:Preface. citation:0 ncitation:-1 pid1050959
+title1:Preface. citation:0 ncitation:-1 pid1050959
+title1:Computing Population Variance and Entropy under Interval Uncertainty: Linear-Time Algorithms. citation:18 ncitation:17 pid1050998
+title1:Computing Population Variance and Entropy under Interval Uncertainty: Linear-Time Algorithms. citation:18 ncitation:17 pid1050998
+title1:Interval-Related Talks at the North American Fuzzy Information Processing Society Annual Conference NAFIPS'07. citation:0 ncitation:-1 pid1050995
+title1:Interval-Related Talks at the North American Fuzzy Information Processing Society Annual Conference NAFIPS'07. citation:0 ncitation:-1 pid1050995
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921902
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921902
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921902
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921902
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921902
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921902
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921897
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921897
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921897
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921897
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921897
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921897
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921891
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921891
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921891
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921891
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921891
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921891
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921891
+title1:Automatic concurrency in SequenceL. citation:1 ncitation:3 pid1056729
+title1:Automatic concurrency in SequenceL. citation:1 ncitation:3 pid1056729
+title1:On the Optimal Choice of Quality Metric in Image Compression. citation:9 ncitation:-1 pid618600
+title1:On the Optimal Choice of Quality Metric in Image Compression. citation:9 ncitation:-1 pid618600
+title1:Outlier Detection under Interval Uncertainty: Algorithmic Solvability and Computational Complexity. citation:21 ncitation:29 pid488093
+title1:Outlier Detection under Interval Uncertainty: Algorithmic Solvability and Computational Complexity. citation:21 ncitation:29 pid488093
+title1:Outlier Detection under Interval Uncertainty: Algorithmic Solvability and Computational Complexity. citation:21 ncitation:29 pid488093
+title1:Outlier Detection under Interval Uncertainty: Algorithmic Solvability and Computational Complexity. citation:21 ncitation:29 pid488093
+title1:Outlier Detection under Interval Uncertainty: Algorithmic Solvability and Computational Complexity. citation:21 ncitation:29 pid1050798
+title1:Outlier Detection under Interval Uncertainty: Algorithmic Solvability and Computational Complexity. citation:21 ncitation:29 pid1050798
+title1:Error Estimation for Indirect Measurements: Interval Computation Problem Is (Slightly) Harder Than a Similar Probabilistic Computational Problem. citation:6 ncitation:6 pid1050785
+title1:Error Estimation for Indirect Measurements: Interval Computation Problem Is (Slightly) Harder Than a Similar Probabilistic Computational Problem. citation:6 ncitation:6 pid1050785
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921846
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921846
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921846
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921846
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921846
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921846
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921846
+title1:Estimating Variance Under Interval and Fuzzy Uncertainty: Case of Hierarchical Estimation. citation:4 ncitation:2 pid385244
+title1:Estimating Variance Under Interval and Fuzzy Uncertainty: Case of Hierarchical Estimation. citation:4 ncitation:2 pid385244
+title1:Robust Methodology for Characterizing System Response to Damage: Approach Based on Partial Order. citation:5 ncitation:6 pid488162
+title1:Robust Methodology for Characterizing System Response to Damage: Approach Based on Partial Order. citation:5 ncitation:6 pid488162
+title1:Quantum versions of k-CSP algorithms: a first step towards quantum algorithms for interval-related constraint satisfaction problems. citation:0 ncitation:0 pid567037
+title1:Quantum versions of k-CSP algorithms: a first step towards quantum algorithms for interval-related constraint satisfaction problems. citation:0 ncitation:0 pid567037
+title1:From Interval Computations to Constraint-Related Set Computations: Towards Faster Estimation of Statistics and ODEs Under Interval, p-Box, and Fuzzy Uncertainty. citation:8 ncitation:6 pid385254
+title1:From Interval Computations to Constraint-Related Set Computations: Towards Faster Estimation of Statistics and ODEs Under Interval, p-Box, and Fuzzy Uncertainty. citation:8 ncitation:6 pid385254
+title1:Dirty Pages of Logarithm Tables, Lifetime of the Universe, and (Subjective) Probabilities on Finite and Infinite Intervals. citation:13 ncitation:14 pid1050864
+title1:Dirty Pages of Logarithm Tables, Lifetime of the Universe, and (Subjective) Probabilities on Finite and Infinite Intervals. citation:13 ncitation:14 pid1050864
+title1:Dirty Pages of Logarithm Tables, Lifetime of the Universe, and (Subjective) Probabilities on Finite and Infinite Intervals. citation:13 ncitation:14 pid1050864
+title1:Editorial. citation:0 ncitation:-1 pid949314
+title1:Editorial. citation:0 ncitation:-1 pid949314
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921519
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921519
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921519
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921519
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921519
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921519
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921519
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921517
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921517
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921517
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921517
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921517
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921517
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921517
+title1:Interval methods in knowledge representation. citation:0 ncitation:2 pid921530
+title1:Interval methods in knowledge representation. citation:0 ncitation:2 pid921530
+title1:Interval methods in knowledge representation. citation:0 ncitation:2 pid921530
+title1:Interval methods in knowledge representation. citation:0 ncitation:2 pid921530
+title1:Interval methods in knowledge representation. citation:0 ncitation:2 pid921530
+title1:Interval methods in knowledge representation. citation:0 ncitation:2 pid921530
+title1:Interval methods in knowledge representation. citation:0 ncitation:2 pid921530
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921528
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921528
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921528
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921528
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921528
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921528
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921534
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921534
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921534
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921534
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921534
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921534
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921532
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921532
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921532
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921532
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921532
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921532
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921526
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921526
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921526
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921526
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921526
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921526
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921524
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921524
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921524
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921524
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921524
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921524
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921550
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921550
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921550
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921550
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921550
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921550
+title1:On the functional form of convex underestimators for twice continuously differentiable functions. citation:11 ncitation:6 pid1188508
+title1:On the functional form of convex underestimators for twice continuously differentiable functions. citation:11 ncitation:6 pid1188508
+title1:Using Patterns and Composite Propositions to Automate the Generation of LTL Specifications. citation:1 ncitation:1 pid58983
+title1:Using Patterns and Composite Propositions to Automate the Generation of LTL Specifications. citation:1 ncitation:1 pid58983
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921544
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921544
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921544
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921544
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921544
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921544
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921546
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921546
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921546
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921546
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921546
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921546
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921540
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921540
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921540
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921540
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921540
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921540
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921542
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921542
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921542
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921542
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921542
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921542
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921536
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921536
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921536
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921536
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921536
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921536
+title1:Generating Linear Temporal Logic Formulas for Pattern-Based Specifications. citation:2 ncitation:2 pid582860
+title1:Generating Linear Temporal Logic Formulas for Pattern-Based Specifications. citation:2 ncitation:2 pid582860
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921538
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921538
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921538
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921538
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921538
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921538
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921564
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921564
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921564
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921564
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921564
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921564
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921566
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921566
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921566
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921566
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921566
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921566
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921560
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921560
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921560
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921560
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921560
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921560
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921625
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921625
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921625
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921625
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921625
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921625
+title1:Maximum Entropy in Support of Semantically Annotated Datasets. citation:0 ncitation:0 pid584230
+title1:Maximum Entropy in Support of Semantically Annotated Datasets. citation:0 ncitation:0 pid584230
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921562
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921562
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921562
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921562
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921562
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921562
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921556
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921556
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921556
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921556
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921556
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921556
+title1:Optimal choice of granularity in commonsense estimation: Why half-orders of magnitude? citation:23 ncitation:21 pid911022
+title1:Optimal choice of granularity in commonsense estimation: Why half-orders of magnitude? citation:23 ncitation:21 pid911022
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921558
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921558
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921558
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921558
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921558
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921558
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921620
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921620
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921620
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921620
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921620
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921620
+title1:On the relation between two approaches to combining evidence: Ordered Abelian Groups and uninorms. citation:2 ncitation:2 pid981885
+title1:On the relation between two approaches to combining evidence: Ordered Abelian Groups and uninorms. citation:2 ncitation:2 pid981885
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921552
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921552
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921552
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921552
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921552
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921552
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921554
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921554
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921554
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921554
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921554
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921554
+title1:Interval Methods in Knowledge Representation . citation:0 ncitation:2 pid921645
+title1:Interval Methods in Knowledge Representation . citation:0 ncitation:2 pid921645
+title1:Interval Methods in Knowledge Representation . citation:0 ncitation:2 pid921645
+title1:Interval Methods in Knowledge Representation . citation:0 ncitation:2 pid921645
+title1:Interval Methods in Knowledge Representation . citation:0 ncitation:2 pid921645
+title1:Interval Methods in Knowledge Representation . citation:0 ncitation:2 pid921645
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921647
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921647
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921647
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921647
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921647
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921647
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921641
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921641
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921641
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921641
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921643
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921643
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921643
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921643
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921643
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921643
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921637
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921637
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921637
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921639
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921639
+title1:Interval Methods in Knowledge Representation (abstracts of recent papers). citation:0 ncitation:1 pid921639
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921568
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921568
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921568
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921568
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921568
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921568
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921649
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921649
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921649
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921649
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921649
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid921649
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921651
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921651
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921651
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921651
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921651
+title1:Interval Methods In Knowledge Representation. citation:0 ncitation:2 pid921651
+title1:From Gauging Accuracy of Quantity Estimates to Gauging Accuracy and Resolution of Measuring Physical Fields. citation:1 ncitation:2 pid2810826
+title1:From Gauging Accuracy of Quantity Estimates to Gauging Accuracy and Resolution of Measuring Physical Fields. citation:1 ncitation:2 pid2810826
+title1:Trade-off between sample size and accuracy: Case of measurements under interval uncertainty. citation:7 ncitation:5 pid2860702
+title1:Trade-off between sample size and accuracy: Case of measurements under interval uncertainty. citation:7 ncitation:5 pid2860702
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861708
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861708
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861708
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861708
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861708
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861708
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861713
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861713
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861713
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861713
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861713
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861713
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861727
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861727
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861727
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861727
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861727
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861727
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861735
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861735
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861735
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861735
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861735
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861735
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861740
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861740
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861740
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861740
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861740
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861740
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861746
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861746
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861746
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861746
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861746
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861746
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861756
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861756
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861756
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861756
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861756
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2861756
+title1:Verified Methods for Computing Pareto Sets: General Algorithmic Analysis. citation:3 ncitation:3 pid2883198
+title1:Verified Methods for Computing Pareto Sets: General Algorithmic Analysis. citation:3 ncitation:3 pid2883198
+title1:Egyptian Fractions Revisited. citation:2 ncitation:3 pid2886841
+title1:Egyptian Fractions Revisited. citation:2 ncitation:3 pid2886841
+title1:Computational Methods for Investment Portfolio: The Use of Fuzzy Measures and Constraint Programming for Risk Management. citation:2 ncitation:2 pid2896804
+title1:Computational Methods for Investment Portfolio: The Use of Fuzzy Measures and Constraint Programming for Risk Management. citation:2 ncitation:2 pid2896804
+title1:Toward Formalizing Non-Monotonic Reasoning in Physics: the Use of Kolmogorov Complexity. citation:7 ncitation:6 pid2963305
+title1:Toward Formalizing Non-Monotonic Reasoning in Physics: the Use of Kolmogorov Complexity. citation:7 ncitation:6 pid2963305
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2972082
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2972082
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2972082
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2972082
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2972082
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid2972082
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070827
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070827
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070827
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070827
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070827
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070827
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070840
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070840
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070840
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070840
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070840
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070840
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070851
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070851
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070851
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070851
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070851
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3070851
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144097
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144097
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144097
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144097
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144097
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144097
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144105
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144105
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144105
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144105
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144105
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3144105
+title1:Processing interval sensor data in the presence of outliers, with potential applications to localizing underwater robots. citation:2 ncitation:2 pid3176139
+title1:Processing interval sensor data in the presence of outliers, with potential applications to localizing underwater robots. citation:2 ncitation:2 pid3176139
+title1:Estimating Probability of Failure of a Complex System Based on Inexact Information about Subsystems and Components, with Potential Applications to Aircraft Maintenance. citation:6 ncitation:-1 pid3187090
+title1:Estimating Probability of Failure of a Complex System Based on Inexact Information about Subsystems and Components, with Potential Applications to Aircraft Maintenance. citation:6 ncitation:-1 pid3187090
+title1:Estimating Probability of Failure of a Complex System Based on Inexact Information about Subsystems and Components, with Potential Applications to Aircraft Maintenance. citation:6 ncitation:-1 pid3187090
+title1:No-Free-Lunch Result for Interval and Fuzzy Computing: When Bounds Are Unusually Good, Their Computation Is Unusually Slow. citation:0 ncitation:0 pid3187110
+title1:No-Free-Lunch Result for Interval and Fuzzy Computing: When Bounds Are Unusually Good, Their Computation Is Unusually Slow. citation:0 ncitation:0 pid3187110
+title1:Towards a more natural proof of metrization theorem for space-times. citation:0 ncitation:-1 pid3220946
+title1:Towards a more natural proof of metrization theorem for space-times. citation:0 ncitation:-1 pid3220946
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3258141
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3258141
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3258141
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3258141
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3258141
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3258141
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370914
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370914
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370914
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370914
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370914
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370914
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370922
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370922
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370922
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370922
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370922
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370922
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370923
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370923
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370923
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370923
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370923
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3370923
+title1:Interval Arithmetic, Affine Arithmetic, Taylor Series Methods: Why, What Next? citation:26 ncitation:22 pid3376574
+title1:Interval Arithmetic, Affine Arithmetic, Taylor Series Methods: Why, What Next? citation:26 ncitation:22 pid3376574
+title1:Estimating information amount under uncertainty: algorithmic solvability and computational complexity. citation:11 ncitation:2 pid3395452
+title1:Estimating information amount under uncertainty: algorithmic solvability and computational complexity. citation:11 ncitation:2 pid3395452
+title1:Estimating information amount under uncertainty: algorithmic solvability and computational complexity. citation:11 ncitation:2 pid3395452
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3460960
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3460960
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3460960
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3460960
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3460960
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3460960
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3541962
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3541962
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3541962
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3541962
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3541962
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:2 pid3541962
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3615551
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3615551
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3615551
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3615551
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3615551
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3615551
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3649925
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3649925
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3649925
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3649925
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3649925
+title1:Interval Methods in Knowledge Representation. citation:0 ncitation:None pid3649925

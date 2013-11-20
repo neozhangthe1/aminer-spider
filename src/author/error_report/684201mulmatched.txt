@@ -1,0 +1,4 @@
+title1:Optimal Transmission Range with Delay Constraints for Mobile Wireless Networks. citation:4 ncitation:4 pid703891
+title1:Optimal Transmission Range with Delay Constraints for Mobile Wireless Networks. citation:4 ncitation:4 pid703891
+title1:Achieving Fairness in Wireless LANs by Enhanced IEEE 802.11 DCF. citation:16 ncitation:12 pid3232419
+title1:Achieving Fairness in Wireless LANs by Enhanced IEEE 802.11 DCF. citation:16 ncitation:12 pid3232419

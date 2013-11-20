@@ -1,0 +1,20 @@
+title1:Freshness-driven Adaptive Caching for Dynamic Content. citation:0 ncitation:2 pid140742
+title1:Freshness-driven Adaptive Caching for Dynamic Content. citation:0 ncitation:2 pid140742
+title1:Freshness-driven Adaptive Caching for Dynamic Content. citation:0 ncitation:2 pid140742
+title1:Attribute-Based Access to Distributed Data over P2P Networks. citation:8 ncitation:8 pid159371
+title1:Attribute-Based Access to Distributed Data over P2P Networks. citation:8 ncitation:8 pid159371
+title1:Database Replication Using Epidemic Communication. citation:16 ncitation:16 pid196644
+title1:Database Replication Using Epidemic Communication. citation:16 ncitation:16 pid196644
+title1:The Performance of Two-phase Commit Protocols in the Presence of Site Failures. citation:22 ncitation:20 pid220357
+title1:The Performance of Two-phase Commit Protocols in the Presence of Site Failures. citation:22 ncitation:20 pid220357
+title1:Partial Database Replication using Epidemic Communication. citation:0 ncitation:39 pid296946
+title1:Partial Database Replication using Epidemic Communication. citation:0 ncitation:39 pid296946
+title1:Context-Specific Synchronization for Atomic Data Types. citation:6 ncitation:4 pid304175
+title1:Context-Specific Synchronization for Atomic Data Types. citation:6 ncitation:4 pid304175
+title1:Browsing and Placement of Multiresolution Images on Parallel Disks. citation:11 ncitation:11 pid406559
+title1:Browsing and Placement of Multiresolution Images on Parallel Disks. citation:11 ncitation:11 pid406559
+title1:Freshness-driven adaptive caching for dynamic content Web sites. citation:19 ncitation:20 pid845916
+title1:Freshness-driven adaptive caching for dynamic content Web sites. citation:19 ncitation:20 pid845916
+title1:Freshness-driven adaptive caching for dynamic content Web sites. citation:19 ncitation:20 pid845916
+title1:LogBase: A Scalable Log-structured Database System in the Cloud citation:9 ncitation:-1 pid3471441
+title1:LogBase: A Scalable Log-structured Database System in the Cloud citation:9 ncitation:-1 pid3471441

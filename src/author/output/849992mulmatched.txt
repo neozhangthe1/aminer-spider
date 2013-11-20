@@ -1,0 +1,6 @@
+title1:The Arithmetic Cube. citation:2 ncitation:25 pid1081093
+title1:The Arithmetic Cube. citation:2 ncitation:25 pid1081093
+title1:DRAM Energy Management Using Software and Hardware Directed Power Mode Control. citation:10 ncitation:170 pid252734
+title1:DRAM Energy Management Using Software and Hardware Directed Power Mode Control. citation:10 ncitation:170 pid252734
+title1:A clock power model to evaluate impact of architectural and technology optimizations. citation:68 ncitation:59 pid1135557
+title1:A clock power model to evaluate impact of architectural and technology optimizations. citation:68 ncitation:59 pid1135557

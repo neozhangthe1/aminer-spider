@@ -1,0 +1,12 @@
+title1:Knowledge-Based Programs. citation:15 ncitation:100 pid543959
+title1:Knowledge-Based Programs. citation:15 ncitation:100 pid543959
+title1:Reasoning About Procedures as Parameters. citation:15 ncitation:13 pid486464
+title1:Reasoning About Procedures as Parameters. citation:15 ncitation:13 pid486464
+title1:``Sometimes'' and ``Not Never'' Revisited: On Branching Versus Linear Time. citation:1027 ncitation:12 pid546141
+title1:``Sometimes'' and ``Not Never'' Revisited: On Branching Versus Linear Time. citation:1027 ncitation:12 pid546141
+title1:A Little Knowledge Goes a Long Way: Knowledge-Based Derivations and Correctness Proofs for a Family of Protocols. citation:110 ncitation:109 pid950577
+title1:A Little Knowledge Goes a Long Way: Knowledge-Based Derivations and Correctness Proofs for a Family of Protocols. citation:110 ncitation:109 pid950577
+title1:Asymptotic Conditional Probabilities: The Unary Case. citation:20 ncitation:19 pid1059411
+title1:Asymptotic Conditional Probabilities: The Unary Case. citation:20 ncitation:19 pid1059411
+title1:Axiomatic Definitions of Programming Languages: A Theoretical Assessment. citation:23 ncitation:21 pid951177
+title1:Axiomatic Definitions of Programming Languages: A Theoretical Assessment. citation:23 ncitation:21 pid951177

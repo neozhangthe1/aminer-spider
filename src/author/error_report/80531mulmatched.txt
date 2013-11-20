@@ -1,0 +1,118 @@
+title1:Theoretical and Practical Considerations of Uncertainty and Complexity in Automated Knowledge Acquisition. citation:8 ncitation:9 pid1113858
+title1:Theoretical and Practical Considerations of Uncertainty and Complexity in Automated Knowledge Acquisition. citation:8 ncitation:9 pid1113858
+title1:Privacy Data Management. citation:0 ncitation:-1 pid832171
+title1:Privacy Data Management. citation:0 ncitation:-1 pid832171
+title1:Modeling and Transformation of Object-Oriented Conceptual Models into XML Schema. citation:61 ncitation:56 pid150593
+title1:Modeling and Transformation of Object-Oriented Conceptual Models into XML Schema. citation:61 ncitation:56 pid150593
+title1:A Practical Walkthrough of the Ontology Derivation Rules. citation:45 ncitation:46 pid150588
+title1:A Practical Walkthrough of the Ontology Derivation Rules. citation:45 ncitation:46 pid150588
+title1:Applying a mediator architecture employing XML to retailing inventory control. citation:30 ncitation:29 pid995784
+title1:Applying a mediator architecture employing XML to retailing inventory control. citation:30 ncitation:29 pid995784
+title1:Repute Relationships for Reputation Management in Peer-to-Peer Communication - I. citation:1 ncitation:-1 pid126302
+title1:Repute Relationships for Reputation Management in Peer-to-Peer Communication - I. citation:1 ncitation:-1 pid126302
+title1:XML Views, Part III: An UML Based Design Methodology for XML Views. citation:0 ncitation:1 pid307120
+title1:XML Views, Part III: An UML Based Design Methodology for XML Views. citation:0 ncitation:1 pid307120
+title1:Framework and prototype for a secure XML-based electronic health records system. citation:18 ncitation:17 pid1171248
+title1:Framework and prototype for a secure XML-based electronic health records system. citation:18 ncitation:17 pid1171248
+title1:Towards an Ontology for Open Source Software Development. citation:17 ncitation:17 pid685896
+title1:Towards an Ontology for Open Source Software Development. citation:17 ncitation:17 pid685896
+title1:Conceptual Design of XML Document Warehouses. citation:45 ncitation:37 pid144376
+title1:Conceptual Design of XML Document Warehouses. citation:45 ncitation:37 pid144376
+title1:A survey in indexing and searching XML documents. citation:93 ncitation:91 pid956638
+title1:A survey in indexing and searching XML documents. citation:93 ncitation:91 pid956638
+title1:An Object-Oriented Database-based Architecture for Mobile Enterprise Applications. citation:4 ncitation:3 pid457381
+title1:An Object-Oriented Database-based Architecture for Mobile Enterprise Applications. citation:4 ncitation:3 pid457381
+title1:Modeling Views for Semantic Web Using eXtensible Semantic (XSemantic) Nets. citation:2 ncitation:3 pid524316
+title1:Modeling Views for Semantic Web Using eXtensible Semantic (XSemantic) Nets. citation:2 ncitation:3 pid524316
+title1:XML-Based Mobile Agents. citation:0 ncitation:8 pid457378
+title1:XML-Based Mobile Agents. citation:0 ncitation:8 pid457378
+title1:Large scale ontology visualisation using ontology extraction. citation:9 ncitation:9 pid1170328
+title1:Large scale ontology visualisation using ontology extraction. citation:9 ncitation:9 pid1170328
+title1:Meta Model Driven Framework for the Integration and Extension of Application Components. citation:1 ncitation:2 pid666355
+title1:Meta Model Driven Framework for the Integration and Extension of Application Components. citation:1 ncitation:2 pid666355
+title1:SWWS 2009 PC Co-chairs' Message. citation:0 ncitation:-1 pid1253833
+title1:SWWS 2009 PC Co-chairs' Message. citation:0 ncitation:-1 pid1253833
+title1:SWWS 2009 PC Co-chairs' Message. citation:0 ncitation:-1 pid1253833
+title1:Trust Ontology for Service-Oriented Environment. citation:5 ncitation:6 pid1205047
+title1:Trust Ontology for Service-Oriented Environment. citation:5 ncitation:6 pid1205047
+title1:Ontology Views: A Theoretical Perspective. citation:9 ncitation:8 pid524692
+title1:Ontology Views: A Theoretical Perspective. citation:9 ncitation:8 pid524692
+title1:A semantic network-based design methodology for XML documents. citation:107 ncitation:104 pid1120084
+title1:A semantic network-based design methodology for XML documents. citation:107 ncitation:104 pid1120084
+title1:FLC: A Novel Dynamic Buffer Tuner for Shortening Service Roundtrip Time over the Internet by Eliminating User-Level Buffer Overflow on the Fly. citation:0 ncitation:0 pid46873
+title1:FLC: A Novel Dynamic Buffer Tuner for Shortening Service Roundtrip Time over the Internet by Eliminating User-Level Buffer Overflow on the Fly. citation:0 ncitation:0 pid46873
+title1:Reputation Ontology for Reputation Systems. citation:10 ncitation:8 pid524675
+title1:Reputation Ontology for Reputation Systems. citation:10 ncitation:8 pid524675
+title1:Reputation Ontology for Reputation Systems. citation:10 ncitation:8 pid524675
+title1:Multi-site Distributed Software Development: Issues, Solutions, and Challenges. citation:4 ncitation:3 pid292592
+title1:Multi-site Distributed Software Development: Issues, Solutions, and Challenges. citation:4 ncitation:3 pid292592
+title1:Protein Sequences Classification Using Modular RBF Neural Networks. citation:7 ncitation:6 pid59956
+title1:Protein Sequences Classification Using Modular RBF Neural Networks. citation:7 ncitation:6 pid59956
+title1:Theoretical Foundation for Nonlinear Edge-Preserving Regularized Learning Image Restoration. citation:3 ncitation:3 pid59946
+title1:Theoretical Foundation for Nonlinear Edge-Preserving Regularized Learning Image Restoration. citation:3 ncitation:3 pid59946
+title1:The Fuzzy and Dynamic Nature of Trust. citation:53 ncitation:43 pid630916
+title1:The Fuzzy and Dynamic Nature of Trust. citation:53 ncitation:43 pid630916
+title1:Trading off between Misclassification, Recognition and Generalization in Data Mining with Continuous Features. citation:2 ncitation:2 pid375053
+title1:Trading off between Misclassification, Recognition and Generalization in Data Mining with Continuous Features. citation:2 ncitation:2 pid375053
+title1:Biomedical Data and Applications citation:2 ncitation:1 pid1301237
+title1:Biomedical Data and Applications citation:2 ncitation:1 pid1301237
+title1:SWWS 2006 PC Co-chairs' Message. citation:0 ncitation:-1 pid524666
+title1:SWWS 2006 PC Co-chairs' Message. citation:0 ncitation:-1 pid524666
+title1:An Object-Oriented Approach on Web Information Representation and Derivation. citation:4 ncitation:4 pid178382
+title1:An Object-Oriented Approach on Web Information Representation and Derivation. citation:4 ncitation:4 pid178382
+title1:Alternate Representations for Visual Constraint Specification in the Layered View Model. citation:2 ncitation:3 pid387032
+title1:Alternate Representations for Visual Constraint Specification in the Layered View Model. citation:2 ncitation:3 pid387032
+title1:XML as a basis for interoperability in Real Time Distributed Systems. citation:6 ncitation:6 pid673393
+title1:XML as a basis for interoperability in Real Time Distributed Systems. citation:6 ncitation:6 pid673393
+title1:MRT: A tool developed for predicting the mean message response time of communication channels in sizeable networks exemplified by the Internet. citation:21 ncitation:20 pid795784
+title1:MRT: A tool developed for predicting the mean message response time of communication channels in sizeable networks exemplified by the Internet. citation:21 ncitation:20 pid795784
+title1:Local Compilation: A Novel Paradigm for Multilanguage-Based and Reliable Distributed Computing over the Internet. citation:4 ncitation:4 pid1281196
+title1:Local Compilation: A Novel Paradigm for Multilanguage-Based and Reliable Distributed Computing over the Internet. citation:4 ncitation:4 pid1281196
+title1:Local Compilation: A Novel Paradigm for Multilanguage-Based and Reliable Distributed Computing over the Internet. citation:4 ncitation:4 pid1281196
+title1:Taxonomy of Trust Relationships in Peer-to-Peer (P2P) Communication. citation:6 ncitation:5 pid604929
+title1:Taxonomy of Trust Relationships in Peer-to-Peer (P2P) Communication. citation:6 ncitation:5 pid604929
+title1:Effective Pruning Strategies for Sequential Pattern Mining. citation:1 ncitation:1 pid713165
+title1:Effective Pruning Strategies for Sequential Pattern Mining. citation:1 ncitation:1 pid713165
+title1:Reputation Ontology for Reputation Systems. citation:10 ncitation:8 pid523940
+title1:Reputation Ontology for Reputation Systems. citation:10 ncitation:8 pid523940
+title1:XML Views: Part 1. citation:28 ncitation:27 pid150273
+title1:XML Views: Part 1. citation:28 ncitation:27 pid150273
+title1:IMB3-Miner: Mining Induced/Embedded Subtrees by Constraining the Level of Embedding. citation:63 ncitation:64 pid527139
+title1:IMB3-Miner: Mining Induced/Embedded Subtrees by Constraining the Level of Embedding. citation:63 ncitation:64 pid527139
+title1:Protein Ontology: Vocabulary for Protein Data. citation:33 ncitation:31 pid679663
+title1:Protein Ontology: Vocabulary for Protein Data. citation:33 ncitation:31 pid679663
+title1:Two Layer Web User Interface Analysis Framework Using SNN and iFIN. citation:4 ncitation:5 pid524097
+title1:Two Layer Web User Interface Analysis Framework Using SNN and iFIN. citation:4 ncitation:5 pid524097
+title1:XML Schema for Software Process Framework. citation:5 ncitation:5 pid46420
+title1:XML Schema for Software Process Framework. citation:5 ncitation:5 pid46420
+title1:A Layered View Model for XML Repositories and XML Data Warehouses. citation:16 ncitation:17 pid8501
+title1:A Layered View Model for XML Repositories and XML Data Warehouses. citation:16 ncitation:17 pid8501
+title1:SWWS 2005 PC Co-chairs' Message. citation:0 ncitation:-1 pid524047
+title1:SWWS 2005 PC Co-chairs' Message. citation:0 ncitation:-1 pid524047
+title1:EXtensible Web (): An XML-View Based Web Engineering Methodology. citation:2 ncitation:9 pid291904
+title1:EXtensible Web (): An XML-View Based Web Engineering Methodology. citation:2 ncitation:9 pid291904
+title1:Conceptual Design of an XML-View Driven, Global XML FACT Repository for XML Document Warehouses. citation:1 ncitation:2 pid152094
+title1:Conceptual Design of an XML-View Driven, Global XML FACT Repository for XML Document Warehouses. citation:1 ncitation:2 pid152094
+title1:The concept of web event and a practical model-driven approach to web information system development. citation:1 ncitation:1 pid922154
+title1:The concept of web event and a practical model-driven approach to web information system development. citation:1 ncitation:1 pid922154
+title1:Building a Fuzzy Trust Network in Unsupervised Multi-agent Environments. citation:0 ncitation:16 pid524223
+title1:Building a Fuzzy Trust Network in Unsupervised Multi-agent Environments. citation:0 ncitation:16 pid524223
+title1:SWWS 2008 PC Co-chairs' Message. citation:0 ncitation:-1 pid525169
+title1:SWWS 2008 PC Co-chairs' Message. citation:0 ncitation:-1 pid525169
+title1:Privacy Support and Evaluation on an Ontological Basis. citation:5 ncitation:4 pid301830
+title1:Privacy Support and Evaluation on an Ontological Basis. citation:5 ncitation:4 pid301830
+title1:A Novel Fuzzy-PID Dynamic Buffer Tuning Model to Eliminate Overflow and Shorten the End-to-End Roundtrip Time for TCP Channels. citation:3 ncitation:4 pid445114
+title1:A Novel Fuzzy-PID Dynamic Buffer Tuning Model to Eliminate Overflow and Shorten the End-to-End Roundtrip Time for TCP Channels. citation:3 ncitation:4 pid445114
+title1:A Statistical Interestingness Measures for XML Based Association Rules. citation:1 ncitation:0 pid2811148
+title1:A Statistical Interestingness Measures for XML Based Association Rules. citation:1 ncitation:0 pid2811148
+title1:Automated knowledge acquisition. citation:147 ncitation:143 pid3006344
+title1:Automated knowledge acquisition. citation:147 ncitation:143 pid3006344
+title1:Automated knowledge acquisition. citation:147 ncitation:143 pid3006344
+title1:Response time for cloud computing providers. citation:7 ncitation:4 pid3020051
+title1:Response time for cloud computing providers. citation:7 ncitation:4 pid3020051
+title1:Mining of Data with Complex Structures citation:11 ncitation:7 pid3169855
+title1:Mining of Data with Complex Structures citation:11 ncitation:7 pid3169855
+title1:Ontology-Based Multi-Agent Systems citation:18 ncitation:15 pid3169892
+title1:Ontology-Based Multi-Agent Systems citation:18 ncitation:15 pid3169892
+title1:A Methodology to Ascertain the Level of Failure in an E-Commerce Interaction. citation:0 ncitation:-1 pid3427429
+title1:A Methodology to Ascertain the Level of Failure in an E-Commerce Interaction. citation:0 ncitation:-1 pid3427429

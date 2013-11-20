@@ -1,0 +1,75 @@
+title1:An Adaptive Data Replication Algorithm. citation:407 ncitation:388 pid1118748
+title1:An Adaptive Data Replication Algorithm. citation:407 ncitation:388 pid1118748
+title1:Cardinality-Based Inference Control in Sum-Only Data Cubes. citation:35 ncitation:32 pid189322
+title1:Cardinality-Based Inference Control in Sum-Only Data Cubes. citation:35 ncitation:32 pid189322
+title1:Steganalysis of Images Created Using Current Steganography Software. citation:384 ncitation:364 pid385514
+title1:Steganalysis of Images Created Using Current Steganography Software. citation:384 ncitation:364 pid385514
+title1:Trusted Recovery. citation:7 ncitation:48 pid773105
+title1:Trusted Recovery. citation:7 ncitation:48 pid773105
+title1:Trusted Recovery. citation:7 ncitation:48 pid773105
+title1:Trusted Recovery. citation:7 ncitation:48 pid773105
+title1:Trusted Recovery. citation:7 ncitation:48 pid773105
+title1:Maintaining Multilevel Transaction Atomicity in MLS Database Systems with Kernelized Architecture. citation:30 ncitation:30 pid145359
+title1:Maintaining Multilevel Transaction Atomicity in MLS Database Systems with Kernelized Architecture. citation:30 ncitation:30 pid145359
+title1:Multimedia Database System: Issues and Research Direction citation:73 ncitation:68 pid3564
+title1:Multimedia Database System: Issues and Research Direction citation:73 ncitation:68 pid3564
+title1:Performance Optimizations for Group Key Management Scheme. citation:49 ncitation:50 pid298009
+title1:Performance Optimizations for Group Key Management Scheme. citation:49 ncitation:50 pid298009
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Adding Reliable and Self-healing Key Distribution to the Subset Difference Group Rekeying Method for Secure Multicast. citation:22 ncitation:21 pid514123
+title1:Adding Reliable and Self-healing Key Distribution to the Subset Difference Group Rekeying Method for Secure Multicast. citation:22 ncitation:21 pid514123
+title1:Secure Mediated Databases. citation:52 ncitation:50 pid299611
+title1:Secure Mediated Databases. citation:52 ncitation:50 pid299611
+title1:Kronos: A Scalable Group Re-Keying Approach for Secure Multicast. citation:311 ncitation:308 pid613832
+title1:Kronos: A Scalable Group Re-Keying Approach for Secure Multicast. citation:311 ncitation:308 pid613832
+title1:Data Security. citation:5 ncitation:0 pid1200781
+title1:Data Security. citation:5 ncitation:0 pid1200781
+title1:Data Security. citation:5 ncitation:0 pid1200781
+title1:Temporal Modules: An Approach Toward Federated Temporal Databases. citation:65 ncitation:61 pid942061
+title1:Temporal Modules: An Approach Toward Federated Temporal Databases. citation:65 ncitation:61 pid942061
+title1:Data Mining for Intrusion Detection. citation:9 ncitation:10 pid2776
+title1:Data Mining for Intrusion Detection. citation:9 ncitation:10 pid2776
+title1:Detecting VoIP Floods Using the Hellinger Distance. citation:92 ncitation:68 pid1126362
+title1:Detecting VoIP Floods Using the Hellinger Distance. citation:92 ncitation:68 pid1126362
+title1:An Authorization Model for a Distributed Hypertext System. citation:97 ncitation:92 pid1113529
+title1:An Authorization Model for a Distributed Hypertext System. citation:97 ncitation:92 pid1113529
+title1:Enforcing Confidentiality Constraints on Sensitive Databases with Lightweight Trusted Clients. citation:23 ncitation:20 pid1206754
+title1:Enforcing Confidentiality Constraints on Sensitive Databases with Lightweight Trusted Clients. citation:23 ncitation:20 pid1206754
+title1:Regulating Exceptions in Healthcare Using Policy Spaces. citation:17 ncitation:14 pid145788
+title1:Regulating Exceptions in Healthcare Using Policy Spaces. citation:17 ncitation:14 pid145788
+title1:Exclusive Strategy for Generalization Algorithms in Micro-data Disclosure. citation:3 ncitation:3 pid145785
+title1:Exclusive Strategy for Generalization Algorithms in Micro-data Disclosure. citation:3 ncitation:3 pid145785
+title1:An Experimental Evaluation of Multi-Key Strategies for Data Outsourcing. citation:25 ncitation:21 pid581168
+title1:An Experimental Evaluation of Multi-Key Strategies for Data Outsourcing. citation:25 ncitation:21 pid581168
+title1:Polyinstantiation Integrity in Multilevel Relations. citation:118 ncitation:117 pid613638
+title1:Polyinstantiation Integrity in Multilevel Relations. citation:118 ncitation:117 pid613638
+title1:Security Issues in Data Warehousing and Data Mining: Panel Discussion. citation:5 ncitation:5 pid145713
+title1:Security Issues in Data Warehousing and Data Mining: Panel Discussion. citation:5 ncitation:5 pid145713
+title1:Interactive Analysis of Attack Graphs Using Relational Queries. citation:18 ncitation:14 pid145724
+title1:Interactive Analysis of Attack Graphs Using Relational Queries. citation:18 ncitation:14 pid145724
+title1:A Logical Language for Expressing Authorizations. citation:529 ncitation:516 pid613642
+title1:A Logical Language for Expressing Authorizations. citation:529 ncitation:516 pid613642
+title1:Discovering Frequent Event Patterns with Multiple Granularities in Time Sequences. citation:147 ncitation:144 pid1112456
+title1:Discovering Frequent Event Patterns with Multiple Granularities in Time Sequences. citation:147 ncitation:144 pid1112456
+title1:Information Release Control: A Learning-Based Architecture. citation:1 ncitation:2 pid986494
+title1:Information Release Control: A Learning-Based Architecture. citation:1 ncitation:2 pid986494
+title1:Surviving Information Warfare Attacks. citation:124 ncitation:31 pid806848
+title1:Surviving Information Warfare Attacks. citation:124 ncitation:31 pid806848
+title1:Integrating Data Mining Techniques with Intrusion Detection Methods. citation:40 ncitation:36 pid145584
+title1:Integrating Data Mining Techniques with Intrusion Detection Methods. citation:40 ncitation:36 pid145584
+title1:Editorial. citation:0 ncitation:-1 pid2863627
+title1:Editorial. citation:0 ncitation:-1 pid2863627
+title1:Journal on Data Semantics II citation:0 ncitation:-1 pid2864714
+title1:Journal on Data Semantics II citation:0 ncitation:-1 pid2864714
+title1:Securing Topology Maintenance Protocols for Sensor Networks. citation:10 ncitation:10 pid3080429
+title1:Securing Topology Maintenance Protocols for Sensor Networks. citation:10 ncitation:10 pid3080429
+title1:Preserving Privacy in On-Line Analytical Processing (OLAP) citation:8 ncitation:8 pid3168845
+title1:Preserving Privacy in On-Line Analytical Processing (OLAP) citation:8 ncitation:8 pid3168845
+title1:LH*RE: A Scalable Distributed Data Structure with Recoverable Encryption. citation:7 ncitation:6 pid3223523
+title1:LH*RE: A Scalable Distributed Data Structure with Recoverable Encryption. citation:7 ncitation:6 pid3223523
+title1:Topological Vulnerability Analysis. citation:27 ncitation:27 pid3323451
+title1:Topological Vulnerability Analysis. citation:27 ncitation:27 pid3323451

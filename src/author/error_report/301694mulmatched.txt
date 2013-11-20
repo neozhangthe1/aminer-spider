@@ -1,0 +1,88 @@
+title1:A Robust High-Throughput Tree Algorithm Using Successive Interference Cancellation. citation:21 ncitation:21 pid1088406
+title1:A Robust High-Throughput Tree Algorithm Using Successive Interference Cancellation. citation:21 ncitation:21 pid1088406
+title1:Block-differential modulation over doubly selective wireless fading channels. citation:9 ncitation:9 pid1087310
+title1:Block-differential modulation over doubly selective wireless fading channels. citation:9 ncitation:9 pid1087310
+title1:Space-time coding for broadband wireless communications. citation:134 ncitation:122 pid1140625
+title1:Space-time coding for broadband wireless communications. citation:134 ncitation:122 pid1140625
+title1:Image modeling using inverse filtering criteria with application to textures. citation:16 ncitation:15 pid1100802
+title1:Image modeling using inverse filtering criteria with application to textures. citation:16 ncitation:15 pid1100802
+title1:Achieving the Welch bound with difference sets. citation:161 ncitation:138 pid1109614
+title1:Achieving the Welch bound with difference sets. citation:161 ncitation:138 pid1109614
+title1:Achieving the Welch bound with difference sets. citation:161 ncitation:138 pid1109614
+title1:Time-varying fair queueing scheduling for multicode CDMA based on dynamic programming. citation:32 ncitation:29 pid1177543
+title1:Time-varying fair queueing scheduling for multicode CDMA based on dynamic programming. citation:32 ncitation:29 pid1177543
+title1:Noncoherent Ultra-Wideband (De)Modulation. citation:21 ncitation:22 pid1087959
+title1:Noncoherent Ultra-Wideband (De)Modulation. citation:21 ncitation:22 pid1087959
+title1:Conditions for Multi-Antenna Selection to be Optimal Given Channel Amplitude Information. citation:1 ncitation:1 pid1176406
+title1:Conditions for Multi-Antenna Selection to be Optimal Given Channel Amplitude Information. citation:1 ncitation:1 pid1176406
+title1:Link-Adaptive Distributed Coding for Multi-Source Cooperation. citation:16 ncitation:14 pid703197
+title1:Link-Adaptive Distributed Coding for Multi-Source Cooperation. citation:16 ncitation:14 pid703197
+title1:Link-Adaptive Distributed Coding for Multi-Source Cooperation. citation:16 ncitation:14 pid703197
+title1:Semiblind multiuser MIMO channel estimation using capon and MUSIC techniques. citation:20 ncitation:19 pid1284893
+title1:Semiblind multiuser MIMO channel estimation using capon and MUSIC techniques. citation:20 ncitation:19 pid1284893
+title1:On regularity and identifiability of blind source separation under constant-modulus constraints. citation:12 ncitation:12 pid1175276
+title1:On regularity and identifiability of blind source separation under constant-modulus constraints. citation:12 ncitation:12 pid1175276
+title1:Adaptive Modulation for multiantenna transmissions with channel mean feedback. citation:163 ncitation:156 pid1177421
+title1:Adaptive Modulation for multiantenna transmissions with channel mean feedback. citation:163 ncitation:156 pid1177421
+title1:A harmonic retrieval framework for discontinuous motion estimation. citation:26 ncitation:27 pid1100506
+title1:A harmonic retrieval framework for discontinuous motion estimation. citation:26 ncitation:27 pid1100506
+title1:Maximum-diversity transmissions over doubly selective wireless channels. citation:176 ncitation:168 pid1107332
+title1:Maximum-diversity transmissions over doubly selective wireless channels. citation:176 ncitation:168 pid1107332
+title1:Hopping pilots for estimation of frequency-offset and multiantenna channels in MIMO-OFDM. citation:88 ncitation:72 pid1087623
+title1:Hopping pilots for estimation of frequency-offset and multiantenna channels in MIMO-OFDM. citation:88 ncitation:72 pid1087623
+title1:Block differential encoding for rapidly fading channels. citation:0 ncitation:28 pid1087621
+title1:Block differential encoding for rapidly fading channels. citation:0 ncitation:28 pid1087621
+title1:Power-Efficient Resource Allocation and Quantization for TDMA Using Adaptive Transmission and Limited-Rate Feedback. citation:20 ncitation:19 pid1230843
+title1:Power-Efficient Resource Allocation and Quantization for TDMA Using Adaptive Transmission and Limited-Rate Feedback. citation:20 ncitation:19 pid1230843
+title1:Differential space-time modulation with eigen-beamforming for correlated MIMO fading channels. citation:22 ncitation:22 pid1175643
+title1:Differential space-time modulation with eigen-beamforming for correlated MIMO fading channels. citation:22 ncitation:22 pid1175643
+title1:Multicarrier multiple access is sum-rate optimal for block transmissions over circulant ISI channels. citation:19 ncitation:20 pid992538
+title1:Multicarrier multiple access is sum-rate optimal for block transmissions over circulant ISI channels. citation:19 ncitation:20 pid992538
+title1:Stochastic resource allocation for orthogonal access based on quantized CSI: Optimality, convergence and delay analysis. citation:3 ncitation:3 pid2836915
+title1:Stochastic resource allocation for orthogonal access based on quantized CSI: Optimality, convergence and delay analysis. citation:3 ncitation:3 pid2836915
+title1:Dynamic resource management for cognitive radios using limited-rate feedback. citation:41 ncitation:33 pid2982305
+title1:Dynamic resource management for cognitive radios using limited-rate feedback. citation:41 ncitation:33 pid2982305
+title1:Performance Analysis of the Consensus-Based Distributed LMS Algorithm. citation:28 ncitation:16 pid3105225
+title1:Performance Analysis of the Consensus-Based Distributed LMS Algorithm. citation:28 ncitation:16 pid3105225
+title1:Distortion-Rate Bounds for Distributed Estimation Using Wireless Sensor Networks. citation:4 ncitation:2 pid3105501
+title1:Distortion-Rate Bounds for Distributed Estimation Using Wireless Sensor Networks. citation:4 ncitation:2 pid3105501
+title1:Link-Adaptive Distributed Coding for Multisource Cooperation. citation:16 ncitation:14 pid3105525
+title1:Link-Adaptive Distributed Coding for Multisource Cooperation. citation:16 ncitation:14 pid3105525
+title1:Generalized Multicarrier CDMA: Unification and Linear Equalization. citation:16 ncitation:18 pid3106815
+title1:Generalized Multicarrier CDMA: Unification and Linear Equalization. citation:16 ncitation:18 pid3106815
+title1:CSMA/CCA: A Modified CSMA/CA Protocol Mitigating the Fairness Problem for IEEE 802.11 DCF. citation:7 ncitation:10 pid3108722
+title1:CSMA/CCA: A Modified CSMA/CA Protocol Mitigating the Fairness Problem for IEEE 802.11 DCF. citation:7 ncitation:10 pid3108722
+title1:Distributed Clustering Using Wireless Sensor Networks. citation:20 ncitation:13 pid3145121
+title1:Distributed Clustering Using Wireless Sensor Networks. citation:20 ncitation:13 pid3145121
+title1:Digital multi-carrier spread spectrum versus direct sequence spread spectrum for resistance to jamming and multipath. citation:58 ncitation:52 pid3245266
+title1:Digital multi-carrier spread spectrum versus direct sequence spread spectrum for resistance to jamming and multipath. citation:58 ncitation:52 pid3245266
+title1:Bandwidth- and power-efficient multicarrier multiple access. citation:66 ncitation:65 pid3245291
+title1:Bandwidth- and power-efficient multicarrier multiple access. citation:66 ncitation:65 pid3245291
+title1:Blind identification of ARMA channels with periodically modulated inputs. citation:11 ncitation:13 pid3254218
+title1:Blind identification of ARMA channels with periodically modulated inputs. citation:11 ncitation:13 pid3254218
+title1:Blind channel identification and equalization using periodic modulation precoders: performance analysis. citation:43 ncitation:46 pid3255241
+title1:Blind channel identification and equalization using periodic modulation precoders: performance analysis. citation:43 ncitation:46 pid3255241
+title1:Block FIR decision-feedback equalizers for filterbank precoded transmissions with blind channel estimation capabilities. citation:124 ncitation:124 pid3306418
+title1:Block FIR decision-feedback equalizers for filterbank precoded transmissions with blind channel estimation capabilities. citation:124 ncitation:124 pid3306418
+title1:On the estimation of the K parameter for the Rice fading distribution. citation:158 ncitation:154 pid3313857
+title1:On the estimation of the K parameter for the Rice fading distribution. citation:158 ncitation:154 pid3313857
+title1:Counterexamples to `On estimating noncausal nonminimum phase ARMA models of non-Gaussian processes' [and reply]. citation:6 ncitation:5 pid3314374
+title1:Counterexamples to `On estimating noncausal nonminimum phase ARMA models of non-Gaussian processes' [and reply]. citation:6 ncitation:5 pid3314374
+title1:Full-diversity full-rate complex-field space-time coding. citation:180 ncitation:167 pid3314748
+title1:Full-diversity full-rate complex-field space-time coding. citation:180 ncitation:167 pid3314748
+title1:Performance analysis of blind carrier frequency offset estimators for noncircular transmissions through frequency-selective channels. citation:59 ncitation:55 pid3314774
+title1:Performance analysis of blind carrier frequency offset estimators for noncircular transmissions through frequency-selective channels. citation:59 ncitation:55 pid3314774
+title1:Minimizing Power in Wireless OFDMA with Limited-Rate Feedback. citation:2 ncitation:3 pid3327596
+title1:Minimizing Power in Wireless OFDMA with Limited-Rate Feedback. citation:2 ncitation:3 pid3327596
+title1:Multichannel ARMA processes. citation:129 ncitation:123 pid3369296
+title1:Multichannel ARMA processes. citation:129 ncitation:123 pid3369296
+title1:Recovery of Low-Rank Plus Compressed Sparse Matrices with Application to Unveiling Traffic Anomalies citation:11 ncitation:5 pid3382458
+title1:Recovery of Low-Rank Plus Compressed Sparse Matrices with Application to Unveiling Traffic Anomalies citation:11 ncitation:5 pid3382458
+title1:Demodulation with dirty templates for UWB impulse radios. citation:0 ncitation:-1 pid3431899
+title1:Demodulation with dirty templates for UWB impulse radios. citation:0 ncitation:-1 pid3431899
+title1:Load curve data cleansing and imputation via sparsity and low rank citation:1 ncitation:None pid3619906
+title1:Load curve data cleansing and imputation via sparsity and low rank citation:1 ncitation:None pid3619906
+title1:Distributed quantization-estimation using wireless sensor networks. citation:10 ncitation:None pid3670638
+title1:Distributed quantization-estimation using wireless sensor networks. citation:10 ncitation:None pid3670638
+title1:Power-Efficient OFDM via Quantized Channel State Information. citation:4 ncitation:None pid3671420
+title1:Power-Efficient OFDM via Quantized Channel State Information. citation:4 ncitation:None pid3671420

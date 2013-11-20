@@ -1,0 +1,37 @@
+title1:Video Annotation with Pictorially Enriched Ontologies. citation:40 ncitation:39 pid332150
+title1:Video Annotation with Pictorially Enriched Ontologies. citation:40 ncitation:39 pid332150
+title1:Querying and Retrieving Pictorial Data Using Semantics Induced by Colour Quality and Arrangement. citation:12 ncitation:10 pid329968
+title1:Querying and Retrieving Pictorial Data Using Semantics Induced by Colour Quality and Arrangement. citation:12 ncitation:10 pid329968
+title1:Content-based retrieval of 3D models. citation:95 ncitation:83 pid1120931
+title1:Content-based retrieval of 3D models. citation:95 ncitation:83 pid1120931
+title1:Guest Editor's Introduction. citation:11 ncitation:-1 pid1016728
+title1:Guest Editor's Introduction. citation:11 ncitation:-1 pid1016728
+title1:Guest Editor's Introduction. citation:11 ncitation:-1 pid1016728
+title1:Guest Editor's Introduction. citation:11 ncitation:-1 pid1016728
+title1:Guest Editor's Introduction. citation:11 ncitation:-1 pid1016728
+title1:DelosDLMS - The Integrated DELOS Digital Library Management System. citation:28 ncitation:25 pid148590
+title1:DelosDLMS - The Integrated DELOS Digital Library Management System. citation:28 ncitation:25 pid148590
+title1:Specification by-Example of Virtual Agents Behavior. citation:38 ncitation:36 pid1133469
+title1:Specification by-Example of Virtual Agents Behavior. citation:38 ncitation:36 pid1133469
+title1:Image Retrieval by Elastic Matching of User Sketches. citation:409 ncitation:6 pid311574
+title1:Image Retrieval by Elastic Matching of User Sketches. citation:409 ncitation:6 pid311574
+title1:Virtual Reality for Image Retrieval. citation:4 ncitation:4 pid500696
+title1:Virtual Reality for Image Retrieval. citation:4 ncitation:4 pid500696
+title1:Object-Based Image Retrieval Using Active Nets. citation:1 ncitation:2 pid346771
+title1:Object-Based Image Retrieval Using Active Nets. citation:1 ncitation:2 pid346771
+title1:Sensations and Psychological Effects in Color Image Database. citation:7 ncitation:7 pid316415
+title1:Sensations and Psychological Effects in Color Image Database. citation:7 ncitation:7 pid316415
+title1:Sensations and Psychological Effects in Color Image Database. citation:7 ncitation:7 pid316415
+title1:An Invariant Representation for Matching Trajectories Across Uncalibrated Video Streams. citation:8 ncitation:6 pid98391
+title1:An Invariant Representation for Matching Trajectories Across Uncalibrated Video Streams. citation:8 ncitation:6 pid98391
+title1:Semantic annotation for live and posterity logging of video documents. citation:1 ncitation:1 pid637245
+title1:Semantic annotation for live and posterity logging of video documents. citation:1 ncitation:1 pid637245
+title1:Natural Interaction. citation:6 ncitation:4 pid1298405
+title1:Natural Interaction. citation:6 ncitation:4 pid1298405
+title1:Natural Interaction. citation:6 ncitation:4 pid1298405
+title1:Weighted walkthroughs between extended entities for retrieval by spatial arrangement. citation:55 ncitation:49 pid1116263
+title1:Weighted walkthroughs between extended entities for retrieval by spatial arrangement. citation:55 ncitation:49 pid1116263
+title1:Visual information retrieval. citation:1055 ncitation:992 pid3003375
+title1:Visual information retrieval. citation:1055 ncitation:992 pid3003375
+title1:Visual information retrieval. citation:1055 ncitation:992 pid3003375
+title1:Visual information retrieval. citation:1055 ncitation:992 pid3003375

@@ -1,0 +1,90 @@
+title1:Ordering vs Timeliness: Two Facets of Consistency? citation:8 ncitation:8 pid17295
+title1:Ordering vs Timeliness: Two Facets of Consistency? citation:8 ncitation:8 pid17295
+title1:Ordering vs Timeliness: Two Facets of Consistency? citation:8 ncitation:8 pid17295
+title1:The Iterated Restricted Immediate Snapshot Model. citation:22 ncitation:16 pid105762
+title1:The Iterated Restricted Immediate Snapshot Model. citation:22 ncitation:16 pid105762
+title1:Sequential Consistency in Distributed Systems. citation:38 ncitation:36 pid137931
+title1:Sequential Consistency in Distributed Systems. citation:38 ncitation:36 pid137931
+title1:Eventual Leader Election with Weak Assumptions on Initial Knowledge, Communication Reliability, and Synchrony. citation:1 ncitation:33 pid161579
+title1:Eventual Leader Election with Weak Assumptions on Initial Knowledge, Communication Reliability, and Synchrony. citation:1 ncitation:33 pid161579
+title1:Evaluating the Condition-Based Approach to Solve Consensus. citation:7 ncitation:5 pid161707
+title1:Evaluating the Condition-Based Approach to Solve Consensus. citation:7 ncitation:5 pid161707
+title1:Electing an Eventual Leader in an Asynchronous Shared Memory System. citation:6 ncitation:8 pid162077
+title1:Electing an Eventual Leader in an Asynchronous Shared Memory System. citation:6 ncitation:8 pid162077
+title1:Building TMR-Based Reliable Servers Despite Bounded Input Lifetimes. citation:3 ncitation:3 pid196401
+title1:Building TMR-Based Reliable Servers Despite Bounded Input Lifetimes. citation:3 ncitation:3 pid196401
+title1:Static and Dynamic Adaptation of Transactional Consistency. citation:8 ncitation:7 pid248409
+title1:Static and Dynamic Adaptation of Transactional Consistency. citation:8 ncitation:7 pid248409
+title1:A Distributed Implementation of Sequential Consistency with Multi-Object Operations. citation:17 ncitation:14 pid297547
+title1:A Distributed Implementation of Sequential Consistency with Multi-Object Operations. citation:17 ncitation:14 pid297547
+title1:Atomic Broadcast in Asynchronous Crash-Recovery Distributed Systems. citation:41 ncitation:41 pid297565
+title1:Atomic Broadcast in Asynchronous Crash-Recovery Distributed Systems. citation:41 ncitation:41 pid297565
+title1:Consensus Based on Strong Failure Detectors: A Time and Message-Efficient Protocol. citation:7 ncitation:9 pid409174
+title1:Consensus Based on Strong Failure Detectors: A Time and Message-Efficient Protocol. citation:7 ncitation:9 pid409174
+title1:A Timing Assumption and a t-Resilient Protocol for Implementing an Eventual Leader Service in Asynchronous Shared Memory Systems. citation:6 ncitation:6 pid444671
+title1:A Timing Assumption and a t-Resilient Protocol for Implementing an Eventual Leader Service in Asynchronous Shared Memory Systems. citation:6 ncitation:6 pid444671
+title1:The Committee Decision Problem. citation:16 ncitation:15 pid481217
+title1:The Committee Decision Problem. citation:16 ncitation:15 pid481217
+title1:From an Intermittent Rotating Star to a Leader. citation:7 ncitation:15 pid523492
+title1:From an Intermittent Rotating Star to a Leader. citation:7 ncitation:15 pid523492
+title1:On the Solvability of Anonymous Partial Grids Exploration by Mobile Robots. citation:17 ncitation:14 pid523614
+title1:On the Solvability of Anonymous Partial Grids Exploration by Mobile Robots. citation:17 ncitation:14 pid523614
+title1:Consensus in One Communication Step. citation:58 ncitation:60 pid525839
+title1:Consensus in One Communication Step. citation:58 ncitation:60 pid525839
+title1:On the fly estimation of the processes that are alive/crashed in an asynchronous message-passing system. citation:3 ncitation:3 pid550984
+title1:On the fly estimation of the processes that are alive/crashed in an asynchronous message-passing system. citation:3 ncitation:3 pid550984
+title1:Efficient Condition-Based Consensus. citation:9 ncitation:9 pid604723
+title1:Efficient Condition-Based Consensus. citation:9 ncitation:9 pid604723
+title1:The Lord of the Rings: Efficient Maintenance of Views at Data Warehouses. citation:10 ncitation:8 pid653622
+title1:The Lord of the Rings: Efficient Maintenance of Views at Data Warehouses. citation:10 ncitation:8 pid653622
+title1:Distributed Agreement and Its Relation with Error-Correcting Codes. citation:31 ncitation:30 pid653756
+title1:Distributed Agreement and Its Relation with Error-Correcting Codes. citation:31 ncitation:30 pid653756
+title1:Using Conditions to Expedite Consensus in Synchronous Distributed Systems. citation:17 ncitation:17 pid653916
+title1:Using Conditions to Expedite Consensus in Synchronous Distributed Systems. citation:17 ncitation:17 pid653916
+title1:Narrowing Power vs. Efficiency in Synchronous Set Agreement. citation:4 ncitation:3 pid692247
+title1:Narrowing Power vs. Efficiency in Synchronous Set Agreement. citation:4 ncitation:3 pid692247
+title1:Large-Scale Networked Systems: From Anarchy to Geometric Self-structuring. citation:6 ncitation:6 pid692320
+title1:Large-Scale Networked Systems: From Anarchy to Geometric Self-structuring. citation:6 ncitation:6 pid692320
+title1:Consistent Checkpointing for Transaction Systems. citation:8 ncitation:8 pid789717
+title1:Consistent Checkpointing for Transaction Systems. citation:8 ncitation:8 pid789717
+title1:Fundamentals of Distributed Computing: A Practical Tour of Vector Clock Systems. citation:49 ncitation:43 pid856589
+title1:Fundamentals of Distributed Computing: A Practical Tour of Vector Clock Systems. citation:49 ncitation:43 pid856589
+title1:Rollback-Dependency Trackability: A Minimal Characterization and Its Protocol. citation:32 ncitation:29 pid887108
+title1:Rollback-Dependency Trackability: A Minimal Characterization and Its Protocol. citation:32 ncitation:29 pid887108
+title1:On-The-Fly Analysis of Distributed Computations. citation:20 ncitation:23 pid931210
+title1:On-The-Fly Analysis of Distributed Computations. citation:20 ncitation:23 pid931210
+title1:Leader-Based Consensus. citation:102 ncitation:102 pid1038027
+title1:Leader-Based Consensus. citation:102 ncitation:102 pid1038027
+title1:Modularity: a first class concept to address distributed systems. citation:3 ncitation:6 pid1062330
+title1:Modularity: a first class concept to address distributed systems. citation:3 ncitation:6 pid1062330
+title1:The Information Structure of Indulgent Consensus. citation:112 ncitation:113 pid1079489
+title1:The Information Structure of Indulgent Consensus. citation:112 ncitation:113 pid1079489
+title1:k-Arbiter: A Safe and General Scheme for h-out of-k Mutual Exclusion. citation:42 ncitation:41 pid1093275
+title1:k-Arbiter: A Safe and General Scheme for h-out of-k Mutual Exclusion. citation:42 ncitation:41 pid1093275
+title1:An Adaptive Programming Model for Fault-Tolerant Distributed Computing. citation:33 ncitation:30 pid1097979
+title1:An Adaptive Programming Model for Fault-Tolerant Distributed Computing. citation:33 ncitation:30 pid1097979
+title1:A General Scheme for Token- and Tree-Based Distributed Mutual Exclusion Algorithms. citation:58 ncitation:53 pid1125102
+title1:A General Scheme for Token- and Tree-Based Distributed Mutual Exclusion Algorithms. citation:58 ncitation:53 pid1125102
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:Set Agreement. citation:19 ncitation:-1 pid1199532
+title1:The Price of Anonymity: Optimal Consensus Despite Asynchrony, Crash and Anonymity. citation:15 ncitation:13 pid1257130
+title1:The Price of Anonymity: Optimal Consensus Despite Asynchrony, Crash and Anonymity. citation:15 ncitation:13 pid1257130
+title1:A simple proof of the necessity of the failure detector Sigma to implement an atomic register in asynchronous message-passing systems. citation:13 ncitation:13 pid2862151
+title1:A simple proof of the necessity of the failure detector Sigma to implement an atomic register in asynchronous message-passing systems. citation:13 ncitation:13 pid2862151
+title1:A Theory-Oriented Introduction to Wait-Free Synchronization Based on the Adaptive Renaming Problem. citation:2 ncitation:1 pid3008168
+title1:A Theory-Oriented Introduction to Wait-Free Synchronization Based on the Adaptive Renaming Problem. citation:2 ncitation:1 pid3008168
+title1:Distributed Computing with Mobile Robots: An Introductory Survey. citation:4 ncitation:1 pid3188208
+title1:Distributed Computing with Mobile Robots: An Introductory Survey. citation:4 ncitation:1 pid3188208
+title1:A Survey on Some Recent Advances in Shared Memory Models. citation:0 ncitation:0 pid3210637
+title1:A Survey on Some Recent Advances in Shared Memory Models. citation:0 ncitation:0 pid3210637
+title1:Increasing the Power of the Iterated Immediate Snapshot Model with Failure Detectors. citation:4 ncitation:1 pid3511345
+title1:Increasing the Power of the Iterated Immediate Snapshot Model with Failure Detectors. citation:4 ncitation:1 pid3511345
+title1:A suite of definitions for consistency criteria in distributed shared memories. citation:66 ncitation:60 pid3551357
+title1:A suite of definitions for consistency criteria in distributed shared memories. citation:66 ncitation:60 pid3551357

@@ -1,0 +1,49 @@
+title1:Modeling User Preferences and Mediating Agents in Electronic Commerce. citation:45 ncitation:44 pid29506
+title1:Modeling User Preferences and Mediating Agents in Electronic Commerce. citation:45 ncitation:44 pid29506
+title1:A Requirement Specification Language for Configuration Dynamics of Multi-agent Systems. citation:15 ncitation:11 pid43340
+title1:A Requirement Specification Language for Configuration Dynamics of Multi-agent Systems. citation:15 ncitation:11 pid43340
+title1:Reuse and Abstraction in Verification: Agents Acting in Dynamic Environments. citation:8 ncitation:8 pid43384
+title1:Reuse and Abstraction in Verification: Agents Acting in Dynamic Environments. citation:8 ncitation:8 pid43384
+title1:Formal Modeling and Analysis of Organizations. citation:26 ncitation:25 pid57079
+title1:Formal Modeling and Analysis of Organizations. citation:26 ncitation:25 pid57079
+title1:Analysis of Design Process Dynamics. citation:8 ncitation:-1 pid164618
+title1:Analysis of Design Process Dynamics. citation:8 ncitation:-1 pid164618
+title1:Modeling the Dynamics of Mood and Depression. citation:10 ncitation:9 pid166609
+title1:Modeling the Dynamics of Mood and Depression. citation:10 ncitation:9 pid166609
+title1:Formal Semantics of Temporal Epistemic Reflection. citation:17 ncitation:18 pid486648
+title1:Formal Semantics of Temporal Epistemic Reflection. citation:17 ncitation:18 pid486648
+title1:Trust-Based Inter-temporal Decision Making: Emergence of Altruism in a Simulated Society. citation:9 ncitation:8 pid488854
+title1:Trust-Based Inter-temporal Decision Making: Emergence of Altruism in a Simulated Society. citation:9 ncitation:8 pid488854
+title1:Compositional Design and Reuse of a Generic Agent Model. citation:123 ncitation:117 pid737966
+title1:Compositional Design and Reuse of a Generic Agent Model. citation:123 ncitation:117 pid737966
+title1:Simulation and Analysis of Controlled Multi-Representational Reasoning Processes. citation:2 ncitation:9 pid738490
+title1:Simulation and Analysis of Controlled Multi-Representational Reasoning Processes. citation:2 ncitation:9 pid738490
+title1:Compositional Verification of a Multi-Agent System for One-to-Many Negotiation. citation:9 ncitation:9 pid754804
+title1:Compositional Verification of a Multi-Agent System for One-to-Many Negotiation. citation:9 ncitation:9 pid754804
+title1:Agent-Based Simulation of Animal Behaviour. citation:2 ncitation:8 pid754898
+title1:Agent-Based Simulation of Animal Behaviour. citation:2 ncitation:8 pid754898
+title1:Formal semantics of meta-level architectures: Temporal epistemic reflection. citation:4 ncitation:2 pid910698
+title1:Formal semantics of meta-level architectures: Temporal epistemic reflection. citation:4 ncitation:2 pid910698
+title1:Deliberative Evolution in Multi-Agent Systems. citation:25 ncitation:24 pid920670
+title1:Deliberative Evolution in Multi-Agent Systems. citation:25 ncitation:24 pid920670
+title1:Deliberative Evolution in Multi-Agent Systems. citation:25 ncitation:24 pid920670
+title1:Temporalizing Epistemic Default Logic. citation:2 ncitation:6 pid986931
+title1:Temporalizing Epistemic Default Logic. citation:2 ncitation:6 pid986931
+title1:Temporalizing Epistemic Default Logic. citation:2 ncitation:6 pid986931
+title1:Integration of behavioural requirements specification within compositional knowledge engineering. citation:20 ncitation:19 pid1003841
+title1:Integration of behavioural requirements specification within compositional knowledge engineering. citation:20 ncitation:19 pid1003841
+title1:Comparing a Cognitive and a Neural Model for Relative Trust Dynamics. citation:6 ncitation:5 pid1306473
+title1:Comparing a Cognitive and a Neural Model for Relative Trust Dynamics. citation:6 ncitation:5 pid1306473
+title1:An Adaptive Human-Aware Software Agent Supporting Attention-Demanding Tasks. citation:11 ncitation:8 pid1309180
+title1:An Adaptive Human-Aware Software Agent Supporting Attention-Demanding Tasks. citation:11 ncitation:8 pid1309180
+title1:An Agent Model for Computational Analysis of Mirroring Dysfunctioning in Autism Spectrum Disorders. citation:4 ncitation:3 pid3197710
+title1:An Agent Model for Computational Analysis of Mirroring Dysfunctioning in Autism Spectrum Disorders. citation:4 ncitation:3 pid3197710
+title1:Modelling Joint Decision Making Processes Involving Emotion-Related Valuing and Empathic Understanding. citation:1 ncitation:1 pid3233099
+title1:Modelling Joint Decision Making Processes Involving Emotion-Related Valuing and Empathic Understanding. citation:1 ncitation:1 pid3233099
+title1:Formal Design and Simulation of an Ambient Multi-agent System Model for Medicine Usage Management. citation:9 ncitation:6 pid3509616
+title1:Formal Design and Simulation of an Ambient Multi-agent System Model for Medicine Usage Management. citation:9 ncitation:6 pid3509616
+title1:On Human Aspects in Ambient Intelligence. citation:19 ncitation:15 pid3509650
+title1:On Human Aspects in Ambient Intelligence. citation:19 ncitation:15 pid3509650
+title1:On Human Aspects in Ambient Intelligence. citation:19 ncitation:15 pid3509650
+title1:An ambient agent system assisting humans in complex tasks by analysis of a human's state and performance. citation:1 ncitation:-1 pid3644971
+title1:An ambient agent system assisting humans in complex tasks by analysis of a human's state and performance. citation:1 ncitation:-1 pid3644971

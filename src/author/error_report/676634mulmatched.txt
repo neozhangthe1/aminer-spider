@@ -1,0 +1,25 @@
+title1:Aggregated Multicast - A Comparative Study. citation:54 ncitation:46 pid792914
+title1:Aggregated Multicast - A Comparative Study. citation:54 ncitation:46 pid792914
+title1:Satellite Systems Performance with TCP-IP Applications. citation:16 ncitation:17 pid463661
+title1:Satellite Systems Performance with TCP-IP Applications. citation:16 ncitation:17 pid463661
+title1:TCP Live Experiments on a Real GEO Satellite Testbed. citation:15 ncitation:10 pid433218
+title1:TCP Live Experiments on a Real GEO Satellite Testbed. citation:15 ncitation:10 pid433218
+title1:ATM Rate-Based Congestion Control Using a Smith Predictor. citation:105 ncitation:11 pid1036951
+title1:ATM Rate-Based Congestion Control Using a Smith Predictor. citation:105 ncitation:11 pid1036951
+title1:CapProbe: a simple and accurate capacity estimation technique. citation:246 ncitation:235 pid588715
+title1:CapProbe: a simple and accurate capacity estimation technique. citation:246 ncitation:235 pid588715
+title1:ATM Virtual Private Networks. citation:47 ncitation:46 pid771763
+title1:ATM Virtual Private Networks. citation:47 ncitation:46 pid771763
+title1:ATM Virtual Private Networks. citation:47 ncitation:46 pid771763
+title1:Optimal Routing in Closed Queuing Networks citation:36 ncitation:34 pid1117524
+title1:Optimal Routing in Closed Queuing Networks citation:36 ncitation:34 pid1117524
+title1:TCP bulk repeat. citation:23 ncitation:21 pid802229
+title1:TCP bulk repeat. citation:23 ncitation:21 pid802229
+title1:A Mobility Framework for Ad Hoc Wireless Networks. citation:114 ncitation:106 pid491609
+title1:A Mobility Framework for Ad Hoc Wireless Networks. citation:114 ncitation:106 pid491609
+title1:Fluid-flow analysis of TCP Westwood with RED. citation:24 ncitation:25 pid795997
+title1:Fluid-flow analysis of TCP Westwood with RED. citation:24 ncitation:25 pid795997
+title1:Pressure Routing for Underwater Sensor Networks. citation:59 ncitation:36 pid2801131
+title1:Pressure Routing for Underwater Sensor Networks. citation:59 ncitation:36 pid2801131
+title1:Situation-aware trust architecture for vehicular networks. citation:20 ncitation:15 pid3308870
+title1:Situation-aware trust architecture for vehicular networks. citation:20 ncitation:15 pid3308870

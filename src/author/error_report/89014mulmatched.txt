@@ -1,0 +1,82 @@
+title1:Evolution of Mobile Services: An Analysis of Current Architectures with Prospect to Future. citation:12 ncitation:12 pid74289
+title1:Evolution of Mobile Services: An Analysis of Current Architectures with Prospect to Future. citation:12 ncitation:12 pid74289
+title1:Service-Oriented Architectures and Mobile Services. citation:13 ncitation:13 pid74290
+title1:Service-Oriented Architectures and Mobile Services. citation:13 ncitation:13 pid74290
+title1:Service-Oriented Architectures and Mobile Services. citation:13 ncitation:13 pid74290
+title1:OMNIX: A Topology-Independent P2P Middleware. citation:15 ncitation:15 pid74359
+title1:OMNIX: A Topology-Independent P2P Middleware. citation:15 ncitation:15 pid74359
+title1:Service Oriented Computing: Service Foundations. citation:2 ncitation:-1 pid137160
+title1:Service Oriented Computing: Service Foundations. citation:2 ncitation:-1 pid137160
+title1:VIDRE - A Distributed Service-Oriented Business Rule Engine based on RuleML. citation:56 ncitation:35 pid177605
+title1:VIDRE - A Distributed Service-Oriented Business Rule Engine based on RuleML. citation:56 ncitation:35 pid177605
+title1:Formally Designing Web Services for Mobile Team Collaboration. citation:3 ncitation:3 pid194830
+title1:Formally Designing Web Services for Mobile Team Collaboration. citation:3 ncitation:3 pid194830
+title1:Interorganizational Workflow in the Medical Imaging Domain. citation:10 ncitation:9 pid305665
+title1:Interorganizational Workflow in the Medical Imaging Domain. citation:10 ncitation:9 pid305665
+title1:VieDAME - flexible and robust BPEL processes through monitoring and adaptation. citation:19 ncitation:16 pid363867
+title1:VieDAME - flexible and robust BPEL processes through monitoring and adaptation. citation:19 ncitation:16 pid363867
+title1:Systematic Design of Web Service Transactions. citation:4 ncitation:3 pid627771
+title1:Systematic Design of Web Service Transactions. citation:4 ncitation:3 pid627771
+title1:A Lightweight Model-Driven Orchestration Engine for e-Services. citation:21 ncitation:4 pid627849
+title1:A Lightweight Model-Driven Orchestration Engine for e-Services. citation:21 ncitation:4 pid627849
+title1:Towards Transactional Web Services. citation:16 ncitation:15 pid658824
+title1:Towards Transactional Web Services. citation:16 ncitation:15 pid658824
+title1:Web Service Indexing for Efficient Retrieval and Composition. citation:23 ncitation:22 pid659099
+title1:Web Service Indexing for Efficient Retrieval and Composition. citation:23 ncitation:22 pid659099
+title1:License-Aware Service Selection. citation:3 ncitation:4 pid659123
+title1:License-Aware Service Selection. citation:3 ncitation:4 pid659123
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid659680
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid659680
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid659680
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid659681
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid659681
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid659682
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid659682
+title1:An Analysis of Service Continuity in Mobile Services. citation:12 ncitation:0 pid659814
+title1:An Analysis of Service Continuity in Mobile Services. citation:12 ncitation:0 pid659814
+title1:Service-Oriented Computing: State of the Art and Research Challenges. citation:992 ncitation:857 pid808931
+title1:Service-Oriented Computing: State of the Art and Research Challenges. citation:992 ncitation:857 pid808931
+title1:Peer-to-Peer: Grundlagen und Architektur. citation:26 ncitation:22 pid841173
+title1:Peer-to-Peer: Grundlagen und Architektur. citation:26 ncitation:22 pid841173
+title1:The view-based approach to dynamic inter-organizational workflow cooperation. citation:144 ncitation:139 pid845524
+title1:The view-based approach to dynamic inter-organizational workflow cooperation. citation:144 ncitation:139 pid845524
+title1:Modeling and implementing medical Web services. citation:41 ncitation:41 pid845534
+title1:Modeling and implementing medical Web services. citation:41 ncitation:41 pid845534
+title1:Business process management. citation:13 ncitation:1 pid846475
+title1:Business process management. citation:13 ncitation:1 pid846475
+title1:Business process management. citation:13 ncitation:1 pid846475
+title1:Business process management. citation:13 ncitation:1 pid846475
+title1:Business process management. citation:13 ncitation:1 pid846475
+title1:Business process management. citation:13 ncitation:1 pid846475
+title1:Business process management. citation:13 ncitation:1 pid846475
+title1:Business process management. citation:13 ncitation:1 pid846475
+title1:Guest Editors' Introduction. citation:0 ncitation:-1 pid906309
+title1:Guest Editors' Introduction. citation:0 ncitation:-1 pid906309
+title1:Web services on embedded devices. citation:45 ncitation:38 pid922148
+title1:Web services on embedded devices. citation:45 ncitation:38 pid922148
+title1:An analysis of current mobile services and enabling technologies. citation:15 ncitation:14 pid1169855
+title1:An analysis of current mobile services and enabling technologies. citation:15 ncitation:14 pid1169855
+title1:A survey on context-aware systems. citation:1227 ncitation:1111 pid1169880
+title1:A survey on context-aware systems. citation:1227 ncitation:1111 pid1169880
+title1:Software Engineering for Self-Adaptive Systems: A Research Roadmap. citation:477 ncitation:401 pid1206696
+title1:Software Engineering for Self-Adaptive Systems: A Research Roadmap. citation:477 ncitation:401 pid1206696
+title1:DMC-Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid1215147
+title1:DMC-Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid1215147
+title1:DMC 2009 Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid1215170
+title1:DMC 2009 Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid1215170
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Business Process Management Workshops, BPM 2006 International Workshops, BPD, BPI, ENEI, GPWW, DPM, semantics4ws, Vienna, Austria, September 4-7, 2006, Proceedings citation:3 ncitation:-1 pid2777597
+title1:Business Process Management Workshops, BPM 2006 International Workshops, BPD, BPI, ENEI, GPWW, DPM, semantics4ws, Vienna, Austria, September 4-7, 2006, Proceedings citation:3 ncitation:-1 pid2777597
+title1:Modeling and mining of dynamic trust in complex service-oriented systems. citation:73 ncitation:49 pid2862215
+title1:Modeling and mining of dynamic trust in complex service-oriented systems. citation:73 ncitation:49 pid2862215
+title1:End-to-End Support for QoS-Aware Service Selection, Binding, and Mediation in VRESCo. citation:62 ncitation:44 pid2883718
+title1:End-to-End Support for QoS-Aware Service Selection, Binding, and Mediation in VRESCo. citation:62 ncitation:44 pid2883718
+title1:Principles of Elastic Processes. citation:30 ncitation:11 pid3155284
+title1:Principles of Elastic Processes. citation:30 ncitation:11 pid3155284
+title1:Programming Hybrid Services in the Cloud. citation:7 ncitation:2 pid3568691
+title1:Programming Hybrid Services in the Cloud. citation:7 ncitation:2 pid3568691

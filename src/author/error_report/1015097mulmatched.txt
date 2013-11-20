@@ -1,0 +1,42 @@
+title1:A Reproducible Benchmark for P2P Retrieval. citation:34 ncitation:30 pid200998
+title1:A Reproducible Benchmark for P2P Retrieval. citation:34 ncitation:30 pid200998
+title1:Time-Aware Authority Ranking. citation:41 ncitation:22 pid1168313
+title1:Time-Aware Authority Ranking. citation:41 ncitation:22 pid1168313
+title1:Scheduling Strategies for Mixed Workloads in Multimedia Information Servers. citation:21 ncitation:20 pid559973
+title1:Scheduling Strategies for Mixed Workloads in Multimedia Information Servers. citation:21 ncitation:20 pid559973
+title1:Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery citation:601 ncitation:552 pid2291
+title1:Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery citation:601 ncitation:552 pid2291
+title1:The LHAM Log-Structured History Data Access Method. citation:47 ncitation:40 pid1138225
+title1:The LHAM Log-Structured History Data Access Method. citation:47 ncitation:40 pid1138225
+title1:Datenbanksysteme. citation:0 ncitation:-1 pid138527
+title1:Datenbanksysteme. citation:0 ncitation:-1 pid138527
+title1:Datenbanksysteme. citation:0 ncitation:-1 pid138527
+title1:Datenbanksysteme. citation:0 ncitation:-1 pid138527
+title1:Datenbanksysteme. citation:0 ncitation:-1 pid138527
+title1:Towards Collaborative Search in Digital Libraries Using Peer-to-Peer Technology. citation:9 ncitation:12 pid148491
+title1:Towards Collaborative Search in Digital Libraries Using Peer-to-Peer Technology. citation:9 ncitation:12 pid148491
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:The LRU-K Page Replacement Algorithm For Database Disk Buffering. citation:748 ncitation:705 pid599443
+title1:The LRU-K Page Replacement Algorithm For Database Disk Buffering. citation:748 ncitation:705 pid599443
+title1:Stochastic Service Guarantees for Continuous Data on Multi-Zone Disks. citation:47 ncitation:48 pid545324
+title1:Stochastic Service Guarantees for Continuous Data on Multi-Zone Disks. citation:47 ncitation:48 pid545324
+title1:IQN Routing: Integrating Quality and Novelty in P2P Querying and Ranking. citation:1 ncitation:34 pid176500
+title1:IQN Routing: Integrating Quality and Novelty in P2P Querying and Ranking. citation:1 ncitation:34 pid176500
+title1:Guest Editorial Introduction to the Special Section on the 16th International Conference on Data Engineering. citation:0 ncitation:0 pid1113116
+title1:Guest Editorial Introduction to the Special Section on the 16th International Conference on Data Engineering. citation:0 ncitation:0 pid1113116
+title1:Bridging the Terminology Gap in Web Archive Search. citation:16 ncitation:12 pid1257152
+title1:Bridging the Terminology Gap in Web Archive Search. citation:16 ncitation:12 pid1257152
+title1:A Comparative Study of Pub/Sub Methods in Structured P2P Networks. citation:7 ncitation:6 pid144960
+title1:A Comparative Study of Pub/Sub Methods in Structured P2P Networks. citation:7 ncitation:6 pid144960
+title1:Database Selection and Result Merging in P2P Web Search. citation:0 ncitation:14 pid144988
+title1:Database Selection and Result Merging in P2P Web Search. citation:0 ncitation:14 pid144988
+title1:Reminiscences on Influential Papers. citation:0 ncitation:-1 pid1065529
+title1:Reminiscences on Influential Papers. citation:0 ncitation:-1 pid1065529
+title1:NAGA: Searching and Ranking Knowledge. citation:152 ncitation:154 pid301914
+title1:NAGA: Searching and Ranking Knowledge. citation:152 ncitation:154 pid301914
+title1:A time machine for text search. citation:73 ncitation:64 pid596105
+title1:A time machine for text search. citation:73 ncitation:64 pid596105

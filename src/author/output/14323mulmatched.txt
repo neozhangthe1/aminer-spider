@@ -1,0 +1,6 @@
+title1:Cut as a Querying Unit for WWW, Netnews, e-mail. citation:65 ncitation:65 pid256565
+title1:Cut as a Querying Unit for WWW, Netnews, e-mail. citation:65 ncitation:65 pid256565
+title1:Summarization and Presentation for Web Documents using Context Paths. citation:1 ncitation:1 pid434542
+title1:Summarization and Presentation for Web Documents using Context Paths. citation:1 ncitation:1 pid434542
+title1:Joint WICOW/AIRWeb workshop on web quality (WebQuality 2011). citation:1 ncitation:-1 pid3029876
+title1:Joint WICOW/AIRWeb workshop on web quality (WebQuality 2011). citation:1 ncitation:-1 pid3029876

@@ -1,0 +1,21 @@
+title1:Semantic Sensor Net: An Extensible Framework. citation:25 ncitation:22 pid289734
+title1:Semantic Sensor Net: An Extensible Framework. citation:25 ncitation:22 pid289734
+title1:Mining Optimal Actions for Profitable CRM. citation:29 ncitation:28 pid302778
+title1:Mining Optimal Actions for Profitable CRM. citation:29 ncitation:28 pid302778
+title1:Mining Optimal Actions for Profitable CRM. citation:29 ncitation:28 pid302778
+title1:Co-Localization from Labeled and Unlabeled Data Using Graph Laplacian. citation:16 ncitation:13 pid391815
+title1:Co-Localization from Labeled and Unlabeled Data Using Graph Laplacian. citation:16 ncitation:13 pid391815
+title1:LEAPS: A Location Estimation and Action Prediction System in a Wireless LAN Environment. citation:4 ncitation:5 pid519945
+title1:LEAPS: A Location Estimation and Action Prediction System in a Wireless LAN Environment. citation:4 ncitation:5 pid519945
+title1:Fuzzy Cognitive Agents for Personalized Recommendation. citation:16 ncitation:15 pid663813
+title1:Fuzzy Cognitive Agents for Personalized Recommendation. citation:16 ncitation:15 pid663813
+title1:Discovering Classification from Data of Multiple Sources. citation:9 ncitation:9 pid839551
+title1:Discovering Classification from Data of Multiple Sources. citation:9 ncitation:9 pid839551
+title1:Extracting Actionable Knowledge from Decision Trees. citation:47 ncitation:47 pid1113999
+title1:Extracting Actionable Knowledge from Decision Trees. citation:47 ncitation:47 pid1113999
+title1:Cross-domain activity recognition. citation:45 ncitation:35 pid1244669
+title1:Cross-domain activity recognition. citation:45 ncitation:35 pid1244669
+title1:Social Learning. citation:5 ncitation:2 pid2968348
+title1:Social Learning. citation:5 ncitation:2 pid2968348
+title1:A Mouse-Trajectory Based Model for Predicting Query-URL Relevance. citation:0 ncitation:-1 pid3528993
+title1:A Mouse-Trajectory Based Model for Predicting Query-URL Relevance. citation:0 ncitation:-1 pid3528993

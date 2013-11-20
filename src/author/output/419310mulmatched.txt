@@ -1,0 +1,75 @@
+title1:A Riemannian Framework for Tensor Computing. citation:521 ncitation:472 pid907993
+title1:A Riemannian Framework for Tensor Computing. citation:521 ncitation:472 pid907993
+title1:Generalized Image Models and Their Application as Statistical Models of Images. citation:8 ncitation:9 pid496692
+title1:Generalized Image Models and Their Application as Statistical Models of Images. citation:8 ncitation:9 pid496692
+title1:Generalized Image Models and Their Application as Statistical Models of Images. citation:8 ncitation:9 pid496692
+title1:A hybrid elastic model for real-time cutting, deformations, and force feedback for surgery training and simulation. citation:410 ncitation:398 pid1136371
+title1:A hybrid elastic model for real-time cutting, deformations, and force feedback for surgery training and simulation. citation:410 ncitation:398 pid1136371
+title1:Dense Non-Rigid Motion Estimation in Sequences of Medical Images Using Differential Constraints. citation:28 ncitation:34 pid908519
+title1:Dense Non-Rigid Motion Estimation in Sequences of Medical Images Using Differential Constraints. citation:28 ncitation:34 pid908519
+title1:Using Uncertainty to Link 3D Edge Detection and Local Surface Modelling. citation:9 ncitation:10 pid407354
+title1:Using Uncertainty to Link 3D Edge Detection and Local Surface Modelling. citation:9 ncitation:10 pid407354
+title1:Tracking brain deformations in time sequences of 3D US images. citation:64 ncitation:58 pid1045525
+title1:Tracking brain deformations in time sequences of 3D US images. citation:64 ncitation:58 pid1045525
+title1:Three-Dimensional Multimodal Brain Warping using the Demons Algorithm and Adaptive Intensity Corrections. citation:191 ncitation:180 pid1114982
+title1:Three-Dimensional Multimodal Brain Warping using the Demons Algorithm and Adaptive Intensity Corrections. citation:191 ncitation:180 pid1114982
+title1:Sparse Approximation of Currents for Statistics on Curves and Surfaces. citation:26 ncitation:24 pid498932
+title1:Sparse Approximation of Currents for Statistics on Curves and Surfaces. citation:26 ncitation:24 pid498932
+title1:Polyrigid and Polyaffine Transformations: A New Class of Diffeomorphisms for Locally Rigid or Affine Registration. citation:34 ncitation:33 pid496792
+title1:Polyrigid and Polyaffine Transformations: A New Class of Diffeomorphisms for Locally Rigid or Affine Registration. citation:34 ncitation:33 pid496792
+title1:Retrospective Evaluation of Inter-subject Brain Registration. citation:196 ncitation:178 pid497325
+title1:Retrospective Evaluation of Inter-subject Brain Registration. citation:196 ncitation:178 pid497325
+title1:An Augmented Reality & Virtuality Interface for a Puncture Guidance System: Design and Validation on an Abdominal Phantom. citation:10 ncitation:10 pid495823
+title1:An Augmented Reality & Virtuality Interface for a Puncture Guidance System: Design and Validation on an Abdominal Phantom. citation:10 ncitation:10 pid495823
+title1:A new evaluation of the brain parenchymal fraction: Application in multiple sclerosis longitudinal studies. citation:2 ncitation:2 pid417888
+title1:A new evaluation of the brain parenchymal fraction: Application in multiple sclerosis longitudinal studies. citation:2 ncitation:2 pid417888
+title1:New methods and algorithms for the accurate, real-time motion analysis of the left ventricle with MRI-tagging. citation:4 ncitation:4 pid75795
+title1:New methods and algorithms for the accurate, real-time motion analysis of the left ventricle with MRI-tagging. citation:4 ncitation:4 pid75795
+title1:Real Time Volumetric Deformable Models for Surgery Simulation. citation:100 ncitation:93 pid637066
+title1:Real Time Volumetric Deformable Models for Surgery Simulation. citation:100 ncitation:93 pid637066
+title1:Automatic Retrieval of Anatomical Structures in 3D Medical Images. citation:104 ncitation:99 pid130793
+title1:Automatic Retrieval of Anatomical Structures in 3D Medical Images. citation:104 ncitation:99 pid130793
+title1:Bias Field Correction of Breast MR Images. citation:37 ncitation:36 pid637075
+title1:Bias Field Correction of Breast MR Images. citation:37 ncitation:36 pid637075
+title1:Hepatic surgery simulation. citation:199 ncitation:45 pid771186
+title1:Hepatic surgery simulation. citation:199 ncitation:45 pid771186
+title1:Hepatic surgery simulation. citation:199 ncitation:45 pid771186
+title1:Grid Enabled Non-rigid Registration with a Dense Transformation and a priori Information. citation:6 ncitation:7 pid498166
+title1:Grid Enabled Non-rigid Registration with a Dense Transformation and a priori Information. citation:6 ncitation:7 pid498166
+title1:Reconstruction of coronary arteries from a single rotational X-ray projection sequence. citation:112 ncitation:92 pid1114625
+title1:Reconstruction of coronary arteries from a single rotational X-ray projection sequence. citation:112 ncitation:92 pid1114625
+title1:An efficient locally affine framework for the registration of anatomical structures. citation:37 ncitation:10 pid417289
+title1:An efficient locally affine framework for the registration of anatomical structures. citation:37 ncitation:10 pid417289
+title1:Incorporating Statistical Measures of Anatomical Variability in Atlas-to-Subject Registration for Conformal Brain Radiotherapy. citation:43 ncitation:41 pid497012
+title1:Incorporating Statistical Measures of Anatomical Variability in Atlas-to-Subject Registration for Conformal Brain Radiotherapy. citation:43 ncitation:41 pid497012
+title1:Towards Model-Based Estimation of the Cardiac Electro-Mechanical Activity from ECG Signals and Ultrasound Images. citation:32 ncitation:31 pid206253
+title1:Towards Model-Based Estimation of the Cardiac Electro-Mechanical Activity from ECG Signals and Ultrasound Images. citation:32 ncitation:31 pid206253
+title1:Medical computer vision, virtual reality and robotics. citation:125 ncitation:115 pid946018
+title1:Medical computer vision, virtual reality and robotics. citation:125 ncitation:115 pid946018
+title1:Cardiosense3d: Patient-Specific Cardiac Simulation. citation:3 ncitation:3 pid418060
+title1:Cardiosense3d: Patient-Specific Cardiac Simulation. citation:3 ncitation:3 pid418060
+title1:A Fast and Log-Euclidean Polyaffine Framework for Locally Linear Registration. citation:39 ncitation:29 pid1339053
+title1:A Fast and Log-Euclidean Polyaffine Framework for Locally Linear Registration. citation:39 ncitation:29 pid1339053
+title1:A Fast and Log-Euclidean Polyaffine Framework for Locally Linear Registration. citation:39 ncitation:29 pid1339053
+title1:Expert Knowledge Guided Segmentation System for Brain MRI. citation:95 ncitation:92 pid497930
+title1:Expert Knowledge Guided Segmentation System for Brain MRI. citation:95 ncitation:92 pid497930
+title1:Maximum Likelihood Estimation of the Bias Field in MR Brain Images: Investigating Different Modelings of the Imaging Process. citation:52 ncitation:45 pid497957
+title1:Maximum Likelihood Estimation of the Bias Field in MR Brain Images: Investigating Different Modelings of the Imaging Process. citation:52 ncitation:45 pid497957
+title1:Spatial Decision Forests for MS Lesion Segmentation in Multi-Channel MR Images. citation:45 ncitation:22 pid2905423
+title1:Spatial Decision Forests for MS Lesion Segmentation in Multi-Channel MR Images. citation:45 ncitation:22 pid2905423
+title1:A multi-front eikonal model of cardiac electrophysiology for interactive simulation of radio-frequency ablation. citation:8 ncitation:6 pid3062658
+title1:A multi-front eikonal model of cardiac electrophysiology for interactive simulation of radio-frequency ablation. citation:8 ncitation:6 pid3062658
+title1:HYPER: A New Approach for the Recognition and Positioning of Two-Dimensional Objects. citation:582 ncitation:575 pid3077387
+title1:HYPER: A New Approach for the Recognition and Positioning of Two-Dimensional Objects. citation:582 ncitation:575 pid3077387
+title1:Editorial. citation:0 ncitation:-1 pid3097886
+title1:Editorial. citation:0 ncitation:-1 pid3097886
+title1:Robust mosaicing with correction of motion distortions and tissue deformations for in vivo fibered microscopy. citation:78 ncitation:63 pid3098011
+title1:Robust mosaicing with correction of motion distortions and tissue deformations for in vivo fibered microscopy. citation:78 ncitation:63 pid3098011
+title1:Generalized image models and their application as statistical models of images. citation:8 ncitation:9 pid3098112
+title1:Generalized image models and their application as statistical models of images. citation:8 ncitation:9 pid3098112
+title1:Reviewers - an acknowledgement. citation:0 ncitation:0 pid3098114
+title1:Reviewers - an acknowledgement. citation:0 ncitation:0 pid3098114
+title1:Mapping the Effects of A? 1 - 42 Levels on the Longitudinal Changes in Healthy Aging: Hierarchical Modeling Based on Stationary Velocity Fields. citation:9 ncitation:4 pid3223971
+title1:Mapping the Effects of A? 1 - 42 Levels on the Longitudinal Changes in Healthy Aging: Hierarchical Modeling Based on Stationary Velocity Fields. citation:9 ncitation:4 pid3223971
+title1:Certified Complexity. citation:3 ncitation:2 pid3367238
+title1:Certified Complexity. citation:3 ncitation:2 pid3367238

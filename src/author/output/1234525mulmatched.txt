@@ -1,0 +1,72 @@
+title1:Near-Capacity Turbo Trellis Coded Modulation Design. citation:17 ncitation:2 pid687580
+title1:Near-Capacity Turbo Trellis Coded Modulation Design. citation:17 ncitation:2 pid687580
+title1:Turbo-coded adaptive modulation versus space-time trellis codes for transmission over dispersive channels. citation:3 ncitation:3 pid1177381
+title1:Turbo-coded adaptive modulation versus space-time trellis codes for transmission over dispersive channels. citation:3 ncitation:3 pid1177381
+title1:Turbo-coded adaptive modulation versus space-time trellis codes for transmission over dispersive channels. citation:3 ncitation:3 pid1177381
+title1:Joint Maximum Likelihood Channel Estimation and Data Detection for MIMO Systems. citation:35 ncitation:13 pid277320
+title1:Joint Maximum Likelihood Channel Estimation and Data Detection for MIMO Systems. citation:35 ncitation:13 pid277320
+title1:Joint Maximum Likelihood Channel Estimation and Data Detection for MIMO Systems. citation:35 ncitation:13 pid277320
+title1:Joint Maximum Likelihood Channel Estimation and Data Detection for MIMO Systems. citation:35 ncitation:13 pid277320
+title1:Iteratively Decoded Variable Length Space-Time Coded Modulation: Code Construction and Convergence Analysis. citation:21 ncitation:20 pid1175778
+title1:Iteratively Decoded Variable Length Space-Time Coded Modulation: Code Construction and Convergence Analysis. citation:21 ncitation:20 pid1175778
+title1:Iteratively Decoded Variable Length Space-Time Coded Modulation: Code Construction and Convergence Analysis. citation:21 ncitation:20 pid1175778
+title1:Adaptive minimum bit-error rate beamforming. citation:95 ncitation:91 pid1176754
+title1:Adaptive minimum bit-error rate beamforming. citation:95 ncitation:91 pid1176754
+title1:Adaptive minimum bit-error rate beamforming. citation:95 ncitation:91 pid1176754
+title1:Adaptive minimum bit-error rate beamforming. citation:95 ncitation:91 pid1176754
+title1:MBER Space-Time Decision Feedback Equalization Assisted Multiuser Detection for Multiple Antenna Aided SDMA Systems. citation:29 ncitation:21 pid1284762
+title1:MBER Space-Time Decision Feedback Equalization Assisted Multiuser Detection for Multiple Antenna Aided SDMA Systems. citation:29 ncitation:21 pid1284762
+title1:Iterative Detection of Three-Stage Concatenated FFH-MFSK. citation:0 ncitation:-1 pid734972
+title1:Iterative Detection of Three-Stage Concatenated FFH-MFSK. citation:0 ncitation:-1 pid734972
+title1:Systematic redundant residue number system codes: analytical upper bound and iterative decoding performance over AWGN and Rayleigh channels. citation:9 ncitation:6 pid1087551
+title1:Systematic redundant residue number system codes: analytical upper bound and iterative decoding performance over AWGN and Rayleigh channels. citation:9 ncitation:6 pid1087551
+title1:Adaptive near minimum error rate training for neural networks with application to multiuser detection in CDMA communication systems. citation:17 ncitation:15 pid1150753
+title1:Adaptive near minimum error rate training for neural networks with application to multiuser detection in CDMA communication systems. citation:17 ncitation:15 pid1150753
+title1:Reduced-Complexity Near-Maximum-Likelihood Detection for Decision Feedback Assisted Space-Time Equalization. citation:5 ncitation:6 pid1176083
+title1:Reduced-Complexity Near-Maximum-Likelihood Detection for Decision Feedback Assisted Space-Time Equalization. citation:5 ncitation:6 pid1176083
+title1:Reduced-Complexity Near-Maximum-Likelihood Detection for Decision Feedback Assisted Space-Time Equalization. citation:5 ncitation:6 pid1176083
+title1:H.264 Wireless Video Telephony Using Iteratively-Detected Binary Self-Concatenated Coding. citation:0 ncitation:-1 pid2822691
+title1:H.264 Wireless Video Telephony Using Iteratively-Detected Binary Self-Concatenated Coding. citation:0 ncitation:-1 pid2822691
+title1:Exploiting Redundancy in Iterative H.264 Joint Source and Channel Decoding For Robust Video Transmission. citation:0 ncitation:0 pid2822755
+title1:Exploiting Redundancy in Iterative H.264 Joint Source and Channel Decoding For Robust Video Transmission. citation:0 ncitation:0 pid2822755
+title1:Distributed Convolutional-Coded Differential Space-Time Block Coding. citation:2 ncitation:-1 pid2823160
+title1:Distributed Convolutional-Coded Differential Space-Time Block Coding. citation:2 ncitation:-1 pid2823160
+title1:The Resource-Optimized Differentially Modulated Hybrid AF/DF Cooperative Cellular Uplink. citation:16 ncitation:0 pid2826393
+title1:The Resource-Optimized Differentially Modulated Hybrid AF/DF Cooperative Cellular Uplink. citation:16 ncitation:0 pid2826393
+title1:Layered steered space-time codes using multi-dimensional sphere packing modulation. citation:7 ncitation:5 pid2877124
+title1:Layered steered space-time codes using multi-dimensional sphere packing modulation. citation:7 ncitation:5 pid2877124
+title1:Layered steered space-time codes using multi-dimensional sphere packing modulation. citation:7 ncitation:5 pid2877124
+title1:Joint Channel Impulse Response and Noise-Variance Estimation for OFDM/SDMA Systems Based on Expectation Maximization. citation:5 ncitation:-1 pid2909230
+title1:Joint Channel Impulse Response and Noise-Variance Estimation for OFDM/SDMA Systems Based on Expectation Maximization. citation:5 ncitation:-1 pid2909230
+title1:Nonlinear Multiantenna Detection Methods. citation:12 ncitation:11 pid3106923
+title1:Nonlinear Multiantenna Detection Methods. citation:12 ncitation:11 pid3106923
+title1:Unified Bit-based Probabilistic Data Association aided MIMO detection for high-order QAM. citation:12 ncitation:0 pid3192247
+title1:Unified Bit-based Probabilistic Data Association aided MIMO detection for high-order QAM. citation:12 ncitation:0 pid3192247
+title1:Multiplexed Hybrid ARQ for Energy Efficient Transmissions under Delay Constraints. citation:0 ncitation:-1 pid3206892
+title1:Multiplexed Hybrid ARQ for Energy Efficient Transmissions under Delay Constraints. citation:0 ncitation:-1 pid3206892
+title1:Reduced complexity in-phase/quadrature-phase M-QAM turbo equalization using iterative channel estimation. citation:26 ncitation:29 pid3246210
+title1:Reduced complexity in-phase/quadrature-phase M-QAM turbo equalization using iterative channel estimation. citation:26 ncitation:29 pid3246210
+title1:Adaptive minimum symbol-error-rate decision feedback equalization for multilevel pulse-amplitude modulation. citation:32 ncitation:29 pid3254780
+title1:Adaptive minimum symbol-error-rate decision feedback equalization for multilevel pulse-amplitude modulation. citation:32 ncitation:29 pid3254780
+title1:Orthogonal frequency-division multiplex transmission of H.263 encoded video over highly frequency-selective wireless networks. citation:19 ncitation:20 pid3268867
+title1:Orthogonal frequency-division multiplex transmission of H.263 encoded video over highly frequency-selective wireless networks. citation:19 ncitation:20 pid3268867
+title1:Near-Capacity Turbo Coded Soft-Decision Aided DAPSK/Star-QAM. citation:3 ncitation:1 pid3304806
+title1:Near-Capacity Turbo Coded Soft-Decision Aided DAPSK/Star-QAM. citation:3 ncitation:1 pid3304806
+title1:Decision-feedback equalization using multiple-hyperplane partitioning for detecting ISI-corrupted M-ary PAM signals. citation:10 ncitation:9 pid3306444
+title1:Decision-feedback equalization using multiple-hyperplane partitioning for detecting ISI-corrupted M-ary PAM signals. citation:10 ncitation:9 pid3306444
+title1:Burst-by-burst adaptive turbo-coded radial basis function-assisted decision feedback equalization. citation:11 ncitation:9 pid3306655
+title1:Burst-by-burst adaptive turbo-coded radial basis function-assisted decision feedback equalization. citation:11 ncitation:9 pid3306655
+title1:Reduced-Complexity Soft-Decision Aided Space-Time Shift Keying. citation:6 ncitation:3 pid3308214
+title1:Reduced-Complexity Soft-Decision Aided Space-Time Shift Keying. citation:6 ncitation:3 pid3308214
+title1:M-ary coded modulation assisted genetic algorithm based multiuser detection for CDMA systems. citation:9 ncitation:8 pid3566401
+title1:M-ary coded modulation assisted genetic algorithm based multiuser detection for CDMA systems. citation:9 ncitation:8 pid3566401
+title1:Performance of wideband CDMA using adaptive space-time spreading over multipath Nakagami fading channels. citation:1 ncitation:1 pid3583629
+title1:Performance of wideband CDMA using adaptive space-time spreading over multipath Nakagami fading channels. citation:1 ncitation:1 pid3583629
+title1:Coalition Network Elements for Base Station Cooperation. citation:1 ncitation:-1 pid3607207
+title1:Coalition Network Elements for Base Station Cooperation. citation:1 ncitation:-1 pid3607207
+title1:Performance Analysis of Multihop-Diversity-Aided Multihop Links. citation:9 ncitation:None pid3609400
+title1:Performance Analysis of Multihop-Diversity-Aided Multihop Links. citation:9 ncitation:None pid3609400
+title1:Reduced complexity in-phase/quadrature-phase turbo equalisation using iterative channel estimation. citation:8 ncitation:None pid3672261
+title1:Reduced complexity in-phase/quadrature-phase turbo equalisation using iterative channel estimation. citation:8 ncitation:None pid3672261
+title1:Genetic algorithm assisted multiuser detection in asynchronous CDMA communications. citation:49 ncitation:None pid3672996
+title1:Genetic algorithm assisted multiuser detection in asynchronous CDMA communications. citation:49 ncitation:None pid3672996

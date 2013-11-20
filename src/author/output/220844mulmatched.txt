@@ -1,0 +1,43 @@
+title1:Extending understanding of federal statistics in tables. citation:17 ncitation:17 pid154958
+title1:Extending understanding of federal statistics in tables. citation:17 ncitation:17 pid154958
+title1:Universal usability as a stimulus to advanced interface design. citation:52 ncitation:45 pid1187034
+title1:Universal usability as a stimulus to advanced interface design. citation:52 ncitation:45 pid1187034
+title1:Query Previews in Networked Information Systems. citation:15 ncitation:68 pid27209
+title1:Query Previews in Networked Information Systems. citation:15 ncitation:68 pid27209
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:Universal Usability. citation:24 ncitation:518 pid775921
+title1:The limits of speech recognition. citation:182 ncitation:170 pid775923
+title1:The limits of speech recognition. citation:182 ncitation:170 pid775923
+title1:Creativity support tools. citation:27 ncitation:116 pid775929
+title1:Creativity support tools. citation:27 ncitation:116 pid775929
+title1:Creativity support tools. citation:27 ncitation:116 pid775929
+title1:Creativity support tools. citation:27 ncitation:116 pid775929
+title1:Creativity support tools. citation:27 ncitation:116 pid775929
+title1:Creativity support tools. citation:27 ncitation:116 pid775929
+title1:Finding Facts vs. Browsing Knowledge in Hypertext Systems. citation:559 ncitation:524 pid807341
+title1:Finding Facts vs. Browsing Knowledge in Hypertext Systems. citation:559 ncitation:524 pid807341
+title1:Inventing discovery tools: combining information visualization with data mining? citation:123 ncitation:114 pid947838
+title1:Inventing discovery tools: combining information visualization with data mining? citation:123 ncitation:114 pid947838
+title1:Improving Accessibility and Usability of Geo-referenced Statistical Data. citation:4 ncitation:4 pid154839
+title1:Improving Accessibility and Usability of Geo-referenced Statistical Data. citation:4 ncitation:4 pid154839
+title1:Snap-Together Visualization: A User Interface for Coodinating Visualizations via Relational Schemata. citation:229 ncitation:207 pid61128
+title1:Snap-Together Visualization: A User Interface for Coodinating Visualizations via Relational Schemata. citation:229 ncitation:207 pid61128
+title1:Dynamic Layout Management in a Multimedia Bulletin Board. citation:4 ncitation:4 pid239544
+title1:Dynamic Layout Management in a Multimedia Bulletin Board. citation:4 ncitation:4 pid239544
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:0 ncitation:544 pid95890
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:0 ncitation:544 pid95890
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:0 ncitation:544 pid95890
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:0 ncitation:544 pid95890
+title1:Incremental data Structures and Algorithms for Dynamic Query Interfaces. citation:21 ncitation:40 pid1065723
+title1:Incremental data Structures and Algorithms for Dynamic Query Interfaces. citation:21 ncitation:40 pid1065723
+title1:Design and Evaluation of Incremental Data Structures and Algorithms for Dynamic Query Interfaces. citation:0 ncitation:19 pid404851
+title1:Design and Evaluation of Incremental Data Structures and Algorithms for Dynamic Query Interfaces. citation:0 ncitation:19 pid404851
+title1:Analyzing (social media) networks with NodeXL. citation:193 ncitation:124 pid2842734
+title1:Analyzing (social media) networks with NodeXL. citation:193 ncitation:124 pid2842734

@@ -1,0 +1,7 @@
+title1:Mobility-based anomaly detection in cellular mobile networks. citation:45 ncitation:41 pid667398
+title1:Mobility-based anomaly detection in cellular mobile networks. citation:45 ncitation:41 pid667398
+title1:A Pseudo-Bayesian ALOHA Algorithm with Mixed Priorities. citation:0 ncitation:12 pid1141160
+title1:A Pseudo-Bayesian ALOHA Algorithm with Mixed Priorities. citation:0 ncitation:12 pid1141160
+title1:A Pseudo-Bayesian ALOHA Algorithm with Mixed Priorities. citation:0 ncitation:12 pid1141160
+title1:Body Area Networks: A Survey. citation:277 ncitation:167 pid3075822
+title1:Body Area Networks: A Survey. citation:277 ncitation:167 pid3075822

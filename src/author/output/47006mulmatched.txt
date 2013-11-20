@@ -1,0 +1,10 @@
+title1:Analysis of Stiff Markov Chains. citation:174 ncitation:13 pid1275547
+title1:Analysis of Stiff Markov Chains. citation:174 ncitation:13 pid1275547
+title1:Markov Regenerative Stochastic Petri Nets. citation:267 ncitation:257 pid1036564
+title1:Markov Regenerative Stochastic Petri Nets. citation:267 ncitation:257 pid1036564
+title1:A Decomposition Approach for Stochastic Reward Net Models. citation:266 ncitation:311 pid1036581
+title1:A Decomposition Approach for Stochastic Reward Net Models. citation:266 ncitation:311 pid1036581
+title1:Numerical transient analysis of markov models. citation:239 ncitation:218 pid813878
+title1:Numerical transient analysis of markov models. citation:239 ncitation:218 pid813878
+title1:Dependability and Performability Analysis. citation:52 ncitation:48 pid597694
+title1:Dependability and Performability Analysis. citation:52 ncitation:48 pid597694

@@ -1,0 +1,6 @@
+title1:A Unified Framework for Design Validation and Manufacturing Test. citation:0 ncitation:47 pid455312
+title1:A Unified Framework for Design Validation and Manufacturing Test. citation:0 ncitation:47 pid455312
+title1:VIPER: An Efficient Vigorously Sensitizable Path Extractor. citation:0 ncitation:47 pid131663
+title1:VIPER: An Efficient Vigorously Sensitizable Path Extractor. citation:0 ncitation:47 pid131663
+title1:Probabilistic Design Verification. citation:47 ncitation:49 pid282351
+title1:Probabilistic Design Verification. citation:47 ncitation:49 pid282351

@@ -1,0 +1,85 @@
+title1:Fixed point analysis of single cell IEEE 802.11e WLANs: uniqueness and multistability. citation:31 ncitation:28 pid1123195
+title1:Fixed point analysis of single cell IEEE 802.11e WLANs: uniqueness and multistability. citation:31 ncitation:28 pid1123195
+title1:Stability-Throughput Tradeoff and Routing in Multi-hop Wireless Ad-Hoc Networks. citation:14 ncitation:13 pid513198
+title1:Stability-Throughput Tradeoff and Routing in Multi-hop Wireless Ad-Hoc Networks. citation:14 ncitation:13 pid513198
+title1:Analysis of Scalable TCP. citation:19 ncitation:10 pid255943
+title1:Analysis of Scalable TCP. citation:19 ncitation:10 pid255943
+title1:Analysis of Scalable TCP. citation:19 ncitation:10 pid255943
+title1:Analysis of Scalable TCP. citation:19 ncitation:10 pid255943
+title1:Bounds for performance measures of token rings. citation:10 ncitation:10 pid1121933
+title1:Bounds for performance measures of token rings. citation:10 ncitation:10 pid1121933
+title1:Bandwidth tradeoff between TCP and link-level FEC. citation:118 ncitation:117 pid793387
+title1:Bandwidth tradeoff between TCP and link-level FEC. citation:118 ncitation:117 pid793387
+title1:Competitive Routing in Networks with Polynomial Cost. citation:186 ncitation:173 pid399807
+title1:Competitive Routing in Networks with Polynomial Cost. citation:186 ncitation:173 pid399807
+title1:Constrained Cost-Coupled Stochastic Games with Independent State Processes citation:21 ncitation:19 pid820096
+title1:Constrained Cost-Coupled Stochastic Games with Independent State Processes citation:21 ncitation:19 pid820096
+title1:The Role of Information Update in Flow Control. citation:5 ncitation:5 pid1088493
+title1:The Role of Information Update in Flow Control. citation:5 ncitation:5 pid1088493
+title1:Closed-Loop Control with Delayed Information. citation:42 ncitation:43 pid596868
+title1:Closed-Loop Control with Delayed Information. citation:42 ncitation:43 pid596868
+title1:Guest Editorial. citation:5 ncitation:-1 pid1099360
+title1:Guest Editorial. citation:5 ncitation:-1 pid1099360
+title1:Guest Editorial. citation:5 ncitation:-1 pid1099360
+title1:Guest Editorial. citation:5 ncitation:-1 pid1099360
+title1:Capacity of Multiservice WCDMA Networks with Variable GoS. citation:24 ncitation:24 pid1141230
+title1:Capacity of Multiservice WCDMA Networks with Variable GoS. citation:24 ncitation:24 pid1141230
+title1:Guest Editorial. citation:5 ncitation:-1 pid1164833
+title1:Guest Editorial. citation:5 ncitation:-1 pid1164833
+title1:Admission and GoS control in a multiservice WCDMA system. citation:8 ncitation:7 pid796115
+title1:Admission and GoS control in a multiservice WCDMA system. citation:8 ncitation:7 pid796115
+title1:Admission and GoS control in a multiservice WCDMA system. citation:8 ncitation:7 pid796115
+title1:Comparative Study of Different Adaptive Window Protocols. citation:4 ncitation:3 pid1099226
+title1:Comparative Study of Different Adaptive Window Protocols. citation:4 ncitation:3 pid1099226
+title1:Competitive routing in multicast communications. citation:6 ncitation:5 pid1024708
+title1:Competitive routing in multicast communications. citation:6 ncitation:5 pid1024708
+title1:Information Concealing Games. citation:8 ncitation:10 pid403954
+title1:Information Concealing Games. citation:8 ncitation:10 pid403954
+title1:A Markovian Model for TCP Analysis in a Differentiated Services Network. citation:15 ncitation:14 pid556785
+title1:A Markovian Model for TCP Analysis in a Differentiated Services Network. citation:15 ncitation:14 pid556785
+title1:Pricing Differentiated Services: A Game-Theoretic Approach. citation:21 ncitation:20 pid512921
+title1:Pricing Differentiated Services: A Game-Theoretic Approach. citation:21 ncitation:20 pid512921
+title1:Relaying in mobile ad hoc networks: The Brownian motion mobility model. citation:40 ncitation:35 pid1141497
+title1:Relaying in mobile ad hoc networks: The Brownian motion mobility model. citation:40 ncitation:35 pid1141497
+title1:Stable Nash equilibria of medium access games under symmetric, socially altruistic behavior citation:4 ncitation:4 pid2853486
+title1:Stable Nash equilibria of medium access games under symmetric, socially altruistic behavior citation:4 ncitation:4 pid2853486
+title1:Application Neutrality and a Paradox of Side Payments citation:16 ncitation:12 pid2856424
+title1:Application Neutrality and a Paradox of Side Payments citation:16 ncitation:12 pid2856424
+title1:Control of Polling in Presence of Vacations in Heavy Traffic with Applications to Satellite and Mobile Radio Systems. citation:23 ncitation:24 pid2890559
+title1:Control of Polling in Presence of Vacations in Heavy Traffic with Applications to Satellite and Mobile Radio Systems. citation:23 ncitation:24 pid2890559
+title1:Multiscale Fairness and Its Application to Resource Allocation in Wireless Networks. citation:3 ncitation:3 pid3025831
+title1:Multiscale Fairness and Its Application to Resource Allocation in Wireless Networks. citation:3 ncitation:3 pid3025831
+title1:Preface. citation:0 ncitation:-1 pid3063031
+title1:Preface. citation:0 ncitation:-1 pid3063031
+title1:Load balancing in processor sharing systems. citation:30 ncitation:22 pid3080590
+title1:Load balancing in processor sharing systems. citation:30 ncitation:22 pid3080590
+title1:Spectral Efficiency of CDMA Downlink Cellular Networks with Matched Filter. citation:11 ncitation:11 pid3108660
+title1:Spectral Efficiency of CDMA Downlink Cellular Networks with Matched Filter. citation:11 ncitation:11 pid3108660
+title1:A Bayesian Game-Theoretic Approach for Distributed Resource Allocation in Fading Multiple Access Channels. citation:18 ncitation:9 pid3108941
+title1:A Bayesian Game-Theoretic Approach for Distributed Resource Allocation in Fading Multiple Access Channels. citation:18 ncitation:9 pid3108941
+title1:Mean Field Asymptotics of Markov Decision Evolutionary Games and Teams citation:63 ncitation:51 pid3155093
+title1:Mean Field Asymptotics of Markov Decision Evolutionary Games and Teams citation:63 ncitation:51 pid3155093
+title1:Optimal Routing for Multiclass Networks. citation:0 ncitation:-1 pid3260852
+title1:Optimal Routing for Multiclass Networks. citation:0 ncitation:-1 pid3260852
+title1:Optimal Routing for Multiclass Networks. citation:0 ncitation:-1 pid3260852
+title1:Multiuser rate-based flow control. citation:94 ncitation:85 pid3347093
+title1:Multiuser rate-based flow control. citation:94 ncitation:85 pid3347093
+title1:Multiuser rate-based flow control. citation:94 ncitation:85 pid3347093
+title1:Stochastic geometry based medium access games. citation:4 ncitation:1 pid3428300
+title1:Stochastic geometry based medium access games. citation:4 ncitation:1 pid3428300
+title1:Stochastic geometry based medium access games. citation:4 ncitation:1 pid3428300
+title1:Optimality of a Threshold Policy in the queue with repeated vacations. citation:11 ncitation:4 pid3452069
+title1:Optimality of a Threshold Policy in the queue with repeated vacations. citation:11 ncitation:4 pid3452069
+title1:Dynamic Discrete Power Control in Cellular Networks. citation:9 ncitation:8 pid3463418
+title1:Dynamic Discrete Power Control in Cellular Networks. citation:9 ncitation:8 pid3463418
+title1:Dynamic Discrete Power Control in Cellular Networks. citation:9 ncitation:8 pid3463418
+title1:Markov Decision Evolutionary Games. citation:7 ncitation:5 pid3463579
+title1:Markov Decision Evolutionary Games. citation:7 ncitation:5 pid3463579
+title1:Markov Decision Evolutionary Games. citation:7 ncitation:5 pid3463579
+title1:Markov Decision Evolutionary Games. citation:7 ncitation:5 pid3463579
+title1:Analysis of small cell networks with randomly wandering users. citation:0 ncitation:-1 pid3493812
+title1:Analysis of small cell networks with randomly wandering users. citation:0 ncitation:-1 pid3493812
+title1:Constrained traffic equilibrium in routing. citation:24 ncitation:21 pid3543627
+title1:Constrained traffic equilibrium in routing. citation:24 ncitation:21 pid3543627
+title1:Jointly Optimal Power Control and Routing for a Single Cell, Dense, Ad Hoc Wireless Network. citation:6 ncitation:6 pid3562884
+title1:Jointly Optimal Power Control and Routing for a Single Cell, Dense, Ad Hoc Wireless Network. citation:6 ncitation:6 pid3562884

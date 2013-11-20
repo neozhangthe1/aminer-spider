@@ -1,0 +1,108 @@
+title1:Possibilistic and Standard Probabilistic Semantics of Conditional Knowledge. citation:83 ncitation:75 pid11884
+title1:Possibilistic and Standard Probabilistic Semantics of Conditional Knowledge. citation:83 ncitation:75 pid11884
+title1:Syntactic Combination of Uncertain Information: A Possibilistic Approach. citation:0 ncitation:8 pid175046
+title1:Syntactic Combination of Uncertain Information: A Possibilistic Approach. citation:0 ncitation:8 pid175046
+title1:Qualitative Decision Rules under Uncertainty. citation:6 ncitation:10 pid175102
+title1:Qualitative Decision Rules under Uncertainty. citation:6 ncitation:10 pid175102
+title1:Bipolarity in Flexible Querying. citation:1 ncitation:55 pid216679
+title1:Bipolarity in Flexible Querying. citation:1 ncitation:55 pid216679
+title1:Bipolarity in Flexible Querying. citation:1 ncitation:55 pid216679
+title1:A Practical Approach to Fusing Prioritized Knowledge Bases. citation:64 ncitation:62 pid182124
+title1:A Practical Approach to Fusing Prioritized Knowledge Bases. citation:64 ncitation:62 pid182124
+title1:A Practical Approach to Fusing Prioritized Knowledge Bases. citation:64 ncitation:62 pid182124
+title1:Belief Revision and Updates in Numerical Formalisms: An Overview, with new Results for the Possibilistic Framework. citation:35 ncitation:31 pid388245
+title1:Belief Revision and Updates in Numerical Formalisms: An Overview, with new Results for the Possibilistic Framework. citation:35 ncitation:31 pid388245
+title1:A practical approach to revising prioritized knowledge bases. citation:64 ncitation:62 pid476556
+title1:A practical approach to revising prioritized knowledge bases. citation:64 ncitation:62 pid476556
+title1:Qualitative Decision Making with Bipolar Information. citation:29 ncitation:26 pid479664
+title1:Qualitative Decision Making with Bipolar Information. citation:29 ncitation:26 pid479664
+title1:A Possibility Theory-based Approach for Handling of Uncertain Relations Between Temporal Points. citation:10 ncitation:10 pid628344
+title1:A Possibility Theory-based Approach for Handling of Uncertain Relations Between Temporal Points. citation:10 ncitation:10 pid628344
+title1:Updating with belief functions, ordinal conditional functions and possibility measures. citation:40 ncitation:36 pid632264
+title1:Updating with belief functions, ordinal conditional functions and possibility measures. citation:40 ncitation:36 pid632264
+title1:Solving Fuzzy PERT Using Gradual Real Numbers. citation:0 ncitation:-1 pid731403
+title1:Solving Fuzzy PERT Using Gradual Real Numbers. citation:0 ncitation:-1 pid731403
+title1:A systematic approach to the assessment of fuzzy association rules. citation:124 ncitation:113 pid839680
+title1:A systematic approach to the assessment of fuzzy association rules. citation:124 ncitation:113 pid839680
+title1:Qualitative decision theory: from savage's axioms to nonmonotonic reasoning. citation:74 ncitation:73 pid950224
+title1:Qualitative decision theory: from savage's axioms to nonmonotonic reasoning. citation:74 ncitation:73 pid950224
+title1:A Practical Approach to Revising Prioritized Knowledge Bases. citation:0 ncitation:62 pid1053508
+title1:A Practical Approach to Revising Prioritized Knowledge Bases. citation:0 ncitation:62 pid1053508
+title1:Some Syntactic Approaches to the Handling of Inconsistent Knowledge Bases: A Comparative Study Part 1: The Flat Case. citation:106 ncitation:142 pid1053505
+title1:Some Syntactic Approaches to the Handling of Inconsistent Knowledge Bases: A Comparative Study Part 1: The Flat Case. citation:106 ncitation:142 pid1053505
+title1:A Set-Theoretic View of Belief Functions. citation:348 ncitation:318 pid1203254
+title1:A Set-Theoretic View of Belief Functions. citation:348 ncitation:318 pid1203254
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Possibility Theory. citation:3733 ncitation:29 pid1296121
+title1:Aggregation Operators and Commuting. citation:0 ncitation:18 pid1099986
+title1:Aggregation Operators and Commuting. citation:0 ncitation:18 pid1099986
+title1:Automated Reasoning Using Possibilistic Logic: Semantics, Belief Revision, and Variable Certainty Weights. citation:121 ncitation:161 pid1112722
+title1:Automated Reasoning Using Possibilistic Logic: Semantics, Belief Revision, and Variable Certainty Weights. citation:121 ncitation:161 pid1112722
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:Possibility theory. citation:38 ncitation:29 pid1178067
+title1:A Framework for Iterated Belief Revision Using Possibilistic Counterparts to Jeffrey's Rule. citation:0 ncitation:7 pid2860172
+title1:A Framework for Iterated Belief Revision Using Possibilistic Counterparts to Jeffrey's Rule. citation:0 ncitation:7 pid2860172
+title1:Criticality analysis of activity networks under interval uncertainty. citation:0 ncitation:4 pid2975611
+title1:Criticality analysis of activity networks under interval uncertainty. citation:0 ncitation:4 pid2975611
+title1:Rough Sets, Coverings and Incomplete Information. citation:10 ncitation:7 pid3149780
+title1:Rough Sets, Coverings and Incomplete Information. citation:10 ncitation:7 pid3149780
+title1:Generalized Possibilistic Logic. citation:9 ncitation:8 pid3185147
+title1:Generalized Possibilistic Logic. citation:9 ncitation:8 pid3185147
+title1:Decision-making with Sugeno integrals: DMU vs. MCDM. citation:0 ncitation:-1 pid3493757
+title1:Decision-making with Sugeno integrals: DMU vs. MCDM. citation:0 ncitation:-1 pid3493757

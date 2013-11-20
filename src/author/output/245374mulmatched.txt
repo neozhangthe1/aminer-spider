@@ -1,0 +1,65 @@
+title1:A call admission and control scheme for quality-of-service (QoS) provisioning in next generation wireless networks. citation:125 ncitation:125 pid1141114
+title1:A call admission and control scheme for quality-of-service (QoS) provisioning in next generation wireless networks. citation:125 ncitation:125 pid1141114
+title1:Design and Implementation of Dynamic Load Balancing Algorithms for Rollback Reduction in Optimistic PDES. citation:2 ncitation:2 pid489853
+title1:Design and Implementation of Dynamic Load Balancing Algorithms for Rollback Reduction in Optimistic PDES. citation:2 ncitation:2 pid489853
+title1:Graph Partitioning for Parallel Applications in Heterogeneous Grid Environments. citation:50 ncitation:51 pid409732
+title1:Graph Partitioning for Parallel Applications in Heterogeneous Grid Environments. citation:50 ncitation:51 pid409732
+title1:A novel load balancing scheme for the tele-traffic hot spot problem in cellular networks. citation:39 ncitation:37 pid1141045
+title1:A novel load balancing scheme for the tele-traffic hot spot problem in cellular networks. citation:39 ncitation:37 pid1141045
+title1:Computing Best Coverage Path in the Presence of Obstacles in a Sensor Field. citation:8 ncitation:8 pid651468
+title1:Computing Best Coverage Path in the Presence of Obstacles in a Sensor Field. citation:8 ncitation:8 pid651468
+title1:Optimal Tree Access by Elementary and Composite Templates in Parallel Memory Systems. citation:9 ncitation:8 pid1124545
+title1:Optimal Tree Access by Elementary and Composite Templates in Parallel Memory Systems. citation:9 ncitation:8 pid1124545
+title1:Maximum Achievable Capacity Gain through Traffic Load Balancing in Cellular Radio Networks: A Practical Perspective. citation:0 ncitation:-1 pid250843
+title1:Maximum Achievable Capacity Gain through Traffic Load Balancing in Cellular Radio Networks: A Practical Perspective. citation:0 ncitation:-1 pid250843
+title1:Editorial. citation:12 ncitation:-1 pid1185269
+title1:Editorial. citation:12 ncitation:-1 pid1185269
+title1:Editorial. citation:12 ncitation:-1 pid1185269
+title1:Editorial. citation:12 ncitation:-1 pid1185270
+title1:Editorial. citation:12 ncitation:-1 pid1185270
+title1:Efficient Lightpath Routing in Wavelength-Routed Optical Networks. citation:2 ncitation:-1 pid339257
+title1:Efficient Lightpath Routing in Wavelength-Routed Optical Networks. citation:2 ncitation:-1 pid339257
+title1:Cellular Mobile Networks. citation:44 ncitation:-1 pid254913
+title1:Cellular Mobile Networks. citation:44 ncitation:-1 pid254913
+title1:Cellular Mobile Networks. citation:44 ncitation:-1 pid254913
+title1:Enabling SIP-based sessions in ad hoc networks. citation:20 ncitation:16 pid1141544
+title1:Enabling SIP-based sessions in ad hoc networks. citation:20 ncitation:16 pid1141544
+title1:Adaptive Load-Balancing Algorithms Using Symmetric Broadcast Networks. citation:16 ncitation:12 pid988609
+title1:Adaptive Load-Balancing Algorithms Using Symmetric Broadcast Networks. citation:16 ncitation:12 pid988609
+title1:Editorial. citation:4 ncitation:-1 pid1185326
+title1:Editorial. citation:4 ncitation:-1 pid1185326
+title1:On generalized fat trees. citation:82 ncitation:73 pid410266
+title1:On generalized fat trees. citation:82 ncitation:73 pid410266
+title1:Editorial. citation:12 ncitation:-1 pid1185298
+title1:Editorial. citation:12 ncitation:-1 pid1185298
+title1:A Weight Based Distributed Clustering Algorithm for Mobile ad hoc Networks. citation:59 ncitation:53 pid250952
+title1:A Weight Based Distributed Clustering Algorithm for Mobile ad hoc Networks. citation:59 ncitation:53 pid250952
+title1:A Weight Based Distributed Clustering Algorithm for Mobile ad hoc Networks. citation:59 ncitation:53 pid250952
+title1:A Novel Frame Structure and Call Admission Control for Efficient Resource Management in Next Generation Wireless Networks. citation:0 ncitation:0 pid250985
+title1:A Novel Frame Structure and Call Admission Control for Efficient Resource Management in Next Generation Wireless Networks. citation:0 ncitation:0 pid250985
+title1:Revisiting the Optimal Partitioning of Zones in Next Generation Cellular Networks: A Network Capacity Impact Perspective. citation:0 ncitation:0 pid701508
+title1:Revisiting the Optimal Partitioning of Zones in Next Generation Cellular Networks: A Network Capacity Impact Perspective. citation:0 ncitation:0 pid701508
+title1:Performance Evaluation of Voice-Data Integration for Wireless Data Networking. citation:2 ncitation:0 pid336579
+title1:Performance Evaluation of Voice-Data Integration for Wireless Data Networking. citation:2 ncitation:0 pid336579
+title1:Performance Study of Link Layer and MAC Layer Protocols to Support TCP in 3G CDMA Systems. citation:37 ncitation:37 pid1114224
+title1:Performance Study of Link Layer and MAC Layer Protocols to Support TCP in 3G CDMA Systems. citation:37 ncitation:37 pid1114224
+title1:Routing Correlated Data with Fusion Cost in Wireless Sensor Networks. citation:64 ncitation:59 pid1114253
+title1:Routing Correlated Data with Fusion Cost in Wireless Sensor Networks. citation:64 ncitation:59 pid1114253
+title1:Rate Allocation and Admission Control for Differentiated Services in CDMA Data Networks. citation:32 ncitation:31 pid1114259
+title1:Rate Allocation and Admission Control for Differentiated Services in CDMA Data Networks. citation:32 ncitation:31 pid1114259
+title1:Optimizing QoS-Based Multicast Routing in Wireless Networks: A Multi-objective Genetic Algorithmic Approach. citation:13 ncitation:12 pid513392
+title1:Optimizing QoS-Based Multicast Routing in Wireless Networks: A Multi-objective Genetic Algorithmic Approach. citation:13 ncitation:12 pid513392
+title1:Mobile Real-Time Group Communication Service. citation:1 ncitation:0 pid2800987
+title1:Mobile Real-Time Group Communication Service. citation:1 ncitation:0 pid2800987
+title1:Wireless Algorithms, Systems, and Applications, Third International Conference, WASA 2008, Dallas, TX, USA, October 26-28, 2008. Proceedings citation:0 ncitation:-1 pid2820323
+title1:Wireless Algorithms, Systems, and Applications, Third International Conference, WASA 2008, Dallas, TX, USA, October 26-28, 2008. Proceedings citation:0 ncitation:-1 pid2820323
+title1:Self-Healing Key Distribution Schemes for Wireless Networks: A Survey. citation:11 ncitation:8 pid3062887
+title1:Self-Healing Key Distribution Schemes for Wireless Networks: A Survey. citation:11 ncitation:8 pid3062887
+title1:Fast Detection of Mobile Replica Node Attacks in Wireless Sensor Networks Using Sequential Hypothesis Testing. citation:14 ncitation:9 pid3081567
+title1:Fast Detection of Mobile Replica Node Attacks in Wireless Sensor Networks Using Sequential Hypothesis Testing. citation:14 ncitation:9 pid3081567
+title1:Using Data Mules to Preserve Source Location Privacy in Wireless Sensor Networks. citation:2 ncitation:-1 pid3273823
+title1:Using Data Mules to Preserve Source Location Privacy in Wireless Sensor Networks. citation:2 ncitation:-1 pid3273823
+title1:Editorial. citation:0 ncitation:-1 pid3314074
+title1:Editorial. citation:0 ncitation:-1 pid3314074
+title1:A wireless smart grid testbed in lab. citation:2 ncitation:-1 pid3453820
+title1:A wireless smart grid testbed in lab. citation:2 ncitation:-1 pid3453820

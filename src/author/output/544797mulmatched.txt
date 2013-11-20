@@ -1,0 +1,57 @@
+title1:Overview of RoboCup-99. citation:19 ncitation:24 pid560967
+title1:Overview of RoboCup-99. citation:19 ncitation:24 pid560967
+title1:Layered Approach to Learning Client Behaviors in the Robocup Soccer Server. citation:186 ncitation:181 pid738365
+title1:Layered Approach to Learning Client Behaviors in the Robocup Soccer Server. citation:186 ncitation:181 pid738365
+title1:The CMUnited-99 Champion Simulator Team. citation:112 ncitation:108 pid560910
+title1:The CMUnited-99 Champion Simulator Team. citation:112 ncitation:108 pid560910
+title1:The CMUnited-99 Champion Simulator Team. citation:112 ncitation:108 pid560910
+title1:Multi-model motion tracking under multiple team member actuators. citation:7 ncitation:6 pid55371
+title1:Multi-model motion tracking under multiple team member actuators. citation:7 ncitation:6 pid55371
+title1:The first segway soccer experience: towards peer-to-peer human-robot teams. citation:16 ncitation:15 pid691681
+title1:The first segway soccer experience: towards peer-to-peer human-robot teams. citation:16 ncitation:15 pid691681
+title1:Mechanism design for multi-agent meeting scheduling. citation:14 ncitation:13 pid1157750
+title1:Mechanism design for multi-agent meeting scheduling. citation:14 ncitation:13 pid1157750
+title1:Fault Tolerant Planning: Toward Probabilistic Uncertainty Models in Symbolic Non-Deterministic Planning. citation:24 ncitation:19 pid37515
+title1:Fault Tolerant Planning: Toward Probabilistic Uncertainty Models in Symbolic Non-Deterministic Planning. citation:24 ncitation:19 pid37515
+title1:Fault Tolerant Planning: Toward Probabilistic Uncertainty Models in Symbolic Non-Deterministic Planning. citation:24 ncitation:19 pid37515
+title1:Learning to Select Negotiation Strategies in Multi-agent Meeting Scheduling. citation:23 ncitation:22 pid182094
+title1:Learning to Select Negotiation Strategies in Multi-agent Meeting Scheduling. citation:23 ncitation:22 pid182094
+title1:The RoboCup Synthetic Agent Challenge 97. citation:376 ncitation:330 pid560614
+title1:The RoboCup Synthetic Agent Challenge 97. citation:376 ncitation:330 pid560614
+title1:Stochastic search for signal processing algorithm optimization. citation:33 ncitation:33 pid575453
+title1:Stochastic search for signal processing algorithm optimization. citation:33 ncitation:33 pid575453
+title1:Learning Dynamic Preferences in Multi-Agent Meeting Scheduling. citation:10 ncitation:8 pid260821
+title1:Learning Dynamic Preferences in Multi-Agent Meeting Scheduling. citation:10 ncitation:8 pid260821
+title1:Learning Dynamic Preferences in Multi-Agent Meeting Scheduling. citation:10 ncitation:8 pid260821
+title1:Existence of Multiagent Equilibria with Limited Agents. citation:43 ncitation:44 pid952110
+title1:Existence of Multiagent Equilibria with Limited Agents. citation:43 ncitation:44 pid952110
+title1:CAMEO: Camera Assisted Meeting Event Observer. citation:36 ncitation:35 pid357186
+title1:CAMEO: Camera Assisted Meeting Event Observer. citation:36 ncitation:35 pid357186
+title1:Multi-model Tracking using Team Actuation Models. citation:5 ncitation:5 pid358891
+title1:Multi-model Tracking using Team Actuation Models. citation:5 ncitation:5 pid358891
+title1:Cooperative 3-Robot Passing and Shooting in the RoboCup Small Size League. citation:24 ncitation:20 pid561029
+title1:Cooperative 3-Robot Passing and Shooting in the RoboCup Small Size League. citation:24 ncitation:20 pid561029
+title1:OBDD-based Universal Planning for Synchronized Agents in Non-Deterministic Domains. citation:85 ncitation:-1 pid952181
+title1:OBDD-based Universal Planning for Synchronized Agents in Non-Deterministic Domains. citation:85 ncitation:-1 pid952181
+title1:OBDD-based Universal Planning for Synchronized Agents in Non-Deterministic Domains. citation:85 ncitation:-1 pid952181
+title1:Segmentation and classification of meetings using multiple information streams. citation:2 ncitation:2 pid334092
+title1:Segmentation and classification of meetings using multiple information streams. citation:2 ncitation:2 pid334092
+title1:Lazy Incremental Learning of Control Knowledge for Efficiently Obtaining Quality Plans. citation:99 ncitation:95 pid748525
+title1:Lazy Incremental Learning of Control Knowledge for Efficiently Obtaining Quality Plans. citation:99 ncitation:95 pid748525
+title1:CMPack '00. citation:3 ncitation:3 pid560673
+title1:CMPack '00. citation:3 ncitation:3 pid560673
+title1:Teaching multi-robot coordination using demonstration of communication and state sharing. citation:14 ncitation:12 pid57515
+title1:Teaching multi-robot coordination using demonstration of communication and state sharing. citation:14 ncitation:12 pid57515
+title1:CMUNITED-98: RoboCup-98 Small-Robot World Champion Team. citation:41 ncitation:38 pid748312
+title1:CMUNITED-98: RoboCup-98 Small-Robot World Champion Team. citation:41 ncitation:38 pid748312
+title1:Beating a Defender in Robotic Soccer: Memory-Based Learning of a Continuous Function. citation:38 ncitation:41 pid517182
+title1:Beating a Defender in Robotic Soccer: Memory-Based Learning of a Continuous Function. citation:38 ncitation:41 pid517182
+title1:RoboCup-99: Robot Soccer World Cup III citation:76 ncitation:73 pid2811610
+title1:RoboCup-99: Robot Soccer World Cup III citation:76 ncitation:73 pid2811610
+title1:Decentralized MDPs with sparse interactions. citation:20 ncitation:14 pid3060689
+title1:Decentralized MDPs with sparse interactions. citation:20 ncitation:14 pid3060689
+title1:Decentralized MDPs with sparse interactions. citation:20 ncitation:14 pid3060689
+title1:Prioritized Multihypothesis Tracking by a Robot with Limited Sensing. citation:6 ncitation:5 pid3105297
+title1:Prioritized Multihypothesis Tracking by a Robot with Limited Sensing. citation:6 ncitation:5 pid3105297
+title1:OBDD-based Universal Planning for Synchronized Agents in Non-Deterministic Domains citation:85 ncitation:-1 pid3153742
+title1:OBDD-based Universal Planning for Synchronized Agents in Non-Deterministic Domains citation:85 ncitation:-1 pid3153742

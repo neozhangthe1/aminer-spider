@@ -1,0 +1,56 @@
+title1:Convergence of a hill-climbing genetic algorithm for graph matching. citation:25 ncitation:24 pid1039083
+title1:Convergence of a hill-climbing genetic algorithm for graph matching. citation:25 ncitation:24 pid1039083
+title1:Matching Delaunay Graphs. citation:59 ncitation:52 pid311807
+title1:Matching Delaunay Graphs. citation:59 ncitation:52 pid311807
+title1:Radiance Function Estimation for Object Classification. citation:3 ncitation:11 pid93269
+title1:Radiance Function Estimation for Object Classification. citation:3 ncitation:11 pid93269
+title1:Facial Pose using Shape-from-Shading. citation:13 ncitation:5 pid67095
+title1:Facial Pose using Shape-from-Shading. citation:13 ncitation:5 pid67095
+title1:Shape-from-Shading Using Darboux Smoothing. citation:4 ncitation:5 pid73538
+title1:Shape-from-Shading Using Darboux Smoothing. citation:4 ncitation:5 pid73538
+title1:Population Coding of Multiple Edge Orientation. citation:4 ncitation:15 pid272060
+title1:Population Coding of Multiple Edge Orientation. citation:4 ncitation:15 pid272060
+title1:Weighted Principal Geodesic Analysis for Facial Gender Classification. citation:12 ncitation:10 pid93412
+title1:Weighted Principal Geodesic Analysis for Facial Gender Classification. citation:12 ncitation:10 pid93412
+title1:Object Recognition from Large Structural Libraries. citation:34 ncitation:2 pid618907
+title1:Object Recognition from Large Structural Libraries. citation:34 ncitation:2 pid618907
+title1:Object Recognition from Large Structural Libraries. citation:34 ncitation:2 pid618907
+title1:Procrustes Alignment with the EM Algorithm. citation:40 ncitation:7 pid73428
+title1:Procrustes Alignment with the EM Algorithm. citation:40 ncitation:7 pid73428
+title1:Gender classification based on facial surface normals. citation:10 ncitation:20 pid349870
+title1:Gender classification based on facial surface normals. citation:10 ncitation:20 pid349870
+title1:Correcting curvature-density effects in the Hamilton-Jacobi skeleton. citation:20 ncitation:18 pid1102071
+title1:Correcting curvature-density effects in the Hamilton-Jacobi skeleton. citation:20 ncitation:18 pid1102071
+title1:Probabilistic Fiber Tracking Using Particle Filtering. citation:14 ncitation:13 pid498616
+title1:Probabilistic Fiber Tracking Using Particle Filtering. citation:14 ncitation:13 pid498616
+title1:Guest Editors' Introduction to the Special Section on Energy Minimization Methods in Computer Vision and Pattern Recognition. citation:0 ncitation:-1 pid1031569
+title1:Guest Editors' Introduction to the Special Section on Energy Minimization Methods in Computer Vision and Pattern Recognition. citation:0 ncitation:-1 pid1031569
+title1:A Coupled Statistical Model for Face Shape Recovery. citation:30 ncitation:25 pid618646
+title1:A Coupled Statistical Model for Face Shape Recovery. citation:30 ncitation:25 pid618646
+title1:A Coupled Statistical Model for Face Shape Recovery. citation:30 ncitation:25 pid618646
+title1:A Coupled Statistical Model for Face Shape Recovery. citation:30 ncitation:25 pid618646
+title1:Vector transport for shape-from-shading. citation:0 ncitation:1 pid1041184
+title1:Vector transport for shape-from-shading. citation:0 ncitation:1 pid1041184
+title1:Discrete relaxation. citation:309 ncitation:112 pid1039550
+title1:Discrete relaxation. citation:309 ncitation:112 pid1039550
+title1:Discrete relaxation. citation:309 ncitation:112 pid1039550
+title1:Discrete relaxation. citation:309 ncitation:112 pid1039550
+title1:Discrete relaxation. citation:309 ncitation:112 pid1039550
+title1:Discrete relaxation. citation:309 ncitation:112 pid1039550
+title1:Discrete relaxation. citation:309 ncitation:112 pid1039550
+title1:Improving shape recovery by estimating properties of slightly-rough surfaces. citation:0 ncitation:-1 pid312161
+title1:Improving shape recovery by estimating properties of slightly-rough surfaces. citation:0 ncitation:-1 pid312161
+title1:Eigenspaces for Graphs. citation:9 ncitation:-1 pid910319
+title1:Eigenspaces for Graphs. citation:9 ncitation:-1 pid910319
+title1:Eigenspaces for Graphs. citation:9 ncitation:-1 pid910319
+title1:Graph matching using the interference of continuous-time quantum walks. citation:20 ncitation:15 pid1227028
+title1:Graph matching using the interference of continuous-time quantum walks. citation:20 ncitation:15 pid1227028
+title1:Selection Strategies for Ambiguous Graph Matching by Evolutionary Optimisation. citation:3 ncitation:2 pid619018
+title1:Selection Strategies for Ambiguous Graph Matching by Evolutionary Optimisation. citation:3 ncitation:2 pid619018
+title1:Object Recognition Using Shape-from-Shading. citation:45 ncitation:38 pid1033395
+title1:Object Recognition Using Shape-from-Shading. citation:45 ncitation:38 pid1033395
+title1:Object Recognition Using Shape-from-Shading. citation:45 ncitation:38 pid1033395
+title1:Characterising Graphs using the Heat Kernel. citation:5 ncitation:5 pid3009431
+title1:Characterising Graphs using the Heat Kernel. citation:5 ncitation:5 pid3009431
+title1:Hypergraph Spectra for Semi-supervised Feature Selection. citation:0 ncitation:0 pid3486204
+title1:Hypergraph Spectra for Semi-supervised Feature Selection. citation:0 ncitation:0 pid3486204

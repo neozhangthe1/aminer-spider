@@ -1,0 +1,28 @@
+title1:Ordering vs Timeliness: Two Facets of Consistency? citation:8 ncitation:8 pid17295
+title1:Ordering vs Timeliness: Two Facets of Consistency? citation:8 ncitation:8 pid17295
+title1:Eventual Leader Election with Weak Assumptions on Initial Knowledge, Communication Reliability, and Synchrony. citation:1 ncitation:33 pid161579
+title1:Eventual Leader Election with Weak Assumptions on Initial Knowledge, Communication Reliability, and Synchrony. citation:1 ncitation:33 pid161579
+title1:Atomic Broadcast in Asynchronous Crash-Recovery Distributed Systems. citation:29 ncitation:41 pid297565
+title1:Atomic Broadcast in Asynchronous Crash-Recovery Distributed Systems. citation:29 ncitation:41 pid297565
+title1:A Timing Assumption and a t-Resilient Protocol for Implementing an Eventual Leader Service in Asynchronous Shared Memory Systems. citation:6 ncitation:6 pid444671
+title1:A Timing Assumption and a t-Resilient Protocol for Implementing an Eventual Leader Service in Asynchronous Shared Memory Systems. citation:6 ncitation:6 pid444671
+title1:From an Intermittent Rotating Star to a Leader. citation:7 ncitation:15 pid523492
+title1:From an Intermittent Rotating Star to a Leader. citation:7 ncitation:15 pid523492
+title1:On the Solvability of Anonymous Partial Grids Exploration by Mobile Robots. citation:0 ncitation:14 pid523614
+title1:On the Solvability of Anonymous Partial Grids Exploration by Mobile Robots. citation:0 ncitation:14 pid523614
+title1:On the fly estimation of the processes that are alive/crashed in an asynchronous message-passing system. citation:3 ncitation:3 pid550984
+title1:On the fly estimation of the processes that are alive/crashed in an asynchronous message-passing system. citation:3 ncitation:3 pid550984
+title1:Narrowing Power vs. Efficiency in Synchronous Set Agreement. citation:4 ncitation:3 pid692247
+title1:Narrowing Power vs. Efficiency in Synchronous Set Agreement. citation:4 ncitation:3 pid692247
+title1:Set Agreement. citation:15 ncitation:-1 pid1199532
+title1:Set Agreement. citation:15 ncitation:-1 pid1199532
+title1:Set Agreement. citation:15 ncitation:-1 pid1199532
+title1:Set Agreement. citation:15 ncitation:-1 pid1199532
+title1:Set Agreement. citation:15 ncitation:-1 pid1199532
+title1:Set Agreement. citation:15 ncitation:-1 pid1199532
+title1:Set Agreement. citation:15 ncitation:-1 pid1199532
+title1:Set Agreement. citation:15 ncitation:-1 pid1199532
+title1:The Price of Anonymity: Optimal Consensus Despite Asynchrony, Crash and Anonymity. citation:15 ncitation:13 pid1257130
+title1:The Price of Anonymity: Optimal Consensus Despite Asynchrony, Crash and Anonymity. citation:15 ncitation:13 pid1257130
+title1:Increasing the Power of the Iterated Immediate Snapshot Model with Failure Detectors. citation:0 ncitation:1 pid3511345
+title1:Increasing the Power of the Iterated Immediate Snapshot Model with Failure Detectors. citation:0 ncitation:1 pid3511345

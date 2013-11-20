@@ -1,0 +1,6 @@
+title1:Image Recognition Using Synergetic Neural Network. citation:2 ncitation:2 pid442077
+title1:Image Recognition Using Synergetic Neural Network. citation:2 ncitation:2 pid442077
+title1:A novel genetic algorithm based on immunity. citation:467 ncitation:425 pid1131368
+title1:A novel genetic algorithm based on immunity. citation:467 ncitation:425 pid1131368
+title1:Quantum-Inspired Immune Clonal Algorithm. citation:2 ncitation:27 pid273296
+title1:Quantum-Inspired Immune Clonal Algorithm. citation:2 ncitation:27 pid273296

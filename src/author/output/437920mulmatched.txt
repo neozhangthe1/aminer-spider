@@ -1,0 +1,10 @@
+title1:Instruction buffering exploration for low energy embedded processors. citation:10 ncitation:19 pid1186900
+title1:Instruction buffering exploration for low energy embedded processors. citation:10 ncitation:19 pid1186900
+title1:Generic Multiphase Software Pipelined Partial FFT on Instruction Level Parallel Architectures. citation:5 ncitation:6 pid1230995
+title1:Generic Multiphase Software Pipelined Partial FFT on Instruction Level Parallel Architectures. citation:5 ncitation:6 pid1230995
+title1:MEERA: cross-layer methodology for energy efficient resource allocation in wireless networks. citation:30 ncitation:22 pid1175827
+title1:MEERA: cross-layer methodology for energy efficient resource allocation in wireless networks. citation:30 ncitation:22 pid1175827
+title1:Guest Editorial. citation:0 ncitation:-1 pid1083516
+title1:Guest Editorial. citation:0 ncitation:-1 pid1083516
+title1:Fast multidimension multichoice knapsack heuristic for MP-SoC runtime management. citation:34 ncitation:35 pid3080546
+title1:Fast multidimension multichoice knapsack heuristic for MP-SoC runtime management. citation:34 ncitation:35 pid3080546

@@ -1,0 +1,77 @@
+title1:Self-Organizing Multi-layer Fuzzy Polynomial Neural Networks Based on Genetic Optimization. citation:12 ncitation:-1 pid279818
+title1:Self-Organizing Multi-layer Fuzzy Polynomial Neural Networks Based on Genetic Optimization. citation:12 ncitation:-1 pid279818
+title1:Self-Organizing Multi-layer Fuzzy Polynomial Neural Networks Based on Genetic Optimization. citation:12 ncitation:-1 pid279818
+title1:A New Approach to Self-Organizing Hybrid Fuzzy Polynomial Neural Networks: Synthesis of Computational Intelligence Technologies. citation:0 ncitation:0 pid442702
+title1:A New Approach to Self-Organizing Hybrid Fuzzy Polynomial Neural Networks: Synthesis of Computational Intelligence Technologies. citation:0 ncitation:0 pid442702
+title1:Analysis of Software Engineering Data Using Computational Intelligence Techniques. citation:0 ncitation:5 pid521540
+title1:Analysis of Software Engineering Data Using Computational Intelligence Techniques. citation:0 ncitation:5 pid521540
+title1:Methodological Identification of Information Granules-Based Fuzzy Systems by Means of Genetic Optimization. citation:0 ncitation:0 pid561529
+title1:Methodological Identification of Information Granules-Based Fuzzy Systems by Means of Genetic Optimization. citation:0 ncitation:0 pid561529
+title1:Genetically Optimized Rule-Based Fuzzy Polynomial Neural Networks: Synthesis of Computational Intelligence Technologies. citation:0 ncitation:2 pid562011
+title1:Genetically Optimized Rule-Based Fuzzy Polynomial Neural Networks: Synthesis of Computational Intelligence Technologies. citation:0 ncitation:2 pid562011
+title1:Granular Regression. citation:8 ncitation:9 pid662827
+title1:Granular Regression. citation:8 ncitation:9 pid662827
+title1:Editorial. citation:1 ncitation:-1 pid880299
+title1:Editorial. citation:1 ncitation:-1 pid880299
+title1:Editorial. citation:1 ncitation:-1 pid880299
+title1:Editorial. citation:1 ncitation:-1 pid880299
+title1:Editorial. citation:1 ncitation:-1 pid880299
+title1:Editorial. citation:1 ncitation:-1 pid880299
+title1:P-FCM: a proximity -- based fuzzy clustering. citation:45 ncitation:47 pid880301
+title1:P-FCM: a proximity -- based fuzzy clustering. citation:45 ncitation:47 pid880301
+title1:Granular neural networks. citation:19 ncitation:63 pid916682
+title1:Granular neural networks. citation:19 ncitation:63 pid916682
+title1:Granular neural networks. citation:19 ncitation:63 pid916682
+title1:Granular neural networks. citation:19 ncitation:63 pid916682
+title1:IG-based genetically optimized fuzzy polynomial neural networks with fuzzy set-based polynomial neurons. citation:34 ncitation:30 pid917746
+title1:IG-based genetically optimized fuzzy polynomial neural networks with fuzzy set-based polynomial neurons. citation:34 ncitation:30 pid917746
+title1:Hybrid Fuzzy Polynomial Neural Networks. citation:27 ncitation:26 pid921726
+title1:Hybrid Fuzzy Polynomial Neural Networks. citation:27 ncitation:26 pid921726
+title1:Guest Editorial. citation:0 ncitation:-1 pid940457
+title1:Guest Editorial. citation:0 ncitation:-1 pid940457
+title1:Guest Editorial. citation:0 ncitation:-1 pid940457
+title1:Designing of classification procedures with the use of equality and difference operators. citation:3 ncitation:2 pid1040772
+title1:Designing of classification procedures with the use of equality and difference operators. citation:3 ncitation:2 pid1040772
+title1:D-fuzzy clustering. citation:16 ncitation:12 pid1044640
+title1:D-fuzzy clustering. citation:16 ncitation:12 pid1044640
+title1:D-fuzzy clustering. citation:16 ncitation:12 pid1044640
+title1:D-fuzzy clustering. citation:16 ncitation:12 pid1044640
+title1:D-fuzzy clustering. citation:16 ncitation:12 pid1044640
+title1:D-fuzzy clustering. citation:16 ncitation:12 pid1044640
+title1:Collaborative fuzzy clustering. citation:13 ncitation:84 pid1045474
+title1:Collaborative fuzzy clustering. citation:13 ncitation:84 pid1045474
+title1:Genetically optimized fuzzy polynomial neural networks. citation:34 ncitation:33 pid1099801
+title1:Genetically optimized fuzzy polynomial neural networks. citation:34 ncitation:33 pid1099801
+title1:Granular mappings. citation:0 ncitation:24 pid1130626
+title1:Granular mappings. citation:0 ncitation:24 pid1130626
+title1:Granular mappings. citation:0 ncitation:24 pid1130626
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Computational Intelligence. citation:5 ncitation:16 pid1200629
+title1:Kernelized Fuzzy Rough Sets. citation:13 ncitation:2 pid1213195
+title1:Kernelized Fuzzy Rough Sets. citation:13 ncitation:2 pid1213195
+title1:Perspectives on Cognitive Computing and Applications. citation:0 ncitation:-1 pid2984478
+title1:Perspectives on Cognitive Computing and Applications. citation:0 ncitation:-1 pid2984478
+title1:Optimization of fuzzy models. citation:86 ncitation:75 pid3388296
+title1:Optimization of fuzzy models. citation:86 ncitation:75 pid3388296
+title1:Optimization of fuzzy models. citation:86 ncitation:75 pid3388296

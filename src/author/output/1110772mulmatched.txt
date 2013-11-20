@@ -1,0 +1,15 @@
+title1:A Recursive Construction Method of S-boxes Satisfying Strict Avalanche Criterion. citation:1 ncitation:17 pid120153
+title1:A Recursive Construction Method of S-boxes Satisfying Strict Avalanche Criterion. citation:1 ncitation:17 pid120153
+title1:Trade-Off Traitor Tracing. citation:1 ncitation:1 pid399435
+title1:Trade-Off Traitor Tracing. citation:1 ncitation:1 pid399435
+title1:Relations Among Notions of Security for Identity Based Encryption Schemes. citation:20 ncitation:20 pid481105
+title1:Relations Among Notions of Security for Identity Based Encryption Schemes. citation:20 ncitation:20 pid481105
+title1:Relations Among Notions of Security for Identity Based Encryption Schemes. citation:20 ncitation:20 pid481105
+title1:Two Alerts for Design of Certain Stream Ciphers: Trapped LFSR and Weak Resilient Function over GF(q). citation:11 ncitation:9 pid570393
+title1:Two Alerts for Design of Certain Stream Ciphers: Trapped LFSR and Weak Resilient Function over GF(q). citation:11 ncitation:9 pid570393
+title1:Semantically Secure McEliece Public-Key Cryptosystems-Conversions for McEliece PKC. citation:88 ncitation:76 pid541111
+title1:Semantically Secure McEliece Public-Key Cryptosystems-Conversions for McEliece PKC. citation:88 ncitation:76 pid541111
+title1:Efficient Asymmetric Self-Enforcement Scheme with Public Traceability. citation:24 ncitation:23 pid541115
+title1:Efficient Asymmetric Self-Enforcement Scheme with Public Traceability. citation:24 ncitation:23 pid541115
+title1:Relations Among Notions of Security for Identity Based Encryption Schemes. citation:20 ncitation:20 pid3256555
+title1:Relations Among Notions of Security for Identity Based Encryption Schemes. citation:20 ncitation:20 pid3256555

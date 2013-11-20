@@ -1,0 +1,86 @@
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:62 ncitation:59 pid952686
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:62 ncitation:59 pid952686
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:62 ncitation:59 pid952686
+title1:Communication-Aware Processor Allocation for Supercomputers citation:21 ncitation:20 pid818065
+title1:Communication-Aware Processor Allocation for Supercomputers citation:21 ncitation:20 pid818065
+title1:Communication-Aware Processor Allocation for Supercomputers citation:21 ncitation:20 pid818065
+title1:Optimally Adaptive Integration of Univariate Lipschitz Functions. citation:5 ncitation:4 pid750887
+title1:Optimally Adaptive Integration of Univariate Lipschitz Functions. citation:5 ncitation:4 pid750887
+title1:When Can You Fold a Map? citation:31 ncitation:31 pid651160
+title1:When Can You Fold a Map? citation:31 ncitation:31 pid651160
+title1:Open problems from cccg 2000. citation:61 ncitation:53 pid81877
+title1:Open problems from cccg 2000. citation:61 ncitation:53 pid81877
+title1:A Novel Routing Algorithm for k-Ary n-Cube Interconnection Networks. citation:4 ncitation:3 pid910191
+title1:A Novel Routing Algorithm for k-Ary n-Cube Interconnection Networks. citation:4 ncitation:3 pid910191
+title1:The Stackelberg Minimum Spanning Tree Game citation:0 ncitation:17 pid820134
+title1:The Stackelberg Minimum Spanning Tree Game citation:0 ncitation:17 pid820134
+title1:Bidimensionality. citation:108 ncitation:5 pid1199376
+title1:Bidimensionality. citation:108 ncitation:5 pid1199376
+title1:Bidimensionality. citation:108 ncitation:5 pid1199376
+title1:Bidimensionality. citation:108 ncitation:5 pid1199376
+title1:Bidimensionality. citation:108 ncitation:5 pid1199376
+title1:Bidimensionality. citation:108 ncitation:5 pid1199376
+title1:Bidimensionality. citation:108 ncitation:5 pid1199376
+title1:Necklaces, Convolutions, and + . citation:21 ncitation:16 pid185988
+title1:Necklaces, Convolutions, and + . citation:21 ncitation:16 pid185988
+title1:Ununfoldable polyhedra. citation:42 ncitation:19 pid81690
+title1:Ununfoldable polyhedra. citation:42 ncitation:19 pid81690
+title1:Solitaire Clobber. citation:18 ncitation:16 pid85736
+title1:Solitaire Clobber. citation:18 ncitation:16 pid85736
+title1:Flipturning polygons citation:15 ncitation:19 pid816621
+title1:Flipturning polygons citation:15 ncitation:19 pid816621
+title1:Folding and Cutting Paper. citation:45 ncitation:41 pid467113
+title1:Folding and Cutting Paper. citation:45 ncitation:41 pid467113
+title1:Fixed-parameter algorithms for (, )-center in planar graphs and map graphs. citation:60 ncitation:55 pid1077247
+title1:Fixed-parameter algorithms for (, )-center in planar graphs and map graphs. citation:60 ncitation:55 pid1077247
+title1:Logarithmic Lower Bounds in the Cell-Probe Model. citation:62 ncitation:56 pid1060178
+title1:Logarithmic Lower Bounds in the Cell-Probe Model. citation:62 ncitation:56 pid1060178
+title1:Straighting Polygonal Arcs and Convexifying Polygonal Cycles. citation:153 ncitation:143 pid210399
+title1:Straighting Polygonal Arcs and Convexifying Polygonal Cycles. citation:153 ncitation:143 pid210399
+title1:Minimizing movement. citation:38 ncitation:35 pid1227549
+title1:Minimizing movement. citation:38 ncitation:35 pid1227549
+title1:Exponential Speedup of Fixed-Parameter Algorithms on K-Minor-Free or K-Minor-Free Graphs. citation:31 ncitation:32 pid415408
+title1:Exponential Speedup of Fixed-Parameter Algorithms on K-Minor-Free or K-Minor-Free Graphs. citation:31 ncitation:32 pid415408
+title1:Anchor-free distributed localization in sensor networks. citation:466 ncitation:419 pid584370
+title1:Anchor-free distributed localization in sensor networks. citation:466 ncitation:419 pid584370
+title1:Tight bounds on maximal and maximum matchings. citation:6 ncitation:42 pid846991
+title1:Tight bounds on maximal and maximum matchings. citation:6 ncitation:42 pid846991
+title1:Balanced -colorings. citation:11 ncitation:10 pid846989
+title1:Balanced -colorings. citation:11 ncitation:10 pid846989
+title1:Balanced -colorings. citation:11 ncitation:10 pid846989
+title1:Games on triangulations. citation:8 ncitation:7 pid1088655
+title1:Games on triangulations. citation:8 ncitation:7 pid1088655
+title1:Games on triangulations. citation:8 ncitation:7 pid1088655
+title1:Games on triangulations. citation:8 ncitation:7 pid1088655
+title1:Finding Frequent Items in Sliding Windows with Multinomially-Distributed Item Frequencies. citation:22 ncitation:19 pid617983
+title1:Finding Frequent Items in Sliding Windows with Multinomially-Distributed Item Frequencies. citation:22 ncitation:19 pid617983
+title1:Voronoi game on graphs and its complexity. citation:17 ncitation:10 pid686751
+title1:Voronoi game on graphs and its complexity. citation:17 ncitation:10 pid686751
+title1:Disjoint Segments Have Convex Partitions with 2-Edge Connected Dual Graphs. citation:8 ncitation:7 pid82430
+title1:Disjoint Segments Have Convex Partitions with 2-Edge Connected Dual Graphs. citation:8 ncitation:7 pid82430
+title1:Approximation algorithms via contraction decomposition. citation:48 ncitation:45 pid611565
+title1:Approximation algorithms via contraction decomposition. citation:48 ncitation:45 pid611565
+title1:Balanced -Colorings. citation:11 ncitation:10 pid493190
+title1:Balanced -Colorings. citation:11 ncitation:10 pid493190
+title1:EpiChord: Parallelizing the Chord lookup algorithm with reactive routing state management. citation:115 ncitation:75 pid802445
+title1:EpiChord: Parallelizing the Chord lookup algorithm with reactive routing state management. citation:115 ncitation:75 pid802445
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:62 ncitation:59 pid610060
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:62 ncitation:59 pid610060
+title1:Deploying sensor networks with guaranteed fault tolerance. citation:20 ncitation:20 pid2871309
+title1:Deploying sensor networks with guaranteed fault tolerance. citation:20 ncitation:20 pid2871309
+title1:Constant Price of Anarchy in Network Creation Games via Public Service Advertising. citation:2 ncitation:2 pid2951887
+title1:Constant Price of Anarchy in Network Creation Games via Public Service Advertising. citation:2 ncitation:2 pid2951887
+title1:Coverage with -Transmitters in the Presence of Obstacles. citation:5 ncitation:4 pid2953801
+title1:Coverage with -Transmitters in the Presence of Obstacles. citation:5 ncitation:4 pid2953801
+title1:Approximability of the Subset Sum Reconfiguration Problem. citation:3 ncitation:1 pid3028495
+title1:Approximability of the Subset Sum Reconfiguration Problem. citation:3 ncitation:1 pid3028495
+title1:Efficient Reconfiguration of Lattice-Based Modular Robots. citation:4 ncitation:4 pid3209926
+title1:Efficient Reconfiguration of Lattice-Based Modular Robots. citation:4 ncitation:4 pid3209926
+title1:Common Unfoldings of Polyominoes and Polycubes. citation:0 ncitation:-1 pid3211809
+title1:Common Unfoldings of Polyominoes and Polycubes. citation:0 ncitation:-1 pid3211809
+title1:Common Developments of Several Different Orthogonal Boxes. citation:3 ncitation:-1 pid3328297
+title1:Common Developments of Several Different Orthogonal Boxes. citation:3 ncitation:-1 pid3328297
+title1:Edge-guarding Orthogonal Polyhedra. citation:6 ncitation:2 pid3328324
+title1:Edge-guarding Orthogonal Polyhedra. citation:6 ncitation:2 pid3328324
+title1:NP-completeness of generalized Kaboozle. citation:1 ncitation:-1 pid3481255
+title1:NP-completeness of generalized Kaboozle. citation:1 ncitation:-1 pid3481255

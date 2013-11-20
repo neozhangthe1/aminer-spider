@@ -1,0 +1,2 @@
+title1:Constructing Deterministic Finite-State Automata in Recurrent Neural Networks. citation:20 ncitation:141 pid951332
+title1:Constructing Deterministic Finite-State Automata in Recurrent Neural Networks. citation:20 ncitation:141 pid951332

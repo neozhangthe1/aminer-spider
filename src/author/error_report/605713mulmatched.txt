@@ -1,0 +1,33 @@
+title1:Spanning Trees Crossing Few Barriers. citation:3 ncitation:9 pid110508
+title1:Spanning Trees Crossing Few Barriers. citation:3 ncitation:9 pid110508
+title1:Penetration Depth of Two Convex Polytopes in 3D. citation:52 ncitation:50 pid1025534
+title1:Penetration Depth of Two Convex Polytopes in 3D. citation:52 ncitation:50 pid1025534
+title1:Voronoi Diagrams of Moving Points. citation:108 ncitation:91 pid905271
+title1:Voronoi Diagrams of Moving Points. citation:108 ncitation:91 pid905271
+title1:Voronoi Diagrams of Moving Points. citation:108 ncitation:91 pid905271
+title1:Geodesic Delaunay triangulation and witness complex in the plane. citation:22 ncitation:22 pid611618
+title1:Geodesic Delaunay triangulation and witness complex in the plane. citation:22 ncitation:22 pid611618
+title1:A Singly-Expenential Stratification Scheme for Real Semi-Algebraic Varieties and Its Applications. citation:98 ncitation:98 pid267621
+title1:A Singly-Expenential Stratification Scheme for Real Semi-Algebraic Varieties and Its Applications. citation:98 ncitation:98 pid267621
+title1:Persistence Barcodes for Shapes. citation:130 ncitation:76 pid921255
+title1:Persistence Barcodes for Shapes. citation:130 ncitation:76 pid921255
+title1:On incremental rendering of silhouette maps of a polyhedral scene. citation:24 ncitation:24 pid804035
+title1:On incremental rendering of silhouette maps of a polyhedral scene. citation:24 ncitation:24 pid804035
+title1:Approximating Polygons and Subdivisions with Minimum Link Paths. citation:114 ncitation:120 pid415099
+title1:Approximating Polygons and Subdivisions with Minimum Link Paths. citation:114 ncitation:120 pid415099
+title1:Non-Rigid Registration Under Isometric Deformations. citation:93 ncitation:72 pid788657
+title1:Non-Rigid Registration Under Isometric Deformations. citation:93 ncitation:72 pid788657
+title1:Reporting Red-Blue Intersections between Two Sets of Connected Line Segments. citation:40 ncitation:39 pid185874
+title1:Reporting Red-Blue Intersections between Two Sets of Connected Line Segments. citation:40 ncitation:39 pid185874
+title1:Analysis of scalar fields over point cloud data. citation:51 ncitation:43 pid611735
+title1:Analysis of scalar fields over point cloud data. citation:51 ncitation:43 pid611735
+title1:Voronoi Diagrams of Moving Points in the Plane. citation:108 ncitation:102 pid660714
+title1:Voronoi Diagrams of Moving Points in the Plane. citation:108 ncitation:102 pid660714
+title1:Computing a Face in an Arrangement of Line Segments. citation:52 ncitation:21 pid610195
+title1:Computing a Face in an Arrangement of Line Segments. citation:52 ncitation:21 pid610195
+title1:Problems. citation:4 ncitation:12 pid953036
+title1:Problems. citation:4 ncitation:12 pid953036
+title1:Fingerprinting Mobile User Positions in Sensor Networks. citation:6 ncitation:6 pid2793460
+title1:Fingerprinting Mobile User Positions in Sensor Networks. citation:6 ncitation:6 pid2793460
+title1:Geodesic delaunay triangulations in bounded planar domains. citation:5 ncitation:5 pid2869280
+title1:Geodesic delaunay triangulations in bounded planar domains. citation:5 ncitation:5 pid2869280

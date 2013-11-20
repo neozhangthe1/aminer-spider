@@ -1,0 +1,16 @@
+title1:Charge-Based Flooding Algorithm for Detecting Multimedia Objects in Peer-to-Peer Overlay Networks. citation:21 ncitation:21 pid35903
+title1:Charge-Based Flooding Algorithm for Detecting Multimedia Objects in Peer-to-Peer Overlay Networks. citation:21 ncitation:21 pid35903
+title1:A Distributed Coordination Protocol for Multiple Peer Processes. citation:22 ncitation:12 pid36551
+title1:A Distributed Coordination Protocol for Multiple Peer Processes. citation:22 ncitation:12 pid36551
+title1:Flexible Group Communication Protocol. citation:0 ncitation:0 pid220795
+title1:Flexible Group Communication Protocol. citation:0 ncitation:0 pid220795
+title1:Causally Ordering Group Communication Protocol. citation:136 ncitation:138 pid341474
+title1:Causally Ordering Group Communication Protocol. citation:136 ncitation:138 pid341474
+title1:Trustworthiness of Acquaintances in Peer-to-Peer(P2P) Overlay Networks. citation:0 ncitation:3 pid2830376
+title1:Trustworthiness of Acquaintances in Peer-to-Peer(P2P) Overlay Networks. citation:0 ncitation:3 pid2830376
+title1:A Quorum-Based Synchronization Protocol. citation:0 ncitation:0 pid3297734
+title1:A Quorum-Based Synchronization Protocol. citation:0 ncitation:0 pid3297734
+title1:A Quorum-Based Synchronization Protocol. citation:0 ncitation:0 pid3297734
+title1:A Quorum-Based Synchronization Protocol. citation:0 ncitation:0 pid3297734
+title1:Multimedia Quorum-based Synchronization Protocols. citation:0 ncitation:None pid3638335
+title1:Multimedia Quorum-based Synchronization Protocols. citation:0 ncitation:None pid3638335

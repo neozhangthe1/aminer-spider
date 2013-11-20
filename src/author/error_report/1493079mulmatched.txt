@@ -1,0 +1,64 @@
+title1:Extraction and Tracking of Surfaces in Range Image Sequences. citation:6 ncitation:-1 pid3982
+title1:Extraction and Tracking of Surfaces in Range Image Sequences. citation:6 ncitation:-1 pid3982
+title1:Detection of Glasses in Facial Images. citation:43 ncitation:3 pid18013
+title1:Detection of Glasses in Facial Images. citation:43 ncitation:3 pid18013
+title1:A Family of Novel Graph Kernels for Structural Pattern Recognition. citation:21 ncitation:18 pid93461
+title1:A Family of Novel Graph Kernels for Structural Pattern Recognition. citation:21 ncitation:18 pid93461
+title1:Ein wissensbasiertes System zur automatischen Auswertung von Bildsequenzen des menschlichen Herzens. citation:5 ncitation:3 pid135218
+title1:Ein wissensbasiertes System zur automatischen Auswertung von Bildsequenzen des menschlichen Herzens. citation:5 ncitation:3 pid135218
+title1:Towards Smarter Cars. citation:7 ncitation:8 pid138341
+title1:Towards Smarter Cars. citation:7 ncitation:8 pid138341
+title1:Recovery of Missing Information in Graph Sequences. citation:6 ncitation:2 pid222711
+title1:Recovery of Missing Information in Graph Sequences. citation:6 ncitation:2 pid222711
+title1:Programmed Graph Grammars. citation:147 ncitation:46 pid228691
+title1:Programmed Graph Grammars. citation:147 ncitation:46 pid228691
+title1:Programmed Graph Grammars. citation:147 ncitation:46 pid228691
+title1:Programmed Graph Grammars. citation:147 ncitation:46 pid228691
+title1:Synthesis of Representative Graphical Symbols by Computing Generalized Median Graph. citation:41 ncitation:44 pid236632
+title1:Synthesis of Representative Graphical Symbols by Computing Generalized Median Graph. citation:41 ncitation:44 pid236632
+title1:Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition. citation:23 ncitation:23 pid262459
+title1:Generation and Use of Synthetic Training Data in Cursive Handwriting Recognition. citation:23 ncitation:23 pid262459
+title1:Classification of Web Documents Using a Graph Model. citation:67 ncitation:59 pid295459
+title1:Classification of Web Documents Using a Graph Model. citation:67 ncitation:59 pid295459
+title1:Diatom Identification: A Double Challenge Called ADIAC. citation:27 ncitation:25 pid311662
+title1:Diatom Identification: A Double Challenge Called ADIAC. citation:27 ncitation:25 pid311662
+title1:Handwritten Sentence Recognition. citation:66 ncitation:55 pid347912
+title1:Handwritten Sentence Recognition. citation:66 ncitation:55 pid347912
+title1:Rejection Strategies for Offline Handwritten Sentence Recognition. citation:37 ncitation:36 pid349632
+title1:Rejection Strategies for Offline Handwritten Sentence Recognition. citation:37 ncitation:36 pid349632
+title1:Acquisition of 2-D Shape Models from Scenes with Overlapping Objects Using String Matching. citation:5 ncitation:6 pid618769
+title1:Acquisition of 2-D Shape Models from Scenes with Overlapping Objects Using String Matching. citation:5 ncitation:6 pid618769
+title1:Graph Classification on Dissimilarity Space Embedding. citation:24 ncitation:1 pid619206
+title1:Graph Classification on Dissimilarity Space Embedding. citation:24 ncitation:1 pid619206
+title1:Edge Detection in Range Images Based on Scan Line Approximation. citation:203 ncitation:194 pid835055
+title1:Edge Detection in Range Images Based on Scan Line Approximation. citation:203 ncitation:194 pid835055
+title1:Multiple Classifier Systems In Offline Handwritten Word Recognition - On The Influence Of Training Set And Vocabulary Size. citation:13 ncitation:12 pid918956
+title1:Multiple Classifier Systems In Offline Handwritten Word Recognition - On The Influence Of Training Set And Vocabulary Size. citation:13 ncitation:12 pid918956
+title1:Matching graphs with unique node labels. citation:49 ncitation:41 pid1030275
+title1:Matching graphs with unique node labels. citation:49 ncitation:41 pid1030275
+title1:Introduction. citation:10 ncitation:10 pid1038677
+title1:Introduction. citation:10 ncitation:10 pid1038677
+title1:Applied Graph Theory in Computer Vision and Pattern Recognition citation:30 ncitation:17 pid1200938
+title1:Applied Graph Theory in Computer Vision and Pattern Recognition citation:30 ncitation:17 pid1200938
+title1:Graph Sequence Visualisation and its Application to Computer Network Monitoring and Abnormal Event Detection. citation:2 ncitation:2 pid1201340
+title1:Graph Sequence Visualisation and its Application to Computer Network Monitoring and Abnormal Event Detection. citation:2 ncitation:2 pid1201340
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph Matching. citation:270 ncitation:-1 pid1202101
+title1:Graph-Based -Means Clustering: A Comparison of the Set Median versus the Generalized Median Graph. citation:16 ncitation:11 pid1238614
+title1:Graph-Based -Means Clustering: A Comparison of the Set Median versus the Generalized Median Graph. citation:16 ncitation:11 pid1238614
+title1:Sensor Based Intelligent Robots, International Workshop, Dagstuhl Castle, Germany, September 28 - October 2, 1998, Selected Papers citation:1 ncitation:1 pid2782363
+title1:Sensor Based Intelligent Robots, International Workshop, Dagstuhl Castle, Germany, September 28 - October 2, 1998, Selected Papers citation:1 ncitation:1 pid2782363

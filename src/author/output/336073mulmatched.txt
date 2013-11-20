@@ -1,0 +1,36 @@
+title1:Measuring Data Abstraction Quality in Multiresolution Visualizations. citation:46 ncitation:41 pid1133917
+title1:Measuring Data Abstraction Quality in Multiresolution Visualizations. citation:46 ncitation:41 pid1133917
+title1:SERFing the Web: Web Site Management Made Easy. citation:3 ncitation:3 pid599685
+title1:SERFing the Web: Web Site Management Made Easy. citation:3 ncitation:3 pid599685
+title1:Structure-Based Brushes: A Mechanism for Navigating Hierarchically Organized Data and Information Spaces. citation:65 ncitation:59 pid1133482
+title1:Structure-Based Brushes: A Mechanism for Navigating Hierarchically Organized Data and Information Spaces. citation:65 ncitation:59 pid1133482
+title1:Set Restrictions for Semantic Groupings. citation:18 ncitation:18 pid1113504
+title1:Set Restrictions for Semantic Groupings. citation:18 ncitation:18 pid1113504
+title1:Incremental Maintenance of Materialized Object-Oriented Views in MultiView: Strategies and Performance Evaluation. citation:70 ncitation:66 pid1113004
+title1:Incremental Maintenance of Materialized Object-Oriented Views in MultiView: Strategies and Performance Evaluation. citation:70 ncitation:66 pid1113004
+title1:Incremental Maintenance of Materialized XQuery Views. citation:9 ncitation:6 pid299867
+title1:Incremental Maintenance of Materialized XQuery Views. citation:9 ncitation:6 pid299867
+title1:Consistent Schema Version Removal: An Optimization Technique for Object-Oriented Views. citation:7 ncitation:6 pid1112669
+title1:Consistent Schema Version Removal: An Optimization Technique for Object-Oriented Views. citation:7 ncitation:6 pid1112669
+title1:Heuristic Strategies for Inclusion Dependency Discovery. citation:10 ncitation:8 pid115951
+title1:Heuristic Strategies for Inclusion Dependency Discovery. citation:10 ncitation:8 pid115951
+title1:Aggregate Path Index for Incremental Web View Maintenance. citation:24 ncitation:23 pid658779
+title1:Aggregate Path Index for Incremental Web View Maintenance. citation:24 ncitation:23 pid658779
+title1:Incremental Maintenance of Materialized Path Query OODB Views. citation:0 ncitation:3 pid105915
+title1:Incremental Maintenance of Materialized Path Query OODB Views. citation:0 ncitation:3 pid105915
+title1:A Compensation-Based Approach for View Maintenance in Distributed Environments. citation:17 ncitation:15 pid1112592
+title1:A Compensation-Based Approach for View Maintenance in Distributed Environments. citation:17 ncitation:15 pid1112592
+title1:PVM: Parallel View Maintenance under Concurrent Data Updates of Distributed Sources. citation:21 ncitation:19 pid144500
+title1:PVM: Parallel View Maintenance under Concurrent Data Updates of Distributed Sources. citation:21 ncitation:19 pid144500
+title1:A Lightweight XML Constraint Check and Update Framework. citation:4 ncitation:4 pid184028
+title1:A Lightweight XML Constraint Check and Update Framework. citation:4 ncitation:4 pid184028
+title1:Data Warehouse Evolution: Trade-Offs between Quality and Cost of Query Rewritings. citation:23 ncitation:23 pid300442
+title1:Data Warehouse Evolution: Trade-Offs between Quality and Cost of Query Rewritings. citation:23 ncitation:23 pid300442
+title1:An active OODB system for genome physical map assembly. citation:3 ncitation:5 pid938692
+title1:An active OODB system for genome physical map assembly. citation:3 ncitation:5 pid938692
+title1:Materialized Object-Oriented Views in MultiView. citation:44 ncitation:42 pid559865
+title1:Materialized Object-Oriented Views in MultiView. citation:44 ncitation:42 pid559865
+title1:SERF: Schema Evalution through an Extensible, Re-usable and Flexible Framework. citation:65 ncitation:69 pid95297
+title1:SERF: Schema Evalution through an Extensible, Re-usable and Flexible Framework. citation:65 ncitation:69 pid95297
+title1:Achieving High Freshness and Optimal Throughput in CPU-Limited Execution of Multi-join Continuous Queries. citation:0 ncitation:0 pid3185504
+title1:Achieving High Freshness and Optimal Throughput in CPU-Limited Execution of Multi-join Continuous Queries. citation:0 ncitation:0 pid3185504

@@ -1,0 +1,30 @@
+title1:Extraction and Tracking of Surfaces in Range Image Sequences. citation:0 ncitation:-1 pid3982
+title1:Extraction and Tracking of Surfaces in Range Image Sequences. citation:0 ncitation:-1 pid3982
+title1:Recovery of Missing Information in Graph Sequences. citation:6 ncitation:2 pid222711
+title1:Recovery of Missing Information in Graph Sequences. citation:6 ncitation:2 pid222711
+title1:Programmed Graph Grammars. citation:147 ncitation:46 pid228691
+title1:Programmed Graph Grammars. citation:147 ncitation:46 pid228691
+title1:Programmed Graph Grammars. citation:147 ncitation:46 pid228691
+title1:Rejection Strategies for Offline Handwritten Sentence Recognition. citation:37 ncitation:36 pid349632
+title1:Rejection Strategies for Offline Handwritten Sentence Recognition. citation:37 ncitation:36 pid349632
+title1:Acquisition of 2-D Shape Models from Scenes with Overlapping Objects Using String Matching. citation:5 ncitation:6 pid618769
+title1:Acquisition of 2-D Shape Models from Scenes with Overlapping Objects Using String Matching. citation:5 ncitation:6 pid618769
+title1:Combining SVM and Graph Matching in a Bayesian Multiple Classifier System for Image Content Recognition. citation:0 ncitation:0 pid619103
+title1:Combining SVM and Graph Matching in a Bayesian Multiple Classifier System for Image Content Recognition. citation:0 ncitation:0 pid619103
+title1:Graph Classification on Dissimilarity Space Embedding. citation:24 ncitation:1 pid619206
+title1:Graph Classification on Dissimilarity Space Embedding. citation:24 ncitation:1 pid619206
+title1:Applied Graph Theory in Computer Vision and Pattern Recognition citation:30 ncitation:17 pid1200938
+title1:Applied Graph Theory in Computer Vision and Pattern Recognition citation:30 ncitation:17 pid1200938
+title1:Graph Sequence Visualisation and its Application to Computer Network Monitoring and Abnormal Event Detection. citation:2 ncitation:2 pid1201340
+title1:Graph Sequence Visualisation and its Application to Computer Network Monitoring and Abnormal Event Detection. citation:2 ncitation:2 pid1201340
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101
+title1:Graph Matching. citation:150 ncitation:-1 pid1202101

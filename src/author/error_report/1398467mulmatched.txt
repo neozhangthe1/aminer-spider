@@ -1,0 +1,96 @@
+title1:Collision Attack. citation:17 ncitation:-1 pid1196935
+title1:Collision Attack. citation:17 ncitation:-1 pid1196935
+title1:Collision Attack. citation:17 ncitation:-1 pid1196935
+title1:Collision Attack. citation:17 ncitation:-1 pid1196935
+title1:The MESH Block Ciphers. citation:16 ncitation:11 pid663408
+title1:The MESH Block Ciphers. citation:16 ncitation:11 pid663408
+title1:Multi-party Computation from Any Linear Secret Sharing Scheme Unconditionally Secure against Adaptive Adversary: The Zero-Error Case. citation:3 ncitation:4 pid23341
+title1:Multi-party Computation from Any Linear Secret Sharing Scheme Unconditionally Secure against Adaptive Adversary: The Zero-Error Case. citation:3 ncitation:4 pid23341
+title1:Hardware Implementation of an Elliptic Curve Processor over GF(p). citation:84 ncitation:78 pid50173
+title1:Hardware Implementation of an Elliptic Curve Processor over GF(p). citation:84 ncitation:78 pid50173
+title1:Integrity Primitives for Secure Information Systems, Final Report of RACE Integrity Primitives Evaluation RIPE-RACE 1040 citation:8 ncitation:66 pid3211
+title1:Integrity Primitives for Secure Information Systems, Final Report of RACE Integrity Primitives Evaluation RIPE-RACE 1040 citation:8 ncitation:66 pid3211
+title1:Differential Cryptanalysis of Hash Functions Based on Block Ciphers. citation:24 ncitation:19 pid84060
+title1:Differential Cryptanalysis of Hash Functions Based on Block Ciphers. citation:24 ncitation:19 pid84060
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:MAC Algorithms. citation:124 ncitation:-1 pid1197030
+title1:On the (In)security of Stream Ciphers Based on Arrays and Modular Addition. citation:32 ncitation:26 pid51080
+title1:On the (In)security of Stream Ciphers Based on Arrays and Modular Addition. citation:32 ncitation:26 pid51080
+title1:Authentication and Payment in Future Mobile Systems. citation:35 ncitation:132 pid189270
+title1:Authentication and Payment in Future Mobile Systems. citation:35 ncitation:132 pid189270
+title1:Cryptanalysis of the Alleged SecurID Hash Function. citation:31 ncitation:26 pid570368
+title1:Cryptanalysis of the Alleged SecurID Hash Function. citation:31 ncitation:26 pid570368
+title1:A Practical Attack on KeeLoq. citation:84 ncitation:70 pid193589
+title1:A Practical Attack on KeeLoq. citation:84 ncitation:70 pid193589
+title1:Trivium. citation:87 ncitation:85 pid1301401
+title1:Trivium. citation:87 ncitation:85 pid1301401
+title1:Trivium. citation:87 ncitation:85 pid1301401
+title1:Solving Systems of Differential Equations of Addition. citation:24 ncitation:22 pid19198
+title1:Solving Systems of Differential Equations of Addition. citation:24 ncitation:22 pid19198
+title1:On Boolean Functions with Generalized Cryptographic Properties. citation:26 ncitation:25 pid399353
+title1:On Boolean Functions with Generalized Cryptographic Properties. citation:26 ncitation:25 pid399353
+title1:Universally Composable Adaptive Priced Oblivious Transfer. citation:24 ncitation:19 pid1259210
+title1:Universally Composable Adaptive Priced Oblivious Transfer. citation:24 ncitation:19 pid1259210
+title1:Maa. citation:14 ncitation:-1 pid1197337
+title1:Maa. citation:14 ncitation:-1 pid1197337
+title1:Maa. citation:14 ncitation:-1 pid1197337
+title1:HMAC. citation:81 ncitation:-1 pid1197302
+title1:HMAC. citation:81 ncitation:-1 pid1197302
+title1:Location privacy in wireless personal area networks. citation:24 ncitation:24 pid667419
+title1:Location privacy in wireless personal area networks. citation:24 ncitation:24 pid667419
+title1:Location privacy in wireless personal area networks. citation:24 ncitation:24 pid667419
+title1:Extending the Resynchronization Attack. citation:34 ncitation:35 pid570340
+title1:Extending the Resynchronization Attack. citation:34 ncitation:35 pid570340
+title1:NESSIE Project. citation:12 ncitation:2 pid1197227
+title1:NESSIE Project. citation:12 ncitation:2 pid1197227
+title1:NESSIE Project. citation:12 ncitation:2 pid1197227
+title1:Multicore Curve-Based Cryptoprocessor with Reconfigurable Modular Arithmetic Logic Units over GF(2). citation:44 ncitation:41 pid1083141
+title1:Multicore Curve-Based Cryptoprocessor with Reconfigurable Modular Arithmetic Logic Units over GF(2). citation:44 ncitation:41 pid1083141
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Hash functions. citation:400 ncitation:2 pid1197168
+title1:Universal One-Way Hash Functions. citation:0 ncitation:-1 pid1197163
+title1:Universal One-Way Hash Functions. citation:0 ncitation:-1 pid1197163
+title1:On Distributed Key Distribution Centers and Unconditionally Secure Proactive Verifiable Secret Sharing Schemes Based on General Access Structure. citation:12 ncitation:10 pid399436
+title1:On Distributed Key Distribution Centers and Unconditionally Secure Proactive Verifiable Secret Sharing Schemes Based on General Access Structure. citation:12 ncitation:10 pid399436

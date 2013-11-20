@@ -1,0 +1,61 @@
+title1:Weighted Random Sampling. citation:50 ncitation:3 pid1199484
+title1:Weighted Random Sampling. citation:50 ncitation:3 pid1199484
+title1:Weighted Random Sampling. citation:50 ncitation:3 pid1199484
+title1:Parallel Algorithms for the Minimum Cut and the Minimum Length Tree Layout Problems. citation:10 ncitation:9 pid1090581
+title1:Parallel Algorithms for the Minimum Cut and the Minimum Length Tree Layout Problems. citation:10 ncitation:9 pid1090581
+title1:MaxMin Fair Flow Control Sensitive to Priorities. citation:3 ncitation:2 pid523363
+title1:MaxMin Fair Flow Control Sensitive to Priorities. citation:3 ncitation:2 pid523363
+title1:Extreme Nash Equilibria. citation:44 ncitation:46 pid368308
+title1:Extreme Nash Equilibria. citation:44 ncitation:46 pid368308
+title1:A Network Game with Attackers and a Defender. citation:22 ncitation:18 pid750926
+title1:A Network Game with Attackers and a Defender. citation:22 ncitation:18 pid750926
+title1:FIFO is Unstable at Arbitrarily Low Rates citation:11 ncitation:4 pid861324
+title1:FIFO is Unstable at Arbitrarily Low Rates citation:11 ncitation:4 pid861324
+title1:Cost Sharing Mechanisms for Fair Pricing of Resource Usage. citation:5 ncitation:5 pid750934
+title1:Cost Sharing Mechanisms for Fair Pricing of Resource Usage. citation:5 ncitation:5 pid750934
+title1:Simple Atomic Snapshots: A Linear Complexity Solution with Unbounded Time-Stamps. citation:12 ncitation:7 pid932190
+title1:Simple Atomic Snapshots: A Linear Complexity Solution with Unbounded Time-Stamps. citation:12 ncitation:7 pid932190
+title1:Radiocolorings in periodic planar graphs: PSPACE-completeness and efficient approximations for the optimal range of frequencies. citation:4 ncitation:4 pid979520
+title1:Radiocolorings in periodic planar graphs: PSPACE-completeness and efficient approximations for the optimal range of frequencies. citation:4 ncitation:4 pid979520
+title1:A step-wise refinement approach for enhancing e-voting acceptance. citation:2 ncitation:2 pid708722
+title1:A step-wise refinement approach for enhancing e-voting acceptance. citation:2 ncitation:2 pid708722
+title1:Introduction. citation:0 ncitation:-1 pid990197
+title1:Introduction. citation:0 ncitation:-1 pid990197
+title1:Introduction. citation:0 ncitation:-1 pid990197
+title1:Optimal, Distributed Decision-Making: The Case of No Communication. citation:15 ncitation:15 pid204120
+title1:Optimal, Distributed Decision-Making: The Case of No Communication. citation:15 ncitation:15 pid204120
+title1:Efficiency of Oblivious versus Nonoblivious Schedulers for Optimistic, Rate-based Flow Control. citation:10 ncitation:10 pid1059153
+title1:Efficiency of Oblivious versus Nonoblivious Schedulers for Optimistic, Rate-based Flow Control. citation:10 ncitation:10 pid1059153
+title1:Reading Many Variables in One Atomic Operation: Solutions With Linear or Sublinear Complexity. citation:36 ncitation:61 pid653905
+title1:Reading Many Variables in One Atomic Operation: Solutions With Linear or Sublinear Complexity. citation:36 ncitation:61 pid653905
+title1:Stability Issues in Heterogeneous and FIFO Networks under the Adversarial Queueing Model. citation:16 ncitation:16 pid251006
+title1:Stability Issues in Heterogeneous and FIFO Networks under the Adversarial Queueing Model. citation:16 ncitation:16 pid251006
+title1:Efficient Redundant Assignments under Fault-Tolerance Constraints. citation:0 ncitation:0 pid557834
+title1:Efficient Redundant Assignments under Fault-Tolerance Constraints. citation:0 ncitation:0 pid557834
+title1:Hamilton Cycles in Random Intersection Graphs. citation:13 ncitation:0 pid1199541
+title1:Hamilton Cycles in Random Intersection Graphs. citation:13 ncitation:0 pid1199541
+title1:Minimum Congestion Redundant Assignments. citation:5 ncitation:0 pid1199494
+title1:Minimum Congestion Redundant Assignments. citation:5 ncitation:0 pid1199494
+title1:Scheduling tasks with dependencies on asymmetric multiprocessors. citation:1 ncitation:2 pid544719
+title1:Scheduling tasks with dependencies on asymmetric multiprocessors. citation:1 ncitation:2 pid544719
+title1:Competitive Call Control in Mobile Networks. citation:13 ncitation:18 pid415866
+title1:Competitive Call Control in Mobile Networks. citation:13 ncitation:18 pid415866
+title1:Instability of Networks with Quasi-Static Link Capacities. citation:12 ncitation:11 pid604687
+title1:Instability of Networks with Quasi-Static Link Capacities. citation:12 ncitation:11 pid604687
+title1:Scheduling Algorithms for Strict Multithreaded Computations. citation:6 ncitation:6 pid415468
+title1:Scheduling Algorithms for Strict Multithreaded Computations. citation:6 ncitation:6 pid415468
+title1:Efficient Parallel Algorithms for Shortest Paths in Planar Digraphs. citation:13 ncitation:13 pid768261
+title1:Efficient Parallel Algorithms for Shortest Paths in Planar Digraphs. citation:13 ncitation:13 pid768261
+title1:BSP vs LogP. citation:90 ncitation:88 pid613967
+title1:BSP vs LogP. citation:90 ncitation:88 pid613967
+title1:Stability Behavior of FIFO Protocol in the Adversarial Queuing Model. citation:3 ncitation:3 pid531079
+title1:Stability Behavior of FIFO Protocol in the Adversarial Queuing Model. citation:3 ncitation:3 pid531079
+title1:Stability Behavior of FIFO Protocol in the Adversarial Queuing Model. citation:3 ncitation:3 pid531079
+title1:Mediated Population Protocols. citation:15 ncitation:23 pid1209636
+title1:Mediated Population Protocols. citation:15 ncitation:23 pid1209636
+title1:Game authority for robust andscalable distributed selfish-computer systems. citation:3 ncitation:4 pid544572
+title1:Game authority for robust andscalable distributed selfish-computer systems. citation:3 ncitation:4 pid544572
+title1:Which Is the Worst-Case Nash Equilibrium? citation:59 ncitation:59 pid494128
+title1:Which Is the Worst-Case Nash Equilibrium? citation:59 ncitation:59 pid494128
+title1:Strategies for repeated games with subsystem takeovers implementable by deterministic and self-stabilising automata. citation:9 ncitation:8 pid3353863
+title1:Strategies for repeated games with subsystem takeovers implementable by deterministic and self-stabilising automata. citation:9 ncitation:8 pid3353863

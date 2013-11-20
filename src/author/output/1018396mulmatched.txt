@@ -1,0 +1,52 @@
+title1:Unsupervised Texture Segmentation Based on Watershed and a Novel Artificial Immune Antibody Competitive Network. citation:1 ncitation:1 pid677196
+title1:Unsupervised Texture Segmentation Based on Watershed and a Novel Artificial Immune Antibody Competitive Network. citation:1 ncitation:1 pid677196
+title1:Image Recognition Using Synergetic Neural Network. citation:2 ncitation:2 pid442077
+title1:Image Recognition Using Synergetic Neural Network. citation:2 ncitation:2 pid442077
+title1:Moving Block Sequence and Organizational Evolutionary Algorithm for General Floorplanning. citation:26 ncitation:1 pid97051
+title1:Moving Block Sequence and Organizational Evolutionary Algorithm for General Floorplanning. citation:26 ncitation:1 pid97051
+title1:A New Cluster Validity Function Based on the Modified Partition Fuzzy Degree. citation:10 ncitation:16 pid561381
+title1:A New Cluster Validity Function Based on the Modified Partition Fuzzy Degree. citation:10 ncitation:16 pid561381
+title1:A Review: Relationship Between Response Properties of Visual Neurons and Advances in Nonlinear Approximation Theory. citation:0 ncitation:-1 pid442791
+title1:A Review: Relationship Between Response Properties of Visual Neurons and Advances in Nonlinear Approximation Theory. citation:0 ncitation:-1 pid442791
+title1:Recognition of SAR Occluded Targets Using SVM. citation:3 ncitation:2 pid504891
+title1:Recognition of SAR Occluded Targets Using SVM. citation:3 ncitation:2 pid504891
+title1:Job-Shop Scheduling Based on Multiagent Evolutionary Algorithm. citation:7 ncitation:6 pid338168
+title1:Job-Shop Scheduling Based on Multiagent Evolutionary Algorithm. citation:7 ncitation:6 pid338168
+title1:Heuristic Genetic Algorithm-Based Support Vector Classifier for Recognition of Remote Sensing Images. citation:5 ncitation:3 pid443297
+title1:Heuristic Genetic Algorithm-Based Support Vector Classifier for Recognition of Remote Sensing Images. citation:5 ncitation:3 pid443297
+title1:Multiobjective optimization using an immunodominance and clonal selection inspired algorithm. citation:14 ncitation:13 pid1180572
+title1:Multiobjective optimization using an immunodominance and clonal selection inspired algorithm. citation:14 ncitation:13 pid1180572
+title1:Immune Clonal Strategy Based on the Adaptive Mean Mutation. citation:3 ncitation:3 pid700349
+title1:Immune Clonal Strategy Based on the Adaptive Mean Mutation. citation:3 ncitation:3 pid700349
+title1:A novel genetic algorithm based on immunity. citation:467 ncitation:425 pid1131368
+title1:A novel genetic algorithm based on immunity. citation:467 ncitation:425 pid1131368
+title1:A Fully Unsupervised Image Segmentation Algorithm Based on Wavelet-Domain Hidden Markov Tree Models. citation:1 ncitation:0 pid19617
+title1:A Fully Unsupervised Image Segmentation Algorithm Based on Wavelet-Domain Hidden Markov Tree Models. citation:1 ncitation:0 pid19617
+title1:IFCPA: Immune Forgetting Clonal Programming Algorithm for Large Parameter Optimization Problems. citation:1 ncitation:1 pid337551
+title1:IFCPA: Immune Forgetting Clonal Programming Algorithm for Large Parameter Optimization Problems. citation:1 ncitation:1 pid337551
+title1:Multi-objective Evolutionary Design and Knowledge Discovery of Logic Circuits with an Improved Genetic Algorithm. citation:3 ncitation:2 pid97328
+title1:Multi-objective Evolutionary Design and Knowledge Discovery of Logic Circuits with an Improved Genetic Algorithm. citation:3 ncitation:2 pid97328
+title1:Quantum-Inspired Immune Clonal Algorithm. citation:29 ncitation:27 pid273296
+title1:Quantum-Inspired Immune Clonal Algorithm. citation:29 ncitation:27 pid273296
+title1:Quantum-Inspired Immune Clonal Algorithm. citation:29 ncitation:27 pid273296
+title1:Quantum-Inspired Immune Clonal Algorithm. citation:29 ncitation:27 pid273296
+title1:Kernel matching pursuit classifier ensemble. citation:6 ncitation:6 pid1039808
+title1:Kernel matching pursuit classifier ensemble. citation:6 ncitation:6 pid1039808
+title1:Construction of orthogonal multiwavelets with short sequence. citation:9 ncitation:9 pid1149901
+title1:Construction of orthogonal multiwavelets with short sequence. citation:9 ncitation:9 pid1149901
+title1:Integrated the Simplified Interpolation and Clonal Selection into the Particle Swarm Optimization for Optimization Problems. citation:3 ncitation:3 pid580036
+title1:Integrated the Simplified Interpolation and Clonal Selection into the Particle Swarm Optimization for Optimization Problems. citation:3 ncitation:3 pid580036
+title1:Space-Time Multiuser Detection Combined with Adaptive Wavelet Networks over Multipath Channels. citation:0 ncitation:0 pid442949
+title1:Space-Time Multiuser Detection Combined with Adaptive Wavelet Networks over Multipath Channels. citation:0 ncitation:0 pid442949
+title1:Clonal Selection Algorithm with Search Space Expansion Scheme for Global Function Optimization. citation:6 ncitation:6 pid337914
+title1:Clonal Selection Algorithm with Search Space Expansion Scheme for Global Function Optimization. citation:6 ncitation:6 pid337914
+title1:A Dynamic Clonal Selection Algorithm for Project Optimization Scheduling. citation:3 ncitation:3 pid579957
+title1:A Dynamic Clonal Selection Algorithm for Project Optimization Scheduling. citation:3 ncitation:3 pid579957
+title1:Immunodomaince based clonal selection clustering algorithm. citation:13 ncitation:4 pid2909500
+title1:Immunodomaince based clonal selection clustering algorithm. citation:13 ncitation:4 pid2909500
+title1:Spectral clustering with eigenvector selection based on entropy ranking. citation:38 ncitation:22 pid2923134
+title1:Spectral clustering with eigenvector selection based on entropy ranking. citation:38 ncitation:22 pid2923134
+title1:Spectral Clustering Ensemble Applied to SAR Image Segmentation. citation:83 ncitation:66 pid3123067
+title1:Spectral Clustering Ensemble Applied to SAR Image Segmentation. citation:83 ncitation:66 pid3123067
+title1:Community Detection in Dynamic Social Networks Based on Multiobjective Immune Algorithm. citation:9 ncitation:1 pid3394080
+title1:Community Detection in Dynamic Social Networks Based on Multiobjective Immune Algorithm. citation:9 ncitation:1 pid3394080

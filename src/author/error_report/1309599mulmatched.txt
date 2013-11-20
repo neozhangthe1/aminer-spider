@@ -1,0 +1,41 @@
+title1:Comparison of Erasure Tests with Diversity Reception for Noncoherent M-ary FSK Signaling. citation:1 ncitation:1 pid275990
+title1:Comparison of Erasure Tests with Diversity Reception for Noncoherent M-ary FSK Signaling. citation:1 ncitation:1 pid275990
+title1:Amplify-and-Forward Cooperative Systems with Fixed Gain Relays. citation:34 ncitation:2 pid276512
+title1:Amplify-and-Forward Cooperative Systems with Fixed Gain Relays. citation:34 ncitation:2 pid276512
+title1:A Myriad Filter Detector for UWB Multiuser Communication. citation:18 ncitation:15 pid276522
+title1:A Myriad Filter Detector for UWB Multiuser Communication. citation:18 ncitation:15 pid276522
+title1:New UWB Receiver Designs Based on a Gaussian-Laplacian Noise-Plus-MAI Model. citation:52 ncitation:45 pid277144
+title1:New UWB Receiver Designs Based on a Gaussian-Laplacian Noise-Plus-MAI Model. citation:52 ncitation:45 pid277144
+title1:A Simple Power Margin Quality Measure for Correlated Random Variates Derived from the Normal Distribution. citation:13 ncitation:14 pid277386
+title1:A Simple Power Margin Quality Measure for Correlated Random Variates Derived from the Normal Distribution. citation:13 ncitation:14 pid277386
+title1:On Relaying in Cooperative Static Channels. citation:0 ncitation:-1 pid703685
+title1:On Relaying in Cooperative Static Channels. citation:0 ncitation:-1 pid703685
+title1:Decision-feedback detection for block differential space-time modulation. citation:7 ncitation:6 pid1087183
+title1:Decision-feedback detection for block differential space-time modulation. citation:7 ncitation:6 pid1087183
+title1:Decision-feedback detection for block differential space-time modulation. citation:7 ncitation:6 pid1087183
+title1:Accurate Simulation of multiple cross-correlated Rician fading channels. citation:40 ncitation:37 pid1087245
+title1:Accurate Simulation of multiple cross-correlated Rician fading channels. citation:40 ncitation:37 pid1087245
+title1:Effects of channel-estimation errors on receiver selection-combining schemes for Alamouti MIMO systems with BPSK. citation:30 ncitation:27 pid1087424
+title1:Effects of channel-estimation errors on receiver selection-combining schemes for Alamouti MIMO systems with BPSK. citation:30 ncitation:27 pid1087424
+title1:M-ary NCFSK with S+N selection combining in Rician fading. citation:10 ncitation:10 pid1087448
+title1:M-ary NCFSK with S+N selection combining in Rician fading. citation:10 ncitation:10 pid1087448
+title1:An Analytical Expression for the BER of an Individually Optimal Single Cochannel Interferer BPSK Receiver. citation:4 ncitation:4 pid1087974
+title1:An Analytical Expression for the BER of an Individually Optimal Single Cochannel Interferer BPSK Receiver. citation:4 ncitation:4 pid1087974
+title1:Linear threaded algebraic space-time constellations. citation:92 ncitation:91 pid1105078
+title1:Linear threaded algebraic space-time constellations. citation:92 ncitation:91 pid1105078
+title1:Autoregressive modeling for fading channel simulation. citation:255 ncitation:219 pid1176960
+title1:Autoregressive modeling for fading channel simulation. citation:255 ncitation:219 pid1176960
+title1:Low Complexity Receivers for Coherent Amplify-and-Forward Cooperative Systems. citation:21 ncitation:13 pid2927433
+title1:Low Complexity Receivers for Coherent Amplify-and-Forward Cooperative Systems. citation:21 ncitation:13 pid2927433
+title1:Linear Diversity Combining on Nakagami-0.5 Fading Channels. citation:8 ncitation:3 pid3126568
+title1:Linear Diversity Combining on Nakagami-0.5 Fading Channels. citation:8 ncitation:3 pid3126568
+title1:The generation of correlated Rayleigh random variates by inverse discrete Fourier transform. citation:212 ncitation:191 pid3245048
+title1:The generation of correlated Rayleigh random variates by inverse discrete Fourier transform. citation:212 ncitation:191 pid3245048
+title1:Outage probability of MRC with unequal-power cochannel interferers in correlated Rayleigh fading. citation:28 ncitation:26 pid3312006
+title1:Outage probability of MRC with unequal-power cochannel interferers in correlated Rayleigh fading. citation:28 ncitation:26 pid3312006
+title1:BER analysis of BPSK signaling in Ricean-faded cochannel interference. citation:8 ncitation:6 pid3432586
+title1:BER analysis of BPSK signaling in Ricean-faded cochannel interference. citation:8 ncitation:6 pid3432586
+title1:Bounds on recovery times of decision feedback equalizers. citation:18 ncitation:20 pid3534552
+title1:Bounds on recovery times of decision feedback equalizers. citation:18 ncitation:20 pid3534552
+title1:Accurate simulation of multiple cross-correlated fading channels. citation:14 ncitation:None pid3669775
+title1:Accurate simulation of multiple cross-correlated fading channels. citation:14 ncitation:None pid3669775

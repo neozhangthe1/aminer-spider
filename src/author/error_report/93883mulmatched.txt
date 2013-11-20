@@ -1,0 +1,18 @@
+title1:A Determinizable Class of Timed Automata. citation:0 ncitation:166 pid79166
+title1:A Determinizable Class of Timed Automata. citation:0 ncitation:166 pid79166
+title1:A Determinizable Class of Timed Automata. citation:0 ncitation:166 pid79166
+title1:It's About Time: Real-Time Logics Reviewed. citation:108 ncitation:104 pid114400
+title1:It's About Time: Real-Time Logics Reviewed. citation:108 ncitation:104 pid114400
+title1:Fair Simulation. citation:0 ncitation:85 pid114406
+title1:Fair Simulation. citation:0 ncitation:85 pid114406
+title1:Abstractions from proofs. citation:424 ncitation:394 pid546303
+title1:Abstractions from proofs. citation:424 ncitation:394 pid546303
+title1:Formal specification and verification of a dataflow processor array. citation:0 ncitation:33 pid282265
+title1:Formal specification and verification of a dataflow processor array. citation:0 ncitation:33 pid282265
+title1:Alternating Refinement Relations. citation:257 ncitation:245 pid114072
+title1:Alternating Refinement Relations. citation:257 ncitation:245 pid114072
+title1:Lazy abstraction. citation:1060 ncitation:1022 pid546304
+title1:Lazy abstraction. citation:1060 ncitation:1022 pid546304
+title1:Timed Interfaces. citation:0 ncitation:153 pid181294
+title1:Timed Interfaces. citation:0 ncitation:153 pid181294
+title1:Timed Interfaces. citation:0 ncitation:153 pid181294

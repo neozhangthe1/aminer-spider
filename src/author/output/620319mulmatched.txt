@@ -1,0 +1,12 @@
+title1:Design and Management of 3D Chip Multiprocessors Using Network-in-Memory. citation:297 ncitation:253 pid419069
+title1:Design and Management of 3D Chip Multiprocessors Using Network-in-Memory. citation:297 ncitation:253 pid419069
+title1:Exploring Fault-Tolerant Network-on-Chip Architectures. citation:143 ncitation:122 pid161766
+title1:Exploring Fault-Tolerant Network-on-Chip Architectures. citation:143 ncitation:122 pid161766
+title1:Improving Java performance using dynamic method migration on FPGAs. citation:19 ncitation:12 pid1172498
+title1:Improving Java performance using dynamic method migration on FPGAs. citation:19 ncitation:12 pid1172498
+title1:A novel dimensionally-decomposed router for on-chip communication in 3D architectures. citation:175 ncitation:140 pid419748
+title1:A novel dimensionally-decomposed router for on-chip communication in 3D architectures. citation:175 ncitation:140 pid419748
+title1:An Automated Framework for Accelerating Numerical Algorithms on Reconfigurable Platforms Using Algorithmic/Architectural Optimization. citation:6 ncitation:5 pid1281360
+title1:An Automated Framework for Accelerating Numerical Algorithms on Reconfigurable Platforms Using Algorithmic/Architectural Optimization. citation:6 ncitation:5 pid1281360
+title1:FPGA architecture for 2D Discrete Fourier Transform based on 2D decomposition for large-sized data. citation:4 ncitation:3 pid2834958
+title1:FPGA architecture for 2D Discrete Fourier Transform based on 2D decomposition for large-sized data. citation:4 ncitation:3 pid2834958

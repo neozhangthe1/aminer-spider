@@ -1,0 +1,10 @@
+title1:Replica Placement in Data Grid: Considering Utility and Risk. citation:42 ncitation:39 pid457228
+title1:Replica Placement in Data Grid: Considering Utility and Risk. citation:42 ncitation:39 pid457228
+title1:Optimal incremental multi-step nearest-neighbor search. citation:2 ncitation:2 pid233226
+title1:Optimal incremental multi-step nearest-neighbor search. citation:2 ncitation:2 pid233226
+title1:Data warehouse architecture and design. citation:10 ncitation:5 pid414394
+title1:Data warehouse architecture and design. citation:10 ncitation:5 pid414394
+title1:View Maintenance in Object-Oriented Databases. citation:11 ncitation:6 pid149258
+title1:View Maintenance in Object-Oriented Databases. citation:11 ncitation:6 pid149258
+title1:Link prediction and classification in social networks and its application in healthcare. citation:8 ncitation:1 pid3171125
+title1:Link prediction and classification in social networks and its application in healthcare. citation:8 ncitation:1 pid3171125

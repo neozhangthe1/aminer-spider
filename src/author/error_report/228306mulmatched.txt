@@ -1,0 +1,36 @@
+title1:Query Processing in Spatial Database Systems. citation:132 ncitation:1 pid66099
+title1:Query Processing in Spatial Database Systems. citation:132 ncitation:1 pid66099
+title1:Query Processing in Spatial Database Systems. citation:132 ncitation:1 pid66099
+title1:Query Processing in Spatial Database Systems. citation:132 ncitation:1 pid66099
+title1:Knowledge Discovery in Spatial Databases. citation:66 ncitation:65 pid135386
+title1:Knowledge Discovery in Spatial Databases. citation:66 ncitation:65 pid135386
+title1:Incremental Reverse Nearest Neighbor Ranking. citation:7 ncitation:4 pid302390
+title1:Incremental Reverse Nearest Neighbor Ranking. citation:7 ncitation:4 pid302390
+title1:On Optimizing Nearest Neighbor Queries in High-Dimensional Data Spaces. citation:40 ncitation:35 pid303970
+title1:On Optimizing Nearest Neighbor Queries in High-Dimensional Data Spaces. citation:40 ncitation:35 pid303970
+title1:Handling geometric objects with free form curves in spatial databases. citation:1 ncitation:1 pid606070
+title1:Handling geometric objects with free form curves in spatial databases. citation:1 ncitation:1 pid606070
+title1:Query Processing of Spatial Objects: Complexity versus Redundancy. citation:19 ncitation:19 pid617702
+title1:Query Processing of Spatial Objects: Complexity versus Redundancy. citation:19 ncitation:19 pid617702
+title1:Infinite Hidden Relational Models. citation:102 ncitation:92 pid633320
+title1:Infinite Hidden Relational Models. citation:102 ncitation:92 pid633320
+title1:Infinite Hidden Relational Models. citation:102 ncitation:92 pid633320
+title1:Accurate and Efficient Crawling for Relevant Websites. citation:50 ncitation:44 pid642507
+title1:Accurate and Efficient Crawling for Relevant Websites. citation:50 ncitation:44 pid642507
+title1:Indexing the Solution Space: A New Technique for Nearest Neighbor Search in High-Dimensional Space. citation:74 ncitation:65 pid1112393
+title1:Indexing the Solution Space: A New Technique for Nearest Neighbor Search in High-Dimensional Space. citation:74 ncitation:65 pid1112393
+title1:Multiple Similarity Queries: A Basic DBMS Operation for Mining in Metric Databases. citation:24 ncitation:20 pid1112482
+title1:Multiple Similarity Queries: A Basic DBMS Operation for Mining in Metric Databases. citation:24 ncitation:20 pid1112482
+title1:R*-Tree. citation:11 ncitation:2 pid1197796
+title1:R*-Tree. citation:11 ncitation:2 pid1197796
+title1:R*-Tree. citation:11 ncitation:2 pid1197796
+title1:ELKI in Time: ELKI 0.2 for the Performance Evaluation of Distance Measures for Time Series. citation:15 ncitation:13 pid1214439
+title1:ELKI in Time: ELKI 0.2 for the Performance Evaluation of Distance Measures for Time Series. citation:15 ncitation:13 pid1214439
+title1:Density-based clustering. citation:42 ncitation:21 pid3096453
+title1:Density-based clustering. citation:42 ncitation:21 pid3096453
+title1:Density-based clustering. citation:42 ncitation:21 pid3096453
+title1:Subspace clustering. citation:11 ncitation:4 pid3447560
+title1:Subspace clustering. citation:11 ncitation:4 pid3447560
+title1:Subspace clustering. citation:11 ncitation:4 pid3447560
+title1:On Evaluation of Outlier Rankings and Outlier Scores. citation:10 ncitation:2 pid3496749
+title1:On Evaluation of Outlier Rankings and Outlier Scores. citation:10 ncitation:2 pid3496749

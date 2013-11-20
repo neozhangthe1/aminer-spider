@@ -1,0 +1,20 @@
+title1:Constant-Time Convexity Problems on Reconfigurable Meshes. citation:3 ncitation:15 pid85675
+title1:Constant-Time Convexity Problems on Reconfigurable Meshes. citation:3 ncitation:15 pid85675
+title1:Computer Productivity Initiative. citation:1 ncitation:5 pid123418
+title1:Computer Productivity Initiative. citation:1 ncitation:5 pid123418
+title1:A Linear-Time Recognition Algorithm for P-Reducible Graphs. citation:14 ncitation:7 pid219670
+title1:A Linear-Time Recognition Algorithm for P-Reducible Graphs. citation:14 ncitation:7 pid219670
+title1:Randomized Initialization Protocols for Packet Radio Networks. citation:53 ncitation:50 pid409265
+title1:Randomized Initialization Protocols for Packet Radio Networks. citation:53 ncitation:50 pid409265
+title1:An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable. citation:20 ncitation:4 pid410185
+title1:An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable. citation:20 ncitation:4 pid410185
+title1:Efficient List Ranking on the Reconfigurable Mesh, with Applications. citation:3 ncitation:8 pid415525
+title1:Efficient List Ranking on the Reconfigurable Mesh, with Applications. citation:3 ncitation:8 pid415525
+title1:Providing VANET security through active position detection. citation:119 ncitation:97 pid505877
+title1:Providing VANET security through active position detection. citation:119 ncitation:97 pid505877
+title1:NOTICE: An Architecture for the Notification of Traffic Incidents. citation:28 ncitation:28 pid690414
+title1:NOTICE: An Architecture for the Notification of Traffic Incidents. citation:28 ncitation:28 pid690414
+title1:On the L(h, k)-Labeling of Co-comparability Graphs. citation:7 ncitation:2 pid701865
+title1:On the L(h, k)-Labeling of Co-comparability Graphs. citation:7 ncitation:2 pid701865
+title1:Randomized Initialization Protocols for Ad Hoc Networks. citation:123 ncitation:108 pid1125539
+title1:Randomized Initialization Protocols for Ad Hoc Networks. citation:123 ncitation:108 pid1125539

@@ -1,0 +1,6 @@
+title1:Evolvable View Environment (EVE): Non-Equivalent View Maintenance under Schema Changes. citation:0 ncitation:20 pid599692
+title1:Evolvable View Environment (EVE): Non-Equivalent View Maintenance under Schema Changes. citation:0 ncitation:20 pid599692
+title1:Runtime Semantic Query Optimization for Event Stream Processing. citation:0 ncitation:22 pid302089
+title1:Runtime Semantic Query Optimization for Event Stream Processing. citation:0 ncitation:22 pid302089
+title1:Achieving High Freshness and Optimal Throughput in CPU-Limited Execution of Multi-join Continuous Queries. citation:0 ncitation:0 pid3185504
+title1:Achieving High Freshness and Optimal Throughput in CPU-Limited Execution of Multi-join Continuous Queries. citation:0 ncitation:0 pid3185504

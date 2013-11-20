@@ -1,0 +1,92 @@
+title1:Performance characterization of multiband UWB communication systems using Poisson cluster arriving fading paths. citation:25 ncitation:21 pid992491
+title1:Performance characterization of multiband UWB communication systems using Poisson cluster arriving fading paths. citation:25 ncitation:21 pid992491
+title1:The hierarchical timing pair model. citation:5 ncitation:4 pid425774
+title1:The hierarchical timing pair model. citation:5 ncitation:4 pid425774
+title1:The hierarchical timing pair model. citation:5 ncitation:4 pid425774
+title1:The hierarchical timing pair model. citation:5 ncitation:4 pid425774
+title1:Key management and distribution for secure multimedia multicast. citation:57 ncitation:56 pid1116625
+title1:Key management and distribution for secure multimedia multicast. citation:57 ncitation:56 pid1116625
+title1:Robust Image and Video Transmission Over Spectrally Shaped Channels Using Multicarrier Modulation. citation:60 ncitation:60 pid1116641
+title1:Robust Image and Video Transmission Over Spectrally Shaped Channels Using Multicarrier Modulation. citation:60 ncitation:60 pid1116641
+title1:Algorithm-based low-power transform coding architectures: the multirate approach. citation:10 ncitation:11 pid1134627
+title1:Algorithm-based low-power transform coding architectures: the multirate approach. citation:10 ncitation:11 pid1134627
+title1:Modulation forensics for wireless digital communications. citation:3 ncitation:2 pid1329558
+title1:Modulation forensics for wireless digital communications. citation:3 ncitation:2 pid1329558
+title1:DCT-based motion estimation. citation:67 ncitation:64 pid1101137
+title1:DCT-based motion estimation. citation:67 ncitation:64 pid1101137
+title1:DCT-based motion estimation. citation:67 ncitation:64 pid1101137
+title1:DCT-based motion estimation. citation:67 ncitation:64 pid1101137
+title1:Localized wavelet based computerized tomography. citation:9 ncitation:7 pid320707
+title1:Localized wavelet based computerized tomography. citation:9 ncitation:7 pid320707
+title1:Game Theoretic Analysis of Cooperation Stimulation and Security in Autonomous Mobile Ad Hoc Networks. citation:58 ncitation:49 pid1114213
+title1:Game Theoretic Analysis of Cooperation Stimulation and Security in Autonomous Mobile Ad Hoc Networks. citation:58 ncitation:49 pid1114213
+title1:A Waveront Array for URV Decomposition Updating. citation:2 ncitation:0 pid423552
+title1:A Waveront Array for URV Decomposition Updating. citation:2 ncitation:0 pid423552
+title1:Channel-aware priority transmission scheme using joint channel estimation and data loading for OFDM systems. citation:19 ncitation:18 pid1175369
+title1:Channel-aware priority transmission scheme using joint channel estimation and data loading for OFDM systems. citation:19 ncitation:18 pid1175369
+title1:Computerized Radiographic Mass Detection - Part I: Lesion Site Selection by Morphological Enhancement and Contextual Segmentation. citation:75 ncitation:75 pid1115195
+title1:Computerized Radiographic Mass Detection - Part I: Lesion Site Selection by Morphological Enhancement and Contextual Segmentation. citation:75 ncitation:75 pid1115195
+title1:Computerized Radiographic Mass Detection - Part II: Decision Support by Featured Database Visualization and Modular Neural Networks. citation:25 ncitation:27 pid1115196
+title1:Computerized Radiographic Mass Detection - Part II: Decision Support by Featured Database Visualization and Modular Neural Networks. citation:25 ncitation:27 pid1115196
+title1:Distributed Relay Selection and Power Control for Multiuser Cooperative Communication Networks Using Stackelberg Game. citation:163 ncitation:105 pid1227776
+title1:Distributed Relay Selection and Power Control for Multiuser Cooperative Communication Networks Using Stackelberg Game. citation:163 ncitation:105 pid1227776
+title1:Defense Against Injecting Traffic Attacks in Wireless Mobile Ad-Hoc Networks. citation:3 ncitation:4 pid1185762
+title1:Defense Against Injecting Traffic Attacks in Wireless Mobile Ad-Hoc Networks. citation:3 ncitation:4 pid1185762
+title1:Lifetime maximization via cooperative nodes and relay deployment in wireless networks. citation:106 ncitation:90 pid993107
+title1:Lifetime maximization via cooperative nodes and relay deployment in wireless networks. citation:106 ncitation:90 pid993107
+title1:Risk-distortion analysis for video collusion attack. citation:9 ncitation:-1 pid2836651
+title1:Risk-distortion analysis for video collusion attack. citation:9 ncitation:-1 pid2836651
+title1:Behavior forensics with side information for multimedia fingerprinting social networks. citation:6 ncitation:4 pid2935271
+title1:Behavior forensics with side information for multimedia fingerprinting social networks. citation:6 ncitation:4 pid2935271
+title1:Cooperation Stimulation Strategies for Peer-to-Peer Wireless Live Video-Sharing Social Networks. citation:6 ncitation:3 pid3080946
+title1:Cooperation Stimulation Strategies for Peer-to-Peer Wireless Live Video-Sharing Social Networks. citation:6 ncitation:3 pid3080946
+title1:Space-Time Network Coding. citation:26 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:26 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:26 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:26 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:26 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:26 ncitation:14 pid3086173
+title1:High-Level Synthesis of DSP Applications Using Adaptive Negative Cycle Detection. citation:1 ncitation:3 pid3105961
+title1:High-Level Synthesis of DSP Applications Using Adaptive Negative Cycle Detection. citation:1 ncitation:3 pid3105961
+title1:Systematic Design of Space-Time Trellis Codes for Diversity and Coding Advantages. citation:21 ncitation:18 pid3105975
+title1:Systematic Design of Space-Time Trellis Codes for Diversity and Coding Advantages. citation:21 ncitation:18 pid3105975
+title1:An Adaptive Channel Estimation Algorithm Using Time-Frequency Polynomial Model for OFDM with Fading Multipath Channels. citation:14 ncitation:15 pid3105980
+title1:An Adaptive Channel Estimation Algorithm Using Time-Frequency Polynomial Model for OFDM with Fading Multipath Channels. citation:14 ncitation:15 pid3105980
+title1:Deterministic Blind Subspace MIMO Equalization. citation:6 ncitation:7 pid3106132
+title1:Deterministic Blind Subspace MIMO Equalization. citation:6 ncitation:7 pid3106132
+title1:Motion Compensation on DCT Domain. citation:7 ncitation:8 pid3106177
+title1:Motion Compensation on DCT Domain. citation:7 ncitation:8 pid3106177
+title1:Joint Power Control and Blind Beamforming over Wireless Networks: A Cross Layer Approach. citation:5 ncitation:6 pid3106900
+title1:Joint Power Control and Blind Beamforming over Wireless Networks: A Cross Layer Approach. citation:5 ncitation:6 pid3106900
+title1:An Integrated Source and Channel Rate Allocation Scheme for Robust Video Coding and Transmission over Wireless Channels. citation:11 ncitation:12 pid3106996
+title1:An Integrated Source and Channel Rate Allocation Scheme for Robust Video Coding and Transmission over Wireless Channels. citation:11 ncitation:12 pid3106996
+title1:Performance analysis for adaptive channel estimation exploiting cyclic prefix in multicarrier modulation systems. citation:19 ncitation:19 pid3244805
+title1:Performance analysis for adaptive channel estimation exploiting cyclic prefix in multicarrier modulation systems. citation:19 ncitation:19 pid3244805
+title1:Jointly optimized bit-rate/delay control policy for wireless packet networks with fading channels. citation:85 ncitation:79 pid3245160
+title1:Jointly optimized bit-rate/delay control policy for wireless packet networks with fading channels. citation:85 ncitation:79 pid3245160
+title1:Waveform Design for Sum Rate Optimization in Time-Reversal Multiuser Downlink Systems. citation:1 ncitation:0 pid3293680
+title1:Waveform Design for Sum Rate Optimization in Time-Reversal Multiuser Downlink Systems. citation:1 ncitation:0 pid3293680
+title1:Time-Reversal Division Multiple Access in Multi-Path Channels. citation:5 ncitation:1 pid3293706
+title1:Time-Reversal Division Multiple Access in Multi-Path Channels. citation:5 ncitation:1 pid3293706
+title1:Comments on "Multiphase systolic algorithms for spectral decomposition" [and reply]. citation:0 ncitation:0 pid3314325
+title1:Comments on "Multiphase systolic algorithms for spectral decomposition" [and reply]. citation:0 ncitation:0 pid3314325
+title1:Multiphase systolic algorithms for spectral decomposition. citation:10 ncitation:10 pid3315314
+title1:Multiphase systolic algorithms for spectral decomposition. citation:10 ncitation:10 pid3315314
+title1:Multiphase systolic algorithms for spectral decomposition. citation:10 ncitation:10 pid3315314
+title1:Unified parallel lattice structures for time-recursive discrete cosine/sine/Hartley transforms. citation:91 ncitation:90 pid3368889
+title1:Unified parallel lattice structures for time-recursive discrete cosine/sine/Hartley transforms. citation:91 ncitation:90 pid3368889
+title1:Multi-layer key management for secure multimedia multicast communications. citation:8 ncitation:9 pid3430130
+title1:Multi-layer key management for secure multimedia multicast communications. citation:8 ncitation:9 pid3430130
+title1:A dynamic pricing approach for self-organized mobile ad hoc networks. citation:1 ncitation:2 pid3431326
+title1:A dynamic pricing approach for self-organized mobile ad hoc networks. citation:1 ncitation:2 pid3431326
+title1:Anti-attack cooperation stimulation in self-organized ad hoc networks. citation:0 ncitation:1 pid3432171
+title1:Anti-attack cooperation stimulation in self-organized ad hoc networks. citation:0 ncitation:1 pid3432171
+title1:Clustered cooperative communications in wireless networks. citation:19 ncitation:18 pid3432185
+title1:Clustered cooperative communications in wireless networks. citation:19 ncitation:18 pid3432185
+title1:Defense against injecting traffic attacks in cooperative ad hoc networks. citation:7 ncitation:7 pid3432397
+title1:Defense against injecting traffic attacks in cooperative ad hoc networks. citation:7 ncitation:7 pid3432397
+title1:An indirect reciprocity game theoretic framework for dynamic spectrum access. citation:1 ncitation:0 pid3572161
+title1:An indirect reciprocity game theoretic framework for dynamic spectrum access. citation:1 ncitation:0 pid3572161
+title1:Chinese Restaurant Game. citation:9 ncitation:-1 pid3587438
+title1:Chinese Restaurant Game. citation:9 ncitation:-1 pid3587438
+title1:Chinese Restaurant Game. citation:9 ncitation:-1 pid3587438

@@ -1,0 +1,53 @@
+title1:Induced ordered weighted averaging operators. citation:460 ncitation:420 pid1132484
+title1:Induced ordered weighted averaging operators. citation:460 ncitation:420 pid1132484
+title1:The power average operator. citation:75 ncitation:45 pid1132467
+title1:The power average operator. citation:75 ncitation:45 pid1132467
+title1:The power average operator. citation:75 ncitation:45 pid1132467
+title1:Uncertainty representation using fuzzy measures. citation:69 ncitation:64 pid1132471
+title1:Uncertainty representation using fuzzy measures. citation:69 ncitation:64 pid1132471
+title1:Decision Making Under Dempster-Shafer Uncertainties. citation:149 ncitation:16 pid1203224
+title1:Decision Making Under Dempster-Shafer Uncertainties. citation:149 ncitation:16 pid1203224
+title1:Veristic variables. citation:12 ncitation:13 pid1132463
+title1:Veristic variables. citation:12 ncitation:13 pid1132463
+title1:Veristic variables. citation:12 ncitation:13 pid1132463
+title1:Veristic variables. citation:12 ncitation:13 pid1132463
+title1:Veristic variables. citation:12 ncitation:13 pid1132463
+title1:Intuitionistic fuzzy graph interpretations of multi-person multi-criteria decision making. citation:48 ncitation:46 pid721131
+title1:Intuitionistic fuzzy graph interpretations of multi-person multi-criteria decision making. citation:48 ncitation:46 pid721131
+title1:Intuitionistic fuzzy graph interpretations of multi-person multi-criteria decision making. citation:48 ncitation:46 pid721131
+title1:Decision making under interval probabilities. citation:77 ncitation:70 pid904077
+title1:Decision making under interval probabilities. citation:77 ncitation:70 pid904077
+title1:Level sets and the representation theorem for intuitionistic fuzzy sets. citation:6 ncitation:5 pid1342495
+title1:Level sets and the representation theorem for intuitionistic fuzzy sets. citation:6 ncitation:5 pid1342495
+title1:Induction of Fuzzy Characteristic Rules. citation:5 ncitation:4 pid541916
+title1:Induction of Fuzzy Characteristic Rules. citation:5 ncitation:4 pid541916
+title1:Targeted E-commerce Marketing Using Fuzzy Intelligent Agents. citation:70 ncitation:66 pid875779
+title1:Targeted E-commerce Marketing Using Fuzzy Intelligent Agents. citation:70 ncitation:66 pid875779
+title1:Intelligent Social Network Modeling. citation:8 ncitation:1 pid1257269
+title1:Intelligent Social Network Modeling. citation:8 ncitation:1 pid1257269
+title1:Intelligent Social Network Modeling. citation:8 ncitation:1 pid1257269
+title1:Intelligent Social Network Modeling. citation:8 ncitation:1 pid1257269
+title1:A Mathematical Programming Approach to Inference with the Capability of Implementing Default Rules. citation:28 ncitation:29 pid913655
+title1:A Mathematical Programming Approach to Inference with the Capability of Implementing Default Rules. citation:28 ncitation:29 pid913655
+title1:Mountain Clustering on Nonuniform Grids. citation:13 ncitation:2 pid37165
+title1:Mountain Clustering on Nonuniform Grids. citation:13 ncitation:2 pid37165
+title1:On the determination of strength of belief for decision support under uncertainty - Part II: fusing strengths of belief. citation:29 ncitation:22 pid880615
+title1:On the determination of strength of belief for decision support under uncertainty - Part II: fusing strengths of belief. citation:29 ncitation:22 pid880615
+title1:Centered OWA Operators. citation:125 ncitation:98 pid1069975
+title1:Centered OWA Operators. citation:125 ncitation:98 pid1069975
+title1:Recursive and Iterative Owa Operators. citation:4 ncitation:3 pid921787
+title1:Recursive and Iterative Owa Operators. citation:4 ncitation:3 pid921787
+title1:On the relation between two approaches to combining evidence: Ordered Abelian Groups and uninorms. citation:2 ncitation:2 pid981885
+title1:On the relation between two approaches to combining evidence: Ordered Abelian Groups and uninorms. citation:2 ncitation:2 pid981885
+title1:Prioritized aggregation operators. citation:74 ncitation:44 pid904306
+title1:Prioritized aggregation operators. citation:74 ncitation:44 pid904306
+title1:Uncertainty in Knowledge-Based Systems, International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems, IPMU '86, Paris, France, June 30 - July 4, 1986, Selected and Extended Contributions citation:9 ncitation:-1 pid2801402
+title1:Uncertainty in Knowledge-Based Systems, International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems, IPMU '86, Paris, France, June 30 - July 4, 1986, Selected and Extended Contributions citation:9 ncitation:-1 pid2801402
+title1:Uncertainty in Knowledge Bases, 3rd International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems, IPMU '90, Paris, France, July 2-6, 1990, Proceedings citation:16 ncitation:-1 pid2801404
+title1:Uncertainty in Knowledge Bases, 3rd International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems, IPMU '90, Paris, France, July 2-6, 1990, Proceedings citation:16 ncitation:-1 pid2801404
+title1:On generalized Bonferroni mean operators for multi-criteria aggregation. citation:50 ncitation:30 pid2860699
+title1:On generalized Bonferroni mean operators for multi-criteria aggregation. citation:50 ncitation:30 pid2860699
+title1:Essentials of fuzzy modeling and control. citation:1861 ncitation:1743 pid3006346
+title1:Essentials of fuzzy modeling and control. citation:1861 ncitation:1743 pid3006346
+title1:Intuitionistic and interval-valued intutionistic fuzzy preference relations and their measures of similarity for the evaluation of agreement within a group. citation:66 ncitation:53 pid3098610
+title1:Intuitionistic and interval-valued intutionistic fuzzy preference relations and their measures of similarity for the evaluation of agreement within a group. citation:66 ncitation:53 pid3098610

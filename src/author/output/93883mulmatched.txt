@@ -1,0 +1,6 @@
+title1:A Determinizable Class of Timed Automata. citation:159 ncitation:166 pid79166
+title1:A Determinizable Class of Timed Automata. citation:159 ncitation:166 pid79166
+title1:Fair Simulation. citation:0 ncitation:85 pid114406
+title1:Fair Simulation. citation:0 ncitation:85 pid114406
+title1:Timed Interfaces. citation:0 ncitation:153 pid181294
+title1:Timed Interfaces. citation:0 ncitation:153 pid181294

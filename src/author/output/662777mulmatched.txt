@@ -1,0 +1,27 @@
+title1:The hierarchical timing pair model. citation:5 ncitation:4 pid425774
+title1:The hierarchical timing pair model. citation:5 ncitation:4 pid425774
+title1:The hierarchical timing pair model. citation:5 ncitation:4 pid425774
+title1:DCT-based motion estimation. citation:6 ncitation:64 pid1101137
+title1:DCT-based motion estimation. citation:6 ncitation:64 pid1101137
+title1:DCT-based motion estimation. citation:6 ncitation:64 pid1101137
+title1:Adaptive overlapping approach for DCT-based motion estimation. citation:6 ncitation:6 pid318772
+title1:Adaptive overlapping approach for DCT-based motion estimation. citation:6 ncitation:6 pid318772
+title1:Distributed Relay Selection and Power Control for Multiuser Cooperative Communication Networks Using Stackelberg Game. citation:163 ncitation:105 pid1227776
+title1:Distributed Relay Selection and Power Control for Multiuser Cooperative Communication Networks Using Stackelberg Game. citation:163 ncitation:105 pid1227776
+title1:Risk-distortion analysis for video collusion attack. citation:9 ncitation:-1 pid2836651
+title1:Risk-distortion analysis for video collusion attack. citation:9 ncitation:-1 pid2836651
+title1:Space-Time Network Coding. citation:3 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:3 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:3 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:3 ncitation:14 pid3086173
+title1:Space-Time Network Coding. citation:3 ncitation:14 pid3086173
+title1:Waveform Design for Sum Rate Optimization in Time-Reversal Multiuser Downlink Systems. citation:1 ncitation:0 pid3293680
+title1:Waveform Design for Sum Rate Optimization in Time-Reversal Multiuser Downlink Systems. citation:1 ncitation:0 pid3293680
+title1:Time-Reversal Division Multiple Access in Multi-Path Channels. citation:5 ncitation:1 pid3293706
+title1:Time-Reversal Division Multiple Access in Multi-Path Channels. citation:5 ncitation:1 pid3293706
+title1:Comments on "Multiphase systolic algorithms for spectral decomposition" [and reply]. citation:0 ncitation:0 pid3314325
+title1:Comments on "Multiphase systolic algorithms for spectral decomposition" [and reply]. citation:0 ncitation:0 pid3314325
+title1:Multiphase systolic algorithms for spectral decomposition. citation:10 ncitation:10 pid3315314
+title1:Multiphase systolic algorithms for spectral decomposition. citation:10 ncitation:10 pid3315314
+title1:Chinese Restaurant Game. citation:9 ncitation:-1 pid3587438
+title1:Chinese Restaurant Game. citation:9 ncitation:-1 pid3587438

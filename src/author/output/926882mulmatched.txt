@@ -1,0 +1,51 @@
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:0 ncitation:59 pid952686
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:0 ncitation:59 pid952686
+title1:Communication-Aware Processor Allocation for Supercomputers citation:21 ncitation:20 pid818065
+title1:Communication-Aware Processor Allocation for Supercomputers citation:21 ncitation:20 pid818065
+title1:Communication-Aware Processor Allocation for Supercomputers citation:21 ncitation:20 pid818065
+title1:Optimally Adaptive Integration of Univariate Lipschitz Functions. citation:5 ncitation:4 pid750887
+title1:Optimally Adaptive Integration of Univariate Lipschitz Functions. citation:5 ncitation:4 pid750887
+title1:When Can You Fold a Map? citation:31 ncitation:31 pid651160
+title1:When Can You Fold a Map? citation:31 ncitation:31 pid651160
+title1:Open problems from cccg 2000. citation:61 ncitation:53 pid81877
+title1:Open problems from cccg 2000. citation:61 ncitation:53 pid81877
+title1:The Stackelberg Minimum Spanning Tree Game citation:0 ncitation:17 pid820134
+title1:The Stackelberg Minimum Spanning Tree Game citation:0 ncitation:17 pid820134
+title1:Bidimensionality. citation:0 ncitation:5 pid1199376
+title1:Bidimensionality. citation:0 ncitation:5 pid1199376
+title1:Bidimensionality. citation:0 ncitation:5 pid1199376
+title1:Bidimensionality. citation:0 ncitation:5 pid1199376
+title1:Bidimensionality. citation:0 ncitation:5 pid1199376
+title1:Bidimensionality. citation:0 ncitation:5 pid1199376
+title1:Necklaces, Convolutions, and + . citation:21 ncitation:16 pid185988
+title1:Necklaces, Convolutions, and + . citation:21 ncitation:16 pid185988
+title1:Ununfoldable polyhedra. citation:42 ncitation:19 pid81690
+title1:Ununfoldable polyhedra. citation:42 ncitation:19 pid81690
+title1:Solitaire Clobber. citation:18 ncitation:16 pid85736
+title1:Solitaire Clobber. citation:18 ncitation:16 pid85736
+title1:Fixed-parameter algorithms for (, )-center in planar graphs and map graphs. citation:60 ncitation:55 pid1077247
+title1:Fixed-parameter algorithms for (, )-center in planar graphs and map graphs. citation:60 ncitation:55 pid1077247
+title1:Logarithmic Lower Bounds in the Cell-Probe Model. citation:62 ncitation:56 pid1060178
+title1:Logarithmic Lower Bounds in the Cell-Probe Model. citation:62 ncitation:56 pid1060178
+title1:Computing signed permutations of polygons. citation:0 ncitation:6 pid81740
+title1:Computing signed permutations of polygons. citation:0 ncitation:6 pid81740
+title1:Minimizing movement. citation:16 ncitation:35 pid1227549
+title1:Minimizing movement. citation:16 ncitation:35 pid1227549
+title1:Tight bounds on maximal and maximum matchings. citation:6 ncitation:42 pid846991
+title1:Tight bounds on maximal and maximum matchings. citation:6 ncitation:42 pid846991
+title1:Balanced -colorings. citation:1 ncitation:10 pid846989
+title1:Balanced -colorings. citation:1 ncitation:10 pid846989
+title1:Games on triangulations. citation:8 ncitation:7 pid1088655
+title1:Games on triangulations. citation:8 ncitation:7 pid1088655
+title1:Voronoi game on graphs and its complexity. citation:17 ncitation:10 pid686751
+title1:Voronoi game on graphs and its complexity. citation:17 ncitation:10 pid686751
+title1:Approximation algorithms via contraction decomposition. citation:48 ncitation:45 pid611565
+title1:Approximation algorithms via contraction decomposition. citation:48 ncitation:45 pid611565
+title1:Balanced -Colorings. citation:0 ncitation:10 pid493190
+title1:Balanced -Colorings. citation:0 ncitation:10 pid493190
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:0 ncitation:59 pid610060
+title1:Efficient Algorithms for Petersen's Matching Theorem. citation:0 ncitation:59 pid610060
+title1:Constant Price of Anarchy in Network Creation Games via Public Service Advertising. citation:2 ncitation:2 pid2951887
+title1:Constant Price of Anarchy in Network Creation Games via Public Service Advertising. citation:2 ncitation:2 pid2951887
+title1:Coverage with -Transmitters in the Presence of Obstacles. citation:5 ncitation:4 pid2953801
+title1:Coverage with -Transmitters in the Presence of Obstacles. citation:5 ncitation:4 pid2953801

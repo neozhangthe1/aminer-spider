@@ -1,0 +1,119 @@
+title1:Multidimensional Databases. citation:51 ncitation:11 pid360
+title1:Multidimensional Databases. citation:51 ncitation:11 pid360
+title1:Multidimensional Databases. citation:51 ncitation:11 pid360
+title1:Multidimensional Databases. citation:51 ncitation:11 pid360
+title1:Modification. citation:11 ncitation:-1 pid1948
+title1:Modification. citation:11 ncitation:-1 pid1948
+title1:Modification. citation:11 ncitation:-1 pid1948
+title1:Vacuuming. citation:32 ncitation:25 pid1955
+title1:Vacuuming. citation:32 ncitation:25 pid1955
+title1:Vacuuming. citation:32 ncitation:25 pid1955
+title1:Vacuuming. citation:32 ncitation:25 pid1955
+title1:Vacuuming. citation:32 ncitation:25 pid1955
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:``Now''. citation:190 ncitation:3 pid1961
+title1:Valid-Time Selection and Projection. citation:1 ncitation:1 pid1962
+title1:Valid-Time Selection and Projection. citation:1 ncitation:1 pid1962
+title1:Valid-Time Selection and Projection. citation:1 ncitation:1 pid1962
+title1:Computational data modeling for network-constrained moving objects. citation:77 ncitation:68 pid232995
+title1:Computational data modeling for network-constrained moving objects. citation:77 ncitation:68 pid232995
+title1:Developing a DataBlade for a New Index. citation:48 ncitation:45 pid299430
+title1:Developing a DataBlade for a New Index. citation:48 ncitation:45 pid299430
+title1:Point-Versus Interval-Based Temporal Data Models. citation:90 ncitation:81 pid299453
+title1:Point-Versus Interval-Based Temporal Data Models. citation:90 ncitation:81 pid299453
+title1:Temporal Specialization. citation:86 ncitation:33 pid300270
+title1:Temporal Specialization. citation:86 ncitation:33 pid300270
+title1:Efficient Evaluation of the Valid-Time Natural Join. citation:84 ncitation:89 pid301155
+title1:Efficient Evaluation of the Valid-Time Natural Join. citation:84 ncitation:89 pid301155
+title1:Efficient Tracking of Moving Objects with Precision Guarantees. citation:80 ncitation:74 pid506679
+title1:Efficient Tracking of Moving Objects with Precision Guarantees. citation:80 ncitation:74 pid506679
+title1:Spatio-temporal database support for legacy applications. citation:49 ncitation:50 pid566734
+title1:Spatio-temporal database support for legacy applications. citation:49 ncitation:50 pid566734
+title1:Indexing the Positions of Continuously Moving Objects. citation:3 ncitation:926 pid599634
+title1:Indexing the Positions of Continuously Moving Objects. citation:3 ncitation:926 pid599634
+title1:Panel: The State-of-the-Art in Temporal Data Management: Perspectives from the Research and Financial Applications Communities citation:0 ncitation:-1 pid627594
+title1:Panel: The State-of-the-Art in Temporal Data Management: Perspectives from the Research and Financial Applications Communities citation:0 ncitation:-1 pid627594
+title1:Supporting Frequent Updates in R-Trees: A Bottom-Up Approach. citation:183 ncitation:166 pid643109
+title1:Supporting Frequent Updates in R-Trees: A Bottom-Up Approach. citation:183 ncitation:166 pid643109
+title1:Main-Memory Operation Buffering for Efficient R-Tree Update. citation:36 ncitation:33 pid644154
+title1:Main-Memory Operation Buffering for Efficient R-Tree Update. citation:36 ncitation:33 pid644154
+title1:Integrating multiple calendars using tau-ZAMAN. citation:7 ncitation:6 pid1075689
+title1:Integrating multiple calendars using tau-ZAMAN. citation:7 ncitation:6 pid1075689
+title1:Temporal Data Management. citation:260 ncitation:237 pid1112989
+title1:Temporal Data Management. citation:260 ncitation:237 pid1112989
+title1:Temporal Data Management. citation:260 ncitation:237 pid1112989
+title1:A Foundation for Conventional and Temporal Query Optimization Addressing Duplicates and Ordering. citation:21 ncitation:23 pid1113507
+title1:A Foundation for Conventional and Temporal Query Optimization Addressing Duplicates and Ordering. citation:21 ncitation:23 pid1113507
+title1:Efficient Differential Timeslice Computation. citation:12 ncitation:11 pid1113629
+title1:Efficient Differential Timeslice Computation. citation:12 ncitation:11 pid1113629
+title1:Temporal statement modifiers. citation:58 ncitation:48 pid1118155
+title1:Temporal statement modifiers. citation:58 ncitation:48 pid1118155
+title1:On the Semantics of "Now" in Databases citation:0 ncitation:176 pid1118285
+title1:On the Semantics of "Now" in Databases citation:0 ncitation:176 pid1118285
+title1:On the Semantics of "Now" in Databases citation:0 ncitation:176 pid1118285
+title1:A foundation for representing and querying moving objects. citation:732 ncitation:680 pid1118445
+title1:A foundation for representing and querying moving objects. citation:732 ncitation:680 pid1118445
+title1:Road Network Data Model. citation:2 ncitation:2 pid1199096
+title1:Road Network Data Model. citation:2 ncitation:2 pid1199096
+title1:A Conceptual Schema Language for the Management of Multiple Representations of Geographic Entities. citation:14 ncitation:12 pid1291768
+title1:A Conceptual Schema Language for the Management of Multiple Representations of Geographic Entities. citation:14 ncitation:12 pid1291768
+title1:Calendar. citation:24 ncitation:-1 pid1297197
+title1:Calendar. citation:24 ncitation:-1 pid1297197
+title1:Calendar. citation:24 ncitation:-1 pid1297197
+title1:Map Matching. citation:19 ncitation:-1 pid1298280
+title1:Map Matching. citation:19 ncitation:-1 pid1298280
+title1:Map Matching. citation:19 ncitation:-1 pid1298280
+title1:Map Matching. citation:19 ncitation:-1 pid1298280
+title1:Now in Temporal Databases. citation:9 ncitation:1 pid1298386
+title1:Now in Temporal Databases. citation:9 ncitation:1 pid1298386
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Temporal Database. citation:124 ncitation:9 pid1299293
+title1:Transaction Time. citation:25 ncitation:-1 pid1299437
+title1:Transaction Time. citation:25 ncitation:-1 pid1299437
+title1:Transaction Time. citation:25 ncitation:-1 pid1299437
+title1:Transaction Time. citation:25 ncitation:-1 pid1299437
+title1:Transaction Time. citation:25 ncitation:-1 pid1299437
+title1:Transaction Time. citation:25 ncitation:-1 pid1299437
+title1:Transaction Time. citation:25 ncitation:-1 pid1299437
+title1:Temporal Aggregation. citation:2 ncitation:-1 pid1299461
+title1:Temporal Aggregation. citation:2 ncitation:-1 pid1299461
+title1:Valid Time. citation:53 ncitation:-1 pid1299536
+title1:Valid Time. citation:53 ncitation:-1 pid1299536
+title1:Valid Time. citation:53 ncitation:-1 pid1299536
+title1:Valid Time. citation:53 ncitation:-1 pid1299536
+title1:Valid Time. citation:53 ncitation:-1 pid1299536
+title1:Valid Time. citation:53 ncitation:-1 pid1299536
+title1:Valid Time. citation:53 ncitation:-1 pid1299536
+title1:Valid Time. citation:53 ncitation:-1 pid1299536
+title1:Spatio-Temporal Database Management, International Workshop STDBM'99, Edinburgh, Scotland, September 10-11, 1999, Proceedings citation:21 ncitation:21 pid2817127
+title1:Spatio-Temporal Database Management, International Workshop STDBM'99, Edinburgh, Scotland, September 10-11, 1999, Proceedings citation:21 ncitation:21 pid2817127
+title1:Spatio-Temporal Database Management, International Workshop STDBM'99, Edinburgh, Scotland, September 10-11, 1999, Proceedings citation:21 ncitation:21 pid2817127
+title1:A MovingObject Index for Efficient Query Processing with Peer-Wise Location Privacy citation:5 ncitation:1 pid3153043
+title1:A MovingObject Index for Efficient Query Processing with Peer-Wise Location Privacy citation:5 ncitation:1 pid3153043
+title1:Location-Related Privacy in Geo-Social Networks. citation:38 ncitation:18 pid3155300
+title1:Location-Related Privacy in Geo-Social Networks. citation:38 ncitation:18 pid3155300

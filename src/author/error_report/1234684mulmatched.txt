@@ -1,0 +1,90 @@
+title1:LEDA: A Platform for Combinatorial and Geometric Computing. citation:532 ncitation:1124 pid525
+title1:LEDA: A Platform for Combinatorial and Geometric Computing. citation:532 ncitation:1124 pid525
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Data Structures. citation:1805 ncitation:86 pid711
+title1:Effiziente Algorithmen citation:54 ncitation:44 pid3658
+title1:Effiziente Algorithmen citation:54 ncitation:44 pid3658
+title1:AT-Optimal Galois Field Multiplier for VLSI. citation:3 ncitation:3 pid61838
+title1:AT-Optimal Galois Field Multiplier for VLSI. citation:3 ncitation:3 pid61838
+title1:A Descartes Algorithm for Polynomials with Bit-Stream Coefficients. citation:70 ncitation:69 pid76729
+title1:A Descartes Algorithm for Polynomials with Bit-Stream Coefficients. citation:70 ncitation:69 pid76729
+title1:Boolean Operations on 3D Selective Nef Complexes: Data Structure, Algorithms, and Implementation. citation:51 ncitation:43 pid186227
+title1:Boolean Operations on 3D Selective Nef Complexes: Data Structure, Algorithms, and Implementation. citation:51 ncitation:43 pid186227
+title1:A Heuristic for Dijkstra's Algorithm with Many Targets and Its Use in Weighted Matching Algorithms. citation:13 ncitation:12 pid186397
+title1:A Heuristic for Dijkstra's Algorithm with Many Targets and Its Use in Weighted Matching Algorithms. citation:13 ncitation:12 pid186397
+title1:Top Down Parsing of Macro Grammars. citation:0 ncitation:0 pid230095
+title1:Top Down Parsing of Macro Grammars. citation:0 ncitation:0 pid230095
+title1:The Implementation of Geometric Algorithms. citation:49 ncitation:46 pid377073
+title1:The Implementation of Geometric Algorithms. citation:49 ncitation:46 pid377073
+title1:On the Construction of Abstract Voronoi Diagrams, II. citation:85 ncitation:67 pid588329
+title1:On the Construction of Abstract Voronoi Diagrams, II. citation:85 ncitation:67 pid588329
+title1:An efficient algorithm for the configuration problem of dominance graphs. citation:15 ncitation:15 pid609778
+title1:An efficient algorithm for the configuration problem of dominance graphs. citation:15 ncitation:15 pid609778
+title1:Dynamic Point Location in General Subdivisions. citation:47 ncitation:46 pid609996
+title1:Dynamic Point Location in General Subdivisions. citation:47 ncitation:46 pid609996
+title1:Four Results on Randomized Incremental Constructions. citation:190 ncitation:189 pid620078
+title1:Four Results on Randomized Incremental Constructions. citation:190 ncitation:189 pid620078
+title1:Robust Balancing in B-Trees. citation:23 ncitation:20 pid627558
+title1:Robust Balancing in B-Trees. citation:23 ncitation:20 pid627558
+title1:A Complete and Efficient Algorithm for the Intersection of a General and a Convex Polyhedron. citation:34 ncitation:31 pid651256
+title1:A Complete and Efficient Algorithm for the Intersection of a General and a Convex Polyhedron. citation:34 ncitation:31 pid651256
+title1:Implementation of O (nm log n) Weighted Matchings in General Graphs. The Power of Data Structures. citation:21 ncitation:19 pid651739
+title1:Implementation of O (nm log n) Weighted Matchings in General Graphs. The Power of Data Structures. citation:21 ncitation:19 pid651739
+title1:Scanning Multiple Sequences Via Cache Memory. citation:20 ncitation:15 pid750445
+title1:Scanning Multiple Sequences Via Cache Memory. citation:20 ncitation:15 pid750445
+title1:Editorial. citation:0 ncitation:-1 pid803871
+title1:Editorial. citation:0 ncitation:-1 pid803871
+title1:Editorial. citation:0 ncitation:-1 pid803871
+title1:Editorial. citation:0 ncitation:-1 pid803873
+title1:Editorial. citation:0 ncitation:-1 pid803873
+title1:A polyhedral approach to sequence alignment problems. citation:55 ncitation:54 pid837387
+title1:A polyhedral approach to sequence alignment problems. citation:55 ncitation:54 pid837387
+title1:Infimaximal Frames: A Technique for Making Lines Look Like Segments. citation:14 ncitation:13 pid905573
+title1:Infimaximal Frames: A Technique for Making Lines Look Like Segments. citation:14 ncitation:13 pid905573
+title1:Faster Algorithms for the Shortest Path Problem citation:543 ncitation:533 pid949610
+title1:Faster Algorithms for the Shortest Path Problem citation:543 ncitation:533 pid949610
+title1:Codes: Unequal Probabilities, Unequal Letter Cost. citation:39 ncitation:37 pid949650
+title1:Codes: Unequal Probabilities, Unequal Letter Cost. citation:39 ncitation:37 pid949650
+title1:Implementation of O(n m log n) Weighted Matchings in General Graphs: The Power of Data Structures. citation:17 ncitation:19 pid980025
+title1:Implementation of O(n m log n) Weighted Matchings in General Graphs: The Power of Data Structures. citation:17 ncitation:19 pid980025
+title1:Lower Bounds on the Efficiency of Transforming Static Data sSructures into Dynamic Structures. citation:12 ncitation:12 pid1015760
+title1:Lower Bounds on the Efficiency of Transforming Static Data sSructures into Dynamic Structures. citation:12 ncitation:12 pid1015760
+title1:Editorial. citation:0 ncitation:-1 pid2852175
+title1:Editorial. citation:0 ncitation:-1 pid2852175
+title1:Arrangements on Parametric Surfaces I: General Framework and Infrastructure. citation:11 ncitation:11 pid2934827
+title1:Arrangements on Parametric Surfaces I: General Framework and Infrastructure. citation:11 ncitation:11 pid2934827
+title1:Online Graph Exploration: New Results on Old and New Algorithms. citation:10 ncitation:4 pid3017376
+title1:Online Graph Exploration: New Results on Old and New Algorithms. citation:10 ncitation:4 pid3017376
+title1:Certifying algorithms. citation:44 ncitation:17 pid3088282
+title1:Certifying algorithms. citation:44 ncitation:17 pid3088282
+title1:Certifying algorithms. citation:44 ncitation:17 pid3088282
+title1:Physarum Can Compute Shortest Paths citation:18 ncitation:7 pid3153485
+title1:Physarum Can Compute Shortest Paths citation:18 ncitation:7 pid3153485
+title1:Computational Geometry (Dagstuhl Seminar 11111). citation:0 ncitation:-1 pid3161726
+title1:Computational Geometry (Dagstuhl Seminar 11111). citation:0 ncitation:-1 pid3161726
+title1:Verification of Certifying Computations. citation:9 ncitation:7 pid3224024
+title1:Verification of Certifying Computations. citation:9 ncitation:7 pid3224024
+title1:An efficient algorithm for constructing nearly optimal prefix codes. citation:31 ncitation:26 pid3270885
+title1:An efficient algorithm for constructing nearly optimal prefix codes. citation:31 ncitation:26 pid3270885

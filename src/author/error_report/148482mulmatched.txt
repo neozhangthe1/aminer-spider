@@ -1,0 +1,6 @@
+title1:Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way. citation:40 ncitation:50 pid224846
+title1:Confluent Drawings: Visualizing Non-planar Diagrams in a Planar Way. citation:40 ncitation:50 pid224846
+title1:Approximate Geometric Pattern Matching Under Rigid Motions. citation:71 ncitation:66 pid1031697
+title1:Approximate Geometric Pattern Matching Under Rigid Motions. citation:71 ncitation:66 pid1031697
+title1:Geometric Pattern Matching Under Euclidean Motion. citation:92 ncitation:91 pid81926
+title1:Geometric Pattern Matching Under Euclidean Motion. citation:92 ncitation:91 pid81926

@@ -1,0 +1,7 @@
+title1:A Geometric Preferential Attachment Model of Networks. citation:34 ncitation:38 pid1168341
+title1:A Geometric Preferential Attachment Model of Networks. citation:34 ncitation:38 pid1168341
+title1:Improved Approximation Algorithms for MAX -CUT and MAX BISECTION. citation:279 ncitation:258 pid406803
+title1:Improved Approximation Algorithms for MAX -CUT and MAX BISECTION. citation:279 ncitation:258 pid406803
+title1:Random graphs. citation:117 ncitation:3 pid610541
+title1:Random graphs. citation:117 ncitation:3 pid610541
+title1:Random graphs. citation:117 ncitation:3 pid610541

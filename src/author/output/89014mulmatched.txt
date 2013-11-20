@@ -1,0 +1,24 @@
+title1:Service-Oriented Architectures and Mobile Services. citation:13 ncitation:13 pid74290
+title1:Service-Oriented Architectures and Mobile Services. citation:13 ncitation:13 pid74290
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid659680
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid659680
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid659681
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid659681
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid659682
+title1:DMC - Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid659682
+title1:Business process management. citation:5 ncitation:1 pid846475
+title1:Business process management. citation:5 ncitation:1 pid846475
+title1:Business process management. citation:5 ncitation:1 pid846475
+title1:Business process management. citation:5 ncitation:1 pid846475
+title1:Business process management. citation:5 ncitation:1 pid846475
+title1:Business process management. citation:5 ncitation:1 pid846475
+title1:DMC-Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid1215147
+title1:DMC-Distributed and Mobile Collaboration Workshop Report. citation:0 ncitation:2 pid1215147
+title1:DMC 2009 Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid1215170
+title1:DMC 2009 Distributed and Mobile Collaboration Workshop Report. citation:2 ncitation:2 pid1215170
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Discovery. citation:23 ncitation:0 pid1297257
+title1:Business Process Management Workshops, BPM 2006 International Workshops, BPD, BPI, ENEI, GPWW, DPM, semantics4ws, Vienna, Austria, September 4-7, 2006, Proceedings citation:0 ncitation:-1 pid2777597
+title1:Business Process Management Workshops, BPM 2006 International Workshops, BPD, BPI, ENEI, GPWW, DPM, semantics4ws, Vienna, Austria, September 4-7, 2006, Proceedings citation:0 ncitation:-1 pid2777597

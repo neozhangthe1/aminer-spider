@@ -1,0 +1,31 @@
+title1:Euclidean 3D Reconstruction from Stereo Sequences with Variable Focal Lengths. citation:108 ncitation:104 pid18158
+title1:Euclidean 3D Reconstruction from Stereo Sequences with Variable Focal Lengths. citation:108 ncitation:104 pid18158
+title1:Content-Based Image Retrieval Based on Local Affinely Invariant Regions. citation:198 ncitation:190 pid639309
+title1:Content-Based Image Retrieval Based on Local Affinely Invariant Regions. citation:198 ncitation:190 pid639309
+title1:Range determination for mobile robots using one omnidirectional camera. citation:8 ncitation:5 pid315571
+title1:Range determination for mobile robots using one omnidirectional camera. citation:8 ncitation:5 pid315571
+title1:Dynamic 3D Scene Analysis from a Moving Vehicle. citation:209 ncitation:182 pid130119
+title1:Dynamic 3D Scene Analysis from a Moving Vehicle. citation:209 ncitation:182 pid130119
+title1:Composite Texture Synthesis. citation:29 ncitation:25 pid907942
+title1:Composite Texture Synthesis. citation:29 ncitation:25 pid907942
+title1:Composite Texture Synthesis. citation:29 ncitation:25 pid907942
+title1:Spatio-temporal features for robust content-based video copy detection. citation:22 ncitation:20 pid500614
+title1:Spatio-temporal features for robust content-based video copy detection. citation:22 ncitation:20 pid500614
+title1:Editorial. citation:6 ncitation:-1 pid907878
+title1:Editorial. citation:6 ncitation:-1 pid907878
+title1:Editorial. citation:6 ncitation:-1 pid907878
+title1:Plenoptic Modeling and Rendering from Image Sequences Taken by Hand-Held Camera. citation:110 ncitation:106 pid135616
+title1:Plenoptic Modeling and Rendering from Image Sequences Taken by Hand-Held Camera. citation:110 ncitation:106 pid135616
+title1:SURF: Speeded Up Robust Features. citation:3593 ncitation:2801 pid168171
+title1:SURF: Speeded Up Robust Features. citation:3593 ncitation:2801 pid168171
+title1:Realistic 3-D Scene Modeling from Uncalibrated Image Sequences. citation:17 ncitation:16 pid318776
+title1:Realistic 3-D Scene Modeling from Uncalibrated Image Sequences. citation:17 ncitation:16 pid318776
+title1:Special issue on 3D acquisition technology for cultural heritage. citation:4 ncitation:3 pid1017555
+title1:Special issue on 3D acquisition technology for cultural heritage. citation:4 ncitation:3 pid1017555
+title1:Special issue on 3D acquisition technology for cultural heritage. citation:4 ncitation:3 pid1017555
+title1:A Geometric Approach to Lightfield Calibration. citation:11 ncitation:10 pid73355
+title1:A Geometric Approach to Lightfield Calibration. citation:11 ncitation:10 pid73355
+title1:Reconstruction of Subjective Surfaces from Occlusion Cues. citation:7 ncitation:7 pid67062
+title1:Reconstruction of Subjective Surfaces from Occlusion Cues. citation:7 ncitation:7 pid67062
+title1:Augmented Reality Using Uncalibrated Video Sequences. citation:70 ncitation:69 pid608607
+title1:Augmented Reality Using Uncalibrated Video Sequences. citation:70 ncitation:69 pid608607

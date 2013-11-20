@@ -1,0 +1,35 @@
+title1:Concurrent Subspaces Analysis. citation:71 ncitation:67 pid129497
+title1:Concurrent Subspaces Analysis. citation:71 ncitation:67 pid129497
+title1:Scalable music recommendation by search. citation:0 ncitation:30 pid503640
+title1:Scalable music recommendation by search. citation:0 ncitation:30 pid503640
+title1:Scalable music recommendation by search. citation:0 ncitation:30 pid503640
+title1:Color demosaicking via directional linear minimum mean square-error estimation. citation:179 ncitation:144 pid1102345
+title1:Color demosaicking via directional linear minimum mean square-error estimation. citation:179 ncitation:144 pid1102345
+title1:Spatial-bag-of-features. citation:93 ncitation:68 pid2899052
+title1:Spatial-bag-of-features. citation:93 ncitation:68 pid2899052
+title1:Feature Band Selection for Multispectral Palmprint Recognition. citation:8 ncitation:6 pid2903000
+title1:Feature Band Selection for Multispectral Palmprint Recognition. citation:8 ncitation:6 pid2903000
+title1:Photo2Trip: an interactive trip planning system based on geo-tagged photos. citation:6 ncitation:4 pid2906049
+title1:Photo2Trip: an interactive trip planning system based on geo-tagged photos. citation:6 ncitation:4 pid2906049
+title1:Ensemble of local and global information for finger-knuckle-print recognition. citation:55 ncitation:34 pid3077979
+title1:Ensemble of local and global information for finger-knuckle-print recognition. citation:55 ncitation:34 pid3077979
+title1:Molecular Pattern Discovery Based on Penalized Matrix Decomposition. citation:13 ncitation:5 pid3158986
+title1:Molecular Pattern Discovery Based on Penalized Matrix Decomposition. citation:13 ncitation:5 pid3158986
+title1:Metasample-Based Sparse Representation for Tumor Classification. citation:20 ncitation:7 pid3159047
+title1:Metasample-Based Sparse Representation for Tumor Classification. citation:20 ncitation:7 pid3159047
+title1:Centralized sparse representation for image restoration. citation:27 ncitation:14 pid3286682
+title1:Centralized sparse representation for image restoration. citation:27 ncitation:14 pid3286682
+title1:Collaborative Representation based Classification for Face Recognition citation:9 ncitation:1 pid3382589
+title1:Collaborative Representation based Classification for Face Recognition citation:9 ncitation:1 pid3382589
+title1:Rotation-Invariant Nonrigid Point Set Matching in Cluttered Scenes. citation:0 ncitation:-1 pid3387217
+title1:Rotation-Invariant Nonrigid Point Set Matching in Cluttered Scenes. citation:0 ncitation:-1 pid3387217
+title1:Efficient Misalignment-Robust Representation for Real-Time Face Recognition. citation:5 ncitation:-1 pid3514293
+title1:Efficient Misalignment-Robust Representation for Real-Time Face Recognition. citation:5 ncitation:-1 pid3514293
+title1:Robust Point Matching Revisited: A Concave Optimization Approach. citation:2 ncitation:0 pid3514439
+title1:Robust Point Matching Revisited: A Concave Optimization Approach. citation:2 ncitation:0 pid3514439
+title1:Evaluation of Image Segmentation Quality by Adaptive Ground Truth Composition. citation:5 ncitation:1 pid3514481
+title1:Evaluation of Image Segmentation Quality by Adaptive Ground Truth Composition. citation:5 ncitation:1 pid3514481
+title1:A survey of graph theoretical approaches to image segmentation. citation:8 ncitation:-1 pid3552698
+title1:A survey of graph theoretical approaches to image segmentation. citation:8 ncitation:-1 pid3552698
+title1:A comprehensive evaluation of full reference image quality assessment algorithms. citation:4 ncitation:-1 pid3669045
+title1:A comprehensive evaluation of full reference image quality assessment algorithms. citation:4 ncitation:-1 pid3669045

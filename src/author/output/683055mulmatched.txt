@@ -1,0 +1,42 @@
+title1:QoS Extension to BGP. citation:84 ncitation:80 pid338607
+title1:QoS Extension to BGP. citation:84 ncitation:80 pid338607
+title1:A secure multicast protocol with copyright protection. citation:116 ncitation:110 pid783917
+title1:A secure multicast protocol with copyright protection. citation:116 ncitation:110 pid783917
+title1:View control interface for 3D tele-immersive environments. citation:7 ncitation:7 pid333163
+title1:View control interface for 3D tele-immersive environments. citation:7 ncitation:7 pid333163
+title1:Hierarchical Scheduling for Multiple Classes of Applications in Connection-Oriented Integrated-Service Networks. citation:10 ncitation:8 pid329902
+title1:Hierarchical Scheduling for Multiple Classes of Applications in Connection-Oriented Integrated-Service Networks. citation:10 ncitation:8 pid329902
+title1:Video summarization based on user log enhanced link analysis. citation:77 ncitation:63 pid503192
+title1:Video summarization based on user log enhanced link analysis. citation:77 ncitation:63 pid503192
+title1:A Study of Collaborative Dancing in Tele-immersive Environments. citation:15 ncitation:15 pid437654
+title1:A Study of Collaborative Dancing in Tele-immersive Environments. citation:15 ncitation:15 pid437654
+title1:Approaches to Multimedia and Security. citation:11 ncitation:11 pid330795
+title1:Approaches to Multimedia and Security. citation:11 ncitation:11 pid330795
+title1:Alert propagation in mobile ad hoc networks. citation:1 ncitation:1 pid1342145
+title1:Alert propagation in mobile ad hoc networks. citation:1 ncitation:1 pid1342145
+title1:Optimal Distributed Multicast Routing using Network Coding. citation:14 ncitation:2 pid277327
+title1:Optimal Distributed Multicast Routing using Network Coding. citation:14 ncitation:2 pid277327
+title1:The Analysis of Publish/Subscribe Systems over Mobile Wireless Ad Hoc Networks. citation:16 ncitation:12 pid506787
+title1:The Analysis of Publish/Subscribe Systems over Mobile Wireless Ad Hoc Networks. citation:16 ncitation:12 pid506787
+title1:ViewCast: view dissemination and management for multi-party 3d tele-immersive environments. citation:44 ncitation:42 pid503549
+title1:ViewCast: view dissemination and management for multi-party 3d tele-immersive environments. citation:44 ncitation:42 pid503549
+title1:End-to-End QoS Guarantees in Networked Multimedia Systems. citation:31 ncitation:31 pid832863
+title1:End-to-End QoS Guarantees in Networked Multimedia Systems. citation:31 ncitation:31 pid832863
+title1:The QOS Broker. citation:434 ncitation:-1 pid894056
+title1:The QOS Broker. citation:434 ncitation:-1 pid894056
+title1:GRACE-2: integrating fine-grained application adaptation with global adaptation for saving energy. citation:14 ncitation:10 pid2934261
+title1:GRACE-2: integrating fine-grained application adaptation with global adaptation for saving energy. citation:14 ncitation:10 pid2934261
+title1:PDA: Privacy-Preserving Data Aggregation for Information Collection. citation:7 ncitation:3 pid3149686
+title1:PDA: Privacy-Preserving Data Aggregation for Information Collection. citation:7 ncitation:3 pid3149686
+title1:Analytical models of short-message reliability in mobile wireless networks. citation:3 ncitation:2 pid3228467
+title1:Analytical models of short-message reliability in mobile wireless networks. citation:3 ncitation:2 pid3228467
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031
+title1:Multimedia Applications. citation:38 ncitation:-1 pid3658031

@@ -1,0 +1,79 @@
+title1:Signature Files. citation:390 ncitation:103 pid2520
+title1:Signature Files. citation:390 ncitation:103 pid2520
+title1:Signature Files. citation:390 ncitation:103 pid2520
+title1:Signature Files. citation:390 ncitation:103 pid2520
+title1:Signature Files. citation:390 ncitation:103 pid2520
+title1:Signature Files. citation:390 ncitation:103 pid2520
+title1:On Packing R-trees. citation:531 ncitation:497 pid95492
+title1:On Packing R-trees. citation:531 ncitation:497 pid95492
+title1:Selectivity Estimation of Window Queries. citation:12 ncitation:-1 pid95816
+title1:Selectivity Estimation of Window Queries. citation:12 ncitation:-1 pid95816
+title1:Slim-Trees: High Performance Metric Trees Minimizing Overlap Between Nodes. citation:263 ncitation:241 pid176623
+title1:Slim-Trees: High Performance Metric Trees Minimizing Overlap Between Nodes. citation:263 ncitation:241 pid176623
+title1:Using Utility to Provision Storage Systems. citation:21 ncitation:17 pid202438
+title1:Using Utility to Provision Storage Systems. citation:21 ncitation:17 pid202438
+title1:Distance Exponent: A New Concept for Selectivity Estimation in Metric Trees. citation:45 ncitation:41 pid301263
+title1:Distance Exponent: A New Concept for Selectivity Estimation in Metric Trees. citation:45 ncitation:41 pid301263
+title1:Data Mining Meets Performance Evaluation: Fast Algorithms for Modeling Bursty Traffic. citation:173 ncitation:159 pid301325
+title1:Data Mining Meets Performance Evaluation: Fast Algorithms for Modeling Bursty Traffic. citation:173 ncitation:159 pid301325
+title1:Monitoring Network Evolution using MDL. citation:20 ncitation:15 pid301971
+title1:Monitoring Network Evolution using MDL. citation:20 ncitation:15 pid301971
+title1:Fast Random Walk with Restart and Its Applications. citation:270 ncitation:202 pid303165
+title1:Fast Random Walk with Restart and Its Applications. citation:270 ncitation:202 pid303165
+title1:Automatic image captioning. citation:69 ncitation:63 pid330939
+title1:Automatic image captioning. citation:69 ncitation:63 pid330939
+title1:Recovering latent time-series from their observed sums: network tomography with particle filters. citation:18 ncitation:16 pid472432
+title1:Recovering latent time-series from their observed sums: network tomography with particle filters. citation:18 ncitation:16 pid472432
+title1:Automatic multimedia cross-modal correlation discovery. citation:274 ncitation:222 pid473150
+title1:Automatic multimedia cross-modal correlation discovery. citation:274 ncitation:222 pid473150
+title1:Center-piece subgraphs: problem definition and fast solutions. citation:147 ncitation:122 pid473352
+title1:Center-piece subgraphs: problem definition and fast solutions. citation:147 ncitation:122 pid473352
+title1:Tri-plots: scalable tools for multidimensional data mining. citation:31 ncitation:31 pid473355
+title1:Tri-plots: scalable tools for multidimensional data mining. citation:31 ncitation:31 pid473355
+title1:Cost-effective outbreak detection in networks. citation:468 ncitation:382 pid473708
+title1:Cost-effective outbreak detection in networks. citation:468 ncitation:382 pid473708
+title1:Storage Device Performance Prediction with CART Models. citation:113 ncitation:103 pid489958
+title1:Storage Device Performance Prediction with CART Models. citation:113 ncitation:103 pid489958
+title1:Fast Feature Selection Using Fractal Dimension. citation:4 ncitation:133 pid573698
+title1:Fast Feature Selection Using Fractal Dimension. citation:4 ncitation:133 pid573698
+title1:Density Biased Sampling: An Improved Method for Data Mining and Clustering. citation:144 ncitation:133 pid599483
+title1:Density Biased Sampling: An Improved Method for Data Mining and Clustering. citation:144 ncitation:133 pid599483
+title1:Data Mining on an OLTP System (Nearly) for Free. citation:49 ncitation:46 pid599595
+title1:Data Mining on an OLTP System (Nearly) for Free. citation:49 ncitation:46 pid599595
+title1:Access Methods for Bi-Temporal Databases citation:185 ncitation:-1 pid627604
+title1:Access Methods for Bi-Temporal Databases citation:185 ncitation:-1 pid627604
+title1:Fast Text Access Methods for Optical and Large Magnetic Disks: Designs and Performance Comparison. citation:64 ncitation:63 pid642524
+title1:Fast Text Access Methods for Optical and Large Magnetic Disks: Designs and Performance Comparison. citation:64 ncitation:63 pid642524
+title1:Ratio Rules: A New Paradigm for Fast, Quantifiable Data Mining. citation:66 ncitation:68 pid643017
+title1:Ratio Rules: A New Paradigm for Fast, Quantifiable Data Mining. citation:66 ncitation:68 pid643017
+title1:Adaptive, Hands-Off Stream Mining. citation:116 ncitation:108 pid643483
+title1:Adaptive, Hands-Off Stream Mining. citation:116 ncitation:108 pid643483
+title1:Adaptive, Hands-Off Stream Mining. citation:116 ncitation:108 pid643483
+title1:Access Methods for Text. citation:437 ncitation:419 pid832526
+title1:Access Methods for Text. citation:437 ncitation:419 pid832526
+title1:Random walk with restart: fast solutions and applications. citation:108 ncitation:84 pid1003655
+title1:Random walk with restart: fast solutions and applications. citation:108 ncitation:84 pid1003655
+title1:Overlay Striping and Optimal Parallel I/O for Modern Applications. citation:44 ncitation:45 pid1035703
+title1:Overlay Striping and Optimal Parallel I/O for Modern Applications. citation:44 ncitation:45 pid1035703
+title1:Capturing the spatio-temporal behavior of real traffic data. citation:69 ncitation:60 pid1037273
+title1:Capturing the spatio-temporal behavior of real traffic data. citation:69 ncitation:60 pid1037273
+title1:Reminiscences on Influential Papers. citation:0 ncitation:-1 pid1065529
+title1:Reminiscences on Influential Papers. citation:0 ncitation:-1 pid1065529
+title1:Epidemic thresholds in real networks. citation:196 ncitation:136 pid1103719
+title1:Epidemic thresholds in real networks. citation:196 ncitation:136 pid1103719
+title1:ImageMap: An Image Indexing Method Based on Spatial Similarity. citation:85 ncitation:79 pid1113337
+title1:ImageMap: An Image Indexing Method Based on Spatial Similarity. citation:85 ncitation:79 pid1113337
+title1:Analysis of Range Queries and Self-Spatial Join Queries on Real Region Datasets Stored Using an R-Tree. citation:17 ncitation:16 pid1113374
+title1:Analysis of Range Queries and Self-Spatial Join Queries on Real Region Datasets Stored Using an R-Tree. citation:17 ncitation:16 pid1113374
+title1:Accurate Modeling of Region Data. citation:14 ncitation:15 pid1113376
+title1:Accurate Modeling of Region Data. citation:14 ncitation:15 pid1113376
+title1:Modeling Blog Dynamics. citation:92 ncitation:73 pid2843133
+title1:Modeling Blog Dynamics. citation:92 ncitation:73 pid2843133
+title1:NetCube. citation:0 ncitation:-1 pid2939206
+title1:NetCube. citation:0 ncitation:-1 pid2939206
+title1:Top-10 Data Mining Case Studies. citation:0 ncitation:-1 pid3375319
+title1:Top-10 Data Mining Case Studies. citation:0 ncitation:-1 pid3375319
+title1:Winner takes all: competing viruses or ideas on fair-play networks. citation:11 ncitation:7 pid3414108
+title1:Winner takes all: competing viruses or ideas on fair-play networks. citation:11 ncitation:7 pid3414108
+title1:Informed Prefetching of Collective Input/Output Requests. citation:19 ncitation:18 pid3491274
+title1:Informed Prefetching of Collective Input/Output Requests. citation:19 ncitation:18 pid3491274

@@ -1,0 +1,25 @@
+title1:Scan-BIST based on transition probabilities. citation:11 ncitation:0 pid133538
+title1:Scan-BIST based on transition probabilities. citation:11 ncitation:0 pid133538
+title1:Design-for-Testability for Path Delay Faults in Large Combinatorial Circuits Using Test-Points. citation:26 ncitation:24 pid133561
+title1:Design-for-Testability for Path Delay Faults in Large Combinatorial Circuits Using Test-Points. citation:26 ncitation:24 pid133561
+title1:A New Approach to Test Generation and Test Compaction for Scan Circuits. citation:24 ncitation:21 pid142778
+title1:A New Approach to Test Generation and Test Compaction for Scan Circuits. citation:24 ncitation:21 pid142778
+title1:Worst-Case and Average-Case Analysis of n-Detection Test Sets. citation:11 ncitation:11 pid142781
+title1:Worst-Case and Average-Case Analysis of n-Detection Test Sets. citation:11 ncitation:11 pid142781
+title1:Techniques for improving the efficiency of sequential circuit test generation. citation:34 ncitation:34 pid282634
+title1:Techniques for improving the efficiency of sequential circuit test generation. citation:34 ncitation:34 pid282634
+title1:On undetectable faults in partial scan circuits. citation:1 ncitation:25 pid282964
+title1:On undetectable faults in partial scan circuits. citation:1 ncitation:25 pid282964
+title1:An approach for improving the levels of compaction achieved by vector omission. citation:11 ncitation:17 pid282975
+title1:An approach for improving the levels of compaction achieved by vector omission. citation:11 ncitation:17 pid282975
+title1:Testing of Fault-Tolerant Hardware. citation:4 ncitation:42 pid310370
+title1:Testing of Fault-Tolerant Hardware. citation:4 ncitation:42 pid310370
+title1:Transient-Fault Recovery for Chip Multiprocessors. citation:310 ncitation:301 pid418832
+title1:Transient-Fault Recovery for Chip Multiprocessors. citation:310 ncitation:301 pid418832
+title1:Using Dummy Bridging Faults to Define Reduced Sets of Target Faults. citation:4 ncitation:4 pid1085511
+title1:Using Dummy Bridging Faults to Define Reduced Sets of Target Faults. citation:4 ncitation:4 pid1085511
+title1:Generation of Multi-Cycle Broadside Tests. citation:5 ncitation:2 pid3146674
+title1:Generation of Multi-Cycle Broadside Tests. citation:5 ncitation:2 pid3146674
+title1:Built-in generation of functional broadside tests. citation:3 ncitation:2 pid3219198
+title1:Built-in generation of functional broadside tests. citation:3 ncitation:2 pid3219198
+title1:Built-in generation of functional broadside tests. citation:3 ncitation:2 pid3219198

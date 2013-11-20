@@ -1,0 +1,54 @@
+title1:Adaptive Fourier-Based Surface Reconstruction. citation:9 ncitation:4 pid235252
+title1:Adaptive Fourier-Based Surface Reconstruction. citation:9 ncitation:4 pid235252
+title1:Perceptual evaluation of tone mapping operators. citation:97 ncitation:29 pid593268
+title1:Perceptual evaluation of tone mapping operators. citation:97 ncitation:29 pid593268
+title1:Perceptual evaluation of tone mapping operators. citation:97 ncitation:29 pid593268
+title1:Walkthroughs with Corrective Texturing. citation:37 ncitation:36 pid563103
+title1:Walkthroughs with Corrective Texturing. citation:37 ncitation:36 pid563103
+title1:Smart Links and Efficient Reconstruction for Wavelet Radiosity. citation:11 ncitation:10 pid563094
+title1:Smart Links and Efficient Reconstruction for Wavelet Radiosity. citation:11 ncitation:10 pid563094
+title1:Feature-preserving non-local denoising of static and time-varying range data. citation:20 ncitation:14 pid606240
+title1:Feature-preserving non-local denoising of static and time-varying range data. citation:20 ncitation:14 pid606240
+title1:Linear onesided stability of MAT for weakly injective 3D domain. citation:29 ncitation:27 pid605859
+title1:Linear onesided stability of MAT for weakly injective 3D domain. citation:29 ncitation:27 pid605859
+title1:Linear onesided stability of MAT for weakly injective 3D domain. citation:29 ncitation:27 pid605859
+title1:Feature Flow Fields. citation:10 ncitation:96 pid639034
+title1:Feature Flow Fields. citation:10 ncitation:96 pid639034
+title1:A Flexible and Versatile Studio for SynchronizedMulti-View Video Recording. citation:30 ncitation:27 pid649740
+title1:A Flexible and Versatile Studio for SynchronizedMulti-View Video Recording. citation:30 ncitation:27 pid649740
+title1:Progressive path tracing with lightweight local error estimation. citation:4 ncitation:-1 pid647224
+title1:Progressive path tracing with lightweight local error estimation. citation:4 ncitation:-1 pid647224
+title1:Convex Boundary Angle-Based Flattening. citation:2 ncitation:3 pid647251
+title1:Convex Boundary Angle-Based Flattening. citation:2 ncitation:3 pid647251
+title1:Linear one-sided stability of MAT for weakly injective 3D domain. citation:29 ncitation:27 pid778278
+title1:Linear one-sided stability of MAT for weakly injective 3D domain. citation:29 ncitation:27 pid778278
+title1:Brightness of the glare illusion. citation:13 ncitation:10 pid717288
+title1:Brightness of the glare illusion. citation:13 ncitation:10 pid717288
+title1:Measurement-Based Interactive Simulation of Viscoelastic Solids. citation:24 ncitation:21 pid788072
+title1:Measurement-Based Interactive Simulation of Viscoelastic Solids. citation:24 ncitation:21 pid788072
+title1:Exchanging Faces in Images. citation:75 ncitation:68 pid787294
+title1:Exchanging Faces in Images. citation:75 ncitation:68 pid787294
+title1:Hardware-Accelerated Rendering of Photo Hulls. citation:31 ncitation:30 pid787792
+title1:Hardware-Accelerated Rendering of Photo Hulls. citation:31 ncitation:30 pid787792
+title1:Backward compatible high dynamic range MPEG video compression. citation:85 ncitation:70 pid1119346
+title1:Backward compatible high dynamic range MPEG video compression. citation:85 ncitation:70 pid1119346
+title1:Laplacian Framework for Interactive Mesh Editing. citation:20 ncitation:15 pid921267
+title1:Laplacian Framework for Interactive Mesh Editing. citation:20 ncitation:15 pid921267
+title1:Dynamically refining animated triangle meshes for rendering. citation:7 ncitation:7 pid1136659
+title1:Dynamically refining animated triangle meshes for rendering. citation:7 ncitation:7 pid1136659
+title1:3D unsharp masking for scene coherent enhancement. citation:40 ncitation:26 pid1119896
+title1:3D unsharp masking for scene coherent enhancement. citation:40 ncitation:26 pid1119896
+title1:Fluorescent immersion range scanning. citation:29 ncitation:26 pid1119911
+title1:Fluorescent immersion range scanning. citation:29 ncitation:26 pid1119911
+title1:Linear One-Sided Stability of MAT for Weakly Injective Domain. citation:6 ncitation:27 pid1339326
+title1:Linear One-Sided Stability of MAT for Weakly Injective Domain. citation:6 ncitation:27 pid1339326
+title1:PDE-Based Anisotropic Disparity-Driven Stereo Vision. citation:18 ncitation:12 pid1325437
+title1:PDE-Based Anisotropic Disparity-Driven Stereo Vision. citation:18 ncitation:12 pid1325437
+title1:Complementary Optic Flow. citation:63 ncitation:43 pid1242562
+title1:Complementary Optic Flow. citation:63 ncitation:43 pid1242562
+title1:Apparent display resolution enhancement for moving images. citation:0 ncitation:7 pid2870795
+title1:Apparent display resolution enhancement for moving images. citation:0 ncitation:7 pid2870795
+title1:A perceptual model for disparity. citation:33 ncitation:14 pid3132538
+title1:A perceptual model for disparity. citation:33 ncitation:14 pid3132538
+title1:Highlight microdisparity for improved gloss depiction. citation:4 ncitation:0 pid3453294
+title1:Highlight microdisparity for improved gloss depiction. citation:4 ncitation:0 pid3453294

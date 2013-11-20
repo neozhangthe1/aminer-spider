@@ -1,0 +1,45 @@
+title1:Performance Bounds for Nonbinary Linear Block Codes Over Memoryless Symmetric Channels. citation:22 ncitation:15 pid1110977
+title1:Performance Bounds for Nonbinary Linear Block Codes Over Memoryless Symmetric Channels. citation:22 ncitation:15 pid1110977
+title1:Information Theoretic Security. citation:0 ncitation:232 pid1286066
+title1:Information Theoretic Security. citation:0 ncitation:232 pid1286066
+title1:Information rates by oversampling the sign of a bandlimited process. citation:0 ncitation:15 pid1108651
+title1:Information rates by oversampling the sign of a bandlimited process. citation:0 ncitation:15 pid1108651
+title1:On the generalized symmetric cutoff rate for finite-state channels. citation:1 ncitation:9 pid1108659
+title1:On the generalized symmetric cutoff rate for finite-state channels. citation:1 ncitation:9 pid1108659
+title1:Cellular Systems with Full-Duplex Amplify-and-Forward Relaying and Cooperative Base-Stations citation:30 ncitation:26 pid820554
+title1:Cellular Systems with Full-Duplex Amplify-and-Forward Relaying and Cooperative Base-Stations citation:30 ncitation:26 pid820554
+title1:On Cognitive Interference Networks citation:26 ncitation:42 pid823284
+title1:On Cognitive Interference Networks citation:26 ncitation:42 pid823284
+title1:Multiuser capacity in block fading with no channel state information. citation:31 ncitation:30 pid1108657
+title1:Multiuser capacity in block fading with no channel state information. citation:31 ncitation:30 pid1108657
+title1:Information-theoretic considerations for symmetric, cellular, multiple-access fading channels - Part I. citation:274 ncitation:268 pid1108667
+title1:Information-theoretic considerations for symmetric, cellular, multiple-access fading channels - Part I. citation:274 ncitation:268 pid1108667
+title1:Bounds on the capacity of the bit-shift magnetic recording channel. citation:1 ncitation:13 pid1108669
+title1:Bounds on the capacity of the bit-shift magnetic recording channel. citation:1 ncitation:13 pid1108669
+title1:Communication Via Decentralized Processing. citation:80 ncitation:72 pid1110724
+title1:Communication Via Decentralized Processing. citation:80 ncitation:72 pid1110724
+title1:Iterative Decoding of Low-Density Parity-Check Codes Over Compound Channels. citation:0 ncitation:5 pid1087716
+title1:Iterative Decoding of Low-Density Parity-Check Codes Over Compound Channels. citation:0 ncitation:5 pid1087716
+title1:Approximate Characterizations for the Gaussian Source Broadcast Distortion Region citation:0 ncitation:8 pid1222915
+title1:Approximate Characterizations for the Gaussian Source Broadcast Distortion Region citation:0 ncitation:8 pid1222915
+title1:Polar Coding for Reliable Communications over Parallel Channels citation:0 ncitation:6 pid2854597
+title1:Polar Coding for Reliable Communications over Parallel Channels citation:0 ncitation:6 pid2854597
+title1:Retrospective Interference Alignment citation:51 ncitation:43 pid2917331
+title1:Retrospective Interference Alignment citation:51 ncitation:43 pid2917331
+title1:Guest Editorial Cooperative Communications in MIMO Cellular Networks. citation:2 ncitation:1 pid2974314
+title1:Guest Editorial Cooperative Communications in MIMO Cellular Networks. citation:2 ncitation:1 pid2974314
+title1:Multi-Cell MIMO Cooperative Networks: A New Look at Interference. citation:553 ncitation:414 pid2974315
+title1:Multi-Cell MIMO Cooperative Networks: A New Look at Interference. citation:553 ncitation:414 pid2974315
+title1:Performance bounds for erasure, list and decision feedback schemes with linear block codes. citation:0 ncitation:7 pid2977583
+title1:Performance bounds for erasure, list and decision feedback schemes with linear block codes. citation:0 ncitation:7 pid2977583
+title1:Multiple Access Channel with States Known Noncausally at One Encoder and Only Strictly Causally at the Other Encoder citation:0 ncitation:7 pid3066353
+title1:Multiple Access Channel with States Known Noncausally at One Encoder and Only Strictly Causally at the Other Encoder citation:0 ncitation:7 pid3066353
+title1:Multiple Access Channel with States Known Noncausally at One Encoder and Only Strictly Causally at the Other Encoder citation:0 ncitation:7 pid3066353
+title1:MMSE of "Bad" Codes citation:1 ncitation:1 pid3153034
+title1:MMSE of "Bad" Codes citation:1 ncitation:1 pid3153034
+title1:On Interference Networks with Feedback and Delayed CSI citation:0 ncitation:7 pid3154736
+title1:On Interference Networks with Feedback and Delayed CSI citation:0 ncitation:7 pid3154736
+title1:Multiple access channel with states known noncausally at one encoder and only strictly causally at the other encoder. citation:0 ncitation:7 pid3421436
+title1:Multiple access channel with states known noncausally at one encoder and only strictly causally at the other encoder. citation:0 ncitation:7 pid3421436
+title1:On the capacity of binary and Gaussian channels with run-length-limited inputs. citation:1 ncitation:14 pid3584899
+title1:On the capacity of binary and Gaussian channels with run-length-limited inputs. citation:1 ncitation:14 pid3584899

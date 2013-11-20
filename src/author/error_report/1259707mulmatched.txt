@@ -1,0 +1,49 @@
+title1:Measures of Pseudorandomness for Finite Sequences: Minimal Values. citation:41 ncitation:35 pid831308
+title1:Measures of Pseudorandomness for Finite Sequences: Minimal Values. citation:41 ncitation:35 pid831308
+title1:Piercing Convex Sets. citation:94 ncitation:17 pid110636
+title1:Piercing Convex Sets. citation:94 ncitation:17 pid110636
+title1:Edge Colouring with Delays. citation:1 ncitation:0 pid831373
+title1:Edge Colouring with Delays. citation:1 ncitation:0 pid831373
+title1:Parent-Identifying Codes. citation:25 ncitation:24 pid974262
+title1:Parent-Identifying Codes. citation:25 ncitation:24 pid974262
+title1:-Factors in Dense Graphs. citation:100 ncitation:93 pid974292
+title1:-Factors in Dense Graphs. citation:100 ncitation:93 pid974292
+title1:-Factors in Dense Graphs. citation:100 ncitation:93 pid974292
+title1:The Probabilistic Method citation:4718 ncitation:4373 pid3686
+title1:The Probabilistic Method citation:4718 ncitation:4373 pid3686
+title1:The Probabilistic Method citation:4718 ncitation:4373 pid3686
+title1:The Probabilistic Method citation:4718 ncitation:4373 pid3686
+title1:Testing satisfiability. citation:36 ncitation:38 pid952573
+title1:Testing satisfiability. citation:36 ncitation:38 pid952573
+title1:Simple Construction of Almost k-wise Independent Random Variables. citation:389 ncitation:373 pid1051744
+title1:Simple Construction of Almost k-wise Independent Random Variables. citation:389 ncitation:373 pid1051744
+title1:Lower Bounds for Approximations by Low Degree Polynomials Over Z. citation:31 ncitation:31 pid104351
+title1:Lower Bounds for Approximations by Low Degree Polynomials Over Z. citation:31 ncitation:31 pid104351
+title1:Color Coding. citation:506 ncitation:452 pid1199237
+title1:Color Coding. citation:506 ncitation:452 pid1199237
+title1:Color Coding. citation:506 ncitation:452 pid1199237
+title1:Color Coding. citation:506 ncitation:452 pid1199237
+title1:On the maximum number of Hamiltonian paths in tournaments. citation:35 ncitation:9 pid1051704
+title1:On the maximum number of Hamiltonian paths in tournaments. citation:35 ncitation:9 pid1051704
+title1:Threshold Functions for H-factors. citation:19 ncitation:16 pid830798
+title1:Threshold Functions for H-factors. citation:19 ncitation:16 pid830798
+title1:2-factors in dense graphs. citation:100 ncitation:89 pid854123
+title1:2-factors in dense graphs. citation:100 ncitation:89 pid854123
+title1:Weak &epsilon;-nets and interval chains. citation:14 ncitation:13 pid611646
+title1:Weak &epsilon;-nets and interval chains. citation:14 ncitation:13 pid611646
+title1:Color-Coding. citation:506 ncitation:452 pid949588
+title1:Color-Coding. citation:506 ncitation:452 pid949588
+title1:Polynomial time randomised approxmiation schemes for the Tutte polynomial of dense graphs citation:15 ncitation:25 pid209858
+title1:Polynomial time randomised approxmiation schemes for the Tutte polynomial of dense graphs citation:15 ncitation:25 pid209858
+title1:Star arboricity. citation:82 ncitation:32 pid797868
+title1:Star arboricity. citation:82 ncitation:32 pid797868
+title1:Scalable Secure Storage when Half the System Is Faulty. citation:10 ncitation:37 pid267181
+title1:Scalable Secure Storage when Half the System Is Faulty. citation:10 ncitation:37 pid267181
+title1:Color-Coding citation:55 ncitation:452 pid861707
+title1:Color-Coding citation:55 ncitation:452 pid861707
+title1:Approximation Schemes for Scheduling. citation:98 ncitation:72 pid609740
+title1:Approximation Schemes for Scheduling. citation:98 ncitation:72 pid609740
+title1:Problems and results in extremal combinatorics--I. citation:119 ncitation:106 pid846856
+title1:Problems and results in extremal combinatorics--I. citation:119 ncitation:106 pid846856
+title1:The Approximate Rank of a Matrix and its Algorithmic Applications. citation:0 ncitation:0 pid3587283
+title1:The Approximate Rank of a Matrix and its Algorithmic Applications. citation:0 ncitation:0 pid3587283

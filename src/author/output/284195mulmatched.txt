@@ -1,0 +1,22 @@
+title1:Hypergraph Partitioning with Fixed Vertices. citation:26 ncitation:11 pid131590
+title1:Hypergraph Partitioning with Fixed Vertices. citation:26 ncitation:11 pid131590
+title1:Bright-Field AAPSM Conflict Detection and Correction citation:18 ncitation:10 pid824040
+title1:Bright-Field AAPSM Conflict Detection and Correction citation:18 ncitation:10 pid824040
+title1:Local unidirectional bias for cutsize-delay tradeoff in performance-driven bipartitioning. citation:8 ncitation:8 pid1084664
+title1:Local unidirectional bias for cutsize-delay tradeoff in performance-driven bipartitioning. citation:8 ncitation:8 pid1084664
+title1:Fast Spectral Methods for Ratio Cut Partitioning and Clustering. citation:624 ncitation:573 pid282225
+title1:Fast Spectral Methods for Ratio Cut Partitioning and Clustering. citation:624 ncitation:573 pid282225
+title1:Manufacturability . citation:2 ncitation:-1 pid448021
+title1:Manufacturability . citation:2 ncitation:-1 pid448021
+title1:Manufacturability . citation:2 ncitation:-1 pid448021
+title1:Manufacturability . citation:2 ncitation:-1 pid448021
+title1:Manufacturability . citation:2 ncitation:-1 pid448021
+title1:Manufacturability . citation:2 ncitation:-1 pid448021
+title1:2003 Technology Roadmap for Semiconductors. citation:190 ncitation:191 pid806313
+title1:2003 Technology Roadmap for Semiconductors. citation:190 ncitation:191 pid806313
+title1:How much variability can designers tolerate? citation:0 ncitation:10 pid858148
+title1:How much variability can designers tolerate? citation:0 ncitation:10 pid858148
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140

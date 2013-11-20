@@ -1,0 +1,56 @@
+title1:D-Fusion: A Distinctive Fusion Calculus. citation:17 ncitation:17 pid44808
+title1:D-Fusion: A Distinctive Fusion Calculus. citation:17 ncitation:17 pid44808
+title1:Executing Transactions in Zero-Safe Nets. citation:16 ncitation:12 pid45121
+title1:Executing Transactions in Zero-Safe Nets. citation:16 ncitation:12 pid45121
+title1:A Comparison of Petri Net Semantics under the Collective Token Philosophy. citation:25 ncitation:25 pid51380
+title1:A Comparison of Petri Net Semantics under the Collective Token Philosophy. citation:25 ncitation:25 pid51380
+title1:Orchestrating Transactions in Join Calculus. citation:54 ncitation:54 pid114157
+title1:Orchestrating Transactions in Join Calculus. citation:54 ncitation:54 pid114157
+title1:Soft Concurrent Constraint Programming. citation:41 ncitation:38 pid188777
+title1:Soft Concurrent Constraint Programming. citation:41 ncitation:38 pid188777
+title1:Graphical Operational Semantics. citation:32 ncitation:32 pid267669
+title1:Graphical Operational Semantics. citation:32 ncitation:32 pid267669
+title1:Semiring-based Constraint Logic Programming. citation:74 ncitation:43 pid387628
+title1:Semiring-based Constraint Logic Programming. citation:74 ncitation:43 pid387628
+title1:CC Programs with both In- and Non-determinism: A Concurrent Semantics. citation:11 ncitation:10 pid547992
+title1:CC Programs with both In- and Non-determinism: A Concurrent Semantics. citation:11 ncitation:10 pid547992
+title1:Finite State Verification for the Asynchronous pi-Calculus. citation:23 ncitation:23 pid625337
+title1:Finite State Verification for the Asynchronous pi-Calculus. citation:23 ncitation:23 pid625337
+title1:Contextual Nets citation:197 ncitation:192 pid741204
+title1:Contextual Nets citation:197 ncitation:192 pid741204
+title1:Contextual Nets citation:197 ncitation:192 pid741204
+title1:Contextual Nets citation:197 ncitation:192 pid741204
+title1:Constraint Solving and Programming: What Next? citation:6 ncitation:5 pid811885
+title1:Constraint Solving and Programming: What Next? citation:6 ncitation:5 pid811885
+title1:Preface. citation:0 ncitation:-1 pid867038
+title1:Preface. citation:0 ncitation:-1 pid867038
+title1:Preface. citation:0 ncitation:-1 pid867038
+title1:Preface. citation:0 ncitation:-1 pid867038
+title1:Preface. citation:0 ncitation:-1 pid867039
+title1:Preface. citation:0 ncitation:-1 pid867039
+title1:Tiles for concurrent and located calculi? citation:18 ncitation:18 pid867320
+title1:Tiles for concurrent and located calculi? citation:18 ncitation:18 pid867320
+title1:Two Graph-Based Techniques for Software Architecture Reconfiguration. citation:10 ncitation:9 pid867704
+title1:Two Graph-Based Techniques for Software Architecture Reconfiguration. citation:10 ncitation:9 pid867704
+title1:Shaped Hierarchical Architectural Design. citation:22 ncitation:19 pid867705
+title1:Shaped Hierarchical Architectural Design. citation:22 ncitation:19 pid867705
+title1:Hoare vs Milner: Comparing Synchronizations in a Graphical Framework With Mobility. citation:3 ncitation:3 pid868048
+title1:Hoare vs Milner: Comparing Synchronizations in a Graphical Framework With Mobility. citation:3 ncitation:3 pid868048
+title1:Preface. citation:0 ncitation:-1 pid868358
+title1:Preface. citation:0 ncitation:-1 pid868358
+title1:Can Actors and pi-Agents Live Together? citation:7 ncitation:7 pid868359
+title1:Can Actors and pi-Agents Live Together? citation:7 ncitation:7 pid868359
+title1:Can Actors and pi-Agents Live Together? citation:7 ncitation:7 pid868359
+title1:On the Semantics of Place/Transition Petri Nets. citation:3 ncitation:52 pid1014799
+title1:On the Semantics of Place/Transition Petri Nets. citation:3 ncitation:52 pid1014799
+title1:Axiomatizing Permutation Equivalence. citation:37 ncitation:35 pid1014883
+title1:Axiomatizing Permutation Equivalence. citation:37 ncitation:35 pid1014883
+title1:Axiomatizing Permutation Equivalence. citation:37 ncitation:35 pid1014883
+title1:An Abstract Machine for Concurrent Modular Systems: CHARM. citation:34 ncitation:31 pid1090303
+title1:An Abstract Machine for Concurrent Modular Systems: CHARM. citation:34 ncitation:31 pid1090303
+title1:Preface. citation:0 ncitation:-1 pid1096131
+title1:Preface. citation:0 ncitation:-1 pid1096131
+title1:Hierarchical Design Rewriting with Maude. citation:26 ncitation:25 pid1223441
+title1:Hierarchical Design Rewriting with Maude. citation:26 ncitation:25 pid1223441
+title1:A Formal Support to Business and Architectural Design for Service-Oriented Systems. citation:4 ncitation:1 pid3168885
+title1:A Formal Support to Business and Architectural Design for Service-Oriented Systems. citation:4 ncitation:1 pid3168885

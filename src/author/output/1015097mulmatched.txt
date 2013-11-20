@@ -1,0 +1,15 @@
+title1:Time-Aware Authority Ranking. citation:41 ncitation:22 pid1168313
+title1:Time-Aware Authority Ranking. citation:41 ncitation:22 pid1168313
+title1:The LHAM Log-Structured History Data Access Method. citation:31 ncitation:40 pid1138225
+title1:The LHAM Log-Structured History Data Access Method. citation:31 ncitation:40 pid1138225
+title1:Datenbanksysteme. citation:23 ncitation:-1 pid138527
+title1:Datenbanksysteme. citation:23 ncitation:-1 pid138527
+title1:Datenbanksysteme. citation:23 ncitation:-1 pid138527
+title1:Datenbanksysteme. citation:23 ncitation:-1 pid138527
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Peer-to-Peer Web Search. citation:41 ncitation:-1 pid1298561
+title1:Guest Editorial Introduction to the Special Section on the 16th International Conference on Data Engineering. citation:0 ncitation:0 pid1113116
+title1:Guest Editorial Introduction to the Special Section on the 16th International Conference on Data Engineering. citation:0 ncitation:0 pid1113116

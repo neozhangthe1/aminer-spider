@@ -1,0 +1,40 @@
+title1:Smartar: a Pseudo- End-to-end Approach for Ip Micro-mobility. citation:0 ncitation:-1 pid986644
+title1:Smartar: a Pseudo- End-to-end Approach for Ip Micro-mobility. citation:0 ncitation:-1 pid986644
+title1:Delay-energy Aware Routing Protocol for Heterogeneous Wireless Ad Hoc Networks. citation:3 ncitation:3 pid986693
+title1:Delay-energy Aware Routing Protocol for Heterogeneous Wireless Ad Hoc Networks. citation:3 ncitation:3 pid986693
+title1:Ad Hoc and Neighborhood Search Methods for Placement of Mesh Routers in Wireless Mesh Networks. citation:26 ncitation:15 pid1246526
+title1:Ad Hoc and Neighborhood Search Methods for Placement of Mesh Routers in Wireless Mesh Networks. citation:26 ncitation:15 pid1246526
+title1:Experimental Results and Evaluation of SmartBox Stimulation Device in a P2P E-learning System. citation:2 ncitation:2 pid1311530
+title1:Experimental Results and Evaluation of SmartBox Stimulation Device in a P2P E-learning System. citation:2 ncitation:2 pid1311530
+title1:Wireless Communications for Health Monitoring on Highways. citation:3 ncitation:2 pid299005
+title1:Wireless Communications for Health Monitoring on Highways. citation:3 ncitation:2 pid299005
+title1:Secure Mobile Communications for Battlefields. citation:6 ncitation:5 pid727360
+title1:Secure Mobile Communications for Battlefields. citation:6 ncitation:5 pid727360
+title1:Locals Search Algorithms for Efficient Router Nodes Placement in Wireless Mesh Networks. citation:2 ncitation:2 pid1311549
+title1:Locals Search Algorithms for Efficient Router Nodes Placement in Wireless Mesh Networks. citation:2 ncitation:2 pid1311549
+title1:An Intelligent Policing-Routing Mechanism Based on Fuzzy Logic and Genetic Algorithms. citation:10 ncitation:5 pid340840
+title1:An Intelligent Policing-Routing Mechanism Based on Fuzzy Logic and Genetic Algorithms. citation:10 ncitation:5 pid340840
+title1:An Intelligent Policing-Routing Mechanism Based on Fuzzy Logic and Genetic Algorithms. citation:10 ncitation:5 pid340840
+title1:Fast autonomous system traceback. citation:13 ncitation:11 pid1284475
+title1:Fast autonomous system traceback. citation:13 ncitation:11 pid1284475
+title1:An E-learning System for Improving Learner Study Efficiency by Stimulating Learner Volition. citation:6 ncitation:5 pid341617
+title1:An E-learning System for Improving Learner Study Efficiency by Stimulating Learner Volition. citation:6 ncitation:5 pid341617
+title1:Anonymous Routing for Mobile Wireless Ad Hoc Networks. citation:5 ncitation:5 pid1186805
+title1:Anonymous Routing for Mobile Wireless Ad Hoc Networks. citation:5 ncitation:5 pid1186805
+title1:Scalable Inter-Vehicle Communication Protocol. citation:2 ncitation:2 pid2864611
+title1:Scalable Inter-Vehicle Communication Protocol. citation:2 ncitation:2 pid2864611
+title1:Impact of Mobile Sink for Wireless Sensor Networks Considering Different Radio Models. citation:0 ncitation:0 pid2953708
+title1:Impact of Mobile Sink for Wireless Sensor Networks Considering Different Radio Models. citation:0 ncitation:0 pid2953708
+title1:Characteristics of Diffracted Waves Going over Building Rooftop. citation:2 ncitation:2 pid3055250
+title1:Characteristics of Diffracted Waves Going over Building Rooftop. citation:2 ncitation:2 pid3055250
+title1:Characteristics of Diffracted Waves Going over Building Rooftop. citation:2 ncitation:2 pid3055250
+title1:A Fuzzy-Based Reliability System for JXTA-Overlay P2P Platform. citation:2 ncitation:-1 pid3196694
+title1:A Fuzzy-Based Reliability System for JXTA-Overlay P2P Platform. citation:2 ncitation:-1 pid3196694
+title1:A MAC Protocol for Power Reduction in Wireless Sensor Networks Based on Load Estimation. citation:0 ncitation:-1 pid3297790
+title1:A MAC Protocol for Power Reduction in Wireless Sensor Networks Based on Load Estimation. citation:0 ncitation:-1 pid3297790
+title1:A Fuzzy-Based Trustworthiness System for JXTA-Overlay P2P Platform. citation:3 ncitation:1 pid3325486
+title1:A Fuzzy-Based Trustworthiness System for JXTA-Overlay P2P Platform. citation:3 ncitation:1 pid3325486
+title1:Tuning of Operators in Memetic Algorithms for Independent Batch Scheduling in Computational Grids. citation:0 ncitation:-1 pid3515951
+title1:Tuning of Operators in Memetic Algorithms for Independent Batch Scheduling in Computational Grids. citation:0 ncitation:-1 pid3515951
+title1:An Integrated Fuzzy-based Trustworthiness System for P2P Communications in JXTA-Overlay. citation:0 ncitation:-1 pid3638383
+title1:An Integrated Fuzzy-based Trustworthiness System for P2P Communications in JXTA-Overlay. citation:0 ncitation:-1 pid3638383

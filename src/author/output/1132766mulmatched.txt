@@ -1,0 +1,33 @@
+title1:Direct Appearance Models. citation:151 ncitation:142 pid128198
+title1:Direct Appearance Models. citation:151 ncitation:142 pid128198
+title1:Direct Appearance Models. citation:151 ncitation:142 pid128198
+title1:Concurrent Subspaces Analysis. citation:71 ncitation:67 pid129497
+title1:Concurrent Subspaces Analysis. citation:71 ncitation:67 pid129497
+title1:Discriminant Analysis on Embedded Manifold. citation:20 ncitation:18 pid169486
+title1:Discriminant Analysis on Embedded Manifold. citation:20 ncitation:18 pid169486
+title1:Real-Time Multi-View Face Detection. citation:95 ncitation:83 pid205766
+title1:Real-Time Multi-View Face Detection. citation:95 ncitation:83 pid205766
+title1:Integrating color and spatial features for content-based video retrieval. citation:43 ncitation:39 pid319258
+title1:Integrating color and spatial features for content-based video retrieval. citation:43 ncitation:39 pid319258
+title1:Blur Determination in the Compressed Domain Using DTC Information. citation:117 ncitation:98 pid319551
+title1:Blur Determination in the Compressed Domain Using DTC Information. citation:117 ncitation:98 pid319551
+title1:Integrating Visual, Audio and Text Analysis for News Video. citation:100 ncitation:90 pid320599
+title1:Integrating Visual, Audio and Text Analysis for News Video. citation:100 ncitation:90 pid320599
+title1:Automatic Image Orientation Detection. citation:37 ncitation:68 pid321862
+title1:Automatic Image Orientation Detection. citation:37 ncitation:68 pid321862
+title1:Automatic Video Scene Extraction by Shot Grouping. citation:102 ncitation:91 pid347691
+title1:Automatic Video Scene Extraction by Shot Grouping. citation:102 ncitation:91 pid347691
+title1:Keyword propagation for image retrieval. citation:26 ncitation:8 pid427275
+title1:Keyword propagation for image retrieval. citation:26 ncitation:8 pid427275
+title1:Manifold-ranking based image retrieval. citation:236 ncitation:210 pid502309
+title1:Manifold-ranking based image retrieval. citation:236 ncitation:210 pid502309
+title1:Photo2Video. citation:9 ncitation:7 pid502353
+title1:Photo2Video. citation:9 ncitation:7 pid502353
+title1:On clustering and retrieval of video shots. citation:109 ncitation:81 pid502653
+title1:On clustering and retrieval of video shots. citation:109 ncitation:81 pid502653
+title1:Developing Power Tools for Video Indexing and Retrieval. citation:133 ncitation:124 pid615525
+title1:Developing Power Tools for Video Indexing and Retrieval. citation:133 ncitation:124 pid615525
+title1:DRESS: A Slicing Tree Based Web Page Representation for Various Display Sizes. citation:25 ncitation:22 pid673910
+title1:DRESS: A Slicing Tree Based Web Page Representation for Various Display Sizes. citation:25 ncitation:22 pid673910
+title1:Content-Based Video Indexing and Retrieval. citation:604 ncitation:553 pid894216
+title1:Content-Based Video Indexing and Retrieval. citation:604 ncitation:553 pid894216

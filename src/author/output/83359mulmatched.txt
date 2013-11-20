@@ -1,0 +1,25 @@
+title1:A Scalable VLSI Architecture for Binary Prefix Sums. citation:0 ncitation:-1 pid409854
+title1:A Scalable VLSI Architecture for Binary Prefix Sums. citation:0 ncitation:-1 pid409854
+title1:New Energy-Efficient Permutation Routing Protocol for Single-Hop Radio Networks. citation:15 ncitation:13 pid105176
+title1:New Energy-Efficient Permutation Routing Protocol for Single-Hop Radio Networks. citation:15 ncitation:13 pid105176
+title1:New Energy-Efficient Permutation Routing Protocol for Single-Hop Radio Networks. citation:15 ncitation:13 pid105176
+title1:Location Management in Mobile Computing. citation:0 ncitation:36 pid32158
+title1:Location Management in Mobile Computing. citation:0 ncitation:36 pid32158
+title1:Location Management in Mobile Computing. citation:0 ncitation:36 pid32158
+title1:Location Management in Mobile Computing. citation:0 ncitation:36 pid32158
+title1:Dynamic mobility management. citation:0 ncitation:0 pid509695
+title1:Dynamic mobility management. citation:0 ncitation:0 pid509695
+title1:An Energy-Efficient Permutation Routing Protocol for Single-Hop Radio Networks. citation:15 ncitation:13 pid1124899
+title1:An Energy-Efficient Permutation Routing Protocol for Single-Hop Radio Networks. citation:15 ncitation:13 pid1124899
+title1:A bi-objective hybrid genetic algorithm to minimize energy consumption and makespan for precedence-constrained applications using dynamic voltage scaling. citation:0 ncitation:2 pid2909681
+title1:A bi-objective hybrid genetic algorithm to minimize energy consumption and makespan for precedence-constrained applications using dynamic voltage scaling. citation:0 ncitation:2 pid2909681
+title1:RBT-L: A location based approach for solving the Multiple Sequence Alignment problem. citation:5 ncitation:5 pid2933466
+title1:RBT-L: A location based approach for solving the Multiple Sequence Alignment problem. citation:5 ncitation:5 pid2933466
+title1:Some observations on optimal frequency selection in DVFS-based energy consumption minimization. citation:23 ncitation:12 pid3073950
+title1:Some observations on optimal frequency selection in DVFS-based energy consumption minimization. citation:23 ncitation:12 pid3073950
+title1:RBT-Km: K-Means clustering for Multiple Sequence Alignment. citation:1 ncitation:1 pid3227578
+title1:RBT-Km: K-Means clustering for Multiple Sequence Alignment. citation:1 ncitation:1 pid3227578
+title1:A parallel collision-avoidance algorithm for robot manipulators. citation:10 ncitation:9 pid3261001
+title1:A parallel collision-avoidance algorithm for robot manipulators. citation:10 ncitation:9 pid3261001
+title1:Network Load Analysis and Provisioning of MapReduce Applications citation:0 ncitation:1 pid3470436
+title1:Network Load Analysis and Provisioning of MapReduce Applications citation:0 ncitation:1 pid3470436

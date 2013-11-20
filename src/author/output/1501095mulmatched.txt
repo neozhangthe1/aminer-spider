@@ -1,0 +1,114 @@
+title1:Heterogenous Active Agents citation:227 ncitation:53 pid2151
+title1:Heterogenous Active Agents citation:227 ncitation:53 pid2151
+title1:Strong and Uniform Equivalence in Answer-Set Programming: Characterizations and Complexity Results for the Non-Ground Case. citation:34 ncitation:30 pid12613
+title1:Strong and Uniform Equivalence in Answer-Set Programming: Characterizations and Complexity Results for the Non-Ground Case. citation:34 ncitation:30 pid12613
+title1:On Computing all Abductive Explanations. citation:51 ncitation:53 pid12615
+title1:On Computing all Abductive Explanations. citation:51 ncitation:53 pid12615
+title1:Forgetting and Conflict Resolving in Disjunctive Logic Programming. citation:15 ncitation:15 pid12616
+title1:Forgetting and Conflict Resolving in Disjunctive Logic Programming. citation:15 ncitation:15 pid12616
+title1:Answering Regular Path Queries in Expressive Description Logics: An Automata-Theoretic Approach. citation:36 ncitation:32 pid15724
+title1:Answering Regular Path Queries in Expressive Description Logics: An Automata-Theoretic Approach. citation:36 ncitation:32 pid15724
+title1:Equilibria in Heterogeneous Nonmonotonic Multi-Context Systems. citation:92 ncitation:80 pid15802
+title1:Equilibria in Heterogeneous Nonmonotonic Multi-Context Systems. citation:92 ncitation:80 pid15802
+title1:Error Classification in Action Descriptions: A Heuristic Approach. citation:2 ncitation:3 pid16096
+title1:Error Classification in Action Descriptions: A Heuristic Approach. citation:2 ncitation:3 pid16096
+title1:Transforming co-NP Checks to Answer Set Computation by Meta-Interpretation. citation:1 ncitation:1 pid30530
+title1:Transforming co-NP Checks to Answer Set Computation by Meta-Interpretation. citation:1 ncitation:1 pid30530
+title1:Complexity of Answer Set Checking and Bounded Predicate Arities for Non-ground Answer Set Programming. citation:13 ncitation:15 pid51970
+title1:Complexity of Answer Set Checking and Bounded Predicate Arities for Non-ground Answer Set Programming. citation:13 ncitation:15 pid51970
+title1:Eliminating Disjunction from Propositional Logic Programs under Stable Model Preservation. citation:3 ncitation:4 pid51972
+title1:Eliminating Disjunction from Propositional Logic Programs under Stable Model Preservation. citation:3 ncitation:4 pid51972
+title1:Prioritizing Default Logic. citation:92 ncitation:87 pid65657
+title1:Prioritizing Default Logic. citation:92 ncitation:87 pid65657
+title1:Partial Semantics for Disjunctive Deductive Databases. citation:42 ncitation:4 pid149576
+title1:Partial Semantics for Disjunctive Deductive Databases. citation:42 ncitation:4 pid149576
+title1:Effective Integration of Declarative Rules with External Evaluations for Semantic-Web Reasoning. citation:116 ncitation:102 pid190023
+title1:Effective Integration of Declarative Rules with External Evaluations for Semantic-Web Reasoning. citation:116 ncitation:102 pid190023
+title1:Complexity of Nested Circumscription and Abnormality Theories. citation:2 ncitation:3 pid387850
+title1:Complexity of Nested Circumscription and Abnormality Theories. citation:2 ncitation:3 pid387850
+title1:On Solution Correspondences in Answer-Set Programming. citation:63 ncitation:58 pid388291
+title1:On Solution Correspondences in Answer-Set Programming. citation:63 ncitation:58 pid388291
+title1:Embedding Non-Ground Logic Programs into Autoepistemic Logic for Knowledge-Base Combination. citation:56 ncitation:48 pid391361
+title1:Embedding Non-Ground Logic Programs into Autoepistemic Logic for Knowledge-Base Combination. citation:56 ncitation:48 pid391361
+title1:Complexity Results for Checking Equivalence of Stratified Logic Programs. citation:6 ncitation:7 pid391756
+title1:Complexity Results for Checking Equivalence of Stratified Logic Programs. citation:6 ncitation:7 pid391756
+title1:Comparing Action Descriptions Based on Semantic Preferences. citation:1 ncitation:4 pid469038
+title1:Comparing Action Descriptions Based on Semantic Preferences. citation:1 ncitation:4 pid469038
+title1:The DLV Planning System: Progress Report. citation:26 ncitation:23 pid469042
+title1:The DLV Planning System: Progress Report. citation:26 ncitation:23 pid469042
+title1:An Implementation for Recognizing Rule Replacements in Non-ground Answer-Set Programs. citation:3 ncitation:4 pid469054
+title1:An Implementation for Recognizing Rule Replacements in Non-ground Answer-Set Programs. citation:3 ncitation:4 pid469054
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:The DLV System. citation:800 ncitation:53 pid469205
+title1:Complexity of Model Checking and Bounded Predicate Arities for Non-ground Answer Set Programming. citation:0 ncitation:15 pid479672
+title1:Complexity of Model Checking and Bounded Predicate Arities for Non-ground Answer Set Programming. citation:0 ncitation:15 pid479672
+title1:A Generic Approach for Knowledge-Based Information-Site Selection. citation:16 ncitation:17 pid479673
+title1:A Generic Approach for Knowledge-Based Information-Site Selection. citation:16 ncitation:17 pid479673
+title1:On Eliminating Disjunctions in Stable Logic Programming. citation:16 ncitation:13 pid479675
+title1:On Eliminating Disjunctions in Stable Logic Programming. citation:16 ncitation:13 pid479675
+title1:Combining Answer Set Programming with Description Logics for the Semantic Web. citation:450 ncitation:289 pid479679
+title1:Combining Answer Set Programming with Description Logics for the Semantic Web. citation:450 ncitation:289 pid479679
+title1:\mathbb: Decidable Non-monotonic Disjunctive Logic Programs with Function Symbols. citation:39 ncitation:-1 pid487427
+title1:\mathbb: Decidable Non-monotonic Disjunctive Logic Programs with Function Symbols. citation:39 ncitation:-1 pid487427
+title1:System Description: The DLV Planning System. citation:4 ncitation:6 pid487618
+title1:System Description: The DLV Planning System. citation:4 ncitation:6 pid487618
+title1:Simplifying Logic Programs Under Uniform and Strong Equivalence. citation:77 ncitation:75 pid487629
+title1:Simplifying Logic Programs Under Uniform and Strong Equivalence. citation:77 ncitation:75 pid487629
+title1:Towards Automated Integration of Guess and Check Programs in Answer Set Programming. citation:21 ncitation:6 pid487641
+title1:Towards Automated Integration of Guess and Check Programs in Answer Set Programming. citation:21 ncitation:6 pid487641
+title1:Plan reversals for recovery in execution monitoring. citation:22 ncitation:22 pid519246
+title1:Plan reversals for recovery in execution monitoring. citation:22 ncitation:22 pid519246
+title1:Well-Founded Semantics for Description Logic Programs in the Semantic Web. citation:84 ncitation:86 pid565748
+title1:Well-Founded Semantics for Description Logic Programs in the Semantic Web. citation:84 ncitation:86 pid565748
+title1:Well-Founded Semantics for Description Logic Programs in the Semantic Web. citation:84 ncitation:86 pid565748
+title1:Reasoning with Rules and Ontologies. citation:57 ncitation:50 pid565923
+title1:Reasoning with Rules and Ontologies. citation:57 ncitation:50 pid565923
+title1:Modal Nonmonotonic Logics Revisited: Efficient Encodings for the Basic Reasoning Tasks. citation:18 ncitation:19 pid624679
+title1:Modal Nonmonotonic Logics Revisited: Efficient Encodings for the Basic Reasoning Tasks. citation:18 ncitation:19 pid624679
+title1:Causes and Explanations in the Structural-Model Approach : Tractable Cases. citation:4 ncitation:3 pid632279
+title1:Causes and Explanations in the Structural-Model Approach : Tractable Cases. citation:4 ncitation:3 pid632279
+title1:dlvhex: A Prover for Semantic-Web Reasoning under the Answer-Set Semantics. citation:13 ncitation:13 pid655438
+title1:dlvhex: A Prover for Semantic-Web Reasoning under the Answer-Set Semantics. citation:13 ncitation:13 pid655438
+title1:dlvhex: A System for Integrating Multiple Semantics in an Answer-Set Programming Framework. citation:21 ncitation:22 pid664467
+title1:dlvhex: A System for Integrating Multiple Semantics in an Answer-Set Programming Framework. citation:21 ncitation:22 pid664467
+title1:A logic programming approach to knowledge-state planning, II: The DLV system. citation:124 ncitation:127 pid744750
+title1:A logic programming approach to knowledge-state planning, II: The DLV system. citation:124 ncitation:127 pid744750
+title1:Computing Preferred Answer Sets by Meta-Interpretation in Answer Set Programming citation:49 ncitation:43 pid818469
+title1:Computing Preferred Answer Sets by Meta-Interpretation in Answer Set Programming citation:49 ncitation:43 pid818469
+title1:Semantical Characterizations and Complexity of Equivalences in Answer Set Programming citation:51 ncitation:56 pid822232
+title1:Semantical Characterizations and Complexity of Equivalences in Answer Set Programming citation:51 ncitation:56 pid822232
+title1:Double Horn Functions. citation:13 ncitation:13 pid887751
+title1:Double Horn Functions. citation:13 ncitation:13 pid887751
+title1:Data Complexity of Query Answering in Expressive Description Logics via Tableaux. citation:69 ncitation:55 pid955252
+title1:Data Complexity of Query Answering in Expressive Description Logics via Tableaux. citation:69 ncitation:55 pid955252
+title1:Decision lists and related Boolean functions. citation:17 ncitation:15 pid1090914
+title1:Decision lists and related Boolean functions. citation:17 ncitation:15 pid1090914
+title1:Disjunctive Datalog. citation:429 ncitation:398 pid1118326
+title1:Disjunctive Datalog. citation:429 ncitation:398 pid1118326
+title1:Disjunctive Datalog. citation:429 ncitation:398 pid1118326
+title1:Probabilistic object bases. citation:58 ncitation:55 pid1118327
+title1:Probabilistic object bases. citation:58 ncitation:55 pid1118327
+title1:Finding Similar or Diverse Solutions in Answer Set Programming. citation:10 ncitation:11 pid1210166
+title1:Finding Similar or Diverse Solutions in Answer Set Programming. citation:10 ncitation:11 pid1210166
+title1:Query Answering in Description Logics with Transitive Roles. citation:27 ncitation:21 pid1249535
+title1:Query Answering in Description Logics with Transitive Roles. citation:27 ncitation:21 pid1249535
+title1:The DMCS Solver for Distributed Nonmonotonic Multi-Context Systems. citation:8 ncitation:6 pid2805161
+title1:The DMCS Solver for Distributed Nonmonotonic Multi-Context Systems. citation:8 ncitation:6 pid2805161
+title1:KI 2001: Advances in Artificial Intelligence, Joint German/Austrian Conference on AI, Vienna, Austria, September 19-21, 2001, Proceedings citation:0 ncitation:-1 pid2805559
+title1:KI 2001: Advances in Artificial Intelligence, Joint German/Austrian Conference on AI, Vienna, Austria, September 19-21, 2001, Proceedings citation:0 ncitation:-1 pid2805559
+title1:Distributed Nonmonotonic Multi-Context Systems. citation:19 ncitation:16 pid2805709
+title1:Distributed Nonmonotonic Multi-Context Systems. citation:19 ncitation:16 pid2805709
+title1:Distributed Nonmonotonic Multi-Context Systems. citation:19 ncitation:16 pid2805709
+title1:Logic Programming and Nonmonotonic Reasoning, 6th International Conference, LPNMR 2001, Vienna, Austria, September 17-19, 2001, Proceedings citation:5 ncitation:5 pid2806394
+title1:Logic Programming and Nonmonotonic Reasoning, 6th International Conference, LPNMR 2001, Vienna, Austria, September 17-19, 2001, Proceedings citation:5 ncitation:5 pid2806394
+title1:Query Answering in the Description Logic S. citation:6 ncitation:1 pid2942882
+title1:Query Answering in the Description Logic S. citation:6 ncitation:1 pid2942882
+title1:Well-founded semantics for description logic programs in the semantic web. citation:84 ncitation:86 pid2978299
+title1:Well-founded semantics for description logic programs in the semantic web. citation:84 ncitation:86 pid2978299

@@ -1,0 +1,2 @@
+title1:DRAM Energy Management Using Software and Hardware Directed Power Mode Control. citation:10 ncitation:170 pid252734
+title1:DRAM Energy Management Using Software and Hardware Directed Power Mode Control. citation:10 ncitation:170 pid252734

@@ -1,0 +1,68 @@
+title1:Fair Off-Line e-cash Made Easy. citation:79 ncitation:76 pid50891
+title1:Fair Off-Line e-cash Made Easy. citation:79 ncitation:76 pid50891
+title1:Group Encryption. citation:30 ncitation:25 pid51174
+title1:Group Encryption. citation:30 ncitation:25 pid51174
+title1:Funkspiel schemes: an alternative to conventional tamper resistance. citation:18 ncitation:17 pid83914
+title1:Funkspiel schemes: an alternative to conventional tamper resistance. citation:18 ncitation:17 pid83914
+title1:Scheduling Task-Tree with Additive Scales on Parallel / Distributed Machines. citation:0 ncitation:-1 pid105440
+title1:Scheduling Task-Tree with Additive Scales on Parallel / Distributed Machines. citation:0 ncitation:-1 pid105440
+title1:Electronic Payments: Where Do We Go from Here?. citation:20 ncitation:19 pid118950
+title1:Electronic Payments: Where Do We Go from Here?. citation:20 ncitation:19 pid118950
+title1:Perfectly-Secure Key Distribution for Dynamic Conferences. citation:950 ncitation:1017 pid119769
+title1:Perfectly-Secure Key Distribution for Dynamic Conferences. citation:950 ncitation:1017 pid119769
+title1:Proactive RSA. citation:211 ncitation:199 pid120023
+title1:Proactive RSA. citation:211 ncitation:199 pid120023
+title1:Intrusion-Resilient Public-Key Encryption. citation:86 ncitation:81 pid127123
+title1:Intrusion-Resilient Public-Key Encryption. citation:86 ncitation:81 pid127123
+title1:Adaptively-Secure Distributed Public-Key Systems. citation:41 ncitation:40 pid186187
+title1:Adaptively-Secure Distributed Public-Key Systems. citation:41 ncitation:40 pid186187
+title1:Traceable Signatures. citation:172 ncitation:158 pid193165
+title1:Traceable Signatures. citation:172 ncitation:158 pid193165
+title1:Traceable Signatures. citation:172 ncitation:158 pid193165
+title1:Eavesdropping Games: A Graph-Theoretic Approach to Privacy in Distributed Systems citation:54 ncitation:53 pid210629
+title1:Eavesdropping Games: A Graph-Theoretic Approach to Privacy in Distributed Systems citation:54 ncitation:53 pid210629
+title1:Non-Interactive CryptoComputing For NC. citation:213 ncitation:201 pid211733
+title1:Non-Interactive CryptoComputing For NC. citation:213 ncitation:201 pid211733
+title1:On Monotone Formula Closure of SZK citation:149 ncitation:147 pid211741
+title1:On Monotone Formula Closure of SZK citation:149 ncitation:147 pid211741
+title1:Scramble All, Encrypt Small. citation:38 ncitation:37 pid217176
+title1:Scramble All, Encrypt Small. citation:38 ncitation:37 pid217176
+title1:Everything in NP can be Argued in Perfect Zero-Knowledge in a Bounded Number of Rounds. citation:21 ncitation:65 pid267555
+title1:Everything in NP can be Argued in Perfect Zero-Knowledge in a Bounded Number of Rounds. citation:21 ncitation:65 pid267555
+title1:Everything in NP can be Argued in Perfect Zero-Knowledge in a Bounded Number of Rounds. citation:21 ncitation:65 pid267555
+title1:Cryptographic Hardness Based on the Decoding of Reed-Solomon Codes. citation:37 ncitation:35 pid268438
+title1:Cryptographic Hardness Based on the Decoding of Reed-Solomon Codes. citation:37 ncitation:35 pid268438
+title1:Secret Swarm UnitReactive k-Secret Sharing. citation:19 ncitation:19 pid399453
+title1:Secret Swarm UnitReactive k-Secret Sharing. citation:19 ncitation:19 pid399453
+title1:"Time-Driven Priority" Flow Control for Real-Time Heterogeneous Internetworking. citation:58 ncitation:59 pid401605
+title1:"Time-Driven Priority" Flow Control for Real-Time Heterogeneous Internetworking. citation:58 ncitation:59 pid401605
+title1:Recovering NTRU Secret Key from Inversion Oracles. citation:10 ncitation:9 pid541378
+title1:Recovering NTRU Secret Key from Inversion Oracles. citation:10 ncitation:9 pid541378
+title1:Maintenance of a Minimum Spanning Forest in a Dynamic Planar Graph. citation:173 ncitation:166 pid610457
+title1:Maintenance of a Minimum Spanning Forest in a Dynamic Planar Graph. citation:173 ncitation:166 pid610457
+title1:Threshold and Proactive Pseudo-Random Permutations. citation:6 ncitation:6 pid627299
+title1:Threshold and Proactive Pseudo-Random Permutations. citation:6 ncitation:6 pid627299
+title1:Self-Stabilizing Symmetry Breaking in Constant Space. citation:47 ncitation:46 pid1059979
+title1:Self-Stabilizing Symmetry Breaking in Constant Space. citation:47 ncitation:46 pid1059979
+title1:Secure Hypergraphs: Privacy from Partial Broadcast. citation:66 ncitation:66 pid1061351
+title1:Secure Hypergraphs: Privacy from Partial Broadcast. citation:66 ncitation:66 pid1061351
+title1:Applied Cryptography and Network Security, Third International Conference, ACNS 2005, New York, NY, USA, June 7-10, 2005, Proceedings citation:7 ncitation:9 pid2774633
+title1:Applied Cryptography and Network Security, Third International Conference, ACNS 2005, New York, NY, USA, June 7-10, 2005, Proceedings citation:7 ncitation:9 pid2774633
+title1:Applied Cryptography and Network Security, 4th International Conference, ACNS 2006, Singapore, June 6-9, 2006, Proceedings citation:4 ncitation:1 pid2774635
+title1:Applied Cryptography and Network Security, 4th International Conference, ACNS 2006, Singapore, June 6-9, 2006, Proceedings citation:4 ncitation:1 pid2774635
+title1:Information Security and Cryptology, 4th International Conference, Inscrypt 2008, Beijing, China, December 14-17, 2008, Revised Selected Papers citation:4 ncitation:1 pid2780085
+title1:Information Security and Cryptology, 4th International Conference, Inscrypt 2008, Beijing, China, December 14-17, 2008, Revised Selected Papers citation:4 ncitation:1 pid2780085
+title1:Progress in Cryptology - INDOCRYPT 2007, 8th International Conference on Cryptology in India, Chennai, India, December 9-13, 2007, Proceedings citation:3 ncitation:3 pid2800397
+title1:Progress in Cryptology - INDOCRYPT 2007, 8th International Conference on Cryptology in India, Chennai, India, December 9-13, 2007, Proceedings citation:3 ncitation:3 pid2800397
+title1:Security and Cryptography for Networks, 5th International Conference, SCN 2006, Maiori, Italy, September 6-8, 2006, Proceedings citation:3 ncitation:3 pid2812834
+title1:Security and Cryptography for Networks, 5th International Conference, SCN 2006, Maiori, Italy, September 6-8, 2006, Proceedings citation:3 ncitation:3 pid2812834
+title1:Information Security Applications, 5th International Workshop, WISA 2004, Jeju Island, Korea, August 23-25, 2004, Revised Selected Papers citation:0 ncitation:1 pid2819322
+title1:Information Security Applications, 5th International Workshop, WISA 2004, Jeju Island, Korea, August 23-25, 2004, Revised Selected Papers citation:0 ncitation:1 pid2819322
+title1:Malicious cryptography - exposing cryptovirology. citation:85 ncitation:79 pid3004171
+title1:Malicious cryptography - exposing cryptovirology. citation:85 ncitation:79 pid3004171
+title1:Leakage Resilient Cryptography in Practice. citation:47 ncitation:36 pid3142967
+title1:Leakage Resilient Cryptography in Practice. citation:47 ncitation:36 pid3142967
+title1:Elastic Block Ciphers. citation:17 ncitation:16 pid3256325
+title1:Elastic Block Ciphers. citation:17 ncitation:16 pid3256325
+title1:Elastic Block Ciphers. citation:17 ncitation:16 pid3256325
+title1:Elastic Block Ciphers. citation:17 ncitation:16 pid3256325

@@ -1,0 +1,25 @@
+title1:Global rebuilding of OBDDs Avoiding Memory Requirement Maxima. citation:27 ncitation:27 pid79101
+title1:Global rebuilding of OBDDs Avoiding Memory Requirement Maxima. citation:27 ncitation:27 pid79101
+title1:Efficient OBDD-Based Boolean Manipulation in CAD beyond Current Limits. citation:64 ncitation:63 pid131447
+title1:Efficient OBDD-Based Boolean Manipulation in CAD beyond Current Limits. citation:64 ncitation:63 pid131447
+title1:Linear Sifting of Decision Diagrams. citation:32 ncitation:40 pid133193
+title1:Linear Sifting of Decision Diagrams. citation:32 ncitation:40 pid133193
+title1:Linear Sifting of Decision Diagrams. citation:32 ncitation:40 pid133193
+title1:Upper and Lower Bounds for Certain Graph Accessibility Problems on Bounded Alternating omega-Branching Programs. citation:5 ncitation:10 pid137909
+title1:Upper and Lower Bounds for Certain Graph Accessibility Problems on Bounded Alternating omega-Branching Programs. citation:5 ncitation:10 pid137909
+title1:Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines. citation:41 ncitation:41 pid209155
+title1:Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines. citation:41 ncitation:41 pid209155
+title1:Lower Bounds for the Modular Communication Complexity of Various Graph Accessibility Problems. citation:4 ncitation:4 pid481314
+title1:Lower Bounds for the Modular Communication Complexity of Various Graph Accessibility Problems. citation:4 ncitation:4 pid481314
+title1:Structure and Importance of Logspace-MOD-Classes. citation:100 ncitation:112 pid620002
+title1:Structure and Importance of Logspace-MOD-Classes. citation:100 ncitation:112 pid620002
+title1:The Möbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem citation:2 ncitation:2 pid861720
+title1:The Möbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem citation:2 ncitation:2 pid861720
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits - a Survey citation:6 ncitation:6 pid861955
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits - a Survey citation:6 ncitation:6 pid861955
+title1:Ordered Binary Decision Diagrams and their Significance in Computer-Aided Design of VLSI Circuits. citation:5 ncitation:6 pid970905
+title1:Ordered Binary Decision Diagrams and their Significance in Computer-Aided Design of VLSI Circuits. citation:5 ncitation:6 pid970905
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits citation:3 ncitation:6 pid1196798
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits citation:3 ncitation:6 pid1196798
+title1:Analyzing distributed whiteboard interactions. citation:0 ncitation:3 pid3333708
+title1:Analyzing distributed whiteboard interactions. citation:0 ncitation:3 pid3333708

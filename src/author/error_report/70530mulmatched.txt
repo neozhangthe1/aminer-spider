@@ -1,0 +1,400 @@
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:Computer Animation. citation:413 ncitation:28 pid439
+title1:The Use of Space Discretization for Autonomous Virtual Humans. citation:12 ncitation:-1 pid29586
+title1:The Use of Space Discretization for Autonomous Virtual Humans. citation:12 ncitation:-1 pid29586
+title1:Verbal communication: using approximate sound propagation to design an inter-agents communication language. citation:2 ncitation:2 pid29868
+title1:Verbal communication: using approximate sound propagation to design an inter-agents communication language. citation:2 ncitation:2 pid29868
+title1:Visualization of Local Movements for Optimal Marker Positioning. citation:10 ncitation:10 pid40371
+title1:Visualization of Local Movements for Optimal Marker Positioning. citation:10 ncitation:10 pid40371
+title1:Skeleton-based Motion Capture for Robust Reconstruction of Human Motion. citation:119 ncitation:105 pid70549
+title1:Skeleton-based Motion Capture for Robust Reconstruction of Human Motion. citation:119 ncitation:105 pid70549
+title1:Behavioural Animation of Virtual Humans: What Kind of Laws and Rules? citation:17 ncitation:17 pid70582
+title1:Behavioural Animation of Virtual Humans: What Kind of Laws and Rules? citation:17 ncitation:17 pid70582
+title1:Real Time Muscle Deformations using Mass-Spring Systems. citation:196 ncitation:191 pid86186
+title1:Real Time Muscle Deformations using Mass-Spring Systems. citation:196 ncitation:191 pid86186
+title1:Fast Realistic Human Body Deformations for Animation and VR Applications. citation:141 ncitation:139 pid86279
+title1:Fast Realistic Human Body Deformations for Animation and VR Applications. citation:141 ncitation:139 pid86279
+title1:The Enigma of the Sphinx. citation:15 ncitation:6 pid130878
+title1:The Enigma of the Sphinx. citation:15 ncitation:6 pid130878
+title1:Standardized Virtual Reality, Are We There Yet? citation:1 ncitation:-1 pid131068
+title1:Standardized Virtual Reality, Are We There Yet? citation:1 ncitation:-1 pid131068
+title1:Individualized reaction movements for virtual humans. citation:9 ncitation:7 pid236487
+title1:Individualized reaction movements for virtual humans. citation:9 ncitation:7 pid236487
+title1:Individualized reaction movements for virtual humans. citation:9 ncitation:7 pid236487
+title1:User Interface for Fashion Design. citation:33 ncitation:31 pid288250
+title1:User Interface for Fashion Design. citation:33 ncitation:31 pid288250
+title1:Programming Behaviors with Local Perception and Smart Objects: An Approach to Solve Autonomous Agents Tasks. citation:22 ncitation:21 pid587255
+title1:Programming Behaviors with Local Perception and Smart Objects: An Approach to Solve Autonomous Agents Tasks. citation:22 ncitation:21 pid587255
+title1:Evaluation and Visualization of Stress and Strain on Soft Biological Tissues in Contact. citation:10 ncitation:10 pid608414
+title1:Evaluation and Visualization of Stress and Strain on Soft Biological Tissues in Contact. citation:10 ncitation:10 pid608414
+title1:An Adaptive Spatial Subdivision of the Object Space for Fast Collision Detection of Animated Rigid Bodies. citation:87 ncitation:84 pid787367
+title1:An Adaptive Spatial Subdivision of the Object Space for Fast Collision Detection of Animated Rigid Bodies. citation:87 ncitation:84 pid787367
+title1:Simulation of Facial Muscle Actions Based on Rational Free Form Deformations. citation:349 ncitation:344 pid787735
+title1:Simulation of Facial Muscle Actions Based on Rational Free Form Deformations. citation:349 ncitation:344 pid787735
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Computer Animation. citation:12 ncitation:329 pid832826
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002859
+title1:Editorial. citation:5 ncitation:-1 pid1002863
+title1:Editorial. citation:5 ncitation:-1 pid1002863
+title1:Editorial. citation:5 ncitation:-1 pid1002863
+title1:Editorial. citation:5 ncitation:-1 pid1002863
+title1:Editorial. citation:5 ncitation:-1 pid1002863
+title1:Editorial. citation:5 ncitation:-1 pid1002863
+title1:Editorial. citation:5 ncitation:-1 pid1002863
+title1:Editorial. citation:0 ncitation:-1 pid1002865
+title1:Editorial. citation:0 ncitation:-1 pid1002865
+title1:Editorial. citation:0 ncitation:-1 pid1002865
+title1:Editorial. citation:0 ncitation:-1 pid1002865
+title1:Editorial. citation:0 ncitation:-1 pid1002865
+title1:Editorial. citation:0 ncitation:-1 pid1002865
+title1:Editorial. citation:0 ncitation:-1 pid1002865
+title1:Editorial. citation:0 ncitation:-1 pid1002867
+title1:Editorial. citation:0 ncitation:-1 pid1002867
+title1:Editorial. citation:0 ncitation:-1 pid1002867
+title1:Editorial. citation:0 ncitation:-1 pid1002867
+title1:Editorial. citation:0 ncitation:-1 pid1002867
+title1:Editorial. citation:0 ncitation:-1 pid1002867
+title1:Editorial. citation:0 ncitation:-1 pid1002867
+title1:Editorial. citation:0 ncitation:-1 pid1002869
+title1:Editorial. citation:0 ncitation:-1 pid1002869
+title1:Editorial. citation:0 ncitation:-1 pid1002869
+title1:Editorial. citation:0 ncitation:-1 pid1002869
+title1:Editorial. citation:0 ncitation:-1 pid1002869
+title1:Editorial. citation:0 ncitation:-1 pid1002869
+title1:Editorial. citation:0 ncitation:-1 pid1002869
+title1:Editorial. citation:5 ncitation:-1 pid1002871
+title1:Editorial. citation:5 ncitation:-1 pid1002871
+title1:Editorial. citation:5 ncitation:-1 pid1002871
+title1:Editorial. citation:5 ncitation:-1 pid1002871
+title1:Editorial. citation:5 ncitation:-1 pid1002871
+title1:Editorial. citation:5 ncitation:-1 pid1002871
+title1:Editorial. citation:5 ncitation:-1 pid1002871
+title1:Editorial. citation:0 ncitation:-1 pid1002874
+title1:Editorial. citation:0 ncitation:-1 pid1002874
+title1:Editorial. citation:0 ncitation:-1 pid1002874
+title1:Editorial. citation:0 ncitation:-1 pid1002874
+title1:Editorial. citation:0 ncitation:-1 pid1002874
+title1:Editorial. citation:0 ncitation:-1 pid1002874
+title1:Editorial. citation:0 ncitation:-1 pid1002874
+title1:Editorial. citation:0 ncitation:-1 pid1002876
+title1:Editorial. citation:0 ncitation:-1 pid1002876
+title1:Editorial. citation:0 ncitation:-1 pid1002876
+title1:Editorial. citation:0 ncitation:-1 pid1002876
+title1:Editorial. citation:0 ncitation:-1 pid1002876
+title1:Editorial. citation:0 ncitation:-1 pid1002876
+title1:Editorial. citation:0 ncitation:-1 pid1002876
+title1:Editorial. citation:0 ncitation:-1 pid1002878
+title1:Editorial. citation:0 ncitation:-1 pid1002878
+title1:Editorial. citation:0 ncitation:-1 pid1002878
+title1:Editorial. citation:0 ncitation:-1 pid1002878
+title1:Editorial. citation:0 ncitation:-1 pid1002878
+title1:Editorial. citation:0 ncitation:-1 pid1002878
+title1:Editorial. citation:0 ncitation:-1 pid1002878
+title1:Editorial. citation:5 ncitation:-1 pid1002880
+title1:Editorial. citation:5 ncitation:-1 pid1002880
+title1:Editorial. citation:5 ncitation:-1 pid1002880
+title1:Editorial. citation:5 ncitation:-1 pid1002880
+title1:Editorial. citation:5 ncitation:-1 pid1002880
+title1:Editorial. citation:5 ncitation:-1 pid1002880
+title1:Editorial. citation:5 ncitation:-1 pid1002880
+title1:Editorial. citation:0 ncitation:-1 pid1002882
+title1:Editorial. citation:0 ncitation:-1 pid1002882
+title1:Editorial. citation:0 ncitation:-1 pid1002882
+title1:Editorial. citation:0 ncitation:-1 pid1002882
+title1:Editorial. citation:0 ncitation:-1 pid1002882
+title1:Editorial. citation:0 ncitation:-1 pid1002882
+title1:Editorial. citation:0 ncitation:-1 pid1002882
+title1:Editorial. citation:0 ncitation:-1 pid1002884
+title1:Editorial. citation:0 ncitation:-1 pid1002884
+title1:Editorial. citation:0 ncitation:-1 pid1002884
+title1:Editorial. citation:0 ncitation:-1 pid1002884
+title1:Editorial. citation:0 ncitation:-1 pid1002884
+title1:Editorial. citation:0 ncitation:-1 pid1002884
+title1:Editorial. citation:0 ncitation:-1 pid1002884
+title1:Editorial. citation:0 ncitation:-1 pid1002885
+title1:Editorial. citation:0 ncitation:-1 pid1002885
+title1:Editorial. citation:0 ncitation:-1 pid1002885
+title1:Editorial. citation:0 ncitation:-1 pid1002885
+title1:Editorial. citation:0 ncitation:-1 pid1002885
+title1:Editorial. citation:0 ncitation:-1 pid1002885
+title1:Editorial. citation:0 ncitation:-1 pid1002885
+title1:Editorial. citation:5 ncitation:-1 pid1002886
+title1:Editorial. citation:5 ncitation:-1 pid1002886
+title1:Editorial. citation:5 ncitation:-1 pid1002886
+title1:Editorial. citation:5 ncitation:-1 pid1002886
+title1:Editorial. citation:5 ncitation:-1 pid1002886
+title1:Editorial. citation:5 ncitation:-1 pid1002886
+title1:Editorial. citation:5 ncitation:-1 pid1002886
+title1:Editorial. citation:0 ncitation:-1 pid1002888
+title1:Editorial. citation:0 ncitation:-1 pid1002888
+title1:Editorial. citation:0 ncitation:-1 pid1002888
+title1:Editorial. citation:0 ncitation:-1 pid1002888
+title1:Editorial. citation:0 ncitation:-1 pid1002888
+title1:Editorial. citation:0 ncitation:-1 pid1002888
+title1:Editorial. citation:0 ncitation:-1 pid1002888
+title1:Editorial. citation:0 ncitation:-1 pid1002890
+title1:Editorial. citation:0 ncitation:-1 pid1002890
+title1:Editorial. citation:0 ncitation:-1 pid1002890
+title1:Editorial. citation:0 ncitation:-1 pid1002890
+title1:Editorial. citation:0 ncitation:-1 pid1002890
+title1:Editorial. citation:0 ncitation:-1 pid1002890
+title1:Editorial. citation:0 ncitation:-1 pid1002890
+title1:Editorial. citation:0 ncitation:-1 pid1002892
+title1:Editorial. citation:0 ncitation:-1 pid1002892
+title1:Editorial. citation:0 ncitation:-1 pid1002892
+title1:Editorial. citation:0 ncitation:-1 pid1002892
+title1:Editorial. citation:0 ncitation:-1 pid1002892
+title1:Editorial. citation:0 ncitation:-1 pid1002892
+title1:Editorial. citation:0 ncitation:-1 pid1002892
+title1:Editorial. citation:5 ncitation:-1 pid1002894
+title1:Editorial. citation:5 ncitation:-1 pid1002894
+title1:Editorial. citation:5 ncitation:-1 pid1002894
+title1:Editorial. citation:5 ncitation:-1 pid1002894
+title1:Editorial. citation:5 ncitation:-1 pid1002894
+title1:Editorial. citation:5 ncitation:-1 pid1002894
+title1:Editorial. citation:5 ncitation:-1 pid1002894
+title1:Editorial. citation:0 ncitation:-1 pid1002896
+title1:Editorial. citation:0 ncitation:-1 pid1002896
+title1:Editorial. citation:0 ncitation:-1 pid1002896
+title1:Editorial. citation:0 ncitation:-1 pid1002896
+title1:Editorial. citation:0 ncitation:-1 pid1002896
+title1:Editorial. citation:0 ncitation:-1 pid1002896
+title1:Editorial. citation:0 ncitation:-1 pid1002896
+title1:Editorial. citation:0 ncitation:-1 pid1002898
+title1:Editorial. citation:0 ncitation:-1 pid1002898
+title1:Editorial. citation:0 ncitation:-1 pid1002898
+title1:Editorial. citation:0 ncitation:-1 pid1002898
+title1:Editorial. citation:0 ncitation:-1 pid1002898
+title1:Editorial. citation:0 ncitation:-1 pid1002898
+title1:Editorial. citation:0 ncitation:-1 pid1002898
+title1:Editorial. citation:0 ncitation:-1 pid1002900
+title1:Editorial. citation:0 ncitation:-1 pid1002900
+title1:Editorial. citation:0 ncitation:-1 pid1002900
+title1:Editorial. citation:0 ncitation:-1 pid1002900
+title1:Editorial. citation:0 ncitation:-1 pid1002900
+title1:Editorial. citation:0 ncitation:-1 pid1002900
+title1:Editorial. citation:0 ncitation:-1 pid1002900
+title1:Editorial. citation:5 ncitation:-1 pid1002902
+title1:Editorial. citation:5 ncitation:-1 pid1002902
+title1:Editorial. citation:5 ncitation:-1 pid1002902
+title1:Editorial. citation:5 ncitation:-1 pid1002902
+title1:Editorial. citation:5 ncitation:-1 pid1002902
+title1:Editorial. citation:5 ncitation:-1 pid1002902
+title1:Editorial. citation:5 ncitation:-1 pid1002902
+title1:Editorial. citation:0 ncitation:-1 pid1002905
+title1:Editorial. citation:0 ncitation:-1 pid1002905
+title1:Editorial. citation:0 ncitation:-1 pid1002905
+title1:Editorial. citation:0 ncitation:-1 pid1002905
+title1:Editorial. citation:0 ncitation:-1 pid1002905
+title1:Editorial. citation:0 ncitation:-1 pid1002905
+title1:Editorial. citation:0 ncitation:-1 pid1002905
+title1:Editorial: Special Issue of Pacific Graphics 95. citation:0 ncitation:-1 pid1002908
+title1:Editorial: Special Issue of Pacific Graphics 95. citation:0 ncitation:-1 pid1002908
+title1:Emotional face expression profiles supported by virtual human ontology. citation:18 ncitation:15 pid1003050
+title1:Emotional face expression profiles supported by virtual human ontology. citation:18 ncitation:15 pid1003050
+title1:Real-time navigating crowds: scalable simulation and rendering. citation:97 ncitation:84 pid1003060
+title1:Real-time navigating crowds: scalable simulation and rendering. citation:97 ncitation:84 pid1003060
+title1:Editorial. citation:0 ncitation:-1 pid1003067
+title1:Editorial. citation:0 ncitation:-1 pid1003067
+title1:Editorial. citation:0 ncitation:-1 pid1003067
+title1:Editorial. citation:0 ncitation:-1 pid1003067
+title1:Editorial. citation:0 ncitation:-1 pid1003067
+title1:Editorial. citation:0 ncitation:-1 pid1003067
+title1:Editorial. citation:0 ncitation:-1 pid1003067
+title1:Editorial. citation:0 ncitation:-1 pid1003134
+title1:Editorial. citation:0 ncitation:-1 pid1003134
+title1:Editorial. citation:0 ncitation:-1 pid1003134
+title1:Editorial. citation:0 ncitation:-1 pid1003134
+title1:Editorial. citation:0 ncitation:-1 pid1003134
+title1:Editorial. citation:0 ncitation:-1 pid1003134
+title1:Editorial. citation:0 ncitation:-1 pid1003134
+title1:Editorial. citation:0 ncitation:-1 pid1003134
+title1:Editorial. citation:5 ncitation:-1 pid1003155
+title1:Editorial. citation:5 ncitation:-1 pid1003155
+title1:Editorial. citation:5 ncitation:-1 pid1003155
+title1:Editorial. citation:5 ncitation:-1 pid1003155
+title1:Editorial. citation:5 ncitation:-1 pid1003155
+title1:Editorial. citation:5 ncitation:-1 pid1003155
+title1:Editorial. citation:5 ncitation:-1 pid1003155
+title1:Editorial. citation:5 ncitation:-1 pid1003155
+title1:Animating Virtual Actors in Real Environments. citation:16 ncitation:16 pid1011280
+title1:Animating Virtual Actors in Real Environments. citation:16 ncitation:16 pid1011280
+title1:Anyone for Tennis? citation:60 ncitation:53 pid1043351
+title1:Anyone for Tennis? citation:60 ncitation:53 pid1043351
+title1:Human Motion Capture Driven by Orientation Measurements. citation:72 ncitation:65 pid1043353
+title1:Human Motion Capture Driven by Orientation Measurements. citation:72 ncitation:65 pid1043353
+title1:Hierarchical Model for Real Time Simulation of Virtual Human Crowds. citation:377 ncitation:359 pid1133706
+title1:Hierarchical Model for Real Time Simulation of Virtual Human Crowds. citation:377 ncitation:359 pid1133706
+title1:A "lifegame" approach to surface modeling and rendering. citation:23 ncitation:19 pid1137020
+title1:A "lifegame" approach to surface modeling and rendering. citation:23 ncitation:19 pid1137020
+title1:Editorial. citation:0 ncitation:-1 pid1137271
+title1:Editorial. citation:0 ncitation:-1 pid1137271
+title1:Editorial. citation:0 ncitation:-1 pid1137271
+title1:Editorial. citation:0 ncitation:-1 pid1137271
+title1:Editorial. citation:0 ncitation:-1 pid1137271
+title1:Editorial. citation:0 ncitation:-1 pid1137271
+title1:Editorial. citation:0 ncitation:-1 pid1137271
+title1:Editorial. citation:0 ncitation:-1 pid1137271
+title1:Editorial. citation:0 ncitation:-1 pid1137299
+title1:Editorial. citation:0 ncitation:-1 pid1137299
+title1:Editorial. citation:0 ncitation:-1 pid1137299
+title1:Editorial. citation:0 ncitation:-1 pid1137299
+title1:Editorial. citation:0 ncitation:-1 pid1137299
+title1:Editorial. citation:0 ncitation:-1 pid1137299
+title1:Editorial. citation:0 ncitation:-1 pid1137299
+title1:An ontology of virtual humans. citation:13 ncitation:43 pid1137313
+title1:An ontology of virtual humans. citation:13 ncitation:43 pid1137313
+title1:Editorial. citation:0 ncitation:-1 pid1137353
+title1:Editorial. citation:0 ncitation:-1 pid1137353
+title1:Editorial. citation:0 ncitation:-1 pid1137353
+title1:Editorial. citation:0 ncitation:-1 pid1137353
+title1:Editorial. citation:0 ncitation:-1 pid1137353
+title1:Editorial. citation:0 ncitation:-1 pid1137353
+title1:Editorial. citation:0 ncitation:-1 pid1137353
+title1:Editorial. citation:0 ncitation:-1 pid1137353
+title1:Crowd Simulation. citation:102 ncitation:98 pid1200624
+title1:Crowd Simulation. citation:102 ncitation:98 pid1200624
+title1:Crowd Simulation. citation:102 ncitation:98 pid1200624
+title1:Crowd Simulation. citation:102 ncitation:98 pid1200624
+title1:Crowd Simulation. citation:102 ncitation:98 pid1200624
+title1:Crowd Simulation. citation:102 ncitation:98 pid1200624
+title1:Virtual Human Representation and Communication in VLNet. citation:185 ncitation:-1 pid1333858
+title1:Virtual Human Representation and Communication in VLNet. citation:185 ncitation:-1 pid1333858
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2865830
+title1:Editorial. citation:0 ncitation:-1 pid2925638
+title1:Editorial. citation:0 ncitation:-1 pid2925638
+title1:Editorial. citation:0 ncitation:-1 pid2925638
+title1:Editorial. citation:0 ncitation:-1 pid2925638
+title1:Editorial. citation:0 ncitation:-1 pid2925638
+title1:Editorial. citation:0 ncitation:-1 pid2925638
+title1:Editorial. citation:0 ncitation:-1 pid2925638
+title1:Editorial. citation:0 ncitation:-1 pid2925659
+title1:Editorial. citation:0 ncitation:-1 pid2925659
+title1:Editorial. citation:0 ncitation:-1 pid2925659
+title1:Editorial. citation:0 ncitation:-1 pid2925659
+title1:Editorial. citation:0 ncitation:-1 pid2925659
+title1:Editorial. citation:0 ncitation:-1 pid2925659
+title1:Editorial. citation:0 ncitation:-1 pid2925659
+title1:Editorial. citation:0 ncitation:-1 pid2925659
+title1:Editorial. citation:0 ncitation:-1 pid2974539
+title1:Editorial. citation:0 ncitation:-1 pid2974539
+title1:Editorial. citation:0 ncitation:-1 pid2974539
+title1:Editorial. citation:0 ncitation:-1 pid2974539
+title1:Editorial. citation:0 ncitation:-1 pid2974539
+title1:Editorial. citation:0 ncitation:-1 pid2974539
+title1:Editorial. citation:0 ncitation:-1 pid2974539
+title1:Crowd simulation. citation:102 ncitation:98 pid3001347
+title1:Crowd simulation. citation:102 ncitation:98 pid3001347
+title1:Crowd simulation. citation:102 ncitation:98 pid3001347
+title1:Editorial. citation:0 ncitation:-1 pid3074348
+title1:Editorial. citation:0 ncitation:-1 pid3074348
+title1:Editorial. citation:0 ncitation:-1 pid3074348
+title1:Editorial. citation:0 ncitation:-1 pid3074348
+title1:Editorial. citation:0 ncitation:-1 pid3074348
+title1:Editorial. citation:0 ncitation:-1 pid3074348
+title1:Editorial. citation:0 ncitation:-1 pid3074348
+title1:Editorial. citation:0 ncitation:-1 pid3258165
+title1:Editorial. citation:0 ncitation:-1 pid3258165
+title1:Editorial. citation:0 ncitation:-1 pid3258165
+title1:Editorial. citation:0 ncitation:-1 pid3258165
+title1:Editorial. citation:0 ncitation:-1 pid3258165
+title1:Editorial. citation:0 ncitation:-1 pid3258165
+title1:Editorial. citation:0 ncitation:-1 pid3346080
+title1:Editorial. citation:0 ncitation:-1 pid3346080
+title1:Editorial. citation:0 ncitation:-1 pid3346080
+title1:Editorial. citation:0 ncitation:-1 pid3346080
+title1:Editorial. citation:0 ncitation:-1 pid3346080
+title1:Editorial. citation:0 ncitation:-1 pid3346080
+title1:Editorial. citation:0 ncitation:-1 pid3346080

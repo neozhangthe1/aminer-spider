@@ -1,0 +1,17 @@
+title1:05141 Summary - Power-aware Computing Systems. citation:0 ncitation:-1 pid136923
+title1:05141 Summary - Power-aware Computing Systems. citation:0 ncitation:-1 pid136923
+title1:Improving Java Performance Using Dynamic Method Migration on FPGAs. citation:19 ncitation:12 pid409686
+title1:Improving Java Performance Using Dynamic Method Migration on FPGAs. citation:19 ncitation:12 pid409686
+title1:Discharge current steering for battery lifetime optimization. citation:48 ncitation:41 pid436545
+title1:Discharge current steering for battery lifetime optimization. citation:48 ncitation:41 pid436545
+title1:Energy-efficient design of battery-powered embedded systems. citation:166 ncitation:156 pid437116
+title1:Energy-efficient design of battery-powered embedded systems. citation:166 ncitation:156 pid437116
+title1:Energy-Efficient Value-Based Selective Refresh for Embedded DRAMs. citation:4 ncitation:5 pid530800
+title1:Energy-Efficient Value-Based Selective Refresh for Embedded DRAMs. citation:4 ncitation:5 pid530800
+title1:Guest Editorial. citation:0 ncitation:-1 pid926942
+title1:Guest Editorial. citation:0 ncitation:-1 pid926942
+title1:Power-aware computing systems. citation:0 ncitation:2 pid1172544
+title1:Power-aware computing systems. citation:0 ncitation:2 pid1172544
+title1:Variability-tolerant workload allocation for MPSoC energy minimization under real-time constraints. citation:6 ncitation:3 pid1243064
+title1:Variability-tolerant workload allocation for MPSoC energy minimization under real-time constraints. citation:6 ncitation:3 pid1243064
+title1:Variability-tolerant workload allocation for MPSoC energy minimization under real-time constraints. citation:6 ncitation:3 pid1243064

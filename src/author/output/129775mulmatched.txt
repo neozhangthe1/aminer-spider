@@ -1,0 +1,17 @@
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:Synthesis of software programs for embedded control applications. citation:80 ncitation:80 pid1083441
+title1:Synthesis of software programs for embedded control applications. citation:80 ncitation:80 pid1083441
+title1:A case study in computer-aided codesign of embedded controllers. citation:61 ncitation:53 pid106259
+title1:A case study in computer-aided codesign of embedded controllers. citation:61 ncitation:53 pid106259
+title1:Circuit structure relations to redundancy and delay. citation:20 ncitation:20 pid1085676
+title1:Circuit structure relations to redundancy and delay. citation:20 ncitation:20 pid1085676
+title1:Comparing models of computation. citation:118 ncitation:102 pid282645
+title1:Comparing models of computation. citation:118 ncitation:102 pid282645
+title1:Definition of Task Allocation and Priority Assignment in Hard Real-Time Distributed Systems. citation:44 ncitation:37 pid565687
+title1:Definition of Task Allocation and Priority Assignment in Hard Real-Time Distributed Systems. citation:44 ncitation:37 pid565687
+title1:Uniprocessor Scheduling Under Precedence Constraints. citation:11 ncitation:19 pid564035
+title1:Uniprocessor Scheduling Under Precedence Constraints. citation:11 ncitation:19 pid564035

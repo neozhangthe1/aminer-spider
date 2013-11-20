@@ -1,0 +1,60 @@
+title1:Module Checking. citation:4 ncitation:108 pid888624
+title1:Module Checking. citation:4 ncitation:108 pid888624
+title1:Module Checking. citation:4 ncitation:108 pid888624
+title1:Knowledge-Based Programs. citation:18 ncitation:100 pid543959
+title1:Knowledge-Based Programs. citation:18 ncitation:100 pid543959
+title1:Knowledge-Based Programs. citation:18 ncitation:100 pid543959
+title1:Monotone monadic SNP and constraint satisfaction. citation:100 ncitation:95 pid621953
+title1:Monotone monadic SNP and constraint satisfaction. citation:100 ncitation:95 pid621953
+title1:In Memoriam Paris C. Kanellakis. citation:3 ncitation:2 pid832197
+title1:In Memoriam Paris C. Kanellakis. citation:3 ncitation:2 pid832197
+title1:Memory-Efficient Algorithms for the Verification of Temporal Properties. citation:472 ncitation:569 pid878793
+title1:Memory-Efficient Algorithms for the Verification of Temporal Properties. citation:472 ncitation:569 pid878793
+title1:Modular Model Checking. citation:46 ncitation:92 pid111724
+title1:Modular Model Checking. citation:46 ncitation:92 pid111724
+title1:Modular Model Checking. citation:46 ncitation:92 pid111724
+title1:The Complexity of Enriched Mu-Calculi citation:33 ncitation:32 pid828252
+title1:The Complexity of Enriched Mu-Calculi citation:33 ncitation:32 pid828252
+title1:Random 3-SAT: The Plot Thickens. citation:17 ncitation:44 pid811837
+title1:Random 3-SAT: The Plot Thickens. citation:17 ncitation:44 pid811837
+title1:The Planning Spectrum - One, Two, Three, Infinity. citation:17 ncitation:17 pid952436
+title1:The Planning Spectrum - One, Two, Three, Infinity. citation:17 ncitation:17 pid952436
+title1:Coverage metrics for temporal logic model checking. citation:63 ncitation:61 pid879084
+title1:Coverage metrics for temporal logic model checking. citation:63 ncitation:61 pid879084
+title1:Undecidable Optimization Problems for Database Logic Programs. citation:146 ncitation:144 pid950368
+title1:Undecidable Optimization Problems for Database Logic Programs. citation:146 ncitation:144 pid950368
+title1:Branching vs. Linear Time: Semantical Perspective. citation:1 ncitation:23 pid59007
+title1:Branching vs. Linear Time: Semantical Perspective. citation:1 ncitation:23 pid59007
+title1:Hybrid Systems: From Verification to Falsification. citation:21 ncitation:22 pid79883
+title1:Hybrid Systems: From Verification to Falsification. citation:21 ncitation:22 pid79883
+title1:The Expressive Power of the Kierarchical Approach to Modeling Knowledge and Common Knowledge. citation:0 ncitation:15 pid626837
+title1:The Expressive Power of the Kierarchical Approach to Modeling Knowledge and Common Knowledge. citation:0 ncitation:15 pid626837
+title1:Knowledge-Based Programs. citation:0 ncitation:104 pid841343
+title1:Knowledge-Based Programs. citation:0 ncitation:104 pid841343
+title1:Knowledge-Based Programs. citation:0 ncitation:104 pid841343
+title1:The Computational Structure of Monotone Monadic SNP and Constraint Satisfaction: A Study through Datalog and Group Theory. citation:4 ncitation:558 pid1059157
+title1:The Computational Structure of Monotone Monadic SNP and Constraint Satisfaction: A Study through Datalog and Group Theory. citation:4 ncitation:558 pid1059157
+title1:Constraints, Graphs, Algebra, Logic, and Complexity. citation:0 ncitation:-1 pid626103
+title1:Constraints, Graphs, Algebra, Logic, and Complexity. citation:0 ncitation:-1 pid626103
+title1:A continuous-discontinuous second-order transition in the satisfiability of random Horn-SAT formulas. citation:5 ncitation:5 pid1052402
+title1:A continuous-discontinuous second-order transition in the satisfiability of random Horn-SAT formulas. citation:5 ncitation:5 pid1052402
+title1:Module Checking. citation:0 ncitation:108 pid79596
+title1:Module Checking. citation:0 ncitation:108 pid79596
+title1:From Automated Verification to Automated Design. citation:0 ncitation:0 pid2775738
+title1:From Automated Verification to Automated Design. citation:0 ncitation:0 pid2775738
+title1:revisited. citation:2 ncitation:-1 pid2850632
+title1:revisited. citation:2 ncitation:-1 pid2850632
+title1:2009 CAV award announcement. citation:0 ncitation:-1 pid2921145
+title1:2009 CAV award announcement. citation:0 ncitation:-1 pid2921145
+title1:Reasoning About Strategies. citation:9 ncitation:13 pid2943674
+title1:Reasoning About Strategies. citation:9 ncitation:13 pid2943674
+title1:Branching vs. Linear Time: Semantical Perspective. citation:0 ncitation:-1 pid3235642
+title1:Branching vs. Linear Time: Semantical Perspective. citation:0 ncitation:-1 pid3235642
+title1:The hierarchical approach to modeling knowledge and common knowledge. citation:57 ncitation:53 pid3350216
+title1:The hierarchical approach to modeling knowledge and common knowledge. citation:57 ncitation:53 pid3350216
+title1:A Decidable Fragment of Strategy Logic citation:11 ncitation:5 pid3384801
+title1:A Decidable Fragment of Strategy Logic citation:11 ncitation:5 pid3384801
+title1:2010 CAV award announcement. citation:0 ncitation:-1 pid3400570
+title1:2010 CAV award announcement. citation:0 ncitation:-1 pid3400570
+title1:2011 CAV award announcement. citation:0 ncitation:-1 pid3485132
+title1:2011 CAV award announcement. citation:0 ncitation:-1 pid3485132

@@ -1,0 +1,523 @@
+title1:From Videos to Verbs: Mining Videos for Activities using a Cascade of Dynamical Systems. citation:29 ncitation:28 pid129916
+title1:From Videos to Verbs: Mining Videos for Activities using a Cascade of Dynamical Systems. citation:29 ncitation:28 pid129916
+title1:Accuracy vs. Efficiency Trade-offs in Optical Flow Algorithms. citation:161 ncitation:152 pid168883
+title1:Accuracy vs. Efficiency Trade-offs in Optical Flow Algorithms. citation:161 ncitation:152 pid168883
+title1:Probabilistic Human Recognition from Video. citation:67 ncitation:64 pid169552
+title1:Probabilistic Human Recognition from Video. citation:67 ncitation:64 pid169552
+title1:Characterization of Human Faces under Illumination Variations Using Rank, Integrability, and Symmetry Constraints. citation:57 ncitation:55 pid169554
+title1:Characterization of Human Faces under Illumination Variations Using Rank, Integrability, and Symmetry Constraints. citation:57 ncitation:55 pid169554
+title1:Compressive Sensing for Background Subtraction. citation:130 ncitation:93 pid169651
+title1:Compressive Sensing for Background Subtraction. citation:130 ncitation:93 pid169651
+title1:Compressive Sensing for Background Subtraction. citation:130 ncitation:93 pid169651
+title1:Robust Estimation of Motion and Structure Using a Discrete H Filter. citation:1 ncitation:1 pid320606
+title1:Robust Estimation of Motion and Structure Using a Discrete H Filter. citation:1 ncitation:1 pid320606
+title1:Reduction of Inherent Ambiguities in Structure from Motion Problem Using Inertial Data. citation:9 ncitation:9 pid320611
+title1:Reduction of Inherent Ambiguities in Structure from Motion Problem Using Inertial Data. citation:9 ncitation:9 pid320611
+title1:Multiple Description Subband Coding. citation:37 ncitation:36 pid321382
+title1:Multiple Description Subband Coding. citation:37 ncitation:36 pid321382
+title1:Robust Image Based Face Recognition. citation:60 ncitation:55 pid322685
+title1:Robust Image Based Face Recognition. citation:60 ncitation:55 pid322685
+title1:Activity Representation Using 3D Shape Models. citation:6 ncitation:0 pid368519
+title1:Activity Representation Using 3D Shape Models. citation:6 ncitation:0 pid368519
+title1:Editorial. citation:2 ncitation:-1 pid908100
+title1:Editorial. citation:2 ncitation:-1 pid908100
+title1:Editorial. citation:2 ncitation:-1 pid908100
+title1:Editorial. citation:2 ncitation:-1 pid908100
+title1:Knowledge-based control of vision systems. citation:44 ncitation:41 pid947066
+title1:Knowledge-based control of vision systems. citation:44 ncitation:41 pid947066
+title1:Editorial. citation:2 ncitation:-1 pid1031291
+title1:Editorial. citation:2 ncitation:-1 pid1031291
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031292
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031292
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031292
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031293
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031293
+title1:Introduction of New Associate Editors. citation:0 ncitation:-1 pid1031294
+title1:Introduction of New Associate Editors. citation:0 ncitation:-1 pid1031294
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031295
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031295
+title1:Introduction of New Associate Editors. citation:0 ncitation:-1 pid1031296
+title1:Introduction of New Associate Editors. citation:0 ncitation:-1 pid1031296
+title1:State of the Transactions. citation:0 ncitation:-1 pid1031297
+title1:State of the Transactions. citation:0 ncitation:-1 pid1031297
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031298
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031298
+title1:Introduction of New Associate Editor. citation:0 ncitation:0 pid1031299
+title1:Introduction of New Associate Editor. citation:0 ncitation:0 pid1031299
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031300
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031300
+title1:Introduction of New Associate Editor. citation:0 ncitation:0 pid1031302
+title1:Introduction of New Associate Editor. citation:0 ncitation:0 pid1031302
+title1:Introduction of New Associate Editor. citation:0 ncitation:0 pid1031303
+title1:Introduction of New Associate Editor. citation:0 ncitation:0 pid1031303
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031304
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031304
+title1:Introduction of New Associate Editor. citation:0 ncitation:0 pid1031305
+title1:Introduction of New Associate Editor. citation:0 ncitation:0 pid1031305
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031306
+title1:Introduction of New Associate Editors. citation:0 ncitation:0 pid1031306
+title1:Direct Analytical Methods for Solving Poisson Equations in Computer Vision Problems. citation:142 ncitation:114 pid1032995
+title1:Direct Analytical Methods for Solving Poisson Equations in Computer Vision Problems. citation:142 ncitation:114 pid1032995
+title1:Matching Shape Sequences in Video with Applications in Human Movement Analysis. citation:215 ncitation:167 pid1033247
+title1:Matching Shape Sequences in Video with Applications in Human Movement Analysis. citation:215 ncitation:167 pid1033247
+title1:Appearance Characterization of Linear Lambertian Objects, Generalized Photometric Stereo, and Illumination-Invariant Face Recognition. citation:76 ncitation:57 pid1033653
+title1:Appearance Characterization of Linear Lambertian Objects, Generalized Photometric Stereo, and Illumination-Invariant Face Recognition. citation:76 ncitation:57 pid1033653
+title1:Performance Characterization of Image Stabilization Algorithms. citation:52 ncitation:50 pid1052558
+title1:Performance Characterization of Image Stabilization Algorithms. citation:52 ncitation:50 pid1052558
+title1:Scalable data parallel algorithms for texture synthesis using Gibbs random fields. citation:29 ncitation:24 pid1100209
+title1:Scalable data parallel algorithms for texture synthesis using Gibbs random fields. citation:29 ncitation:24 pid1100209
+title1:Tracking a dynamic set of feature points. citation:0 ncitation:73 pid1102322
+title1:Tracking a dynamic set of feature points. citation:0 ncitation:73 pid1102322
+title1:Algorithmic and Architectural Optimizations for Computationally Efficient Particle Filtering. citation:33 ncitation:25 pid1102882
+title1:Algorithmic and Architectural Optimizations for Computationally Efficient Particle Filtering. citation:33 ncitation:25 pid1102882
+title1:Surveillance. citation:39 ncitation:-1 pid1300916
+title1:Surveillance. citation:39 ncitation:-1 pid1300916
+title1:Surveillance. citation:39 ncitation:-1 pid1300916
+title1:Surveillance. citation:39 ncitation:-1 pid1300916
+title1:Surveillance. citation:39 ncitation:-1 pid1300916
+title1:Surveillance. citation:39 ncitation:-1 pid1300916
+title1:Surveillance. citation:39 ncitation:-1 pid1300916
+title1:Surveillance. citation:39 ncitation:-1 pid1300916
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:. citation:2875 ncitation:-1 pid2894160
+title1:Pose-robust albedo estimation from a single image. citation:10 ncitation:8 pid2899196
+title1:Pose-robust albedo estimation from a single image. citation:10 ncitation:8 pid2899196
+title1:Articulation-Invariant Representation of Non-planar Shapes. citation:30 ncitation:15 pid2899495
+title1:Articulation-Invariant Representation of Non-planar Shapes. citation:30 ncitation:15 pid2899495
+title1:Editorial. citation:0 ncitation:-1 pid3070200
+title1:Editorial. citation:0 ncitation:-1 pid3070200
+title1:Estimation of Object Motion Parameters from Noisy Images. citation:426 ncitation:376 pid3077275
+title1:Estimation of Object Motion Parameters from Noisy Images. citation:426 ncitation:376 pid3077275
+title1:Mixed-State Models for Nonstationary Multiobject Activities. citation:5 ncitation:4 pid3105819
+title1:Mixed-State Models for Nonstationary Multiobject Activities. citation:5 ncitation:4 pid3105819
+title1:Activity Representation Using 3D Shape Models. citation:6 ncitation:6 pid3110652
+title1:Activity Representation Using 3D Shape Models. citation:6 ncitation:6 pid3110652
+title1:Face Recognition from Still Images and Video. citation:2 ncitation:-1 pid3167782
+title1:Face Recognition from Still Images and Video. citation:2 ncitation:-1 pid3167782
+title1:Large-Scale Matrix Factorization with Missing Data under Additional Constraints. citation:11 ncitation:8 pid3241169
+title1:Large-Scale Matrix Factorization with Missing Data under Additional Constraints. citation:11 ncitation:8 pid3241169
+title1:Pyramid Implementation Of Optimal Step Conjugate Search Algorithms For Some Computer Vision Problems. citation:24 ncitation:5 pid3286950
+title1:Pyramid Implementation Of Optimal Step Conjugate Search Algorithms For Some Computer Vision Problems. citation:24 ncitation:5 pid3286950
+title1:Noncooperative target classification using hierarchical modeling of high-range resolution radar signatures. citation:42 ncitation:35 pid3314845
+title1:Noncooperative target classification using hierarchical modeling of high-range resolution radar signatures. citation:42 ncitation:35 pid3314845
+title1:Introduction. citation:0 ncitation:-1 pid3482541
+title1:Introduction. citation:0 ncitation:-1 pid3482541
+title1:Introduction. citation:0 ncitation:-1 pid3482541
+title1:Introduction. citation:0 ncitation:-1 pid3482541
+title1:Introduction. citation:0 ncitation:-1 pid3482541
+title1:Kernel dictionary learning. citation:21 ncitation:3 pid3557112
+title1:Kernel dictionary learning. citation:21 ncitation:3 pid3557112
+title1:GMRF models and wavelet decomposition for texture segmentation. citation:10 ncitation:None pid3668845
+title1:GMRF models and wavelet decomposition for texture segmentation. citation:10 ncitation:None pid3668845
+title1:MAP decoding of gray-level images over binary channels with memory. citation:4 ncitation:None pid3669343
+title1:MAP decoding of gray-level images over binary channels with memory. citation:4 ncitation:None pid3669343
+title1:Performance characterization of image stabilization algorithms. citation:52 ncitation:50 pid3669610
+title1:Performance characterization of image stabilization algorithms. citation:52 ncitation:50 pid3669610

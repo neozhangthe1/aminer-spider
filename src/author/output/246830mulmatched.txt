@@ -1,0 +1,14 @@
+title1:Polynomial Formal Verification of Multipliers. citation:28 ncitation:28 pid649081
+title1:Polynomial Formal Verification of Multipliers. citation:28 ncitation:28 pid649081
+title1:Visualization of SystemC Designs. citation:21 ncitation:9 pid428478
+title1:Visualization of SystemC Designs. citation:21 ncitation:9 pid428478
+title1:Instance Generation for SAT-based ATPG. citation:5 ncitation:5 pid147654
+title1:Instance Generation for SAT-based ATPG. citation:5 ncitation:5 pid147654
+title1:Increasing the accuracy of SAT-based debugging. citation:9 ncitation:8 pid1241450
+title1:Increasing the accuracy of SAT-based debugging. citation:9 ncitation:8 pid1241450
+title1:Automatic Test Pattern Generation. citation:5 ncitation:6 pid586418
+title1:Automatic Test Pattern Generation. citation:5 ncitation:6 pid586418
+title1:Property analysis and design understanding. citation:1 ncitation:6 pid1241300
+title1:Property analysis and design understanding. citation:1 ncitation:6 pid1241300
+title1:Testability of SPP Three-Level Logic Networks. citation:3 ncitation:3 pid644387
+title1:Testability of SPP Three-Level Logic Networks. citation:3 ncitation:3 pid644387

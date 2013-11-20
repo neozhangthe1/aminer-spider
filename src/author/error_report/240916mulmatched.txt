@@ -1,0 +1,66 @@
+title1:Distributed Medium Access Control in Pulse-Based Time-Hopping UWB Wireless Networks. citation:4 ncitation:4 pid704052
+title1:Distributed Medium Access Control in Pulse-Based Time-Hopping UWB Wireless Networks. citation:4 ncitation:4 pid704052
+title1:Ultra-wideband wireless communications. citation:138 ncitation:137 pid1140654
+title1:Ultra-wideband wireless communications. citation:138 ncitation:137 pid1140654
+title1:Ultra-wideband wireless communications. citation:138 ncitation:137 pid1140654
+title1:Ultra-wideband wireless communications. citation:138 ncitation:137 pid1140654
+title1:Ultra-wideband wireless communications. citation:138 ncitation:137 pid1140654
+title1:Wireless network security. citation:0 ncitation:-1 pid1140631
+title1:Wireless network security. citation:0 ncitation:-1 pid1140631
+title1:Guest Editorial. citation:13 ncitation:-1 pid1141578
+title1:Guest Editorial. citation:13 ncitation:-1 pid1141578
+title1:Guest Editorial. citation:13 ncitation:-1 pid1141578
+title1:Guest Editorial. citation:13 ncitation:-1 pid1141578
+title1:Guest Editorial. citation:13 ncitation:-1 pid1141578
+title1:Guest Editorial. citation:13 ncitation:-1 pid1141578
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:0 ncitation:-1 pid1345615
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:0 ncitation:-1 pid1345615
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:0 ncitation:-1 pid1345615
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:0 ncitation:-1 pid1345615
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:0 ncitation:-1 pid1345615
+title1:A Node Cooperative ARQ Scheme for Wireless Ad-Hoc Networks. citation:147 ncitation:135 pid513053
+title1:A Node Cooperative ARQ Scheme for Wireless Ad-Hoc Networks. citation:147 ncitation:135 pid513053
+title1:TSVC: timed efficient and secure vehicular communications with privacy preserving. citation:73 ncitation:65 pid1284917
+title1:TSVC: timed efficient and secure vehicular communications with privacy preserving. citation:73 ncitation:65 pid1284917
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 2. citation:0 ncitation:-1 pid1345621
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 2. citation:0 ncitation:-1 pid1345621
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 2. citation:0 ncitation:-1 pid1345621
+title1:An adaptive handoff priority scheme for wireless MC-CDMA cellular networks supporting realtime multimedia applications. citation:11 ncitation:11 pid802254
+title1:An adaptive handoff priority scheme for wireless MC-CDMA cellular networks supporting realtime multimedia applications. citation:11 ncitation:11 pid802254
+title1:Indirect RSVP for Virtual Cluster Cellular Mobile IP Networks. citation:5 ncitation:5 pid513551
+title1:Indirect RSVP for Virtual Cluster Cellular Mobile IP Networks. citation:5 ncitation:5 pid513551
+title1:Performance Enhancement of Medium Access Control for UWB WPAN. citation:10 ncitation:10 pid703709
+title1:Performance Enhancement of Medium Access Control for UWB WPAN. citation:10 ncitation:10 pid703709
+title1:Editorial: Peer-to-Peer Networking and Applications Volume 1, Issue 2. citation:0 ncitation:0 pid1186711
+title1:Editorial: Peer-to-Peer Networking and Applications Volume 1, Issue 2. citation:0 ncitation:0 pid1186711
+title1:Editorial: Peer-to-Peer Networking and Applications Volume 1, Issue 2. citation:0 ncitation:0 pid1186711
+title1:Editorial: Peer-to-Peer Networking and Applications, Volume 1, Issue 1. citation:0 ncitation:0 pid1186709
+title1:Editorial: Peer-to-Peer Networking and Applications, Volume 1, Issue 1. citation:0 ncitation:0 pid1186709
+title1:Editorial: Peer-to-Peer Networking and Applications, Volume 1, Issue 1. citation:0 ncitation:0 pid1186709
+title1:Editorial: Peer-to-Peer Networking and Applications, Volume 1, Issue 1. citation:0 ncitation:0 pid1186709
+title1:Improvement of WLAN QoS Capability via Statistical Multiplexing. citation:3 ncitation:3 pid703881
+title1:Improvement of WLAN QoS Capability via Statistical Multiplexing. citation:3 ncitation:3 pid703881
+title1:Optimal Relay Station Placement in Broadband Wireless Access Networks. citation:46 ncitation:35 pid2870245
+title1:Optimal Relay Station Placement in Broadband Wireless Access Networks. citation:46 ncitation:35 pid2870245
+title1:Editorial: Peer-to-peer networking and applications, volume 3, issue 2. citation:0 ncitation:0 pid2882226
+title1:Editorial: Peer-to-peer networking and applications, volume 3, issue 2. citation:0 ncitation:0 pid2882226
+title1:Editorial: Peer-to-peer networking and applications, volume 3, issue 2. citation:0 ncitation:0 pid2882226
+title1:Editorial: Peer-to-Peer networking and applications, Volume 3, Issue 4. citation:0 ncitation:0 pid2935485
+title1:Editorial: Peer-to-Peer networking and applications, Volume 3, Issue 4. citation:0 ncitation:0 pid2935485
+title1:Editorial: Peer-to-Peer networking and applications, Volume 3, Issue 4. citation:0 ncitation:0 pid2935485
+title1:Editor's note. citation:2 ncitation:-1 pid3267597
+title1:Editor's note. citation:2 ncitation:-1 pid3267597
+title1:Editor's note. citation:2 ncitation:-1 pid3267597
+title1:Editor's note. citation:2 ncitation:-1 pid3267597
+title1:Editor's note. citation:2 ncitation:-1 pid3392715
+title1:Editor's note. citation:2 ncitation:-1 pid3392715
+title1:EMAP: Expedite Message Authentication Protocol for Vehicular Ad Hoc Networks. citation:4 ncitation:-1 pid3545765
+title1:EMAP: Expedite Message Authentication Protocol for Vehicular Ad Hoc Networks. citation:4 ncitation:-1 pid3545765
+title1:Fast Channel Zapping with Destination-Oriented Multicast for IP Video Delivery. citation:0 ncitation:-1 pid3590538
+title1:Fast Channel Zapping with Destination-Oriented Multicast for IP Video Delivery. citation:0 ncitation:-1 pid3590538
+title1:Editor's note. citation:0 ncitation:-1 pid3595513
+title1:Editor's note. citation:0 ncitation:-1 pid3595513
+title1:Secure and Energy-Efficient Disjoint Multipath Routing for WSNs. citation:10 ncitation:None pid3609290
+title1:Secure and Energy-Efficient Disjoint Multipath Routing for WSNs. citation:10 ncitation:None pid3609290
+title1:Editor's note. citation:0 ncitation:None pid3622132
+title1:Editor's note. citation:0 ncitation:None pid3622132

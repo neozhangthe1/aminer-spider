@@ -1,0 +1,43 @@
+title1:i-LAND: An Interactive Landscape for Creativity and Innovation. citation:683 ncitation:662 pid90409
+title1:i-LAND: An Interactive Landscape for Creativity and Innovation. citation:683 ncitation:662 pid90409
+title1:The Personal Electronic Program Guide - Towards the Pre-Selection of Individual TV Programs. citation:91 ncitation:88 pid95259
+title1:The Personal Electronic Program Guide - Towards the Pre-Selection of Individual TV Programs. citation:91 ncitation:88 pid95259
+title1:Capturing, Management and Utilization of Lifecycle Information for Learning Resources. citation:11 ncitation:10 pid175521
+title1:Capturing, Management and Utilization of Lifecycle Information for Learning Resources. citation:11 ncitation:10 pid175521
+title1:Self-protection in P2P Networks: Choosing the Right Neighbourhood. citation:11 ncitation:7 pid195731
+title1:Self-protection in P2P Networks: Choosing the Right Neighbourhood. citation:11 ncitation:7 pid195731
+title1:Coherence in the Learning System k-med. citation:3 ncitation:4 pid233569
+title1:Coherence in the Learning System k-med. citation:3 ncitation:4 pid233569
+title1:Replication for a Distributed Multimedia System. citation:10 ncitation:11 pid341424
+title1:Replication for a Distributed Multimedia System. citation:10 ncitation:11 pid341424
+title1:Charging in Peer-to-Peer Systems Based on a Token Accounting System. citation:16 ncitation:15 pid350730
+title1:Charging in Peer-to-Peer Systems Based on a Token Accounting System. citation:16 ncitation:15 pid350730
+title1:Token-Based Accounting for P2P-Systems. citation:21 ncitation:21 pid478795
+title1:Token-Based Accounting for P2P-Systems. citation:21 ncitation:21 pid478795
+title1:XTP und Multimedia? citation:2 ncitation:-1 pid479037
+title1:XTP und Multimedia? citation:2 ncitation:-1 pid479037
+title1:Modeling Modifications of Multimedia Learning Resources Using Ontology-Based Representations. citation:5 ncitation:5 pid504915
+title1:Modeling Modifications of Multimedia Learning Resources Using Ontology-Based Representations. citation:5 ncitation:5 pid504915
+title1:Implementing HeiTS: Architecture and Implementation Strategy of the Heidelberg High-Speed Transport System. citation:71 ncitation:67 pid519459
+title1:Implementing HeiTS: Architecture and Implementation Strategy of the Heidelberg High-Speed Transport System. citation:71 ncitation:67 pid519459
+title1:Quality of Service Support for Recording and Playback of MBone Sessions in Heterogeneous IP/ATM Networks. citation:2 ncitation:2 pid624625
+title1:Quality of Service Support for Recording and Playback of MBone Sessions in Heterogeneous IP/ATM Networks. citation:2 ncitation:2 pid624625
+title1:Editorial. citation:10 ncitation:-1 pid801878
+title1:Editorial. citation:10 ncitation:-1 pid801878
+title1:Editorial. citation:10 ncitation:-1 pid801878
+title1:Metadata Standards for Web-Based Resources. citation:63 ncitation:56 pid894227
+title1:Metadata Standards for Web-Based Resources. citation:63 ncitation:56 pid894227
+title1:Sampling cluster endurance for peer-to-peer based content distribution networks. citation:3 ncitation:3 pid1011468
+title1:Sampling cluster endurance for peer-to-peer based content distribution networks. citation:3 ncitation:3 pid1011468
+title1:A Modular Approach to Mobile QoS Signaling- Motivation, Design & Implementation. citation:5 ncitation:5 pid1016904
+title1:A Modular Approach to Mobile QoS Signaling- Motivation, Design & Implementation. citation:5 ncitation:5 pid1016904
+title1:Peer-to-Peer Systems and Applications citation:40 ncitation:356 pid2809093
+title1:Peer-to-Peer Systems and Applications citation:40 ncitation:356 pid2809093
+title1:Peer-to-Peer Systems and Applications citation:40 ncitation:356 pid2809093
+title1:Peer-to-Peer Systems and Applications citation:40 ncitation:356 pid2809093
+title1:Multigranularity reuse of learning resources. citation:7 ncitation:2 pid3081787
+title1:Multigranularity reuse of learning resources. citation:7 ncitation:2 pid3081787
+title1:Enabling cost-efficient Software Service Distribution in infrastructure clouds at run time. citation:5 ncitation:3 pid3441295
+title1:Enabling cost-efficient Software Service Distribution in infrastructure clouds at run time. citation:5 ncitation:3 pid3441295
+title1:Automatic Taxonomy Extraction in Different Languages Using Wikipedia and Minimal Language-Specific Information. citation:1 ncitation:-1 pid3444335
+title1:Automatic Taxonomy Extraction in Different Languages Using Wikipedia and Minimal Language-Specific Information. citation:1 ncitation:-1 pid3444335

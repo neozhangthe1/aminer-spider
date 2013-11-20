@@ -1,0 +1,16 @@
+title1:Phrase-Based Statistical Machine Translation. citation:260 ncitation:236 pid478223
+title1:Phrase-Based Statistical Machine Translation. citation:260 ncitation:236 pid478223
+title1:Phrase-Based Statistical Machine Translation. citation:260 ncitation:236 pid478223
+title1:Phrase-Based Statistical Machine Translation. citation:260 ncitation:236 pid478223
+title1:Phrase-Based Statistical Machine Translation. citation:260 ncitation:236 pid478223
+title1:Phrase-Based Statistical Machine Translation. citation:260 ncitation:236 pid478223
+title1:Phrase-Based Statistical Machine Translation. citation:260 ncitation:236 pid478223
+title1:Word-Level Confidence Estimation for Machine Translation. citation:58 ncitation:42 pid797697
+title1:Word-Level Confidence Estimation for Machine Translation. citation:58 ncitation:42 pid797697
+title1:Vocal Tract Normalization Equals Linear Transformation in Cepstral Space. citation:133 ncitation:114 pid1229111
+title1:Vocal Tract Normalization Equals Linear Transformation in Cepstral Space. citation:133 ncitation:114 pid1229111
+title1:Improvements in beam search. citation:208 ncitation:135 pid3051740
+title1:Improvements in beam search. citation:208 ncitation:135 pid3051740
+title1:Improvements in beam search. citation:208 ncitation:135 pid3051740
+title1:Improvements in beam search for 10000-word continuous-speech recognition. citation:208 ncitation:201 pid3399357
+title1:Improvements in beam search for 10000-word continuous-speech recognition. citation:208 ncitation:201 pid3399357

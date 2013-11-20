@@ -1,0 +1,22 @@
+title1:Performance Evaluation of Two Congestion Control Mechanisms with On-Demand Distance Vector (AODV) Routing Protocol for Mobile and Wireless Networks. citation:0 ncitation:0 pid196039
+title1:Performance Evaluation of Two Congestion Control Mechanisms with On-Demand Distance Vector (AODV) Routing Protocol for Mobile and Wireless Networks. citation:0 ncitation:0 pid196039
+title1:A Client-Server Approach to Enhance Interactive Virtual Environments on Mobile Devices over Wireless Ad Hoc Networks. citation:1 ncitation:1 pid196052
+title1:A Client-Server Approach to Enhance Interactive Virtual Environments on Mobile Devices over Wireless Ad Hoc Networks. citation:1 ncitation:1 pid196052
+title1:A Performance Comparison of Routing Protocols for Ad Hoc Networks. citation:44 ncitation:23 pid408274
+title1:A Performance Comparison of Routing Protocols for Ad Hoc Networks. citation:44 ncitation:23 pid408274
+title1:A distributed algorithm for the detection of local cycles and knots. citation:39 ncitation:36 pid408284
+title1:A distributed algorithm for the detection of local cycles and knots. citation:39 ncitation:36 pid408284
+title1:Dynamic Load Balancing Strategies for Conservative Parallel Simulations. citation:88 ncitation:86 pid526380
+title1:Dynamic Load Balancing Strategies for Conservative Parallel Simulations. citation:88 ncitation:86 pid526380
+title1:UARTP: a unicast--based self--adaptive reliable transmission protocol for wireless and mobile ad-hoc networks. citation:2 ncitation:2 pid537880
+title1:UARTP: a unicast--based self--adaptive reliable transmission protocol for wireless and mobile ad-hoc networks. citation:2 ncitation:2 pid537880
+title1:Wireless and mobile ad hoc networking and computing. citation:0 ncitation:-1 pid988334
+title1:Wireless and mobile ad hoc networking and computing. citation:0 ncitation:-1 pid988334
+title1:Routing in mobile and wireless ad hoc networks. citation:4 ncitation:-1 pid988348
+title1:Routing in mobile and wireless ad hoc networks. citation:4 ncitation:-1 pid988348
+title1:Design and implemention of a novel MAC layer handoff protocol for IEEE 802.11 wireless networks. citation:5 ncitation:4 pid1250578
+title1:Design and implemention of a novel MAC layer handoff protocol for IEEE 802.11 wireless networks. citation:5 ncitation:4 pid1250578
+title1:Context-aware and location-based service discovery protocol for vehicular networks. citation:8 ncitation:6 pid2809910
+title1:Context-aware and location-based service discovery protocol for vehicular networks. citation:8 ncitation:6 pid2809910
+title1:Supporting Multi-dimensional Range Query in HD Tree. citation:4 ncitation:4 pid3012727
+title1:Supporting Multi-dimensional Range Query in HD Tree. citation:4 ncitation:4 pid3012727

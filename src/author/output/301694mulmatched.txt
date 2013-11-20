@@ -1,0 +1,20 @@
+title1:A Robust High-Throughput Tree Algorithm Using Successive Interference Cancellation. citation:21 ncitation:21 pid1088406
+title1:A Robust High-Throughput Tree Algorithm Using Successive Interference Cancellation. citation:21 ncitation:21 pid1088406
+title1:Block-differential modulation over doubly selective wireless fading channels. citation:9 ncitation:9 pid1087310
+title1:Block-differential modulation over doubly selective wireless fading channels. citation:9 ncitation:9 pid1087310
+title1:Image modeling using inverse filtering criteria with application to textures. citation:16 ncitation:15 pid1100802
+title1:Image modeling using inverse filtering criteria with application to textures. citation:16 ncitation:15 pid1100802
+title1:Achieving the Welch bound with difference sets. citation:161 ncitation:138 pid1109614
+title1:Achieving the Welch bound with difference sets. citation:161 ncitation:138 pid1109614
+title1:Link-Adaptive Distributed Coding for Multi-Source Cooperation. citation:0 ncitation:14 pid703197
+title1:Link-Adaptive Distributed Coding for Multi-Source Cooperation. citation:0 ncitation:14 pid703197
+title1:A harmonic retrieval framework for discontinuous motion estimation. citation:26 ncitation:27 pid1100506
+title1:A harmonic retrieval framework for discontinuous motion estimation. citation:26 ncitation:27 pid1100506
+title1:Hopping pilots for estimation of frequency-offset and multiantenna channels in MIMO-OFDM. citation:88 ncitation:72 pid1087623
+title1:Hopping pilots for estimation of frequency-offset and multiantenna channels in MIMO-OFDM. citation:88 ncitation:72 pid1087623
+title1:Multicarrier multiple access is sum-rate optimal for block transmissions over circulant ISI channels. citation:19 ncitation:20 pid992538
+title1:Multicarrier multiple access is sum-rate optimal for block transmissions over circulant ISI channels. citation:19 ncitation:20 pid992538
+title1:Link-Adaptive Distributed Coding for Multisource Cooperation. citation:0 ncitation:14 pid3105525
+title1:Link-Adaptive Distributed Coding for Multisource Cooperation. citation:0 ncitation:14 pid3105525
+title1:Bandwidth- and power-efficient multicarrier multiple access. citation:66 ncitation:65 pid3245291
+title1:Bandwidth- and power-efficient multicarrier multiple access. citation:66 ncitation:65 pid3245291

@@ -1,0 +1,4 @@
+title1:Online Generation of Association Rules. citation:111 ncitation:156 pid299335
+title1:Online Generation of Association Rules. citation:111 ncitation:156 pid299335
+title1:Divergence Control for Epsilon-Serializability. citation:24 ncitation:106 pid301380
+title1:Divergence Control for Epsilon-Serializability. citation:24 ncitation:106 pid301380

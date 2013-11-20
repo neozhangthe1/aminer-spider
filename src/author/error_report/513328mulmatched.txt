@@ -1,0 +1,40 @@
+title1:Data Structures for Boolean Functions. citation:1 ncitation:-1 pid17644
+title1:Data Structures for Boolean Functions. citation:1 ncitation:-1 pid17644
+title1:Global rebuilding of OBDDs Avoiding Memory Requirement Maxima. citation:27 ncitation:27 pid79101
+title1:Global rebuilding of OBDDs Avoiding Memory Requirement Maxima. citation:27 ncitation:27 pid79101
+title1:Efficient OBDD-Based Boolean Manipulation in CAD beyond Current Limits. citation:64 ncitation:63 pid131447
+title1:Efficient OBDD-Based Boolean Manipulation in CAD beyond Current Limits. citation:64 ncitation:63 pid131447
+title1:Linear Sifting of Decision Diagrams. citation:47 ncitation:40 pid133193
+title1:Linear Sifting of Decision Diagrams. citation:47 ncitation:40 pid133193
+title1:Linear Sifting of Decision Diagrams. citation:47 ncitation:40 pid133193
+title1:Algorithms and Heuristics in VLSI Design. citation:0 ncitation:-1 pid137907
+title1:Algorithms and Heuristics in VLSI Design. citation:0 ncitation:-1 pid137907
+title1:Upper and Lower Bounds for Certain Graph Accessibility Problems on Bounded Alternating omega-Branching Programs. citation:5 ncitation:10 pid137909
+title1:Upper and Lower Bounds for Certain Graph Accessibility Problems on Bounded Alternating omega-Branching Programs. citation:5 ncitation:10 pid137909
+title1:Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines. citation:41 ncitation:41 pid209155
+title1:Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines. citation:41 ncitation:41 pid209155
+title1:Modular Partitioning and Dynamic Conjunction Scheduling in Image Computation. citation:5 ncitation:4 pid465047
+title1:Modular Partitioning and Dynamic Conjunction Scheduling in Image Computation. citation:5 ncitation:4 pid465047
+title1:Lower Bounds for the Modular Communication Complexity of Various Graph Accessibility Problems. citation:4 ncitation:4 pid481314
+title1:Lower Bounds for the Modular Communication Complexity of Various Graph Accessibility Problems. citation:4 ncitation:4 pid481314
+title1:Structure and Importance of Logspace-MOD-Classes. citation:100 ncitation:112 pid620002
+title1:Structure and Importance of Logspace-MOD-Classes. citation:100 ncitation:112 pid620002
+title1:The Importance of Link-Transformation and Link-Proposals for Hyperlink-Management Systems. citation:2 ncitation:2 pid657051
+title1:The Importance of Link-Transformation and Link-Proposals for Hyperlink-Management Systems. citation:2 ncitation:2 pid657051
+title1:An Approach to Distributed Functionality - The Smart Data Server. citation:7 ncitation:8 pid657945
+title1:An Approach to Distributed Functionality - The Smart Data Server. citation:7 ncitation:8 pid657945
+title1:The Möbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem citation:2 ncitation:2 pid861720
+title1:The Möbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem citation:2 ncitation:2 pid861720
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits - a Survey citation:6 ncitation:6 pid861955
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits - a Survey citation:6 ncitation:6 pid861955
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits - a Survey citation:6 ncitation:6 pid861955
+title1:Ordered Binary Decision Diagrams and their Significance in Computer-Aided Design of VLSI Circuits. citation:6 ncitation:6 pid970905
+title1:Ordered Binary Decision Diagrams and their Significance in Computer-Aided Design of VLSI Circuits. citation:6 ncitation:6 pid970905
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits citation:5 ncitation:6 pid1196798
+title1:Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits citation:5 ncitation:6 pid1196798
+title1:Tele-Board: Enabling efficient collaboration in digital design spaces. citation:14 ncitation:9 pid3187537
+title1:Tele-Board: Enabling efficient collaboration in digital design spaces. citation:14 ncitation:9 pid3187537
+title1:Accurate Mutlicore Processor Power Models for Power-Aware Resource Management. citation:2 ncitation:2 pid3273054
+title1:Accurate Mutlicore Processor Power Models for Power-Aware Resource Management. citation:2 ncitation:2 pid3273054
+title1:Analyzing distributed whiteboard interactions. citation:5 ncitation:3 pid3333708
+title1:Analyzing distributed whiteboard interactions. citation:5 ncitation:3 pid3333708

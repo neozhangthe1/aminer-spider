@@ -1,0 +1,38 @@
+title1:Revealing the Secret of FaceHashing. citation:21 ncitation:19 pid274072
+title1:Revealing the Secret of FaceHashing. citation:21 ncitation:19 pid274072
+title1:A Novel Method for Coarse Iris Classification. citation:20 ncitation:3 pid274081
+title1:A Novel Method for Coarse Iris Classification. citation:20 ncitation:3 pid274081
+title1:Recognize Color Face Images Using Complex Eigenfaces. citation:7 ncitation:8 pid274075
+title1:Recognize Color Face Images Using Complex Eigenfaces. citation:7 ncitation:8 pid274075
+title1:Improvement on Null Space LDA for Face Recognition: A Symmetry Consideration. citation:4 ncitation:4 pid274107
+title1:Improvement on Null Space LDA for Face Recognition: A Symmetry Consideration. citation:4 ncitation:4 pid274107
+title1:Bi-directional PCA with assembled matrix distance metric. citation:71 ncitation:21 pid323134
+title1:Bi-directional PCA with assembled matrix distance metric. citation:71 ncitation:21 pid323134
+title1:Kernel Difference-Weighted k-Nearest Neighbors Classification. citation:33 ncitation:31 pid314160
+title1:Kernel Difference-Weighted k-Nearest Neighbors Classification. citation:33 ncitation:31 pid314160
+title1:Online Palmprint Identification. citation:878 ncitation:769 pid1033525
+title1:Online Palmprint Identification. citation:878 ncitation:769 pid1033525
+title1:An improved LDA approach. citation:44 ncitation:43 pid1131329
+title1:An improved LDA approach. citation:44 ncitation:43 pid1131329
+title1:Three Dimensional Palmprint Recognition. citation:18 ncitation:11 pid2815710
+title1:Three Dimensional Palmprint Recognition. citation:18 ncitation:11 pid2815710
+title1:Feature Band Selection for Multispectral Palmprint Recognition. citation:12 ncitation:6 pid2903000
+title1:Feature Band Selection for Multispectral Palmprint Recognition. citation:12 ncitation:6 pid2903000
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:Palmprint Recognition. citation:176 ncitation:-1 pid3167364
+title1:A Novel 3-D Palmprint Acquisition System. citation:5 ncitation:2 pid3319076
+title1:A Novel 3-D Palmprint Acquisition System. citation:5 ncitation:2 pid3319076

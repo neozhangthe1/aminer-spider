@@ -1,0 +1,25 @@
+title1:Reducing the Complexity of Defect Level Modeling Using the Clustering Effect. citation:21 ncitation:18 pid143057
+title1:Reducing the Complexity of Defect Level Modeling Using the Clustering Effect. citation:21 ncitation:18 pid143057
+title1:Variable Input Delay CMOS Logic for Low Power Design. citation:17 ncitation:13 pid645835
+title1:Variable Input Delay CMOS Logic for Low Power Design. citation:17 ncitation:13 pid645835
+title1:New Graphical IDDQ Signatures Reduce Defect Level and Yield Loss. citation:10 ncitation:7 pid645870
+title1:New Graphical IDDQ Signatures Reduce Defect Level and Yield Loss. citation:10 ncitation:7 pid645870
+title1:A testability metric for path delay faults and its application. citation:9 ncitation:8 pid53007
+title1:A testability metric for path delay faults and its application. citation:9 ncitation:8 pid53007
+title1:Estimating the Quality of Manufactured Digital Sequential Circuits. citation:5 ncitation:4 pid454093
+title1:Estimating the Quality of Manufactured Digital Sequential Circuits. citation:5 ncitation:4 pid454093
+title1:Statistical path delay fault coverage estimation for synchronous sequential circuits. citation:3 ncitation:2 pid645731
+title1:Statistical path delay fault coverage estimation for synchronous sequential circuits. citation:3 ncitation:2 pid645731
+title1:Collaboration between Industry and Academia in Test Research. citation:0 ncitation:-1 pid58054
+title1:Collaboration between Industry and Academia in Test Research. citation:0 ncitation:-1 pid58054
+title1:Concurrent Test Generation. citation:14 ncitation:6 pid58045
+title1:Concurrent Test Generation. citation:14 ncitation:6 pid58045
+title1:Concurrent Test Generation. citation:14 ncitation:6 pid58045
+title1:Fault coverage estimation by test vector sampling. citation:14 ncitation:9 pid1084374
+title1:Fault coverage estimation by test vector sampling. citation:14 ncitation:9 pid1084374
+title1:Fault coverage estimation by test vector sampling. citation:14 ncitation:9 pid1084374
+title1:Mixed-Signal Test. citation:12 ncitation:11 pid645423
+title1:Mixed-Signal Test. citation:12 ncitation:11 pid645423
+title1:Mixed-Signal Test. citation:12 ncitation:11 pid645423
+title1:An experimental study on reject ratio prediction for VLSI circuits: Kokomo revisited. citation:42 ncitation:43 pid3324622
+title1:An experimental study on reject ratio prediction for VLSI circuits: Kokomo revisited. citation:42 ncitation:43 pid3324622

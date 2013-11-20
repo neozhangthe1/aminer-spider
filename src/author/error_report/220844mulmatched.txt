@@ -1,0 +1,139 @@
+title1:Extending understanding of federal statistics in tables. citation:17 ncitation:17 pid154958
+title1:Extending understanding of federal statistics in tables. citation:17 ncitation:17 pid154958
+title1:Universal usability as a stimulus to advanced interface design. citation:52 ncitation:45 pid1187034
+title1:Universal usability as a stimulus to advanced interface design. citation:52 ncitation:45 pid1187034
+title1:The Dynamic HomeFinder: Evaluating Dynamic Queries in a Real-Estate Information Exploration System. citation:302 ncitation:284 pid595947
+title1:The Dynamic HomeFinder: Evaluating Dynamic Queries in a Real-Estate Information Exploration System. citation:302 ncitation:284 pid595947
+title1:Query Previews in Networked Information Systems. citation:74 ncitation:68 pid27209
+title1:Query Previews in Networked Information Systems. citation:74 ncitation:68 pid27209
+title1:MediaFinder: an interface for dynamic personal media management with semantic regions. citation:14 ncitation:14 pid88957
+title1:MediaFinder: an interface for dynamic personal media management with semantic regions. citation:14 ncitation:14 pid88957
+title1:Dynamic query visualizations on World Wide Web clients: a DHTML solution for maps and scattergrams. citation:20 ncitation:18 pid922044
+title1:Dynamic query visualizations on World Wide Web clients: a DHTML solution for maps and scattergrams. citation:20 ncitation:18 pid922044
+title1:A Review of Design Techniques for Programs and Data. citation:0 ncitation:9 pid1075153
+title1:A Review of Design Techniques for Programs and Data. citation:0 ncitation:9 pid1075153
+title1:Representing Unevenly-Spaced Time Series Data for Visualization and Interactive Exploration. citation:46 ncitation:40 pid405085
+title1:Representing Unevenly-Spaced Time Series Data for Visualization and Interactive Exploration. citation:46 ncitation:40 pid405085
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:Universal Usability. citation:551 ncitation:518 pid775921
+title1:The limits of speech recognition. citation:182 ncitation:170 pid775923
+title1:The limits of speech recognition. citation:182 ncitation:170 pid775923
+title1:The limits of speech recognition. citation:182 ncitation:170 pid775923
+title1:Control Flow and Data Structure Documentation: Two Experiments. citation:57 ncitation:51 pid775935
+title1:Control Flow and Data Structure Documentation: Two Experiments. citation:57 ncitation:51 pid775935
+title1:Creativity support tools. citation:219 ncitation:116 pid775929
+title1:Creativity support tools. citation:219 ncitation:116 pid775929
+title1:Creativity support tools. citation:219 ncitation:116 pid775929
+title1:Creativity support tools. citation:219 ncitation:116 pid775929
+title1:Creativity support tools. citation:219 ncitation:116 pid775929
+title1:Creativity support tools. citation:219 ncitation:116 pid775929
+title1:Creativity support tools. citation:219 ncitation:116 pid775929
+title1:Split Menus: Effectively Using Selection Frequency to Organize Menus. citation:189 ncitation:172 pid1116991
+title1:Split Menus: Effectively Using Selection Frequency to Organize Menus. citation:189 ncitation:172 pid1116991
+title1:Visualization Methods for Personal Photo Collections: Browsing and Searching in the PhotoFinder. citation:201 ncitation:191 pid330365
+title1:Visualization Methods for Personal Photo Collections: Browsing and Searching in the PhotoFinder. citation:201 ncitation:191 pid330365
+title1:Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies. citation:430 ncitation:410 pid1118896
+title1:Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies. citation:430 ncitation:410 pid1118896
+title1:Finding Facts vs. Browsing Knowledge in Hypertext Systems. citation:559 ncitation:524 pid807341
+title1:Finding Facts vs. Browsing Knowledge in Hypertext Systems. citation:559 ncitation:524 pid807341
+title1:Finding Facts vs. Browsing Knowledge in Hypertext Systems. citation:559 ncitation:524 pid807341
+title1:An Augmented Visual Query Mechanism for Finding Patterns in Time Series Data. citation:31 ncitation:29 pid216750
+title1:An Augmented Visual Query Mechanism for Finding Patterns in Time Series Data. citation:31 ncitation:29 pid216750
+title1:A rank-by-feature framework for interactive exploration of multidimensional data. citation:98 ncitation:83 pid947834
+title1:A rank-by-feature framework for interactive exploration of multidimensional data. citation:98 ncitation:83 pid947834
+title1:Inventing discovery tools: combining information visualization with data mining? citation:123 ncitation:114 pid947838
+title1:Inventing discovery tools: combining information visualization with data mining? citation:123 ncitation:114 pid947838
+title1:Database Program Conversion: A Framework for Research. citation:14 ncitation:15 pid643889
+title1:Database Program Conversion: A Framework for Research. citation:14 ncitation:15 pid643889
+title1:A Knowledge Integration Framework for Information Visualization. citation:14 ncitation:11 pid66423
+title1:A Knowledge Integration Framework for Information Visualization. citation:14 ncitation:11 pid66423
+title1:Direct Annotation: A Drag-and-Drop Strategy for Labeling Photos. citation:161 ncitation:149 pid460663
+title1:Direct Annotation: A Drag-and-Drop Strategy for Labeling Photos. citation:161 ncitation:149 pid460663
+title1:Improving Accessibility and Usability of Geo-referenced Statistical Data. citation:4 ncitation:4 pid154839
+title1:Improving Accessibility and Usability of Geo-referenced Statistical Data. citation:4 ncitation:4 pid154839
+title1:Dynamic query tools for time series data sets: Timebox widgets for interactive exploration. citation:216 ncitation:194 pid947913
+title1:Dynamic query tools for time series data sets: Timebox widgets for interactive exploration. citation:216 ncitation:194 pid947913
+title1:Browsing large online data tables using generalized query previews. citation:6 ncitation:6 pid939176
+title1:Browsing large online data tables using generalized query previews. citation:6 ncitation:6 pid939176
+title1:Data Structures for Dynamic Queries: An Analytical and Experimental Evaluation. citation:23 ncitation:28 pid61058
+title1:Data Structures for Dynamic Queries: An Analytical and Experimental Evaluation. citation:23 ncitation:28 pid61058
+title1:Snap-Together Visualization: A User Interface for Coodinating Visualizations via Relational Schemata. citation:229 ncitation:207 pid61128
+title1:Snap-Together Visualization: A User Interface for Coodinating Visualizations via Relational Schemata. citation:229 ncitation:207 pid61128
+title1:Snap-Together Visualization: A User Interface for Coodinating Visualizations via Relational Schemata. citation:229 ncitation:207 pid61128
+title1:Dynamic Aggregation to Support Pattern Discovery: A Case Study with Web Logs. citation:6 ncitation:6 pid156847
+title1:Dynamic Aggregation to Support Pattern Discovery: A Case Study with Web Logs. citation:6 ncitation:6 pid156847
+title1:Human Responsibility for Autonomous Agents. citation:8 ncitation:6 pid875925
+title1:Human Responsibility for Autonomous Agents. citation:8 ncitation:6 pid875925
+title1:Exploring personal media: A spatial interface supporting user-defined semantic regions. citation:17 ncitation:15 pid1137715
+title1:Exploring personal media: A spatial interface supporting user-defined semantic regions. citation:17 ncitation:15 pid1137715
+title1:An Experimental Comparison of a Mouse and Arrow-Jump Keys for an Interactive Encyclopedia. citation:43 ncitation:34 pid912360
+title1:An Experimental Comparison of a Mouse and Arrow-Jump Keys for an Interactive Encyclopedia. citation:43 ncitation:34 pid912360
+title1:Show Me! Guidelines for Producing Recorded Demonstrations. citation:31 ncitation:27 pid641337
+title1:Show Me! Guidelines for Producing Recorded Demonstrations. citation:31 ncitation:27 pid641337
+title1:Dynamic Layout Management in a Multimedia Bulletin Board. citation:4 ncitation:4 pid239544
+title1:Dynamic Layout Management in a Multimedia Bulletin Board. citation:4 ncitation:4 pid239544
+title1:Hierarchical Layouts for Photo Libraries. citation:15 ncitation:12 pid1337816
+title1:Hierarchical Layouts for Photo Libraries. citation:15 ncitation:12 pid1337816
+title1:Toward a Statistical Knowledge Network. citation:19 ncitation:17 pid154621
+title1:Toward a Statistical Knowledge Network. citation:19 ncitation:17 pid154621
+title1:Designing a Metadata -Driven Visual Information Browser for Federal Statistics. citation:11 ncitation:8 pid154574
+title1:Designing a Metadata -Driven Visual Information Browser for Federal Statistics. citation:11 ncitation:8 pid154574
+title1:Why Not Make Interfaces Better than 3D Reality? citation:79 ncitation:62 pid786956
+title1:Why Not Make Interfaces Better than 3D Reality? citation:79 ncitation:62 pid786956
+title1:NASDAQ Velocity and Forces: An Interactive Visualization of Activity and Change. citation:0 ncitation:0 pid1002587
+title1:NASDAQ Velocity and Forces: An Interactive Visualization of Activity and Change. citation:0 ncitation:0 pid1002587
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:9 ncitation:544 pid95890
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:9 ncitation:544 pid95890
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:9 ncitation:544 pid95890
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:9 ncitation:544 pid95890
+title1:Leonardo's laptop: human needs and the new computing technologies. citation:9 ncitation:544 pid95890
+title1:A photo history of SIGCHI: evolution of design from personal to public. citation:21 ncitation:17 pid928057
+title1:A photo history of SIGCHI: evolution of design from personal to public. citation:21 ncitation:17 pid928057
+title1:Incremental data Structures and Algorithms for Dynamic Query Interfaces. citation:36 ncitation:40 pid1065723
+title1:Incremental data Structures and Algorithms for Dynamic Query Interfaces. citation:36 ncitation:40 pid1065723
+title1:Incremental data Structures and Algorithms for Dynamic Query Interfaces. citation:36 ncitation:40 pid1065723
+title1:Perspective-based Usability Inspection: An Empirical Validation of Efficacy. citation:73 ncitation:66 pid871931
+title1:Perspective-based Usability Inspection: An Empirical Validation of Efficacy. citation:73 ncitation:66 pid871931
+title1:A comparison of voice controlled and mouse controlled web browsing. citation:73 ncitation:68 pid54041
+title1:A comparison of voice controlled and mouse controlled web browsing. citation:73 ncitation:68 pid54041
+title1:Ordered Treemap Layouts. citation:161 ncitation:149 pid404833
+title1:Ordered Treemap Layouts. citation:161 ncitation:149 pid404833
+title1:Severity and impact of computer user frustration: A comparison of student and workplace users. citation:59 ncitation:46 pid948246
+title1:Severity and impact of computer user frustration: A comparison of student and workplace users. citation:59 ncitation:46 pid948246
+title1:Dynamic Queries and Brushing on Choropleth Maps. citation:45 ncitation:42 pid460209
+title1:Dynamic Queries and Brushing on Choropleth Maps. citation:45 ncitation:42 pid460209
+title1:Immediate usability: a case study of public access design for a community photo library. citation:21 ncitation:19 pid948238
+title1:Immediate usability: a case study of public access design for a community photo library. citation:21 ncitation:19 pid948238
+title1:Extending the Utility of Treemaps with Flexible Hierarchy. citation:33 ncitation:29 pid460176
+title1:Extending the Utility of Treemaps with Flexible Hierarchy. citation:33 ncitation:29 pid460176
+title1:"I hear the pattern": interactive sonification of geographical data patterns. citation:28 ncitation:25 pid90908
+title1:"I hear the pattern": interactive sonification of geographical data patterns. citation:28 ncitation:25 pid90908
+title1:ManyNets: an interface for multiple network analysis and visualization. citation:44 ncitation:35 pid2779135
+title1:ManyNets: an interface for multiple network analysis and visualization. citation:44 ncitation:35 pid2779135
+title1:Analyzing (social media) networks with NodeXL. citation:193 ncitation:124 pid2842734
+title1:Analyzing (social media) networks with NodeXL. citation:193 ncitation:124 pid2842734
+title1:Analyzing (social media) networks with NodeXL. citation:193 ncitation:124 pid2842734
+title1:Determining Causes and Severity of End-User Frustration. citation:179 ncitation:160 pid2860991
+title1:Determining Causes and Severity of End-User Frustration. citation:179 ncitation:160 pid2860991
+title1:From bowling alone to tweeting together: technology-mediated social participation. citation:8 ncitation:8 pid2923627
+title1:From bowling alone to tweeting together: technology-mediated social participation. citation:8 ncitation:8 pid2923627
+title1:Cyberinfrastructure for Social Action on National Priorities. citation:20 ncitation:15 pid2965611
+title1:Cyberinfrastructure for Social Action on National Priorities. citation:20 ncitation:15 pid2965611
+title1:Readings in information visualization - using vision to think. citation:42 ncitation:3330 pid3004905
+title1:Readings in information visualization - using vision to think. citation:42 ncitation:3330 pid3004905
+title1:Demonstrational interfaces: Coming soon? citation:19 ncitation:18 pid3010872
+title1:Demonstrational interfaces: Coming soon? citation:19 ncitation:18 pid3010872
+title1:Community Response Grids for Older Adults: Motivations, Usability, and Sociability. citation:10 ncitation:10 pid3276828
+title1:Community Response Grids for Older Adults: Motivations, Usability, and Sociability. citation:10 ncitation:10 pid3276828
+title1:Dynamic querying for pattern identification in microarray and genomic data. citation:28 ncitation:24 pid3429958
+title1:Dynamic querying for pattern identification in microarray and genomic data. citation:28 ncitation:24 pid3429958

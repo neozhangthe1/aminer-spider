@@ -1,0 +1,4 @@
+title1:Local Linear Regression (LLR) for Pose Invariant Face Recognition. citation:117 ncitation:101 pid205905
+title1:Local Linear Regression (LLR) for Pose Invariant Face Recognition. citation:117 ncitation:101 pid205905
+title1:Action Recognition in Broadcast Tennis Video. citation:42 ncitation:26 pid349674
+title1:Action Recognition in Broadcast Tennis Video. citation:42 ncitation:26 pid349674

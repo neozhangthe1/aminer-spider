@@ -1,0 +1,15 @@
+title1:Query Processing in Spatial Database Systems. citation:132 ncitation:1 pid66099
+title1:Query Processing in Spatial Database Systems. citation:132 ncitation:1 pid66099
+title1:Query Processing in Spatial Database Systems. citation:132 ncitation:1 pid66099
+title1:Knowledge Discovery in Spatial Databases. citation:66 ncitation:65 pid135386
+title1:Knowledge Discovery in Spatial Databases. citation:66 ncitation:65 pid135386
+title1:Incremental Reverse Nearest Neighbor Ranking. citation:6 ncitation:4 pid302390
+title1:Incremental Reverse Nearest Neighbor Ranking. citation:6 ncitation:4 pid302390
+title1:Infinite Hidden Relational Models. citation:9 ncitation:92 pid633320
+title1:Infinite Hidden Relational Models. citation:9 ncitation:92 pid633320
+title1:R*-Tree. citation:11 ncitation:2 pid1197796
+title1:R*-Tree. citation:11 ncitation:2 pid1197796
+title1:Density-based clustering. citation:42 ncitation:21 pid3096453
+title1:Density-based clustering. citation:42 ncitation:21 pid3096453
+title1:Subspace clustering. citation:11 ncitation:4 pid3447560
+title1:Subspace clustering. citation:11 ncitation:4 pid3447560

@@ -1,0 +1,42 @@
+title1:Constant-Time Convexity Problems on Reconfigurable Meshes. citation:3 ncitation:15 pid85675
+title1:Constant-Time Convexity Problems on Reconfigurable Meshes. citation:3 ncitation:15 pid85675
+title1:Computer Productivity Initiative. citation:5 ncitation:5 pid123418
+title1:Computer Productivity Initiative. citation:5 ncitation:5 pid123418
+title1:Computer Productivity Initiative. citation:5 ncitation:5 pid123418
+title1:A Linear-Time Recognition Algorithm for P-Reducible Graphs. citation:14 ncitation:7 pid219670
+title1:A Linear-Time Recognition Algorithm for P-Reducible Graphs. citation:14 ncitation:7 pid219670
+title1:Randomized Initialization Protocols for Packet Radio Networks. citation:53 ncitation:50 pid409265
+title1:Randomized Initialization Protocols for Packet Radio Networks. citation:53 ncitation:50 pid409265
+title1:Randomized Initialization Protocols for Packet Radio Networks. citation:53 ncitation:50 pid409265
+title1:Workshop on Advances in Parallel and Distributed Computational Models. citation:0 ncitation:-1 pid409368
+title1:Workshop on Advances in Parallel and Distributed Computational Models. citation:0 ncitation:-1 pid409368
+title1:An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable. citation:20 ncitation:4 pid410185
+title1:An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable. citation:20 ncitation:4 pid410185
+title1:An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable. citation:20 ncitation:4 pid410185
+title1:A faster sorting algorithm in the broadcast communication model. citation:2 ncitation:3 pid410279
+title1:A faster sorting algorithm in the broadcast communication model. citation:2 ncitation:3 pid410279
+title1:Energy-Efficient Initialization Protocols for Ad-hoc Radio Networks. citation:19 ncitation:34 pid415131
+title1:Energy-Efficient Initialization Protocols for Ad-hoc Radio Networks. citation:19 ncitation:34 pid415131
+title1:Efficient List Ranking on the Reconfigurable Mesh, with Applications. citation:3 ncitation:8 pid415525
+title1:Efficient List Ranking on the Reconfigurable Mesh, with Applications. citation:3 ncitation:8 pid415525
+title1:Providing VANET security through active position detection. citation:119 ncitation:97 pid505877
+title1:Providing VANET security through active position detection. citation:119 ncitation:97 pid505877
+title1:HM - A Rapidly Deployable Architecture with QoS Provisioning for Wireless Networks. citation:6 ncitation:6 pid606394
+title1:HM - A Rapidly Deployable Architecture with QoS Provisioning for Wireless Networks. citation:6 ncitation:6 pid606394
+title1:NOTICE: An Architecture for the Notification of Traffic Incidents. citation:28 ncitation:28 pid690414
+title1:NOTICE: An Architecture for the Notification of Traffic Incidents. citation:28 ncitation:28 pid690414
+title1:On the L(h, k)-Labeling of Co-comparability Graphs. citation:7 ncitation:2 pid701865
+title1:On the L(h, k)-Labeling of Co-comparability Graphs. citation:7 ncitation:2 pid701865
+title1:On the L(h, k)-Labeling of Co-comparability Graphs. citation:7 ncitation:2 pid701865
+title1:A Novel Deterministic Sampling Scheme with Applications to Broadcast-Efficient Sorting on the Reconfigurable Mesh. citation:26 ncitation:27 pid989423
+title1:A Novel Deterministic Sampling Scheme with Applications to Broadcast-Efficient Sorting on the Reconfigurable Mesh. citation:26 ncitation:27 pid989423
+title1:Randomized Initialization Protocols for Ad Hoc Networks. citation:123 ncitation:108 pid1125539
+title1:Randomized Initialization Protocols for Ad Hoc Networks. citation:123 ncitation:108 pid1125539
+title1:MUSAQ: a multimedia session-aware QoS provisioning scheme for cellular networks. citation:2 ncitation:2 pid1140858
+title1:MUSAQ: a multimedia session-aware QoS provisioning scheme for cellular networks. citation:2 ncitation:2 pid1140858
+title1:Wireless Sensor Networks and Applications citation:0 ncitation:4 pid2782516
+title1:Wireless Sensor Networks and Applications citation:0 ncitation:4 pid2782516
+title1:OPERA: Opportunistic packet relaying in disconnected Vehicular Ad Hoc Networks. citation:30 ncitation:29 pid3175461
+title1:OPERA: Opportunistic packet relaying in disconnected Vehicular Ad Hoc Networks. citation:30 ncitation:29 pid3175461
+title1:SmartParking: A Secure and Intelligent Parking System. citation:21 ncitation:9 pid3249643
+title1:SmartParking: A Secure and Intelligent Parking System. citation:21 ncitation:9 pid3249643

@@ -1,0 +1,448 @@
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension citation:583 ncitation:523 pid3273
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension citation:583 ncitation:523 pid3273
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension citation:583 ncitation:523 pid3273
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension citation:583 ncitation:523 pid3273
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension citation:583 ncitation:523 pid3273
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension citation:583 ncitation:523 pid3273
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension citation:583 ncitation:523 pid3273
+title1:Matrix Eigensystem Routines - EISPACK Guide Extension citation:583 ncitation:523 pid3273
+title1:The Impact of Multicore on Math Software. citation:106 ncitation:82 pid528796
+title1:The Impact of Multicore on Math Software. citation:106 ncitation:82 pid528796
+title1:Preface. citation:109 ncitation:-1 pid1037837
+title1:Preface. citation:109 ncitation:-1 pid1037837
+title1:Preface. citation:109 ncitation:-1 pid1037837
+title1:Preface. citation:109 ncitation:-1 pid1037837
+title1:Preface. citation:109 ncitation:-1 pid1037837
+title1:Evaluating the Performance of MPI-2 Dynamic Communicators and One-Sided Communication. citation:13 ncitation:14 pid555904
+title1:Evaluating the Performance of MPI-2 Dynamic Communicators and One-Sided Communication. citation:13 ncitation:14 pid555904
+title1:Solving Systems of Linear Equations on the CELL Processor Using Cholesky Factorization. citation:88 ncitation:77 pid1126415
+title1:Solving Systems of Linear Equations on the CELL Processor Using Cholesky Factorization. citation:88 ncitation:77 pid1126415
+title1:Middleware for the use of storage in communication. citation:20 ncitation:20 pid1034098
+title1:Middleware for the use of storage in communication. citation:20 ncitation:20 pid1034098
+title1:Performance analysis of MPI collective operations. citation:153 ncitation:133 pid793060
+title1:Performance analysis of MPI collective operations. citation:153 ncitation:133 pid793060
+title1:A Parallel Algorithm for the Reduction of a Nonsymmetric Matrix to Block Upper-Hessenberg Form. citation:38 ncitation:38 pid1034132
+title1:A Parallel Algorithm for the Reduction of a Nonsymmetric Matrix to Block Upper-Hessenberg Form. citation:38 ncitation:38 pid1034132
+title1:A class of parallel tiled linear algebra algorithms for multicore architectures. citation:282 ncitation:225 pid1036035
+title1:A class of parallel tiled linear algebra algorithms for multicore architectures. citation:282 ncitation:225 pid1036035
+title1:The design and implementation of the parallel out-of-core ScaLAPACK LU, QR, and Cholesky factorization routines. citation:54 ncitation:53 pid810340
+title1:The design and implementation of the parallel out-of-core ScaLAPACK LU, QR, and Cholesky factorization routines. citation:54 ncitation:53 pid810340
+title1:Implementing Linear Algebra Routines on Multi-core Processors with Pipelining and a Look Ahead. citation:52 ncitation:50 pid528742
+title1:Implementing Linear Algebra Routines on Multi-core Processors with Pipelining and a Look Ahead. citation:52 ncitation:50 pid528742
+title1:Implementing Linear Algebra Routines on Multi-core Processors with Pipelining and a Look Ahead. citation:52 ncitation:50 pid528742
+title1:The LINPACK Benchmark: past, present and future. citation:382 ncitation:333 pid810361
+title1:The LINPACK Benchmark: past, present and future. citation:382 ncitation:333 pid810361
+title1:The LINPACK Benchmark: past, present and future. citation:382 ncitation:333 pid810361
+title1:Developing numerical libraries in Java. citation:59 ncitation:56 pid810166
+title1:Developing numerical libraries in Java. citation:59 ncitation:56 pid810166
+title1:Developing numerical libraries in Java. citation:59 ncitation:56 pid810166
+title1:The GrADS Project: Software Support for High-Level Grid Application Development. citation:387 ncitation:381 pid1295317
+title1:The GrADS Project: Software Support for High-Level Grid Application Development. citation:387 ncitation:381 pid1295317
+title1:Deploying Fault-Tolerance and Task Migration with NetSolve. citation:19 ncitation:19 pid528630
+title1:Deploying Fault-Tolerance and Task Migration with NetSolve. citation:19 ncitation:19 pid528630
+title1:A set of level 3 basic linear algebra subprograms. citation:2141 ncitation:2085 pid1121243
+title1:A set of level 3 basic linear algebra subprograms. citation:2141 ncitation:2085 pid1121243
+title1:A set of level 3 basic linear algebra subprograms. citation:2141 ncitation:2085 pid1121243
+title1:A set of level 3 basic linear algebra subprograms. citation:2141 ncitation:2085 pid1121243
+title1:A set of level 3 basic linear algebra subprograms. citation:2141 ncitation:2085 pid1121243
+title1:A set of level 3 basic linear algebra subprograms. citation:2141 ncitation:2085 pid1121243
+title1:A set of level 3 basic linear algebra subprograms. citation:2141 ncitation:2085 pid1121243
+title1:A set of level 3 basic linear algebra subprograms. citation:2141 ncitation:2085 pid1121243
+title1:Software Distribution using XNETLIB. citation:26 ncitation:26 pid1121245
+title1:Software Distribution using XNETLIB. citation:26 ncitation:26 pid1121245
+title1:Automatically Tuned Linear Algebra Software. citation:39 ncitation:753 pid549658
+title1:Automatically Tuned Linear Algebra Software. citation:39 ncitation:753 pid549658
+title1:Automatically Tuned Linear Algebra Software. citation:39 ncitation:753 pid549658
+title1:Automatically Tuned Linear Algebra Software. citation:39 ncitation:753 pid549658
+title1:Automatically Tuned Linear Algebra Software. citation:39 ncitation:753 pid549658
+title1:Automatically Tuned Linear Algebra Software. citation:39 ncitation:753 pid549658
+title1:Automatically Tuned Linear Algebra Software. citation:39 ncitation:753 pid549658
+title1:Numerical Libraries and the Grid. citation:106 ncitation:120 pid1295329
+title1:Numerical Libraries and the Grid. citation:106 ncitation:120 pid1295329
+title1:Preface. citation:109 ncitation:-1 pid1295342
+title1:Preface. citation:109 ncitation:-1 pid1295342
+title1:Preface. citation:109 ncitation:-1 pid1295342
+title1:Automated empirical optimizations of software and the ATLAS project. citation:1144 ncitation:1082 pid1035789
+title1:Automated empirical optimizations of software and the ATLAS project. citation:1144 ncitation:1082 pid1035789
+title1:Automated empirical optimizations of software and the ATLAS project. citation:1144 ncitation:1082 pid1035789
+title1:A Proposal for a Fortran 90 Interface for LAPACK. citation:3 ncitation:3 pid528385
+title1:A Proposal for a Fortran 90 Interface for LAPACK. citation:3 ncitation:3 pid528385
+title1:Scalability Issues Affecting the Design of a Dense Linear Algebra Library. citation:86 ncitation:82 pid988672
+title1:Scalability Issues Affecting the Design of a Dense Linear Algebra Library. citation:86 ncitation:82 pid988672
+title1:LAPACK: a portable linear algebra library for high-performance computers. citation:403 ncitation:343 pid574717
+title1:LAPACK: a portable linear algebra library for high-performance computers. citation:403 ncitation:343 pid574717
+title1:LAPACK: a portable linear algebra library for high-performance computers. citation:403 ncitation:343 pid574717
+title1:LAPACK: a portable linear algebra library for high-performance computers. citation:403 ncitation:343 pid574717
+title1:Parallel Tiled QR Factorization for Multicore Architectures. citation:138 ncitation:123 pid547919
+title1:Parallel Tiled QR Factorization for Multicore Architectures. citation:138 ncitation:123 pid547919
+title1:Automatically Tuned Collective Communications. citation:153 ncitation:146 pid575558
+title1:Automatically Tuned Collective Communications. citation:153 ncitation:146 pid575558
+title1:Graphical development tools for network-based concurrent supercomputing. citation:166 ncitation:164 pid574647
+title1:Graphical development tools for network-based concurrent supercomputing. citation:166 ncitation:164 pid574647
+title1:Developing numerical libraries in Java citation:59 ncitation:55 pid818683
+title1:Developing numerical libraries in Java citation:59 ncitation:55 pid818683
+title1:A Proposal for a Set of Level 3 Basic Linear Algebra Subprograms. citation:51 ncitation:50 pid548986
+title1:A Proposal for a Set of Level 3 Basic Linear Algebra Subprograms. citation:51 ncitation:50 pid548986
+title1:Two Dimensional Basic Linear Algebra Communication Subprograms. citation:99 ncitation:105 pid548988
+title1:Two Dimensional Basic Linear Algebra Communication Subprograms. citation:99 ncitation:105 pid548988
+title1:A fully parallel algorithm for the symmetric eigenvalue problem. citation:326 ncitation:329 pid548990
+title1:A fully parallel algorithm for the symmetric eigenvalue problem. citation:326 ncitation:329 pid548990
+title1:A fully parallel algorithm for the symmetric eigenvalue problem. citation:326 ncitation:329 pid548990
+title1:A Tool to Aid in the Design, Implementation, and Understanding of Matrix Algorithms for Parallel Processors. citation:80 ncitation:72 pid988671
+title1:A Tool to Aid in the Design, Implementation, and Understanding of Matrix Algorithms for Parallel Processors. citation:80 ncitation:72 pid988671
+title1:A Message Passing Standard for MPP and Workstations. citation:152 ncitation:146 pid771345
+title1:A Message Passing Standard for MPP and Workstations. citation:152 ncitation:146 pid771345
+title1:Distribution of Mathematical Software via Electronic Mail. citation:31 ncitation:389 pid771344
+title1:Distribution of Mathematical Software via Electronic Mail. citation:31 ncitation:389 pid771344
+title1:Pumma: Parallel universal matrix multiplication algorithms on distributed memory concurrent computers. citation:146 ncitation:134 pid811138
+title1:Pumma: Parallel universal matrix multiplication algorithms on distributed memory concurrent computers. citation:146 ncitation:134 pid811138
+title1:Scheduling Block-Cyclic Array Redistribution. citation:111 ncitation:112 pid529178
+title1:Scheduling Block-Cyclic Array Redistribution. citation:111 ncitation:112 pid529178
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:ScaLAPACK: A Linear Algebra Library for Message-Passing Computers. citation:75 ncitation:68 pid548704
+title1:ScaLAPACK: A Linear Algebra Library for Message-Passing Computers. citation:75 ncitation:68 pid548704
+title1:Evaluating Block Algorithm Variants in LAPACK. citation:62 ncitation:62 pid548707
+title1:Evaluating Block Algorithm Variants in LAPACK. citation:62 ncitation:62 pid548707
+title1:Tools for Heterogeneous Network Computing. citation:44 ncitation:16 pid548712
+title1:Tools for Heterogeneous Network Computing. citation:44 ncitation:16 pid548712
+title1:Tools for Heterogeneous Network Computing. citation:44 ncitation:16 pid548712
+title1:The PVM Concurrent Computing System: Evolution, Experiences, and Trends. citation:443 ncitation:424 pid1035641
+title1:The PVM Concurrent Computing System: Evolution, Experiences, and Trends. citation:443 ncitation:424 pid1035641
+title1:Preface. citation:2 ncitation:-1 pid1295392
+title1:Preface. citation:2 ncitation:-1 pid1295392
+title1:Preface. citation:2 ncitation:-1 pid1295392
+title1:The marketplace of high-performance computing. citation:51 ncitation:39 pid1035626
+title1:The marketplace of high-performance computing. citation:51 ncitation:39 pid1035626
+title1:Trends in High Performance Computing. citation:22 ncitation:14 pid790244
+title1:Trends in High Performance Computing. citation:22 ncitation:14 pid790244
+title1:Trends in High Performance Computing. citation:22 ncitation:14 pid790244
+title1:High Performance Linear Algebra Package LAPACK90. citation:7 ncitation:7 pid408784
+title1:High Performance Linear Algebra Package LAPACK90. citation:7 ncitation:7 pid408784
+title1:High Performance Linear Algebra Package LAPACK90. citation:7 ncitation:7 pid408784
+title1:A Comparison of Parallel Solvers for Diagonally Dominant and General Narrow-Banded Linear Systems II. citation:22 ncitation:21 pid195844
+title1:A Comparison of Parallel Solvers for Diagonally Dominant and General Narrow-Banded Linear Systems II. citation:22 ncitation:21 pid195844
+title1:A Comparison of Parallel Solvers for Diagonally Dominant and General Narrow-Banded Linear Systems II. citation:22 ncitation:21 pid195844
+title1:Reduction to condensed form for the eigenvalue problem on distributed memory architectures. citation:89 ncitation:88 pid1034412
+title1:Reduction to condensed form for the eigenvalue problem on distributed memory architectures. citation:89 ncitation:88 pid1034412
+title1:Reduction to condensed form for the eigenvalue problem on distributed memory architectures. citation:89 ncitation:88 pid1034412
+title1:Implementation of some concurrent algorithms for matrix factorization. citation:68 ncitation:57 pid1034422
+title1:Implementation of some concurrent algorithms for matrix factorization. citation:68 ncitation:57 pid1034422
+title1:New Grid Scheduling and Rescheduling Methods in the GrADS Project. citation:106 ncitation:212 pid918454
+title1:New Grid Scheduling and Rescheduling Methods in the GrADS Project. citation:106 ncitation:212 pid918454
+title1:Practical Experience in the Dangers of Heterogeneous Computing. citation:14 ncitation:15 pid528358
+title1:Practical Experience in the Dangers of Heterogeneous Computing. citation:14 ncitation:15 pid528358
+title1:The LINPACK Benchmark: An Explanation. citation:149 ncitation:155 pid360140
+title1:The LINPACK Benchmark: An Explanation. citation:149 ncitation:155 pid360140
+title1:The LINPACK Benchmark: An Explanation. citation:149 ncitation:155 pid360140
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:285 ncitation:356 pid528333
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:285 ncitation:356 pid528333
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:285 ncitation:356 pid528333
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:285 ncitation:356 pid528333
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:285 ncitation:356 pid528333
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:285 ncitation:356 pid528333
+title1:Design and Implementation of the ScaLAPACK LU, QR, and Cholesky Factorization Routines. citation:221 ncitation:217 pid1073275
+title1:Design and Implementation of the ScaLAPACK LU, QR, and Cholesky Factorization Routines. citation:221 ncitation:217 pid1073275
+title1:Design and Implementation of the ScaLAPACK LU, QR, and Cholesky Factorization Routines. citation:221 ncitation:217 pid1073275
+title1:A Proposal for a Set of Parallel Basic Linear Algebra Subprograms. citation:204 ncitation:190 pid528339
+title1:A Proposal for a Set of Parallel Basic Linear Algebra Subprograms. citation:204 ncitation:190 pid528339
+title1:A Proposal for a Set of Parallel Basic Linear Algebra Subprograms. citation:204 ncitation:190 pid528339
+title1:Parallel Matrix Transpose Algorithms on Distributed Memory Concurrent Computers. citation:82 ncitation:45 pid1034288
+title1:Parallel Matrix Transpose Algorithms on Distributed Memory Concurrent Computers. citation:82 ncitation:45 pid1034288
+title1:Parallel Matrix Transpose Algorithms on Distributed Memory Concurrent Computers. citation:82 ncitation:45 pid1034288
+title1:Parallel Matrix Transpose Algorithms on Distributed Memory Concurrent Computers. citation:82 ncitation:45 pid1034288
+title1:Using Agent-Based Software for Scientific Computing in the NetSolve System. citation:25 ncitation:22 pid1034293
+title1:Using Agent-Based Software for Scientific Computing in the NetSolve System. citation:25 ncitation:22 pid1034293
+title1:Review of Performance Analysis Tools for MPI Parallel Programs. citation:4 ncitation:39 pid556118
+title1:Review of Performance Analysis Tools for MPI Parallel Programs. citation:4 ncitation:39 pid556118
+title1:Scheduling dense linear algebra operations on multicore processors. citation:41 ncitation:30 pid2852629
+title1:Scheduling dense linear algebra operations on multicore processors. citation:41 ncitation:30 pid2852629
+title1:Squeezing the most out of an algorithm in CRAY FORTRAN. citation:173 ncitation:162 pid2871050
+title1:Squeezing the most out of an algorithm in CRAY FORTRAN. citation:173 ncitation:162 pid2871050
+title1:An extended set of FORTRAN basic linear algebra subprograms. citation:73 ncitation:5 pid2871125
+title1:An extended set of FORTRAN basic linear algebra subprograms. citation:73 ncitation:5 pid2871125
+title1:Algorithm 656: an extended set of basic linear algebra subprograms: model implementation and test programs. citation:230 ncitation:236 pid2871136
+title1:Algorithm 656: an extended set of basic linear algebra subprograms: model implementation and test programs. citation:230 ncitation:236 pid2871136
+title1:Preface. citation:0 ncitation:-1 pid2939045
+title1:Preface. citation:0 ncitation:-1 pid2939045
+title1:Preface. citation:0 ncitation:-1 pid2939045
+title1:Preface. citation:0 ncitation:-1 pid2939045
+title1:Fully Empirical Autotuned QR Factorization For Multicore Architectures citation:9 ncitation:5 pid3064215
+title1:Fully Empirical Autotuned QR Factorization For Multicore Architectures citation:9 ncitation:5 pid3064215
+title1:Preface. citation:109 ncitation:-1 pid3092710
+title1:Preface. citation:109 ncitation:-1 pid3092710
+title1:Preface. citation:109 ncitation:-1 pid3092710
+title1:Solving linear systems on vector and shared memory computers. citation:631 ncitation:625 pid3169213
+title1:Solving linear systems on vector and shared memory computers. citation:631 ncitation:625 pid3169213
+title1:Solving linear systems on vector and shared memory computers. citation:631 ncitation:625 pid3169213
+title1:Solving linear systems on vector and shared memory computers. citation:631 ncitation:625 pid3169213
+title1:Solving linear systems on vector and shared memory computers. citation:631 ncitation:625 pid3169213
+title1:Correlated Set Coordination in Fault Tolerant Message Logging Protocols. citation:19 ncitation:9 pid3176999
+title1:Correlated Set Coordination in Fault Tolerant Message Logging Protocols. citation:19 ncitation:9 pid3176999
+title1:Kernel Assisted Collective Intra-node MPI Communication among Multi-Core and Many-Core CPUs. citation:10 ncitation:7 pid3201634
+title1:Kernel Assisted Collective Intra-node MPI Communication among Multi-Core and Many-Core CPUs. citation:10 ncitation:7 pid3201634
+title1:Preface. citation:0 ncitation:-1 pid3261065
+title1:Preface. citation:0 ncitation:-1 pid3261065
+title1:Preface. citation:0 ncitation:-1 pid3261065
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:PLASMA. citation:135 ncitation:-1 pid3271166
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:33 ncitation:-1 pid3271240
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:336 ncitation:-1 pid3271359
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:72 ncitation:-1 pid3271477
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:100 ncitation:3 pid3271553
+title1:Benchmarks. citation:167 ncitation:-1 pid3271590
+title1:Benchmarks. citation:167 ncitation:-1 pid3271590
+title1:Benchmarks. citation:167 ncitation:-1 pid3271590
+title1:Benchmarks. citation:167 ncitation:-1 pid3271590
+title1:Benchmarks. citation:167 ncitation:-1 pid3271590
+title1:Benchmarks. citation:167 ncitation:-1 pid3271590
+title1:Benchmarks. citation:167 ncitation:-1 pid3271590
+title1:Benchmarks. citation:167 ncitation:-1 pid3271590
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:LAPACK. citation:4310 ncitation:-1 pid3271652
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:TOP500. citation:165 ncitation:-1 pid3271877
+title1:A Comparison of Parallel Solvers for Diagonally Dominant and General Narrow-Banded Linear Systems. citation:22 ncitation:21 pid3348273
+title1:A Comparison of Parallel Solvers for Diagonally Dominant and General Narrow-Banded Linear Systems. citation:22 ncitation:21 pid3348273
+title1:A fast algorithm for the symmetric eigenvalue problem. citation:3 ncitation:-1 pid3435940
+title1:A fast algorithm for the symmetric eigenvalue problem. citation:3 ncitation:-1 pid3435940
+title1:A fast algorithm for the symmetric eigenvalue problem. citation:3 ncitation:-1 pid3435940
+title1:BlackjackBench: portable hardware characterization. citation:3 ncitation:0 pid3484019
+title1:BlackjackBench: portable hardware characterization. citation:3 ncitation:0 pid3484019
+title1:Reducing the Time to Tune Parallel Dense Linear Algebra Routines with Partial Execution and Performance Modeling. citation:7 ncitation:0 pid3486032
+title1:Reducing the Time to Tune Parallel Dense Linear Algebra Routines with Partial Execution and Performance Modeling. citation:7 ncitation:0 pid3486032
+title1:Automatically Tuned Linear Algebra Software. citation:18 ncitation:753 pid3491162
+title1:Automatically Tuned Linear Algebra Software. citation:18 ncitation:753 pid3491162
+title1:Automatically Tuned Linear Algebra Software. citation:18 ncitation:753 pid3491162
+title1:Automatically Tuned Linear Algebra Software. citation:18 ncitation:753 pid3491162
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:6 ncitation:357 pid3491199
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:6 ncitation:357 pid3491199
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:6 ncitation:357 pid3491199
+title1:ScaLAPACK: A Portable Linear Algebra Library for Distributed Memory Computers - Design Issues and Performance. citation:6 ncitation:357 pid3491199

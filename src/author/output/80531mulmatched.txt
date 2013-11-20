@@ -1,0 +1,26 @@
+title1:Theoretical and Practical Considerations of Uncertainty and Complexity in Automated Knowledge Acquisition. citation:0 ncitation:9 pid1113858
+title1:Theoretical and Practical Considerations of Uncertainty and Complexity in Automated Knowledge Acquisition. citation:0 ncitation:9 pid1113858
+title1:Applying a mediator architecture employing XML to retailing inventory control. citation:30 ncitation:29 pid995784
+title1:Applying a mediator architecture employing XML to retailing inventory control. citation:30 ncitation:29 pid995784
+title1:Repute Relationships for Reputation Management in Peer-to-Peer Communication - I. citation:1 ncitation:-1 pid126302
+title1:Repute Relationships for Reputation Management in Peer-to-Peer Communication - I. citation:1 ncitation:-1 pid126302
+title1:SWWS 2009 PC Co-chairs' Message. citation:0 ncitation:-1 pid1253833
+title1:SWWS 2009 PC Co-chairs' Message. citation:0 ncitation:-1 pid1253833
+title1:Ontology Views: A Theoretical Perspective. citation:6 ncitation:8 pid524692
+title1:Ontology Views: A Theoretical Perspective. citation:6 ncitation:8 pid524692
+title1:Reputation Ontology for Reputation Systems. citation:0 ncitation:8 pid524675
+title1:Reputation Ontology for Reputation Systems. citation:0 ncitation:8 pid524675
+title1:Biomedical Data and Applications citation:0 ncitation:1 pid1301237
+title1:Biomedical Data and Applications citation:0 ncitation:1 pid1301237
+title1:SWWS 2006 PC Co-chairs' Message. citation:0 ncitation:-1 pid524666
+title1:SWWS 2006 PC Co-chairs' Message. citation:0 ncitation:-1 pid524666
+title1:Local Compilation: A Novel Paradigm for Multilanguage-Based and Reliable Distributed Computing over the Internet. citation:4 ncitation:4 pid1281196
+title1:Local Compilation: A Novel Paradigm for Multilanguage-Based and Reliable Distributed Computing over the Internet. citation:4 ncitation:4 pid1281196
+title1:Reputation Ontology for Reputation Systems. citation:0 ncitation:8 pid523940
+title1:Reputation Ontology for Reputation Systems. citation:0 ncitation:8 pid523940
+title1:SWWS 2005 PC Co-chairs' Message. citation:0 ncitation:-1 pid524047
+title1:SWWS 2005 PC Co-chairs' Message. citation:0 ncitation:-1 pid524047
+title1:SWWS 2008 PC Co-chairs' Message. citation:0 ncitation:-1 pid525169
+title1:SWWS 2008 PC Co-chairs' Message. citation:0 ncitation:-1 pid525169
+title1:Automated knowledge acquisition. citation:147 ncitation:143 pid3006344
+title1:Automated knowledge acquisition. citation:147 ncitation:143 pid3006344

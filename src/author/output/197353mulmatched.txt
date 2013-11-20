@@ -1,0 +1,73 @@
+title1:Semantic Web Search Based on Ontological Conjunctive Queries. citation:0 ncitation:20 pid1322448
+title1:Semantic Web Search Based on Ontological Conjunctive Queries. citation:0 ncitation:20 pid1322448
+title1:Monadic Datalog and the Expressive Power of Languages for Web Information Extraction. citation:89 ncitation:120 pid545072
+title1:Monadic Datalog and the Expressive Power of Languages for Web Information Extraction. citation:89 ncitation:120 pid545072
+title1:The complexity of XPath query evaluation. citation:73 ncitation:135 pid545074
+title1:The complexity of XPath query evaluation. citation:73 ncitation:135 pid545074
+title1:Second-Order Logic over Finite Structures - Report on a Research Programme. citation:0 ncitation:2 pid71510
+title1:Second-Order Logic over Finite Structures - Report on a Research Programme. citation:0 ncitation:2 pid71510
+title1:Monadic datalog over finite structures with bounded treewidth. citation:25 ncitation:21 pid545594
+title1:Monadic datalog over finite structures with bounded treewidth. citation:25 ncitation:21 pid545594
+title1:Complexity of Nested Circumscription and Abnormality Theories. citation:0 ncitation:3 pid387850
+title1:Complexity of Nested Circumscription and Abnormality Theories. citation:0 ncitation:3 pid387850
+title1:Default Logic as a Query Language. citation:89 ncitation:86 pid1112384
+title1:Default Logic as a Query Language. citation:89 ncitation:86 pid1112384
+title1:Computing LOGCFL Certificates. citation:5 ncitation:27 pid268116
+title1:Computing LOGCFL Certificates. citation:5 ncitation:27 pid268116
+title1:The Complexity of Logic-Based Abduction. citation:328 ncitation:308 pid950177
+title1:The Complexity of Logic-Based Abduction. citation:328 ncitation:308 pid950177
+title1:Existential second-order logic over strings. citation:24 ncitation:23 pid950179
+title1:Existential second-order logic over strings. citation:24 ncitation:23 pid950179
+title1:Disjunctive Datalog. citation:429 ncitation:398 pid1118326
+title1:Disjunctive Datalog. citation:429 ncitation:398 pid1118326
+title1:Disjunctive Datalog. citation:429 ncitation:398 pid1118326
+title1:The Complexity of Nested Counterfactuals and Iterated Knowledge Base Revisions. citation:30 ncitation:29 pid971856
+title1:The Complexity of Nested Counterfactuals and Iterated Knowledge Base Revisions. citation:30 ncitation:29 pid971856
+title1:The Lixto Project: Exploring New Frontiers of Web Data Extraction. citation:15 ncitation:14 pid67838
+title1:The Lixto Project: Exploring New Frontiers of Web Data Extraction. citation:15 ncitation:14 pid67838
+title1:The DLV System. citation:0 ncitation:53 pid469205
+title1:The DLV System. citation:0 ncitation:53 pid469205
+title1:The DLV System. citation:0 ncitation:53 pid469205
+title1:The DLV System. citation:0 ncitation:53 pid469205
+title1:Integrating Semi-structured Data into Business Applications: A Web Intelligence Example. citation:3 ncitation:2 pid664620
+title1:Integrating Semi-structured Data into Business Applications: A Web Intelligence Example. citation:3 ncitation:2 pid664620
+title1:Logic Programming and Databases citation:928 ncitation:871 pid3148
+title1:Logic Programming and Databases citation:928 ncitation:871 pid3148
+title1:Fixed-Parameter Complexity in AI and Nonmonotonic Reasoning. citation:76 ncitation:46 pid487697
+title1:Fixed-Parameter Complexity in AI and Nonmonotonic Reasoning. citation:76 ncitation:46 pid487697
+title1:Multiagent Compromises, Joint Fixpoints, and Stable Models. citation:23 ncitation:22 pid65679
+title1:Multiagent Compromises, Joint Fixpoints, and Stable Models. citation:23 ncitation:22 pid65679
+title1:Visual Programming of Web Data Aggregation Applications. citation:11 ncitation:11 pid387515
+title1:Visual Programming of Web Data Aggregation Applications. citation:11 ncitation:11 pid387515
+title1:On the Complexity of Single-Rule Datalog Queries. citation:2 ncitation:25 pid487158
+title1:On the Complexity of Single-Rule Datalog Queries. citation:2 ncitation:25 pid487158
+title1:A Formal Comparison of Visual Web Wrapper Generators citation:4 ncitation:3 pid817513
+title1:A Formal Comparison of Visual Web Wrapper Generators citation:4 ncitation:3 pid817513
+title1:Efficient algorithms for processing XPath queries. citation:511 ncitation:502 pid1118415
+title1:Efficient algorithms for processing XPath queries. citation:511 ncitation:502 pid1118415
+title1:Semantics and Complexity of Abduction from Default Theories. citation:46 ncitation:40 pid744754
+title1:Semantics and Complexity of Abduction from Default Theories. citation:46 ncitation:40 pid744754
+title1:Pure Nash equilibria: hard and easy games. citation:119 ncitation:113 pid626756
+title1:Pure Nash equilibria: hard and easy games. citation:119 ncitation:113 pid626756
+title1:The Lixto Systems Applications in Business Intelligence and Semantic Web. citation:19 ncitation:16 pid190134
+title1:The Lixto Systems Applications in Business Intelligence and Semantic Web. citation:19 ncitation:16 pid190134
+title1:Translation and Optimization of Logic Queries: The Algebraic Approach. citation:0 ncitation:49 pid642192
+title1:Translation and Optimization of Logic Queries: The Algebraic Approach. citation:0 ncitation:49 pid642192
+title1:Expressive Power and Complexity of Disjunctive Datalog under the Stable Model Semantics. citation:0 ncitation:5 pid436430
+title1:Expressive Power and Complexity of Disjunctive Datalog under the Stable Model Semantics. citation:0 ncitation:5 pid436430
+title1:Bounded Treewidth as a Key to Tractability of Knowledge Representation and Reasoning. citation:20 ncitation:32 pid12999
+title1:Bounded Treewidth as a Key to Tractability of Knowledge Representation and Reasoning. citation:20 ncitation:32 pid12999
+title1:The Personal Publication Reader. citation:21 ncitation:22 pid583312
+title1:The Personal Publication Reader. citation:21 ncitation:22 pid583312
+title1:Web Information Acquisition with Lixto Suite. citation:9 ncitation:-1 pid299446
+title1:Web Information Acquisition with Lixto Suite. citation:9 ncitation:-1 pid299446
+title1:XPath processing in a nutshell. citation:36 ncitation:33 pid1065050
+title1:XPath processing in a nutshell. citation:36 ncitation:33 pid1065050
+title1:Computational Logic and Proof Theory, Third Kurt Gödel Colloquium, KGC'93, Brno, Czech Republic, August 24-27, 1993, Proceedings citation:0 ncitation:2 pid2805533
+title1:Computational Logic and Proof Theory, Third Kurt Gödel Colloquium, KGC'93, Brno, Czech Republic, August 24-27, 1993, Proceedings citation:0 ncitation:2 pid2805533
+title1:Query Answering under Expressive Entity-Relationship Schemata. citation:10 ncitation:13 pid2899855
+title1:Query Answering under Expressive Entity-Relationship Schemata. citation:10 ncitation:13 pid2899855
+title1:Ontological queries: Rewriting and optimization. citation:4 ncitation:40 pid3018231
+title1:Ontological queries: Rewriting and optimization. citation:4 ncitation:40 pid3018231
+title1:Determining relevance of accesses at runtime. citation:1 ncitation:9 pid3026546
+title1:Determining relevance of accesses at runtime. citation:1 ncitation:9 pid3026546

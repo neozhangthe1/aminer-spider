@@ -1,0 +1,58 @@
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:20 ncitation:32 pid173971
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:20 ncitation:32 pid173971
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:20 ncitation:32 pid173971
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:20 ncitation:32 pid173971
+title1:Quality in Conceptual Modeling - New Research Directions. citation:28 ncitation:27 pid183762
+title1:Quality in Conceptual Modeling - New Research Directions. citation:28 ncitation:27 pid183762
+title1:Including Routes in Web Information Systems as a Way to Improve the Navigability: An Empirical Study. citation:4 ncitation:3 pid664089
+title1:Including Routes in Web Information Systems as a Way to Improve the Navigability: An Empirical Study. citation:4 ncitation:3 pid664089
+title1:Towards a UML 2.0 Extension for the Modeling of Security Requirements in Business Processes. citation:47 ncitation:39 pid631032
+title1:Towards a UML 2.0 Extension for the Modeling of Security Requirements in Business Processes. citation:47 ncitation:39 pid631032
+title1:Defining and validating metrics for assessing the understandability of entity-relationship diagrams. citation:60 ncitation:53 pid846487
+title1:Defining and validating metrics for assessing the understandability of entity-relationship diagrams. citation:60 ncitation:53 pid846487
+title1:Analysis-Level Classes from Secure Business Processes Through Model Transformations. citation:10 ncitation:9 pid630935
+title1:Analysis-Level Classes from Secure Business Processes Through Model Transformations. citation:10 ncitation:9 pid630935
+title1:Metrics for Active Database Maintainability. citation:7 ncitation:7 pid74044
+title1:Metrics for Active Database Maintainability. citation:7 ncitation:7 pid74044
+title1:Applying Trust, Reputation and Intuition Aspects to Support Virtual Communities of Practice. citation:3 ncitation:2 pid475978
+title1:Applying Trust, Reputation and Intuition Aspects to Support Virtual Communities of Practice. citation:3 ncitation:2 pid475978
+title1:Applying Software Metrics to evaluate Business Process Models. citation:25 ncitation:21 pid792772
+title1:Applying Software Metrics to evaluate Business Process Models. citation:25 ncitation:21 pid792772
+title1:Strategies to Minimize Problems in Global Requirements Elicitation. citation:13 ncitation:10 pid792704
+title1:Strategies to Minimize Problems in Global Requirements Elicitation. citation:13 ncitation:10 pid792704
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:20 ncitation:32 pid173429
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:20 ncitation:32 pid173429
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:1 ncitation:32 pid173433
+title1:Quantitative Approaches in Object-Oriented Software Engineering. citation:1 ncitation:32 pid173433
+title1:Quality of UML models. citation:8 ncitation:-1 pid1275632
+title1:Quality of UML models. citation:8 ncitation:-1 pid1275632
+title1:Data Warehouse Security. citation:2 ncitation:-1 pid1297422
+title1:Data Warehouse Security. citation:2 ncitation:-1 pid1297422
+title1:Validation of Metrics for Object-Relational Databases. citation:12 ncitation:12 pid173562
+title1:Validation of Metrics for Object-Relational Databases. citation:12 ncitation:12 pid173562
+title1:Using Practitioners for Assessing the Understandability of UML Statechart Diagrams with Composite States. citation:16 ncitation:9 pid184196
+title1:Using Practitioners for Assessing the Understandability of UML Statechart Diagrams with Composite States. citation:16 ncitation:9 pid184196
+title1:Improving Object-Oriented Micro Architectural Design Through Knowledge Systematization. citation:0 ncitation:0 pid183261
+title1:Improving Object-Oriented Micro Architectural Design Through Knowledge Systematization. citation:0 ncitation:0 pid183261
+title1:Assessing Object-Oriented Conceptual Models Maintainability. citation:11 ncitation:9 pid183275
+title1:Assessing Object-Oriented Conceptual Models Maintainability. citation:11 ncitation:9 pid183275
+title1:Representation of Fuzzy Knowledge in Relational Databases. citation:15 ncitation:15 pid151388
+title1:Representation of Fuzzy Knowledge in Relational Databases. citation:15 ncitation:15 pid151388
+title1:Classifying Web Metrics. citation:3 ncitation:3 pid308572
+title1:Classifying Web Metrics. citation:3 ncitation:3 pid308572
+title1:Experimental Validation of Multidimensional Data Models Metrics. citation:16 ncitation:12 pid247972
+title1:Experimental Validation of Multidimensional Data Models Metrics. citation:16 ncitation:12 pid247972
+title1:Data Warehouse Development. citation:0 ncitation:0 pid916
+title1:Data Warehouse Development. citation:0 ncitation:0 pid916
+title1:Using a Multi-agent Architecture to Manage Knowledge in the Software Maintenance Process. citation:9 ncitation:10 pid475453
+title1:Using a Multi-agent Architecture to Manage Knowledge in the Software Maintenance Process. citation:9 ncitation:10 pid475453
+title1:Component-Based Software Quality - Methods and Techniques citation:30 ncitation:30 pid2778443
+title1:Component-Based Software Quality - Methods and Techniques citation:30 ncitation:30 pid2778443
+title1:Analysis of Secure Mobile Grid Systems: A systematic approach. citation:14 ncitation:9 pid2861980
+title1:Analysis of Secure Mobile Grid Systems: A systematic approach. citation:14 ncitation:9 pid2861980
+title1:Requirements and constructors for tailoring software processes: a systematic literature review. citation:4 ncitation:1 pid3269682
+title1:Requirements and constructors for tailoring software processes: a systematic literature review. citation:4 ncitation:1 pid3269682
+title1:Information and Database Quality citation:10 ncitation:11 pid3322887
+title1:Information and Database Quality citation:10 ncitation:11 pid3322887
+title1:Towards an ontology for global software development. citation:2 ncitation:-1 pid3463092
+title1:Towards an ontology for global software development. citation:2 ncitation:-1 pid3463092

@@ -1,0 +1,57 @@
+title1:Algorithmic Motion Planning in Robotics. citation:206 ncitation:76 pid719
+title1:Algorithmic Motion Planning in Robotics. citation:206 ncitation:76 pid719
+title1:On Vertical Decomposition of Arrangements of Hyperplanes in Four Dimensions. citation:12 ncitation:12 pid82044
+title1:On Vertical Decomposition of Arrangements of Hyperplanes in Four Dimensions. citation:12 ncitation:12 pid82044
+title1:The 2-center problem with obstacles. citation:25 ncitation:24 pid111126
+title1:The 2-center problem with obstacles. citation:25 ncitation:24 pid111126
+title1:Optical Computational Geometry. citation:9 ncitation:7 pid111209
+title1:Optical Computational Geometry. citation:9 ncitation:7 pid111209
+title1:Translating a Planar Object to Maximize Point Containment. citation:17 ncitation:15 pid185865
+title1:Translating a Planar Object to Maximize Point Containment. citation:17 ncitation:15 pid185865
+title1:Speeding Up the Incremental Construction of the Union of Geometric Objects in Practice. citation:3 ncitation:8 pid186142
+title1:Speeding Up the Incremental Construction of the Union of Geometric Objects in Practice. citation:3 ncitation:8 pid186142
+title1:Ray Shooting and Stone Throwing. citation:8 ncitation:2 pid186500
+title1:Ray Shooting and Stone Throwing. citation:8 ncitation:2 pid186500
+title1:Fat Triangles Determine Linearly Many Holes citation:150 ncitation:147 pid211374
+title1:Fat Triangles Determine Linearly Many Holes citation:150 ncitation:147 pid211374
+title1:Output-Sensitive Hidden Surface Removal citation:51 ncitation:50 pid211495
+title1:Output-Sensitive Hidden Surface Removal citation:51 ncitation:50 pid211495
+title1:A Singly-Expenential Stratification Scheme for Real Semi-Algebraic Varieties and Its Applications. citation:98 ncitation:98 pid267621
+title1:A Singly-Expenential Stratification Scheme for Real Semi-Algebraic Varieties and Its Applications. citation:98 ncitation:98 pid267621
+title1:Concurrent Probabilistic Program, or: How to Schedule if You Must. citation:14 ncitation:13 pid268188
+title1:Concurrent Probabilistic Program, or: How to Schedule if You Must. citation:14 ncitation:13 pid268188
+title1:Geometrically aware communication in random wireless networks. citation:19 ncitation:19 pid544182
+title1:Geometrically aware communication in random wireless networks. citation:19 ncitation:19 pid544182
+title1:A Hyperplane Incidence Problem with Applications to Counting Distances. citation:25 ncitation:21 pid588314
+title1:A Hyperplane Incidence Problem with Applications to Counting Distances. citation:25 ncitation:21 pid588314
+title1:Efficient Generation of k-Directional Assembly Sequences. citation:28 ncitation:33 pid609773
+title1:Efficient Generation of k-Directional Assembly Sequences. citation:28 ncitation:33 pid609773
+title1:Computing maximally separated sets in the plane and independent sets in the intersection graph of unit disks. citation:6 ncitation:6 pid609789
+title1:Computing maximally separated sets in the plane and independent sets in the intersection graph of unit disks. citation:6 ncitation:6 pid609789
+title1:Computing a Face in an Arrangement of Line Segments. citation:52 ncitation:21 pid610195
+title1:Computing a Face in an Arrangement of Line Segments. citation:52 ncitation:21 pid610195
+title1:Online point location in planar arrangements and its applications. citation:20 ncitation:19 pid610718
+title1:Online point location in planar arrangements and its applications. citation:20 ncitation:19 pid610718
+title1:Weak &epsilon;-nets and interval chains. citation:14 ncitation:13 pid611646
+title1:Weak &epsilon;-nets and interval chains. citation:14 ncitation:13 pid611646
+title1:Reporting Intersecting Pairs of Polytopes in Two and Three Dimensions. citation:6 ncitation:-1 pid651096
+title1:Reporting Intersecting Pairs of Polytopes in Two and Three Dimensions. citation:6 ncitation:-1 pid651096
+title1:Reporting Intersecting Pairs of Polytopes in Two and Three Dimensions. citation:6 ncitation:-1 pid651096
+title1:Applications of a New Space Partitioning Technique. citation:86 ncitation:83 pid651104
+title1:Applications of a New Space Partitioning Technique. citation:86 ncitation:83 pid651104
+title1:Cell Complexities in Hyperplane Arrangements. citation:2 ncitation:2 pid842891
+title1:Cell Complexities in Hyperplane Arrangements. citation:2 ncitation:2 pid842891
+title1:The Overlay of Lower Envelopes and Its Applications. citation:90 ncitation:88 pid842912
+title1:The Overlay of Lower Envelopes and Its Applications. citation:90 ncitation:88 pid842912
+title1:On the Complexity of Arrangements of Circles in the Plane. citation:25 ncitation:21 pid842958
+title1:On the Complexity of Arrangements of Circles in the Plane. citation:25 ncitation:21 pid842958
+title1:k-Sets in Four Dimensions. citation:11 ncitation:10 pid843758
+title1:k-Sets in Four Dimensions. citation:11 ncitation:10 pid843758
+title1:The Upper Envelope of Piecewise Linear Functions and the Boundary of a Region Enclosed by Convex Plates: Combinatorial Analysis. citation:71 ncitation:65 pid843777
+title1:The Upper Envelope of Piecewise Linear Functions and the Boundary of a Region Enclosed by Convex Plates: Combinatorial Analysis. citation:71 ncitation:65 pid843777
+title1:Computing the Detour and Spanning Ratio of Paths, Trees, and Cycles in 2D and 3D. citation:24 ncitation:27 pid844163
+title1:Computing the Detour and Spanning Ratio of Paths, Trees, and Cycles in 2D and 3D. citation:24 ncitation:27 pid844163
+title1:Computing Maximally Separated Sets in the Plane. citation:2 ncitation:4 pid1060712
+title1:Computing Maximally Separated Sets in the Plane. citation:2 ncitation:4 pid1060712
+title1:Davenport-Schinzel sequences and their geometric applications. citation:37 ncitation:696 pid3005728
+title1:Davenport-Schinzel sequences and their geometric applications. citation:37 ncitation:696 pid3005728

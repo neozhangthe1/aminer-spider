@@ -1,0 +1,45 @@
+title1:Preface. citation:2 ncitation:-1 pid1037837
+title1:Preface. citation:2 ncitation:-1 pid1037837
+title1:A Proposal for a Fortran 90 Interface for LAPACK. citation:3 ncitation:3 pid528385
+title1:A Proposal for a Fortran 90 Interface for LAPACK. citation:3 ncitation:3 pid528385
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:Recent Advances in Parallel Virtual Machine and Message Passing Interface. citation:3 ncitation:5 pid1295464
+title1:High Performance Linear Algebra Package LAPACK90. citation:7 ncitation:7 pid408784
+title1:High Performance Linear Algebra Package LAPACK90. citation:7 ncitation:7 pid408784
+title1:High Performance Linear Algebra Package LAPACK90. citation:7 ncitation:7 pid408784
+title1:Rectangular Full Packed Format for Cholesky's Algorithm: Factorization, Solution and Inversion citation:5 ncitation:3 pid829460
+title1:Rectangular Full Packed Format for Cholesky's Algorithm: Factorization, Solution and Inversion citation:5 ncitation:3 pid829460
+title1:LINPACK Benchmark. citation:3 ncitation:-1 pid3271240
+title1:LINPACK Benchmark. citation:3 ncitation:-1 pid3271240
+title1:ScaLAPACK. citation:335 ncitation:-1 pid3271359
+title1:ScaLAPACK. citation:335 ncitation:-1 pid3271359
+title1:Linear Algebra Software. citation:1 ncitation:-1 pid3271477
+title1:Linear Algebra Software. citation:1 ncitation:-1 pid3271477
+title1:HPC Challenge Benchmark. citation:6 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:6 ncitation:3 pid3271553
+title1:HPC Challenge Benchmark. citation:6 ncitation:3 pid3271553
+title1:Benchmarks. citation:6 ncitation:-1 pid3271590
+title1:Benchmarks. citation:6 ncitation:-1 pid3271590
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:LAPACK. citation:5 ncitation:-1 pid3271652
+title1:TOP500. citation:4 ncitation:-1 pid3271877
+title1:TOP500. citation:4 ncitation:-1 pid3271877
+title1:Reducing the Time to Tune Parallel Dense Linear Algebra Routines with Partial Execution and Performance Modeling. citation:7 ncitation:0 pid3486032
+title1:Reducing the Time to Tune Parallel Dense Linear Algebra Routines with Partial Execution and Performance Modeling. citation:7 ncitation:0 pid3486032

@@ -1,0 +1,224 @@
+title1:On Three Classes of Automata-Like P Systems. citation:22 ncitation:22 pid158311
+title1:On Three Classes of Automata-Like P Systems. citation:22 ncitation:22 pid158311
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:Membrane Computing. citation:280 ncitation:1349 pid204392
+title1:From DNA Recombination to DNA Computing, Via Formal Languages. citation:4 ncitation:2 pid223291
+title1:From DNA Recombination to DNA Computing, Via Formal Languages. citation:4 ncitation:2 pid223291
+title1:Learning computing models from cells and tissues: P systems. citation:0 ncitation:0 pid411689
+title1:Learning computing models from cells and tissues: P systems. citation:0 ncitation:0 pid411689
+title1:DNA Computing Based on Splicing: Universality Results. citation:31 ncitation:30 pid491272
+title1:DNA Computing Based on Splicing: Universality Results. citation:31 ncitation:30 pid491272
+title1:Membrane Computing as a Framework for Modeling Economic Processes. citation:7 ncitation:25 pid685226
+title1:Membrane Computing as a Framework for Modeling Economic Processes. citation:7 ncitation:25 pid685226
+title1:Introduction to Membrane Computing. citation:88 ncitation:77 pid709896
+title1:Introduction to Membrane Computing. citation:88 ncitation:77 pid709896
+title1:P Systems with Communication Based on Concentration. citation:2 ncitation:2 pid741770
+title1:P Systems with Communication Based on Concentration. citation:2 ncitation:2 pid741770
+title1:Test Tube Distributed Systems Based on Splicing. citation:107 ncitation:106 pid781071
+title1:Test Tube Distributed Systems Based on Splicing. citation:107 ncitation:106 pid781071
+title1:On the Splicing Operation. citation:100 ncitation:94 pid837796
+title1:On the Splicing Operation. citation:100 ncitation:94 pid837796
+title1:Marcus Contextual Grammars. citation:179 ncitation:171 pid860560
+title1:Marcus Contextual Grammars. citation:179 ncitation:171 pid860560
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Splicing. citation:109 ncitation:-1 pid860561
+title1:Membrane Computing with External Output. citation:92 ncitation:87 pid882258
+title1:Membrane Computing with External Output. citation:92 ncitation:87 pid882258
+title1:On Synchronization in P Systems. citation:41 ncitation:39 pid882262
+title1:On Synchronization in P Systems. citation:41 ncitation:39 pid882262
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:Spiking Neural P Systems. citation:80 ncitation:216 pid882603
+title1:P Systems with Symport/Antiport Rules: The Traces of Objects. citation:18 ncitation:16 pid885136
+title1:P Systems with Symport/Antiport Rules: The Traces of Objects. citation:18 ncitation:16 pid885136
+title1:The Complement of a Finite Index Matrix Language Is Context Sensitive citation:1 ncitation:1 pid889141
+title1:The Complement of a Finite Index Matrix Language Is Context Sensitive citation:1 ncitation:1 pid889141
+title1:Computing with Membranes. citation:1532 ncitation:1445 pid972802
+title1:Computing with Membranes. citation:1532 ncitation:1445 pid972802
+title1:Computing with Membranes. citation:1532 ncitation:1445 pid972802
+title1:Computing with Membranes. citation:1532 ncitation:1445 pid972802
+title1:Second Brainstorming Week on Membrane Computing. citation:0 ncitation:-1 pid1002107
+title1:Second Brainstorming Week on Membrane Computing. citation:0 ncitation:-1 pid1002107
+title1:Bibliography of spiking neural P systems. citation:1 ncitation:0 pid1021555
+title1:Bibliography of spiking neural P systems. citation:1 ncitation:0 pid1021555
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:Membrane Computing. citation:0 ncitation:-1 pid1025255
+title1:DNA computing based on splicing: universality results. citation:0 ncitation:30 pid1091941
+title1:DNA computing based on splicing: universality results. citation:0 ncitation:30 pid1091941
+title1:Tissue P systems. citation:198 ncitation:185 pid1093257
+title1:Tissue P systems. citation:198 ncitation:185 pid1093257
+title1:A guide to membrane computing. citation:280 ncitation:274 pid1093937
+title1:A guide to membrane computing. citation:280 ncitation:274 pid1093937
+title1:Sticker Systems. citation:54 ncitation:46 pid1093938
+title1:Sticker Systems. citation:54 ncitation:46 pid1093938
+title1:Sticker Systems. citation:54 ncitation:46 pid1093938
+title1:Computing by Splicing. citation:109 ncitation:109 pid1093939
+title1:Computing by Splicing. citation:109 ncitation:109 pid1093939
+title1:Normal forms for spiking neural P systems. citation:71 ncitation:64 pid1095542
+title1:Normal forms for spiking neural P systems. citation:71 ncitation:64 pid1095542
+title1:Asynchronous spiking neural P systems. citation:33 ncitation:32 pid1227615
+title1:Asynchronous spiking neural P systems. citation:33 ncitation:32 pid1227615
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Membrane Computing. citation:266 ncitation:1349 pid1296417
+title1:Aspects of Molecular Computing, Essays Dedicated to Tom Head on the Occasion of His 70th Birthday citation:8 ncitation:9 pid2777360
+title1:Aspects of Molecular Computing, Essays Dedicated to Tom Head on the Occasion of His 70th Birthday citation:8 ncitation:9 pid2777360
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Membrane Computing. citation:34 ncitation:1349 pid2878064
+title1:Spiking Neural P Systems with Weights. citation:28 ncitation:15 pid2926108
+title1:Spiking Neural P Systems with Weights. citation:28 ncitation:15 pid2926108
+title1:Membrane Computing at Twelve Years. citation:0 ncitation:0 pid2949493
+title1:Membrane Computing at Twelve Years. citation:0 ncitation:0 pid2949493
+title1:Spiking Neural dP Systems. citation:6 ncitation:216 pid3261323
+title1:Spiking Neural dP Systems. citation:6 ncitation:216 pid3261323

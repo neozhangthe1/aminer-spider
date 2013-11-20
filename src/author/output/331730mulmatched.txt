@@ -1,0 +1,28 @@
+title1:Facilitating Workflow Evolution in an Advanced Object Environment. citation:1 ncitation:-1 pid140539
+title1:Facilitating Workflow Evolution in an Advanced Object Environment. citation:1 ncitation:-1 pid140539
+title1:Efficient query processing with associated horizontal class partitioning in an object relational data warehousing environment. citation:9 ncitation:10 pid158686
+title1:Efficient query processing with associated horizontal class partitioning in an object relational data warehousing environment. citation:9 ncitation:10 pid158686
+title1:Managing Interdepencies among Objects in Federated Databases. citation:14 ncitation:15 pid160652
+title1:Managing Interdepencies among Objects in Federated Databases. citation:14 ncitation:15 pid160652
+title1:Developing an Object-Oriented Video Database System with Spatio-Temporal Reasoning Capabilities. citation:17 ncitation:18 pid182995
+title1:Developing an Object-Oriented Video Database System with Spatio-Temporal Reasoning Capabilities. citation:17 ncitation:18 pid182995
+title1:Architecture and Mechanisms of a Web-Based Video Data Management System. citation:8 ncitation:8 pid329745
+title1:Architecture and Mechanisms of a Web-Based Video Data Management System. citation:8 ncitation:8 pid329745
+title1:Refining the Results of Automatic e-Textbook Construction by Clustering. citation:0 ncitation:-1 pid369600
+title1:Refining the Results of Automatic e-Textbook Construction by Clustering. citation:0 ncitation:-1 pid369600
+title1:Automatically Generating an e-Textbook on the Web. citation:17 ncitation:16 pid369602
+title1:Automatically Generating an e-Textbook on the Web. citation:17 ncitation:16 pid369602
+title1:Tackling the Challenges of Materialized View Design in Data Warehousing Environment. citation:10 ncitation:8 pid559985
+title1:Tackling the Challenges of Materialized View Design in Data Warehousing Environment. citation:10 ncitation:8 pid559985
+title1:Workflow View Driven Cross-Organizational Interoperability in a Web-Service Environment. citation:112 ncitation:106 pid659448
+title1:Workflow View Driven Cross-Organizational Interoperability in a Web-Service Environment. citation:112 ncitation:106 pid659448
+title1:Collecting Recipe Data from WWW Incrementally. citation:15 ncitation:-1 pid651966
+title1:Collecting Recipe Data from WWW Incrementally. citation:15 ncitation:-1 pid651966
+title1:Hybrid Method for Automated News Content Extraction from the Web. citation:11 ncitation:11 pid663697
+title1:Hybrid Method for Automated News Content Extraction from the Web. citation:11 ncitation:11 pid663697
+title1:Advances in Web Based Learning - ICWL 2006, 5th International Conference, Penang, Malaysia, July 19-21, 2006. Revised Papers citation:3 ncitation:-1 pid2798946
+title1:Advances in Web Based Learning - ICWL 2006, 5th International Conference, Penang, Malaysia, July 19-21, 2006. Revised Papers citation:3 ncitation:-1 pid2798946
+title1:Advances in Web Based Learning - ICWL 2008, 7th International Conference, Jinhua, China, August 20-22, 2008. Proceedings citation:1 ncitation:1 pid2798948
+title1:Advances in Web Based Learning - ICWL 2008, 7th International Conference, Jinhua, China, August 20-22, 2008. Proceedings citation:1 ncitation:1 pid2798948
+title1:Automatic Re-Organization of Group-Wised Web Courseware. citation:1 ncitation:3 pid2993879
+title1:Automatic Re-Organization of Group-Wised Web Courseware. citation:1 ncitation:3 pid2993879

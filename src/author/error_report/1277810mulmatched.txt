@@ -1,0 +1,47 @@
+title1:Localized Spanner Construction for Ad Hoc Networks with Variable Transmission Range. citation:1 ncitation:3 pid27096
+title1:Localized Spanner Construction for Ad Hoc Networks with Variable Transmission Range. citation:1 ncitation:3 pid27096
+title1:Approximating k-Spanner Problems for k>2. citation:19 ncitation:18 pid406783
+title1:Approximating k-Spanner Problems for k>2. citation:19 ncitation:18 pid406783
+title1:Station Layouts in the Presence of Location Constraints. citation:1 ncitation:1 pid415135
+title1:Station Layouts in the Presence of Location Constraints. citation:1 ncitation:1 pid415135
+title1:Approximation Algorithms for Minimum Time Broadcast. citation:47 ncitation:45 pid451409
+title1:Approximation Algorithms for Minimum Time Broadcast. citation:47 ncitation:45 pid451409
+title1:Labeling Schemes for Tree Representation. citation:9 ncitation:12 pid463615
+title1:Labeling Schemes for Tree Representation. citation:9 ncitation:12 pid463615
+title1:Low Stretch Spanning Trees. citation:23 ncitation:9 pid494354
+title1:Low Stretch Spanning Trees. citation:23 ncitation:9 pid494354
+title1:Tight Bounds on the Size of 2-Monopolies. citation:28 ncitation:26 pid604565
+title1:Tight Bounds on the Size of 2-Monopolies. citation:28 ncitation:26 pid604565
+title1:The Power of Small Coalitions in Graphs. citation:28 ncitation:27 pid604571
+title1:The Power of Small Coalitions in Graphs. citation:28 ncitation:27 pid604571
+title1:The Power of Small Coalitions in Graphs. citation:28 ncitation:27 pid604571
+title1:Labeling schemes for flow and connectivity. citation:68 ncitation:65 pid610865
+title1:Labeling schemes for flow and connectivity. citation:68 ncitation:65 pid610865
+title1:Asynchronous Resource Discovery in Peer to Peer Networks. citation:24 ncitation:24 pid617118
+title1:Asynchronous Resource Discovery in Peer to Peer Networks. citation:24 ncitation:24 pid617118
+title1:Distance Labeling Schemes for Well-Separated Graph Classes. citation:6 ncitation:45 pid620474
+title1:Distance Labeling Schemes for Well-Separated Graph Classes. citation:6 ncitation:45 pid620474
+title1:Low-Diameter Graph Decomposition is in NC. citation:16 ncitation:20 pid624080
+title1:Low-Diameter Graph Decomposition is in NC. citation:16 ncitation:20 pid624080
+title1:Generating Sparse 2-spanners. citation:70 ncitation:66 pid624213
+title1:Generating Sparse 2-spanners. citation:70 ncitation:66 pid624213
+title1:Approximation Algorithms for the Label-Cover and Red-Blue Set Cover Problems. citation:25 ncitation:24 pid624282
+title1:Approximation Algorithms for the Label-Cover and Red-Blue Set Cover Problems. citation:25 ncitation:24 pid624282
+title1:Time-Efficient Broadcasting in Radio Networks. citation:4 ncitation:4 pid654045
+title1:Time-Efficient Broadcasting in Radio Networks. citation:4 ncitation:4 pid654045
+title1:The Power of Small Coalitions in Graphs. citation:28 ncitation:27 pid836093
+title1:The Power of Small Coalitions in Graphs. citation:28 ncitation:27 pid836093
+title1:Concurrent dynamic logic. citation:119 ncitation:115 pid951283
+title1:Concurrent dynamic logic. citation:119 ncitation:115 pid951283
+title1:A Time-Randomness Trade-Off for Oblivious Routing. citation:39 ncitation:36 pid1060194
+title1:A Time-Randomness Trade-Off for Oblivious Routing. citation:39 ncitation:36 pid1060194
+title1:Square Meshes are not always Optimal. citation:85 ncitation:89 pid1078108
+title1:Square Meshes are not always Optimal. citation:85 ncitation:89 pid1078108
+title1:The Generalized Packet Routing Problem. citation:49 ncitation:51 pid1093971
+title1:The Generalized Packet Routing Problem. citation:49 ncitation:51 pid1093971
+title1:Tight Bounds For Distributed MST Verification. citation:16 ncitation:12 pid3028296
+title1:Tight Bounds For Distributed MST Verification. citation:16 ncitation:12 pid3028296
+title1:SINR Diagrams: Convexity and Its Applications in Wireless Networks. citation:4 ncitation:2 pid3466672
+title1:SINR Diagrams: Convexity and Its Applications in Wireless Networks. citation:4 ncitation:2 pid3466672
+title1:Randomized Distributed Decision citation:6 ncitation:1 pid3472995
+title1:Randomized Distributed Decision citation:6 ncitation:1 pid3472995

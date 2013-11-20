@@ -1,0 +1,38 @@
+title1:Data Mining: Concepts and Techniques citation:110 ncitation:17301 pid2333
+title1:Data Mining: Concepts and Techniques citation:110 ncitation:17301 pid2333
+title1:Data Mining: Concepts and Techniques citation:110 ncitation:17301 pid2333
+title1:Data Mining: Concepts and Techniques citation:110 ncitation:17301 pid2333
+title1:OLAP Mining: Integration of OLAP with Data Mining. citation:0 ncitation:163 pid160578
+title1:OLAP Mining: Integration of OLAP with Data Mining. citation:0 ncitation:163 pid160578
+title1:Efficient Mining of Partial Periodic Patterns in Time Series Database. citation:569 ncitation:544 pid300079
+title1:Efficient Mining of Partial Periodic Patterns in Time Series Database. citation:569 ncitation:544 pid300079
+title1:CCMine: Efficient Mining of Confidence-Closed Correlated Patterns. citation:37 ncitation:32 pid526845
+title1:CCMine: Efficient Mining of Confidence-Closed Correlated Patterns. citation:37 ncitation:32 pid526845
+title1:Data Mining Techniques. citation:106 ncitation:103 pid598032
+title1:Data Mining Techniques. citation:106 ncitation:103 pid598032
+title1:Mining Frequent Patterns without Candidate Generation. citation:1295 ncitation:4677 pid598830
+title1:Mining Frequent Patterns without Candidate Generation. citation:1295 ncitation:4677 pid598830
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Data Mining. citation:0 ncitation:-1 pid1297226
+title1:Mining knowledge from databases: an information network analysis approach. citation:15 ncitation:12 pid2814732
+title1:Mining knowledge from databases: an information network analysis approach. citation:15 ncitation:12 pid2814732
+title1:Data Mining - Know It All. citation:0 ncitation:26 pid3485763
+title1:Data Mining - Know It All. citation:0 ncitation:26 pid3485763

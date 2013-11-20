@@ -1,0 +1,4 @@
+title1:Multilevel Approach to Full-Chip Gridless Routing. citation:87 ncitation:83 pid281974
+title1:Multilevel Approach to Full-Chip Gridless Routing. citation:87 ncitation:83 pid281974
+title1:Global interconnect sizing and spacing with consideration of coupling capacitance. citation:51 ncitation:52 pid281977
+title1:Global interconnect sizing and spacing with consideration of coupling capacitance. citation:51 ncitation:52 pid281977

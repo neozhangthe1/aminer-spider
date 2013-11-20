@@ -1,0 +1,64 @@
+title1:Performance analysis of multicarrier CDMA systems with frequency offsets and random spreading under optimum combining. citation:21 ncitation:19 pid1087246
+title1:Performance analysis of multicarrier CDMA systems with frequency offsets and random spreading under optimum combining. citation:21 ncitation:19 pid1087246
+title1:Anonymous Peer-to-peer Communication Protocol over Mobile Ad-hoc Networks. citation:4 ncitation:4 pid704102
+title1:Anonymous Peer-to-peer Communication Protocol over Mobile Ad-hoc Networks. citation:4 ncitation:4 pid704102
+title1:Optimal Codeword Design for Precoded UWB (PUWB) Systems. citation:1 ncitation:1 pid703612
+title1:Optimal Codeword Design for Precoded UWB (PUWB) Systems. citation:1 ncitation:1 pid703612
+title1:Joint temporal-spatial rate control with approximating rate-distortion models. citation:4 ncitation:3 pid637482
+title1:Joint temporal-spatial rate control with approximating rate-distortion models. citation:4 ncitation:3 pid637482
+title1:TCP-friendly Internet video streaming employing variable frame-rate encoding and interpolation. citation:52 ncitation:48 pid1097017
+title1:TCP-friendly Internet video streaming employing variable frame-rate encoding and interpolation. citation:52 ncitation:48 pid1097017
+title1:Orthogonal Codes for MAI-Free MC-CDMA with Carrier Frequency Offsets (CFO). citation:2 ncitation:2 pid703655
+title1:Orthogonal Codes for MAI-Free MC-CDMA with Carrier Frequency Offsets (CFO). citation:2 ncitation:2 pid703655
+title1:Enhanced service differentiation for layered video multicast in differentiated service networks. citation:6 ncitation:6 pid637580
+title1:Enhanced service differentiation for layered video multicast in differentiated service networks. citation:6 ncitation:6 pid637580
+title1:MPEG-4 FGS video streaming with constant-quality rate control and differentiated forwarding. citation:39 ncitation:38 pid637769
+title1:MPEG-4 FGS video streaming with constant-quality rate control and differentiated forwarding. citation:39 ncitation:38 pid637769
+title1:Call admission control for CDMA systems with Interference Guard Margin (IGM). citation:1 ncitation:1 pid637277
+title1:Call admission control for CDMA systems with Interference Guard Margin (IGM). citation:1 ncitation:1 pid637277
+title1:Texture Roughness Analysis and Synthesis via Extended Self-Similar (ESS) Model. citation:82 ncitation:71 pid1031986
+title1:Texture Roughness Analysis and Synthesis via Extended Self-Similar (ESS) Model. citation:82 ncitation:71 pid1031986
+title1:View-dependent progressive mesh coding based on partitioning. citation:6 ncitation:6 pid637702
+title1:View-dependent progressive mesh coding based on partitioning. citation:6 ncitation:6 pid637702
+title1:Iterative Joint Channel Estimation and Multiuser Detection for DS-CDMA in Frequency-Selective Fading Channels. citation:13 ncitation:11 pid1230776
+title1:Iterative Joint Channel Estimation and Multiuser Detection for DS-CDMA in Frequency-Selective Fading Channels. citation:13 ncitation:11 pid1230776
+title1:Motion-compensated coding of 3D animation models. citation:1 ncitation:1 pid637186
+title1:Motion-compensated coding of 3D animation models. citation:1 ncitation:1 pid637186
+title1:High-fidelity multichannel audio coding with Karhunen-Loeve transform. citation:33 ncitation:29 pid1229278
+title1:High-fidelity multichannel audio coding with Karhunen-Loeve transform. citation:33 ncitation:29 pid1229278
+title1:View-dependent transmission of 3-D normal meshes. citation:23 ncitation:-1 pid424075
+title1:View-dependent transmission of 3-D normal meshes. citation:23 ncitation:-1 pid424075
+title1:Embedded space-time coding for wireless broadcast. citation:4 ncitation:3 pid637421
+title1:Embedded space-time coding for wireless broadcast. citation:4 ncitation:3 pid637421
+title1:Embedded space-time coding for wireless broadcast. citation:4 ncitation:3 pid637421
+title1:Scheduling and bandwidth allocation for integrated services over DOCSIS cable networks. citation:0 ncitation:1 pid637419
+title1:Scheduling and bandwidth allocation for integrated services over DOCSIS cable networks. citation:0 ncitation:1 pid637419
+title1:Robust video transmission using adaptive bit allocation. citation:4 ncitation:4 pid637417
+title1:Robust video transmission using adaptive bit allocation. citation:4 ncitation:4 pid637417
+title1:Dynamic throughput estimation for wireless video communications. citation:0 ncitation:-1 pid637415
+title1:Dynamic throughput estimation for wireless video communications. citation:0 ncitation:-1 pid637415
+title1:Implementation and Performance Evaluation of a Progressive Image Retrieval System. citation:13 ncitation:15 pid615383
+title1:Implementation and Performance Evaluation of a Progressive Image Retrieval System. citation:13 ncitation:15 pid615383
+title1:Internet video packet categorization with enhanced end-to-end QoS performance. citation:6 ncitation:6 pid637355
+title1:Internet video packet categorization with enhanced end-to-end QoS performance. citation:6 ncitation:6 pid637355
+title1:Performance Analysis of Ultra-Wide Band Impulse Radio (UWB-IR) with Super-Orthogonal Turbo Codes (SOTC). citation:3 ncitation:4 pid703959
+title1:Performance Analysis of Ultra-Wide Band Impulse Radio (UWB-IR) with Super-Orthogonal Turbo Codes (SOTC). citation:3 ncitation:4 pid703959
+title1:TCP-friendly layered video for Internet multicast. citation:4 ncitation:3 pid637353
+title1:TCP-friendly layered video for Internet multicast. citation:4 ncitation:3 pid637353
+title1:Color matching techniques for video mosaic applications. citation:4 ncitation:3 pid330538
+title1:Color matching techniques for video mosaic applications. citation:4 ncitation:3 pid330538
+title1:Color matching techniques for video mosaic applications. citation:4 ncitation:3 pid330538
+title1:Delay Analysis and Comparison of OFDM-TDMA and OFDMA under IEEE 802.16 QoS Framework. citation:16 ncitation:17 pid703963
+title1:Delay Analysis and Comparison of OFDM-TDMA and OFDMA under IEEE 802.16 QoS Framework. citation:16 ncitation:17 pid703963
+title1:Bit Allocation for Spatial Scalability Coding of H.264/SVC With Dependent Rate-Distortion Analysis. citation:16 ncitation:10 pid3080266
+title1:Bit Allocation for Spatial Scalability Coding of H.264/SVC With Dependent Rate-Distortion Analysis. citation:16 ncitation:10 pid3080266
+title1:Progressive Syntax-Rich Coding of Multichannel Audio Sources. citation:3 ncitation:4 pid3106284
+title1:Progressive Syntax-Rich Coding of Multichannel Audio Sources. citation:3 ncitation:4 pid3106284
+title1:Current Developments and Future Trends in Audio Authentication. citation:4 ncitation:1 pid3269676
+title1:Current Developments and Future Trends in Audio Authentication. citation:4 ncitation:1 pid3269676
+title1:Joint temporal-spatial rate control for adaptive video transcoding. citation:13 ncitation:13 pid3429850
+title1:Joint temporal-spatial rate control for adaptive video transcoding. citation:13 ncitation:13 pid3429850
+title1:Blind recursive tracking of carrier frequency offsets in MC-CDMA systems. citation:0 ncitation:0 pid3431714
+title1:Blind recursive tracking of carrier frequency offsets in MC-CDMA systems. citation:0 ncitation:0 pid3431714
+title1:Joint MIMO channel tracking and symbol detection with EM algorithm and soft decoding. citation:3 ncitation:4 pid3432064
+title1:Joint MIMO channel tracking and symbol detection with EM algorithm and soft decoding. citation:3 ncitation:4 pid3432064

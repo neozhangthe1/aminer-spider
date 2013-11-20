@@ -1,0 +1,25 @@
+title1:Efficient Parallel Solutions to Some Geometric Problems. citation:124 ncitation:121 pid988155
+title1:Efficient Parallel Solutions to Some Geometric Problems. citation:124 ncitation:121 pid988155
+title1:Efficient Perspective-Accurate Silhouette Computation. citation:35 ncitation:23 pid110691
+title1:Efficient Perspective-Accurate Silhouette Computation. citation:35 ncitation:23 pid110691
+title1:Linear-time triangulation of a simple polygon made easier via randomization. citation:0 ncitation:22 pid110631
+title1:Linear-time triangulation of a simple polygon made easier via randomization. citation:0 ncitation:22 pid110631
+title1:Approximate Geometric Pattern Matching Under Rigid Motions. citation:71 ncitation:66 pid1031697
+title1:Approximate Geometric Pattern Matching Under Rigid Motions. citation:71 ncitation:66 pid1031697
+title1:Secure Biometric Authentication for Weak Computational Devices. citation:15 ncitation:13 pid202751
+title1:Secure Biometric Authentication for Weak Computational Devices. citation:15 ncitation:13 pid202751
+title1:External-Memory Graph Algorithms. citation:345 ncitation:341 pid610235
+title1:External-Memory Graph Algorithms. citation:345 ncitation:341 pid610235
+title1:An Efficient Dynamic and Distributed Cryptographic Accumulator. citation:91 ncitation:89 pid452730
+title1:An Efficient Dynamic and Distributed Cryptographic Accumulator. citation:91 ncitation:89 pid452730
+title1:Parallel algorithms for shortest path problems in polygons. citation:21 ncitation:22 pid1136491
+title1:Parallel algorithms for shortest path problems in polygons. citation:21 ncitation:22 pid1136491
+title1:Super-Efficient Verification of Dynamic Outsourced Databases. citation:34 ncitation:28 pid127246
+title1:Super-Efficient Verification of Dynamic Outsourced Databases. citation:34 ncitation:28 pid127246
+title1:Teaching internet algorithmics. citation:3 ncitation:4 pid590198
+title1:Teaching internet algorithmics. citation:3 ncitation:4 pid590198
+title1:Algorithm Engineering and Experimentation, International Workshop ALENEX '99, Baltimore, MD, USA, January 15-16, 1999, Selected Papers citation:0 ncitation:-1 pid2775845
+title1:Algorithm Engineering and Experimentation, International Workshop ALENEX '99, Baltimore, MD, USA, January 15-16, 1999, Selected Papers citation:0 ncitation:-1 pid2775845
+title1:Data structures and algorithms in C++. citation:41 ncitation:36 pid3004064
+title1:Data structures and algorithms in C++. citation:41 ncitation:36 pid3004064
+title1:Data structures and algorithms in C++. citation:41 ncitation:36 pid3004064

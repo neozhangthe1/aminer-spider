@@ -1,0 +1,20 @@
+title1:Modeling User Preferences and Mediating Agents in Electronic Commerce. citation:45 ncitation:44 pid29506
+title1:Modeling User Preferences and Mediating Agents in Electronic Commerce. citation:45 ncitation:44 pid29506
+title1:A Requirement Specification Language for Configuration Dynamics of Multi-agent Systems. citation:15 ncitation:11 pid43340
+title1:A Requirement Specification Language for Configuration Dynamics of Multi-agent Systems. citation:15 ncitation:11 pid43340
+title1:Formal Modeling and Analysis of Organizations. citation:26 ncitation:25 pid57079
+title1:Formal Modeling and Analysis of Organizations. citation:26 ncitation:25 pid57079
+title1:Compositional Verification of Multi-Agent Systems: A Formal Analysis of Pro-activeness and Reactiveness. citation:105 ncitation:101 pid111723
+title1:Compositional Verification of Multi-Agent Systems: A Formal Analysis of Pro-activeness and Reactiveness. citation:105 ncitation:101 pid111723
+title1:Analysis of Design Process Dynamics. citation:1 ncitation:-1 pid164618
+title1:Analysis of Design Process Dynamics. citation:1 ncitation:-1 pid164618
+title1:An Agent Architecture for Multi-Attribute Negotiation. citation:107 ncitation:106 pid389038
+title1:An Agent Architecture for Multi-Attribute Negotiation. citation:107 ncitation:106 pid389038
+title1:Deliberative Evolution in Multi-Agent Systems. citation:25 ncitation:24 pid920670
+title1:Deliberative Evolution in Multi-Agent Systems. citation:25 ncitation:24 pid920670
+title1:Temporalizing Epistemic Default Logic. citation:2 ncitation:6 pid986931
+title1:Temporalizing Epistemic Default Logic. citation:2 ncitation:6 pid986931
+title1:An Adaptive Human-Aware Software Agent Supporting Attention-Demanding Tasks. citation:1 ncitation:8 pid1309180
+title1:An Adaptive Human-Aware Software Agent Supporting Attention-Demanding Tasks. citation:1 ncitation:8 pid1309180
+title1:On Human Aspects in Ambient Intelligence. citation:0 ncitation:15 pid3509650
+title1:On Human Aspects in Ambient Intelligence. citation:0 ncitation:15 pid3509650

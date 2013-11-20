@@ -1,0 +1,30 @@
+title1:Decomposition Techniques for Efficient ROBDD Construction. citation:29 ncitation:29 pid209250
+title1:Decomposition Techniques for Efficient ROBDD Construction. citation:29 ncitation:29 pid209250
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:VIS. citation:660 ncitation:45 pid209167
+title1:Synthesis of software programs for embedded control applications. citation:80 ncitation:80 pid1083441
+title1:Synthesis of software programs for embedded control applications. citation:80 ncitation:80 pid1083441
+title1:Automatic Synthesis of Interfaces Between Incompatible Protocols. citation:177 ncitation:170 pid133552
+title1:Automatic Synthesis of Interfaces Between Incompatible Protocols. citation:177 ncitation:170 pid133552
+title1:Exact Minimization of Binary Decision Diagrams Using Implicit Techniques. citation:24 ncitation:23 pid1081183
+title1:Exact Minimization of Binary Decision Diagrams Using Implicit Techniques. citation:24 ncitation:23 pid1081183
+title1:A case study in computer-aided codesign of embedded controllers. citation:61 ncitation:53 pid106259
+title1:A case study in computer-aided codesign of embedded controllers. citation:61 ncitation:53 pid106259
+title1:Modeling digital substrate noise injection in mixed-signal IC's. citation:67 ncitation:66 pid1083725
+title1:Modeling digital substrate noise injection in mixed-signal IC's. citation:67 ncitation:66 pid1083725
+title1:Circuit structure relations to redundancy and delay. citation:20 ncitation:20 pid1085676
+title1:Circuit structure relations to redundancy and delay. citation:20 ncitation:20 pid1085676
+title1:Comparing models of computation. citation:118 ncitation:102 pid282645
+title1:Comparing models of computation. citation:118 ncitation:102 pid282645
+title1:Comparing models of computation. citation:118 ncitation:102 pid282645
+title1:A massively parallel algorithm for three-dimensional device simulation. citation:23 ncitation:23 pid1086219
+title1:A massively parallel algorithm for three-dimensional device simulation. citation:23 ncitation:23 pid1086219
+title1:Definition of Task Allocation and Priority Assignment in Hard Real-Time Distributed Systems. citation:44 ncitation:37 pid565687
+title1:Definition of Task Allocation and Priority Assignment in Hard Real-Time Distributed Systems. citation:44 ncitation:37 pid565687
+title1:Uniprocessor Scheduling Under Precedence Constraints. citation:20 ncitation:19 pid564035
+title1:Uniprocessor Scheduling Under Precedence Constraints. citation:20 ncitation:19 pid564035

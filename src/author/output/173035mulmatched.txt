@@ -1,0 +1,39 @@
+title1:Analysis of the Best-Worst Ant System and Its Variants on the QAP. citation:36 ncitation:23 pid42539
+title1:Analysis of the Best-Worst Ant System and Its Variants on the QAP. citation:36 ncitation:23 pid42539
+title1:An Empirical Analysis of Multiple Objective Ant Colony Optimization Algorithms for the Bi-criteria TSP. citation:149 ncitation:40 pid42925
+title1:An Empirical Analysis of Multiple Objective Ant Colony Optimization Algorithms for the Bi-criteria TSP. citation:149 ncitation:40 pid42925
+title1:A Study on the Use of the Fuzzy Reasoning Method Based on the Winning Rule vs. Voting Procedure for Classification with Imbalanced Data Sets. citation:4 ncitation:3 pid463137
+title1:A Study on the Use of the Fuzzy Reasoning Method Based on the Winning Rule vs. Voting Procedure for Classification with Imbalanced Data Sets. citation:4 ncitation:3 pid463137
+title1:A Study on the Use of Statistical Tests for Experimentation with Neural Networks. citation:29 ncitation:3 pid463176
+title1:A Study on the Use of Statistical Tests for Experimentation with Neural Networks. citation:29 ncitation:3 pid463176
+title1:A Three-Stage Method for Designing Genetic Fuzzy Systems by Learning from Examples. citation:30 ncitation:28 pid549738
+title1:A Three-Stage Method for Designing Genetic Fuzzy Systems by Learning from Examples. citation:30 ncitation:28 pid549738
+title1:An Analysis of the Rule Weights and Fuzzy Reasoning Methods for Linguistic Rule Based Classification Systems Applied to Problems with Highly Imbalanced Data Sets. citation:7 ncitation:6 pid662304
+title1:An Analysis of the Rule Weights and Fuzzy Reasoning Methods for Linguistic Rule Based Classification Systems Applied to Problems with Highly Imbalanced Data Sets. citation:7 ncitation:6 pid662304
+title1:Adaptive local search parameters for real-coded memetic algorithms. citation:70 ncitation:64 pid697026
+title1:Adaptive local search parameters for real-coded memetic algorithms. citation:70 ncitation:64 pid697026
+title1:On the combination of evolutionary algorithms and stratified strategies for training set selection in data mining. citation:50 ncitation:46 pid760310
+title1:On the combination of evolutionary algorithms and stratified strategies for training set selection in data mining. citation:50 ncitation:46 pid760310
+title1:Hybridizing genetic algorithms with sharing scheme and evolution strategies for designing approximate fuzzy rule-based systems. citation:103 ncitation:97 pid879518
+title1:Hybridizing genetic algorithms with sharing scheme and evolution strategies for designing approximate fuzzy rule-based systems. citation:103 ncitation:97 pid879518
+title1:A proposal on reasoning methods in fuzzy rule-based classification systems. citation:245 ncitation:227 pid903575
+title1:A proposal on reasoning methods in fuzzy rule-based classification systems. citation:245 ncitation:227 pid903575
+title1:A genetic learning process for the scaling factors, granularity and contexts of the fuzzy rule-based system data base. citation:79 ncitation:69 pid940158
+title1:A genetic learning process for the scaling factors, granularity and contexts of the fuzzy rule-based system data base. citation:79 ncitation:69 pid940158
+title1:Hybrid learning models to get the interpretability-accuracy trade-off in fuzzy modeling. citation:60 ncitation:54 pid1069905
+title1:Hybrid learning models to get the interpretability-accuracy trade-off in fuzzy modeling. citation:60 ncitation:54 pid1069905
+title1:COR: a methodology to improve ad hoc data-driven linguistic rule learning methods by inducing cooperation among rules. citation:88 ncitation:84 pid1130876
+title1:COR: a methodology to improve ad hoc data-driven linguistic rule learning methods by inducing cooperation among rules. citation:88 ncitation:84 pid1130876
+title1:A two-stage evolutionary process for designing TSK fuzzy rule-based systems. citation:95 ncitation:86 pid1130965
+title1:A two-stage evolutionary process for designing TSK fuzzy rule-based systems. citation:95 ncitation:86 pid1130965
+title1:Group Decision-Making Model With Incomplete Fuzzy Preference Relations Based on Additive Consistency. citation:169 ncitation:130 pid1132863
+title1:Group Decision-Making Model With Incomplete Fuzzy Preference Relations Based on Additive Consistency. citation:169 ncitation:130 pid1132863
+title1:A memetic algorithm using local search chaining for black-box optimization benchmarking 2009 for noisy functions. citation:4 ncitation:3 pid1208031
+title1:A memetic algorithm using local search chaining for black-box optimization benchmarking 2009 for noisy functions. citation:4 ncitation:3 pid1208031
+title1:A study on the use of non-parametric tests for analyzing the evolutionary algorithms' behaviour: a case study on the CEC'2005 Special Session on Real Parameter Optimization. citation:344 ncitation:177 pid1337595
+title1:A study on the use of non-parametric tests for analyzing the evolutionary algorithms' behaviour: a case study on the CEC'2005 Special Session on Real Parameter Optimization. citation:344 ncitation:177 pid1337595
+title1:Special issue on evolutionary fuzzy systems. citation:6 ncitation:6 pid3132151
+title1:Special issue on evolutionary fuzzy systems. citation:6 ncitation:6 pid3132151
+title1:Special issue on evolutionary fuzzy systems. citation:6 ncitation:6 pid3132151
+title1:A genetic algorithm for tuning fuzzy rule-based classification systems with Interval-Valued Fuzzy Sets. citation:4 ncitation:1 pid3220722
+title1:A genetic algorithm for tuning fuzzy rule-based classification systems with Interval-Valued Fuzzy Sets. citation:4 ncitation:1 pid3220722

@@ -1,0 +1,34 @@
+title1:Weighted Random Sampling. citation:50 ncitation:3 pid1199484
+title1:Weighted Random Sampling. citation:50 ncitation:3 pid1199484
+title1:MaxMin Fair Flow Control Sensitive to Priorities. citation:3 ncitation:2 pid523363
+title1:MaxMin Fair Flow Control Sensitive to Priorities. citation:3 ncitation:2 pid523363
+title1:Extreme Nash Equilibria. citation:35 ncitation:46 pid368308
+title1:Extreme Nash Equilibria. citation:35 ncitation:46 pid368308
+title1:Cost Sharing Mechanisms for Fair Pricing of Resource Usage. citation:5 ncitation:5 pid750934
+title1:Cost Sharing Mechanisms for Fair Pricing of Resource Usage. citation:5 ncitation:5 pid750934
+title1:Simple Atomic Snapshots: A Linear Complexity Solution with Unbounded Time-Stamps. citation:12 ncitation:7 pid932190
+title1:Simple Atomic Snapshots: A Linear Complexity Solution with Unbounded Time-Stamps. citation:12 ncitation:7 pid932190
+title1:Radiocolorings in periodic planar graphs: PSPACE-completeness and efficient approximations for the optimal range of frequencies. citation:4 ncitation:4 pid979520
+title1:Radiocolorings in periodic planar graphs: PSPACE-completeness and efficient approximations for the optimal range of frequencies. citation:4 ncitation:4 pid979520
+title1:Introduction. citation:0 ncitation:-1 pid990197
+title1:Introduction. citation:0 ncitation:-1 pid990197
+title1:Optimal, Distributed Decision-Making: The Case of No Communication. citation:15 ncitation:15 pid204120
+title1:Optimal, Distributed Decision-Making: The Case of No Communication. citation:15 ncitation:15 pid204120
+title1:Reading Many Variables in One Atomic Operation: Solutions With Linear or Sublinear Complexity. citation:36 ncitation:61 pid653905
+title1:Reading Many Variables in One Atomic Operation: Solutions With Linear or Sublinear Complexity. citation:36 ncitation:61 pid653905
+title1:Hamilton Cycles in Random Intersection Graphs. citation:13 ncitation:0 pid1199541
+title1:Hamilton Cycles in Random Intersection Graphs. citation:13 ncitation:0 pid1199541
+title1:Minimum Congestion Redundant Assignments. citation:5 ncitation:0 pid1199494
+title1:Minimum Congestion Redundant Assignments. citation:5 ncitation:0 pid1199494
+title1:Competitive Call Control in Mobile Networks. citation:13 ncitation:18 pid415866
+title1:Competitive Call Control in Mobile Networks. citation:13 ncitation:18 pid415866
+title1:Efficient Parallel Algorithms for Shortest Paths in Planar Digraphs. citation:13 ncitation:13 pid768261
+title1:Efficient Parallel Algorithms for Shortest Paths in Planar Digraphs. citation:13 ncitation:13 pid768261
+title1:Stability Behavior of FIFO Protocol in the Adversarial Queuing Model. citation:3 ncitation:3 pid531079
+title1:Stability Behavior of FIFO Protocol in the Adversarial Queuing Model. citation:3 ncitation:3 pid531079
+title1:Mediated Population Protocols. citation:5 ncitation:23 pid1209636
+title1:Mediated Population Protocols. citation:5 ncitation:23 pid1209636
+title1:Game authority for robust andscalable distributed selfish-computer systems. citation:3 ncitation:4 pid544572
+title1:Game authority for robust andscalable distributed selfish-computer systems. citation:3 ncitation:4 pid544572
+title1:Naming and Counting in Anonymous Unknown Dynamic Networks citation:4 ncitation:1 pid3473312
+title1:Naming and Counting in Anonymous Unknown Dynamic Networks citation:4 ncitation:1 pid3473312

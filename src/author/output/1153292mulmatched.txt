@@ -1,0 +1,19 @@
+title1:Smartar: a Pseudo- End-to-end Approach for Ip Micro-mobility. citation:0 ncitation:-1 pid986644
+title1:Smartar: a Pseudo- End-to-end Approach for Ip Micro-mobility. citation:0 ncitation:-1 pid986644
+title1:Wireless Communications for Health Monitoring on Highways. citation:3 ncitation:2 pid299005
+title1:Wireless Communications for Health Monitoring on Highways. citation:3 ncitation:2 pid299005
+title1:An Intelligent Policing-Routing Mechanism Based on Fuzzy Logic and Genetic Algorithms. citation:10 ncitation:5 pid340840
+title1:An Intelligent Policing-Routing Mechanism Based on Fuzzy Logic and Genetic Algorithms. citation:10 ncitation:5 pid340840
+title1:Fast autonomous system traceback. citation:9 ncitation:11 pid1284475
+title1:Fast autonomous system traceback. citation:9 ncitation:11 pid1284475
+title1:Impact of Mobile Sink for Wireless Sensor Networks Considering Different Radio Models. citation:0 ncitation:0 pid2953708
+title1:Impact of Mobile Sink for Wireless Sensor Networks Considering Different Radio Models. citation:0 ncitation:0 pid2953708
+title1:Characteristics of Diffracted Waves Going over Building Rooftop. citation:1 ncitation:2 pid3055250
+title1:Characteristics of Diffracted Waves Going over Building Rooftop. citation:1 ncitation:2 pid3055250
+title1:Characteristics of Diffracted Waves Going over Building Rooftop. citation:1 ncitation:2 pid3055250
+title1:A Fuzzy-Based Reliability System for JXTA-Overlay P2P Platform. citation:0 ncitation:-1 pid3196694
+title1:A Fuzzy-Based Reliability System for JXTA-Overlay P2P Platform. citation:0 ncitation:-1 pid3196694
+title1:A MAC Protocol for Power Reduction in Wireless Sensor Networks Based on Load Estimation. citation:0 ncitation:-1 pid3297790
+title1:A MAC Protocol for Power Reduction in Wireless Sensor Networks Based on Load Estimation. citation:0 ncitation:-1 pid3297790
+title1:A Fuzzy-Based Trustworthiness System for JXTA-Overlay P2P Platform. citation:2 ncitation:1 pid3325486
+title1:A Fuzzy-Based Trustworthiness System for JXTA-Overlay P2P Platform. citation:2 ncitation:1 pid3325486

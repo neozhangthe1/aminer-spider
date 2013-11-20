@@ -1,0 +1,63 @@
+title1:Reliability-aware design for nanometer-scale devices. citation:29 ncitation:26 pid53305
+title1:Reliability-aware design for nanometer-scale devices. citation:29 ncitation:26 pid53305
+title1:A fast HW/SW FPGA-based thermal emulation framework for multi-processor system-on-chip. citation:43 ncitation:40 pid131325
+title1:A fast HW/SW FPGA-based thermal emulation framework for multi-processor system-on-chip. citation:43 ncitation:40 pid131325
+title1:05141 Summary - Power-aware Computing Systems. citation:0 ncitation:-1 pid136923
+title1:05141 Summary - Power-aware Computing Systems. citation:0 ncitation:-1 pid136923
+title1:Glitch Power Minimization by Gate Freezing. citation:6 ncitation:7 pid141456
+title1:Glitch Power Minimization by Gate Freezing. citation:6 ncitation:7 pid141456
+title1:Networks on Chip: A New Paradigm for Systems on Chip Design. citation:198 ncitation:112 pid142538
+title1:Networks on Chip: A New Paradigm for Systems on Chip Design. citation:198 ncitation:112 pid142538
+title1:Dynamic Power Management of Laptop Hard Disk. citation:34 ncitation:33 pid143035
+title1:Dynamic Power Management of Laptop Hard Disk. citation:34 ncitation:33 pid143035
+title1:Dynamic power management using adaptive learning tree. citation:183 ncitation:172 pid281956
+title1:Dynamic power management using adaptive learning tree. citation:183 ncitation:172 pid281956
+title1:Improving Java Performance Using Dynamic Method Migration on FPGAs. citation:19 ncitation:12 pid409686
+title1:Improving Java Performance Using Dynamic Method Migration on FPGAs. citation:19 ncitation:12 pid409686
+title1:Discharge current steering for battery lifetime optimization. citation:48 ncitation:41 pid436545
+title1:Discharge current steering for battery lifetime optimization. citation:48 ncitation:41 pid436545
+title1:Monitoring system activity for OS-directed dynamic power management. citation:88 ncitation:84 pid436613
+title1:Monitoring system activity for OS-directed dynamic power management. citation:88 ncitation:84 pid436613
+title1:Energy-efficient design of battery-powered embedded systems. citation:166 ncitation:156 pid437116
+title1:Energy-efficient design of battery-powered embedded systems. citation:166 ncitation:156 pid437116
+title1:Powering networks on chips. citation:201 ncitation:0 pid450509
+title1:Powering networks on chips. citation:201 ncitation:0 pid450509
+title1:Source Code Optimization and Profiling of Energy Consumption in Embedded Systems. citation:87 ncitation:79 pid450685
+title1:Source Code Optimization and Profiling of Energy Consumption in Embedded Systems. citation:87 ncitation:79 pid450685
+title1:Energy-Efficient Value-Based Selective Refresh for Embedded DRAMs. citation:4 ncitation:5 pid530800
+title1:Energy-Efficient Value-Based Selective Refresh for Embedded DRAMs. citation:4 ncitation:5 pid530800
+title1:Fault tolerance overhead in network-on-chip flow control schemes. citation:78 ncitation:70 pid573819
+title1:Fault tolerance overhead in network-on-chip flow control schemes. citation:78 ncitation:70 pid573819
+title1:A Traffic Injection Methodology with Support for System-Level Synchronization. citation:0 ncitation:0 pid644573
+title1:A Traffic Injection Methodology with Support for System-Level Synchronization. citation:0 ncitation:0 pid644573
+title1:Measuring Efficiency and Executability of Allocation and Scheduling in Multi-Processor Systems-on-Chip. citation:5 ncitation:4 pid886641
+title1:Measuring Efficiency and Executability of Allocation and Scheduling in Multi-Processor Systems-on-Chip. citation:5 ncitation:4 pid886641
+title1:Guest Editorial. citation:0 ncitation:-1 pid926942
+title1:Guest Editorial. citation:0 ncitation:-1 pid926942
+title1:Packetization and routing analysis of on-chip multiprocessor networks. citation:137 ncitation:127 pid990943
+title1:Packetization and routing analysis of on-chip multiprocessor networks. citation:137 ncitation:127 pid990943
+title1:Real-time scheduling for energy harvesting sensor nodes. citation:81 ncitation:59 pid1053371
+title1:Real-time scheduling for energy harvesting sensor nodes. citation:81 ncitation:59 pid1053371
+title1:Energy-Efficient Multiprocessor Systems-on-Chip for Embedded Computing: Exploring Programming Models and Their Architectural Support. citation:34 ncitation:24 pid1082971
+title1:Energy-Efficient Multiprocessor Systems-on-Chip for Embedded Computing: Exploring Programming Models and Their Architectural Support. citation:34 ncitation:24 pid1082971
+title1:A scalable algorithm for RTL insertion of gated clocks based on ODCs computation. citation:57 ncitation:51 pid1083407
+title1:A scalable algorithm for RTL insertion of gated clocks based on ODCs computation. citation:57 ncitation:51 pid1083407
+title1:A multiprocessor system-on-chip for real-time biomedical monitoring and analysis: ECG prototype architectural design space exploration. citation:5 ncitation:4 pid1118097
+title1:A multiprocessor system-on-chip for real-time biomedical monitoring and analysis: ECG prototype architectural design space exploration. citation:5 ncitation:4 pid1118097
+title1:Power-aware computing systems. citation:0 ncitation:2 pid1172544
+title1:Power-aware computing systems. citation:0 ncitation:2 pid1172544
+title1:Hardware/Software Architecture for Real-Time ECG Monitoring and Analysis Leveraging MPSoC Technology. citation:3 ncitation:3 pid1195039
+title1:Hardware/Software Architecture for Real-Time ECG Monitoring and Analysis Leveraging MPSoC Technology. citation:3 ncitation:3 pid1195039
+title1:Variability-tolerant workload allocation for MPSoC energy minimization under real-time constraints. citation:6 ncitation:3 pid1243064
+title1:Variability-tolerant workload allocation for MPSoC energy minimization under real-time constraints. citation:6 ncitation:3 pid1243064
+title1:Variability-tolerant workload allocation for MPSoC energy minimization under real-time constraints. citation:6 ncitation:3 pid1243064
+title1:Networks on Chips: from research to products. citation:20 ncitation:12 pid2782190
+title1:Networks on Chips: from research to products. citation:20 ncitation:12 pid2782190
+title1:Scalable instruction set simulator for thousand-core architectures running on GPGPUs. citation:7 ncitation:5 pid2843491
+title1:Scalable instruction set simulator for thousand-core architectures running on GPGPUs. citation:7 ncitation:5 pid2843491
+title1:Exploring programming model-driven QoS support for NoC-based platforms. citation:5 ncitation:4 pid2942258
+title1:Exploring programming model-driven QoS support for NoC-based platforms. citation:5 ncitation:4 pid2942258
+title1:Network-Level Power-Performance Trade-Off in Wearable Activity Recognition: A Dynamic Sensor Selection Approach. citation:1 ncitation:0 pid3535366
+title1:Network-Level Power-Performance Trade-Off in Wearable Activity Recognition: A Dynamic Sensor Selection Approach. citation:1 ncitation:0 pid3535366
+title1:OpenMP-based Synergistic Parallelization and HW Acceleration for On-Chip Shared-Memory Clusters. citation:1 ncitation:0 pid3599184
+title1:OpenMP-based Synergistic Parallelization and HW Acceleration for On-Chip Shared-Memory Clusters. citation:1 ncitation:0 pid3599184

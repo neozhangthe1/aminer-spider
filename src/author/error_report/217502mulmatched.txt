@@ -1,0 +1,48 @@
+title1:A Self-Tuning Multicast Flow Control Scheme Based on Autonomic Technology. citation:4 ncitation:4 pid140395
+title1:A Self-Tuning Multicast Flow Control Scheme Based on Autonomic Technology. citation:4 ncitation:4 pid140395
+title1:Message from the PDSEC-09 workshop chairs. citation:0 ncitation:-1 pid1250321
+title1:Message from the PDSEC-09 workshop chairs. citation:0 ncitation:-1 pid1250321
+title1:Quantitative Analysis of Location Management and QoS in Wireless Mobile Networks. citation:6 ncitation:7 pid36175
+title1:Quantitative Analysis of Location Management and QoS in Wireless Mobile Networks. citation:6 ncitation:7 pid36175
+title1:Preface. citation:0 ncitation:-1 pid792996
+title1:Preface. citation:0 ncitation:-1 pid792996
+title1:Preface. citation:0 ncitation:-1 pid792996
+title1:Preface. citation:0 ncitation:-1 pid792996
+title1:A bilevel optimization algorithm to identify enzymatic capacity constraints in metabolic networks. citation:10 ncitation:8 pid1287400
+title1:A bilevel optimization algorithm to identify enzymatic capacity constraints in metabolic networks. citation:10 ncitation:8 pid1287400
+title1:Message from the Chairs. citation:0 ncitation:-1 pid345703
+title1:Message from the Chairs. citation:0 ncitation:-1 pid345703
+title1:Geographic Routing in Wireless Multimedia Sensor Networks. citation:69 ncitation:57 pid1312222
+title1:Geographic Routing in Wireless Multimedia Sensor Networks. citation:69 ncitation:57 pid1312222
+title1:Mapping Light Communication SLA-Based Workflows onto Grid Resources with Parallel Processing Technology. citation:0 ncitation:0 pid445457
+title1:Mapping Light Communication SLA-Based Workflows onto Grid Resources with Parallel Processing Technology. citation:0 ncitation:0 pid445457
+title1:Preface. citation:0 ncitation:-1 pid927097
+title1:Preface. citation:0 ncitation:-1 pid927097
+title1:Preface. citation:0 ncitation:-1 pid1158959
+title1:Preface. citation:0 ncitation:-1 pid1158959
+title1:Rotation Scheduling and Voltage Assignment to Minimize Energy for SoC. citation:11 ncitation:8 pid1260896
+title1:Rotation Scheduling and Voltage Assignment to Minimize Energy for SoC. citation:11 ncitation:8 pid1260896
+title1:Secure communications and data management in ubiquitous services. citation:1 ncitation:1 pid1282774
+title1:Secure communications and data management in ubiquitous services. citation:1 ncitation:1 pid1282774
+title1:Accuracy Enhancement for License Plate Recognition. citation:9 ncitation:7 pid2773362
+title1:Accuracy Enhancement for License Plate Recognition. citation:9 ncitation:7 pid2773362
+title1:Embedded Software and Systems, Second International Conference, ICESS 2005, Xi'an, China, December 16-18, 2005, Proceedings citation:3 ncitation:3 pid2793814
+title1:Embedded Software and Systems, Second International Conference, ICESS 2005, Xi'an, China, December 16-18, 2005, Proceedings citation:3 ncitation:3 pid2793814
+title1:Ubiquitous/pervasive intelligence: Visions and challenges. citation:0 ncitation:0 pid2821050
+title1:Ubiquitous/pervasive intelligence: Visions and challenges. citation:0 ncitation:0 pid2821050
+title1:Guest Editorial. citation:0 ncitation:-1 pid2880696
+title1:Guest Editorial. citation:0 ncitation:-1 pid2880696
+title1:High performance computing and communications. citation:1 ncitation:1 pid2928204
+title1:High performance computing and communications. citation:1 ncitation:1 pid2928204
+title1:High performance computing and communications. citation:1 ncitation:1 pid2928204
+title1:High performance computing and communications. citation:1 ncitation:1 pid2928204
+title1:High performance computing and communications. citation:1 ncitation:1 pid2928204
+title1:High performance computing and communications. citation:1 ncitation:1 pid2928204
+title1:High performance computing and communications. citation:1 ncitation:1 pid2928204
+title1:Preface. citation:0 ncitation:-1 pid3099513
+title1:Preface. citation:0 ncitation:-1 pid3099513
+title1:Preface. citation:0 ncitation:-1 pid3099513
+title1:Internet of Things. citation:93 ncitation:-1 pid3480148
+title1:Internet of Things. citation:93 ncitation:-1 pid3480148
+title1:Internet of Things. citation:93 ncitation:-1 pid3480148
+title1:Internet of Things. citation:93 ncitation:-1 pid3480148

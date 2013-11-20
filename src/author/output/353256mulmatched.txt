@@ -1,0 +1,43 @@
+title1:HIPIQS: A High-Performance Switch Architecture Using Input Queuing. citation:29 ncitation:30 pid410787
+title1:HIPIQS: A High-Performance Switch Architecture Using Input Queuing. citation:29 ncitation:30 pid410787
+title1:Implementing Multidestination Worms in Switch-Based Parallel Systems: Architectural Alternatives and Their Impact. citation:64 ncitation:64 pid1125799
+title1:Implementing Multidestination Worms in Switch-Based Parallel Systems: Architectural Alternatives and Their Impact. citation:64 ncitation:64 pid1125799
+title1:Characterization and enhancement of Static Mapping Heuristics for Heterogeneous Systems. citation:18 ncitation:20 pid250955
+title1:Characterization and enhancement of Static Mapping Heuristics for Heterogeneous Systems. citation:18 ncitation:20 pid250955
+title1:Multidestination Message Passing in Wormhole k-ary n-cube Networks with Base Routing Conformed Paths. citation:89 ncitation:101 pid1125560
+title1:Multidestination Message Passing in Wormhole k-ary n-cube Networks with Base Routing Conformed Paths. citation:89 ncitation:101 pid1125560
+title1:Microbenchmark Performance Comparison of High-Speed Cluster Interconnects. citation:75 ncitation:74 pid1008519
+title1:Microbenchmark Performance Comparison of High-Speed Cluster Interconnects. citation:75 ncitation:74 pid1008519
+title1:VIBe: A Micro-benchmark Suite for Evaluating Virtual Interface Architecture (VIA) Implementations. citation:3 ncitation:19 pid408089
+title1:VIBe: A Micro-benchmark Suite for Evaluating Virtual Interface Architecture (VIA) Implementations. citation:3 ncitation:19 pid408089
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568
+title1:InfiniBand. citation:5 ncitation:-1 pid3271568

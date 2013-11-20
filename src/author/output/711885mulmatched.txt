@@ -1,0 +1,34 @@
+title1:Synthesis of Reversible Logic. citation:199 ncitation:66 pid141373
+title1:Synthesis of Reversible Logic. citation:199 ncitation:66 pid141373
+title1:Synthesis of Reversible Logic. citation:199 ncitation:66 pid141373
+title1:CASPER: Concurrent Hardware-Software Co-Synthesis of Hard Real-Time Aperiodic and Periodic Specifications of Embedded System Architectures. citation:39 ncitation:39 pid141758
+title1:CASPER: Concurrent Hardware-Software Co-Synthesis of Hard Real-Time Aperiodic and Periodic Specifications of Embedded System Architectures. citation:39 ncitation:39 pid141758
+title1:MOCSYN: Multiobjective Core-Based Single-Chip System Synthesis. citation:91 ncitation:88 pid141778
+title1:MOCSYN: Multiobjective Core-Based Single-Chip System Synthesis. citation:91 ncitation:88 pid141778
+title1:Low Power System Scheduling and Synthesis. citation:127 ncitation:120 pid282381
+title1:Low Power System Scheduling and Synthesis. citation:127 ncitation:120 pid282381
+title1:A framework for testing core-based systems-on-a-chip. citation:9 ncitation:8 pid283019
+title1:A framework for testing core-based systems-on-a-chip. citation:9 ncitation:8 pid283019
+title1:Combined Dynamic Voltage Scaling and Adaptive Body Biasing for Heterogeneous Distributed Real-time Embedded Systems. citation:81 ncitation:74 pid283348
+title1:Combined Dynamic Voltage Scaling and Adaptive Body Biasing for Heterogeneous Distributed Real-time Embedded Systems. citation:81 ncitation:74 pid283348
+title1:Energy-Efficient Graphical User Interface Design. citation:42 ncitation:30 pid370185
+title1:Energy-Efficient Graphical User Interface Design. citation:42 ncitation:30 pid370185
+title1:Graceful Degradation in Algorithm-Based Fault Tolerant Multiprocessor Systems. citation:16 ncitation:16 pid424976
+title1:Graceful Degradation in Algorithm-Based Fault Tolerant Multiprocessor Systems. citation:16 ncitation:16 pid424976
+title1:A Low-Overhead Design for Testability and Test Generation Technique for Core-Based Systems. citation:70 ncitation:100 pid454327
+title1:A Low-Overhead Design for Testability and Test Generation Technique for Core-Based Systems. citation:70 ncitation:100 pid454327
+title1:Hardware-Software Co-Synthesis of Low Power Real-Time Distributed Embedded Systems with Dynamically Reconfigurable FPGAs. citation:77 ncitation:71 pid646020
+title1:Hardware-Software Co-Synthesis of Low Power Real-Time Distributed Embedded Systems with Dynamically Reconfigurable FPGAs. citation:77 ncitation:71 pid646020
+title1:COFTA: Hardware-Software Co-Synthesis of Heterogeneous Distributed Embedded Systems. citation:136 ncitation:-1 pid1078896
+title1:COFTA: Hardware-Software Co-Synthesis of Heterogeneous Distributed Embedded Systems. citation:136 ncitation:-1 pid1078896
+title1:Diagnosability and Diagnosis of Algorithm-Based Fault-Tolerant Systems. citation:15 ncitation:16 pid1082515
+title1:Diagnosability and Diagnosis of Algorithm-Based Fault-Tolerant Systems. citation:15 ncitation:16 pid1082515
+title1:Algorithm-Based Fault Tolerance for FFT Networks. citation:55 ncitation:51 pid1082580
+title1:Algorithm-Based Fault Tolerance for FFT Networks. citation:55 ncitation:51 pid1082580
+title1:COHRA: hardware-software cosynthesis of hierarchical heterogeneous distributed embedded systems. citation:72 ncitation:68 pid1083983
+title1:COHRA: hardware-software cosynthesis of hierarchical heterogeneous distributed embedded systems. citation:72 ncitation:68 pid1083983
+title1:Dynamic Power Optimization Targeting User Delays in Interactive Systems. citation:8 ncitation:4 pid1114411
+title1:Dynamic Power Optimization Targeting User Delays in Interactive Systems. citation:8 ncitation:4 pid1114411
+title1:Editorial. citation:0 ncitation:-1 pid1134385
+title1:Editorial. citation:0 ncitation:-1 pid1134385
+title1:Editorial. citation:0 ncitation:-1 pid1134385

@@ -1,0 +1,29 @@
+title1:Efficient System-Level Functional Verification Methodology for Multimedia Applications. citation:6 ncitation:6 pid858054
+title1:Efficient System-Level Functional Verification Methodology for Multimedia Applications. citation:6 ncitation:6 pid858054
+title1:Cathedral-III: Architecture-Driven High-level Synthesis for High Throughput DSP Applications. citation:121 ncitation:108 pid133328
+title1:Cathedral-III: Architecture-Driven High-level Synthesis for High Throughput DSP Applications. citation:121 ncitation:108 pid133328
+title1:Instruction buffering exploration for low energy embedded processors. citation:10 ncitation:19 pid1186900
+title1:Instruction buffering exploration for low energy embedded processors. citation:10 ncitation:19 pid1186900
+title1:Generic Multiphase Software Pipelined Partial FFT on Instruction Level Parallel Architectures. citation:7 ncitation:6 pid1230995
+title1:Generic Multiphase Software Pipelined Partial FFT on Instruction Level Parallel Architectures. citation:7 ncitation:6 pid1230995
+title1:MEERA: cross-layer methodology for energy efficient resource allocation in wireless networks. citation:30 ncitation:22 pid1175827
+title1:MEERA: cross-layer methodology for energy efficient resource allocation in wireless networks. citation:30 ncitation:22 pid1175827
+title1:Guest Editorial. citation:0 ncitation:-1 pid1083516
+title1:Guest Editorial. citation:0 ncitation:-1 pid1083516
+title1:Efficient system-level prototyping of power-aware dynamic memory managers for embedded systems. citation:18 ncitation:16 pid926927
+title1:Efficient system-level prototyping of power-aware dynamic memory managers for embedded systems. citation:18 ncitation:16 pid926927
+title1:On the Combined Impact of Soft and Medium Gate Oxide Breakdown and Process Variability on the Parametric Figures of SRAM components. citation:4 ncitation:4 pid510231
+title1:On the Combined Impact of Soft and Medium Gate Oxide Breakdown and Process Variability on the Parametric Figures of SRAM components. citation:4 ncitation:4 pid510231
+title1:Semi Custom Design: A Case Study on SIMD Shufflers. citation:6 ncitation:4 pid530988
+title1:Semi Custom Design: A Case Study on SIMD Shufflers. citation:6 ncitation:4 pid530988
+title1:Distributed loop controller architecture for multi-threading in uni-threaded VLIW processors. citation:10 ncitation:8 pid142825
+title1:Distributed loop controller architecture for multi-threading in uni-threaded VLIW processors. citation:10 ncitation:8 pid142825
+title1:Memory Power Reduction for High-Speed Implementation of Turbo Codes. citation:11 ncitation:11 pid1165694
+title1:Memory Power Reduction for High-Speed Implementation of Turbo Codes. citation:11 ncitation:11 pid1165694
+title1:Modeling multidimensional data and control flow. citation:49 ncitation:52 pid1134954
+title1:Modeling multidimensional data and control flow. citation:49 ncitation:52 pid1134954
+title1:A novel approach for network on chip emulation. citation:29 ncitation:27 pid421277
+title1:A novel approach for network on chip emulation. citation:29 ncitation:27 pid421277
+title1:Fast multidimension multichoice knapsack heuristic for MP-SoC runtime management. citation:34 ncitation:35 pid3080546
+title1:Fast multidimension multichoice knapsack heuristic for MP-SoC runtime management. citation:34 ncitation:35 pid3080546
+title1:Fast multidimension multichoice knapsack heuristic for MP-SoC runtime management. citation:34 ncitation:35 pid3080546

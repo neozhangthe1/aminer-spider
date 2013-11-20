@@ -1,0 +1,45 @@
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Mobile Web Service Provisioning. citation:111 ncitation:92 pid33025
+title1:Architecture and Quality in Data Warehouses. citation:180 ncitation:59 pid74273
+title1:Architecture and Quality in Data Warehouses. citation:180 ncitation:59 pid74273
+title1:A Mediation Framework for Mobile Web Service Provisioning. citation:30 ncitation:26 pid177727
+title1:A Mediation Framework for Mobile Web Service Provisioning. citation:30 ncitation:26 pid177727
+title1:Generic Schema Mappings. citation:17 ncitation:10 pid184243
+title1:Generic Schema Mappings. citation:17 ncitation:10 pid184243
+title1:Improving Reviews by Extended Traceability. citation:16 ncitation:16 pid245273
+title1:Improving Reviews by Extended Traceability. citation:16 ncitation:16 pid245273
+title1:Aphasics' Communities Learning on the Web. citation:10 ncitation:9 pid369697
+title1:Aphasics' Communities Learning on the Web. citation:10 ncitation:9 pid369697
+title1:Mobile web services mediation framework. citation:23 ncitation:18 pid500056
+title1:Mobile web services mediation framework. citation:23 ncitation:18 pid500056
+title1:GeRoMe: A Generic Role Based Metamodel for Model Management. citation:49 ncitation:46 pid524087
+title1:GeRoMe: A Generic Role Based Metamodel for Model Management. citation:49 ncitation:46 pid524087
+title1:Qualitätsanalyse im Data Warehousing. citation:2 ncitation:1 pid866184
+title1:Qualitätsanalyse im Data Warehousing. citation:2 ncitation:1 pid866184
+title1:Bachelor- und Master-Studiengaenge in der Informatik: Was ist und was soll die Akkreditierung von Informatikstudiengängen. citation:3 ncitation:3 pid925785
+title1:Bachelor- und Master-Studiengaenge in der Informatik: Was ist und was soll die Akkreditierung von Informatikstudiengängen. citation:3 ncitation:3 pid925785
+title1:Mediengestütztes Anforderungsmanagement. citation:4 ncitation:4 pid925955
+title1:Mediengestütztes Anforderungsmanagement. citation:4 ncitation:4 pid925955
+title1:Mobile Web Service Discovery in Peer to Peer Networks citation:6 ncitation:6 pid2855992
+title1:Mobile Web Service Discovery in Peer to Peer Networks citation:6 ncitation:6 pid2855992
+title1:Security Aware Mobile Web Service Provisioning citation:7 ncitation:7 pid2855994
+title1:Security Aware Mobile Web Service Provisioning citation:7 ncitation:7 pid2855994
+title1:A Performance Evaluation of Mobile Web Services Security citation:11 ncitation:9 pid2855995
+title1:A Performance Evaluation of Mobile Web Services Security citation:11 ncitation:9 pid2855995
+title1:High Impact Requirements Engineering. citation:5 ncitation:3 pid2871869
+title1:High Impact Requirements Engineering. citation:5 ncitation:3 pid2871869
+title1:Development of Computer Science Disciplines - A Social Network Analysis Approach citation:11 ncitation:6 pid3064592
+title1:Development of Computer Science Disciplines - A Social Network Analysis Approach citation:11 ncitation:6 pid3064592
+title1:Designing a Generalized Multiple Criteria Decision Support System. citation:52 ncitation:44 pid3097804
+title1:Designing a Generalized Multiple Criteria Decision Support System. citation:52 ncitation:44 pid3097804
+title1:The 3P Learning Model. citation:15 ncitation:9 pid3258911
+title1:The 3P Learning Model. citation:15 ncitation:9 pid3258911

@@ -1,0 +1,12 @@
+title1:Variable Input Delay CMOS Logic for Low Power Design. citation:17 ncitation:13 pid645835
+title1:Variable Input Delay CMOS Logic for Low Power Design. citation:17 ncitation:13 pid645835
+title1:New Graphical IDDQ Signatures Reduce Defect Level and Yield Loss. citation:4 ncitation:7 pid645870
+title1:New Graphical IDDQ Signatures Reduce Defect Level and Yield Loss. citation:4 ncitation:7 pid645870
+title1:Statistical path delay fault coverage estimation for synchronous sequential circuits. citation:3 ncitation:2 pid645731
+title1:Statistical path delay fault coverage estimation for synchronous sequential circuits. citation:3 ncitation:2 pid645731
+title1:Concurrent Test Generation. citation:14 ncitation:6 pid58045
+title1:Concurrent Test Generation. citation:14 ncitation:6 pid58045
+title1:Fault coverage estimation by test vector sampling. citation:14 ncitation:9 pid1084374
+title1:Fault coverage estimation by test vector sampling. citation:14 ncitation:9 pid1084374
+title1:Mixed-Signal Test. citation:12 ncitation:11 pid645423
+title1:Mixed-Signal Test. citation:12 ncitation:11 pid645423

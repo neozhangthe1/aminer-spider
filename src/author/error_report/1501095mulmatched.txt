@@ -1,0 +1,11 @@
+title1:The DLV System. citation:799 ncitation:53 pid469205
+title1:The DLV System. citation:799 ncitation:53 pid469205
+title1:The DLV System. citation:799 ncitation:53 pid469205
+title1:The DLV System. citation:799 ncitation:53 pid469205
+title1:The DLV System. citation:799 ncitation:53 pid469205
+title1:\mathbb: Decidable Non-monotonic Disjunctive Logic Programs with Function Symbols. citation:39 ncitation:-1 pid487427
+title1:\mathbb: Decidable Non-monotonic Disjunctive Logic Programs with Function Symbols. citation:39 ncitation:-1 pid487427
+title1:Well-Founded Semantics for Description Logic Programs in the Semantic Web. citation:84 ncitation:86 pid565748
+title1:Well-Founded Semantics for Description Logic Programs in the Semantic Web. citation:84 ncitation:86 pid565748
+title1:Reasoning with Rules and Ontologies. citation:56 ncitation:50 pid565923
+title1:Reasoning with Rules and Ontologies. citation:56 ncitation:50 pid565923

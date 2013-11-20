@@ -1,0 +1,4 @@
+title1:A forward body-biased low-leakage SRAM cache: device and architecture considerations. citation:69 ncitation:50 pid436872
+title1:A forward body-biased low-leakage SRAM cache: device and architecture considerations. citation:69 ncitation:50 pid436872
+title1:Low Power Design. citation:34 ncitation:-1 pid645929
+title1:Low Power Design. citation:34 ncitation:-1 pid645929

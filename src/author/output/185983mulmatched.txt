@@ -1,0 +1,27 @@
+title1:A Novel Scheme for Secured Data Transfer Over Computer Networks citation:2 ncitation:2 pid1336221
+title1:A Novel Scheme for Secured Data Transfer Over Computer Networks citation:2 ncitation:2 pid1336221
+title1:A novel Variable Neighborhood Particle Swarm Optimization for multi-objective Flexible Job-Shop Scheduling Problems. citation:48 ncitation:48 pid706876
+title1:A novel Variable Neighborhood Particle Swarm Optimization for multi-objective Flexible Job-Shop Scheduling Problems. citation:48 ncitation:48 pid706876
+title1:Engineering Evolutionary Intelligent Systems citation:13 ncitation:5 pid1201612
+title1:Engineering Evolutionary Intelligent Systems citation:13 ncitation:5 pid1201612
+title1:Intrusion Detection Systems Using Adaptive Regression Splines. citation:53 ncitation:52 pid306908
+title1:Intrusion Detection Systems Using Adaptive Regression Splines. citation:53 ncitation:52 pid306908
+title1:Adaptation of a Mamdani Fuzzy Inference System Using Neuro-Genetic Approach for Tactical Air Combat Decision Support System. citation:8 ncitation:10 pid59922
+title1:Adaptation of a Mamdani Fuzzy Inference System Using Neuro-Genetic Approach for Tactical Air Combat Decision Support System. citation:8 ncitation:10 pid59922
+title1:Computational Intelligence in Data Mining. citation:20 ncitation:19 pid923452
+title1:Computational Intelligence in Data Mining. citation:20 ncitation:19 pid923452
+title1:Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques. citation:177 ncitation:177 pid461879
+title1:Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques. citation:177 ncitation:177 pid461879
+title1:Automatic circle detection on images with an adaptive bacterial foraging algorithm. citation:33 ncitation:32 pid227947
+title1:Automatic circle detection on images with an adaptive bacterial foraging algorithm. citation:33 ncitation:32 pid227947
+title1:Design of fractional order PID controllers with an improved differential evolution. citation:90 ncitation:90 pid227897
+title1:Design of fractional order PID controllers with an improved differential evolution. citation:90 ncitation:90 pid227897
+title1:Hybrid Artificial Intelligence Systems. citation:0 ncitation:0 pid1203164
+title1:Hybrid Artificial Intelligence Systems. citation:0 ncitation:0 pid1203164
+title1:Hybrid Artificial Intelligence Systems. citation:0 ncitation:0 pid1203164
+title1:Web Services Practices. citation:0 ncitation:0 pid2981590
+title1:Web Services Practices. citation:0 ncitation:0 pid2981590
+title1:Convergence Analysis of Swarm Algorithm. citation:3 ncitation:3 pid3054656
+title1:Convergence Analysis of Swarm Algorithm. citation:3 ncitation:3 pid3054656
+title1:Intelligent Computational Optimization in Engineering: Techniques and Applications. citation:3 ncitation:2 pid3322708
+title1:Intelligent Computational Optimization in Engineering: Techniques and Applications. citation:3 ncitation:2 pid3322708

@@ -1,0 +1,34 @@
+title1:Configuration compression for FPGA-based embedded systems. citation:30 ncitation:59 pid214321
+title1:Configuration compression for FPGA-based embedded systems. citation:30 ncitation:59 pid214321
+title1:Mapping Loops onto Reconfigurable Architectures. citation:9 ncitation:31 pid214994
+title1:Mapping Loops onto Reconfigurable Architectures. citation:9 ncitation:31 pid214994
+title1:Communication Models for Algorithm Design in Networked Sensor Systems. citation:10 ncitation:10 pid411365
+title1:Communication Models for Algorithm Design in Networked Sensor Systems. citation:10 ncitation:10 pid411365
+title1:Parallel IP lookup using multiple SRAM-based pipelines. citation:9 ncitation:17 pid412329
+title1:Parallel IP lookup using multiple SRAM-based pipelines. citation:9 ncitation:17 pid412329
+title1:Parallel Exact Inference. citation:19 ncitation:4 pid529500
+title1:Parallel Exact Inference. citation:19 ncitation:4 pid529500
+title1:Parallel Exact Inference. citation:19 ncitation:4 pid529500
+title1:Parallel Exact Inference. citation:19 ncitation:4 pid529500
+title1:Parallel Exact Inference. citation:19 ncitation:4 pid529500
+title1:Parallel Exact Inference. citation:19 ncitation:4 pid529500
+title1:An Optimal Multiplication Algorithm for Reconfigurable Mesh. citation:26 ncitation:27 pid614997
+title1:An Optimal Multiplication Algorithm for Reconfigurable Mesh. citation:26 ncitation:27 pid614997
+title1:Efficient Algorithms for Block-Cyclic Array Redistribution Between Processor Sets. citation:53 ncitation:50 pid1125597
+title1:Efficient Algorithms for Block-Cyclic Array Redistribution Between Processor Sets. citation:53 ncitation:50 pid1125597
+title1:High Performance Computing - HiPC 2000, 7th International Conference, Bangalore, India, December 17-20, 2000, Proceedings citation:0 ncitation:-1 pid2791102
+title1:High Performance Computing - HiPC 2000, 7th International Conference, Bangalore, India, December 17-20, 2000, Proceedings citation:0 ncitation:-1 pid2791102
+title1:High Performance Computing - HiPC 2001, 8th International Conference, Hyderabad, India, December, 17-20, 2001, Proceedings citation:2 ncitation:0 pid2791103
+title1:High Performance Computing - HiPC 2001, 8th International Conference, Hyderabad, India, December, 17-20, 2001, Proceedings citation:2 ncitation:0 pid2791103
+title1:High Performance Computing - HiPC 2002, 9th International Conference, Bangalore, India, December 18-21, 2002, Proceedings citation:0 ncitation:0 pid2791104
+title1:High Performance Computing - HiPC 2002, 9th International Conference, Bangalore, India, December 18-21, 2002, Proceedings citation:0 ncitation:0 pid2791104
+title1:High Performance Computing - HiPC 2004, 11th International Conference, Bangalore, India, December 19-22, 2004, Proceedings citation:0 ncitation:-1 pid2791106
+title1:High Performance Computing - HiPC 2004, 11th International Conference, Bangalore, India, December 19-22, 2004, Proceedings citation:0 ncitation:-1 pid2791106
+title1:High Performance Computing - HiPC 2006, 13th International Conference, Bangalore, India, December 18-21, 2006, Proceedings citation:0 ncitation:4 pid2791107
+title1:High Performance Computing - HiPC 2006, 13th International Conference, Bangalore, India, December 18-21, 2006, Proceedings citation:0 ncitation:4 pid2791107
+title1:High Performance Computing - HiPC 2005, 12th International Conference, Goa, India, December 18-21, 2005, Proceedings citation:0 ncitation:-1 pid2791108
+title1:High Performance Computing - HiPC 2005, 12th International Conference, Goa, India, December 18-21, 2005, Proceedings citation:0 ncitation:-1 pid2791108
+title1:High Performance Computing - HiPC 2008, 15th International Conference, Bangalore, India, December 17-20, 2008. Proceedings citation:0 ncitation:4 pid2791110
+title1:High Performance Computing - HiPC 2008, 15th International Conference, Bangalore, India, December 17-20, 2008. Proceedings citation:0 ncitation:4 pid2791110
+title1:Distributed Evidence Propagation in Junction Trees. citation:0 ncitation:1 pid3215397
+title1:Distributed Evidence Propagation in Junction Trees. citation:0 ncitation:1 pid3215397

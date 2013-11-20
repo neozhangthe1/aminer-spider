@@ -1,0 +1,34 @@
+title1:Learning Heuristics for OBDD Minimization by Evolutionary Algorithms. citation:36 ncitation:33 pid549908
+title1:Learning Heuristics for OBDD Minimization by Evolutionary Algorithms. citation:36 ncitation:33 pid549908
+title1:Crossing Reduction by Windows Optimization. citation:21 ncitation:21 pid224819
+title1:Crossing Reduction by Windows Optimization. citation:21 ncitation:21 pid224819
+title1:Polynomial Formal Verification of Multipliers. citation:28 ncitation:28 pid649081
+title1:Polynomial Formal Verification of Multipliers. citation:28 ncitation:28 pid649081
+title1:Effiziente Erfüllbarkeitsalgorithmen für die Generierung von Testmustern (Efficient Satisfiability Solving Algorithms for Test Pattern Generation). citation:0 ncitation:0 pid1338214
+title1:Effiziente Erfüllbarkeitsalgorithmen für die Generierung von Testmustern (Efficient Satisfiability Solving Algorithms for Test Pattern Generation). citation:0 ncitation:0 pid1338214
+title1:Visualization of SystemC Designs. citation:21 ncitation:9 pid428478
+title1:Visualization of SystemC Designs. citation:21 ncitation:9 pid428478
+title1:Instance Generation for SAT-based ATPG. citation:5 ncitation:5 pid147654
+title1:Instance Generation for SAT-based ATPG. citation:5 ncitation:5 pid147654
+title1:Algorithms for Taylor Expansion Diagrams. citation:7 ncitation:-1 pid440883
+title1:Algorithms for Taylor Expansion Diagrams. citation:7 ncitation:-1 pid440883
+title1:Increasing the accuracy of SAT-based debugging. citation:9 ncitation:8 pid1241450
+title1:Increasing the accuracy of SAT-based debugging. citation:9 ncitation:8 pid1241450
+title1:Automatic Test Pattern Generation. citation:5 ncitation:6 pid586418
+title1:Automatic Test Pattern Generation. citation:5 ncitation:6 pid586418
+title1:Automatic Test Pattern Generation. citation:5 ncitation:6 pid586418
+title1:Automatic Test Pattern Generation. citation:5 ncitation:6 pid586418
+title1:Property analysis and design understanding. citation:7 ncitation:6 pid1241300
+title1:Property analysis and design understanding. citation:7 ncitation:6 pid1241300
+title1:Testability of SPP Three-Level Logic Networks. citation:3 ncitation:3 pid644387
+title1:Testability of SPP Three-Level Logic Networks. citation:3 ncitation:3 pid644387
+title1:Computation of Spectral Information from Logic Netlists. citation:3 ncitation:2 pid440829
+title1:Computation of Spectral Information from Logic Netlists. citation:3 ncitation:2 pid440829
+title1:Fast and efficient construction of BDDs by reordering based synthesis. citation:12 ncitation:12 pid144026
+title1:Fast and efficient construction of BDDs by reordering based synthesis. citation:12 ncitation:12 pid144026
+title1:Implementation and Visualization of a BDD Package in JAVA. citation:2 ncitation:2 pid3489334
+title1:Implementation and Visualization of a BDD Package in JAVA. citation:2 ncitation:2 pid3489334
+title1:BDD-based verification of scalable designs. citation:0 ncitation:0 pid3563933
+title1:BDD-based verification of scalable designs. citation:0 ncitation:0 pid3563933
+title1:Formal Specification Level: Towards verification-driven design based on natural language processing. citation:4 ncitation:1 pid3572390
+title1:Formal Specification Level: Towards verification-driven design based on natural language processing. citation:4 ncitation:1 pid3572390

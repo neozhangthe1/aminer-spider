@@ -1,0 +1,8 @@
+title1:Mining Logs Files for Computing System Management. citation:40 ncitation:22 pid264269
+title1:Mining Logs Files for Computing System Management. citation:40 ncitation:22 pid264269
+title1:Weighted Consensus Clustering. citation:8 ncitation:38 pid579054
+title1:Weighted Consensus Clustering. citation:8 ncitation:38 pid579054
+title1:Ontology-enriched multi-document summarization in disaster management. citation:1 ncitation:2 pid2814417
+title1:Ontology-enriched multi-document summarization in disaster management. citation:1 ncitation:2 pid2814417
+title1:Incremental Workflow Mining with Optional Patterns. citation:5 ncitation:None pid3659358
+title1:Incremental Workflow Mining with Optional Patterns. citation:5 ncitation:None pid3659358

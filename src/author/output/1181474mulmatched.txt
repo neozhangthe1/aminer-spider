@@ -1,0 +1,61 @@
+title1:GridCrypt: High Performance Symmetric Key Cryptography Using Enterprise Grids. citation:25 ncitation:22 pid532687
+title1:GridCrypt: High Performance Symmetric Key Cryptography Using Enterprise Grids. citation:25 ncitation:22 pid532687
+title1:Integrated Risk Analysis for a Commercial Computing Service. citation:35 ncitation:30 pid412287
+title1:Integrated Risk Analysis for a Commercial Computing Service. citation:35 ncitation:30 pid412287
+title1:Economy-Based Data Replication Broker. citation:7 ncitation:6 pid163151
+title1:Economy-Based Data Replication Broker. citation:7 ncitation:6 pid163151
+title1:Grid Market Directory: A Web Services based Grid Service Publication Directory citation:12 ncitation:12 pid817647
+title1:Grid Market Directory: A Web Services based Grid Service Publication Directory citation:12 ncitation:12 pid817647
+title1:Decentralised Resource Discovery Service for Large Scale Federated Grids. citation:25 ncitation:15 pid163160
+title1:Decentralised Resource Discovery Service for Large Scale Federated Grids. citation:25 ncitation:15 pid163160
+title1:G-Monitor: Gridbus web portal for monitoring and steering application execution on global grids citation:9 ncitation:7 pid817648
+title1:G-Monitor: Gridbus web portal for monitoring and steering application execution on global grids citation:9 ncitation:7 pid817648
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:Cluster Computing. citation:957 ncitation:11 pid196160
+title1:An architecture for virtual organization (VO)-based effective peering of content delivery networks. citation:18 ncitation:17 pid255452
+title1:An architecture for virtual organization (VO)-based effective peering of content delivery networks. citation:18 ncitation:17 pid255452
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Cluster computing. citation:0 ncitation:5 pid876682
+title1:Enabling the Simulation of Service-Oriented Computing and Provisioning Policies for Autonomic Utility Grids. citation:9 ncitation:9 pid700353
+title1:Enabling the Simulation of Service-Oriented Computing and Provisioning Policies for Autonomic Utility Grids. citation:9 ncitation:9 pid700353
+title1:Visual Parameteric Modeler for Rapid Composition of Parameter-Sweep Applications for Processing on Global Grids. citation:2 ncitation:2 pid278284
+title1:Visual Parameteric Modeler for Rapid Composition of Parameter-Sweep Applications for Processing on Global Grids. citation:2 ncitation:2 pid278284
+title1:A Taxonomy of Workflow Management Systems for Grid Computing citation:630 ncitation:587 pid822287
+title1:A Taxonomy of Workflow Management Systems for Grid Computing citation:630 ncitation:587 pid822287
+title1:Portfolio and investment risk analysis on global grids. citation:8 ncitation:9 pid973265
+title1:Portfolio and investment risk analysis on global grids. citation:8 ncitation:9 pid973265
+title1:An Integration of Global and Enterprise Grid Computing: Gridbus Broker and Xgrid Perspective. citation:6 ncitation:6 pid223540
+title1:An Integration of Global and Enterprise Grid Computing: Gridbus Broker and Xgrid Perspective. citation:6 ncitation:6 pid223540
+title1:Topic 6: Grid and Cluster Computing. citation:0 ncitation:-1 pid197928
+title1:Topic 6: Grid and Cluster Computing. citation:0 ncitation:-1 pid197928
+title1:Scheduling scientific workflow applications with deadline and budget constraints using genetic algorithms. citation:172 ncitation:132 pid1073118
+title1:Scheduling scientific workflow applications with deadline and budget constraints using genetic algorithms. citation:172 ncitation:132 pid1073118
+title1:A Grid Service Broker for Scheduling Distributed Data-Oriented Applications on Global Grids citation:177 ncitation:161 pid817758
+title1:A Grid Service Broker for Scheduling Distributed Data-Oriented Applications on Global Grids citation:177 ncitation:161 pid817758

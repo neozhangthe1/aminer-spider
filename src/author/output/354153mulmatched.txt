@@ -1,0 +1,12 @@
+title1:Signature Files. citation:27 ncitation:103 pid2520
+title1:Signature Files. citation:27 ncitation:103 pid2520
+title1:Signature Files. citation:27 ncitation:103 pid2520
+title1:Signature Files. citation:27 ncitation:103 pid2520
+title1:Signature Files. citation:27 ncitation:103 pid2520
+title1:Signature Files. citation:27 ncitation:103 pid2520
+title1:Storage Device Performance Prediction with CART Models. citation:113 ncitation:103 pid489958
+title1:Storage Device Performance Prediction with CART Models. citation:113 ncitation:103 pid489958
+title1:Access Methods for Bi-Temporal Databases citation:185 ncitation:-1 pid627604
+title1:Access Methods for Bi-Temporal Databases citation:185 ncitation:-1 pid627604
+title1:Adaptive, Hands-Off Stream Mining. citation:116 ncitation:108 pid643483
+title1:Adaptive, Hands-Off Stream Mining. citation:116 ncitation:108 pid643483

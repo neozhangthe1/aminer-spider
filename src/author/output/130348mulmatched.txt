@@ -1,0 +1,71 @@
+title1:Object-Oriented Database Systems citation:2 ncitation:-1 pid93
+title1:Object-Oriented Database Systems citation:2 ncitation:-1 pid93
+title1:Object-Oriented Database Systems citation:2 ncitation:-1 pid93
+title1:Object-Oriented Database Systems citation:2 ncitation:-1 pid93
+title1:Object-Oriented Database Systems citation:2 ncitation:-1 pid93
+title1:Object-Oriented Database Systems citation:2 ncitation:-1 pid93
+title1:Object-Oriented Database Systems citation:2 ncitation:-1 pid93
+title1:Object-Oriented Database Systems citation:2 ncitation:-1 pid93
+title1:Query Processing. citation:16 ncitation:6 pid2661
+title1:Query Processing. citation:16 ncitation:6 pid2661
+title1:Query Processing. citation:16 ncitation:6 pid2661
+title1:Query Processing. citation:16 ncitation:6 pid2661
+title1:Query Processing. citation:16 ncitation:6 pid2661
+title1:Query Processing. citation:16 ncitation:6 pid2661
+title1:Query Processing. citation:16 ncitation:6 pid2661
+title1:A Temporal Authorization Model. citation:4 ncitation:59 pid83832
+title1:A Temporal Authorization Model. citation:4 ncitation:59 pid83832
+title1:Data Security. citation:7 ncitation:64 pid111766
+title1:Data Security. citation:7 ncitation:64 pid111766
+title1:Data Security. citation:7 ncitation:64 pid111766
+title1:A Decentralized Approach for Controlled Sharing of Resources in Virtual Communities. citation:1 ncitation:1 pid122562
+title1:A Decentralized Approach for Controlled Sharing of Resources in Virtual Communities. citation:1 ncitation:1 pid122562
+title1:Establishing and protecting digital identity in federation systems. citation:71 ncitation:66 pid156409
+title1:Establishing and protecting digital identity in federation systems. citation:71 ncitation:66 pid156409
+title1:Privacy preserving multi-factor authentication with biometrics. citation:61 ncitation:53 pid156421
+title1:Privacy preserving multi-factor authentication with biometrics. citation:61 ncitation:53 pid156421
+title1:Trigger Inheritance and Overriding in Active Object Database Systems. citation:19 ncitation:19 pid160053
+title1:Trigger Inheritance and Overriding in Active Object Database Systems. citation:19 ncitation:19 pid160053
+title1:Deductive Object Databases. citation:4 ncitation:33 pid172953
+title1:Deductive Object Databases. citation:4 ncitation:33 pid172953
+title1:Deductive Object Databases. citation:4 ncitation:33 pid172953
+title1:A Trust-based Context-Aware Access Control Model for Web-Services. citation:72 ncitation:80 pid370568
+title1:A Trust-based Context-Aware Access Control Model for Web-Services. citation:72 ncitation:80 pid370568
+title1:Privacy-Preserving Trust Negotiations. citation:57 ncitation:34 pid539676
+title1:Privacy-Preserving Trust Negotiations. citation:57 ncitation:34 pid539676
+title1:TRBAC: a temporal role-based access control model. citation:750 ncitation:664 pid557947
+title1:TRBAC: a temporal role-based access control model. citation:750 ncitation:664 pid557947
+title1:GEO-RBAC: a spatially aware RBAC. citation:203 ncitation:190 pid570160
+title1:GEO-RBAC: a spatially aware RBAC. citation:203 ncitation:190 pid570160
+title1:X-GTRBAC admin: a decentralized administration model for enterprise wide access control. citation:55 ncitation:49 pid570174
+title1:X-GTRBAC admin: a decentralized administration model for enterprise wide access control. citation:55 ncitation:49 pid570174
+title1:Privacy-aware role based access control. citation:0 ncitation:118 pid570290
+title1:Privacy-aware role based access control. citation:0 ncitation:118 pid570290
+title1:Privacy-aware role based access control. citation:0 ncitation:118 pid570290
+title1:Index Configurations in Object-Oriented Databases. citation:49 ncitation:-1 pid684720
+title1:Index Configurations in Object-Oriented Databases. citation:49 ncitation:-1 pid684720
+title1:Guest Editors' Introduction. citation:0 ncitation:-1 pid856011
+title1:Guest Editors' Introduction. citation:0 ncitation:-1 pid856011
+title1:Guest Editors' Introduction. citation:0 ncitation:-1 pid856011
+title1:Guest Editors' Introduction. citation:0 ncitation:-1 pid856011
+title1:Guest Editors' Introduction. citation:0 ncitation:-1 pid856011
+title1:Guest Editors' Introduction. citation:0 ncitation:-1 pid856011
+title1:Quality of Service Specification in Video Databases. citation:2 ncitation:5 pid893729
+title1:Quality of Service Specification in Video Databases. citation:2 ncitation:5 pid893729
+title1:Quality of Service Specification in Video Databases. citation:2 ncitation:5 pid893729
+title1:Formal foundations for hybrid hierarchies in GTRBAC. citation:19 ncitation:19 pid1103716
+title1:Formal foundations for hybrid hierarchies in GTRBAC. citation:19 ncitation:19 pid1103716
+title1:Guest Editors' Introduction. citation:7 ncitation:-1 pid1141838
+title1:Guest Editors' Introduction. citation:7 ncitation:-1 pid1141838
+title1:Object-Oriented Databases. citation:18 ncitation:16 pid1200666
+title1:Object-Oriented Databases. citation:18 ncitation:16 pid1200666
+title1:Object-Oriented Databases. citation:18 ncitation:16 pid1200666
+title1:Object-Oriented Databases. citation:18 ncitation:16 pid1200666
+title1:Privacy-Aware Role-Based Access Control. citation:28 ncitation:118 pid1273329
+title1:Privacy-Aware Role-Based Access Control. citation:28 ncitation:118 pid1273329
+title1:Privacy-Aware Role-Based Access Control. citation:28 ncitation:118 pid1273329
+title1:VeryIDX - A Privacy Preserving Digital Identity Management System for Mobile Devices. citation:4 ncitation:2 pid1308494
+title1:VeryIDX - A Privacy Preserving Digital Identity Management System for Mobile Devices. citation:4 ncitation:2 pid1308494
+title1:Privacy-aware role-based access control. citation:1 ncitation:118 pid2869957
+title1:Privacy-aware role-based access control. citation:1 ncitation:118 pid2869957
+title1:Privacy-aware role-based access control. citation:1 ncitation:118 pid2869957

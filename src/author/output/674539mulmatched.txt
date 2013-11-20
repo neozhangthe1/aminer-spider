@@ -1,0 +1,14 @@
+title1:Adaptive Fourier-Based Surface Reconstruction. citation:9 ncitation:4 pid235252
+title1:Adaptive Fourier-Based Surface Reconstruction. citation:9 ncitation:4 pid235252
+title1:Perceptual evaluation of tone mapping operators. citation:97 ncitation:29 pid593268
+title1:Perceptual evaluation of tone mapping operators. citation:97 ncitation:29 pid593268
+title1:Feature-preserving non-local denoising of static and time-varying range data. citation:16 ncitation:14 pid606240
+title1:Feature-preserving non-local denoising of static and time-varying range data. citation:16 ncitation:14 pid606240
+title1:Linear onesided stability of MAT for weakly injective 3D domain. citation:0 ncitation:27 pid605859
+title1:Linear onesided stability of MAT for weakly injective 3D domain. citation:0 ncitation:27 pid605859
+title1:Feature Flow Fields. citation:10 ncitation:96 pid639034
+title1:Feature Flow Fields. citation:10 ncitation:96 pid639034
+title1:Linear one-sided stability of MAT for weakly injective 3D domain. citation:29 ncitation:27 pid778278
+title1:Linear one-sided stability of MAT for weakly injective 3D domain. citation:29 ncitation:27 pid778278
+title1:Linear One-Sided Stability of MAT for Weakly Injective Domain. citation:6 ncitation:27 pid1339326
+title1:Linear One-Sided Stability of MAT for Weakly Injective Domain. citation:6 ncitation:27 pid1339326

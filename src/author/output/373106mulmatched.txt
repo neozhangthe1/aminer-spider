@@ -1,0 +1,22 @@
+title1:Trusted Recovery. citation:1 ncitation:48 pid773105
+title1:Trusted Recovery. citation:1 ncitation:48 pid773105
+title1:Trusted Recovery. citation:1 ncitation:48 pid773105
+title1:Trusted Recovery. citation:1 ncitation:48 pid773105
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Trusted Recovery. citation:0 ncitation:1 pid1202645
+title1:Data Security. citation:5 ncitation:0 pid1200781
+title1:Data Security. citation:5 ncitation:0 pid1200781
+title1:Temporal Modules: An Approach Toward Federated Temporal Databases. citation:65 ncitation:61 pid942061
+title1:Temporal Modules: An Approach Toward Federated Temporal Databases. citation:65 ncitation:61 pid942061
+title1:Data Mining for Intrusion Detection. citation:9 ncitation:10 pid2776
+title1:Data Mining for Intrusion Detection. citation:9 ncitation:10 pid2776
+title1:Polyinstantiation Integrity in Multilevel Relations. citation:3 ncitation:117 pid613638
+title1:Polyinstantiation Integrity in Multilevel Relations. citation:3 ncitation:117 pid613638
+title1:Surviving Information Warfare Attacks. citation:124 ncitation:31 pid806848
+title1:Surviving Information Warfare Attacks. citation:124 ncitation:31 pid806848
+title1:Securing Topology Maintenance Protocols for Sensor Networks. citation:10 ncitation:10 pid3080429
+title1:Securing Topology Maintenance Protocols for Sensor Networks. citation:10 ncitation:10 pid3080429
+title1:Topological Vulnerability Analysis. citation:27 ncitation:27 pid3323451
+title1:Topological Vulnerability Analysis. citation:27 ncitation:27 pid3323451

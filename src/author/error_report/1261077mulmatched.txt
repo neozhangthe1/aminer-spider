@@ -1,0 +1,101 @@
+title1:Concurrent Zero-Knowledge with Timing, Revisited. citation:3 ncitation:52 pid65898
+title1:Concurrent Zero-Knowledge with Timing, Revisited. citation:3 ncitation:52 pid65898
+title1:On Promise Problems: A Survey. citation:32 ncitation:16 pid65899
+title1:On Promise Problems: A Survey. citation:32 ncitation:16 pid65899
+title1:On Teaching the Basics of Complexity Theory. citation:6 ncitation:4 pid65900
+title1:On Teaching the Basics of Complexity Theory. citation:6 ncitation:4 pid65900
+title1:On Defining Proofs of Knowledge. citation:408 ncitation:399 pid119651
+title1:On Defining Proofs of Knowledge. citation:408 ncitation:399 pid119651
+title1:On the (Im)possibility of Obfuscating Programs. citation:25 ncitation:604 pid119705
+title1:On the (Im)possibility of Obfuscating Programs. citation:25 ncitation:604 pid119705
+title1:On the Foundations of Modern Cryptography. citation:62 ncitation:42 pid120065
+title1:On the Foundations of Modern Cryptography. citation:62 ncitation:42 pid120065
+title1:Eliminating Decryption Errors in the Ajtai-Dwork Cryptosystem. citation:61 ncitation:60 pid120069
+title1:Eliminating Decryption Errors in the Ajtai-Dwork Cryptosystem. citation:61 ncitation:60 pid120069
+title1:How to Prove all NP-Statements in Zero-Knowledge, and a Methodology of Cryptographic Protocol Design. citation:118 ncitation:102 pid120076
+title1:How to Prove all NP-Statements in Zero-Knowledge, and a Methodology of Cryptographic Protocol Design. citation:118 ncitation:102 pid120076
+title1:Self-Delegation with Controlled Propagation - or - What If You Lose Your Laptop. citation:50 ncitation:48 pid120077
+title1:Self-Delegation with Controlled Propagation - or - What If You Lose Your Laptop. citation:50 ncitation:48 pid120077
+title1:Simple Constructions of Almost k-Wise Independent Random Variables citation:389 ncitation:373 pid209862
+title1:Simple Constructions of Almost k-Wise Independent Random Variables citation:389 ncitation:373 pid209862
+title1:Simple Constructions of Almost k-Wise Independent Random Variables citation:389 ncitation:373 pid209862
+title1:Resettably-Sound Zero-Knowledge and its Applications. citation:82 ncitation:77 pid210031
+title1:Resettably-Sound Zero-Knowledge and its Applications. citation:82 ncitation:77 pid210031
+title1:Free Bits, PCPs and Non-Approximability - Towards Tight Results. citation:401 ncitation:396 pid210090
+title1:Free Bits, PCPs and Non-Approximability - Towards Tight Results. citation:401 ncitation:396 pid210090
+title1:Free Bits, PCPs and Non-Approximability - Towards Tight Results. citation:401 ncitation:396 pid210090
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Zero-Knowledge. citation:1014 ncitation:-1 pid210750
+title1:Testing Monotonicity. citation:135 ncitation:124 pid210754
+title1:Testing Monotonicity. citation:135 ncitation:124 pid210754
+title1:On the Implementation of Huge Random Objects. citation:34 ncitation:31 pid210758
+title1:On the Implementation of Huge Random Objects. citation:34 ncitation:31 pid210758
+title1:Locally Testable Codes and PCPs of Almost-Linear Length. citation:117 ncitation:59 pid210774
+title1:Locally Testable Codes and PCPs of Almost-Linear Length. citation:117 ncitation:59 pid210774
+title1:Pseudorandomness. citation:296 ncitation:13 pid268098
+title1:Pseudorandomness. citation:296 ncitation:13 pid268098
+title1:Pseudorandomness. citation:296 ncitation:13 pid268098
+title1:Pseudorandomness. citation:296 ncitation:13 pid268098
+title1:Pseudorandomness. citation:296 ncitation:13 pid268098
+title1:Pseudorandomness. citation:296 ncitation:13 pid268098
+title1:Pseudorandomness. citation:296 ncitation:13 pid268098
+title1:Pseudorandomness. citation:296 ncitation:13 pid268098
+title1:On the Time-Complexity of Broadcast in Radio Networks: An Exponential Gap Between Determinism and Randomization. citation:351 ncitation:336 pid543688
+title1:On the Time-Complexity of Broadcast in Radio Networks: An Exponential Gap Between Determinism and Randomization. citation:351 ncitation:336 pid543688
+title1:Derandomization That Is Rarely Wrong from Short Advice That Is Typically Good. citation:27 ncitation:26 pid557726
+title1:Derandomization That Is Rarely Wrong from Short Advice That Is Typically Good. citation:27 ncitation:26 pid557726
+title1:Improved Derandomization of BPP Using a Hitting Set Generator. citation:24 ncitation:24 pid557728
+title1:Improved Derandomization of BPP Using a Hitting Set Generator. citation:24 ncitation:24 pid557728
+title1:On basing one-way functions on NP-hardness. citation:45 ncitation:45 pid621157
+title1:On basing one-way functions on NP-hardness. citation:45 ncitation:45 pid621157
+title1:Concurrent zero-knowledge with timing, revisited. citation:0 ncitation:52 pid622144
+title1:Concurrent zero-knowledge with timing, revisited. citation:0 ncitation:52 pid622144
+title1:On Expected Probabilistic Polynomial-Time Adversaries: A Suggestion for Restricted Definitions and Their Benefits. citation:10 ncitation:9 pid627276
+title1:On Expected Probabilistic Polynomial-Time Adversaries: A Suggestion for Restricted Definitions and Their Benefits. citation:10 ncitation:9 pid627276
+title1:Candidate One-Way Functions Based on Expander Graphs citation:58 ncitation:54 pid861072
+title1:Candidate One-Way Functions Based on Expander Graphs citation:58 ncitation:54 pid861072
+title1:The GGM Construction does NOT yield Correlation Intractable Function Ensembles. citation:1 ncitation:2 pid861281
+title1:The GGM Construction does NOT yield Correlation Intractable Function Ensembles. citation:1 ncitation:2 pid861281
+title1:Three XOR-Lemmas - An Exposition citation:35 ncitation:37 pid861781
+title1:Three XOR-Lemmas - An Exposition citation:35 ncitation:37 pid861781
+title1:Collision-Free Hashing from Lattice Problems citation:7 ncitation:89 pid861830
+title1:Collision-Free Hashing from Lattice Problems citation:7 ncitation:89 pid861830
+title1:Notes on Levin's Theory of Average-Case Complexity. citation:43 ncitation:47 pid861913
+title1:Notes on Levin's Theory of Average-Case Complexity. citation:43 ncitation:47 pid861913
+title1:On Probabilistic versus Deterministic Provers in the Definition of Proofs Of Knowledge. citation:16 ncitation:13 pid862423
+title1:On Probabilistic versus Deterministic Provers in the Definition of Proofs Of Knowledge. citation:16 ncitation:13 pid862423
+title1:Preface. citation:4 ncitation:5 pid985908
+title1:Preface. citation:4 ncitation:5 pid985908
+title1:Special Issue on Randomness and Complexity. citation:0 ncitation:0 pid1060721
+title1:Special Issue on Randomness and Complexity. citation:0 ncitation:0 pid1060721
+title1:DES-like functions can generate the alternating group. citation:38 ncitation:36 pid1105473
+title1:DES-like functions can generate the alternating group. citation:38 ncitation:36 pid1105473
+title1:A taxonomy of proof systems (part 2). citation:2 ncitation:3 pid1342100
+title1:A taxonomy of proof systems (part 2). citation:2 ncitation:3 pid1342100
+title1:Randomness and Computation. citation:0 ncitation:0 pid3169056
+title1:Randomness and Computation. citation:0 ncitation:0 pid3169056
+title1:Strong Proofs of Knowledge. citation:0 ncitation:0 pid3169063
+title1:Strong Proofs of Knowledge. citation:0 ncitation:0 pid3169063
+title1:Resettably-Sound Zero-Knowledge and its Applications. citation:0 ncitation:77 pid3255887
+title1:Resettably-Sound Zero-Knowledge and its Applications. citation:0 ncitation:77 pid3255887

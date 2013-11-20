@@ -1,0 +1,8 @@
+title1:Optimal Moebius Transformations for Information Visualization and Meshing citation:22 ncitation:22 pid816627
+title1:Optimal Moebius Transformations for Information Visualization and Meshing citation:22 ncitation:22 pid816627
+title1:Guest Editor's Foreword. citation:0 ncitation:-1 pid843317
+title1:Guest Editor's Foreword. citation:0 ncitation:-1 pid843317
+title1:Minimum dilation stars. citation:24 ncitation:23 pid804023
+title1:Minimum dilation stars. citation:24 ncitation:23 pid804023
+title1:Computing the Discrepancy. citation:49 ncitation:42 pid110936
+title1:Computing the Discrepancy. citation:49 ncitation:42 pid110936

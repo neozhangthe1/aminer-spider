@@ -1,0 +1,32 @@
+title1:Hierarchical Multicast Tree Algorithms for Application Layer Mesh Networks. citation:9 ncitation:8 pid289674
+title1:Hierarchical Multicast Tree Algorithms for Application Layer Mesh Networks. citation:9 ncitation:8 pid289674
+title1:Hierarchical Multicast Tree Algorithms for Application Layer Mesh Networks. citation:9 ncitation:8 pid289674
+title1:Extended Minimal Routing in 2-D Meshes with Faulty Blocks. citation:0 ncitation:7 pid298507
+title1:Extended Minimal Routing in 2-D Meshes with Faulty Blocks. citation:0 ncitation:7 pid298507
+title1:Balanced Hypercubes. citation:11 ncitation:10 pid343191
+title1:Balanced Hypercubes. citation:11 ncitation:10 pid343191
+title1:Balanced Hypercubes. citation:11 ncitation:10 pid343191
+title1:SMART: a scan-based movement-assisted sensor deployment method in wireless sensor networks. citation:154 ncitation:140 pid402549
+title1:SMART: a scan-based movement-assisted sensor deployment method in wireless sensor networks. citation:154 ncitation:140 pid402549
+title1:Routing in a cyclic mobispace. citation:91 ncitation:72 pid506594
+title1:Routing in a cyclic mobispace. citation:91 ncitation:72 pid506594
+title1:A probabilistic voting-based filtering scheme in wireless sensor networks. citation:72 ncitation:63 pid699493
+title1:A probabilistic voting-based filtering scheme in wireless sensor networks. citation:72 ncitation:63 pid699493
+title1:An efficient sorting algorithm for a sequence of kings in a tournament. citation:5 ncitation:5 pid934489
+title1:An efficient sorting algorithm for a sequence of kings in a tournament. citation:5 ncitation:5 pid934489
+title1:Deadlock-Free Routing In Irregular Networks Using Prefix Routing. citation:36 ncitation:31 pid1037983
+title1:Deadlock-Free Routing In Irregular Networks Using Prefix Routing. citation:36 ncitation:31 pid1037983
+title1:Toward Broadcast Reliability in Mobile Ad Hoc Networks with Double Coverage. citation:53 ncitation:45 pid1114432
+title1:Toward Broadcast Reliability in Mobile Ad Hoc Networks with Double Coverage. citation:53 ncitation:45 pid1114432
+title1:Efficient Broadcasting in Ad Hoc Wireless Networks Using Directional Antennas. citation:61 ncitation:52 pid1124880
+title1:Efficient Broadcasting in Ad Hoc Wireless Networks Using Directional Antennas. citation:61 ncitation:52 pid1124880
+title1:Extended Dominating Set and Its Applications in Ad Hoc Networks Using Cooperative Communication. citation:65 ncitation:48 pid1126051
+title1:Extended Dominating Set and Its Applications in Ad Hoc Networks Using Cooperative Communication. citation:65 ncitation:48 pid1126051
+title1:Extended Fibonacci Cubes. citation:55 ncitation:49 pid1125591
+title1:Extended Fibonacci Cubes. citation:55 ncitation:49 pid1125591
+title1:The Dynamic Bloom Filters. citation:51 ncitation:31 pid1282001
+title1:The Dynamic Bloom Filters. citation:51 ncitation:31 pid1282001
+title1:Resource Scheduling in Wireless Networks Using Directional Antennas. citation:13 ncitation:8 pid2928380
+title1:Resource Scheduling in Wireless Networks Using Directional Antennas. citation:13 ncitation:8 pid2928380
+title1:Fracture Detection in Traumatic Pelvic CT Images. citation:5 ncitation:3 pid3318744
+title1:Fracture Detection in Traumatic Pelvic CT Images. citation:5 ncitation:3 pid3318744

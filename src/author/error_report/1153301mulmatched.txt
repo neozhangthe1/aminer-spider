@@ -1,0 +1,65 @@
+title1:Efficient Filtration of Sequence Similarity Search Through Singular Value Decomposition. citation:8 ncitation:8 pid63168
+title1:Efficient Filtration of Sequence Similarity Search Through Singular Value Decomposition. citation:8 ncitation:8 pid63168
+title1:Efficient Processing of Conical Queries. citation:6 ncitation:6 pid95310
+title1:Efficient Processing of Conical Queries. citation:6 ncitation:6 pid95310
+title1:Vector Approximation based Indexing for Non-uniform High Dimensional Data Sets. citation:124 ncitation:119 pid95314
+title1:Vector Approximation based Indexing for Non-uniform High Dimensional Data Sets. citation:124 ncitation:119 pid95314
+title1:Exotica/FMDC: Handling Disconnected Clients in a Workflow Management System. citation:88 ncitation:84 pid115708
+title1:Exotica/FMDC: Handling Disconnected Clients in a Workflow Management System. citation:88 ncitation:84 pid115708
+title1:Freshness-driven Adaptive Caching for Dynamic Content. citation:19 ncitation:2 pid140742
+title1:Freshness-driven Adaptive Caching for Dynamic Content. citation:19 ncitation:2 pid140742
+title1:Freshness-driven Adaptive Caching for Dynamic Content. citation:19 ncitation:2 pid140742
+title1:Space-Efficient Data Cubes for Dynamic Environments. citation:28 ncitation:28 pid144430
+title1:Space-Efficient Data Cubes for Dynamic Environments. citation:28 ncitation:28 pid144430
+title1:Planned Disconnections for Mobile Databases. citation:24 ncitation:25 pid151524
+title1:Planned Disconnections for Mobile Databases. citation:24 ncitation:25 pid151524
+title1:Attribute-Based Access to Distributed Data over P2P Networks. citation:8 ncitation:8 pid159371
+title1:Attribute-Based Access to Distributed Data over P2P Networks. citation:8 ncitation:8 pid159371
+title1:Engineering High Performance Database-Driven E-commerce Web Sites through Dynamic Content Caching. citation:4 ncitation:3 pid175868
+title1:Engineering High Performance Database-Driven E-commerce Web Sites through Dynamic Content Caching. citation:4 ncitation:3 pid175868
+title1:The Dynamic Data Cube. citation:79 ncitation:74 pid176436
+title1:The Dynamic Data Cube. citation:79 ncitation:74 pid176436
+title1:Optimal Partitioning for Efficient I/O in Spatial Databases. citation:3 ncitation:3 pid196413
+title1:Optimal Partitioning for Efficient I/O in Spatial Databases. citation:3 ncitation:3 pid196413
+title1:Database Replication Using Epidemic Communication. citation:40 ncitation:16 pid196644
+title1:Database Replication Using Epidemic Communication. citation:40 ncitation:16 pid196644
+title1:Database Replication Using Epidemic Communication. citation:40 ncitation:16 pid196644
+title1:The Performance of Two-phase Commit Protocols in the Presence of Site Failures. citation:22 ncitation:20 pid220357
+title1:The Performance of Two-phase Commit Protocols in the Presence of Site Failures. citation:22 ncitation:20 pid220357
+title1:Partial Database Replication using Epidemic Communication. citation:40 ncitation:39 pid296946
+title1:Partial Database Replication using Epidemic Communication. citation:40 ncitation:39 pid296946
+title1:Using Broadcast Primitives in Replicated Databases. citation:11 ncitation:72 pid297700
+title1:Using Broadcast Primitives in Replicated Databases. citation:11 ncitation:72 pid297700
+title1:Concentric Hyperspaces and Disk Allocation for Fast Parallel Range Searching. citation:40 ncitation:40 pid299896
+title1:Concentric Hyperspaces and Disk Allocation for Fast Parallel Range Searching. citation:40 ncitation:40 pid299896
+title1:Context-Specific Synchronization for Atomic Data Types. citation:6 ncitation:4 pid304175
+title1:Context-Specific Synchronization for Atomic Data Types. citation:6 ncitation:4 pid304175
+title1:Browsing and Placement of Multiresolution Images on Parallel Disks. citation:11 ncitation:11 pid406559
+title1:Browsing and Placement of Multiresolution Images on Parallel Disks. citation:11 ncitation:11 pid406559
+title1:Storage and Retrieval of Moving Objects. citation:81 ncitation:75 pid491653
+title1:Storage and Retrieval of Moving Objects. citation:81 ncitation:75 pid491653
+title1:A brief survey of tertiary storage systems and research. citation:5 ncitation:6 pid568222
+title1:A brief survey of tertiary storage systems and research. citation:5 ncitation:6 pid568222
+title1:Modular Synchronization in Multiversion Databases: versionControl and Concurrency Control. citation:76 ncitation:76 pid597977
+title1:Modular Synchronization in Multiversion Databases: versionControl and Concurrency Control. citation:76 ncitation:76 pid597977
+title1:Supporting Sliding Window Queries for Continuous Data Streams. citation:30 ncitation:30 pid618230
+title1:Supporting Sliding Window Queries for Continuous Data Streams. citation:30 ncitation:30 pid618230
+title1:Safety Guarantee of Continuous Join Queries over Punctuated Data Streams. citation:18 ncitation:15 pid643140
+title1:Safety Guarantee of Continuous Join Queries over Punctuated Data Streams. citation:18 ncitation:15 pid643140
+title1:Retrieving and organizing web pages by ``information unit''. citation:135 ncitation:132 pid674294
+title1:Retrieving and organizing web pages by ``information unit''. citation:135 ncitation:132 pid674294
+title1:Freshness-driven adaptive caching for dynamic content Web sites. citation:0 ncitation:20 pid845916
+title1:Freshness-driven adaptive caching for dynamic content Web sites. citation:0 ncitation:20 pid845916
+title1:Freshness-driven adaptive caching for dynamic content Web sites. citation:0 ncitation:20 pid845916
+title1:Privacy preserving decision tree learning over multiple parties. citation:49 ncitation:40 pid846409
+title1:Privacy preserving decision tree learning over multiple parties. citation:49 ncitation:40 pid846409
+title1:Exotica/FMDC: A Workflow Management System for Mobile and Disconnected Clients. citation:74 ncitation:70 pid855972
+title1:Exotica/FMDC: A Workflow Management System for Mobile and Disconnected Clients. citation:74 ncitation:70 pid855972
+title1:Epidemic Algorithms for Replicated Databases. citation:181 ncitation:185 pid1112891
+title1:Epidemic Algorithms for Replicated Databases. citation:181 ncitation:185 pid1112891
+title1:An Efficient and Fault-Tolerant Solution for Distributed Mutual Exclusion. citation:317 ncitation:314 pid1117338
+title1:An Efficient and Fault-Tolerant Solution for Distributed Mutual Exclusion. citation:317 ncitation:314 pid1117338
+title1:ElasTraS: An Elastic Transactional Data Store in the Cloud citation:105 ncitation:77 pid2856547
+title1:ElasTraS: An Elastic Transactional Data Store in the Cloud citation:105 ncitation:77 pid2856547
+title1:LogBase: A Scalable Log-structured Database System in the Cloud citation:9 ncitation:-1 pid3471441
+title1:LogBase: A Scalable Log-structured Database System in the Cloud citation:9 ncitation:-1 pid3471441

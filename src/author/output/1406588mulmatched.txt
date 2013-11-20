@@ -1,0 +1,10 @@
+title1:Parameterized block-based non-gaussian statistical gate timing analysis. citation:5 ncitation:5 pid52031
+title1:Parameterized block-based non-gaussian statistical gate timing analysis. citation:5 ncitation:5 pid52031
+title1:Model Order Reduction of Large Circuits Using Balanced Truncation. citation:40 ncitation:38 pid52769
+title1:Model Order Reduction of Large Circuits Using Balanced Truncation. citation:40 ncitation:38 pid52769
+title1:High-Level Power Modeling, Estimation, and Optimization. citation:294 ncitation:292 pid133040
+title1:High-Level Power Modeling, Estimation, and Optimization. citation:294 ncitation:292 pid133040
+title1:Automatic Layout of Silicon-on-Silicon Hybrid Packages. citation:16 ncitation:15 pid133596
+title1:Automatic Layout of Silicon-on-Silicon Hybrid Packages. citation:16 ncitation:15 pid133596
+title1:TFA: a threshold-based filtering algorithm for propagation delay and slew calculation of high-speed VLSI interconnects. citation:2 ncitation:2 pid233612
+title1:TFA: a threshold-based filtering algorithm for propagation delay and slew calculation of high-speed VLSI interconnects. citation:2 ncitation:2 pid233612

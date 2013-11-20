@@ -1,0 +1,16 @@
+title1:Piloting Socio-Technical Innovation. citation:45 ncitation:41 pid171478
+title1:Piloting Socio-Technical Innovation. citation:45 ncitation:41 pid171478
+title1:Entwicklung Mobiler Virtueller Gemeinschaften im Gesundheitsbereich. citation:0 ncitation:7 pid501029
+title1:Entwicklung Mobiler Virtueller Gemeinschaften im Gesundheitsbereich. citation:0 ncitation:7 pid501029
+title1:Single Sign-On Clinic Card-Lösung - Ein Konzept zur Zentralen Verwaltung von Gesundheitskarten im stationären Umfeld. citation:1 ncitation:1 pid232214
+title1:Single Sign-On Clinic Card-Lösung - Ein Konzept zur Zentralen Verwaltung von Gesundheitskarten im stationären Umfeld. citation:1 ncitation:1 pid232214
+title1:A Cross-Cultural Comparison of Perceived Strategic Importance of RFID for CIOs in Germany and Italy. citation:33 ncitation:28 pid249867
+title1:A Cross-Cultural Comparison of Perceived Strategic Importance of RFID for CIOs in Germany and Italy. citation:33 ncitation:28 pid249867
+title1:Integration von Produktion und Dienstleistung - Hybride Wertschöpfung. citation:21 ncitation:19 pid1140321
+title1:Integration von Produktion und Dienstleistung - Hybride Wertschöpfung. citation:21 ncitation:19 pid1140321
+title1:Die Zukunft der Telekommunikation. citation:2 ncitation:1 pid3161344
+title1:Die Zukunft der Telekommunikation. citation:2 ncitation:1 pid3161344
+title1:Social Connectedness on Facebook - An Explorative Study on Status Message Usage. citation:31 ncitation:24 pid3280288
+title1:Social Connectedness on Facebook - An Explorative Study on Status Message Usage. citation:31 ncitation:24 pid3280288
+title1:From Products to Product-Service Systems: IT Driven Transformation of a Medical Equipment manufacturer to a Customer-Centric Solution Provider. citation:0 ncitation:0 pid3302697
+title1:From Products to Product-Service Systems: IT Driven Transformation of a Medical Equipment manufacturer to a Customer-Centric Solution Provider. citation:0 ncitation:0 pid3302697

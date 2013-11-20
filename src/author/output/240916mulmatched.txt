@@ -1,0 +1,39 @@
+title1:Ultra-wideband wireless communications. citation:138 ncitation:137 pid1140654
+title1:Ultra-wideband wireless communications. citation:138 ncitation:137 pid1140654
+title1:Ultra-wideband wireless communications. citation:138 ncitation:137 pid1140654
+title1:Guest Editorial. citation:0 ncitation:-1 pid1141578
+title1:Guest Editorial. citation:0 ncitation:-1 pid1141578
+title1:Guest Editorial. citation:0 ncitation:-1 pid1141578
+title1:Guest Editorial. citation:0 ncitation:-1 pid1141578
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:0 ncitation:-1 pid1345615
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:0 ncitation:-1 pid1345615
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 4. citation:0 ncitation:-1 pid1345615
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 2. citation:0 ncitation:-1 pid1345621
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 2. citation:0 ncitation:-1 pid1345621
+title1:Editorial: Peer-to-peer networking and applications, volume 2, issue 2. citation:0 ncitation:-1 pid1345621
+title1:An adaptive handoff priority scheme for wireless MC-CDMA cellular networks supporting realtime multimedia applications. citation:11 ncitation:11 pid802254
+title1:An adaptive handoff priority scheme for wireless MC-CDMA cellular networks supporting realtime multimedia applications. citation:11 ncitation:11 pid802254
+title1:Editorial: Peer-to-Peer Networking and Applications Volume 1, Issue 2. citation:0 ncitation:0 pid1186711
+title1:Editorial: Peer-to-Peer Networking and Applications Volume 1, Issue 2. citation:0 ncitation:0 pid1186711
+title1:Editorial: Peer-to-Peer Networking and Applications Volume 1, Issue 2. citation:0 ncitation:0 pid1186711
+title1:Editorial: Peer-to-Peer Networking and Applications, Volume 1, Issue 1. citation:0 ncitation:0 pid1186709
+title1:Editorial: Peer-to-Peer Networking and Applications, Volume 1, Issue 1. citation:0 ncitation:0 pid1186709
+title1:Editorial: Peer-to-Peer Networking and Applications, Volume 1, Issue 1. citation:0 ncitation:0 pid1186709
+title1:Editorial: Peer-to-peer networking and applications, volume 3, issue 2. citation:0 ncitation:0 pid2882226
+title1:Editorial: Peer-to-peer networking and applications, volume 3, issue 2. citation:0 ncitation:0 pid2882226
+title1:Editorial: Peer-to-peer networking and applications, volume 3, issue 2. citation:0 ncitation:0 pid2882226
+title1:Editorial: Peer-to-Peer networking and applications, Volume 3, Issue 4. citation:0 ncitation:0 pid2935485
+title1:Editorial: Peer-to-Peer networking and applications, Volume 3, Issue 4. citation:0 ncitation:0 pid2935485
+title1:Editorial: Peer-to-Peer networking and applications, Volume 3, Issue 4. citation:0 ncitation:0 pid2935485
+title1:Editor's note. citation:2 ncitation:-1 pid3267597
+title1:Editor's note. citation:2 ncitation:-1 pid3267597
+title1:Editor's note. citation:2 ncitation:-1 pid3267597
+title1:Editor's note. citation:0 ncitation:-1 pid3392715
+title1:Editor's note. citation:0 ncitation:-1 pid3392715
+title1:Editor's note. citation:0 ncitation:-1 pid3392715
+title1:Empowering the smart grid with wireless technologies [Editor's Note]. citation:0 ncitation:-1 pid3392716
+title1:Empowering the smart grid with wireless technologies [Editor's Note]. citation:0 ncitation:-1 pid3392716
+title1:Editor's note. citation:0 ncitation:-1 pid3595513
+title1:Editor's note. citation:0 ncitation:-1 pid3595513
+title1:Editor's note. citation:0 ncitation:None pid3622132
+title1:Editor's note. citation:0 ncitation:None pid3622132

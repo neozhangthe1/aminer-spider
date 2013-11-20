@@ -1,0 +1,82 @@
+title1:Some Results in Computational Topology. citation:45 ncitation:44 pid951713
+title1:Some Results in Computational Topology. citation:45 ncitation:44 pid951713
+title1:Goal-Oriented Requirements Engineering. citation:208 ncitation:-1 pid736556
+title1:Goal-Oriented Requirements Engineering. citation:208 ncitation:-1 pid736556
+title1:Designing Cooperative IS: Exploring and Evaluating Alternatives. citation:26 ncitation:26 pid524502
+title1:Designing Cooperative IS: Exploring and Evaluating Alternatives. citation:26 ncitation:26 pid524502
+title1:Building Knowledge Base Management Systems. citation:33 ncitation:26 pid1138227
+title1:Building Knowledge Base Management Systems. citation:33 ncitation:26 pid1138227
+title1:Requirements-Driven Software Re-engineering Framework. citation:9 ncitation:16 pid653368
+title1:Requirements-Driven Software Re-engineering Framework. citation:9 ncitation:16 pid653368
+title1:Automating the Generation of Semantic Annotation Tools Using a Clustering Technique. citation:1 ncitation:1 pid518635
+title1:Automating the Generation of Semantic Annotation Tools Using a Clustering Technique. citation:1 ncitation:1 pid518635
+title1:From E-R to ``A-R'' - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:128 ncitation:114 pid906048
+title1:From E-R to ``A-R'' - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:128 ncitation:114 pid906048
+title1:From E-R to ``A-R'' - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:128 ncitation:114 pid906048
+title1:From E-R to ``A-R'' - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:128 ncitation:114 pid906048
+title1:A Requirements-Driven Development Methodology. citation:213 ncitation:203 pid74091
+title1:A Requirements-Driven Development Methodology. citation:213 ncitation:203 pid74091
+title1:From Hippocratic Databases to Secure Tropos: a Computer-Aided Re-Engineering Approach. citation:4 ncitation:4 pid920930
+title1:From Hippocratic Databases to Secure Tropos: a Computer-Aided Re-Engineering Approach. citation:4 ncitation:4 pid920930
+title1:Capturing More World Knowledge in the Requirements Specification. citation:121 ncitation:111 pid362085
+title1:Capturing More World Knowledge in the Requirements Specification. citation:121 ncitation:111 pid362085
+title1:Database Design. citation:20 ncitation:-1 pid1297243
+title1:Database Design. citation:20 ncitation:-1 pid1297243
+title1:Guest Editors' Introduction. citation:65 ncitation:-1 pid875190
+title1:Guest Editors' Introduction. citation:65 ncitation:-1 pid875190
+title1:Editorial. citation:0 ncitation:-1 pid1141864
+title1:Editorial. citation:0 ncitation:-1 pid1141864
+title1:Editorial. citation:0 ncitation:-1 pid1141864
+title1:Editorial. citation:0 ncitation:-1 pid1141864
+title1:Agent Oriented Software Development. citation:1278 ncitation:1 pid521550
+title1:Agent Oriented Software Development. citation:1278 ncitation:1 pid521550
+title1:Agent Oriented Software Development. citation:1278 ncitation:1 pid521550
+title1:Agent Oriented Software Development. citation:1278 ncitation:1 pid521550
+title1:Model Checking Early Requirements Specifications in Tropos. citation:155 ncitation:148 pid558166
+title1:Model Checking Early Requirements Specifications in Tropos. citation:155 ncitation:148 pid558166
+title1:Data Semantics Revisited. citation:17 ncitation:18 pid583300
+title1:Data Semantics Revisited. citation:17 ncitation:18 pid583300
+title1:Support for Data-Intensive Applications: Conceptual Design and Software Development. citation:35 ncitation:34 pid145122
+title1:Support for Data-Intensive Applications: Conceptual Design and Software Development. citation:35 ncitation:34 pid145122
+title1:Ontologies for Knowledge Management: An Information Systems Perspective. citation:107 ncitation:94 pid1003354
+title1:Ontologies for Knowledge Management: An Information Systems Perspective. citation:107 ncitation:94 pid1003354
+title1:Organizational Patterns for Early Requirements Analysis. citation:92 ncitation:92 pid74339
+title1:Organizational Patterns for Early Requirements Analysis. citation:92 ncitation:92 pid74339
+title1:From Organization Models to System Requirements: A 'Cooperating Agents' Approach. citation:61 ncitation:67 pid116188
+title1:From Organization Models to System Requirements: A 'Cooperating Agents' Approach. citation:61 ncitation:67 pid116188
+title1:Introduction. citation:8 ncitation:-1 pid760949
+title1:Introduction. citation:8 ncitation:-1 pid760949
+title1:Introduction. citation:8 ncitation:-1 pid760949
+title1:Introduction. citation:8 ncitation:-1 pid760949
+title1:Introduction. citation:8 ncitation:-1 pid760949
+title1:AI Models for Business Process Reengineering. citation:85 ncitation:80 pid875799
+title1:AI Models for Business Process Reengineering. citation:85 ncitation:80 pid875799
+title1:Multi-agent and Software Architectures: A Comparative Case Study. citation:17 ncitation:14 pid43362
+title1:Multi-agent and Software Architectures: A Comparative Case Study. citation:17 ncitation:14 pid43362
+title1:Modeling Dynamic Domains with ConGolog. citation:36 ncitation:33 pid74387
+title1:Modeling Dynamic Domains with ConGolog. citation:36 ncitation:33 pid74387
+title1:Software Repositories. citation:13 ncitation:-1 pid643376
+title1:Software Repositories. citation:13 ncitation:-1 pid643376
+title1:A Distributed Rule Mechanism for Multidatabase Systems. citation:13 ncitation:12 pid115910
+title1:A Distributed Rule Mechanism for Multidatabase Systems. citation:13 ncitation:12 pid115910
+title1:A region-based formalism for picture processing. citation:2 ncitation:1 pid1040963
+title1:A region-based formalism for picture processing. citation:2 ncitation:1 pid1040963
+title1:From E-R to "A-R" - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:128 ncitation:114 pid183821
+title1:From E-R to "A-R" - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:128 ncitation:114 pid183821
+title1:Agent-Oriented Software Development. citation:1278 ncitation:16 pid586014
+title1:Agent-Oriented Software Development. citation:1278 ncitation:16 pid586014
+title1:Introduction. citation:0 ncitation:-1 pid754762
+title1:Introduction. citation:0 ncitation:-1 pid754762
+title1:Introduction. citation:0 ncitation:-1 pid754762
+title1:On the Relation of Graph Grammars and Graph Automata citation:20 ncitation:18 pid211544
+title1:On the Relation of Graph Grammars and Graph Automata citation:20 ncitation:18 pid211544
+title1:Requirements Engineering editorial. citation:0 ncitation:-1 pid1051165
+title1:Requirements Engineering editorial. citation:0 ncitation:-1 pid1051165
+title1:Advanced Information Systems Engineering, 14th International Conference, CAiSE 2002, Toronto, Canada, May 27-31, 2002, Proceedings citation:1 ncitation:1 pid2777968
+title1:Advanced Information Systems Engineering, 14th International Conference, CAiSE 2002, Toronto, Canada, May 27-31, 2002, Proceedings citation:1 ncitation:1 pid2777968
+title1:The Brave New World of Design Requirements: Four Key Principles. citation:14 ncitation:12 pid2778034
+title1:The Brave New World of Design Requirements: Four Key Principles. citation:14 ncitation:12 pid2778034
+title1:Peer coordination through distributed triggers. citation:4 ncitation:4 pid2881909
+title1:Peer coordination through distributed triggers. citation:4 ncitation:4 pid2881909
+title1:The brave new world of design requirements. citation:23 ncitation:9 pid3071265
+title1:The brave new world of design requirements. citation:23 ncitation:9 pid3071265

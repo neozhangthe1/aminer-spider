@@ -1,0 +1,69 @@
+title1:Q-GSM: QoS Oriented Grid Service Management. citation:6 ncitation:2 pid48089
+title1:Q-GSM: QoS Oriented Grid Service Management. citation:6 ncitation:2 pid48089
+title1:Semantic Peer-to-Peer Overlay for Efficient Content Locating. citation:14 ncitation:13 pid48091
+title1:Semantic Peer-to-Peer Overlay for Efficient Content Locating. citation:14 ncitation:13 pid48091
+title1:xDFT: An Extensible Dynamic Fault Tolerance Model for Cooperative System. citation:0 ncitation:-1 pid48419
+title1:xDFT: An Extensible Dynamic Fault Tolerance Model for Cooperative System. citation:0 ncitation:-1 pid48419
+title1:Cluster Architecture with Lightweighted Redundant TCP Stacks. citation:6 ncitation:6 pid99743
+title1:Cluster Architecture with Lightweighted Redundant TCP Stacks. citation:6 ncitation:6 pid99743
+title1:Lightweight Real-Time Network Communication Protocol for Commodity Cluster Systems. citation:8 ncitation:8 pid190707
+title1:Lightweight Real-Time Network Communication Protocol for Commodity Cluster Systems. citation:8 ncitation:8 pid190707
+title1:A Scene-Based Bandwidth Allocation Scheme for Transferring VBR-Encoded Videos. citation:0 ncitation:-1 pid196317
+title1:A Scene-Based Bandwidth Allocation Scheme for Transferring VBR-Encoded Videos. citation:0 ncitation:-1 pid196317
+title1:RB-GACA: A RBAC Based Grid Access Control Architecture. citation:25 ncitation:21 pid223876
+title1:RB-GACA: A RBAC Based Grid Access Control Architecture. citation:25 ncitation:21 pid223876
+title1:Peer-Owl: An Adaptive Data Dissemination Scheme for Peer-to-Peer Streaming Services. citation:0 ncitation:0 pid223807
+title1:Peer-Owl: An Adaptive Data Dissemination Scheme for Peer-to-Peer Streaming Services. citation:0 ncitation:0 pid223807
+title1:An Integrated Management and Scheduling Scheme for Computational Grid. citation:4 ncitation:4 pid224229
+title1:An Integrated Management and Scheduling Scheme for Computational Grid. citation:4 ncitation:4 pid224229
+title1:IPGE: Image Processing Grid Environment Using Components and Workflow Techniques. citation:13 ncitation:12 pid224230
+title1:IPGE: Image Processing Grid Environment Using Components and Workflow Techniques. citation:13 ncitation:12 pid224230
+title1:A Suggested Framework for Exploring Contextual Information to Evaluate and Recommend Services. citation:0 ncitation:-1 pid235484
+title1:A Suggested Framework for Exploring Contextual Information to Evaluate and Recommend Services. citation:0 ncitation:-1 pid235484
+title1:2-Layered Metadata Service Model in Grid Environment. citation:0 ncitation:-1 pid264208
+title1:2-Layered Metadata Service Model in Grid Environment. citation:0 ncitation:-1 pid264208
+title1:Constructing a P2P-Based High Performance Computing Platform. citation:5 ncitation:5 pid279061
+title1:Constructing a P2P-Based High Performance Computing Platform. citation:5 ncitation:5 pid279061
+title1:A Scalable Streaming Proxy Server Based on Cluster Architecture. citation:0 ncitation:0 pid291001
+title1:A Scalable Streaming Proxy Server Based on Cluster Architecture. citation:0 ncitation:0 pid291001
+title1:Replica Based Distributed Metadata Management in Grid Environment. citation:3 ncitation:3 pid279062
+title1:Replica Based Distributed Metadata Management in Grid Environment. citation:3 ncitation:3 pid279062
+title1:Uniform Authorization Management in ChinaGrid Support Platform. citation:0 ncitation:-1 pid445098
+title1:Uniform Authorization Management in ChinaGrid Support Platform. citation:0 ncitation:-1 pid445098
+title1:FreeSpeech: A Novel Wireless Approach for Conference Projecting and Cooperating. citation:0 ncitation:-1 pid633735
+title1:FreeSpeech: A Novel Wireless Approach for Conference Projecting and Cooperating. citation:0 ncitation:-1 pid633735
+title1:Semantic-Overlay-Driven Web Services Discovery. citation:3 ncitation:3 pid681138
+title1:Semantic-Overlay-Driven Web Services Discovery. citation:3 ncitation:3 pid681138
+title1:Grid Computing in China. citation:29 ncitation:30 pid885213
+title1:Grid Computing in China. citation:29 ncitation:30 pid885213
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Cluster computing. citation:85 ncitation:5 pid876682
+title1:Preface. citation:0 ncitation:-1 pid792996
+title1:Preface. citation:0 ncitation:-1 pid792996
+title1:Orthogonal Striping and Mirroring in Distributed RAID for I/O-Centric Cluster Computing. citation:75 ncitation:68 pid1125151
+title1:Orthogonal Striping and Mirroring in Distributed RAID for I/O-Centric Cluster Computing. citation:75 ncitation:68 pid1125151
+title1:Single System Image. citation:88 ncitation:79 pid1295335
+title1:Single System Image. citation:88 ncitation:79 pid1295335
+title1:Service organisation and information consistency for service grid. citation:5 ncitation:5 pid1170330
+title1:Service organisation and information consistency for service grid. citation:5 ncitation:5 pid1170330
+title1:Special section: Peer-to-peer grid technologies. citation:1 ncitation:-1 pid2859690
+title1:Special section: Peer-to-peer grid technologies. citation:1 ncitation:-1 pid2859690
+title1:Network security and digital forensics in next generation communications. citation:0 ncitation:-1 pid3082955
+title1:Network security and digital forensics in next generation communications. citation:0 ncitation:-1 pid3082955
+title1:Medusa: A Novel Stream-Scheduling Scheme for Parallel Video Servers. citation:1 ncitation:0 pid3107017
+title1:Medusa: A Novel Stream-Scheduling Scheme for Parallel Video Servers. citation:1 ncitation:0 pid3107017
+title1:Guest Editorial: Services Composition and Virtualization Technologies. citation:3 ncitation:2 pid3161291
+title1:Guest Editorial: Services Composition and Virtualization Technologies. citation:3 ncitation:2 pid3161291
+title1:Synchronization-Aware Energy Management for VFI-Based Multicore Real-Time Systems. citation:3 ncitation:-1 pid3541545
+title1:Synchronization-Aware Energy Management for VFI-Based Multicore Real-Time Systems. citation:3 ncitation:-1 pid3541545
+title1:Vtrim: A Performance Optimization Mechanism for SSD in Virtualized Environment. citation:0 ncitation:0 pid3601387
+title1:Vtrim: A Performance Optimization Mechanism for SSD in Virtualized Environment. citation:0 ncitation:0 pid3601387

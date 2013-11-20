@@ -1,0 +1,46 @@
+title1:Compiler-assisted soft error detection under performance and energy constraints in embedded systems. citation:15 ncitation:13 pid1227692
+title1:Compiler-assisted soft error detection under performance and energy constraints in embedded systems. citation:15 ncitation:13 pid1227692
+title1:Exploiting Inter-File Access Patterns Using Multi-Collective I/O. citation:17 ncitation:17 pid202508
+title1:Exploiting Inter-File Access Patterns Using Multi-Collective I/O. citation:17 ncitation:17 pid202508
+title1:Improving Java performance using dynamic method migration on FPGAs. citation:19 ncitation:12 pid1172498
+title1:Improving Java performance using dynamic method migration on FPGAs. citation:19 ncitation:12 pid1172498
+title1:Reducing memory requirements of resource-constrained applications. citation:4 ncitation:3 pid1098775
+title1:Reducing memory requirements of resource-constrained applications. citation:4 ncitation:3 pid1098775
+title1:Communication Based Proactive Link Power Management. citation:1 ncitation:1 pid251442
+title1:Communication Based Proactive Link Power Management. citation:1 ncitation:1 pid251442
+title1:Compiler Algorithms for Optimizing Locality and Parallelism on Shared and Distributed-Memory Machines. citation:29 ncitation:31 pid989035
+title1:Compiler Algorithms for Optimizing Locality and Parallelism on Shared and Distributed-Memory Machines. citation:29 ncitation:31 pid989035
+title1:Adaptive Garbage Collection for Battery-Operated Environments. citation:23 ncitation:23 pid471195
+title1:Adaptive Garbage Collection for Battery-Operated Environments. citation:23 ncitation:23 pid471195
+title1:Energy Behavior of Java Applications from the Memory Perspective. citation:37 ncitation:34 pid471184
+title1:Energy Behavior of Java Applications from the Memory Perspective. citation:37 ncitation:34 pid471184
+title1:Exploiting Barriers to Optimize Power Consumption of CMPs. citation:47 ncitation:45 pid409924
+title1:Exploiting Barriers to Optimize Power Consumption of CMPs. citation:47 ncitation:45 pid409924
+title1:A compiler-based approach for dynamically managing scratch-pad memories in embedded systems. citation:72 ncitation:72 pid1084688
+title1:A compiler-based approach for dynamically managing scratch-pad memories in embedded systems. citation:72 ncitation:72 pid1084688
+title1:Improving scratch-pad memory reliability through compiler-guided data block duplication. citation:13 ncitation:10 pid282686
+title1:Improving scratch-pad memory reliability through compiler-guided data block duplication. citation:13 ncitation:10 pid282686
+title1:Data Space Oriented Tiling. citation:20 ncitation:3 pid188962
+title1:Data Space Oriented Tiling. citation:20 ncitation:3 pid188962
+title1:Shared Scratch-Pad Memory Space Management. citation:36 ncitation:29 pid448229
+title1:Shared Scratch-Pad Memory Space Management. citation:36 ncitation:29 pid448229
+title1:Optimization of Out-of-Core Computations Using Chain Vectors. citation:1 ncitation:1 pid196751
+title1:Optimization of Out-of-Core Computations Using Chain Vectors. citation:1 ncitation:1 pid196751
+title1:Enhancing Spatial Locality via Data Layout Optimizations. citation:18 ncitation:18 pid196749
+title1:Enhancing Spatial Locality via Data Layout Optimizations. citation:18 ncitation:18 pid196749
+title1:Compiler-Directed Collective-I/O. citation:5 ncitation:5 pid1125208
+title1:Compiler-Directed Collective-I/O. citation:5 ncitation:5 pid1125208
+title1:Processor-embedded distributed smart disks for I/O-intensive workloads: architectures, performance models and evaluation. citation:6 ncitation:12 pid988525
+title1:Processor-embedded distributed smart disks for I/O-intensive workloads: architectures, performance models and evaluation. citation:6 ncitation:12 pid988525
+title1:2D data locality: definition, abstraction, and application. citation:5 ncitation:4 pid282422
+title1:2D data locality: definition, abstraction, and application. citation:5 ncitation:4 pid282422
+title1:A Unified Compiler Algorithm for Optimizing Locality, Parallelism and Communication in Out-of-core Computations. citation:10 ncitation:10 pid406552
+title1:A Unified Compiler Algorithm for Optimizing Locality, Parallelism and Communication in Out-of-core Computations. citation:10 ncitation:10 pid406552
+title1:An Automated Framework for Accelerating Numerical Algorithms on Reconfigurable Platforms Using Algorithmic/Architectural Optimization. citation:6 ncitation:5 pid1281360
+title1:An Automated Framework for Accelerating Numerical Algorithms on Reconfigurable Platforms Using Algorithmic/Architectural Optimization. citation:6 ncitation:5 pid1281360
+title1:Graphical Mission Specification and Partitioning for Unmanned Underwater Vehicles. citation:4 ncitation:4 pid1184750
+title1:Graphical Mission Specification and Partitioning for Unmanned Underwater Vehicles. citation:4 ncitation:4 pid1184750
+title1:Loop Transformations for Reducing Data Space Requirements of Resource-Constrained Applications. citation:7 ncitation:6 pid572909
+title1:Loop Transformations for Reducing Data Space Requirements of Resource-Constrained Applications. citation:7 ncitation:6 pid572909
+title1:Workload Clustering for Increasing Energy Savings on Embedded MPSoCs. citation:3 ncitation:3 pid3581592
+title1:Workload Clustering for Increasing Energy Savings on Embedded MPSoCs. citation:3 ncitation:3 pid3581592

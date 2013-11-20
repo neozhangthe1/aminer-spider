@@ -1,0 +1,126 @@
+title1:Point-to-Line Mappings and Hough Transforms. citation:29 ncitation:24 pid136956
+title1:Point-to-Line Mappings and Hough Transforms. citation:29 ncitation:24 pid136956
+title1:Cellular Graph Automata. citation:46 ncitation:2 pid228705
+title1:Cellular Graph Automata. citation:46 ncitation:2 pid228705
+title1:Array Grammars. citation:105 ncitation:5 pid228852
+title1:Array Grammars. citation:105 ncitation:5 pid228852
+title1:Array Grammars. citation:105 ncitation:5 pid228852
+title1:Digital Geometry. citation:23 ncitation:34 pid468364
+title1:Digital Geometry. citation:23 ncitation:34 pid468364
+title1:Digital Geometry. citation:23 ncitation:34 pid468364
+title1:Digital Geometry. citation:23 ncitation:34 pid468364
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Computer Vision. citation:35 ncitation:-1 pid739081
+title1:Picture processing: 1982. citation:14 ncitation:31 pid834436
+title1:Picture processing: 1982. citation:14 ncitation:31 pid834436
+title1:Picture processing: 1982. citation:14 ncitation:31 pid834436
+title1:Picture processing: 1982. citation:14 ncitation:31 pid834436
+title1:Picture processing: 1982. citation:14 ncitation:31 pid834436
+title1:Picture processing: 1982. citation:14 ncitation:31 pid834436
+title1:Picture processing: 1982. citation:14 ncitation:31 pid834436
+title1:Picture processing: 1983. citation:35 ncitation:31 pid834438
+title1:Picture processing: 1983. citation:35 ncitation:31 pid834438
+title1:Picture processing: 1983. citation:35 ncitation:31 pid834438
+title1:Picture processing: 1983. citation:35 ncitation:31 pid834438
+title1:Picture processing: 1983. citation:35 ncitation:31 pid834438
+title1:Picture processing: 1983. citation:35 ncitation:31 pid834438
+title1:Picture processing: 1983. citation:35 ncitation:31 pid834438
+title1:Picture processing: 1983. citation:35 ncitation:31 pid834438
+title1:Picture processing: 1984. citation:18 ncitation:31 pid834440
+title1:Picture processing: 1984. citation:18 ncitation:31 pid834440
+title1:Picture processing: 1984. citation:18 ncitation:31 pid834440
+title1:Picture processing: 1984. citation:18 ncitation:31 pid834440
+title1:Picture processing: 1984. citation:18 ncitation:31 pid834440
+title1:Picture processing: 1984. citation:18 ncitation:31 pid834440
+title1:Picture processing: 1984. citation:18 ncitation:31 pid834440
+title1:Picture processing: 1984. citation:18 ncitation:31 pid834440
+title1:Picture Processing: 1986. citation:18 ncitation:31 pid834448
+title1:Picture Processing: 1986. citation:18 ncitation:31 pid834448
+title1:Picture Processing: 1986. citation:18 ncitation:31 pid834448
+title1:Picture Processing: 1986. citation:18 ncitation:31 pid834448
+title1:Picture Processing: 1986. citation:18 ncitation:31 pid834448
+title1:Picture Processing: 1986. citation:18 ncitation:31 pid834448
+title1:Picture Processing: 1986. citation:18 ncitation:31 pid834448
+title1:Picture Processing: 1986. citation:18 ncitation:31 pid834448
+title1:Image analysis and computer vision: 1988. citation:12 ncitation:30 pid834450
+title1:Image analysis and computer vision: 1988. citation:12 ncitation:30 pid834450
+title1:Image analysis and computer vision: 1988. citation:12 ncitation:30 pid834450
+title1:Image analysis and computer vision: 1988. citation:12 ncitation:30 pid834450
+title1:Image analysis and computer vision: 1988. citation:12 ncitation:30 pid834450
+title1:Image analysis and computer vision: 1988. citation:12 ncitation:30 pid834450
+title1:Image analysis and computer vision: 1988. citation:12 ncitation:30 pid834450
+title1:Image analysis and computer vision 1989. citation:12 ncitation:30 pid834452
+title1:Image analysis and computer vision 1989. citation:12 ncitation:30 pid834452
+title1:Image analysis and computer vision 1989. citation:12 ncitation:30 pid834452
+title1:Image analysis and computer vision 1989. citation:12 ncitation:30 pid834452
+title1:Image analysis and computer vision 1989. citation:12 ncitation:30 pid834452
+title1:Image analysis and computer vision 1989. citation:12 ncitation:30 pid834452
+title1:Image analysis and computer vision 1989. citation:12 ncitation:30 pid834452
+title1:Image analysis and computer vision 1989. citation:12 ncitation:30 pid834452
+title1:Image Analysis and Computer Vision: 1999. citation:33 ncitation:30 pid835342
+title1:Image Analysis and Computer Vision: 1999. citation:33 ncitation:30 pid835342
+title1:Image Analysis and Computer Vision: 1999. citation:33 ncitation:30 pid835342
+title1:Image Analysis and Computer Vision: 1999. citation:33 ncitation:30 pid835342
+title1:Image Analysis and Computer Vision: 1999. citation:33 ncitation:30 pid835342
+title1:Image Analysis and Computer Vision: 1999. citation:33 ncitation:30 pid835342
+title1:Image Analysis and Computer Vision: 1999. citation:33 ncitation:30 pid835342
+title1:Image Analysis and Computer Vision: 1999. citation:33 ncitation:30 pid835342
+title1:Image Analysis and Computer Vision: 1994. citation:15 ncitation:30 pid835344
+title1:Image Analysis and Computer Vision: 1994. citation:15 ncitation:30 pid835344
+title1:Image Analysis and Computer Vision: 1994. citation:15 ncitation:30 pid835344
+title1:Image Analysis and Computer Vision: 1994. citation:15 ncitation:30 pid835344
+title1:Image Analysis and Computer Vision: 1994. citation:15 ncitation:30 pid835344
+title1:Image Analysis and Computer Vision: 1994. citation:15 ncitation:30 pid835344
+title1:Image Analysis and Computer Vision: 1994. citation:15 ncitation:30 pid835344
+title1:Image Analysis and Computer Vision: 1995. citation:12 ncitation:30 pid835345
+title1:Image Analysis and Computer Vision: 1995. citation:12 ncitation:30 pid835345
+title1:Image Analysis and Computer Vision: 1995. citation:12 ncitation:30 pid835345
+title1:Image Analysis and Computer Vision: 1995. citation:12 ncitation:30 pid835345
+title1:Image Analysis and Computer Vision: 1995. citation:12 ncitation:30 pid835345
+title1:Image Analysis and Computer Vision: 1995. citation:12 ncitation:30 pid835345
+title1:Image Analysis and Computer Vision: 1995. citation:12 ncitation:30 pid835345
+title1:Image Analysis and Computer Vision: 1996. citation:12 ncitation:30 pid835346
+title1:Image Analysis and Computer Vision: 1996. citation:12 ncitation:30 pid835346
+title1:Image Analysis and Computer Vision: 1996. citation:12 ncitation:30 pid835346
+title1:Image Analysis and Computer Vision: 1996. citation:12 ncitation:30 pid835346
+title1:Image Analysis and Computer Vision: 1996. citation:12 ncitation:30 pid835346
+title1:Image Analysis and Computer Vision: 1996. citation:12 ncitation:30 pid835346
+title1:Image Analysis and Computer Vision: 1996. citation:12 ncitation:30 pid835346
+title1:Image Analysis and Computer Vision: 1997. citation:14 ncitation:30 pid835347
+title1:Image Analysis and Computer Vision: 1997. citation:14 ncitation:30 pid835347
+title1:Image Analysis and Computer Vision: 1997. citation:14 ncitation:30 pid835347
+title1:Image Analysis and Computer Vision: 1997. citation:14 ncitation:30 pid835347
+title1:Image Analysis and Computer Vision: 1997. citation:14 ncitation:30 pid835347
+title1:Image Analysis and Computer Vision: 1997. citation:14 ncitation:30 pid835347
+title1:Image Analysis and Computer Vision: 1997. citation:14 ncitation:30 pid835347
+title1:Image Analysis and Computer Vision: 1998. citation:16 ncitation:30 pid835348
+title1:Image Analysis and Computer Vision: 1998. citation:16 ncitation:30 pid835348
+title1:Image Analysis and Computer Vision: 1998. citation:16 ncitation:30 pid835348
+title1:Image Analysis and Computer Vision: 1998. citation:16 ncitation:30 pid835348
+title1:Image Analysis and Computer Vision: 1998. citation:16 ncitation:30 pid835348
+title1:Image Analysis and Computer Vision: 1998. citation:16 ncitation:30 pid835348
+title1:Image Analysis and Computer Vision: 1998. citation:16 ncitation:30 pid835348
+title1:Surfaces in Three-Dimensional Digital Images citation:35 ncitation:142 pid888942
+title1:Surfaces in Three-Dimensional Digital Images citation:35 ncitation:142 pid888942
+title1:Digital geometry. citation:9 ncitation:34 pid941627
+title1:Digital geometry. citation:9 ncitation:34 pid941627
+title1:Digital geometry. citation:9 ncitation:34 pid941627
+title1:Digital geometry. citation:9 ncitation:34 pid941627
+title1:Degree of adjacency or surroundedness. citation:51 ncitation:47 pid1041153
+title1:Degree of adjacency or surroundedness. citation:51 ncitation:47 pid1041153

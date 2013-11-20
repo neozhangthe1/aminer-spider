@@ -1,0 +1,66 @@
+title1:An Application-Specific Design Methodology for STbus Crossbar Generation citation:74 ncitation:69 pid824047
+title1:An Application-Specific Design Methodology for STbus Crossbar Generation citation:74 ncitation:69 pid824047
+title1:Dynamic Power Management of Laptop Hard Disk. citation:34 ncitation:33 pid143035
+title1:Dynamic Power Management of Laptop Hard Disk. citation:34 ncitation:33 pid143035
+title1:Dynamic Power Management of Laptop Hard Disk. citation:34 ncitation:33 pid143035
+title1:Reduction of Register File Delay Due to Process Variability in VLIW Embedded Processors. citation:3 ncitation:3 pid429042
+title1:Reduction of Register File Delay Due to Process Variability in VLIW Embedded Processors. citation:3 ncitation:3 pid429042
+title1:Glitch Power Minimization by Gate Freezing. citation:6 ncitation:7 pid141456
+title1:Glitch Power Minimization by Gate Freezing. citation:6 ncitation:7 pid141456
+title1:Prediction of regulatory modules comprising microRNAs and target genes. citation:95 ncitation:72 pid168034
+title1:Prediction of regulatory modules comprising microRNAs and target genes. citation:95 ncitation:72 pid168034
+title1:Networks on Chip: A New Paradigm for Systems on Chip Design. citation:198 ncitation:112 pid142538
+title1:Networks on Chip: A New Paradigm for Systems on Chip Design. citation:198 ncitation:112 pid142538
+title1:Reconfiguration Strategies for Environmentally Powered Devices: Theoretical Analysis and Experimental Validation. citation:16 ncitation:17 pid1195036
+title1:Reconfiguration Strategies for Environmentally Powered Devices: Theoretical Analysis and Experimental Validation. citation:16 ncitation:17 pid1195036
+title1:Reconfiguration Strategies for Environmentally Powered Devices: Theoretical Analysis and Experimental Validation. citation:16 ncitation:17 pid1195036
+title1:Reliability-aware design for nanometer-scale devices. citation:29 ncitation:26 pid53305
+title1:Reliability-aware design for nanometer-scale devices. citation:29 ncitation:26 pid53305
+title1:Technology mapping using boolean matching and don't care sets. citation:98 ncitation:92 pid194050
+title1:Technology mapping using boolean matching and don't care sets. citation:98 ncitation:92 pid194050
+title1:Modeling hierarchical combinational circuits. citation:30 ncitation:30 pid281781
+title1:Modeling hierarchical combinational circuits. citation:30 ncitation:30 pid281781
+title1:Event-driven power management. citation:81 ncitation:220 pid1085847
+title1:Event-driven power management. citation:81 ncitation:220 pid1085847
+title1:Symbolic Algebra and Timing Driven Data-flow Synthesis. citation:23 ncitation:23 pid282952
+title1:Symbolic Algebra and Timing Driven Data-flow Synthesis. citation:23 ncitation:23 pid282952
+title1:Symbolic Algebra and Timing Driven Data-flow Synthesis. citation:23 ncitation:23 pid282952
+title1:Relative Scheduling Under Timing Constraints. citation:65 ncitation:22 pid131785
+title1:Relative Scheduling Under Timing Constraints. citation:65 ncitation:22 pid131785
+title1:High-Level Synthesis of Digital Circuits. citation:14 ncitation:11 pid738974
+title1:High-Level Synthesis of Digital Circuits. citation:14 ncitation:11 pid738974
+title1:A fast HW/SW FPGA-based thermal emulation framework for multi-processor system-on-chip. citation:43 ncitation:40 pid131325
+title1:A fast HW/SW FPGA-based thermal emulation framework for multi-processor system-on-chip. citation:43 ncitation:40 pid131325
+title1:Quantitative Comparison of Power Management Algorithms. citation:158 ncitation:144 pid142417
+title1:Quantitative Comparison of Power Management Algorithms. citation:158 ncitation:144 pid142417
+title1:A Synthesis Framework Based on Trace and Automata Theory. citation:5 ncitation:6 pid421198
+title1:A Synthesis Framework Based on Trace and Automata Theory. citation:5 ncitation:6 pid421198
+title1:Real time analysis and priority scheduler generation for hardware-software systems with a synthesized run-time system. citation:26 ncitation:24 pid282818
+title1:Real time analysis and priority scheduler generation for hardware-software systems with a synthesized run-time system. citation:26 ncitation:24 pid282818
+title1:Finding all simple disjunctive decompositions using irredundant sum-of-products forms. citation:32 ncitation:34 pid282752
+title1:Finding all simple disjunctive decompositions using irredundant sum-of-products forms. citation:32 ncitation:34 pid282752
+title1:Dynamic power management using adaptive learning tree. citation:183 ncitation:172 pid281956
+title1:Dynamic power management using adaptive learning tree. citation:183 ncitation:172 pid281956
+title1:Dynamic power management using adaptive learning tree. citation:183 ncitation:172 pid281956
+title1:The Olympus Synthesis System. citation:164 ncitation:154 pid858336
+title1:The Olympus Synthesis System. citation:164 ncitation:154 pid858336
+title1:Bandwidth-Constrained Mapping of Cores onto NoC Architectures. citation:507 ncitation:477 pid142593
+title1:Bandwidth-Constrained Mapping of Cores onto NoC Architectures. citation:507 ncitation:477 pid142593
+title1:Source Code Optimization and Profiling of Energy Consumption in Embedded Systems. citation:87 ncitation:79 pid450685
+title1:Source Code Optimization and Profiling of Energy Consumption in Embedded Systems. citation:87 ncitation:79 pid450685
+title1:Powering networks on chips. citation:201 ncitation:0 pid450509
+title1:Powering networks on chips. citation:201 ncitation:0 pid450509
+title1:Packetization and routing analysis of on-chip multiprocessor networks. citation:137 ncitation:127 pid990943
+title1:Packetization and routing analysis of on-chip multiprocessor networks. citation:137 ncitation:127 pid990943
+title1:Networks on Chips: from research to products. citation:20 ncitation:12 pid2782190
+title1:Networks on Chips: from research to products. citation:20 ncitation:12 pid2782190
+title1:Exploring programming model-driven QoS support for NoC-based platforms. citation:5 ncitation:4 pid2942258
+title1:Exploring programming model-driven QoS support for NoC-based platforms. citation:5 ncitation:4 pid2942258
+title1:A Method for Routing Packets Across Multiple Paths in NoCs with In-Order Delivery and Fault-Tolerance Gaurantees. citation:31 ncitation:29 pid3132060
+title1:A Method for Routing Packets Across Multiple Paths in NoCs with In-Order Delivery and Fault-Tolerance Gaurantees. citation:31 ncitation:29 pid3132060
+title1:Design of Resonant Clock Distribution Networks for 3-D Integrated Circuits. citation:1 ncitation:-1 pid3179028
+title1:Design of Resonant Clock Distribution Networks for 3-D Integrated Circuits. citation:1 ncitation:-1 pid3179028
+title1:Engineering complex systems for health, security and the environment. citation:0 ncitation:0 pid3423008
+title1:Engineering complex systems for health, security and the environment. citation:0 ncitation:0 pid3423008
+title1:Online thermal control methods for multiprocessor systems. citation:1 ncitation:None pid3614908
+title1:Online thermal control methods for multiprocessor systems. citation:1 ncitation:None pid3614908

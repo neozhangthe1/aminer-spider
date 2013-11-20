@@ -1,0 +1,71 @@
+title1:A Novel Scheme for Secured Data Transfer Over Computer Networks citation:2 ncitation:2 pid1336221
+title1:A Novel Scheme for Secured Data Transfer Over Computer Networks citation:2 ncitation:2 pid1336221
+title1:A hybrid genetic algorithm and bacterial foraging approach for global optimization. citation:241 ncitation:241 pid942712
+title1:A hybrid genetic algorithm and bacterial foraging approach for global optimization. citation:241 ncitation:241 pid942712
+title1:A novel Variable Neighborhood Particle Swarm Optimization for multi-objective Flexible Job-Shop Scheduling Problems. citation:48 ncitation:48 pid706876
+title1:A novel Variable Neighborhood Particle Swarm Optimization for multi-objective Flexible Job-Shop Scheduling Problems. citation:48 ncitation:48 pid706876
+title1:How to Solve a Multicriterion Problem for Which Pareto Dominance Relationship Cannot Be Applied? A Case Study from Medicine. citation:11 ncitation:9 pid474411
+title1:How to Solve a Multicriterion Problem for Which Pareto Dominance Relationship Cannot Be Applied? A Case Study from Medicine. citation:11 ncitation:9 pid474411
+title1:Engineering Evolutionary Intelligent Systems citation:13 ncitation:5 pid1201612
+title1:Engineering Evolutionary Intelligent Systems citation:13 ncitation:5 pid1201612
+title1:Intrusion Detection Systems Using Adaptive Regression Splines. citation:53 ncitation:52 pid306908
+title1:Intrusion Detection Systems Using Adaptive Regression Splines. citation:53 ncitation:52 pid306908
+title1:Automatic Clustering Using an Improved Differential Evolution Algorithm. citation:248 ncitation:244 pid1133081
+title1:Automatic Clustering Using an Improved Differential Evolution Algorithm. citation:248 ncitation:244 pid1133081
+title1:Adaptation of a Mamdani Fuzzy Inference System Using Neuro-Genetic Approach for Tactical Air Combat Decision Support System. citation:8 ncitation:10 pid59922
+title1:Adaptation of a Mamdani Fuzzy Inference System Using Neuro-Genetic Approach for Tactical Air Combat Decision Support System. citation:8 ncitation:10 pid59922
+title1:Information Assurance and Security. citation:0 ncitation:0 pid1001430
+title1:Information Assurance and Security. citation:0 ncitation:0 pid1001430
+title1:ALEC: An Adaptive Learning Framework for Optimizing Artificial Neural Networks. citation:18 ncitation:17 pid277971
+title1:ALEC: An Adaptive Learning Framework for Optimizing Artificial Neural Networks. citation:18 ncitation:17 pid277971
+title1:MARS: Still an Alien Planet in Soft Computing? citation:23 ncitation:31 pid277975
+title1:MARS: Still an Alien Planet in Soft Computing? citation:23 ncitation:31 pid277975
+title1:Computational Intelligence in Data Mining. citation:20 ncitation:19 pid923452
+title1:Computational Intelligence in Data Mining. citation:20 ncitation:19 pid923452
+title1:Computational Intelligence in Data Mining. citation:20 ncitation:19 pid923452
+title1:Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques. citation:177 ncitation:177 pid461879
+title1:Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques. citation:177 ncitation:177 pid461879
+title1:The N/R One Time Password System. citation:20 ncitation:16 pid456878
+title1:The N/R One Time Password System. citation:20 ncitation:16 pid456878
+title1:Improved Kernel Learning Using Smoothing Parameter Based Linear Kernel. citation:3 ncitation:4 pid461948
+title1:Improved Kernel Learning Using Smoothing Parameter Based Linear Kernel. citation:3 ncitation:4 pid461948
+title1:Automatic circle detection on images with an adaptive bacterial foraging algorithm. citation:33 ncitation:32 pid227947
+title1:Automatic circle detection on images with an adaptive bacterial foraging algorithm. citation:33 ncitation:32 pid227947
+title1:Web Usage Mining Using Artificial Ant Colony Clustering and Genetic Programming citation:119 ncitation:108 pid824314
+title1:Web Usage Mining Using Artificial Ant Colony Clustering and Genetic Programming citation:119 ncitation:108 pid824314
+title1:Short Term Load Forecasting Models in Czech Republic Using Soft Computing Paradigms citation:18 ncitation:14 pid816168
+title1:Short Term Load Forecasting Models in Czech Republic Using Soft Computing Paradigms citation:18 ncitation:14 pid816168
+title1:Estimation of Distribution Algorithm for Optimization of Neural Networks for Intrusion Detection System. citation:5 ncitation:5 pid266774
+title1:Estimation of Distribution Algorithm for Optimization of Neural Networks for Intrusion Detection System. citation:5 ncitation:5 pid266774
+title1:Design of fractional order PID controllers with an improved differential evolution. citation:90 ncitation:90 pid227897
+title1:Design of fractional order PID controllers with an improved differential evolution. citation:90 ncitation:90 pid227897
+title1:Multi-objective Peer-to-Peer Neighbor-Selection Strategy Using Genetic Algorithm. citation:3 ncitation:4 pid251283
+title1:Multi-objective Peer-to-Peer Neighbor-Selection Strategy Using Genetic Algorithm. citation:3 ncitation:4 pid251283
+title1:Evolutionary Multiobjective Optimization Approach for Evolving Ensemble of Intelligent Paradigms for Stock Market Modeling. citation:13 ncitation:9 pid496017
+title1:Evolutionary Multiobjective Optimization Approach for Evolving Ensemble of Intelligent Paradigms for Stock Market Modeling. citation:13 ncitation:9 pid496017
+title1:Hybrid Artificial Intelligence Systems. citation:0 ncitation:0 pid1203164
+title1:Hybrid Artificial Intelligence Systems. citation:0 ncitation:0 pid1203164
+title1:Hybrid Artificial Intelligence Systems. citation:0 ncitation:0 pid1203164
+title1:Hybrid Artificial Intelligence Systems. citation:0 ncitation:0 pid1203164
+title1:Hybrid Artificial Intelligence Systems. citation:0 ncitation:0 pid1203164
+title1:Automatic clustering with multi-objective Differential Evolution algorithms. citation:2 ncitation:2 pid2824392
+title1:Automatic clustering with multi-objective Differential Evolution algorithms. citation:2 ncitation:2 pid2824392
+title1:Data Clustering Using Multi-objective Differential Evolution Algorithms. citation:11 ncitation:33 pid2860143
+title1:Data Clustering Using Multi-objective Differential Evolution Algorithms. citation:11 ncitation:33 pid2860143
+title1:Web Services Practices. citation:0 ncitation:0 pid2981590
+title1:Web Services Practices. citation:0 ncitation:0 pid2981590
+title1:Web Services Practices. citation:0 ncitation:0 pid2981590
+title1:Convergence Analysis of Swarm Algorithm. citation:4 ncitation:3 pid3054656
+title1:Convergence Analysis of Swarm Algorithm. citation:4 ncitation:3 pid3054656
+title1:Interleaver optimization by population based metaheuristics. citation:0 ncitation:2 pid3055010
+title1:Interleaver optimization by population based metaheuristics. citation:0 ncitation:2 pid3055010
+title1:A modified differential evolution for autonomous deployment and localization of sensor nodes. citation:2 ncitation:2 pid3174135
+title1:A modified differential evolution for autonomous deployment and localization of sensor nodes. citation:2 ncitation:2 pid3174135
+title1:EvoPOL: a framework for optimising social regulation policies. citation:3 ncitation:3 pid3320479
+title1:EvoPOL: a framework for optimising social regulation policies. citation:3 ncitation:3 pid3320479
+title1:Intelligent Computational Optimization in Engineering: Techniques and Applications. citation:3 ncitation:2 pid3322708
+title1:Intelligent Computational Optimization in Engineering: Techniques and Applications. citation:3 ncitation:2 pid3322708
+title1:Scheduling Independent Tasks on Heterogeneous Distributed Environments by Differential Evolution. citation:2 ncitation:2 pid3406773
+title1:Scheduling Independent Tasks on Heterogeneous Distributed Environments by Differential Evolution. citation:2 ncitation:2 pid3406773
+title1:Evolutionary prediction of photovoltaic power plant energy production. citation:2 ncitation:2 pid3487594
+title1:Evolutionary prediction of photovoltaic power plant energy production. citation:2 ncitation:2 pid3487594

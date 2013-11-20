@@ -1,0 +1,2 @@
+title1:A novel dimensionally-decomposed router for on-chip communication in 3D architectures. citation:174 ncitation:140 pid419748
+title1:A novel dimensionally-decomposed router for on-chip communication in 3D architectures. citation:174 ncitation:140 pid419748

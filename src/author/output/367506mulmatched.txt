@@ -1,0 +1,6 @@
+title1:Facial Expression Analysis. citation:47 ncitation:6 pid40605
+title1:Facial Expression Analysis. citation:47 ncitation:6 pid40605
+title1:Facial Expression Analysis. citation:47 ncitation:6 pid40605
+title1:Facial Expression Analysis. citation:47 ncitation:6 pid40605
+title1:Neural Network-Based Face Detection. citation:534 ncitation:3698 pid128930
+title1:Neural Network-Based Face Detection. citation:534 ncitation:3698 pid128930

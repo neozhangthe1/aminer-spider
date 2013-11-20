@@ -1,0 +1,16 @@
+title1:Exploiting On-Chip Data Transfers for Improving Performance of Chip-Scale Multiprocessors. citation:0 ncitation:-1 pid196119
+title1:Exploiting On-Chip Data Transfers for Improving Performance of Chip-Scale Multiprocessors. citation:0 ncitation:-1 pid196119
+title1:Improving Java performance using dynamic method migration on FPGAs. citation:19 ncitation:12 pid1172498
+title1:Improving Java performance using dynamic method migration on FPGAs. citation:19 ncitation:12 pid1172498
+title1:Communication Based Proactive Link Power Management. citation:1 ncitation:1 pid251442
+title1:Communication Based Proactive Link Power Management. citation:1 ncitation:1 pid251442
+title1:Compiler Algorithms for Optimizing Locality and Parallelism on Shared and Distributed-Memory Machines. citation:29 ncitation:31 pid989035
+title1:Compiler Algorithms for Optimizing Locality and Parallelism on Shared and Distributed-Memory Machines. citation:29 ncitation:31 pid989035
+title1:Data Space Oriented Tiling. citation:20 ncitation:3 pid188962
+title1:Data Space Oriented Tiling. citation:20 ncitation:3 pid188962
+title1:Shared Scratch-Pad Memory Space Management. citation:1 ncitation:29 pid448229
+title1:Shared Scratch-Pad Memory Space Management. citation:1 ncitation:29 pid448229
+title1:Compiler-Directed Collective-I/O. citation:5 ncitation:5 pid1125208
+title1:Compiler-Directed Collective-I/O. citation:5 ncitation:5 pid1125208
+title1:Processor-embedded distributed smart disks for I/O-intensive workloads: architectures, performance models and evaluation. citation:6 ncitation:12 pid988525
+title1:Processor-embedded distributed smart disks for I/O-intensive workloads: architectures, performance models and evaluation. citation:6 ncitation:12 pid988525

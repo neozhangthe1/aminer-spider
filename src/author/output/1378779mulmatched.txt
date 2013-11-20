@@ -1,0 +1,17 @@
+title1:A heuristic bidding strategy for multiple heterogeneous auctions. citation:15 ncitation:9 pid5836
+title1:A heuristic bidding strategy for multiple heterogeneous auctions. citation:15 ncitation:9 pid5836
+title1:A Market-Based Recommender System. citation:6 ncitation:8 pid43079
+title1:A Market-Based Recommender System. citation:6 ncitation:8 pid43079
+title1:A Market-Based Recommender System. citation:6 ncitation:8 pid43079
+title1:Sellers Competing for Buyers in Online Markets. citation:20 ncitation:2 pid138957
+title1:Sellers Competing for Buyers in Online Markets. citation:20 ncitation:2 pid138957
+title1:Flexible Provisioning of Service Workflows. citation:12 ncitation:30 pid166162
+title1:Flexible Provisioning of Service Workflows. citation:12 ncitation:30 pid166162
+title1:Flexible Provisioning of Service Workflows. citation:35 ncitation:30 pid191299
+title1:Flexible Provisioning of Service Workflows. citation:35 ncitation:30 pid191299
+title1:Agent-Based Computing. citation:198 ncitation:4 pid378995
+title1:Agent-Based Computing. citation:198 ncitation:4 pid378995
+title1:A Software Framework for Automated Negotiation. citation:137 ncitation:130 pid583206
+title1:A Software Framework for Automated Negotiation. citation:137 ncitation:130 pid583206
+title1:Flexibly priced options: a new mechanism for sequential auction markets with complementary goods. citation:5 ncitation:4 pid2897805
+title1:Flexibly priced options: a new mechanism for sequential auction markets with complementary goods. citation:5 ncitation:4 pid2897805

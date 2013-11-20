@@ -1,0 +1,50 @@
+title1:Kolmogorov Complexity and its Applications. citation:4032 ncitation:31 pid710
+title1:Kolmogorov Complexity and its Applications. citation:4032 ncitation:31 pid710
+title1:Kolmogorov Complexity and its Applications. citation:4032 ncitation:31 pid710
+title1:Kolmogorov Complexity and its Applications. citation:4032 ncitation:31 pid710
+title1:Sharpening Occam's Razor. citation:12 ncitation:12 pid105362
+title1:Sharpening Occam's Razor. citation:12 ncitation:12 pid105362
+title1:The Power of the Queue. citation:12 ncitation:21 pid104675
+title1:The Power of the Queue. citation:12 ncitation:21 pid104675
+title1:Finding Compact Structural Motifs. citation:2 ncitation:8 pid118881
+title1:Finding Compact Structural Motifs. citation:2 ncitation:8 pid118881
+title1:Average-Case Complexity of Shellsort. citation:18 ncitation:-1 pid268345
+title1:Average-Case Complexity of Shellsort. citation:18 ncitation:-1 pid268345
+title1:New Applications of the Incompressibility Method. citation:19 ncitation:11 pid267501
+title1:New Applications of the Incompressibility Method. citation:19 ncitation:11 pid267501
+title1:New Applications of the Incompressibility Method. citation:19 ncitation:11 pid267501
+title1:Protein Threading by Linear Programming. citation:201 ncitation:69 pid554482
+title1:Protein Threading by Linear Programming. citation:201 ncitation:69 pid554482
+title1:Protein Threading by Linear Programming. citation:201 ncitation:69 pid554482
+title1:On the complexity and approximation of syntenic distance. citation:47 ncitation:46 pid558833
+title1:On the complexity and approximation of syntenic distance. citation:47 ncitation:46 pid558833
+title1:The Incompressibility Method. citation:24 ncitation:1 pid612033
+title1:The Incompressibility Method. citation:24 ncitation:1 pid612033
+title1:The Incompressibility Method. citation:24 ncitation:1 pid612033
+title1:The Incompressibility Method. citation:24 ncitation:1 pid612033
+title1:On the Linear-Cost Subtree-Transfer Distance between Phylogenetic Trees. citation:31 ncitation:28 pid749961
+title1:On the Linear-Cost Subtree-Transfer Distance between Phylogenetic Trees. citation:31 ncitation:28 pid749961
+title1:A New Approach to Formal Language Theory by Kolmogorov Complexity citation:6 ncitation:17 pid816353
+title1:A New Approach to Formal Language Theory by Kolmogorov Complexity citation:6 ncitation:17 pid816353
+title1:New Applications of the Incompressibility Method. citation:5 ncitation:11 pid790728
+title1:New Applications of the Incompressibility Method. citation:5 ncitation:11 pid790728
+title1:Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity citation:207 ncitation:187 pid818374
+title1:Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity citation:207 ncitation:187 pid818374
+title1:Foreword. citation:0 ncitation:-1 pid972495
+title1:Foreword. citation:0 ncitation:-1 pid972495
+title1:Average-case analysis of QuickSort and Binary Insertion Tree height using incompressibility. citation:5 ncitation:4 pid934862
+title1:Average-case analysis of QuickSort and Binary Insertion Tree height using incompressibility. citation:5 ncitation:4 pid934862
+title1:Average-Case Analysis of Algorithms Using Kolmogorov Complexity. citation:9 ncitation:9 pid973536
+title1:Average-Case Analysis of Algorithms Using Kolmogorov Complexity. citation:9 ncitation:9 pid973536
+title1:Kolmogorov Complexity Arguments in Combinatorics. citation:22 ncitation:22 pid976961
+title1:Kolmogorov Complexity Arguments in Combinatorics. citation:22 ncitation:22 pid976961
+title1:Information Distance. citation:18 ncitation:345 pid1104235
+title1:Information Distance. citation:18 ncitation:345 pid1104235
+title1:Information Distance. citation:18 ncitation:345 pid1104235
+title1:Information Distance. citation:18 ncitation:345 pid1104235
+title1:Information Distance citation:18 ncitation:345 pid2855342
+title1:Information Distance citation:18 ncitation:345 pid2855342
+title1:An introduction to Kolmogorov complexity and its applications (2. ed.). citation:4032 ncitation:3835 pid3005288
+title1:An introduction to Kolmogorov complexity and its applications (2. ed.). citation:4032 ncitation:3835 pid3005288
+title1:An introduction to Kolmogorov complexity and its applications. citation:44 ncitation:3835 pid3006089
+title1:An introduction to Kolmogorov complexity and its applications. citation:44 ncitation:3835 pid3006089

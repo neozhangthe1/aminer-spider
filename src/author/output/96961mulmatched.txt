@@ -1,0 +1,12 @@
+title1:Multiple Approximate String Matching. citation:44 ncitation:41 pid651197
+title1:Multiple Approximate String Matching. citation:44 ncitation:41 pid651197
+title1:Towards a Distributed Search Engine. citation:2 ncitation:-1 pid1309526
+title1:Towards a Distributed Search Engine. citation:2 ncitation:-1 pid1309526
+title1:Fast String Matching with Mismatches citation:44 ncitation:44 pid887065
+title1:Fast String Matching with Mismatches citation:44 ncitation:44 pid887065
+title1:Modern Information Retrieval citation:12142 ncitation:11054 pid87
+title1:Modern Information Retrieval citation:12142 ncitation:11054 pid87
+title1:Modern Information Retrieval citation:12142 ncitation:11054 pid87
+title1:Modern Information Retrieval citation:12142 ncitation:11054 pid87
+title1:Evolution of the Chilean Web: A Larger Study. citation:4 ncitation:2 pid480727
+title1:Evolution of the Chilean Web: A Larger Study. citation:4 ncitation:2 pid480727

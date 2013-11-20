@@ -1,0 +1,57 @@
+title1:Hypergraph Partitioning with Fixed Vertices. citation:26 ncitation:11 pid131590
+title1:Hypergraph Partitioning with Fixed Vertices. citation:26 ncitation:11 pid131590
+title1:DAG-Map: Graph-Based FPGA Technology Mapping for Delay Optimization. citation:138 ncitation:139 pid857987
+title1:DAG-Map: Graph-Based FPGA Technology Mapping for Delay Optimization. citation:138 ncitation:139 pid857987
+title1:A Direct Combination of the Prim and Dijkstra Constructions for Improved Performance-driven Global Routing. citation:72 ncitation:70 pid419873
+title1:A Direct Combination of the Prim and Dijkstra Constructions for Improved Performance-driven Global Routing. citation:72 ncitation:70 pid419873
+title1:Bright-Field AAPSM Conflict Detection and Correction citation:18 ncitation:10 pid824040
+title1:Bright-Field AAPSM Conflict Detection and Correction citation:18 ncitation:10 pid824040
+title1:Local unidirectional bias for cutsize-delay tradeoff in performance-driven bipartitioning. citation:8 ncitation:8 pid1084664
+title1:Local unidirectional bias for cutsize-delay tradeoff in performance-driven bipartitioning. citation:8 ncitation:8 pid1084664
+title1:Fast Spectral Methods for Ratio Cut Partitioning and Clustering. citation:624 ncitation:573 pid282225
+title1:Fast Spectral Methods for Ratio Cut Partitioning and Clustering. citation:624 ncitation:573 pid282225
+title1:How to test a tree. citation:0 ncitation:1 pid1024508
+title1:How to test a tree. citation:0 ncitation:1 pid1024508
+title1:Hierarchical whitespace allocation in top-down placement. citation:39 ncitation:38 pid1083610
+title1:Hierarchical whitespace allocation in top-down placement. citation:39 ncitation:38 pid1083610
+title1:Manufacturability . citation:26 ncitation:-1 pid448021
+title1:Manufacturability . citation:26 ncitation:-1 pid448021
+title1:Manufacturability . citation:26 ncitation:-1 pid448021
+title1:Manufacturability . citation:26 ncitation:-1 pid448021
+title1:Manufacturability . citation:26 ncitation:-1 pid448021
+title1:Manufacturability . citation:26 ncitation:-1 pid448021
+title1:Manufacturability . citation:26 ncitation:-1 pid448021
+title1:Manufacturability . citation:26 ncitation:-1 pid448021
+title1:DFM: where's the proof of value? citation:2 ncitation:1 pid133664
+title1:DFM: where's the proof of value? citation:2 ncitation:1 pid133664
+title1:Partitioning with terminals: a "new" problem and new benchmarks. citation:5 ncitation:4 pid446393
+title1:Partitioning with terminals: a "new" problem and new benchmarks. citation:5 ncitation:4 pid446393
+title1:Quantum-Dot Cellular Automata (QCA) circuit partitioning: problem modeling and solutions. citation:45 ncitation:46 pid131284
+title1:Quantum-Dot Cellular Automata (QCA) circuit partitioning: problem modeling and solutions. citation:45 ncitation:46 pid131284
+title1:Guest Editors' Introduction: RTL to GDSII - From Foilware to Standard Practice. citation:6 ncitation:6 pid858211
+title1:Guest Editors' Introduction: RTL to GDSII - From Foilware to Standard Practice. citation:6 ncitation:6 pid858211
+title1:ORION 2.0: A fast and accurate NoC power and area model for early-stage design space exploration. citation:410 ncitation:353 pid1241308
+title1:ORION 2.0: A fast and accurate NoC power and area model for early-stage design space exploration. citation:410 ncitation:353 pid1241308
+title1:2003 Technology Roadmap for Semiconductors. citation:190 ncitation:191 pid806313
+title1:2003 Technology Roadmap for Semiconductors. citation:190 ncitation:191 pid806313
+title1:How much variability can designers tolerate? citation:12 ncitation:10 pid858148
+title1:How much variability can designers tolerate? citation:12 ncitation:10 pid858148
+title1:Layout decomposition for double patterning lithography. citation:0 ncitation:56 pid283885
+title1:Layout decomposition for double patterning lithography. citation:0 ncitation:56 pid283885
+title1:Bringing down NRE. citation:2 ncitation:2 pid858146
+title1:Bringing down NRE. citation:2 ncitation:2 pid858146
+title1:Wafer Topography-Aware Optical Proximity Correction. citation:15 ncitation:14 pid1086487
+title1:Wafer Topography-Aware Optical Proximity Correction. citation:15 ncitation:14 pid1086487
+title1:Provably good performance-driven global routing. citation:181 ncitation:181 pid1083902
+title1:Provably good performance-driven global routing. citation:181 ncitation:181 pid1083902
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Variability. citation:109 ncitation:-1 pid858140
+title1:Admissibility Proofs for the LCS* Algorithm. citation:0 ncitation:-1 pid574206
+title1:Admissibility Proofs for the LCS* Algorithm. citation:0 ncitation:-1 pid574206
+title1:Improved on-chip router analytical power and area modeling. citation:14 ncitation:10 pid2941249
+title1:Improved on-chip router analytical power and area modeling. citation:14 ncitation:10 pid2941249

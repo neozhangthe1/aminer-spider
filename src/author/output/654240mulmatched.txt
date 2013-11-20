@@ -1,0 +1,6 @@
+title1:Progressive Probabilistic Hough Transform. citation:76 ncitation:63 pid67336
+title1:Progressive Probabilistic Hough Transform. citation:76 ncitation:63 pid67336
+title1:Hypothesis Testing: A Framework for Analyzing and Optimizing Hough Transform Performance. citation:5 ncitation:59 pid1032754
+title1:Hypothesis Testing: A Framework for Analyzing and Optimizing Hough Transform Performance. citation:5 ncitation:59 pid1032754
+title1:Discrete relaxation. citation:118 ncitation:112 pid1039550
+title1:Discrete relaxation. citation:118 ncitation:112 pid1039550

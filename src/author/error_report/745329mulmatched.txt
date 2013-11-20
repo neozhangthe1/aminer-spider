@@ -1,0 +1,72 @@
+title1:Data Mining: Concepts and Techniques citation:19166 ncitation:17301 pid2333
+title1:Data Mining: Concepts and Techniques citation:19166 ncitation:17301 pid2333
+title1:Data Mining: Concepts and Techniques citation:19166 ncitation:17301 pid2333
+title1:Data Mining: Concepts and Techniques citation:19166 ncitation:17301 pid2333
+title1:Data Mining: Concepts and Techniques citation:19166 ncitation:17301 pid2333
+title1:Data Mining: Concepts and Techniques citation:19166 ncitation:17301 pid2333
+title1:Warehousing and Mining Massive RFID Data Sets. citation:37 ncitation:33 pid27340
+title1:Warehousing and Mining Massive RFID Data Sets. citation:37 ncitation:33 pid27340
+title1:Mining multimedia data. citation:109 ncitation:98 pid77315
+title1:Mining multimedia data. citation:109 ncitation:98 pid77315
+title1:CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets. citation:875 ncitation:839 pid159092
+title1:CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets. citation:875 ncitation:839 pid159092
+title1:Normalization and Compilation of Deductive and Object-Oriented Databases Programs for Efficient Query Evaluation. citation:3 ncitation:4 pid160180
+title1:Normalization and Compilation of Deductive and Object-Oriented Databases Programs for Efficient Query Evaluation. citation:3 ncitation:4 pid160180
+title1:OLAP Mining: Integration of OLAP with Data Mining. citation:15 ncitation:163 pid160578
+title1:OLAP Mining: Integration of OLAP with Data Mining. citation:15 ncitation:163 pid160578
+title1:Efficient Mining of Partial Periodic Patterns in Time Series Database. citation:569 ncitation:544 pid300079
+title1:Efficient Mining of Partial Periodic Patterns in Time Series Database. citation:569 ncitation:544 pid300079
+title1:Efficient Mining of Partial Periodic Patterns in Time Series Database. citation:569 ncitation:544 pid300079
+title1:Mining coherent dense subgraphs across massive biological networks for functional discovery. citation:203 ncitation:187 pid438436
+title1:Mining coherent dense subgraphs across massive biological networks for functional discovery. citation:203 ncitation:187 pid438436
+title1:Extracting redundancy-aware top-k patterns. citation:69 ncitation:60 pid473445
+title1:Extracting redundancy-aware top-k patterns. citation:69 ncitation:60 pid473445
+title1:CCMine: Efficient Mining of Confidence-Closed Correlated Patterns. citation:37 ncitation:32 pid526845
+title1:CCMine: Efficient Mining of Confidence-Closed Correlated Patterns. citation:37 ncitation:32 pid526845
+title1:Data Mining Techniques. citation:106 ncitation:103 pid598032
+title1:Data Mining Techniques. citation:106 ncitation:103 pid598032
+title1:Data Mining Techniques. citation:106 ncitation:103 pid598032
+title1:Data Mining Techniques. citation:106 ncitation:103 pid598032
+title1:Mining Frequent Patterns without Candidate Generation. citation:4944 ncitation:4677 pid598830
+title1:Mining Frequent Patterns without Candidate Generation. citation:4944 ncitation:4677 pid598830
+title1:Exploratory Mining and Pruning Optimizations of Constrained Association Rules. citation:776 ncitation:744 pid599429
+title1:Exploratory Mining and Pruning Optimizations of Constrained Association Rules. citation:776 ncitation:744 pid599429
+title1:Pushing Convertible Constraints in Frequent Itemset Mining. citation:66 ncitation:56 pid839599
+title1:Pushing Convertible Constraints in Frequent Itemset Mining. citation:66 ncitation:56 pid839599
+title1:Evaluation of Regular Nonlinear Recursions by Deductive Database Techniques. citation:8 ncitation:8 pid938539
+title1:Evaluation of Regular Nonlinear Recursions by Deductive Database Techniques. citation:8 ncitation:8 pid938539
+title1:Towards On-Line Analytical Mining in Large Databases. citation:209 ncitation:196 pid1064769
+title1:Towards On-Line Analytical Mining in Large Databases. citation:209 ncitation:196 pid1064769
+title1:Beyond intratransaction association analysis: mining multidimensional intertransaction association rules. citation:141 ncitation:140 pid1120304
+title1:Beyond intratransaction association analysis: mining multidimensional intertransaction association rules. citation:141 ncitation:140 pid1120304
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Data Mining. citation:542 ncitation:-1 pid1297226
+title1:Mining knowledge from databases: an information network analysis approach. citation:15 ncitation:12 pid2814732
+title1:Mining knowledge from databases: an information network analysis approach. citation:15 ncitation:12 pid2814732
+title1:Data Mining - Know It All. citation:40 ncitation:26 pid3485763
+title1:Data Mining - Know It All. citation:40 ncitation:26 pid3485763

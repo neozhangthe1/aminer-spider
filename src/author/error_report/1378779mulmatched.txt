@@ -1,0 +1,48 @@
+title1:A heuristic bidding strategy for multiple heterogeneous auctions. citation:15 ncitation:9 pid5836
+title1:A heuristic bidding strategy for multiple heterogeneous auctions. citation:15 ncitation:9 pid5836
+title1:A Market-Based Recommender System. citation:14 ncitation:8 pid43079
+title1:A Market-Based Recommender System. citation:14 ncitation:8 pid43079
+title1:A Market-Based Recommender System. citation:14 ncitation:8 pid43079
+title1:A Market-Based Recommender System. citation:14 ncitation:8 pid43079
+title1:Market-Based Recommendations: Design, Simulation and Evaluation. citation:5 ncitation:20 pid43094
+title1:Market-Based Recommendations: Design, Simulation and Evaluation. citation:5 ncitation:20 pid43094
+title1:Approximating mixed Nash equilibria using smooth fictitious play in simultaneous auctions. citation:4 ncitation:4 pid57513
+title1:Approximating mixed Nash equilibria using smooth fictitious play in simultaneous auctions. citation:4 ncitation:4 pid57513
+title1:Learn while you earn: two approaches to learning auction parameters in take-it-or-leave-it auctions. citation:1 ncitation:1 pid57546
+title1:Learn while you earn: two approaches to learning auction parameters in take-it-or-leave-it auctions. citation:1 ncitation:1 pid57546
+title1:Agent-based coordination technologies in disaster management. citation:8 ncitation:11 pid57622
+title1:Agent-based coordination technologies in disaster management. citation:8 ncitation:11 pid57622
+title1:Sellers Competing for Buyers in Online Markets. citation:20 ncitation:2 pid138957
+title1:Sellers Competing for Buyers in Online Markets. citation:20 ncitation:2 pid138957
+title1:Flexible Provisioning of Service Workflows. citation:35 ncitation:30 pid166162
+title1:Flexible Provisioning of Service Workflows. citation:35 ncitation:30 pid166162
+title1:Flexible Provisioning of Service Workflows. citation:35 ncitation:30 pid166162
+title1:Coalition Structures in Weighted Voting Games. citation:24 ncitation:20 pid166415
+title1:Coalition Structures in Weighted Voting Games. citation:24 ncitation:20 pid166415
+title1:Flexible Provisioning of Service Workflows. citation:35 ncitation:30 pid191299
+title1:Flexible Provisioning of Service Workflows. citation:35 ncitation:30 pid191299
+title1:Agent-Based Computing. citation:198 ncitation:4 pid378995
+title1:Agent-Based Computing. citation:198 ncitation:4 pid378995
+title1:A Software Framework for Automated Negotiation. citation:137 ncitation:130 pid583206
+title1:A Software Framework for Automated Negotiation. citation:137 ncitation:130 pid583206
+title1:A Software Framework for Automated Negotiation. citation:137 ncitation:130 pid583206
+title1:A Comparative Study of Game Theoretic and Evolutionary Models of Bargaining for Software Agents. citation:69 ncitation:63 pid748542
+title1:A Comparative Study of Game Theoretic and Evolutionary Models of Bargaining for Software Agents. citation:69 ncitation:63 pid748542
+title1:Efficient mechanisms for the supply of services in multi-agent environments. citation:168 ncitation:162 pid857611
+title1:Efficient mechanisms for the supply of services in multi-agent environments. citation:168 ncitation:162 pid857611
+title1:Agent Technologies for Sensor Networks. citation:60 ncitation:56 pid875999
+title1:Agent Technologies for Sensor Networks. citation:60 ncitation:56 pid875999
+title1:Agent-based formation of virtual organisations. citation:196 ncitation:184 pid1004133
+title1:Agent-based formation of virtual organisations. citation:196 ncitation:184 pid1004133
+title1:The Cooperative Problem-solving Process. citation:269 ncitation:254 pid1007677
+title1:The Cooperative Problem-solving Process. citation:269 ncitation:254 pid1007677
+title1:Flexible provisioning of web service workflows. citation:16 ncitation:30 pid1120604
+title1:Flexible provisioning of web service workflows. citation:16 ncitation:30 pid1120604
+title1:Automating negotiation for M-services. citation:34 ncitation:31 pid1131862
+title1:Automating negotiation for M-services. citation:34 ncitation:31 pid1131862
+title1:Flexibly priced options: a new mechanism for sequential auction markets with complementary goods. citation:5 ncitation:4 pid2897805
+title1:Flexibly priced options: a new mechanism for sequential auction markets with complementary goods. citation:5 ncitation:4 pid2897805
+title1:Continuous Double Auctions with Execution Uncertainty. citation:5 ncitation:-1 pid3639880
+title1:Continuous Double Auctions with Execution Uncertainty. citation:5 ncitation:-1 pid3639880
+title1:Argumentation-based negotiation. citation:426 ncitation:-1 pid3648088
+title1:Argumentation-based negotiation. citation:426 ncitation:-1 pid3648088

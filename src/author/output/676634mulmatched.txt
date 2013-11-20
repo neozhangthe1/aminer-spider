@@ -1,0 +1,12 @@
+title1:Aggregated Multicast - A Comparative Study. citation:54 ncitation:46 pid792914
+title1:Aggregated Multicast - A Comparative Study. citation:54 ncitation:46 pid792914
+title1:TCP Live Experiments on a Real GEO Satellite Testbed. citation:15 ncitation:10 pid433218
+title1:TCP Live Experiments on a Real GEO Satellite Testbed. citation:15 ncitation:10 pid433218
+title1:ATM Rate-Based Congestion Control Using a Smith Predictor. citation:105 ncitation:11 pid1036951
+title1:ATM Rate-Based Congestion Control Using a Smith Predictor. citation:105 ncitation:11 pid1036951
+title1:CapProbe: a simple and accurate capacity estimation technique. citation:8 ncitation:235 pid588715
+title1:CapProbe: a simple and accurate capacity estimation technique. citation:8 ncitation:235 pid588715
+title1:ATM Virtual Private Networks. citation:47 ncitation:46 pid771763
+title1:ATM Virtual Private Networks. citation:47 ncitation:46 pid771763
+title1:Fluid-flow analysis of TCP Westwood with RED. citation:24 ncitation:25 pid795997
+title1:Fluid-flow analysis of TCP Westwood with RED. citation:24 ncitation:25 pid795997

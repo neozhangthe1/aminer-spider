@@ -1,0 +1,6 @@
+title1:Adaptive minimum bit-error rate beamforming. citation:95 ncitation:91 pid1176754
+title1:Adaptive minimum bit-error rate beamforming. citation:95 ncitation:91 pid1176754
+title1:Adaptive minimum bit-error rate beamforming. citation:95 ncitation:91 pid1176754
+title1:Adaptive minimum bit-error rate beamforming. citation:95 ncitation:91 pid1176754
+title1:Reduced complexity in-phase/quadrature-phase M-QAM turbo equalization using iterative channel estimation. citation:5 ncitation:29 pid3246210
+title1:Reduced complexity in-phase/quadrature-phase M-QAM turbo equalization using iterative channel estimation. citation:5 ncitation:29 pid3246210

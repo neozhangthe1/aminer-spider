@@ -1,0 +1,17 @@
+title1:The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies. citation:21 ncitation:19 pid1060926
+title1:The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies. citation:21 ncitation:19 pid1060926
+title1:Topological Queries. citation:2 ncitation:-1 pid617681
+title1:Topological Queries. citation:2 ncitation:-1 pid617681
+title1:An economic model of the worldwide web. citation:5 ncitation:3 pid674320
+title1:An economic model of the worldwide web. citation:5 ncitation:3 pid674320
+title1:Computing correlated equilibria in multi-player games. citation:182 ncitation:150 pid622876
+title1:Computing correlated equilibria in multi-player games. citation:182 ncitation:150 pid622876
+title1:Map graphs. citation:31 ncitation:29 pid949999
+title1:Map graphs. citation:31 ncitation:29 pid949999
+title1:Topological Inference. citation:189 ncitation:182 pid388729
+title1:Topological Inference. citation:189 ncitation:182 pid388729
+title1:Algorithms. citation:250 ncitation:189 pid2939980
+title1:Algorithms. citation:250 ncitation:189 pid2939980
+title1:Algorithms. citation:250 ncitation:189 pid2939980
+title1:Computational complexity. citation:6357 ncitation:6143 pid3001057
+title1:Computational complexity. citation:6357 ncitation:6143 pid3001057

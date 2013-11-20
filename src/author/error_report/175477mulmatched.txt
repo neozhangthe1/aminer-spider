@@ -1,0 +1,19 @@
+title1:Grammatical codes of trees. citation:4 ncitation:5 pid839154
+title1:Grammatical codes of trees. citation:4 ncitation:5 pid839154
+title1:Labeled 2-Structures. citation:31 ncitation:0 pid66377
+title1:Labeled 2-Structures. citation:31 ncitation:0 pid66377
+title1:Reaction Systems. citation:5 ncitation:43 pid882734
+title1:Reaction Systems. citation:5 ncitation:43 pid882734
+title1:Reaction Systems. citation:5 ncitation:43 pid882734
+title1:Elementary Net Systems. citation:148 ncitation:130 pid17734
+title1:Elementary Net Systems. citation:148 ncitation:130 pid17734
+title1:Elementary Net Systems. citation:148 ncitation:130 pid17734
+title1:TIL systems and languages. citation:106 ncitation:3 pid941007
+title1:TIL systems and languages. citation:106 ncitation:3 pid941007
+title1:Subword Complexities of Various Classes of Deterministic Developmental Languages without Interactions. citation:90 ncitation:79 pid1090813
+title1:Subword Complexities of Various Classes of Deterministic Developmental Languages without Interactions. citation:90 ncitation:79 pid1090813
+title1:On sequential and parallel node-rewriting graph grammars, II. citation:5 ncitation:46 pid834035
+title1:On sequential and parallel node-rewriting graph grammars, II. citation:5 ncitation:46 pid834035
+title1:Gene assembly in Ciliates. citation:5 ncitation:3 pid2878046
+title1:Gene assembly in Ciliates. citation:5 ncitation:3 pid2878046
+title1:Gene assembly in Ciliates. citation:5 ncitation:3 pid2878046

@@ -1,0 +1,43 @@
+title1:Implicit Transactional Memory in Kilo-Instruction Multiprocessors. citation:0 ncitation:2 pid11587
+title1:Implicit Transactional Memory in Kilo-Instruction Multiprocessors. citation:0 ncitation:2 pid11587
+title1:Branch Prediction Using Profile Data. citation:0 ncitation:6 pid197260
+title1:Branch Prediction Using Profile Data. citation:0 ncitation:6 pid197260
+title1:Decoupled Vector Architectures. citation:55 ncitation:49 pid252664
+title1:Decoupled Vector Architectures. citation:55 ncitation:49 pid252664
+title1:Decoupled Vector Architectures. citation:55 ncitation:49 pid252664
+title1:Virtual-Physical Registers. citation:122 ncitation:118 pid252710
+title1:Virtual-Physical Registers. citation:122 ncitation:118 pid252710
+title1:Virtual-Physical Registers. citation:122 ncitation:118 pid252710
+title1:Trace Cache Redundancy: Red & Blue Traces. citation:45 ncitation:43 pid252870
+title1:Trace Cache Redundancy: Red & Blue Traces. citation:45 ncitation:43 pid252870
+title1:A decoupled KILO-instruction processor. citation:26 ncitation:25 pid253097
+title1:A decoupled KILO-instruction processor. citation:26 ncitation:25 pid253097
+title1:Optimization of Instruction Fetch for Decision Support Workloads. citation:14 ncitation:13 pid344096
+title1:Optimization of Instruction Fetch for Decision Support Workloads. citation:14 ncitation:13 pid344096
+title1:Software trace cache. citation:3 ncitation:63 pid360593
+title1:Software trace cache. citation:3 ncitation:63 pid360593
+title1:Kilo-instruction Processors. citation:75 ncitation:21 pid435415
+title1:Kilo-instruction Processors. citation:75 ncitation:21 pid435415
+title1:Kilo-instruction Processors. citation:75 ncitation:21 pid435415
+title1:Kilo-instruction Processors. citation:75 ncitation:21 pid435415
+title1:Detecting and Using Affinity in an Automatic Data Distribution Tool. citation:29 ncitation:29 pid482997
+title1:Detecting and Using Affinity in an Automatic Data Distribution Tool. citation:29 ncitation:29 pid482997
+title1:: Modulo Scheduling with Integrated Register Spilling. citation:52 ncitation:15 pid483361
+title1:: Modulo Scheduling with Integrated Register Spilling. citation:52 ncitation:15 pid483361
+title1:: Modulo Scheduling with Integrated Register Spilling. citation:52 ncitation:15 pid483361
+title1:Transactional Memory and OpenMP. citation:20 ncitation:20 pid719989
+title1:Transactional Memory and OpenMP. citation:20 ncitation:20 pid719989
+title1:A Case for Resource-conscious Out-of-order Processors. citation:16 ncitation:15 pid781404
+title1:A Case for Resource-conscious Out-of-order Processors. citation:16 ncitation:15 pid781404
+title1:Speculative execution for hiding memory latency. citation:0 ncitation:3 pid1062457
+title1:Speculative execution for hiding memory latency. citation:0 ncitation:3 pid1062457
+title1:A Discrete Optimization Problem in Local Networks and Data Alignment. citation:153 ncitation:150 pid1079170
+title1:A Discrete Optimization Problem in Local Networks and Data Alignment. citation:153 ncitation:150 pid1079170
+title1:Enlarging Instruction Streams. citation:0 ncitation:5 pid1083114
+title1:Enlarging Instruction Streams. citation:0 ncitation:5 pid1083114
+title1:Multicore: The View from Europe. citation:0 ncitation:0 pid2925816
+title1:Multicore: The View from Europe. citation:0 ncitation:0 pid2925816
+title1:RMS-TM: a comprehensive benchmark suite for transactional memory systems. citation:0 ncitation:5 pid3029599
+title1:RMS-TM: a comprehensive benchmark suite for transactional memory systems. citation:0 ncitation:5 pid3029599
+title1:Simulating Whole Supercomputer Applications. citation:0 ncitation:3 pid3137820
+title1:Simulating Whole Supercomputer Applications. citation:0 ncitation:3 pid3137820

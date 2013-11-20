@@ -1,0 +1,14 @@
+title1:Facial Expression Analysis. citation:1322 ncitation:6 pid40605
+title1:Facial Expression Analysis. citation:1322 ncitation:6 pid40605
+title1:Facial Expression Analysis. citation:1322 ncitation:6 pid40605
+title1:Facial Expression Analysis. citation:1322 ncitation:6 pid40605
+title1:Neural Network-Based Face Detection. citation:3697 ncitation:3698 pid128930
+title1:Neural Network-Based Face Detection. citation:3697 ncitation:3698 pid128930
+title1:Shape and Motion Carving in 6D. citation:130 ncitation:126 pid129311
+title1:Shape and Motion Carving in 6D. citation:130 ncitation:126 pid129311
+title1:A Multi-Body Factorization Method for Motion Analysis. citation:181 ncitation:191 pid292978
+title1:A Multi-Body Factorization Method for Motion Analysis. citation:181 ncitation:191 pid292978
+title1:A Multiple-Baseline Stereo. citation:984 ncitation:932 pid1032674
+title1:A Multiple-Baseline Stereo. citation:984 ncitation:932 pid1032674
+title1:Intelligent Autonomous Systems. citation:5 ncitation:5 pid1049688
+title1:Intelligent Autonomous Systems. citation:5 ncitation:5 pid1049688

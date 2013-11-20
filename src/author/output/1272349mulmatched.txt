@@ -1,0 +1,172 @@
+title1:Web Service Mining and Verification of Properties: An Approach Based on Event Calculus. citation:38 ncitation:35 pid524425
+title1:Web Service Mining and Verification of Properties: An Approach Based on Event Calculus. citation:38 ncitation:35 pid524425
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Business Process Management. citation:111 ncitation:-1 pid1296910
+title1:Genetic Process Mining. citation:199 ncitation:94 pid45050
+title1:Genetic Process Mining. citation:199 ncitation:94 pid45050
+title1:Genetic Process Mining. citation:199 ncitation:94 pid45050
+title1:Choreography. citation:43 ncitation:-1 pid1296964
+title1:Choreography. citation:43 ncitation:-1 pid1296964
+title1:Composition. citation:15 ncitation:-1 pid1297022
+title1:Composition. citation:15 ncitation:-1 pid1297022
+title1:Composition. citation:15 ncitation:-1 pid1297022
+title1:Designing a Workflow System Using Coloured Petri Nets. citation:11 ncitation:7 pid1287312
+title1:Designing a Workflow System Using Coloured Petri Nets. citation:11 ncitation:7 pid1287312
+title1:Workflow Patterns. citation:2838 ncitation:-1 pid1299656
+title1:Workflow Patterns. citation:2838 ncitation:-1 pid1299656
+title1:Visual Support for Work Assignment in Process-Aware Information Systems. citation:6 ncitation:14 pid68514
+title1:Visual Support for Work Assignment in Process-Aware Information Systems. citation:6 ncitation:14 pid68514
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Petri Nets. citation:29 ncitation:-1 pid1298602
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:Process Mining. citation:58 ncitation:-1 pid1298612
+title1:ProM: The Process Mining Toolkit. citation:29 ncitation:46 pid2777682
+title1:ProM: The Process Mining Toolkit. citation:29 ncitation:46 pid2777682
+title1:Introduction. citation:6 ncitation:-1 pid3168959
+title1:Introduction. citation:6 ncitation:-1 pid3168959
+title1:Business Process Management in the Large. citation:0 ncitation:5 pid3269317
+title1:Business Process Management in the Large. citation:0 ncitation:5 pid3269317
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:141 pid3402366
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process Mining. citation:2 ncitation:1 pid3460944
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512
+title1:Process mining. citation:3 ncitation:-1 pid3466512

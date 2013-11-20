@@ -1,0 +1,37 @@
+title1:Some Results in Computational Topology. citation:45 ncitation:44 pid951713
+title1:Some Results in Computational Topology. citation:45 ncitation:44 pid951713
+title1:Goal-Oriented Requirements Engineering. citation:208 ncitation:-1 pid736556
+title1:Goal-Oriented Requirements Engineering. citation:208 ncitation:-1 pid736556
+title1:From E-R to ``A-R'' - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:53 ncitation:114 pid906048
+title1:From E-R to ``A-R'' - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:53 ncitation:114 pid906048
+title1:Database Design. citation:20 ncitation:-1 pid1297243
+title1:Database Design. citation:20 ncitation:-1 pid1297243
+title1:Information Services for the Web: Building and Maintaining Domain Models. citation:8 ncitation:8 pid906008
+title1:Information Services for the Web: Building and Maintaining Domain Models. citation:8 ncitation:8 pid906008
+title1:Guest Editors' Introduction. citation:65 ncitation:-1 pid875190
+title1:Guest Editors' Introduction. citation:65 ncitation:-1 pid875190
+title1:Editorial. citation:0 ncitation:-1 pid1141864
+title1:Editorial. citation:0 ncitation:-1 pid1141864
+title1:Agent Oriented Software Development. citation:57 ncitation:1 pid521550
+title1:Agent Oriented Software Development. citation:57 ncitation:1 pid521550
+title1:Agent Oriented Software Development. citation:57 ncitation:1 pid521550
+title1:Agent Oriented Software Development. citation:57 ncitation:1 pid521550
+title1:Introduction. citation:0 ncitation:-1 pid760949
+title1:Introduction. citation:0 ncitation:-1 pid760949
+title1:Introduction. citation:0 ncitation:-1 pid760949
+title1:Introduction. citation:0 ncitation:-1 pid760949
+title1:From E-R to "A-R" - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:0 ncitation:114 pid183821
+title1:From E-R to "A-R" - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:0 ncitation:114 pid183821
+title1:From E-R to "A-R" - Modelling Strategic Actor Relationships for Business Process Reengineering. citation:0 ncitation:114 pid183821
+title1:Agent-Oriented Software Development. citation:1278 ncitation:16 pid586014
+title1:Agent-Oriented Software Development. citation:1278 ncitation:16 pid586014
+title1:Introduction. citation:0 ncitation:-1 pid754762
+title1:Introduction. citation:0 ncitation:-1 pid754762
+title1:Introduction. citation:0 ncitation:-1 pid754762
+title1:Introduction. citation:0 ncitation:-1 pid754762
+title1:Requirements Engineering editorial. citation:0 ncitation:-1 pid1051165
+title1:Requirements Engineering editorial. citation:0 ncitation:-1 pid1051165
+title1:The Brave New World of Design Requirements: Four Key Principles. citation:0 ncitation:12 pid2778034
+title1:The Brave New World of Design Requirements: Four Key Principles. citation:0 ncitation:12 pid2778034
+title1:The brave new world of design requirements. citation:23 ncitation:9 pid3071265
+title1:The brave new world of design requirements. citation:23 ncitation:9 pid3071265
